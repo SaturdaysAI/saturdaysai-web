@@ -55,4 +55,6 @@ export function setupFilters({
     update();
     search?.focus();
   });
+  // Respect browser-restored text and input entered before the module finished loading.
+  update();
 }

@@ -28,3 +28,10 @@ Checked on 24 October 2026.
 - The full WordPress archive, private content, comments, search rankings, course platform and current city programme details are outside this pilot.
 - Pages CMS configuration is present and tested against the content fields; its actual GitHub authorization and a hosted editor save must be verified after the owner connects the app.
 - No production DNS, WordPress or custom-domain settings were changed.
+
+## Hosted preview
+
+- First GitHub Actions build and deployment succeeded: run 40108672633.
+- All 22 public content/editor routes returned HTTP 200 with preview noindex metadata. The deliberately unpublished draft and excluded spam path returned HTTP 404.
+- Hosted navigation, author search, combined topic filter and an original article URL were checked in the browser. Article images loaded and no console errors were recorded.
+- Pages CMS redirects to its sign-in screen. Its GitHub App is not installed in SaturdaysAI yet; browser editing remains pending owner sign-in and repository-scoped authorization.
