@@ -1,3 +1,4 @@
+import { matchesSearch, readFilterState, writeFilterState } from '../lib/filter-state.mjs';
 export function setupFilters({
   item,
   noun,
@@ -11,83 +12,107 @@ export function setupFilters({
 }) {
   const items = [...document.querySelectorAll<HTMLElement>(item)];
   const search = document.querySelector<HTMLInputElement>('[data-search-input]');
-  const buttons = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
+  const buttons = [...document.querySelectorAll<HTMLButtonElement>('[data-filter]')];
   const counter = document.querySelector('[data-result-count]');
   const empty = document.querySelector<HTMLElement>('[data-empty]');
-  let category = 'all';
-  let limit = pageSize;
   const more = document.querySelector<HTMLButtonElement>('[data-load-more]');
   const year = document.querySelector<HTMLSelectElement>('[data-year]');
-  const normalize = (s: string) =>
-    s
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .toLocaleLowerCase();
-  function update() {
-    const term = normalize(search?.value || '');
-    let count = 0;
+  const categories = buttons.map((button) => button.dataset.filter || 'all');
+  const years = [...(year?.options || [])].map((option) => option.value);
+  let state = readFilterState(location.search, categories, years, pageSize, items.length);
+  const syncInputs = () => {
+    if (search) search.value = state.query;
+    if (year) year.value = state.year;
+  };
+  const matched = () =>
+    items.filter(
+      (el) =>
+        (state.category === 'all' || el.dataset.category === state.category) &&
+        (!state.year || el.dataset.year === state.year) &&
+        matchesSearch(el.dataset.search || '', state.query),
+    );
+  function update(save = false) {
+    const matches = matched();
+    const visible = new Set(more ? matches.slice(0, state.limit) : matches);
     items.forEach((el) => {
-      const visible =
-        (category === 'all' || el.dataset.category === category) &&
-        (!year?.value || el.dataset.year === year.value) &&
-        normalize(el.dataset.search || '').includes(term);
-      if (visible) count++;
-      el.hidden = !visible || (!!more && count > limit);
+      el.hidden = !visible.has(el);
     });
+    const active = !!state.query.trim() || state.category !== 'all' || !!state.year;
     const singular: Record<string, string> = {
       stories: 'story',
       communities: 'community',
       'learning paths': 'learning path',
+      projects: 'project',
+      episodes: 'episode',
+      resources: 'resource',
     };
     if (counter)
-      counter.textContent = `${count} ${count === 1 ? singular[noun] || noun : noun}${term || category !== 'all' || year?.value ? ' found' : ' to explore'}.${more && count > limit ? ` Showing ${limit}.` : ''}${suffix ? ` ${suffix}` : ''}`;
+      counter.textContent = `${matches.length} ${matches.length === 1 ? singular[noun] || noun : noun}${active ? ' found' : ' to explore'}.${more && matches.length > visible.size ? ` Showing ${visible.size}.` : ''}${suffix ? ` ${suffix}` : ''}`;
     if (more) {
-      more.hidden = count <= limit;
-      more.textContent = `Show ${Math.min(pageSize, Math.max(0, count - limit))} more`;
+      more.hidden = matches.length <= state.limit;
+      more.textContent = `Show ${Math.min(pageSize, Math.max(0, matches.length - state.limit))} more`;
     }
-    if (empty) empty.hidden = count > 0;
+    if (empty) empty.hidden = matches.length > 0;
+    document.querySelectorAll<HTMLElement>('[data-clear-filters]').forEach((el) => {
+      el.hidden = !active;
+    });
+    document.querySelectorAll<HTMLElement>('[data-featured]').forEach((el) => {
+      el.hidden = active;
+    });
     buttons.forEach((button) => {
-      const selected = button.dataset.filter === category;
+      const selected = button.dataset.filter === state.category;
       button.classList.toggle('selected', selected);
       button.setAttribute('aria-pressed', String(selected));
     });
+    if (save) {
+      const query = writeFilterState(location.search, state, pageSize);
+      history.replaceState(
+        history.state,
+        '',
+        `${location.pathname}${query ? '?' + query : ''}${location.hash}`,
+      );
+    }
   }
   buttons.forEach((button) =>
     button.addEventListener('click', () => {
-      category = button.dataset.filter || 'all';
-      limit = pageSize;
-      update();
+      state.category = button.dataset.filter || 'all';
+      state.limit = pageSize;
+      update(true);
     }),
   );
   search?.addEventListener('input', () => {
-    limit = pageSize;
-    update();
+    state.query = search.value;
+    state.limit = pageSize;
+    update(true);
   });
   year?.addEventListener('change', () => {
-    limit = pageSize;
-    update();
+    state.year = year.value;
+    state.limit = pageSize;
+    update(true);
   });
   more?.addEventListener('click', () => {
-    const first = items
-      .filter((x) => x.hidden)
-      .find(
-        (x) =>
-          (category === 'all' || x.dataset.category === category) &&
-          (!year?.value || x.dataset.year === year.value) &&
-          normalize(x.dataset.search || '').includes(normalize(search?.value || '')),
-      );
-    limit += pageSize;
-    update();
-    first?.querySelector<HTMLElement>('a')?.focus();
+    const first = matched()[state.limit];
+    state.limit += pageSize;
+    update(true);
+    first?.querySelector<HTMLElement>('a:not([tabindex="-1"]):not([aria-hidden="true"])')?.focus();
   });
-  document.querySelector('[data-reset]')?.addEventListener('click', () => {
-    category = 'all';
-    if (search) search.value = '';
-    if (year) year.value = '';
-    limit = pageSize;
+  document.querySelectorAll('[data-reset]').forEach((button) =>
+    button.addEventListener('click', () => {
+      state = { query: '', category: 'all', year: '', limit: pageSize };
+      syncInputs();
+      update(true);
+      search?.focus();
+    }),
+  );
+  const restore = () => {
+    state = readFilterState(location.search, categories, years, pageSize, items.length);
+    syncInputs();
     update();
-    search?.focus();
+  };
+  window.addEventListener('popstate', restore);
+  window.addEventListener('pageshow', (event) => {
+    if (event.persisted) restore();
   });
-  // Respect browser-restored text and input entered before the module finished loading.
+  syncInputs();
   update();
 }

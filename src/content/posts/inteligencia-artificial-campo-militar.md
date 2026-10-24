@@ -69,7 +69,7 @@ En resumen, mientras que la IA tiene el potencial de transformar el campo milita
 
 ## Referencias
 
-Vázquez, D. (2023, February 21). _[La IA pone a temblar al mundo: 60 países firman un uso militar responsable](<http://Vázquez, D. \(2023, February 21\). La IA pone a temblar al mundo: 60 países firman un uso militar responsable. Business Insider España; Business Insider España. https://www.businessinsider.es/ia-pone-temblar-mundo-60-paises-firman-uso-militar-responsable-1203952  ‌>)_. Business Insider España.
+Vázquez, D. (2023, February 21). _[La IA pone a temblar al mundo: 60 países firman un uso militar responsable](https://www.businessinsider.es/ia-pone-temblar-mundo-60-paises-firman-uso-militar-responsable-1203952)_. Business Insider España.
 
 ABC. (2023, June 2). _[Un dron militar de EE.UU. controlado por Inteligencia Artificial “mata” a su operador en una simulación](https://www.abc.es/internacional/dron-militar-controlado-inteligencia-militar-mata-operador-20230602070318-nt.html)_. Abc. ABC.es.
 

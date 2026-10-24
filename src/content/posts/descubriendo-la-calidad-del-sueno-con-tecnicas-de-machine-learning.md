@@ -28,7 +28,7 @@ _[Latam online](https://saturdays.ai/latam-online/). Segunda Edición. 2021_
 
 El brote de COVID-19 y las respuestas sociales adoptadas para combatir su propagación (por ejemplo, el confinamiento y el distanciamiento social) han tenido consecuencias de gran alcance, pero han brindando también una oportunidad única para examinar los efectos que el estrés crónico y la incertidumbre pueden tener en los patrones de sueño de la población en general.
 
-Está bien documentado que el sueño puede verse afectado cuando se está bajo estrés y que los cambios en el sueño pueden tener consecuencias negativas en las emociones y el bienestar mental. Un metanálisis reciente mostró que la pandemia de COVID-19[(1)](#rrbb) ha provocado una alta prevalencia de trastornos del sueño, que afectan aproximadamente al 40 % de las personas de la población general.
+Está bien documentado que el sueño puede verse afectado cuando se está bajo estrés y que los cambios en el sueño pueden tener consecuencias negativas en las emociones y el bienestar mental. Un metanálisis reciente mostró que la pandemia de COVID-19[(1)](#section-7) ha provocado una alta prevalencia de trastornos del sueño, que afectan aproximadamente al 40 % de las personas de la población general.
 
 Se sabe que además del estrés debido a la pandemia por COVID-19, hay otros factores que podrían alterar la resiliencia mostrada bajo estrés, por ejemplo,la falta de interacción social, la falta de ejercicio físico, el bienestar económico etc.
 

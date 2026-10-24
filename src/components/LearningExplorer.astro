@@ -28,7 +28,14 @@ const topics = [
   <p>Elige qué te gustaría explorar.</p>
   <div class="topic-cloud" role="group" aria-label="Elige un tema">
     {topics.map((t, i) => (
-      <button type="button" data-topic={i} aria-pressed={i === 0 ? 'true' : 'false'}>
+      <button
+        type="button"
+        data-topic={i}
+        data-name={t.name}
+        data-description={t.description}
+        data-path={url(t.path)}
+        aria-pressed={i === 0 ? 'true' : 'false'}
+      >
         {t.name}
       </button>
     ))}
@@ -40,17 +47,19 @@ const topics = [
     </a>
   </div>
 </section>
-<script define:vars={{ topics: topics.map((t) => ({ ...t, path: url(t.path) })) }}>
-  document.querySelectorAll('[data-topic]').forEach((button) =>
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-topic]').forEach((button) =>
     button.addEventListener('click', () => {
-      const topic = topics[Number(button.dataset.topic)];
       document
         .querySelectorAll('[data-topic]')
         .forEach((b) => b.setAttribute('aria-pressed', String(b === button)));
-      document.querySelector('[data-topic-description]').textContent = topic.description;
-      const link = document.querySelector('[data-topic-link]');
-      link.href = topic.path;
-      link.textContent = 'Explorar ' + topic.name + ' →';
+      const description = document.querySelector('[data-topic-description]');
+      const link = document.querySelector<HTMLAnchorElement>('[data-topic-link]');
+      if (description) description.textContent = button.dataset.description || '';
+      if (link) {
+        link.href = button.dataset.path || '';
+        link.textContent = 'Explorar ' + button.dataset.name + ' →';
+      }
     }),
   );
 </script>

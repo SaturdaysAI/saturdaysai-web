@@ -1,9 +1,15 @@
 import { getCollection } from 'astro:content';
-import { assertUniquePaths, isPublished, withBase } from './content-rules.mjs';
+import {
+  assertUniquePaths,
+  assertPublishedBodies,
+  isPublished,
+  withBase,
+} from './content-rules.mjs';
 export const url = (path: string) => withBase(path, import.meta.env.BASE_URL);
 export async function publishedPosts() {
   const all = await getCollection('posts');
   assertUniquePaths(all);
+  assertPublishedBodies(all);
   return all
     .filter((p) => isPublished(p.data))
     .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());

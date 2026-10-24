@@ -23,7 +23,7 @@ El sector de la IA en Aragón está experimentando un crecimiento exponencial, c
 
 **Programa**: Machine Learning, Deep Learning
 
-[Inscríbete ahora](#registro)
+[Inscríbete ahora](#section-7)
 
 [¿No sabes Python?](https://saturdays.ai/python-4-a-i/)
 
@@ -41,7 +41,7 @@ Comenzaremos en Noviembre y, tras una sesión introductoria y unos cuantos ejemp
 
 Pese al nombre, los grupos de estudio nos reuniremos los viernes de 16:00h a 20:00h en el centro de Zaragoza. De esta forma pretendemos dar las máximas facilidades posibles a todas aquellas personas interesadas en dar sus primeros pasos en el apasionante mundo de la Inteligencia Artificial.
 
-[Conoce el programa en detalle](#programa)
+[Conoce el programa en detalle](#section-8)
 
 ![LAAAB\_entrance](/media/173d16e420f5abbb.webp "LAAAB_entrance")
 

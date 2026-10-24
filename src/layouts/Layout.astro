@@ -5,7 +5,9 @@ import '../styles/brand.css';
 import Brand from '../components/Brand.astro';
 import Icon from '../components/Icon.astro';
 import MediaEnhancement from '../components/MediaEnhancement.astro';
+import { validateSiteData } from '../lib/site-data';
 import { url } from '../lib/content';
+validateSiteData();
 interface Props {
   title?: string;
   description?: string;
@@ -28,6 +30,7 @@ const nav = [
   ['Projects', '/proyectos/'],
   ['Community', '/cities/'],
   ['Stories', '/blog-y-noticias/'],
+  ['Explore', '/explore/'],
 ];
 const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
 ---
@@ -58,11 +61,11 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <slot name="head" />
   </head>
   <body>
-    <a class="skip-link" href="#main">
+    <a class="skip-link" href="#main" lang="en">
       Skip to content
     </a>
     {preview && (
-      <div class="preview-banner">
+      <div class="preview-banner" lang="en">
         <span class="status-dot"></span> A new chapter for Saturdays.AI{' '}
         <span class="preview-label">Design preview</span>
         <a href="https://saturdays.ai/">
@@ -70,7 +73,7 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
         </a>
       </div>
     )}
-    <header class="site-header">
+    <header class="site-header" lang="en">
       <div class="nav-wrap container">
         <Brand />
         <button
@@ -97,11 +100,32 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
         </nav>
       </div>
     </header>
-    <main id="main">
+    <noscript>
+      <style is:inline>
+        @media (max-width: 800px) {
+          .nav-wrap {
+            height: auto;
+            flex-wrap: wrap;
+            padding-block: 12px;
+          }
+          .menu-toggle {
+            display: none;
+          }
+          #site-nav {
+            display: flex;
+            position: static;
+            width: 100%;
+            box-shadow: none;
+            padding: 12px 0;
+          }
+        }
+      </style>
+    </noscript>
+    <main id="main" tabindex="-1">
       <slot />
     </main>
     <MediaEnhancement />
-    <footer class="site-footer">
+    <footer class="site-footer" lang="en">
       <div class="container footer-top">
         <div>
           <Brand />
@@ -142,7 +166,7 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
       <div class="container footer-bottom">
         <span>© {new Date().getFullYear()} Saturdays.AI. Built together.</span>
         <div>
-          <a href={url('/privacy-policy/')}>Privacy</a>
+          <a href={url('/privacy-policy-2/')}>Privacy</a>
           <a href={url('/terms/')}>Terms</a>
           <a href={url('/admin/')}>
             Editor access <Icon name="northeast" size={13} />
@@ -175,6 +199,7 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
           close();
       });
       nav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', close));
+      matchMedia('(min-width: 801px)').addEventListener('change', close);
       if (
         !matchMedia('(prefers-reduced-motion: reduce)').matches &&
         'IntersectionObserver' in window

@@ -1,0 +1,43 @@
+---
+interface Props {
+  items: { id: string; text: string }[];
+  label: string;
+}
+const { items, label } = Astro.props;
+---
+
+{items.length > 0 && (
+  <details class="contents-disclosure" data-contents open>
+    <summary>
+      {label}
+      <span aria-hidden="true">⌄</span>
+    </summary>
+    <nav aria-label={label}>
+      {items.map((item) => (
+        <a href={`#${item.id}`} set:html={item.text} />
+      ))}
+    </nav>
+  </details>
+)}
+<script>
+  const narrow = matchMedia('(max-width: 1000px)');
+  const lists = document.querySelectorAll<HTMLDetailsElement>('[data-contents]');
+  const update = () =>
+    lists.forEach((list) => {
+      list.open = !narrow.matches;
+    });
+  update();
+  narrow.addEventListener('change', update);
+  lists.forEach((list) =>
+    list.querySelectorAll('a').forEach((link) =>
+      link.addEventListener('click', () => {
+        if (narrow.matches) list.open = false;
+        const target = document.getElementById(link.hash.slice(1));
+        if (target) {
+          target.tabIndex = -1;
+          target.focus({ preventScroll: true });
+        }
+      }),
+    ),
+  );
+</script>

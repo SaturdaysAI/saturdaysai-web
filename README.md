@@ -7,6 +7,7 @@ Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and 
 - [Migration inventory and limitations](docs/MIGRATION.md)
 - [Brand sources and rules](docs/BRAND.md)
 - [Validation record](docs/QA.md)
+- [Design and usability review](docs/REVIEW.md)
 
 ## Run and maintain
 
@@ -25,6 +26,8 @@ The development preview is http://127.0.0.1:4321/. Verification checks types, pu
 The public snapshot contains 162 posts (including 41 podcast episodes), 63 legitimate pages and 23 city communities. All original post/page paths are preserved after the preview prefix. Category, tag and date archives provide additional routes.
 
 The design uses the supplied logo, Montserrat and the official orange, navy, blue and white palette. Search and topic/year filters, progressive article lists, a city finder, resource directory, learning selector, reading progress, subtle motion and click-to-load media keep the site useful without a large application framework. Images and fonts are served locally. Basic reading and navigation work without JavaScript. Reduced-motion settings are respected.
+
+Search URLs preserve filters and expanded results when shared or revisited. Reading contents collapse on phones. Shared rendering removes empty imported headings, preserves section destinations and reserves image proportions. Validation rejects empty published articles, broken local references and unsafe editor destinations before deployment.
 
 Pricing, fees, discounts, donation requests and economic messaging are removed from general and city pages. Blog articles preserve their original economic content. Spam records and injected spam links are excluded. Older programme details are labelled as historical; local teams confirm current availability.
 

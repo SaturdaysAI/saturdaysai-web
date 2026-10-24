@@ -42,7 +42,7 @@ Fabian Ignacio, más conocido como Norero.ve en Instagram y TikTok, donde tiene 
 
 Pablo Talavante, un experto en inteligencia artificial y aprendizaje automático, ofrece una perspectiva innovadora sobre la integración de la IA en el arte, comparable a revoluciones pasadas como la fotografía, resaltando su potencial para desbloquear nuevas formas de expresión creativa. Al abordar temas clave como «Inteligencia Artificial en el Arte» y «Derechos de Autor en la Era Digital», Talavante plantea preocupaciones sobre la transparencia y la legislación en el entrenamiento de modelos de IA, un tópico relevante para la audiencia interesada en «Innovación en Arte Digital». Subraya la importancia de la intencionalidad en la creación artística, independientemente de las herramientas utilizadas, lo que resuena con los temas de «Creatividad y Tecnología». Su enfoque en la democratización del arte a través de la IA y la necesidad de equilibrar innovación con respeto a los derechos de autor refleja una comprensión profunda de las complejidades del arte en la era digital, ofreciendo una visión crítica y reflexiva que enriquece el debate sobre cómo la IA está reconfigurando el panorama artístico contemporáneo.
 
-[Aquí](https://saturdays.ai/wp-admin/post.php?post=9945&action=edit#post-sidebar-layout-tab) puedes leer más sobre lo que opina Talavante sobre arte y inteligencia artificial.
+[Aquí](https://saturdays.ai/2023/11/27/redefiniendo-arte-era-ia-pablo-talavante/) puedes leer más sobre lo que opina Talavante sobre arte y inteligencia artificial.
 
 ## **Sergi Calsina: Enfoque Humano en el Arte**
 

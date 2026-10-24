@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import FilterStatus from '../components/FilterStatus.astro';
 import Icon from '../components/Icon.astro';
 import { url } from '../lib/content';
 import cityData from '../data/cities.json';
@@ -41,9 +42,7 @@ const cities = cityData.cities.filter((c) => !c.draft);
         <input type="search" placeholder="Find your city or country…" data-search-input />
       </label>
     </div>
-    <p class="result-count" data-result-count aria-live="polite">
-      {cities.length} communities to explore.
-    </p>
+    <FilterStatus text={`${cities.length} communities to explore.`} />
     <noscript>
       <p class="no-js-note">
         All communities are listed below. Search and region filters require JavaScript.
@@ -58,9 +57,25 @@ const cities = cityData.cities.filter((c) => !c.draft);
           data-category={c.region}
           data-search={`${c.name} ${c.country} ${c.region}`}
         >
-          <div class="city-card-image">
-            {c.image ? (
-              <img src={url(c.image)} alt={c.name} width="600" height="450" loading="lazy" />
+          <div class:list={['city-card-image', { 'city-logo-card': !!c.logo }]}>
+            {c.logo ? (
+              <img
+                src={url(c.logo)}
+                alt=""
+                width="420"
+                height="260"
+                loading="lazy"
+                decoding="async"
+              />
+            ) : c.image ? (
+              <img
+                src={url(c.image)}
+                alt=""
+                width="600"
+                height="450"
+                loading="lazy"
+                decoding="async"
+              />
             ) : (
               <div class="city-placeholder">
                 <Icon name="globe" />
@@ -89,8 +104,8 @@ const cities = cityData.cities.filter((c) => !c.draft);
       <span class="eyebrow">MAKE THE FIRST CONNECTION</span>
       <h2>Don’t see your city?</h2>
       <p>Bring a community together around a shared curiosity for AI.</p>
-      <a class="button button-dark" href="https://saturdays.ai/create-your-own-ai-saturdays/">
-        Start a community <Icon name="northeast" size={18} />
+      <a class="button button-dark" href={url('/create-your-own-ai-saturdays/')}>
+        Start a community <Icon name="arrow" size={18} />
       </a>
     </section>
   </div>

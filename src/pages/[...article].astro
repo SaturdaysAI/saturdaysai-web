@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Icon from '../components/Icon.astro';
+import TableOfContents from '../components/TableOfContents.astro';
 import PostCard from '../components/PostCard.astro';
 import { publishedPosts, url, dateLabel, readingTime } from '../lib/content';
 import { renderContent } from '../lib/render-content';
@@ -53,6 +54,59 @@ const initials = (p?.author || '')
   .slice(0, 2)
   .map((x) => x[0])
   .join('');
+const copy = {
+  en: {
+    breadcrumb: 'Breadcrumb',
+    home: 'Home',
+    projects: 'Projects',
+    blog: 'Blog & news',
+    minutes: 'min read',
+    contents: 'In this article',
+    tools: 'Reading tools',
+    copy: 'Copy link',
+    success: 'Link copied.',
+    error: 'Copy the address from your browser.',
+    comments: 'Archived comments',
+    origin: 'A story from the Saturdays.AI community. Originally published on',
+    more: 'More community stories',
+    explore: 'KEEP EXPLORING',
+    related: 'More ideas from the community.',
+  },
+  es: {
+    breadcrumb: 'Ruta de navegación',
+    home: 'Inicio',
+    projects: 'Proyectos',
+    blog: 'Blog y noticias',
+    minutes: 'min de lectura',
+    contents: 'En este artículo',
+    tools: 'Herramientas de lectura',
+    copy: 'Copiar enlace',
+    success: 'Enlace copiado.',
+    error: 'Copia la dirección desde tu navegador.',
+    comments: 'Comentarios del archivo',
+    origin: 'Una historia de la comunidad Saturdays.AI. Publicada originalmente el',
+    more: 'Más historias de la comunidad',
+    explore: 'SIGUE EXPLORANDO',
+    related: 'Más ideas de la comunidad.',
+  },
+  pt: {
+    breadcrumb: 'Navegação',
+    home: 'Início',
+    projects: 'Projetos',
+    blog: 'Blog e notícias',
+    minutes: 'min de leitura',
+    contents: 'Neste artigo',
+    tools: 'Ferramentas de leitura',
+    copy: 'Copiar ligação',
+    success: 'Ligação copiada.',
+    error: 'Copie o endereço do seu navegador.',
+    comments: 'Comentários do arquivo',
+    origin: 'Uma história da comunidade Saturdays.AI. Publicada originalmente em',
+    more: 'Mais histórias da comunidade',
+    explore: 'CONTINUE A EXPLORAR',
+    related: 'Mais ideias da comunidade.',
+  },
+}[p?.language || 'en'];
 const structured = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -89,18 +143,20 @@ const structured = {
       <div class="reading-progress" aria-hidden="true"></div>
       <article>
         <header class="container article-header">
-          <nav class="breadcrumb" aria-label="Ruta de navegación">
-            <a href={url('/')}>Inicio</a>
+          <nav class="breadcrumb" aria-label={copy.breadcrumb}>
+            <a href={url('/')}>{copy.home}</a>
             <span aria-hidden="true">/</span>
             <a href={url(p.kind === 'project' ? '/proyectos/' : '/blog-y-noticias/')}>
-              {p.kind === 'project' ? 'Proyectos' : 'Blog y noticias'}
+              {p.kind === 'project' ? copy.projects : copy.blog}
             </a>
             <span aria-hidden="true">/</span>
             <span>{p.category}</span>
           </nav>
           <div class="post-meta">
             <span class="tag">{p.category}</span>
-            <span>{readingTime(post.body)} min de lectura</span>
+            <span>
+              {readingTime(post.body)} {copy.minutes}
+            </span>
             <span>{{ es: 'Español', en: 'English', pt: 'Português' }[p.language]}</span>
           </div>
           <h1>{p.title}</h1>
@@ -111,7 +167,7 @@ const structured = {
             </span>
             <div>
               <strong>{p.author}</strong>
-              <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate, 'es')}</time>
+              <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate, p.language)}</time>
             </div>
           </div>
         </header>
@@ -119,7 +175,7 @@ const structured = {
           <figure class="container article-cover">
             <img
               src={url(p.image)}
-              alt={p.imageAlt}
+              alt={p.imageAlt || p.title}
               width="1440"
               height="900"
               fetchpriority="high"
@@ -127,11 +183,24 @@ const structured = {
           </figure>
         )}
         <div class="container article-shell">
-          <div>
+          <aside class="article-aside reading-navigation" aria-label={copy.tools}>
+            <TableOfContents items={toc} label={copy.contents} />
+            <button
+              class="button button-outline"
+              data-copy-link
+              data-success={copy.success}
+              data-error={copy.error}
+            >
+              <Icon name="copy" size={16} />
+              {copy.copy}
+            </button>
+            <span class="copy-status" role="status" data-copy-status></span>
+          </aside>
+          <div class="reading-body">
             <div class="prose" set:html={html} />
             {archivedComments.length > 0 && (
               <section class="archived-comments">
-                <h2>Comentarios del archivo</h2>
+                <h2>{copy.comments}</h2>
                 {archivedComments.map((c) => (
                   <blockquote id={`comment-${c.id}`}>
                     <p>{c.body}</p>
@@ -144,37 +213,19 @@ const structured = {
             )}
             <div class="article-end">
               <p>
-                Una historia de la comunidad Saturdays.AI. Publicada originalmente el{' '}
-                {dateLabel(p.pubDate, 'es')}.
+                {copy.origin} {dateLabel(p.pubDate, p.language)}.
               </p>
-              <a href={url('/blog-y-noticias/')}>← Más historias de la comunidad</a>
+              <a href={url('/blog-y-noticias/')}>← {copy.more}</a>
             </div>
           </div>
-          <aside class="article-aside" aria-label="Herramientas de lectura">
-            {toc.length > 0 && (
-              <>
-                <h2>En este artículo</h2>
-                <nav>
-                  {toc.slice(0, 18).map((h) => (
-                    <a href={`#${h.id}`} set:html={h.text} />
-                  ))}
-                </nav>
-              </>
-            )}
-            <button class="button button-outline" data-copy-link>
-              <Icon name="copy" size={16} />
-              Copiar enlace
-            </button>
-            <span class="copy-status" role="status" data-copy-status></span>
-          </aside>
         </div>
       </article>
       {related.length > 0 && (
         <section class="container related-section">
           <div class="section-heading">
             <div>
-              <span class="eyebrow">SIGUE EXPLORANDO</span>
-              <h2>Más ideas de la comunidad.</h2>
+              <span class="eyebrow">{copy.explore}</span>
+              <h2>{copy.related}</h2>
             </div>
           </div>
           <div class="post-grid">
@@ -188,19 +239,38 @@ const structured = {
         const progress = document.querySelector<HTMLElement>('.reading-progress');
         const update = () => {
           if (progress) {
-            const max = document.documentElement.scrollHeight - innerHeight;
-            progress.style.width = `${max > 0 ? Math.min(100, (scrollY / max) * 100) : 0}%`;
+            const body = document.querySelector('.reading-body');
+            if (!body) return;
+            const box = body.getBoundingClientRect();
+            const start = box.top + scrollY - 120;
+            const distance = Math.max(1, box.height - innerHeight + 120);
+            progress.style.width = `${Math.max(0, Math.min(100, ((scrollY - start) / distance) * 100))}%`;
           }
         };
         window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update);
+        const readingBody = document.querySelector('.reading-body');
+        if (readingBody) new ResizeObserver(update).observe(readingBody);
         update();
-        document.querySelector('[data-copy-link]')?.addEventListener('click', async () => {
+        const copyButton = document.querySelector<HTMLButtonElement>('[data-copy-link]');
+        copyButton?.addEventListener('click', async () => {
           const status = document.querySelector('[data-copy-status]');
+          if (status) status.textContent = `${copyButton.textContent?.trim()}…`;
+          copyButton.disabled = true;
+          let timeout: ReturnType<typeof setTimeout> | undefined;
           try {
-            await navigator.clipboard.writeText(location.href);
-            if (status) status.textContent = 'Enlace copiado.';
+            await Promise.race([
+              navigator.clipboard.writeText(location.href),
+              new Promise<never>((_, reject) => {
+                timeout = setTimeout(() => reject(new Error('Clipboard unavailable')), 3000);
+              }),
+            ]);
+            if (status) status.textContent = copyButton.dataset.success || '';
           } catch {
-            if (status) status.textContent = 'Copia la dirección desde tu navegador.';
+            if (status) status.textContent = copyButton.dataset.error || '';
+          } finally {
+            clearTimeout(timeout);
+            copyButton.disabled = false;
           }
         });
       </script>

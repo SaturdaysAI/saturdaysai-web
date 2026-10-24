@@ -6,6 +6,7 @@ import type { CollectionEntry } from 'astro:content';
 import LearningExplorer from './LearningExplorer.astro';
 import PostCard from './PostCard.astro';
 import { publishedPosts } from '../lib/content';
+import TableOfContents from './TableOfContents.astro';
 interface Props {
   page: CollectionEntry<'pages'>;
 }
@@ -56,13 +57,19 @@ const copy =
       )}
     </section>
     {oldProgramme && (
-      <p class="archive-notice">
+      <p class="archive-notice" lang="en">
         This page includes programme information from our community archive. Contact the team to
         confirm current dates, availability and requirements.
       </p>
     )}
     <div class="document-shell">
-      <div>
+      <aside class="document-toc reading-navigation">
+        <TableOfContents items={toc} label={copy.toc} />
+        <a class="more-resources" href={url('/explore/')}>
+          {copy.more} →
+        </a>
+      </aside>
+      <div class="reading-body">
         {p.legacyPath === '/aprende-ai-en-remoto/' ? (
           <LearningExplorer />
         ) : (
@@ -109,13 +116,6 @@ const copy =
           </>
         )}
       </div>
-      <aside class="document-toc">
-        <h2>{copy.toc}</h2>
-        {toc.slice(0, 22).map((t) => (
-          <a href={`#${t.id}`} set:html={t.text} />
-        ))}
-        <a href={url('/explore/')}>{copy.more} →</a>
-      </aside>
     </div>
   </div>
 </Layout>

@@ -38,6 +38,33 @@ export function assertDistinctRoutes(paths) {
   }
 }
 export function withBase(path, base = '/') {
-  if (/^(https?:|mailto:|#)/.test(path)) return path;
+  if (/^(https?:|mailto:|tel:|#)/.test(path)) return path;
   return `${base.replace(/\/$/, '')}/${path.replace(/^\//, '')}`;
+}
+export function assertSafeLink(value) {
+  if (typeof value !== 'string' || /[\u0000-\u001f\\]/.test(value)) throw new Error('Invalid link');
+  if (value.startsWith('/')) {
+    const decoded = decodeURIComponent(value);
+    if (decoded.startsWith('//') || /[\u0000-\u001f\\]/.test(decoded) || decoded.includes('..'))
+      throw new Error(`Invalid local link: ${value}`);
+    return;
+  }
+  const parsed = new URL(value);
+  if (
+    !['https:', 'mailto:', 'tel:'].includes(parsed.protocol) ||
+    parsed.username ||
+    parsed.password
+  )
+    throw new Error(`Unsupported link destination: ${value}`);
+  if (parsed.protocol === 'https:' && !parsed.hostname) throw new Error('Missing link hostname');
+  if (['mailto:', 'tel:'].includes(parsed.protocol) && !parsed.pathname)
+    throw new Error('Missing contact destination');
+}
+export function assertPublishedBodies(entries, now = new Date()) {
+  for (const entry of entries) {
+    if (isPublished(entry.data, now) && !entry.body?.trim())
+      throw new Error(
+        `Published article needs content: ${entry.data.legacyPath}. Keep Draft enabled while writing.`,
+      );
+  }
 }

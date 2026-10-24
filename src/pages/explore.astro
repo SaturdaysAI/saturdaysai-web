@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import FilterStatus from '../components/FilterStatus.astro';
 import Icon from '../components/Icon.astro';
 import { getCollection } from 'astro:content';
 import { url, publishedPosts } from '../lib/content';
@@ -33,7 +34,7 @@ const group = (path: string) =>
           <span>articles and projects</span>
         </a>
         <a href={url('/cities/')}>
-          <strong>{cities.cities.length}</strong>
+          <strong>{cities.cities.filter((city) => !city.draft).length}</strong>
           <span>local communities</span>
         </a>
         <a href={url('/podcast/')}>
@@ -60,9 +61,7 @@ const group = (path: string) =>
         <input type="search" data-search-input placeholder="Find a programme or resource…" />
       </label>
     </div>
-    <p class="result-count" data-result-count aria-live="polite">
-      {pages.length} resources
-    </p>
+    <FilterStatus text={`${pages.length} resources to explore.`} />
     <div class="resource-grid">
       {pages.map((p) => (
         <a

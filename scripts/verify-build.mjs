@@ -19,6 +19,9 @@ const htmlFiles = files.filter((x) => x.endsWith('.html'));
 const known = new Set(files.map((p) => path.relative(root, p).split(path.sep).join('/')));
 const errors = [];
 let checked = 0;
+let imageDimensionsChecked = 0;
+const documentIds = new Map();
+const fragmentLinks = [];
 const manifest = JSON.parse(await readFile('imports/manifest.json', 'utf8'));
 for (const post of manifest.posts)
   assert.ok(known.has(`${post.path.slice(1)}index.html`), `Missing legacy route: ${post.path}`);
@@ -36,6 +39,34 @@ for (const file of htmlFiles) {
   const text = await readFile(file, 'utf8');
   const $ = cheerio.load(text);
   const rel = path.relative(root, file).split(path.sep).join('/');
+  const ids = new Set();
+  $('[id]').each((_, el) => {
+    const id = $(el).attr('id');
+    if (ids.has(id)) errors.push(`${rel}: duplicate ID ${id}`);
+    ids.add(id);
+  });
+  documentIds.set(rel, ids);
+  $('h1,h2,h3,h4,h5,h6').each((_, el) => {
+    if (!$(el).text().trim()) errors.push(`${rel}: empty heading`);
+  });
+  $('a[href]').each((_, el) => {
+    const link = $(el);
+    const href = link.attr('href');
+    if (!link.text().trim() && !link.attr('aria-label') && !link.find('img[alt],svg').length)
+      errors.push(`${rel}: link without an accessible name ${href}`);
+    if (/\/wp-admin\//.test(href)) errors.push(`${rel}: WordPress editor link`);
+    const current = new URL(base + '/' + rel.replace(/index\.html$/, ''), siteOrigin);
+    try {
+      const target = new URL(href, current);
+      if (target.origin !== current.origin || !target.hash || target.hash.startsWith('#:~:text='))
+        return;
+      let file = decodeURIComponent(target.pathname).slice(base.length).replace(/^\//, '');
+      if (file === '' || file.endsWith('/')) file += 'index.html';
+      fragmentLinks.push({ from: rel, file, id: decodeURIComponent(target.hash.slice(1)) });
+    } catch {
+      errors.push(`${rel}: invalid link ${href}`);
+    }
+  });
   if ($('h1').length !== 1) errors.push(`${rel}: expected one h1`);
   if (!$('title').text() || !$('meta[name=description]').attr('content'))
     errors.push(`${rel}: missing SEO metadata`);
@@ -73,7 +104,7 @@ for (const file of htmlFiles) {
   $('a[href],img[src],script[src],link[href]').each((_, el) => {
     const attr = el.name === 'img' || el.name === 'script' ? 'src' : 'href';
     const value = $(el).attr(attr) || '';
-    if (/^(https?:|mailto:|data:|#)/.test(value) || !value) return;
+    if (/^(https?:|mailto:|tel:|data:|#)/.test(value) || !value) return;
     if (!value.startsWith('/')) return;
     if (base && !(value === base || value.startsWith(base + '/'))) {
       errors.push(`${rel}: missing base prefix ${value}`);
@@ -87,12 +118,21 @@ for (const file of htmlFiles) {
   $('.prose img').each((_, img) => {
     if (!($(img).attr('src') || '').startsWith(base + '/media/'))
       errors.push(`${rel}: remote article image`);
+    if (!(Number($(img).attr('width')) > 0 && Number($(img).attr('height')) > 0))
+      errors.push(`${rel}: image without layout dimensions ${$(img).attr('src')}`);
+    imageDimensionsChecked++;
   });
   $('.prose script,.prose iframe,.prose form').each(() =>
     errors.push(`${rel}: unsafe embedded element`),
   );
 }
+for (const link of fragmentLinks) {
+  if (documentIds.has(link.file) && !documentIds.get(link.file).has(link.id))
+    errors.push(`${link.from}: missing section ${link.file}#${link.id}`);
+}
 const feed = await readFile(path.join(root, 'feed.xml'), 'utf8');
+const rss = cheerio.load(feed, { xmlMode: true });
+assert.equal(rss('channel > link').text(), siteOrigin.replace(/\/$/, '') + base + '/');
 for (const post of manifest.posts)
   assert.ok(feed.includes(base + post.path), `Missing RSS article ${post.path}`);
 for (const name of ['feed.xml', 'sitemap-0.xml'])
@@ -112,6 +152,8 @@ console.log(
       htmlPages: htmlFiles.length,
       legacyArticles: manifest.posts.length,
       localReferencesChecked: checked,
+      fragmentLinksChecked: fragmentLinks.length,
+      imageDimensionsChecked,
       siteMB: +(bytes / 1024 ** 2).toFixed(2),
       base: base || '/',
       result: 'PASS',

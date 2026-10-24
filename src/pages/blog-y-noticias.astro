@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import FilterStatus from '../components/FilterStatus.astro';
 import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
 import { publishedPosts, url } from '../lib/content';
@@ -25,24 +26,6 @@ const featured = posts[0];
         community, in their own words.
       </p>
     </section>
-    {featured && (
-      <a class="featured-story" href={url(featured.data.legacyPath)}>
-        <img
-          src={url(featured.data.image || '/social-card.svg')}
-          alt={featured.data.imageAlt}
-          width="720"
-          height="450"
-        />
-        <div>
-          <span class="eyebrow">THE LATEST FROM OUR COMMUNITY</span>
-          <h2>{featured.data.title}</h2>
-          <p>{featured.data.description}</p>
-          <span class="text-link">
-            Read the story <Icon name="arrow" size={18} />
-          </span>
-        </div>
-      </a>
-    )}
     <div class="listing-tools" data-filters>
       <div class="filter-pills" aria-label="Filter stories by topic">
         {['All stories', 'Community', 'AI for good', 'Build with AI', 'Podcast'].map((c, i) => (
@@ -64,15 +47,32 @@ const featured = posts[0];
     <label class="sr-only" for="year">
       Filter by year
     </label>
-    <select id="year" data-year class="filter-select">
+    <select id="year" data-year class="filter-select" aria-label="Filter by year">
       <option value="">All years</option>
       {years.map((year) => (
         <option value={year}>{year}</option>
       ))}
     </select>
-    <p class="result-count" data-result-count aria-live="polite">
-      {posts.length} stories, projects and conversations in our archive.
-    </p>
+    <FilterStatus text={`${posts.length} stories to explore.`} />
+    {featured && (
+      <a class="featured-story" data-featured href={url(featured.data.legacyPath)}>
+        <img
+          src={url(featured.data.image || '/social-card.svg')}
+          alt={featured.data.imageAlt}
+          width="720"
+          height="450"
+        />
+        <div>
+          <span class="eyebrow">THE LATEST FROM OUR COMMUNITY</span>
+          <h2 lang={featured.data.language}>{featured.data.title}</h2>
+          <p lang={featured.data.language}>{featured.data.description}</p>
+          <span class="text-link">
+            Read the story <Icon name="arrow" size={18} />
+          </span>
+        </div>
+      </a>
+    )}
+
     <noscript>
       <p class="no-js-note">
         All stories are shown below. Search and topic filters require JavaScript.

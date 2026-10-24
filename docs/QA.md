@@ -5,8 +5,8 @@ Checked on 24 October 2026.
 ## Automated
 
 - Astro type checking: zero errors, warnings or hints.
-- Nine tests cover drafts/future dates, safe and unique paths, cross-collection collisions, project subpaths, full source reconciliation, tutorial-code preservation, CMS field coverage and economic-content rules.
-- Final GitHub Pages build: 457 HTML pages, 162 original article routes, 19,955 local link/asset references checked, approximately 83.6 MB. Result: PASS.
+- 17 tests cover drafts/future dates, safe and unique paths, cross-collection collisions, project subpaths, full source reconciliation, tutorial-code preservation, CMS field coverage, economic-content rules, URL filter restoration, sanitized rendering, image layout dimensions and safe editor destinations.
+- Final GitHub Pages build: 457 HTML pages, 162 original article routes, 20,415 local link/asset references, 2,064 fragment links and 1,998 article-image dimensions checked, approximately 84.1 MB. Result: PASS.
 - Domain-root build was also checked during migration; final deployment build uses `/saturdaysai-web` and the GitHub Pages origin.
 - All 162 posts and 63 legitimate source page paths exist. Spam, injected links, both test drafts and unsafe article embeds are absent from the generated site.
 - Canonical URLs, metadata, preview noindex, robots policy, complete RSS and draft-free sitemap checked.
@@ -15,13 +15,13 @@ Checked on 24 October 2026.
 
 ## Browser checks
 
-- Desktop at 1440 pixels, phone at 390 pixels and the browser's intermediate size.
+- Desktop at 1440 pixels, phone at 390 and 320 pixels, and intermediate navigation at 900 pixels.
 - Homepage layout, official logo, mobile navigation, interest selector and community imagery checked.
 - Blog: 162 entries, 12 initially displayed. Podcast topic yields 41; Show more expands to 24. Year and text filters combine; empty state and reset restore the expected results.
 - Madrid: original city logo, images and expanded historical content load; no economic copy or horizontal overflow in the phone check.
 - Partners page and migrated article layouts checked on mobile.
 - Podcast article: no iframe initially; pressing Play creates the correct Acast player, with the original external link retained. No console errors recorded in the checked flow.
-- Previous pilot checks also covered accent-insensitive city search, course filters, Escape menu handling and article link copying; these shared controls remain in place.
+- This review also exercised accent-insensitive city search, course filters, Escape menu handling, shared search URLs, reload/back restoration, keyboard pagination focus, mobile contents and 404 search recovery. See REVIEW.md for the findings and changes.
 - Targeted checks do not constitute a formal WCAG certification or a manual audit of every external link and historical article.
 
 ## Pages CMS end-to-end test

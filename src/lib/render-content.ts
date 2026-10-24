@@ -1,9 +1,34 @@
-import { marked } from 'marked';
-import sanitizeHtml from 'sanitize-html';
 import { getCollection } from 'astro:content';
+import sharp from 'sharp';
+import path from 'node:path';
 import { url } from './content';
+import { isPublished } from './content-rules.mjs';
+import { renderMarkdown } from './markdown.mjs';
 import taxonomies from '../data/taxonomies.json';
 import manifest from '../../imports/manifest.json';
+const sizes = new Map<string, Promise<{ width: number; height: number } | null>>();
+const imageInfo = (src: string) => {
+  if (!sizes.has(src))
+    sizes.set(
+      src,
+      (async () => {
+        const prefix = import.meta.env.BASE_URL.replace(/\/$/, '');
+        let local = src.startsWith(prefix + '/media/') ? src.slice(prefix.length) : src;
+        if (!local.startsWith('/media/')) return null;
+        try {
+          local = decodeURIComponent(local.split(/[?#]/)[0]);
+          const root = path.resolve('public/media');
+          const file = path.resolve('public', local.slice(1));
+          if (!file.startsWith(root + path.sep)) return null;
+          const { width, height } = await sharp(file).metadata();
+          return width && height ? { width, height } : null;
+        } catch {
+          return null;
+        }
+      })(),
+    );
+  return sizes.get(src)!;
+};
 export async function renderContent(body = '', galleries = false) {
   const posts = await getCollection('posts');
   const pages = await getCollection('pages');
@@ -11,10 +36,13 @@ export async function renderContent(body = '', galleries = false) {
     '/',
     '/explore/',
     '/podcast/',
-    ...posts.filter((p) => !p.data.draft).map((p) => p.data.legacyPath),
+    ...posts.filter((p) => isPublished(p.data)).map((p) => p.data.legacyPath),
     ...pages.filter((p) => !p.data.draft).map((p) => p.data.legacyPath),
     ...taxonomies.map((t) => t.path),
   ]);
+  const bySource = new Map(
+    posts.filter((p) => isPublished(p.data)).map((p) => [p.data.sourceId, p.data.legacyPath]),
+  );
   const media = new Map(manifest.assets.map((a) => [a.original, a.path]));
   const rewrite = (href: string) => {
     if (href.startsWith('#')) return href;
@@ -23,61 +51,15 @@ export async function renderContent(body = '', galleries = false) {
     try {
       const parsed = new URL(href, 'https://saturdays.ai');
       const normalized = parsed.pathname.endsWith('/') ? parsed.pathname : parsed.pathname + '/';
-      if (['saturdays.ai', 'www.saturdays.ai'].includes(parsed.hostname) && paths.has(normalized))
-        return url(normalized) + parsed.search + parsed.hash;
+      if (['saturdays.ai', 'www.saturdays.ai'].includes(parsed.hostname)) {
+        if (parsed.pathname === '/wp-admin/post.php') {
+          const target = bySource.get(Number(parsed.searchParams.get('post')));
+          return target ? url(target) : url('/blog-y-noticias/');
+        }
+        if (paths.has(normalized)) return url(normalized) + parsed.search + parsed.hash;
+      }
     } catch {}
     return href;
   };
-  let html = sanitizeHtml(await marked.parse(body, { gfm: true }), {
-    allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-      'img',
-      'figure',
-      'figcaption',
-      'h1',
-      'details',
-      'summary',
-    ]),
-    allowedAttributes: {
-      a: ['href', 'title', 'rel'],
-      img: ['src', 'alt', 'loading', 'decoding'],
-      code: ['class'],
-      th: ['colspan'],
-      td: ['colspan'],
-    },
-    allowedSchemes: ['https', 'http', 'mailto', 'tel'],
-    transformTags: {
-      a: (_, attrs) => ({
-        tagName: 'a',
-        attribs: { ...attrs, href: rewrite(attrs.href || ''), rel: 'noopener noreferrer' },
-      }),
-      img: (_, attrs) => ({
-        tagName: 'img',
-        attribs: {
-          src: rewrite(attrs.src || ''),
-          alt: attrs.alt || '',
-          loading: 'lazy',
-          decoding: 'async',
-        },
-      }),
-    },
-  });
-  const toc: { id: string; text: string }[] = [];
-  html = html.replace(/<h([1-4])>([\s\S]*?)<\/h\1>/g, (_, level, content) => {
-    const text = sanitizeHtml(content, { allowedTags: [], allowedAttributes: {} });
-    const id = `section-${toc.length + 1}`;
-    toc.push({ id, text });
-    const tag = level === '1' ? 'h2' : `h${level}`;
-    return `<${tag} id="${id}">${content}</${tag}>`;
-  });
-  html = html.replace(
-    /<a href="([^"]+)"([^>]*)>\s*(<img[^>]*alt=""[^>]*\/?>)\s*<\/a>/g,
-    (_, href, rest, img) =>
-      `<a href="${href}"${rest} aria-label="View linked image or resource">${img}</a>`,
-  );
-  if (galleries)
-    html = html.replace(
-      /(?:<p>\s*(?:<a[^>]*>)?<img\b[^>]*>(?:<\/a>)?\s*<\/p>\s*){2,}/g,
-      (group) => `<div class="content-gallery">${group}</div>`,
-    );
-  return { html, toc };
+  return renderMarkdown(body, { rewrite, imageInfo, galleries });
 }

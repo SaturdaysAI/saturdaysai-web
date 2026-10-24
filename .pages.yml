@@ -94,6 +94,7 @@ content:
       - name: body
         label: Article
         type: rich-text
+        required: true
         options:
           format: markdown
       - name: sourceUrl
@@ -276,6 +277,7 @@ content:
             label: Course destination
             type: string
             required: true
+            description: Use a local path such as /curso-ia-generativa/ or a complete HTTPS link to the learning platform.
           - name: language
             type: string
           - name: topic

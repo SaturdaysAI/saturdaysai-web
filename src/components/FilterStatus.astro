@@ -1,0 +1,15 @@
+---
+interface Props {
+  text: string;
+}
+const { text } = Astro.props;
+---
+
+<div class="result-bar">
+  <p class="result-count" data-result-count role="status" aria-live="polite" aria-atomic="true">
+    {text}
+  </p>
+  <button class="clear-filters" type="button" data-reset data-clear-filters hidden>
+    Clear filters <span aria-hidden="true">×</span>
+  </button>
+</div>
