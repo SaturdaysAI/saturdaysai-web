@@ -2,6 +2,7 @@
 import { url } from '../lib/content';
 import site from '../data/site.json';
 import Icon from './Icon.astro';
+import ResponsiveImage from './ResponsiveImage.astro';
 ---
 
 <div class="community-art" aria-label="A community built around learning and creating together">
@@ -12,12 +13,14 @@ import Icon from './Icon.astro';
     <span class="status-dot"></span> Curiosity connects us
   </div>
   <div class="art-photo">
-    <img
-      src={url(site.heroImage)}
+    <ResponsiveImage
+      src={site.heroImage}
       alt="Saturdays.AI community members learning together"
-      width="620"
-      height="600"
+      width={620}
+      height={600}
       fetchpriority="high"
+      loading="eager"
+      sizes="(max-width: 580px) 85vw, 500px"
     />
     <span class="photo-caption">
       <span class="status-dot"></span> Real people. Shared curiosity.

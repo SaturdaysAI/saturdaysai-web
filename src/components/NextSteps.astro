@@ -1,0 +1,55 @@
+---
+import { url } from '../lib/content';
+interface Props {
+  language?: string;
+  podcast?: boolean;
+}
+const { language = 'en', podcast = false } = Astro.props;
+const copy =
+  language === 'es'
+    ? {
+        label: 'DE LA CURIOSIDAD A LA PRÁCTICA',
+        title: 'Tu próximo paso empieza aquí.',
+        body: 'Lleva una idea a la práctica o encuentra personas con las que seguir aprendiendo.',
+        learn: 'Encuentra tu curso',
+        community: 'Encuentra tu comunidad',
+        episodes: 'Explora más episodios',
+        follow: 'Recibe nuevas historias en tu lector RSS',
+      }
+    : language === 'pt'
+      ? {
+          label: 'DA CURIOSIDADE À PRÁTICA',
+          title: 'O próximo passo começa aqui.',
+          body: 'Ponha uma ideia em prática ou encontre pessoas com quem continuar a aprender.',
+          learn: 'Encontre um curso',
+          community: 'Encontre a sua comunidade',
+          episodes: 'Explore mais episódios',
+          follow: 'Siga novas histórias no seu leitor RSS',
+        }
+      : {
+          label: 'TURN CURIOSITY INTO PRACTICE',
+          title: 'Make this your starting point.',
+          body: 'Try an idea for yourself, or find people to keep learning with.',
+          learn: 'Find your learning path',
+          community: 'Find your community',
+          episodes: 'Explore more episodes',
+          follow: 'Follow new stories in your RSS reader',
+        };
+---
+
+<section class="next-steps" aria-labelledby="next-step-title" lang={language}>
+  <span class="eyebrow">{copy.label}</span>
+  <h2 id="next-step-title">{copy.title}</h2>
+  <p>{copy.body}</p>
+  <div class="next-step-actions">
+    <a class="button button-orange" href={url(podcast ? '/podcast/' : '/online/')}>
+      {podcast ? copy.episodes : copy.learn} →
+    </a>
+    <a class="text-link" href={url('/cities/')}>
+      {copy.community} →
+    </a>
+  </div>
+  <a class="rss-link" href={url('/feed.xml')}>
+    {copy.follow} ↗
+  </a>
+</section>

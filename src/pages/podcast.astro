@@ -5,7 +5,11 @@ import PostCard from '../components/PostCard.astro';
 import SectionArchive from '../components/SectionArchive.astro';
 import Icon from '../components/Icon.astro';
 import { publishedPosts } from '../lib/content';
+import { episodeInfo } from '../lib/media.mjs';
 const posts = (await publishedPosts()).filter((p) => p.data.category === 'Podcast');
+const seasons = [
+  ...new Set(posts.map((post) => episodeInfo(post.data.title)?.season).filter(Boolean)),
+].sort((a, b) => Number(b) - Number(a));
 ---
 
 <Layout
@@ -29,11 +33,21 @@ const posts = (await publishedPosts()).filter((p) => p.data.category === 'Podcas
           <strong>{posts.length}</strong>conversations in Spanish
         </span>
         <span>
-          <strong>5</strong>seasons to explore
+          <strong>{seasons.length}</strong>seasons to explore
         </span>
       </div>
     </section>
     <div class="listing-tools">
+      <div class="filter-pills" role="group" aria-label="Filter by season">
+        <button class="filter-pill selected" data-filter="all" aria-pressed="true">
+          All seasons
+        </button>
+        {seasons.map((season) => (
+          <button class="filter-pill" data-filter={`Season ${season}`} aria-pressed="false">
+            Season {season}
+          </button>
+        ))}
+      </div>
       <label class="search-box">
         <Icon name="search" size={18} />
         <span class="sr-only">Search episodes</span>
@@ -43,7 +57,11 @@ const posts = (await publishedPosts()).filter((p) => p.data.category === 'Podcas
     <FilterStatus text={`${posts.length} episodes to explore.`} />
     <div class="post-grid listing-grid">
       {posts.map((post) => (
-        <PostCard post={post} heading="h2" />
+        <PostCard
+          post={post}
+          heading="h2"
+          filterCategory={`Season ${episodeInfo(post.data.title)?.season || 'other'}`}
+        />
       ))}
     </div>
     <div class="load-more-wrap">

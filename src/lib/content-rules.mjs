@@ -62,6 +62,17 @@ export function assertSafeLink(value) {
 }
 export function assertPublishedBodies(entries, now = new Date()) {
   for (const entry of entries) {
+    if (isPublished(entry.data, now) && entry.data.updatedDate) {
+      const updated = new Date(entry.data.updatedDate).getTime();
+      if (
+        !Number.isFinite(updated) ||
+        updated < new Date(entry.data.pubDate).getTime() ||
+        updated > now.getTime()
+      )
+        throw new Error(
+          `Invalid update date: ${entry.data.legacyPath}. Use the actual date of a published update.`,
+        );
+    }
     if (isPublished(entry.data, now) && !entry.body?.trim())
       throw new Error(
         `Published article needs content: ${entry.data.legacyPath}. Keep Draft enabled while writing.`,

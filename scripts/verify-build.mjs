@@ -2,6 +2,7 @@ import { readdir, readFile, stat } from 'node:fs/promises';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 import * as cheerio from 'cheerio';
+import { indexablePath } from '../src/lib/seo.mjs';
 const base = (process.env.BASE_PATH || '').replace(/\/$/, '');
 const siteOrigin = process.env.SITE_URL || 'https://saturdays.ai';
 const root = path.resolve('dist');
@@ -68,6 +69,24 @@ for (const file of htmlFiles) {
     }
   });
   if ($('h1').length !== 1) errors.push(`${rel}: expected one h1`);
+  $('script[type="application/ld+json"]').each((_, script) => {
+    try {
+      JSON.parse($(script).text());
+    } catch {
+      errors.push(`${rel}: invalid structured data`);
+    }
+  });
+  $('img[srcset]').each((_, image) => {
+    for (const candidate of ($(image).attr('srcset') || '').split(',')) {
+      const source = candidate.trim().split(/\s+/)[0];
+      if (
+        !source.startsWith(base + '/') ||
+        !known.has(decodeURIComponent(source.slice(base.length + 1)))
+      )
+        errors.push(`${rel}: missing responsive image ${source}`);
+      checked++;
+    }
+  });
   if (!$('title').text() || !$('meta[name=description]').attr('content'))
     errors.push(`${rel}: missing SEO metadata`);
   const route =
@@ -141,6 +160,15 @@ for (const name of ['feed.xml', 'sitemap-0.xml'])
     /editor-demo-draft|PILOT_DRAFT_MUST_NOT_BE_PUBLISHED|cms-connection-test/,
   );
 const robots = await readFile(path.join(root, 'robots.txt'), 'utf8');
+const sitemap = cheerio.load(await readFile(path.join(root, 'sitemap-0.xml'), 'utf8'), {
+  xmlMode: true,
+});
+sitemap('loc').each((_, loc) =>
+  assert.ok(
+    indexablePath(new URL(sitemap(loc).text()).pathname, base),
+    `Non-indexable URL in sitemap: ${sitemap(loc).text()}`,
+  ),
+);
 if (process.env.PUBLIC_SITE_MODE !== 'production') assert.match(robots, /Disallow: \//);
 const sizes = await Promise.all(files.map((p) => stat(p)));
 const bytes = sizes.reduce((n, s) => n + s.size, 0);

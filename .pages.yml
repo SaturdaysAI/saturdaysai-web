@@ -41,6 +41,13 @@ content:
         options:
           format: yyyy-MM-dd
           time: false
+      - name: updatedDate
+        label: Last meaningful update
+        type: date
+        description: Optional. Set this only when the article content is substantively updated.
+        options:
+          format: yyyy-MM-dd
+          time: false
       - name: draft
         label: Draft
         type: boolean

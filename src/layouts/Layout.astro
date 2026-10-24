@@ -1,12 +1,16 @@
 ---
 import '@fontsource-variable/montserrat';
+import latinFont from '@fontsource-variable/montserrat/files/montserrat-latin-wght-normal.woff2?url';
 import '../styles/global.css';
 import '../styles/brand.css';
+import '../styles/engagement.css';
 import Brand from '../components/Brand.astro';
 import Icon from '../components/Icon.astro';
 import MediaEnhancement from '../components/MediaEnhancement.astro';
 import { validateSiteData } from '../lib/site-data';
 import { url } from '../lib/content';
+import { indexablePath, structuredJSON } from '../lib/seo.mjs';
+import { responsiveImage } from '../lib/responsive-images';
 validateSiteData();
 interface Props {
   title?: string;
@@ -14,6 +18,7 @@ interface Props {
   image?: string;
   language?: string;
   article?: boolean;
+  imageAlt?: string;
 }
 const {
   title = 'Learn AI. Build something that matters.',
@@ -21,10 +26,43 @@ const {
   image = '/social-card.png',
   language = 'en',
   article = false,
+  imageAlt = title,
 } = Astro.props;
 const preview = import.meta.env.PUBLIC_SITE_MODE !== 'production';
 const site = Astro.site || new URL('https://saturdays.ai');
 const canonical = new URL(Astro.url.pathname, site);
+const noindex = preview || !indexablePath(Astro.url.pathname, import.meta.env.BASE_URL);
+const home = new URL(url('/'), site).href;
+const socialImage = responsiveImage(image, { width: 1200, height: 630 });
+const organization = {
+  '@type': 'Organization',
+  '@id': `${home}#organization`,
+  name: 'Saturdays.AI',
+  url: home,
+  logo: { '@type': 'ImageObject', url: new URL(url('/brand/logo-orange.webp'), site).href },
+};
+const pageGraph = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    organization,
+    {
+      '@type': 'WebSite',
+      '@id': `${home}#website`,
+      url: home,
+      name: 'Saturdays.AI',
+      publisher: { '@id': organization['@id'] },
+    },
+    {
+      '@type': 'WebPage',
+      '@id': `${canonical.href}#webpage`,
+      url: canonical.href,
+      name: title,
+      description,
+      inLanguage: language,
+      isPartOf: { '@id': `${home}#website` },
+    },
+  ],
+};
 const nav = [
   ['Learn', '/online/'],
   ['Projects', '/proyectos/'],
@@ -43,7 +81,8 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <meta name="theme-color" content="#151E3F" />
     <title>{title} | Saturdays.AI</title>
     <meta name="description" content={description} />
-    {preview && <meta name="robots" content="noindex, nofollow" />}
+    {noindex && <meta name="robots" content={preview ? 'noindex, nofollow' : 'noindex, follow'} />}
+    <link rel="preload" href={latinFont} as="font" type="font/woff2" crossorigin="anonymous" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href={url('/favicon.svg')} />
     <meta property="og:title" content={`${title} | Saturdays.AI`} />
@@ -51,7 +90,22 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={new URL(url(image), site)} />
+    <meta property="og:image:alt" content={imageAlt} />
+    <meta property="og:image:width" content={String(socialImage.width)} />
+    <meta property="og:image:height" content={String(socialImage.height)} />
+    <meta property="og:site_name" content="Saturdays.AI" />
+    <meta
+      property="og:locale"
+      content={
+        ({ en: 'en_US', es: 'es_ES', pt: 'pt_PT' } as Record<string, string>)[language] || 'en_US'
+      }
+    />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={`${title} | Saturdays.AI`} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL(url(image), site)} />
+    <meta name="twitter:image:alt" content={imageAlt} />
+    <script type="application/ld+json" set:html={structuredJSON(pageGraph)} />
     <link
       rel="alternate"
       type="application/rss+xml"

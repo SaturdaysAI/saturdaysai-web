@@ -29,7 +29,7 @@ const imageInfo = (src: string) => {
     );
   return sizes.get(src)!;
 };
-export async function renderContent(body = '', galleries = false) {
+export async function renderContent(body = '', galleries = false, leadImage = '') {
   const posts = await getCollection('posts');
   const pages = await getCollection('pages');
   const paths = new Set([
@@ -61,5 +61,5 @@ export async function renderContent(body = '', galleries = false) {
     } catch {}
     return href;
   };
-  return renderMarkdown(body, { rewrite, imageInfo, galleries });
+  return renderMarkdown(body, { rewrite, imageInfo, galleries, leadImage });
 }

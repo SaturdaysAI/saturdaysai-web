@@ -8,6 +8,7 @@ Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and 
 - [Brand sources and rules](docs/BRAND.md)
 - [Validation record](docs/QA.md)
 - [Design and usability review](docs/REVIEW.md)
+- [Performance, SEO and engagement review](docs/PERFORMANCE-SEO.md)
 
 ## Run and maintain
 
@@ -20,6 +21,8 @@ npm run verify
 ```
 
 The development preview is http://127.0.0.1:4321/. Verification checks types, publication rules, content reconciliation, CMS fields, URL collisions, every generated local link and asset, and the built feed/sitemap. There is no runtime WordPress dependency.
+
+Responsive cover images are generated automatically before development and builds. Verification also checks image variants, structured-data syntax and representative compressed HTML/CSS budgets. Podcast season filters, related-topic recommendations and article next steps use shared components. For a meaningful article revision, editors can optionally set **Last meaningful update**; leave it empty for unchanged archive content.
 
 ## Content and experience
 

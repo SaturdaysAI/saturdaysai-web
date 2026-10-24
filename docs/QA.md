@@ -5,8 +5,9 @@ Checked on 24 October 2026.
 ## Automated
 
 - Astro type checking: zero errors, warnings or hints.
-- 17 tests cover drafts/future dates, safe and unique paths, cross-collection collisions, project subpaths, full source reconciliation, tutorial-code preservation, CMS field coverage, economic-content rules, URL filter restoration, sanitized rendering, image layout dimensions and safe editor destinations.
-- Final GitHub Pages build: 457 HTML pages, 162 original article routes, 20,415 local link/asset references, 2,064 fragment links and 1,998 article-image dimensions checked, approximately 84.1 MB. Result: PASS.
+- 24 tests cover drafts/future dates, update dates, safe and unique paths, cross-collection collisions, project subpaths, source reconciliation, tutorial-code preservation, CMS fields, economic-content rules, filter restoration, sanitized rendering, image dimensions, duplicate-cover handling, related-story ranking, media allowlists, episode parsing, sitemap policy and safe editor destinations.
+- Final GitHub Pages build: 457 HTML pages, 162 original article routes, 26,624 local link/asset references, 2,097 fragment links and 1,930 article-image occurrences checked, approximately 94.6 MB including responsive variants. Result: PASS.
+- Responsive-image and compressed HTML/CSS budgets passed. See PERFORMANCE-SEO.md for measured sizes and the second browser review.
 - Domain-root build was also checked during migration; final deployment build uses `/saturdaysai-web` and the GitHub Pages origin.
 - All 162 posts and 63 legitimate source page paths exist. Spam, injected links, both test drafts and unsafe article embeds are absent from the generated site.
 - Canonical URLs, metadata, preview noindex, robots policy, complete RSS and draft-free sitemap checked.

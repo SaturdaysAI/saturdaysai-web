@@ -7,6 +7,7 @@ const posts = defineCollection({
     title: z.string().min(3),
     description: z.string().min(10),
     pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
     author: z.string().min(1),
     category: z.enum(['Community', 'AI for good', 'Build with AI', 'Podcast']),
     kind: z.enum(['article', 'project']).default('article'),

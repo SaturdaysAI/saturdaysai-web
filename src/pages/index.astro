@@ -4,6 +4,7 @@ import SectionArchive from '../components/SectionArchive.astro';
 import Icon from '../components/Icon.astro';
 import CommunityArt from '../components/CommunityArt.astro';
 import PostCard from '../components/PostCard.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 import { publishedPosts, url } from '../lib/content';
 import cities from '../data/cities.json';
 import site from '../data/site.json';
@@ -176,12 +177,13 @@ const paths = [
   <section class="community-section">
     <div class="container community-split">
       <div class="community-image" data-reveal>
-        <img
-          src={url(site.communityImage)}
+        <ResponsiveImage
+          src={site.communityImage}
           alt="Saturdays.AI participants collaborating during a community session"
-          width="900"
-          height="700"
+          width={900}
+          height={700}
           loading="lazy"
+          sizes="(max-width: 800px) 90vw, 550px"
         />
         <span class="image-note">
           Less scrolling.

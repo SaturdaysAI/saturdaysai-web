@@ -3,9 +3,15 @@ import Layout from '../layouts/Layout.astro';
 import Icon from '../components/Icon.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import PostCard from '../components/PostCard.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
+import MediaPlayer from '../components/MediaPlayer.astro';
+import NextSteps from '../components/NextSteps.astro';
+import { findMedia, episodeInfo } from '../lib/media.mjs';
+import { relatedPosts } from '../lib/recommendations.mjs';
+import { breadcrumbSchema, structuredJSON } from '../lib/seo.mjs';
 import { publishedPosts, url, dateLabel, readingTime } from '../lib/content';
 import { renderContent } from '../lib/render-content';
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import ContentPage from '../components/ContentPage.astro';
 import ArchivePage from '../components/ArchivePage.astro';
 import taxonomies from '../data/taxonomies.json';
@@ -44,10 +50,16 @@ export async function getStaticPaths() {
 const { post, page, archive } = Astro.props;
 const p = post?.data;
 const all = await publishedPosts();
-const related = post
-  ? all.filter((x) => x.id !== post.id && x.data.category === post.data.category).slice(0, 3)
-  : [];
-const { html, toc } = await renderContent(post?.body || '');
+const isPodcast = p?.category === 'Podcast';
+const episode = episodeInfo(p?.title);
+const media = isPodcast ? findMedia(post?.body) : null;
+const sectionPath = isPodcast
+  ? '/podcast/'
+  : p?.kind === 'project'
+    ? '/proyectos/'
+    : '/blog-y-noticias/';
+const related: CollectionEntry<'posts'>[] = post ? relatedPosts(post, all) : [];
+const { html, toc } = await renderContent(post?.body || '', false, p?.image || '');
 const archivedComments = comments.filter((c) => c.postId === p?.sourceId);
 const initials = (p?.author || '')
   .split(' ')
@@ -107,18 +119,43 @@ const copy = {
     related: 'Mais ideias da comunidade.',
   },
 }[p?.language || 'en'];
+const sectionName = isPodcast ? 'Podcast' : p?.kind === 'project' ? copy.projects : copy.blog;
+const absolute = (path: string) => new URL(url(path), Astro.site).href;
 const structured = {
   '@context': 'https://schema.org',
-  '@type': 'BlogPosting',
+  '@type': isPodcast ? 'PodcastEpisode' : 'BlogPosting',
+  '@id': `${absolute(p?.legacyPath || '/')}#article`,
+  name: p?.title,
   headline: p?.title,
   description: p?.description,
   datePublished: p?.pubDate.toISOString(),
   author: { '@type': p?.author === 'Saturdays.AI' ? 'Organization' : 'Person', name: p?.author },
-  publisher: { '@type': 'Organization', name: 'Saturdays.AI' },
+  publisher: { '@id': `${absolute('/')}#organization` },
   inLanguage: p?.language,
-  mainEntityOfPage: new URL(url(p?.legacyPath || '/'), Astro.site).href,
+  mainEntityOfPage: { '@id': `${absolute(p?.legacyPath || '/')}#webpage` },
+  ...(p?.updatedDate ? { dateModified: p.updatedDate.toISOString() } : {}),
+  ...(isPodcast
+    ? {
+        partOfSeries: {
+          '@type': 'PodcastSeries',
+          name: 'Saturdays.AI Podcast',
+          url: absolute('/podcast/'),
+        },
+        ...(episode
+          ? {
+              episodeNumber: episode.episode,
+              partOfSeason: { '@type': 'PodcastSeason', seasonNumber: episode.season },
+            }
+          : {}),
+      }
+    : {}),
   ...(p?.image ? { image: new URL(url(p.image), Astro.site).href } : {}),
 };
+const breadcrumbs = breadcrumbSchema([
+  { name: copy.home, url: absolute('/') },
+  { name: sectionName, url: absolute(sectionPath) },
+  { name: p?.title, url: absolute(p?.legacyPath || '/') },
+]);
 ---
 
 {page ? (
@@ -132,35 +169,70 @@ const structured = {
       title={p.title}
       description={p.description}
       image={p.image || '/social-card.png'}
+      imageAlt={p.imageAlt || p.title}
       language={p.language}
       article
     >
-      <script
-        slot="head"
-        type="application/ld+json"
-        set:html={JSON.stringify(structured).replace(/</g, '\\u003c')}
-      />
+      <Fragment slot="head">
+        <script type="application/ld+json" set:html={structuredJSON([structured, breadcrumbs])} />
+        <meta property="article:published_time" content={p.pubDate.toISOString()} />
+        {p.updatedDate && (
+          <meta property="article:modified_time" content={p.updatedDate.toISOString()} />
+        )}
+        <meta property="article:author" content={p.author} />
+      </Fragment>
       <div class="reading-progress" aria-hidden="true"></div>
       <article>
-        <header class="container article-header">
+        <header class:list={['container', 'article-header', { 'podcast-header': isPodcast }]}>
           <nav class="breadcrumb" aria-label={copy.breadcrumb}>
             <a href={url('/')}>{copy.home}</a>
             <span aria-hidden="true">/</span>
-            <a href={url(p.kind === 'project' ? '/proyectos/' : '/blog-y-noticias/')}>
-              {p.kind === 'project' ? copy.projects : copy.blog}
-            </a>
+            <a href={url(sectionPath)}>{sectionName}</a>
             <span aria-hidden="true">/</span>
-            <span>{p.category}</span>
+            <span class="breadcrumb-current" aria-current="page">
+              {p.title}
+            </span>
           </nav>
           <div class="post-meta">
             <span class="tag">{p.category}</span>
             <span>
-              {readingTime(post.body)} {copy.minutes}
+              {isPodcast
+                ? episode
+                  ? `T${episode.season} / E${episode.episode}`
+                  : 'Podcast'
+                : `${readingTime(post.body)} ${copy.minutes}`}
             </span>
             <span>{{ es: 'Español', en: 'English', pt: 'Português' }[p.language]}</span>
           </div>
           <h1>{p.title}</h1>
           <p class="article-deck">{p.description}</p>
+          {isPodcast && (
+            <div class="episode-intro">
+              {p.image && (
+                <ResponsiveImage
+                  src={p.image}
+                  alt={p.imageAlt || p.title}
+                  sizes="(max-width: 580px) 96px, 200px"
+                  loading="eager"
+                  class="episode-art"
+                />
+              )}
+              {media ? (
+                <MediaPlayer media={media} language={p.language} id="episode-player" />
+              ) : (
+                <a class="button button-dark" href="#episode-notes">
+                  {
+                    {
+                      es: 'Ver enlaces del episodio',
+                      pt: 'Ver ligações do episódio',
+                      en: 'Explore the episode',
+                    }[p.language]
+                  }{' '}
+                  ↓
+                </a>
+              )}
+            </div>
+          )}
           <div class="article-author">
             <span class="author-avatar" aria-hidden="true">
               {initials}
@@ -168,16 +240,24 @@ const structured = {
             <div>
               <strong>{p.author}</strong>
               <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate, p.language)}</time>
+              {p.updatedDate && (
+                <span class="updated-date">
+                  {{ es: 'Actualizado', pt: 'Atualizado', en: 'Updated' }[p.language]}{' '}
+                  <time datetime={p.updatedDate.toISOString()}>
+                    {dateLabel(p.updatedDate, p.language)}
+                  </time>
+                </span>
+              )}
             </div>
           </div>
         </header>
-        {p.image && (
+        {p.image && !isPodcast && (
           <figure class="container article-cover">
-            <img
-              src={url(p.image)}
+            <ResponsiveImage
+              src={p.image}
               alt={p.imageAlt || p.title}
-              width="1440"
-              height="900"
+              sizes="(max-width: 1200px) 92vw, 1100px"
+              loading="eager"
               fetchpriority="high"
             />
           </figure>
@@ -197,7 +277,7 @@ const structured = {
             <span class="copy-status" role="status" data-copy-status></span>
           </aside>
           <div class="reading-body">
-            <div class="prose" set:html={html} />
+            <div class="prose" id={isPodcast ? 'episode-notes' : undefined} set:html={html} />
             {archivedComments.length > 0 && (
               <section class="archived-comments">
                 <h2>{copy.comments}</h2>
@@ -211,11 +291,30 @@ const structured = {
                 ))}
               </section>
             )}
+            {p.tags.length > 0 && (
+              <nav
+                class="article-topics"
+                aria-label={
+                  {
+                    es: 'Explora estos temas',
+                    pt: 'Explore estes temas',
+                    en: 'Explore these topics',
+                  }[p.language]
+                }
+              >
+                {p.tags.slice(0, 6).map((tag: string) => (
+                  <a href={`${url('/blog-y-noticias/')}?q=${encodeURIComponent(tag)}`}>
+                    {tag} <span aria-hidden="true">↗</span>
+                  </a>
+                ))}
+              </nav>
+            )}
+            <NextSteps language={p.language} podcast={isPodcast} />
             <div class="article-end">
               <p>
                 {copy.origin} {dateLabel(p.pubDate, p.language)}.
               </p>
-              <a href={url('/blog-y-noticias/')}>← {copy.more}</a>
+              <a href={url(sectionPath)}>← {isPodcast ? 'Podcast' : copy.more}</a>
             </div>
           </div>
         </div>

@@ -3,11 +3,16 @@ import sanitizeHtml from 'sanitize-html';
 import { load } from 'cheerio';
 
 /** @param {string} body
- * @param {{rewrite?:(value:string)=>string, imageInfo?:(src:string)=>Promise<{width:number,height:number}|null>, galleries?:boolean}} options
+ * @param {{rewrite?:(value:string)=>string, imageInfo?:(src:string)=>Promise<{width:number,height:number}|null>, galleries?:boolean, leadImage?:string}} options
  */
 export async function renderMarkdown(
   body = '',
-  { rewrite = (value) => value, imageInfo = async () => null, galleries = false } = {},
+  {
+    rewrite = (value) => value,
+    imageInfo = async () => null,
+    galleries = false,
+    leadImage = '',
+  } = {},
 ) {
   const safe = sanitizeHtml(await marked.parse(body, { gfm: true }), {
     allowedTags: sanitizeHtml.defaults.allowedTags.concat([
@@ -38,6 +43,15 @@ export async function renderMarkdown(
     },
   });
   const $ = load(safe, null, false);
+  const first = $.root().children().first();
+  if (
+    leadImage &&
+    first.is('p') &&
+    !first.text().trim() &&
+    first.children().length === 1 &&
+    first.children('img').attr('src') === rewrite(leadImage)
+  )
+    first.remove();
   const toc = [];
   $('h1,h2,h3,h4').each((index, heading) => {
     const el = $(heading);

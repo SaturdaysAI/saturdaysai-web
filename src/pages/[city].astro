@@ -5,12 +5,19 @@ import Icon from '../components/Icon.astro';
 import { url } from '../lib/content';
 import cities from '../data/cities.json';
 import site from '../data/site.json';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
+import { breadcrumbSchema, structuredJSON } from '../lib/seo.mjs';
 export function getStaticPaths() {
   return cities.cities
     .filter((c) => !c.draft)
     .map((city) => ({ params: { city: city.slug }, props: { city } }));
 }
 const { city } = Astro.props;
+const breadcrumbs = breadcrumbSchema([
+  { name: 'Home', url: new URL(url('/'), Astro.site).href },
+  { name: 'Community', url: new URL(url('/cities/'), Astro.site).href },
+  { name: city.name, url: new URL(url(`/${city.slug}/`), Astro.site).href },
+]);
 ---
 
 <Layout
@@ -18,6 +25,7 @@ const { city } = Astro.props;
   description={city.description}
   image={city.image || site.communityImage}
 >
+  <script slot="head" type="application/ld+json" set:html={structuredJSON(breadcrumbs)} />
   <div class="container">
     <section class="page-hero pb-0">
       <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -50,13 +58,13 @@ const { city } = Astro.props;
           Connect with the team <Icon name="northeast" size={18} />
         </a>
       </div>
-      <img
-        src={url(city.image || site.communityImage)}
+      <ResponsiveImage
+        src={city.image || site.communityImage}
         alt={
           city.image ? `A view of ${city.name}` : 'Saturdays.AI community members working together'
         }
-        width="900"
-        height="700"
+        sizes="(max-width: 800px) 90vw, 550px"
+        loading="eager"
         fetchpriority="high"
       />
     </section>

@@ -7,6 +7,7 @@ import LearningExplorer from './LearningExplorer.astro';
 import PostCard from './PostCard.astro';
 import { publishedPosts } from '../lib/content';
 import TableOfContents from './TableOfContents.astro';
+import { breadcrumbSchema, structuredJSON } from '../lib/seo.mjs';
 interface Props {
   page: CollectionEntry<'pages'>;
 }
@@ -34,6 +35,17 @@ const copy =
   image={p.image || '/social-card.png'}
   language={p.language}
 >
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={structuredJSON(
+      breadcrumbSchema([
+        { name: copy.home, url: new URL(url('/'), Astro.site).href },
+        { name: copy.resources, url: new URL(url('/explore/'), Astro.site).href },
+        { name: p.title, url: new URL(url(p.legacyPath), Astro.site).href },
+      ]),
+    )}
+  />
   <div class="container">
     <section class="page-hero">
       <nav class="breadcrumb" aria-label="Breadcrumb">

@@ -2,25 +2,33 @@
 import type { CollectionEntry } from 'astro:content';
 import { url, dateLabel, readingTime } from '../lib/content';
 import Icon from './Icon.astro';
+import ResponsiveImage from './ResponsiveImage.astro';
+import { episodeInfo } from '../lib/media.mjs';
 interface Props {
   post: CollectionEntry<'posts'>;
   featured?: boolean;
   heading?: 'h2' | 'h3';
+  filterCategory?: string;
 }
-const { post, featured = false, heading: Heading = 'h3' } = Astro.props;
+const { post, featured = false, heading: Heading = 'h3', filterCategory } = Astro.props;
 const p = post.data;
+const episode = p.category === 'Podcast' ? episodeInfo(p.title) : null;
 ---
 
 <article
   class:list={['post-card', { featured }]}
   data-year={String(p.pubDate.getUTCFullYear())}
   data-post
-  data-category={p.category}
+  data-category={filterCategory || p.category}
   data-search={`${p.title} ${p.description} ${p.author} ${p.tags.join(' ')}`.toLocaleLowerCase()}
 >
   <a class="post-image" href={url(p.legacyPath)} tabindex="-1" aria-hidden="true">
     {p.image ? (
-      <img src={url(p.image)} alt="" width="720" height="480" loading="lazy" decoding="async" />
+      <ResponsiveImage
+        src={p.image}
+        alt=""
+        sizes="(max-width: 580px) calc(100vw - 36px), (max-width: 1000px) 44vw, 390px"
+      />
     ) : (
       <div class="image-placeholder">
         <Icon name="spark" size={80} />
@@ -33,7 +41,13 @@ const p = post.data;
   <div class="post-content">
     <div class="post-meta">
       <span class="tag">{p.category}</span>
-      <span>{readingTime(post.body)} min read</span>
+      <span>
+        {p.category === 'Podcast'
+          ? episode
+            ? `Season ${episode.season} / Episode ${episode.episode}`
+            : 'Listen to the episode'
+          : `${readingTime(post.body)} min read`}
+      </span>
     </div>
     <Heading class="post-title" lang={p.language}>
       <a href={url(p.legacyPath)}>{p.title}</a>

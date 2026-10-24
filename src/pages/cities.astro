@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import FilterStatus from '../components/FilterStatus.astro';
 import Icon from '../components/Icon.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 import { url } from '../lib/content';
 import cityData from '../data/cities.json';
 const cities = cityData.cities.filter((c) => !c.draft);
@@ -68,13 +69,10 @@ const cities = cityData.cities.filter((c) => !c.draft);
                 decoding="async"
               />
             ) : c.image ? (
-              <img
-                src={url(c.image)}
+              <ResponsiveImage
+                src={c.image}
                 alt=""
-                width="600"
-                height="450"
-                loading="lazy"
-                decoding="async"
+                sizes="(max-width: 580px) 90vw, (max-width: 1000px) 44vw, 390px"
               />
             ) : (
               <div class="city-placeholder">

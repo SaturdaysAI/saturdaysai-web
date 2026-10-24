@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import FilterStatus from '../components/FilterStatus.astro';
 import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
 import { publishedPosts, url } from '../lib/content';
 const posts = await publishedPosts();
 const years = [...new Set(posts.map((p) => p.data.pubDate.getUTCFullYear()))];
@@ -56,11 +57,12 @@ const featured = posts[0];
     <FilterStatus text={`${posts.length} stories to explore.`} />
     {featured && (
       <a class="featured-story" data-featured href={url(featured.data.legacyPath)}>
-        <img
-          src={url(featured.data.image || '/social-card.svg')}
+        <ResponsiveImage
+          src={featured.data.image || '/social-card.svg'}
           alt={featured.data.imageAlt}
-          width="720"
-          height="450"
+          width={720}
+          height={450}
+          sizes="(max-width: 580px) 86px, (max-width: 800px) 90vw, 580px"
         />
         <div>
           <span class="eyebrow">THE LATEST FROM OUR COMMUNITY</span>
