@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "title": "Python for AI",
+      "description": "Build your foundations. Go from your first line of Python to thinking in code.",
+      "level": "Starting out",
+      "topic": "Foundations",
+      "language": "English",
+      "url": "https://cursos.saturdays.ai/courses/python4ai-eng",
+      "icon": "code",
+      "color": "peach"
+    },
+    {
+      "title": "Generative AI",
+      "description": "Explore language models, image generation and the creative possibilities of AI.",
+      "level": "Starting out",
+      "topic": "Generative AI",
+      "language": "English & Spanish",
+      "url": "https://saturdays.ai/curso-ia-generativa/",
+      "icon": "spark",
+      "color": "lilac"
+    },
+    {
+      "title": "Prompt engineering",
+      "description": "Work with context, RAG, agents and practical projects to take your prompts further.",
+      "level": "Going deeper",
+      "topic": "Generative AI",
+      "language": "Spanish",
+      "url": "https://cursos.saturdays.ai/courses/prompt-engineering-ai",
+      "icon": "book",
+      "color": "lime"
+    },
+    {
+      "title": "Data mining & Hugging Face",
+      "description": "Discover patterns in data and learn to deploy a model through a hands-on project.",
+      "level": "Going deeper",
+      "topic": "Data science",
+      "language": "English & Spanish",
+      "url": "https://cursos.saturdays.ai/courses/datamining",
+      "icon": "globe",
+      "color": "blue"
+    },
+    {
+      "title": "Pandas for data science",
+      "description": "Learn to clean, explore and transform data with one of Python’s essential tools.",
+      "level": "Starting out",
+      "topic": "Data science",
+      "language": "English & Spanish",
+      "url": "https://cursos.saturdays.ai/courses/pandas",
+      "icon": "code",
+      "color": "lime"
+    },
+    {
+      "title": "Reinforcement learning",
+      "description": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
+      "level": "Going deeper",
+      "topic": "Machine learning",
+      "language": "Spanish",
+      "url": "https://cursos.saturdays.ai/courses/aprendizaje-refuerzo",
+      "icon": "spark",
+      "color": "peach"
+    }
+  ]
+}

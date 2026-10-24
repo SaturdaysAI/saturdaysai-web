@@ -1,0 +1,49 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from '../components/PostCard.astro';
+import Icon from '../components/Icon.astro';
+import { publishedPosts, url } from '../lib/content';
+const posts = (await publishedPosts()).filter(
+  (p) => p.data.kind === 'project' || [11833, 11664].includes(p.data.sourceId || 0),
+);
+---
+
+<Layout
+  title="AI projects with a purpose"
+  description="Discover real projects built by the Saturdays.AI community: practical applications of artificial intelligence for social good."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">BUILT BY PEOPLE WHO CARE</span>
+      <h1>
+        Less theory.
+        <br />
+        <span class="orange-word">More possibility.</span>
+      </h1>
+      <p>
+        What happens when curious people tackle real challenges? Explore the projects, experiments
+        and lessons from our community.
+      </p>
+    </section>
+    <p class="result-count">
+      A selection of community projects. Original project stories are in Spanish.
+    </p>
+    <div class="post-grid listing-grid">
+      {posts.map((post) => (
+        <PostCard post={post} heading="h2" />
+      ))}
+    </div>
+    <section class="closing-section">
+      <span class="eyebrow">YOUR IDEA COULD BE NEXT</span>
+      <h2>
+        Find your team.
+        <br />
+        Make a difference.
+      </h2>
+      <p>Connect with a local community and put your curiosity to work.</p>
+      <a class="button button-dark" href={url('/cities/')}>
+        Meet the community <Icon name="northeast" size={18} />
+      </a>
+    </section>
+  </div>
+</Layout>

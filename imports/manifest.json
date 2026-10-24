@@ -1,0 +1,1153 @@
+{
+  "capturedAt": "2026-10-24T15:21:05.356Z",
+  "source": "WordPress public REST API",
+  "scope": "Reviewed pilot allowlist only",
+  "excluded": [
+    {
+      "type": "page",
+      "id": 12005
+    },
+    {
+      "type": "media",
+      "id": 12008
+    }
+  ],
+  "posts": [
+    {
+      "id": 11874,
+      "title": "PyCamp España 2026: cuatro días de Python, naturaleza y comunidad",
+      "path": "/2026/06/09/pycamp-spain-2026/",
+      "file": "src/content/posts/pycamp-spain-2026.md",
+      "words": 1470,
+      "author": "Raul",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 11833,
+      "title": "AgroClaw: lo que aprendimos al construir un agente AgTech",
+      "path": "/2026/05/18/agroclaw-construye-agente-agtech/",
+      "file": "src/content/posts/agroclaw-construye-agente-agtech.md",
+      "words": 4312,
+      "author": "Raul",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 11768,
+      "title": "SkyBlock Minecraft: la historia de una wiki viva",
+      "path": "/2026/04/15/skyblockcodexapi-la-historia-de-una-wiki-viva/",
+      "file": "src/content/posts/skyblockcodexapi-la-historia-de-una-wiki-viva.md",
+      "words": 1702,
+      "author": "Gerard",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 11719,
+      "title": "AIoT en la agricultura y ganadería: cuando los campos empiezan a tomar decisiones",
+      "path": "/2026/04/02/aiot-en-la-agricultura-y-ganaderia-cuando-los-campos-empiezan-a-tomar-decisiones/",
+      "file": "src/content/posts/aiot-en-la-agricultura-y-ganaderia-cuando-los-campos-empiezan-a-tomar-decisiones.md",
+      "words": 3800,
+      "author": "Raul",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 11664,
+      "title": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
+      "path": "/2026/03/18/de-proyecto-existente-a-producto-digital-como-construi-la-web-app-de-energia-en-accion/",
+      "file": "src/content/posts/de-proyecto-existente-a-producto-digital-como-construi-la-web-app-de-energia-en-accion.md",
+      "words": 1352,
+      "author": "Adrian Algar",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 11657,
+      "title": "Codex vs. MiniMax M2.1: replicando FoodCheck con dos IAs distintas",
+      "path": "/2026/02/06/codex-vs-minimax-m2-1-replicando-foodcheck-con-dos-ias-distintas/",
+      "file": "src/content/posts/codex-vs-minimax-m2-1-replicando-foodcheck-con-dos-ias-distintas.md",
+      "words": 1767,
+      "author": "Miguel Guerrero",
+      "authorSource": "https://saturdays.ai/blog-y-noticias/"
+    },
+    {
+      "id": 6793,
+      "title": "HaPyness: Análisis de sentimientos en la población de Aragón",
+      "path": "/2022/04/07/hapyness-analisis-de-sentimientos-en-la-poblacion-de-aragon/",
+      "file": "src/content/posts/hapyness-analisis-de-sentimientos-en-la-poblacion-de-aragon.md",
+      "words": 4855
+    },
+    {
+      "id": 6795,
+      "title": "Predicción de zonas de desertificación usando IA.",
+      "path": "/2022/04/07/prediccion-de-zonas-de-desertificacion-en-aragon-usando-ia/",
+      "file": "src/content/posts/prediccion-de-zonas-de-desertificacion-en-aragon-usando-ia.md",
+      "words": 2654
+    }
+  ],
+  "cities": [
+    {
+      "id": 6044,
+      "path": "/barcelona/"
+    },
+    {
+      "id": 1156,
+      "path": "/madrid/"
+    },
+    {
+      "id": 9954,
+      "path": "/valencia/"
+    },
+    {
+      "id": 1229,
+      "path": "/guadalajara/"
+    },
+    {
+      "id": 1331,
+      "path": "/quito/"
+    },
+    {
+      "id": 1405,
+      "path": "/guayaquil/"
+    },
+    {
+      "id": 9078,
+      "path": "/monterrey-ai/"
+    },
+    {
+      "id": 10033,
+      "path": "/asuncion/"
+    }
+  ],
+  "assets": [
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/Escardiel.png",
+      "path": "/media/51f02378ce569ef5.webp",
+      "bytes": 396808,
+      "sha256": "cff6e7464aad3c1c7781d44732452d6236a22bd553d534c3c6839b45129185c4"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/Talleres.png",
+      "path": "/media/748293645e6f9af2.webp",
+      "bytes": 231718,
+      "sha256": "31c92f30bfb65049fb3c7c3f1adb8abcc6722d2c420565ab487d7108d6d9ae0e"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/IMG_3644-scaled.jpg",
+      "path": "/media/7d31be2190e7122c.webp",
+      "bytes": 96334,
+      "sha256": "04fe01940b76442a2b1f2f5de4c003c406722807d1ba05fb691ebeb7600f8db1"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/20260501_221000-scaled.jpg",
+      "path": "/media/3eaa5d686d1a2b7b.webp",
+      "bytes": 188890,
+      "sha256": "1d7816550ed11cd9ef0d29a6205343a217ccc9a7b82f9e23460442ae9d0a9e2b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/Break3.png",
+      "path": "/media/795ec83cb4d70d24.webp",
+      "bytes": 375276,
+      "sha256": "0953d54284e8fff486c650b43431b8dae399e3f6d625cc9d76416b9c8a2b7a96"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/KitSnacksFood.png",
+      "path": "/media/6c54193b288328eb.webp",
+      "bytes": 177728,
+      "sha256": "3868ec611149b98205ba660d05e55acaa490076b14e3fa5b948023d2981cb608"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/IMG_3517-scaled.jpg",
+      "path": "/media/c070ffdda70c13ff.webp",
+      "bytes": 159264,
+      "sha256": "f2fb26ed249d72ae1294eca6212912d2afb635eda5bef100ca14c77cb29d449b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/PXL_20260503_101233954.MP_-scaled.jpg",
+      "path": "/media/9420a55a9bfdccd1.webp",
+      "bytes": 355876,
+      "sha256": "4947bde2bdd447f00c4fe17aec2f01c05416f859054a9eda1156b038dcb0fee8"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/06/IMG_3527_trimmed-scaled.jpg",
+      "path": "/media/c338b1bf86022dce.webp",
+      "bytes": 162496,
+      "sha256": "4230333e24585ce2488f166cef7a3c7aaef3ecd1de994b9f6879c8c0f770dd4b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_02-24-22.png",
+      "path": "/media/d628db93ad5d3e02.webp",
+      "bytes": 52868,
+      "sha256": "559f7b52f25abfb2dcf47222350af498eb1e2e4b8e55a4b5cd39d8cfcfdd6405"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/OpenClaw.png",
+      "path": "/media/4880691d4a876b0e.webp",
+      "bytes": 4430,
+      "sha256": "d4350a5c92fd7ee49c9855fa2bed46bd8f8fc1c3bba0cd6ab2abc41822b79994"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Repilo.jpg",
+      "path": "/media/8a9bca647ff44f29.webp",
+      "bytes": 81926,
+      "sha256": "59993609995a15f37a87adcf91ca4aded233a52defea5ea5644ff334462cdee4"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_05-14-43.png",
+      "path": "/media/ae8bec989887cb55.webp",
+      "bytes": 97330,
+      "sha256": "3a59f9c700b45dfaedec1f2117a935be95f970a54bcee40839c05a075ff7c551"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_05-14-19.png",
+      "path": "/media/cc2af100c5c3831e.webp",
+      "bytes": 94740,
+      "sha256": "11134440df192ca73b027560e39f7d47ada40132e703d20003e5ed29abacc096"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_06-04-07.png",
+      "path": "/media/8e22768ae92974d6.webp",
+      "bytes": 36618,
+      "sha256": "409bf2900ac4ee1d4619bbb8f5c7cf2580e16401d7a05b85bd4e16bd26ed0a3c"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_02-26-02.png",
+      "path": "/media/0f5d5c0f73ea32b2.webp",
+      "bytes": 95490,
+      "sha256": "02489aab3aa6ea3b662d2418dbd7bf106a026870a95642294f178cd04fd8eb8b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_02-34-10.png",
+      "path": "/media/3de5ce62d4d319b4.webp",
+      "bytes": 100714,
+      "sha256": "db25e7a0cdcf173fd3b4f8bc2105b427a1e2aae73630b1affc84701464e3ffb5"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/ChatGPT-Image-9-may-2026-03_34_34.png",
+      "path": "/media/4e021402902a5433.webp",
+      "bytes": 268748,
+      "sha256": "2fb5e9f021bdb9abbfffd20d04d6a4136608490021be8e31e397aaff77d6a257"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_02-36-58.png",
+      "path": "/media/1cbd11625a6622e6.webp",
+      "bytes": 75318,
+      "sha256": "59d5198d91ca24f5b8bec90673103813ea776c64e059ab9e7a7eeb0a1ae0048d"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/Captura-de-pantalla_2026-05-09_02-35-36.png",
+      "path": "/media/d28e04b778929385.webp",
+      "bytes": 93224,
+      "sha256": "7c684e9a2e86a389819524686130532932689b7233580d0db9c71bee7d44b6ff"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/05/71aec6e0-b7d3-4d7c-966a-7708eb3f0ddb.png",
+      "path": "/media/5a91e09eb2cd1cac.webp",
+      "bytes": 144532,
+      "sha256": "ecc85c2448a10bf43dddfb0ba0dca240995bd2c236544fe4a1a551c59a0921b0"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/skyisland.png",
+      "path": "/media/a745696023a42da4.webp",
+      "bytes": 243116,
+      "sha256": "fa22b5be2555e3c7c8a648a4e191d826232eddbd10c42502bc161d39d4f5ed80"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-07-104713.png",
+      "path": "/media/60b2c11803ea6d13.webp",
+      "bytes": 26018,
+      "sha256": "e5a005cb26e679c66c29ff2b9ceef8173a7fbae5a7ae1e1339446db557e6ea46"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-055338-1024x1006.png",
+      "path": "/media/d93601aec0946059.webp",
+      "bytes": 27888,
+      "sha256": "0801f17f82eaadf505138941d3dad3eb4fe2501312e256c457500e3c0bb8a40e"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-055446-1024x598.png",
+      "path": "/media/55bf39b6538a4179.webp",
+      "bytes": 37656,
+      "sha256": "98e3a7cd2a6ab91fee089cc98e117ba6585cc8b88df148babf3cca422ed5852b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-055534-1024x1024.png",
+      "path": "/media/80d3105fe96511da.webp",
+      "bytes": 105516,
+      "sha256": "87ef676165a6859e3bd36d3adcfdc26300fd1cbe5a4973d4dc2f2927e0f21e6a"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-055718.png",
+      "path": "/media/d584e035704e0b5d.webp",
+      "bytes": 13930,
+      "sha256": "60e36460a169730ea9c93eeaf91e2e05ac85aa8da353136e2567a72b95e9c161"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-055830-1024x1024.png",
+      "path": "/media/5599f5e7374f6787.webp",
+      "bytes": 49346,
+      "sha256": "1d3620d68d4472491add6d3d290ae3d5e22fbea6f152d93dbf90ced8824d8a58"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-060025-1024x959.png",
+      "path": "/media/3f5b280284f99451.webp",
+      "bytes": 94618,
+      "sha256": "bb50f913ee33832e55a96095188fdb4377586df5ce41b9da384815feccfb605c"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-02-060214-1024x1024.png",
+      "path": "/media/33910fec97354202.webp",
+      "bytes": 66980,
+      "sha256": "5f097f56a4b7453f9b5aeb6bd1c64aeb3c4815d633a4d1c92c040c89d3d1b18f"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/applications-of-iot-in-agriculture.jpg",
+      "path": "/media/f8b23c1b5985010a.webp",
+      "bytes": 100556,
+      "sha256": "9ed053f85bac1c6b4d1842271cb9a19a719ffc5c88a6e968b83fc091afbf6e8e"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Captura-de-pantalla-2026-04-03-013547.png",
+      "path": "/media/06972b3be00b071c.webp",
+      "bytes": 90052,
+      "sha256": "40b8b9027867dece26d3dd2acfdafc9416b9ad07785d5e59ce5e38c3ac77371d"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Screenshot-2026-04-01-at-00-06-16-Irrigation-Planning-Use-every-Drop-Wisely.png",
+      "path": "/media/72200ac2ab749cf7.webp",
+      "bytes": 69990,
+      "sha256": "7a3c4a5174a10f0ced84121e076ad345d9626061d3a9667199c03845f9380aae"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/cultivo-mango.jpg",
+      "path": "/media/2d964ff364e1daed.webp",
+      "bytes": 164506,
+      "sha256": "f9ba114226cb884e70aa9cd3d143b3d29c160d59d0e2566d78ed6bfe29808fbf"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Captura-de-pantalla-2026-04-01-014547.png",
+      "path": "/media/fe521adc01fa9862.webp",
+      "bytes": 52052,
+      "sha256": "9c53d4d8a32289cbb52aca7c42a010f6f15848b3b0fdf25fbe60f13595c99cfb"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/IMG_1733_l.jpg",
+      "path": "/media/1b123764bfedad55.webp",
+      "bytes": 109102,
+      "sha256": "5b9a21c1e84639622e37c1a6dbdb1d70e331f9fd2337d0de45b8a08defb0360f"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Captura-de-pantalla-2026-04-01-021038.png",
+      "path": "/media/50ccef594d115f94.webp",
+      "bytes": 96168,
+      "sha256": "3973bdb24970fc0b2ccdfc209505be0e9df9aa7cd82416dafe89e952d0675c5a"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/bannerEEA-e1773803462455.png",
+      "path": "/media/e88a436f59228932.webp",
+      "bytes": 95934,
+      "sha256": "66f7dbd10e93a63f9cfa2c390ab65f2da9e45d887438fe94949ad57c7ace32ba"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/home.jpg",
+      "path": "/media/71a0b0996658c148.webp",
+      "bytes": 79034,
+      "sha256": "6bc31d82aecebed4f982c00c6449662a96802e1e378a2046458d4fe06258a462"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/catalogo.jpg",
+      "path": "/media/bb3f4ced87afbb11.webp",
+      "bytes": 59042,
+      "sha256": "a0b5d2d61b02bdfb464375fdae8114f73c6086fcf127964c00dee3f516ee0253"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/inicio.jpg",
+      "path": "/media/fb1619b3af49cda5.webp",
+      "bytes": 39712,
+      "sha256": "187570b53d2e60f747a04db394c8555f373a01332c95784ffb93598ed6a49788"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/mentor.jpg",
+      "path": "/media/75f35127f7b00c62.webp",
+      "bytes": 34508,
+      "sha256": "e435902f75544f6e8c7be7ded6d64306af4e0c86a4f881a2caafc3f10cbfdfd7"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/project.jpg",
+      "path": "/media/5b79cb21d07fc38c.webp",
+      "bytes": 42844,
+      "sha256": "596493e39b11685715e9b66bb694e4a69fbe3a0023400c8ce9d064f3799ea7d0"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/chat-1.jpg",
+      "path": "/media/51c30ca0c187d3f6.webp",
+      "bytes": 9840,
+      "sha256": "22228f81bf8a7e1f10734d4a368e2e591b5065571e30c93d85d288e7f6b1a7fd"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/onboarding.jpg",
+      "path": "/media/406cd92b07972215.webp",
+      "bytes": 22032,
+      "sha256": "bc03e597a89e438cbc29968a1ef9cccfc67ee05cece25b3c5096d86819c65dce"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/03/Microsoft.VisualStudio.Services.Icons_-300x300.png",
+      "path": "/media/540ad91f64b76219.webp",
+      "bytes": 5662,
+      "sha256": "37e124e1a202132275040a74f9413fe95f424b6a584b71ff8901631b02b7e4f3"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-4-1024x1024.png",
+      "path": "/media/fd909bf05faeb64f.webp",
+      "bytes": 160210,
+      "sha256": "97b32b952865eb5bda72d05f0cf0e2a667a6c41530b21f89b3ea0ba83f6bc56f"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-3-1024x1024.png",
+      "path": "/media/a163139c21cd0a3c.webp",
+      "bytes": 43948,
+      "sha256": "f5ccaeda2940d650135c046c4d71b7df826e26721b77190f45e8631926ee8de0"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-2-1024x1024.png",
+      "path": "/media/c97f2881ba9932a9.webp",
+      "bytes": 46264,
+      "sha256": "f4f26db2860b43b78f38eae966d30861078a3fd8ec4642f8ca1e6843dc04c4f1"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-1024x854.png",
+      "path": "/media/38e4a04ec5b3dabe.webp",
+      "bytes": 39832,
+      "sha256": "61e1b6b76619b68560bbe2ea390e6dc9cc05e7e2e7d85f97d87c7b5a3ba0b5b3"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-1-1024x795.png",
+      "path": "/media/0fd342549182ce76.webp",
+      "bytes": 22106,
+      "sha256": "539f10a02c3242ce7f00b4f4c81472491763b942f51032ab61a9949ff533d87a"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/02/image-4.png",
+      "path": "/media/fd7d1d8b255da7bc.webp",
+      "bytes": 222622,
+      "sha256": "acf2ae31c7b12d114691063ae19abfd7e6624e0d03f04583408e302b9e8f8833"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2021/02/qa6fc98pog55uiubihrr051v0ut1-1-min-scaled.jpeg",
+      "path": "/media/1db206ffccc63da9.webp",
+      "bytes": 149098,
+      "sha256": "ba2ea9f3bb2e7c14cfcb71d335dc3ff2df5ecc62a6bc00e552d90630091d0eea"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2021/09/DSC_0106-2-scaled.jpg",
+      "path": "/media/aad3c993c071d715.webp",
+      "bytes": 68614,
+      "sha256": "71247b570e95c9843a47277a32f6835d5850b08a704633b87a6bc75ebef28d33"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/IOT-based-smart-agriculture-monitoring-system.webp",
+      "path": "/media/f9a987ab2895b798.webp",
+      "bytes": 56570,
+      "sha256": "ec929d41888b3797c9333a05dd7bbe2ac0ee72f858a9904d34a3088733e2c00e"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/RPI-IRRIGATON_bb1-1536x928-1.webp",
+      "path": "/media/7d8c21c67d015498.webp",
+      "bytes": 44172,
+      "sha256": "8d8d5efcc9052d8f2d3b05f17b9754da9eb6dd00af75f42b2c6bdf3c2a28cfe4"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/eduponics-mini-board-view.webp",
+      "path": "/media/ccb2ac01ff805c32.webp",
+      "bytes": 78118,
+      "sha256": "7e5f97814fbf945ba20af0ec7165cd497505e8bb6bef3f5553116867c5e93eee"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Picture22.png",
+      "path": "/media/b04cf25eba40949a.webp",
+      "bytes": 34708,
+      "sha256": "0893b59aef0158551c56d1cbfa7bc0e67b7782535201783c25307755f7139f67"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/NfSHbSuuw3.jpeg",
+      "path": "/media/b94eee415f10afe3.webp",
+      "bytes": 37686,
+      "sha256": "e5046d571fbfa8348211726d36b98c850e18a2c4a520e9f65baef0898c0e75b0"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2026/04/Agriculture-and-Livestock.png",
+      "path": "/media/0583a9004aedcdc5.webp",
+      "bytes": 61104,
+      "sha256": "fb56c977b6a34b20ca3bc541972bc67c6d95474d960292387e483893c0cd4ced"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*tbzXzD6kBnVJ1i2NFtzRIg.png",
+      "path": "/media/8ee9cb41c36f70f6.webp",
+      "bytes": 54730,
+      "sha256": "e34941fac7c4c8ad7fd5455e2d21c4f9399f596f949037e501d08286e29c2d92"
+    },
+    {
+      "original": "https://miro.medium.com/max/514/1*uwtnpmmufOimo0hpEWM7Pg.png",
+      "path": "/media/4a2118e1d45a9774.webp",
+      "bytes": 3972,
+      "sha256": "2a5c8c6d7b703f05204a3bcd9682efb058eda6094baa3715860f66a98ce4a438"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*cjTMLckNj_AqUskbRw4ILA.png",
+      "path": "/media/9db82fa23ab2b308.webp",
+      "bytes": 48758,
+      "sha256": "ec374842d82d748df67573ccbaeba73d81f9834eca0f341da45b0b13c762d04c"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*Llt4Jij-faWPnCvncSFfOA.png",
+      "path": "/media/bb1aae3df366a5bd.webp",
+      "bytes": 30920,
+      "sha256": "375ba44188344c207cff3bb052c8075ae23f3c411c3dd33ceb0c086c056c7e98"
+    },
+    {
+      "original": "https://miro.medium.com/max/1216/1*GkKoT3L3EBrMJFkwolfGRw.png",
+      "path": "/media/16b00954b0fe8b61.webp",
+      "bytes": 53474,
+      "sha256": "00e4bf16c083e9a983ce7631501097f8f253b01b1eb2ed4dd8771790a5c75d5d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1304/1*ovWEoAhVBcFLlDbBXhIqEg.png",
+      "path": "/media/f90cbe671e2df7f0.webp",
+      "bytes": 41808,
+      "sha256": "6f853075ec5834a9258d45521aa209c320291335209be7a709ec6ea15129cd47"
+    },
+    {
+      "original": "https://miro.medium.com/max/718/1*5JG1neUrKqQCmVAfE2Otgw.png",
+      "path": "/media/f10187647ac970e4.webp",
+      "bytes": 5040,
+      "sha256": "280b51d632d31e877a7a928b90cded17713e2b9a3c0b199cb2848958a89f67ef"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*CWD8dFMMTDVEWJxZ7gt2SQ.png",
+      "path": "/media/9c5ed5bac817dcd8.webp",
+      "bytes": 29864,
+      "sha256": "bbb80094b5917ab7d717341811362ec72be2f989725a0e1cdd0c5630b390edc0"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*4fMZEZWmck0Q8EaHeAK1Mg.png",
+      "path": "/media/5b617577bdd4fd60.webp",
+      "bytes": 34790,
+      "sha256": "133538e18342dced49143a4b599403ce01b087b6a633ccc5a90a2d690e39f88a"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*sqfeLDn31TvJy7eF5a37mQ.png",
+      "path": "/media/e1bea14bf144c723.webp",
+      "bytes": 45448,
+      "sha256": "4f1b71221d84e84c28fb47d0d6b787e413aab63441030f9b0530fa8ba684f2c6"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*ytJ88i1QEza-a2Krb8pbjg.png",
+      "path": "/media/96c6aa55dea3be3f.webp",
+      "bytes": 33198,
+      "sha256": "018dea5bc27af815dbe0f512b374cb82a6cd946a2e2e42949a3cfb44fc885513"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*sdRh_4epy0K2IdaI742_4g.png",
+      "path": "/media/10170aaf26a216d4.webp",
+      "bytes": 33106,
+      "sha256": "b75d957588931da1aa26a2e11ba5d02b4460340eff8bbddca3004c201e0858e1"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*Cga2VGuPJ77xxFKFGIv_jA.png",
+      "path": "/media/509057e2940e6130.webp",
+      "bytes": 17708,
+      "sha256": "2b1521455cb02421d5051174a747005cdacb40152a817d7d20663e9feb1836be"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*xmV8lYYC5knNNIuqH6vwng.png",
+      "path": "/media/60b7b8e61092a2de.webp",
+      "bytes": 26286,
+      "sha256": "67f4b018ae6975211849e491b1037e4249767aacea40b08d0e9e0f3b63dce009"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*SRcyXrRtz2pPNQgNdNrZkw.png",
+      "path": "/media/f5728b72dc6dade0.webp",
+      "bytes": 32388,
+      "sha256": "426ab73e89259b02a309df5560c5e8e465850e79ee6dbc557eee38ed64c6028c"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*5QwiOpsQTaAGA6Ul-7TkAw.png",
+      "path": "/media/4dc3739e36ee50eb.webp",
+      "bytes": 16266,
+      "sha256": "e901e23dd926e94f8101b90f6ad7e34306a8f8590aec0b4e8079faca057b4eea"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*ED1u6ApfO-mabHWgur6vpg.png",
+      "path": "/media/da0fb687d5004b92.webp",
+      "bytes": 41348,
+      "sha256": "172a9124e40af15099ddfa368bb0f45c72709b47a283f4470ee0fec1d124b31d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*zxJAd2LJ0vzpbS8o4_nBxA.png",
+      "path": "/media/0d009f1e49a76acb.webp",
+      "bytes": 13578,
+      "sha256": "d3424f11a666124d28391f845733cc97d1572e50822f1a068ba73b17e9249cc5"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*sSG3IG4gRRtJtsrBHz0U0w.png",
+      "path": "/media/c081fff72f562d21.webp",
+      "bytes": 48192,
+      "sha256": "d38e6254126ba5a0bbfbad82a32188de88f52ff4a36efd6d891a727003a257cd"
+    },
+    {
+      "original": "https://miro.medium.com/max/944/1*JmtO543B1FVNa6U-wX6vuw.png",
+      "path": "/media/0a58f726be1a7546.webp",
+      "bytes": 18598,
+      "sha256": "669f74b47cf2982feec10ec09d1ea81a2ae176e0c7c4774b6bff6f6536819ee0"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*upnFxbWhpfiKm91wlcfOkQ.png",
+      "path": "/media/f5328e0ee94dc607.webp",
+      "bytes": 32642,
+      "sha256": "02d52af94facf717c0c3753004b6ce83d2754b77d931192500f490df6c32f3d3"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*ml3N09GIeYHeb3e2oT3hAQ.png",
+      "path": "/media/baab5f93028e9eeb.webp",
+      "bytes": 37286,
+      "sha256": "befbebe6525091c4927f8e85a0d23dcbb8ca381ff65cd3ebfcc907f6228d34b7"
+    },
+    {
+      "original": "https://miro.medium.com/max/522/1*uKUNNWFQ4JhuaWVMem7kQA.png",
+      "path": "/media/f76e6252e207b442.webp",
+      "bytes": 11460,
+      "sha256": "60a00f19b26e1d1f0f4df179f39e7cca92e49b9b5dfba6651aee0bc1694f9d71"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*IAI-LRjSLr1S3kI80psRnQ.png",
+      "path": "/media/599816d8513154f8.webp",
+      "bytes": 35520,
+      "sha256": "2554f7a7a8cb460c55f6535cca74e80f71155db91e52cae37e62c9eead1efcbc"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*1XJgqw0nsS8t8V5vRGwK1w.png",
+      "path": "/media/00222a4f5708aadd.webp",
+      "bytes": 31244,
+      "sha256": "f738d182aef64dd69db4c02044accd82640738922503f90480ab897cf2cb5421"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*3DuwqfU9tjoEqKZ7qpPuGQ.png",
+      "path": "/media/da011ecc62ff1d4c.webp",
+      "bytes": 22784,
+      "sha256": "12e6e6626d45e6c4288bb26bb977474a85ea8462c988d8861bdb46ec1443573a"
+    },
+    {
+      "original": "https://miro.medium.com/max/680/1*4QXo0SDvJ4IkHbPsU-OOCg.png",
+      "path": "/media/98f93c14bd2a5f68.webp",
+      "bytes": 13574,
+      "sha256": "bd5c570c4de882955513d4d14d8b2e325ba0f59835973fa972c4ef6e0723b3fa"
+    },
+    {
+      "original": "https://miro.medium.com/max/266/1*KAis7cvCFbsLTm0lZZOysw.png",
+      "path": "/media/cab808cc71d8a53f.webp",
+      "bytes": 2346,
+      "sha256": "b473a801d28e5accf8478d05904bd8c52a1510be9bb6ee41ba13679f7ba5196b"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*FuHz_WCNyJFdahXgVbWKfA.png",
+      "path": "/media/110251f04dcf5d24.webp",
+      "bytes": 22876,
+      "sha256": "0d913b2f179142abdf2fd5559d71ef92033f654d4fca4963af0f093996c45ff1"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*_fSdz_PJDAKLSiGSXcR6oA.png",
+      "path": "/media/fdb441a3f1806c64.webp",
+      "bytes": 21050,
+      "sha256": "28595ad030c741b8cde6301b14835ccda7e5d4ea675a975e2ca0b52698737c8b"
+    },
+    {
+      "original": "https://miro.medium.com/max/940/1*R23SPu2_P9Kgzc1a_BmJbg.png",
+      "path": "/media/23321a6f7b654091.webp",
+      "bytes": 30740,
+      "sha256": "ee3602b34e4a593c7675835d77d5ab8387ad998d4c627351994ed4f86771ec10"
+    },
+    {
+      "original": "https://miro.medium.com/max/1080/1*pismfJaRf3Dr1nZqQNlFzQ.png",
+      "path": "/media/b115b20344055f1e.webp",
+      "bytes": 18016,
+      "sha256": "3c114d19ba2ff9cf2d010cf1a356745059c8a4d557de4700c03225ee545d967f"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*qS4OHBPidd4S1XjMG7Dt4A.png",
+      "path": "/media/dd56372546e1b458.webp",
+      "bytes": 14628,
+      "sha256": "2e068fffea8846f2e36360545d018b59cd254d8294729d1dae319682de5d7924"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*zk7JVoOoMUguDyKdTgkVCA.png",
+      "path": "/media/837844b149382459.webp",
+      "bytes": 21672,
+      "sha256": "0d681302a23987a4fbec193c54ef8f81477ba71c9869faa851f9bd2b1100eaf1"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*IUISTyKHenRpFUF5Is2uDA.png",
+      "path": "/media/ac364caf41a3b449.webp",
+      "bytes": 32150,
+      "sha256": "1e52cc3bb138d8e8c795b8d099143abf4f6308f5676f06445fc684a95c1bf051"
+    },
+    {
+      "original": "https://miro.medium.com/max/934/1*XBYB87Gk5zazRt_TEhsvUw.png",
+      "path": "/media/4847a67ecad1b3e0.webp",
+      "bytes": 10992,
+      "sha256": "955ebc33a0e29c66f03dbe71913aca0dbf25c9573707bc1a3b03f8decf7192cb"
+    },
+    {
+      "original": "https://miro.medium.com/max/1398/1*gOsK8cfOTwLRKDXW9-hMNw.png",
+      "path": "/media/7390fa2301b09e73.webp",
+      "bytes": 13156,
+      "sha256": "a7999629029b04aa91641fbe4c6669b0f8f2a56ecf136cdcb5102f7c0d76c30b"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*7L-3Ti9ypxDjcmwipyBaZw.png",
+      "path": "/media/664d0cbeb12a92e3.webp",
+      "bytes": 19332,
+      "sha256": "5dcb1a58b2e186831249233852b36264b72bc482156faae36a92bbc1b3454dfa"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*qNuiLZ-PBW_18h4kiItV5A.png",
+      "path": "/media/b74df2b754ea55ea.webp",
+      "bytes": 8772,
+      "sha256": "139d34638a562aca531e08578e88b737f1eb807348ed8d1596895ec287da0516"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*WdU7xww-e0Zz0V1Gaf5L-Q.png",
+      "path": "/media/f51c63f58e593f94.webp",
+      "bytes": 28834,
+      "sha256": "3dd0dad373c8f0e5d96b6d762779c3ae28a01a3e1471c818a559370ff2edf515"
+    },
+    {
+      "original": "https://miro.medium.com/max/940/1*gAuPWxKMnXzgFDnqjWt_dw.png",
+      "path": "/media/19ed159138d30dbf.webp",
+      "bytes": 11152,
+      "sha256": "8eb11bf207e508862b943aab8db52cff9f1c2f00e54e49697f7f7d619ae82f4e"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*kdISQEPAhhKI6KSZdx-Pvg.png",
+      "path": "/media/8f79ac6da11b056d.webp",
+      "bytes": 21706,
+      "sha256": "d79dccadc51f312970a9b304161306673c9db0e7e94888f02a2b7f36154414e6"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*oC0jNe3Sc5OpTveiZs3T4w.png",
+      "path": "/media/3f99a5a83e4185e0.webp",
+      "bytes": 10482,
+      "sha256": "e33af8634e583cb0e174b235135566aa6e7dbcd26d5fabd4c09ed7d904b0b043"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*Oyw6u9i6sg29-KsllQ47Sw.png",
+      "path": "/media/69608a60aeafe39c.webp",
+      "bytes": 32330,
+      "sha256": "0afef7aa32d0d1c796014157b3a0bbb4dffb651195507b8b51fce14609857b57"
+    },
+    {
+      "original": "https://miro.medium.com/max/946/1*4ktUNLxPnCz6LTiOlnVLkg.png",
+      "path": "/media/9f670ff335c08742.webp",
+      "bytes": 11144,
+      "sha256": "13e544d6f03106ecbdb7cb4fc79a0ffdda5ec5bf5876296a1c65512470761ebc"
+    },
+    {
+      "original": "https://miro.medium.com/max/956/1*m3mm_9OlZwjxLkdWJGFByg.png",
+      "path": "/media/1792ca490f84499f.webp",
+      "bytes": 11350,
+      "sha256": "015b017ba291233295307602201a70118616fafca528bb45e2617357e95e9177"
+    },
+    {
+      "original": "https://miro.medium.com/max/984/1*Ts51F-Kl3gtdjxXczwOqig.png",
+      "path": "/media/5e8a39c3bb62d0bd.webp",
+      "bytes": 11334,
+      "sha256": "f72e9f4174d5a96256baded20c834d7a1feb7875c9267ca2bcd6fbf4d239e9ee"
+    },
+    {
+      "original": "https://miro.medium.com/max/968/1*C5EoqgmgTFdmrXnsOrWfPQ.png",
+      "path": "/media/8d3401c0fc4ec417.webp",
+      "bytes": 11340,
+      "sha256": "669c496f26d140f30b072b286b01ecc8efb47a85c7be8e79505024ce71e2bff8"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*llxR20LV0ErVMa-Ahn35fw.png",
+      "path": "/media/002b5b8b6b58daf9.webp",
+      "bytes": 42004,
+      "sha256": "f9185b5ee7b8e143e5d2178bd07b55b22726a274b1574c3c85e110c871414e04"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*lGNVpG70soFAl_2uOJ1GjQ.png",
+      "path": "/media/77b35f4e70aed237.webp",
+      "bytes": 29670,
+      "sha256": "09eb233b3e2696e1be6b1ee16c904d8e8cd5b3e240c446a2829b500c4b733b59"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*subb16Mx6DUIMsQK0t8JJQ.png",
+      "path": "/media/486a85465ea7c7bf.webp",
+      "bytes": 22544,
+      "sha256": "659e9eb2c737643e9ad98a2dcc314cfba87435956bdd54abb60760217584dd44"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*OHHFt098nCIwH5CgXN4RKQ.png",
+      "path": "/media/21149329ce50590a.webp",
+      "bytes": 28642,
+      "sha256": "a1e51ce434d3f496d98cecadb1b70450142d9ce33093a8d8832ab659d1cd7e64"
+    },
+    {
+      "original": "https://miro.medium.com/max/786/1*S-96uaCfPb6nLI0y5goxsA.png",
+      "path": "/media/1901a02c0d980e51.webp",
+      "bytes": 4578,
+      "sha256": "ab0b4f36799f0df699d4b6ba78a0df8189c7c6f78de7daa43449251fc3d812f4"
+    },
+    {
+      "original": "https://miro.medium.com/max/742/1*O9jXHarPwzFZKV6MtV7PZg.png",
+      "path": "/media/4bddab33d34392b2.webp",
+      "bytes": 6990,
+      "sha256": "1031b124e5ef7e5fcfa1fab88faab9a14b5b55f233a6fd285cb8523a1541f709"
+    },
+    {
+      "original": "https://miro.medium.com/max/1130/1*yIrlLlKqBB0P3cCkP-3h1w.png",
+      "path": "/media/08f970b206d93681.webp",
+      "bytes": 43946,
+      "sha256": "0a83d8e87afd0ee4c15e2daf58c421cd1231cb00564bf360cafce350b20d2dae"
+    },
+    {
+      "original": "https://miro.medium.com/max/1008/1*4U6wA92OckeGrUkVYpoFGw.png",
+      "path": "/media/4b15d23070ad15b9.webp",
+      "bytes": 18462,
+      "sha256": "1ec19d95a07390b1cc8a12acaecb79888de5e816963b4cba6189083ba57da290"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*BU_8_XszDk3M4Jrkr38DLQ.png",
+      "path": "/media/b906a2f1e2cbcd86.webp",
+      "bytes": 24870,
+      "sha256": "e0da28d36944f2b4895ffec23a3ebc679282afb6bd9d85a4136876e3b2ba9a4d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*yjW4e_Co0jbzfeMdoE3lmg.png",
+      "path": "/media/cc4de460d280bf22.webp",
+      "bytes": 14166,
+      "sha256": "ca2b4a0cb4fa54e49c752ab92ec6332863c0177a6acb43f71f877754bdfee90d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*TgA7FV4Ar-1wZAYXVZyBsQ.png",
+      "path": "/media/f9157b7ad81450b5.webp",
+      "bytes": 40954,
+      "sha256": "cae5336f113f331a232c2e78640883e40011cbfe52bda2d8e76d6650e2dd317b"
+    },
+    {
+      "original": "https://miro.medium.com/max/888/1*F1ATPw_qgXfjoxH_l84O_g.png",
+      "path": "/media/01aae3b867c3bf87.webp",
+      "bytes": 9200,
+      "sha256": "019723c833dc29e7310ce201945da2390c59d5af2c72f780bdb78c40fa330e99"
+    },
+    {
+      "original": "https://miro.medium.com/max/1012/1*pFnED1SgN6WB9DR5pLWHPQ.png",
+      "path": "/media/6e070ec8e3bcd9a3.webp",
+      "bytes": 19778,
+      "sha256": "655003516fb3ce9ec948a1283532649174dadd7c7012203ba2fb42e64f4fcb7f"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*C8e6d8xFEGUsYY-3n6DklA.png",
+      "path": "/media/46a5d750c2ad4ec8.webp",
+      "bytes": 32786,
+      "sha256": "9f70035adda8303c955ddbdaa113cff5024324c7f3d7e673f20644f6b040d493"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*v2eGm2XILLKr0IwZcLp7Rw.png",
+      "path": "/media/f2e8b7ae11805d01.webp",
+      "bytes": 14668,
+      "sha256": "7df2df2733066d74dcb0dd0556e46e41f218adda942d399a22f59aca61d22d03"
+    },
+    {
+      "original": "https://miro.medium.com/max/770/1*WMMfC8NhJxR42MPZwA5bFQ.png",
+      "path": "/media/a1d5159638f8f16b.webp",
+      "bytes": 9936,
+      "sha256": "68029cef89d9d858180363dc5476667f7fe29ab0db732ba544d66b98e32fa4e4"
+    },
+    {
+      "original": "https://miro.medium.com/max/904/1*D-anNZqH8zAExkCSeiB4jg.png",
+      "path": "/media/8b9b973d0186aa02.webp",
+      "bytes": 10130,
+      "sha256": "a1871bafc1d919f2f3a467e3ba96340585c096dd2c6983317f0489f76f4bfe43"
+    },
+    {
+      "original": "https://miro.medium.com/max/784/1*n2MfW8A8neK8tNlYDbuoQw.png",
+      "path": "/media/12901c7dab003430.webp",
+      "bytes": 9950,
+      "sha256": "549e660205e4eb5331c6996d9d644e07cf9f20368e02791c4830bc38b144ab09"
+    },
+    {
+      "original": "https://miro.medium.com/max/912/1*-GleHkJYxrT_0iwAKa6vKw.png",
+      "path": "/media/d118d8747b945cda.webp",
+      "bytes": 11288,
+      "sha256": "fb9103ab2513e8c8151d484d017703a0e223a0246b46b790c8c50a2c3fc02b7c"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*lxYftLIpqHLVuq54V8331g.png",
+      "path": "/media/3870532c494681a0.webp",
+      "bytes": 14204,
+      "sha256": "75acfd649f9fab8c15c2f42f2550f9e3457f73b69452cfbf4867386de3fe1076"
+    },
+    {
+      "original": "https://miro.medium.com/max/1222/1*mACZcMzR8DPRFpcauCYs4w.png",
+      "path": "/media/38893e069392401f.webp",
+      "bytes": 12796,
+      "sha256": "adb5ef4b09823ff58bd9dc493fa31b9b19d7a60bd506400dd47957ff543a918c"
+    },
+    {
+      "original": "https://miro.medium.com/max/1152/1*XaPe-LklkSFEM9QYO5xhrg.png",
+      "path": "/media/ac0176afaf8026f1.webp",
+      "bytes": 12732,
+      "sha256": "c326f34da8e094bc5ee44807f687f24485e0f75509d64507676a90b34ef87465"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*X_enuP-_T7Gk5tpn37EvAA.png",
+      "path": "/media/356aed7c3246f227.webp",
+      "bytes": 40072,
+      "sha256": "1ad12d173d4fce8a3fe5ebcd8d3c1e87651eb226b4039adc98de7a7abaa3eabf"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*04Gs-xJ5Veybg0wO01br5w.png",
+      "path": "/media/d7879f00ee2192cb.webp",
+      "bytes": 13524,
+      "sha256": "bd0488633663978f15c1e350025b5a7030be3e74acce3eefc31a8fd944623576"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*Q4zejupaK9UYnDyl2W-c3g.png",
+      "path": "/media/9419e4985bdbc8ab.webp",
+      "bytes": 38734,
+      "sha256": "3a3807f2aca695b92430416149f1f113a134f8e5c71c2505c60ffe055c3230c4"
+    },
+    {
+      "original": "https://miro.medium.com/max/1254/1*pE7UgKk36QdXYursQDUwLQ.png",
+      "path": "/media/8d8bb9dbdbe0e5a6.webp",
+      "bytes": 12394,
+      "sha256": "d808a0b536cd002a79b85038248cd2fbf243813a8a0f43039b06fb0fb4484191"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*xd90x7Uk7-P05ymXgEp5mg.png",
+      "path": "/media/f3b09de0450e96a5.webp",
+      "bytes": 15014,
+      "sha256": "5d3625d83193a8a4ebf1414001a7ce6ecd3da12554884a2fc07b09fc65f9532f"
+    },
+    {
+      "original": "https://miro.medium.com/max/1344/1*Df0GlCWzv9EZCM--Ktaj2g.png",
+      "path": "/media/116a6c4484d11b15.webp",
+      "bytes": 15498,
+      "sha256": "862481ad8297c297df81fe35fa15870982d03828c99535714e57bc43af6dd09a"
+    },
+    {
+      "original": "https://miro.medium.com/max/1034/1*NBkfmaPHr3wH_mMtkj4fTA.png",
+      "path": "/media/c895955e35305d9a.webp",
+      "bytes": 15246,
+      "sha256": "697b24e8c004a5fe69f126e73b7bd510b165e95887125e14da771a38e081b2ce"
+    },
+    {
+      "original": "https://miro.medium.com/max/276/1*_xNd-mHN-vkEW7MiMhB6qA.png",
+      "path": "/media/544926abe6039ca2.webp",
+      "bytes": 13820,
+      "sha256": "49b5b262ae884bb7052c72e334877e19ef9822cef2a967c889fe1704eaeabc9c"
+    },
+    {
+      "original": "https://miro.medium.com/max/274/1*cjSyvyhq0wOmYtLAklGXFw.png",
+      "path": "/media/4bd0c82888887f9e.webp",
+      "bytes": 2190,
+      "sha256": "1c6f64503d6aef278459785d0d60e32fa500bf92ff379febde6b1d0e553dfd8f"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/0*ERW_CcW3WyctRRUY.png",
+      "path": "/media/26c1520ea7d1a2eb.webp",
+      "bytes": 25736,
+      "sha256": "676c95aad2a94be76025a7c1b1338bd31eb67d6b3a8649c7a21e64b1276f9337"
+    },
+    {
+      "original": "https://miro.medium.com/max/520/1*wQ9mVJkda3Des_LXA7J-TQ.png",
+      "path": "/media/fe8f901d8cc49e1e.webp",
+      "bytes": 4088,
+      "sha256": "69b2412391425f23ace47f1b63631ed96176c069d7d073dae0f39360d892fca9"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/0*aersVjiNaAbJ2Fxc",
+      "path": "/media/22aa53f9203a58f2.webp",
+      "bytes": 92798,
+      "sha256": "8dd071b2cbdc9c13573344b4da07b4a0845d11a7f207bf029fc2b2afbab28368"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/0*1jjPguAwaJp3LehH",
+      "path": "/media/780fef72100fa9ae.webp",
+      "bytes": 25206,
+      "sha256": "85f5343caee5834c737b3fb0177bef01923f5bf57cef5bbe251082ca76c7a5d3"
+    },
+    {
+      "original": "https://miro.medium.com/max/1236/0*-o8osJuz7lOOTsLU",
+      "path": "/media/8d079411ba346f88.webp",
+      "bytes": 29748,
+      "sha256": "9f1deb863afddad0afd3e507d0e5be863c5c44ea23b94f68e7f37e39738e3ea4"
+    },
+    {
+      "original": "https://miro.medium.com/max/1158/1*p96VZWJJB37QX0B4J6mwkg.png",
+      "path": "/media/5d336c71fe38b66d.webp",
+      "bytes": 8610,
+      "sha256": "ad0f3bff7f0a4dab9f0d37213743d51e5f937c4f357e96d1426f9d1c13269aa4"
+    },
+    {
+      "original": "https://miro.medium.com/max/1230/0*x_GrSdiOo9DJQZbI",
+      "path": "/media/0479f2c2d5f746fe.webp",
+      "bytes": 17408,
+      "sha256": "a1afaabd2fe51c143a748b69c5aad5f72bac2c23d56944b0045462b1389867f3"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/0*aVmTjGWMJfz-wRTj",
+      "path": "/media/b7cd6295c2583879.webp",
+      "bytes": 20438,
+      "sha256": "261e0d7ca0f75b90b6bec300341a814980bcc2ad91d012efea8d6343235f89db"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*JT2vHF0_CjKQNIEo0Ek0xw.png",
+      "path": "/media/1cf7a49775514920.webp",
+      "bytes": 39296,
+      "sha256": "ba0bd083475d9d89c54922ef16271d529d8f6e22dd11c2afd697f4a93716c99d"
+    },
+    {
+      "original": "https://miro.medium.com/max/846/0*MzWGvt5qHS3K2e40",
+      "path": "/media/ee0277b681cf9960.webp",
+      "bytes": 12504,
+      "sha256": "d424316966038fe3c5cd1d9050bf9e64f1899780dcca6596c06867d2db40a049"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*Ps6RGU5aLukz3BCJIilINg.jpeg",
+      "path": "/media/c20e2520f28f3b68.webp",
+      "bytes": 74506,
+      "sha256": "97f9c155026b2b153c321d03c2172ab6104e2a7878c17e3c000c4e8fac31010c"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*5D9abedE12HzhbsWVJFH3g.png",
+      "path": "/media/503fa5a9b024f46f.webp",
+      "bytes": 67634,
+      "sha256": "e0f44d80e4e776a4c06974948cf8c0afcb4186ed57f59be516713086e55a014b"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*3UpCS5luxq106dRf7au6mA.jpeg",
+      "path": "/media/f7f3c47a74c3293d.webp",
+      "bytes": 93580,
+      "sha256": "daeb6a18c2fe04cf0c234678cfa3a91eaec92b742484a7288820cba62b0b2e50"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*4yxK14asJ647Fa99U_DXlw.png",
+      "path": "/media/ac7928748628ed96.webp",
+      "bytes": 88338,
+      "sha256": "075a4c569df191b54cb2f990e5b9054d5703c21ddf3be013a13465c37c5514df"
+    },
+    {
+      "original": "https://miro.medium.com/proxy/0*e5SyKhNX5GkC03N0",
+      "path": "/media/9fde15946a58c9a9.webp",
+      "bytes": 20420,
+      "sha256": "7c4a22e090779c5732150201ecad2f872a2071f12e0c96b889afd74d145b2532"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*XLsX7KT0uP29S7KjiDGyDg.jpeg",
+      "path": "/media/92faf06931458dae.webp",
+      "bytes": 76632,
+      "sha256": "42e35f2207ee989ed8c380cdad90cb5c3a7196b398364568e9bac8c90f1d5723"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*0KJa4e0XSoozmz71zh74Tg.jpeg",
+      "path": "/media/06b9676a657dcdf8.webp",
+      "bytes": 127528,
+      "sha256": "dff2bbb56c3bd5cbad6c628a201bc26c98cdb041f41bd8b29810913de144b4a6"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*oyKUYnoOk0M-1K67PyTvcQ.jpeg",
+      "path": "/media/0a4c7ed7bf0bbed5.webp",
+      "bytes": 133256,
+      "sha256": "e9be05555671f0836e68f99ff55ad51486e5acdcd52e0b71febc0fed5c8ac6b8"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*2wlKp7r3YW98r4fPFkJLSA.png",
+      "path": "/media/9fd0909bf5e35c5f.webp",
+      "bytes": 17180,
+      "sha256": "96fcda243b33432518930bc8b7d2b3bc23fbb339319cd978c400ad679895ea5f"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*vTaT6LXRVJ36_faOEKkk3A.png",
+      "path": "/media/8a95a788c386a526.webp",
+      "bytes": 118524,
+      "sha256": "0bb7e733cceeb40efa50ecd04927c539f51c9639d4049491719691e1bfa3f24d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*aodf9OLDwwrP3wgb9v51mQ.png",
+      "path": "/media/c77dade5ed851d1f.webp",
+      "bytes": 68124,
+      "sha256": "e0c15696ef2fc0511ac17a3c5c6c2abfb7469adf8abbad47ec5adf33cea10115"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*zq5-xlAdHzVTQty-pm1xeQ.png",
+      "path": "/media/c20df43b9104994f.webp",
+      "bytes": 141712,
+      "sha256": "1030c2e1a9fea97b3f165648c4d91340d560f82996c1256cd5ca9652884673f7"
+    },
+    {
+      "original": "https://miro.medium.com/max/660/1*FmK_KC_gi35NwJ9ojNbVGw.png",
+      "path": "/media/ba27aa2ae0912e95.webp",
+      "bytes": 18182,
+      "sha256": "7c48bdeefa05bd2ebd4bc5586d0fd9b0262f4d8ec6bd035504d0a8cd3a00f923"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/1*BS6_KUG7b7hUkx0OD6LO7A.png",
+      "path": "/media/05b91f4721cd6b26.webp",
+      "bytes": 61592,
+      "sha256": "ce7563403d3bb2a2eb9fabdd633236fa4171ac48ec4f5c12242ebb2f9721e28d"
+    },
+    {
+      "original": "https://miro.medium.com/max/1400/0*hbGAP7kazynH9WSK.png",
+      "path": "/media/dc1ad4de6d3bb688.webp",
+      "bytes": 12340,
+      "sha256": "b0a50e9b0061e2cd98af3edb09749d6e11f239d9a5e21d106ddfe8f3dd381db4"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2022/02/pexels-aleksandar-pasaric-1388030-1024x1024.jpg",
+      "path": "/media/28fc43911415b277.webp",
+      "bytes": 147990,
+      "sha256": "b361852afb0f6d966006d3fbd66f42614061db785a77d8d5bcdd341c2dd6dc6b"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2021/03/photo-1543783207-ec64e4d95325.jpeg",
+      "path": "/media/edf0a7900db9aad6.webp",
+      "bytes": 146110,
+      "sha256": "f7c852a48e00fd19fcb1091b3263048fd5980fb1e05af511b1a25a1079392867"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2023/01/aisaturdays-alicante-anban-1aedicion.jpg",
+      "path": "/media/342a40d04bfb4795.webp",
+      "bytes": 159854,
+      "sha256": "6495b0cfd88297c4f75842e51b41c3e4e6184e441312510710c667b2ac567956"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2023/03/saturdays.png",
+      "path": "/media/477c6d3b73f36098.webp",
+      "bytes": 19840,
+      "sha256": "d6c444f3239fc005c672c8ac18d2ec02807303793569f41f760a7bb986737ddd"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2021/02/quito.jpg",
+      "path": "/media/4410e8906fd7c622.webp",
+      "bytes": 116536,
+      "sha256": "d0fd7986ae8d6de4af3c535e7e1a6b86e66c0098372aa4a72c6db3a1e8fa869a"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2023/05/0511g-monterrey-oficinas.jpg",
+      "path": "/media/68972551ae5f57a9.webp",
+      "bytes": 129410,
+      "sha256": "78c63ba57c82bfc718930d322dc95c83ca7339e3b4af030bb6c4d3b6fc41bc41"
+    },
+    {
+      "original": "https://saturdays.ai/wp-content/uploads/2023/12/aerial-drone-fly-above-asuncion-600nw-2321922323-1.webp",
+      "path": "/media/cee6bc647c0637cd.webp",
+      "bytes": 55028,
+      "sha256": "50e5b26a14a6364d772397db689ddbb37b095a011c2d11eaf0c367d5cda5682c"
+    }
+  ],
+  "warnings": [],
+  "reviewedMediaHosts": [
+    "saturdays.ai",
+    "www.saturdays.ai",
+    "miro.medium.com"
+  ]
+}

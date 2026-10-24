@@ -1,0 +1,197 @@
+---
+import '@fontsource-variable/dm-sans';
+import '@fontsource-variable/space-grotesk';
+import '../styles/global.css';
+import Brand from '../components/Brand.astro';
+import Icon from '../components/Icon.astro';
+import { url } from '../lib/content';
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  language?: string;
+  article?: boolean;
+}
+const {
+  title = 'Learn AI. Build something that matters.',
+  description = 'A global, non-profit community making artificial intelligence accessible to everyone. Learn by doing, build projects with social impact and find your people.',
+  image = '/social-card.svg',
+  language = 'en',
+  article = false,
+} = Astro.props;
+const preview = import.meta.env.PUBLIC_SITE_MODE !== 'production';
+const site = Astro.site || new URL('https://saturdays.ai');
+const canonical = new URL(Astro.url.pathname, site);
+const nav = [
+  ['Learn', '/online/'],
+  ['Projects', '/proyectos/'],
+  ['Community', '/cities/'],
+  ['Stories', '/blog-y-noticias/'],
+];
+const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
+---
+
+<!doctype html>
+<html lang={language}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f3ed" />
+    <title>{title} | Saturdays.AI</title>
+    <meta name="description" content={description} />
+    {preview && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={url('/favicon.svg')} />
+    <meta property="og:title" content={`${title} | Saturdays.AI`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={new URL(url(image), site)} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Saturdays.AI stories"
+      href={url('/feed.xml')}
+    />
+    <slot name="head" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">
+      Skip to content
+    </a>
+    {preview && (
+      <div class="preview-banner">
+        <span class="status-dot"></span> A new chapter for Saturdays.AI{' '}
+        <span class="preview-label">Design preview</span>
+        <a href="https://saturdays.ai/">
+          Visit current site <span aria-hidden="true">↗</span>
+        </a>
+      </div>
+    )}
+    <header class="site-header">
+      <div class="nav-wrap container">
+        <Brand />
+        <button
+          class="menu-toggle"
+          aria-label="Open navigation"
+          aria-expanded="false"
+          aria-controls="site-nav"
+        >
+          <Icon name="menu" />
+        </button>
+        <nav id="site-nav" aria-label="Main navigation">
+          {nav.map(([label, path]) => (
+            <a
+              class:list={['nav-link', { active: isActive(path) }]}
+              href={url(path)}
+              aria-current={isActive(path) ? 'page' : undefined}
+            >
+              {label}
+            </a>
+          ))}
+          <a class="button button-dark nav-cta" href={url('/online/')}>
+            Start learning <Icon name="northeast" size={17} />
+          </a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-top">
+        <div>
+          <Brand />
+          <p>
+            Artificial intelligence.
+            <br />
+            Human connection.
+            <br />
+            <strong>Real-world impact.</strong>
+          </p>
+        </div>
+        <div>
+          <h2>Find your way</h2>
+          <a href={url('/online/')}>Learn AI</a>
+          <a href={url('/proyectos/')}>Explore projects</a>
+          <a href={url('/cities/')}>Find a community</a>
+          <a href={url('/blog-y-noticias/')}>Read our stories</a>
+        </div>
+        <div>
+          <h2>Get to know us</h2>
+          <a href="https://saturdays.ai/about/">About Saturdays.AI ↗</a>
+          <a href="https://saturdays.ai/partners/">Our partners ↗</a>
+          <a href="mailto:info@saturdays.ai">Get in touch</a>
+          <a href="https://saturdays.ai/create-your-own-ai-saturdays/">
+            Become a community leader ↗
+          </a>
+        </div>
+        <div class="footer-note">
+          <Icon name="globe" size={32} />
+          <p>
+            Made for curious minds.
+            <br />
+            Open to everyone.
+          </p>
+          <span class="eyebrow">AI4ALL IS AI4GOOD</span>
+        </div>
+      </div>
+      <div class="container footer-bottom">
+        <span>© {new Date().getFullYear()} Saturdays.AI. Built together.</span>
+        <div>
+          <a href="https://saturdays.ai/privacy-policy/">Privacy</a>
+          <a href="https://saturdays.ai/terms/">Terms</a>
+          <a href={url('/admin/')}>
+            Editor access <Icon name="northeast" size={13} />
+          </a>
+        </div>
+      </div>
+    </footer>
+    <script>
+      const toggle = document.querySelector<HTMLButtonElement>('.menu-toggle');
+      const nav = document.querySelector<HTMLElement>('#site-nav');
+      const close = () => {
+        toggle?.setAttribute('aria-expanded', 'false');
+        toggle?.setAttribute('aria-label', 'Open navigation');
+        nav?.classList.remove('is-open');
+      };
+      toggle?.addEventListener('click', () => {
+        const open = toggle.getAttribute('aria-expanded') !== 'true';
+        toggle.setAttribute('aria-expanded', String(open));
+        toggle.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+        nav?.classList.toggle('is-open', open);
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && toggle?.getAttribute('aria-expanded') === 'true') {
+          close();
+          toggle.focus();
+        }
+      });
+      document.addEventListener('click', (e) => {
+        if (e.target instanceof Node && !nav?.contains(e.target) && !toggle?.contains(e.target))
+          close();
+      });
+      nav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', close));
+      if (
+        !matchMedia('(prefers-reduced-motion: reduce)').matches &&
+        'IntersectionObserver' in window
+      ) {
+        const observer = new IntersectionObserver(
+          (entries) =>
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('revealed');
+                observer.unobserve(entry.target);
+              }
+            }),
+          { threshold: 0.08 },
+        );
+        document.querySelectorAll('[data-reveal]').forEach((el) => {
+          el.classList.add('will-reveal');
+          observer.observe(el);
+        });
+      }
+    </script>
+  </body>
+</html>

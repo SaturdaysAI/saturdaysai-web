@@ -1,0 +1,98 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import courseData from '../data/courses.json';
+const courses = courseData.courses;
+---
+
+<Layout
+  title="Find your AI learning path"
+  description="Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">A LITTLE CURIOSITY GOES A LONG WAY</span>
+      <h1>
+        Big possibilities.
+        <br />
+        <span class="orange-word">One first step.</span>
+      </h1>
+      <p>
+        Start with the basics or follow your next big question. Practical courses for people who
+        learn by doing.
+      </p>
+    </section>
+    <div class="listing-tools">
+      <div class="filter-pills" aria-label="Choose your learning level">
+        {['All paths', 'Starting out', 'Going deeper'].map((c, i) => (
+          <button
+            data-filter={i === 0 ? 'all' : c}
+            aria-pressed={i === 0 ? 'true' : 'false'}
+            class:list={{ selected: i === 0 }}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <label class="search-box">
+        <Icon name="search" size={18} />
+        <span class="sr-only">Search courses</span>
+        <input type="search" placeholder="Python, generative AI, data…" data-search-input />
+      </label>
+    </div>
+    <p class="result-count" data-result-count aria-live="polite">
+      {courses.length} learning paths in this preview.
+    </p>
+    <noscript>
+      <p class="no-js-note">
+        All learning paths are listed below. Search and level filters require JavaScript.
+      </p>
+    </noscript>
+    <div class="course-grid">
+      {courses.map((c) => (
+        <article
+          class="course-card"
+          data-course
+          data-category={c.level}
+          data-search={`${c.title} ${c.description} ${c.topic} ${c.language}`}
+        >
+          <span class:list={['path-icon', c.color]}>
+            <Icon name={c.icon} size={28} />
+          </span>
+          <h2>{c.title}</h2>
+          <p>{c.description}</p>
+          <div class="course-meta">
+            <span>{c.level}</span>
+            <span>{c.language}</span>
+          </div>
+          <a class="text-link" href={c.url}>
+            Explore course <Icon name="northeast" size={18} />
+          </a>
+        </article>
+      ))}
+    </div>
+    <div class="empty-state" data-empty hidden>
+      <h2>No matching paths.</h2>
+      <p>Try another topic or explore all levels.</p>
+      <button class="button button-dark" data-reset>
+        Show all paths
+      </button>
+    </div>
+    <section class="closing-section">
+      <span class="eyebrow">BETTER TOGETHER</span>
+      <h2>
+        Questions welcome.
+        <br />
+        People even more.
+      </h2>
+      <p>Find other curious minds and share what you’re learning.</p>
+      <a class="button button-dark" href="https://discord.gg/ktbM5ANcVM">
+        Join the conversation <Icon name="northeast" size={18} />
+      </a>
+    </section>
+  </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-course]', noun: 'learning paths' });
+  </script>
+</Layout>

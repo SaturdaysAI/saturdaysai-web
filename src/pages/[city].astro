@@ -1,0 +1,94 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import { url } from '../lib/content';
+import cities from '../data/cities.json';
+import site from '../data/site.json';
+export function getStaticPaths() {
+  return cities.cities
+    .filter((c) => !c.draft)
+    .map((city) => ({ params: { city: city.slug }, props: { city } }));
+}
+const { city } = Astro.props;
+---
+
+<Layout
+  title={`AI Saturdays ${city.name}`}
+  description={city.description}
+  image={city.image || site.communityImage}
+>
+  <div class="container">
+    <section class="page-hero pb-0">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={url('/')}>Home</a>
+        <span aria-hidden="true">/</span>
+        <a href={url('/cities/')}>Community</a>
+        <span aria-hidden="true">/</span>
+        <span>{city.name}</span>
+      </nav>
+    </section>
+    <section class="city-intro">
+      <div>
+        <span class="eyebrow">{city.country.toUpperCase()} / AI SATURDAYS</span>
+        <h1>
+          Hello,
+          <br />
+          <span class="orange-word">{city.name}.</span>
+        </h1>
+        <p>{city.description}</p>
+        <a class="button button-orange" href={city.contact}>
+          Connect with the team <Icon name="northeast" size={18} />
+        </a>
+      </div>
+      <img
+        src={url(city.image || site.communityImage)}
+        alt={
+          city.image ? `A view of ${city.name}` : 'Saturdays.AI community members working together'
+        }
+        width="900"
+        height="700"
+        fetchpriority="high"
+      />
+    </section>
+    <div class="status-note">
+      <span class="status-dot"></span>
+      <span>
+        {city.status}. Dates, location and programme details are confirmed by the local team.
+      </span>
+    </div>
+    <div class="info-columns">
+      <div>
+        <Icon name="book" size={28} />
+        <h2>Learn by doing</h2>
+        <p>
+          Bring your curiosity and develop your skills through practical work, shared questions and
+          community learning.
+        </p>
+      </div>
+      <div>
+        <Icon name="code" size={28} />
+        <h2>Build for social good</h2>
+        <p>
+          Explore how AI can address real challenges. Turn what you learn into a project with a
+          purpose.
+        </p>
+      </div>
+      <div>
+        <Icon name="users" size={28} />
+        <h2>Grow together</h2>
+        <p>
+          Connect with learners and mentors from different backgrounds. Share ideas and support each
+          other along the way.
+        </p>
+      </div>
+    </div>
+    <section class="closing-section">
+      <span class="eyebrow">KEEP YOUR CURIOSITY MOVING</span>
+      <h2>Your learning starts wherever you are.</h2>
+      <p>Explore our online learning paths while you connect with your local community.</p>
+      <a class="button button-dark" href={url('/online/')}>
+        Explore the courses <Icon name="arrow" size={18} />
+      </a>
+    </section>
+  </div>
+</Layout>

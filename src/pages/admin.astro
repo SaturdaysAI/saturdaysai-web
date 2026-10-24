@@ -1,0 +1,53 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+---
+
+<Layout
+  title="Editorial workspace"
+  description="Write and manage Saturdays.AI content with Pages CMS."
+>
+  <div class="container">
+    <section class="admin-panel">
+      <span class="eyebrow">FOR THE SATURDAYS.AI TEAM</span>
+      <h1>
+        Your next story
+        <br />
+        starts here.
+      </h1>
+      <p>
+        Use Pages CMS to write articles, upload images and update community pages. Your changes are
+        saved in the Saturdays.AI GitHub repository.
+      </p>
+      <ol>
+        <li>
+          Sign in to Pages CMS and open <strong>SaturdaysAI / saturdaysai-web</strong>.
+        </li>
+        <li>
+          Choose <strong>Articles & projects</strong>, add your story and save it as a draft.
+        </li>
+        <li>
+          Review the title, author, date, image and permanent URL. Existing article URLs must stay
+          unchanged.
+        </li>
+        <li>
+          When the story is approved, switch off <strong>Draft</strong>. A successful build
+          publishes it to this preview.
+        </li>
+      </ol>
+      <p class="editor-warning">
+        This pilot uses a public repository. Drafts stay off the website, but their files are
+        visible on GitHub. Keep confidential drafts elsewhere.
+      </p>
+      <a class="button button-dark mt-20" href="https://app.pagescms.org/">
+        Open Pages CMS <Icon name="northeast" size={19} />
+      </a>
+      <p>
+        <small>
+          The repository owner must first grant Pages CMS access to this repository. This editor
+          link does not grant access by itself.
+        </small>
+      </p>
+    </section>
+  </div>
+</Layout>

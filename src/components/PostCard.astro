@@ -1,0 +1,46 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { url, dateLabel, readingTime } from '../lib/content';
+import Icon from './Icon.astro';
+interface Props {
+  post: CollectionEntry<'posts'>;
+  featured?: boolean;
+  heading?: 'h2' | 'h3';
+}
+const { post, featured = false, heading: Heading = 'h3' } = Astro.props;
+const p = post.data;
+---
+
+<article
+  class:list={['post-card', { featured }]}
+  data-post
+  data-category={p.category}
+  data-search={`${p.title} ${p.description} ${p.author} ${p.tags.join(' ')}`.toLocaleLowerCase()}
+>
+  <a class="post-image" href={url(p.legacyPath)} tabindex="-1" aria-hidden="true">
+    {p.image ? (
+      <img src={url(p.image)} alt="" width="720" height="480" loading="lazy" decoding="async" />
+    ) : (
+      <div class="image-placeholder">
+        <Icon name="spark" size={80} />
+      </div>
+    )}
+    <span class="image-arrow">
+      <Icon name="northeast" size={23} />
+    </span>
+  </a>
+  <div class="post-content">
+    <div class="post-meta">
+      <span class="tag">{p.category}</span>
+      <span>{readingTime(post.body)} min read</span>
+    </div>
+    <Heading class="post-title" lang={p.language}>
+      <a href={url(p.legacyPath)}>{p.title}</a>
+    </Heading>
+    {featured && <p lang={p.language}>{p.description}</p>}
+    <div class="post-byline">
+      <span>{p.author}</span>
+      <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate)}</time>
+    </div>
+  </div>
+</article>

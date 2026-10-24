@@ -1,0 +1,272 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import CommunityArt from '../components/CommunityArt.astro';
+import PostCard from '../components/PostCard.astro';
+import { publishedPosts, url } from '../lib/content';
+import cities from '../data/cities.json';
+import site from '../data/site.json';
+const posts = await publishedPosts();
+const stories = posts.filter((p) => p.data.kind === 'article').slice(0, 3);
+const paths = [
+  {
+    id: 'learn',
+    number: '01',
+    title: 'Start with curiosity.',
+    label: 'I want to learn',
+    icon: 'book',
+    color: 'peach',
+    text: 'No perfect background required. Find a learning path, get hands-on and turn “what if” into your first project.',
+    link: '/online/',
+    cta: 'Explore the courses',
+    detail:
+      'From your first line of Python to generative AI. Pick a topic, learn at your own pace and put it into practice.',
+  },
+  {
+    id: 'build',
+    number: '02',
+    title: 'Build something useful.',
+    label: 'I want to build',
+    icon: 'code',
+    color: 'lilac',
+    text: 'Make AI work for the world around you. Explore community projects and find the spark for your next idea.',
+    link: '/proyectos/',
+    cta: 'Discover the projects',
+    detail:
+      'Real challenges are the best classroom. Explore how our community applies AI to the environment, health and everyday life.',
+  },
+  {
+    id: 'connect',
+    number: '03',
+    title: 'Find your people.',
+    label: 'I want to connect',
+    icon: 'users',
+    color: 'lime',
+    text: 'Learning is better together. Meet curious minds, share what you know and grow with your local community.',
+    link: '/cities/',
+    cta: 'Find your community',
+    detail:
+      'Meet learners, builders and mentors in a city near you. There is room for different backgrounds and fresh perspectives.',
+  },
+];
+---
+
+<Layout>
+  <section class="hero container">
+    <div class="hero-copy">
+      <div class="eyebrow hero-eyebrow">
+        <span class="tiny-star">✳</span> AI FOR EVERYONE. GOOD FOR EVERYONE.
+      </div>
+      <h1>
+        {site.heroLine1}
+        <br />
+        {site.heroLine2}
+        <br />
+        it{' '}
+        <span class="orange-word">
+          {site.heroEmphasis}
+          <svg viewBox="0 0 370 18" preserveAspectRatio="none" aria-hidden="true">
+            <path
+              d="M3 12Q180-5 365 10"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="4"
+              stroke-linecap="round"
+            />
+          </svg>
+        </span>
+        .
+      </h1>
+      <p class="hero-description">{site.description}</p>
+      <div class="hero-actions">
+        <a class="button button-orange" href="#start">
+          Find your starting point <Icon name="arrow" size={19} />
+        </a>
+        <a class="text-link" href={url('/cities/')}>
+          Meet the community <Icon name="northeast" size={17} />
+        </a>
+      </div>
+      <div class="hero-footnote">
+        <span class="mini-network" aria-hidden="true">
+          <i></i>
+          <i></i>
+          <i></i>
+        </span>
+        <span>A global community with a shared purpose.</span>
+      </div>
+    </div>
+    <CommunityArt />
+  </section>
+  <div class="mission-strip">
+    <div class="container">
+      <span>Curiosity over credentials</span>
+      <Icon name="spark" size={22} />
+      <span>Learning by building</span>
+      <Icon name="spark" size={22} />
+      <span>People before technology</span>
+      <Icon name="spark" size={22} />
+      <span>AI for social good</span>
+    </div>
+  </div>
+  <section id="start" class="section container">
+    <div class="section-heading" data-reveal>
+      <div>
+        <span class="eyebrow">YOUR NEXT CHAPTER STARTS HERE</span>
+        <h2>
+          There’s a place for
+          <br />
+          <span class="muted">your kind of curious.</span>
+        </h2>
+      </div>
+      <p>
+        You don’t need to have it all figured out.
+        <br />
+        Just bring a question and a little curiosity.
+      </p>
+    </div>
+    <div class="path-grid">
+      {paths.map((p) => (
+        <a href={url(p.link)} class:list={['path-card', p.color]} data-reveal>
+          <div class="path-top">
+            <span class="path-icon">
+              <Icon name={p.icon} size={28} />
+            </span>
+            <span class="card-number">{p.number}</span>
+          </div>
+          <h3>{p.title}</h3>
+          <p>{p.text}</p>
+          <span class="card-link">
+            {p.cta}
+            <Icon name="northeast" />
+          </span>
+        </a>
+      ))}
+    </div>
+    <div class="path-finder" data-reveal>
+      <div>
+        <span class="eyebrow">A LITTLE GUIDANCE?</span>
+        <h3>What brings you here?</h3>
+      </div>
+      <div class="path-finder-right">
+        <div class="filter-pills" aria-label="Choose your interest">
+          {paths.map((p, i) => (
+            <button
+              class:list={['interest-button', { selected: i === 0 }]}
+              aria-pressed={i === 0 ? 'true' : 'false'}
+              data-interest={p.id}
+              data-detail={p.detail}
+              data-href={url(p.link)}
+              data-cta={p.cta}
+            >
+              {p.label}
+            </button>
+          ))}
+        </div>
+        <div class="interest-result" aria-live="polite">
+          <p id="interest-description">{paths[0].detail}</p>
+          <a id="interest-link" class="text-link" href={url(paths[0].link)}>
+            <span>{paths[0].cta}</span>
+            <Icon name="arrow" size={17} />
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="community-section">
+    <div class="container community-split">
+      <div class="community-image" data-reveal>
+        <img
+          src={url(site.communityImage)}
+          alt="Saturdays.AI participants collaborating during a community session"
+          width="900"
+          height="700"
+          loading="lazy"
+        />
+        <span class="image-note">
+          Less scrolling.
+          <br />
+          <strong>More doing, together.</strong>
+          <Icon name="spark" size={35} />
+        </span>
+      </div>
+      <div class="community-copy" data-reveal>
+        <span class="eyebrow">GLOBAL IDEAS. LOCAL CONNECTIONS.</span>
+        <h2>
+          The best part of AI?
+          <br />
+          The <span class="orange-word">people</span>.
+        </h2>
+        <p>
+          We’re a non-profit community on a mission to make AI accessible to anyone. Students,
+          career changers, researchers, makers. Different starting points, shared curiosity.
+        </p>
+        <p>
+          Through AI Saturdays, we learn by building projects with social impact, supported by
+          people who want to see each other grow.
+        </p>
+        <a class="button button-dark" href={url('/cities/')}>
+          Find a city near you <Icon name="northeast" size={18} />
+        </a>
+        <div class="city-tags">
+          {cities.cities
+            .filter((c) => !c.draft)
+            .slice(0, 5)
+            .map((c) => (
+              <a href={url(`/${c.slug}/`)}>{c.name}</a>
+            ))}
+          <a href={url('/cities/')}>Explore more ↗</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section container">
+    <div class="section-heading" data-reveal>
+      <div>
+        <span class="eyebrow">FROM THE COMMUNITY</span>
+        <h2>Ideas worth sharing.</h2>
+      </div>
+      <a class="text-link" href={url('/blog-y-noticias/')}>
+        All stories <Icon name="arrow" size={19} />
+      </a>
+    </div>
+    <div class="post-grid">
+      {stories.map((post) => (
+        <PostCard post={post} />
+      ))}
+    </div>
+  </section>
+  <section class="container closing-section" data-reveal>
+    <div class="closing-star" aria-hidden="true">
+      ✳
+    </div>
+    <span class="eyebrow">LESS “SOMEDAY”. MORE SATURDAYS.</span>
+    <h2>
+      Your next big idea
+      <br />
+      starts with a small step.
+    </h2>
+    <p>Take a course. Meet a community. Make something that matters.</p>
+    <a class="button button-dark" href={url('/online/')}>
+      Let’s get started <Icon name="northeast" size={19} />
+    </a>
+  </section>
+  <script>
+    const buttons = document.querySelectorAll<HTMLButtonElement>('[data-interest]');
+    buttons.forEach((button) =>
+      button.addEventListener('click', () => {
+        buttons.forEach((b) => {
+          b.classList.toggle('selected', b === button);
+          b.setAttribute('aria-pressed', String(b === button));
+        });
+        const description = document.querySelector('#interest-description');
+        const link = document.querySelector<HTMLAnchorElement>('#interest-link');
+        if (description) description.textContent = button.dataset.detail || '';
+        if (link) {
+          link.href = button.dataset.href || '';
+          const span = link.querySelector('span');
+          if (span) span.textContent = button.dataset.cta || '';
+        }
+      }),
+    );
+  </script>
+</Layout>

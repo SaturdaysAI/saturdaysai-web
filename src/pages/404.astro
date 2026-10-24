@@ -1,0 +1,20 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { url } from '../lib/content';
+import Icon from '../components/Icon.astro';
+---
+
+<Layout title="A little off the path">
+  <section class="container section">
+    <span class="eyebrow">404 / A LITTLE OFF THE PATH</span>
+    <h1 class="mt-20">
+      Curiosity takes you
+      <br />
+      <span class="orange-word">places.</span>
+    </h1>
+    <p class="mt-20">This page isn’t part of the preview. Let’s get you back to exploring.</p>
+    <a class="button button-dark mt-20" href={url('/')}>
+      Back to the beginning <Icon name="arrow" />
+    </a>
+  </section>
+</Layout>

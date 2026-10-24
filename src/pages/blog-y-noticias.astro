@@ -1,0 +1,70 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from '../components/PostCard.astro';
+import Icon from '../components/Icon.astro';
+import { publishedPosts } from '../lib/content';
+const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
+---
+
+<Layout
+  title="Stories, experiments & ideas"
+  description="Stories from the Saturdays.AI community. Explore AI tutorials, real projects and ideas with social impact."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">THE SATURDAYS JOURNAL</span>
+      <h1>
+        Good ideas
+        <br />
+        are worth <span class="orange-word">sharing.</span>
+      </h1>
+      <p>
+        Experiments, lessons and stories from people putting AI into practice. Written by our
+        community, in their own words.
+      </p>
+    </section>
+    <div class="listing-tools" data-filters>
+      <div class="filter-pills" aria-label="Filter stories by topic">
+        {['All stories', 'Community', 'AI for good', 'Build with AI'].map((c, i) => (
+          <button
+            data-filter={i === 0 ? 'all' : c}
+            aria-pressed={i === 0 ? 'true' : 'false'}
+            class:list={{ selected: i === 0 }}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <label class="search-box">
+        <Icon name="search" size={18} />
+        <span class="sr-only">Search stories</span>
+        <input type="search" placeholder="Search stories, topics, authors…" data-search-input />
+      </label>
+    </div>
+    <p class="result-count" data-result-count aria-live="polite">
+      {posts.length} stories in this preview. Articles are in Spanish.
+    </p>
+    <noscript>
+      <p class="no-js-note">
+        All stories are shown below. Search and topic filters require JavaScript.
+      </p>
+    </noscript>
+    <div class="post-grid listing-grid">
+      {posts.map((post) => (
+        <PostCard post={post} heading="h2" />
+      ))}
+    </div>
+    <div class="empty-state" data-empty hidden>
+      <Icon name="search" size={30} />
+      <h2>No stories found.</h2>
+      <p>Try a different word or explore another topic.</p>
+      <button class="button button-dark" data-reset>
+        Show all stories
+      </button>
+    </div>
+  </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-post]', noun: 'stories', suffix: 'Articles are in Spanish.' });
+  </script>
+</Layout>

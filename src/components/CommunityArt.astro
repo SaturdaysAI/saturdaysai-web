@@ -1,0 +1,69 @@
+---
+import { url } from '../lib/content';
+import site from '../data/site.json';
+import Icon from './Icon.astro';
+---
+
+<div class="community-art" aria-label="A community built around learning and creating together">
+  <div class="art-grid" aria-hidden="true"></div>
+  <div class="orbit orbit-one" aria-hidden="true"></div>
+  <div class="orbit orbit-two" aria-hidden="true"></div>
+  <div class="art-label eyebrow">
+    <span class="status-dot"></span> Curiosity connects us
+  </div>
+  <div class="art-photo">
+    <img
+      src={url(site.heroImage)}
+      alt="Saturdays.AI community members learning together"
+      width="620"
+      height="600"
+      fetchpriority="high"
+    />
+    <span class="photo-caption">
+      <span class="status-dot"></span> Real people. Shared curiosity.
+    </span>
+  </div>
+  <div class="art-code" aria-hidden="true">
+    <span class="code-window">
+      <i></i>
+      <i></i>
+      <i></i>
+      <span>hello_future.py</span>
+    </span>
+    <code>
+      <span class="code-purple">while</span> curious:
+      <br />
+      &nbsp; learn()
+      <br />
+      &nbsp; build()
+      <br />
+      &nbsp; <span class="code-orange">share()</span>
+    </code>
+  </div>
+  <div class="art-sticker" aria-hidden="true">
+    <Icon name="spark" size={42} />
+    <span>
+      GOOD PEOPLE.
+      <br />
+      GOOD AI.
+    </span>
+  </div>
+  <div class="art-note">
+    <Icon name="users" size={22} />
+    <div>
+      <strong>Find your people.</strong>
+      <span>Build something bigger.</span>
+    </div>
+  </div>
+  <svg class="art-connector" viewBox="0 0 500 500" aria-hidden="true">
+    <path
+      d="M45 130C140 30 360 20 455 145S470 420 280 450 20 380 40 250"
+      fill="none"
+      stroke="#b9b5ac"
+      stroke-width="1"
+      stroke-dasharray="5 8"
+    />
+    <circle cx="450" cy="145" r="5" fill="#ed603b" />
+    <circle cx="40" cy="250" r="5" fill="#ed603b" />
+  </svg>
+</div>

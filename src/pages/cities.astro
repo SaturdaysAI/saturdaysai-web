@@ -1,0 +1,101 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import { url } from '../lib/content';
+import cityData from '../data/cities.json';
+const cities = cityData.cities.filter((c) => !c.draft);
+---
+
+<Layout
+  title="Find your local AI community"
+  description="Find a Saturdays.AI community near you. Meet curious people, learn together and build AI projects with social impact."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">YOUR PEOPLE ARE OUT THERE</span>
+      <h1>
+        Global curiosity.
+        <br />
+        <span class="orange-word">Local connections.</span>
+      </h1>
+      <p>
+        Good ideas can start anywhere. Find a community near you and turn a Saturday into something
+        bigger.
+      </p>
+    </section>
+    <div class="listing-tools">
+      <div class="filter-pills" aria-label="Filter cities by region">
+        {['Everywhere', 'Europe', 'Americas'].map((c, i) => (
+          <button
+            data-filter={i === 0 ? 'all' : c}
+            aria-pressed={i === 0 ? 'true' : 'false'}
+            class:list={{ selected: i === 0 }}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <label class="search-box">
+        <Icon name="search" size={18} />
+        <span class="sr-only">Search cities</span>
+        <input type="search" placeholder="Find your city or country…" data-search-input />
+      </label>
+    </div>
+    <p class="result-count" data-result-count aria-live="polite">
+      {cities.length} communities in this preview.
+    </p>
+    <noscript>
+      <p class="no-js-note">
+        All communities are listed below. Search and region filters require JavaScript.
+      </p>
+    </noscript>
+    <div class="city-grid">
+      {cities.map((c) => (
+        <a
+          href={url(`/${c.slug}/`)}
+          class="city-card"
+          data-city
+          data-category={c.region}
+          data-search={`${c.name} ${c.country} ${c.region}`}
+        >
+          <div class="city-card-image">
+            {c.image ? (
+              <img src={url(c.image)} alt={c.name} width="600" height="450" loading="lazy" />
+            ) : (
+              <div class="city-placeholder">
+                <Icon name="globe" />
+              </div>
+            )}
+          </div>
+          <div class="city-card-info">
+            <span>{c.country}</span>
+            <h2>
+              {c.name}
+              <Icon name="northeast" size={19} />
+            </h2>
+            <p>Learn. Build. Connect.</p>
+          </div>
+        </a>
+      ))}
+    </div>
+    <div class="empty-state" data-empty hidden>
+      <h2>No matching communities.</h2>
+      <p>Try a country name, or explore another region.</p>
+      <button class="button button-dark" data-reset>
+        Show all communities
+      </button>
+    </div>
+    <section class="closing-section">
+      <span class="eyebrow">MAKE THE FIRST CONNECTION</span>
+      <h2>Don’t see your city?</h2>
+      <p>Bring a community together around a shared curiosity for AI.</p>
+      <a class="button button-dark" href="https://saturdays.ai/create-your-own-ai-saturdays/">
+        Start a community <Icon name="northeast" size={18} />
+      </a>
+    </section>
+  </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-city]', noun: 'communities' });
+  </script>
+</Layout>

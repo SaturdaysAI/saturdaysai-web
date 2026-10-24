@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "name": "Barcelona",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "barcelona",
+      "image": "/media/28fc43911415b277.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/barcelona/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Barcelona.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "madrid",
+      "image": "/media/edf0a7900db9aad6.webp",
+      "contact": "mailto:madrid@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/madrid/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Madrid.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Valencia",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "valencia",
+      "image": "/media/342a40d04bfb4795.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/valencia/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Valencia.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Guadalajara",
+      "country": "Mexico",
+      "region": "Americas",
+      "slug": "guadalajara",
+      "image": "/media/477c6d3b73f36098.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/guadalajara/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Guadalajara.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Quito",
+      "country": "Ecuador",
+      "region": "Americas",
+      "slug": "quito",
+      "image": "/media/4410e8906fd7c622.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/quito/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Quito.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Guayaquil",
+      "country": "Ecuador",
+      "region": "Americas",
+      "slug": "guayaquil",
+      "image": "/media/edf0a7900db9aad6.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/guayaquil/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Guayaquil.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Monterrey",
+      "country": "Mexico",
+      "region": "Americas",
+      "slug": "monterrey-ai",
+      "image": "/media/68972551ae5f57a9.webp",
+      "contact": "mailto:monterrey@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/monterrey-ai/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Monterrey.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    },
+    {
+      "name": "Asunción",
+      "country": "Paraguay",
+      "region": "Americas",
+      "slug": "asuncion",
+      "image": "/media/cee6bc647c0637cd.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/asuncion/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Asunción.",
+      "status": "Contact the team for the next edition",
+      "draft": false
+    }
+  ]
+}
