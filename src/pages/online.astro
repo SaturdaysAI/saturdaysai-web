@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import SectionArchive from '../components/SectionArchive.astro';
 import Icon from '../components/Icon.astro';
 import courseData from '../data/courses.json';
 const courses = courseData.courses;
@@ -95,4 +96,7 @@ const courses = courseData.courses;
     import { setupFilters } from '../scripts/filters';
     setupFilters({ item: '[data-course]', noun: 'learning paths' });
   </script>
+  <div class="container">
+    <SectionArchive path={'/online/'} label="More learning paths and programme information" />
+  </div>
 </Layout>

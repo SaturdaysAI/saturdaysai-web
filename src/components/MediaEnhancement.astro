@@ -1,0 +1,56 @@
+<script>
+  // Keep third-party players idle until explicitly requested; readable links work without JS.
+  document.querySelectorAll<HTMLAnchorElement>('.prose a[href]').forEach((link) => {
+    let source: URL;
+    try {
+      source = new URL(link.href);
+    } catch {
+      return;
+    }
+    let provider = '',
+      audio = false;
+    if (source.protocol !== 'https:') return;
+    if (
+      ['www.youtube.com', 'youtube.com', 'www.youtube-nocookie.com'].includes(source.hostname) &&
+      source.pathname.startsWith('/embed/')
+    ) {
+      source.hostname = 'www.youtube-nocookie.com';
+      provider = 'YouTube';
+    } else if (source.hostname === 'player.vimeo.com' && source.pathname.startsWith('/video/'))
+      provider = 'Vimeo';
+    else if (source.hostname === 'embed.acast.com') {
+      provider = 'Acast';
+      audio = true;
+    } else if (source.hostname === 'w.soundcloud.com' && source.pathname === '/player/') {
+      provider = 'SoundCloud';
+      audio = true;
+    } else return;
+    if (link.querySelector('img')) return;
+    const panel = document.createElement('div');
+    panel.className = 'media-panel';
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'button button-dark';
+    button.textContent = audio ? '▶ Play audio' : '▶ Play video';
+    const note = document.createElement('p');
+    note.textContent = `Load the player from ${provider}, or open the original link.`;
+    link.before(panel);
+    panel.append(button, note, link);
+    link.textContent = `Open on ${provider} ↗`;
+    button.addEventListener(
+      'click',
+      () => {
+        const frame = document.createElement('iframe');
+        frame.src = source.href;
+        frame.title = `${provider} ${audio ? 'audio' : 'video'} player`;
+        frame.allow = 'autoplay; fullscreen; picture-in-picture';
+        frame.referrerPolicy = 'strict-origin-when-cross-origin';
+        frame.allowFullscreen = true;
+        frame.className = audio ? 'audio-player' : 'video-player';
+        button.replaceWith(frame);
+        note.textContent = `Media provided by ${provider}.`;
+      },
+      { once: true },
+    );
+  });
+</script>

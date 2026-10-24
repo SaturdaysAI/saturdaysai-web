@@ -1,0 +1,56 @@
+---
+import { url } from '../lib/content';
+const topics = [
+  {
+    name: 'Python',
+    description:
+      'Empieza por los fundamentos. Practica con datos, funciones y tus primeras líneas de código.',
+    path: '/python-4-a-i/',
+  },
+  {
+    name: 'Machine learning',
+    description:
+      'Explora cómo aprender de los datos y aplicar modelos a proyectos con impacto social.',
+    path: '/ai-saturdays/',
+  },
+  {
+    name: 'IA generativa',
+    description:
+      'Experimenta con modelos generativos y desarrolla ideas que puedas compartir con la comunidad.',
+    path: '/curso-ia-generativa/',
+  },
+];
+---
+
+<section class="learning-explorer" aria-labelledby="explorer-title">
+  <span class="eyebrow">APRENDEMOS EN COMUNIDAD</span>
+  <h2 id="explorer-title">Una pregunta puede ser el comienzo.</h2>
+  <p>Elige qué te gustaría explorar.</p>
+  <div class="topic-cloud" role="group" aria-label="Elige un tema">
+    {topics.map((t, i) => (
+      <button type="button" data-topic={i} aria-pressed={i === 0 ? 'true' : 'false'}>
+        {t.name}
+      </button>
+    ))}
+  </div>
+  <div class="topic-detail" aria-live="polite">
+    <p data-topic-description>{topics[0].description}</p>
+    <a data-topic-link class="button button-orange" href={url(topics[0].path)}>
+      Explorar Python →
+    </a>
+  </div>
+</section>
+<script define:vars={{ topics: topics.map((t) => ({ ...t, path: url(t.path) })) }}>
+  document.querySelectorAll('[data-topic]').forEach((button) =>
+    button.addEventListener('click', () => {
+      const topic = topics[Number(button.dataset.topic)];
+      document
+        .querySelectorAll('[data-topic]')
+        .forEach((b) => b.setAttribute('aria-pressed', String(b === button)));
+      document.querySelector('[data-topic-description]').textContent = topic.description;
+      const link = document.querySelector('[data-topic-link]');
+      link.href = topic.path;
+      link.textContent = 'Explorar ' + topic.name + ' →';
+    }),
+  );
+</script>

@@ -1,9 +1,10 @@
 ---
-import '@fontsource-variable/dm-sans';
-import '@fontsource-variable/space-grotesk';
+import '@fontsource-variable/montserrat';
 import '../styles/global.css';
+import '../styles/brand.css';
 import Brand from '../components/Brand.astro';
 import Icon from '../components/Icon.astro';
+import MediaEnhancement from '../components/MediaEnhancement.astro';
 import { url } from '../lib/content';
 interface Props {
   title?: string;
@@ -15,7 +16,7 @@ interface Props {
 const {
   title = 'Learn AI. Build something that matters.',
   description = 'A global, non-profit community making artificial intelligence accessible to everyone. Learn by doing, build projects with social impact and find your people.',
-  image = '/social-card.svg',
+  image = '/social-card.png',
   language = 'en',
   article = false,
 } = Astro.props;
@@ -36,7 +37,7 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#f5f3ed" />
+    <meta name="theme-color" content="#151E3F" />
     <title>{title} | Saturdays.AI</title>
     <meta name="description" content={description} />
     {preview && <meta name="robots" content="noindex, nofollow" />}
@@ -99,6 +100,7 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <main id="main">
       <slot />
     </main>
+    <MediaEnhancement />
     <footer class="site-footer">
       <div class="container footer-top">
         <div>
@@ -117,15 +119,15 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
           <a href={url('/proyectos/')}>Explore projects</a>
           <a href={url('/cities/')}>Find a community</a>
           <a href={url('/blog-y-noticias/')}>Read our stories</a>
+          <a href={url('/podcast/')}>Listen to the podcast</a>
+          <a href={url('/explore/')}>Explore all resources</a>
         </div>
         <div>
           <h2>Get to know us</h2>
-          <a href="https://saturdays.ai/about/">About Saturdays.AI ↗</a>
-          <a href="https://saturdays.ai/partners/">Our partners ↗</a>
+          <a href={url('/about/')}>About Saturdays.AI</a>
+          <a href={url('/partners/')}>Our partners</a>
           <a href="mailto:info@saturdays.ai">Get in touch</a>
-          <a href="https://saturdays.ai/create-your-own-ai-saturdays/">
-            Become a community leader ↗
-          </a>
+          <a href={url('/create-your-own-ai-saturdays/')}>Become a community leader</a>
         </div>
         <div class="footer-note">
           <Icon name="globe" size={32} />
@@ -140,8 +142,8 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
       <div class="container footer-bottom">
         <span>© {new Date().getFullYear()} Saturdays.AI. Built together.</span>
         <div>
-          <a href="https://saturdays.ai/privacy-policy/">Privacy</a>
-          <a href="https://saturdays.ai/terms/">Terms</a>
+          <a href={url('/privacy-policy/')}>Privacy</a>
+          <a href={url('/terms/')}>Terms</a>
           <a href={url('/admin/')}>
             Editor access <Icon name="northeast" size={13} />
           </a>

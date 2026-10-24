@@ -31,7 +31,7 @@ En este caso, la idea no nació de cero. **Energía en Acción** ya existía c
 
 Ahí es donde entró la web app: no como una simple página de apoyo, sino como una **herramienta útil para el día a día**, pensada para dar más claridad a estudiantes, mentores y organizaciones.
 
-![bannerEEA](/media/e88a436f59228932.webp "bannerEEA")
+![bannerEEA](/media/e88a436f59228932.webp)
 
 #### **EL PUNTO DE PARTIDA**
 
@@ -39,7 +39,7 @@ Desde el principio lo tenía claro: no quería una web que solo explicara el pro
 
 Si una estudiante descubre un proyecto y empieza a participar, esa experiencia debía continuar dentro del mismo sistema. En otras palabras, el proyecto ya existía; lo que faltaba era una web app capaz de darle estructura operativa.
 
-![home](/media/71a0b0996658c148.webp "home")
+![home](/media/71a0b0996658c148.webp)
 
 #### **¿ QUÉ HACE LA APP ?**
 
@@ -51,7 +51,7 @@ En el caso de los mentores, la lógica es otra. No entran tanto para descubrir c
 
 La plataforma también contempla el papel de las organizaciones, aunque en esta primera versión la experiencia principal esté más centrada en estudiantes y mentores.
 
-![catalogo](/media/bb3f4ced87afbb11.webp "catalogo")
+![catalogo](/media/bb3f4ced87afbb11.webp)
 
 #### **LAS HERRAMIENTAS QUE UTILICÉ**
 
@@ -77,6 +77,9 @@ Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles es
 
 Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.
 
+				`const PROTECTED = ["/dashboard", "/profile", "/projects/new"];  export async function proxy(req: NextRequest) {   const { pathname } = req.nextUrl;   const needsAuth = PROTECTED.some(     (p) => pathname === p || pathname.startsWith(p + "/")   );   if (!needsAuth) return NextResponse.next();    const session = await readSession(req);   if (!session) {     return NextResponse.redirect(new URL("/auth/login", req.url));   }    if (pathname.startsWith("/dashboard/student") && session.role === "mentor") {     return NextResponse.redirect(new URL("/dashboard/mentor", req.url));   }    return NextResponse.next(); }`
+
+
 Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.
 
 #### **LO IMPORTANTE: LOS FLUJOS REALES**
@@ -85,17 +88,17 @@ Más allá de la parte técnica, lo que me interesaba era que la app contara una
 
 En el caso de las estudiantes, el recorrido va del acceso al perfil, del perfil al catálogo y de ahí al dashboard. La idea era evitar esa sensación de “he aplicado y ya no sé qué pasa”. Por eso el panel no funciona solo como resumen, sino como un espacio donde se recupera contexto.
 
-![inicio](/media/fb1619b3af49cda5.webp "inicio")
+![inicio](/media/fb1619b3af49cda5.webp)
 
 En el caso de los mentores, el flujo está más orientado al **acompañamiento**. Entran para ver proyectos, detectar interés, abrir conversaciones y mantener el seguimiento desde un mismo lugar.
 
 Su dashboard está pensado más como una **superficie de trabajo** que como una página informativa.
 
-![mentor](/media/75f35127f7b00c62.webp "mentor")
+![mentor](/media/75f35127f7b00c62.webp)
 
 Luego está la propia **ficha de proyecto**, que actúa como unidad central dentro de la plataforma. Ahí se concentra el contexto del trabajo: descripción, estado, skills y acciones disponibles según el rol.
 
-![project](/media/5b79cb21d07fc38c.webp "project")
+![project](/media/5b79cb21d07fc38c.webp)
 
 #### **MENSAJERÍA Y COMUNICACIÓN EN LA APP**
 
@@ -105,9 +108,12 @@ Por eso integré un sistema de **mensajería interna**, pero conectado al conte
 
 Además, la parte de **comunicados** la resolví reutilizando esa misma base de mensajería, con una distinción interna para tratar ciertas actualizaciones como mensajes de proyecto. Era una solución simple, pero muy útil para esta fase.
 
-![chat](/media/51c30ca0c187d3f6.webp "chat")
+![chat](/media/51c30ca0c187d3f6.webp)
 
 En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.
+
+				``const bodyWithFlag = `[BC:P${projectId}] ${parsed.data.message}`;  await prisma.messages.createMany({   data: applications.map((app) => ({     sender_id: BigInt(session.uid),     receiver_id: app.student_id,     body: bodyWithFlag,   })), });  return NextResponse.json({ ok: true, sent: applications.length });``
+
 
 Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.
 
@@ -117,7 +123,7 @@ En un proyecto con varios roles, no quería que la gente tuviera que deducir por
 
 Por eso añadí recorridos de **onboarding** en pantallas clave como los dashboards y el catálogo de proyectos. No lo veía como un extra estético, sino como una parte importante de la experiencia.
 
-![onboarding](/media/406cd92b07972215.webp "onboarding")
+![onboarding](/media/406cd92b07972215.webp)
 
 #### **LOS PROBLEMAS REALES QUE APARECIERON**
 
@@ -128,6 +134,9 @@ Uno de los focos fue la **robustez general**: autenticación, sesiones, protecc
 También aparecieron ajustes más concretos, como el comportamiento del sistema cuando la base de datos no estaba disponible. Ahí me interesaba que la app degradara bien y que el diagnóstico fuera claro.
 
 Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.
+
+				``export async function GET() {   try {     const [{ now }] =       await prisma.$queryRaw<{ now: Date }[]>`SELECT NOW() AS now`;      return Response.json({ ok: true, database: "up", dbTime: now });   } catch {     return Response.json(       { ok: false, database: "down", error: "Database unavailable" },       { status: 503 },     );   } }``
+
 
 No es una funcionalidad visible para el usuario final, pero sí una de esas decisiones que marcan la diferencia cuando toca diagnosticar, desplegar y mantener una aplicación.
 

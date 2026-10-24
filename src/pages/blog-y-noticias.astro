@@ -2,8 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
-import { publishedPosts } from '../lib/content';
-const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
+import { publishedPosts, url } from '../lib/content';
+const posts = await publishedPosts();
+const years = [...new Set(posts.map((p) => p.data.pubDate.getUTCFullYear()))];
+const featured = posts[0];
 ---
 
 <Layout
@@ -23,9 +25,27 @@ const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
         community, in their own words.
       </p>
     </section>
+    {featured && (
+      <a class="featured-story" href={url(featured.data.legacyPath)}>
+        <img
+          src={url(featured.data.image || '/social-card.svg')}
+          alt={featured.data.imageAlt}
+          width="720"
+          height="450"
+        />
+        <div>
+          <span class="eyebrow">THE LATEST FROM OUR COMMUNITY</span>
+          <h2>{featured.data.title}</h2>
+          <p>{featured.data.description}</p>
+          <span class="text-link">
+            Read the story <Icon name="arrow" size={18} />
+          </span>
+        </div>
+      </a>
+    )}
     <div class="listing-tools" data-filters>
       <div class="filter-pills" aria-label="Filter stories by topic">
-        {['All stories', 'Community', 'AI for good', 'Build with AI'].map((c, i) => (
+        {['All stories', 'Community', 'AI for good', 'Build with AI', 'Podcast'].map((c, i) => (
           <button
             data-filter={i === 0 ? 'all' : c}
             aria-pressed={i === 0 ? 'true' : 'false'}
@@ -41,8 +61,17 @@ const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
         <input type="search" placeholder="Search stories, topics, authors…" data-search-input />
       </label>
     </div>
+    <label class="sr-only" for="year">
+      Filter by year
+    </label>
+    <select id="year" data-year class="filter-select">
+      <option value="">All years</option>
+      {years.map((year) => (
+        <option value={year}>{year}</option>
+      ))}
+    </select>
     <p class="result-count" data-result-count aria-live="polite">
-      {posts.length} stories in this preview. Articles are in Spanish.
+      {posts.length} stories, projects and conversations in our archive.
     </p>
     <noscript>
       <p class="no-js-note">
@@ -53,6 +82,11 @@ const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
       {posts.map((post) => (
         <PostCard post={post} heading="h2" />
       ))}
+    </div>
+    <div class="load-more-wrap">
+      <button class="button button-dark" data-load-more hidden>
+        Show more stories
+      </button>
     </div>
     <div class="empty-state" data-empty hidden>
       <Icon name="search" size={30} />
@@ -65,6 +99,6 @@ const posts = (await publishedPosts()).filter((p) => p.data.kind === 'article');
   </div>
   <script>
     import { setupFilters } from '../scripts/filters';
-    setupFilters({ item: '[data-post]', noun: 'stories', suffix: 'Articles are in Spanish.' });
+    setupFilters({ item: '[data-post]', noun: 'stories', suffix: '' });
   </script>
 </Layout>

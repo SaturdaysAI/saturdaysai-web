@@ -3,28 +3,12 @@ import { url } from '../lib/content';
 ---
 
 <a class="brand" href={url('/')} aria-label="Saturdays.AI home">
-  <svg width="34" height="38" viewBox="0 0 40 44" aria-hidden="true">
-    <g fill="none" stroke="currentColor" stroke-width="1.3">
-      <path d="M20 3 34 11 37 26 27 39 12 39 3 26 6 11 20 3 12 17 27 17 34 11M12 17 3 26 20 28 27 17 37 26M20 28 27 39M20 28 12 39M6 11 12 17 20 28M20 3 27 17" />
-    </g>
-    <g fill="currentColor">
-      {[
-        [20, 3],
-        [34, 11],
-        [37, 26],
-        [27, 39],
-        [12, 39],
-        [3, 26],
-        [6, 11],
-        [12, 17],
-        [27, 17],
-        [20, 28],
-      ].map(([cx, cy]) => (
-        <circle cx={cx} cy={cy} r="2.5" />
-      ))}
-    </g>
-  </svg>
-  <span>
-    saturdays<span class="brand-dot">.ai</span>
-  </span>
+  <img
+    class="brand-logo"
+    src={url('/brand/logo-orange.webp')}
+    alt="Saturdays.AI"
+    width="800"
+    height="302"
+    fetchpriority="high"
+  />
 </a>

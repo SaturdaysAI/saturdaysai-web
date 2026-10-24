@@ -4,7 +4,7 @@ description: Un proyecto de la comunidad de Zaragoza que utiliza imágenes
   satelitales y aprendizaje automático para estudiar el riesgo de
   desertificación en Aragón.
 pubDate: 2022-04-07
-author: Saturdays.AI
+author: Info Saturdays
 category: AI for good
 kind: project
 tags:

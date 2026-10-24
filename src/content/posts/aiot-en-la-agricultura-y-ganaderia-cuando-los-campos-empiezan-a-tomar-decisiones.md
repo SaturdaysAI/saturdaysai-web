@@ -356,15 +356,15 @@ def process_telemetry_data(raw_data):
     df = pd.DataFrame(raw_data['values'])
     df['timestamp'] = pd.to_datetime(df['timestamp'])
     df.set_index('timestamp', inplace=True)
-    
+
     # Remove outliers using z-score
     z_scores = np.abs((df['engine_rpm'] - df['engine_rpm'].mean()) / df['engine_rpm'].std())
     df = df[z_scores < 3]
-    
+
     # Apply low-pass filter for noise reduction
     sos = signal.butter(10, 0.1, btype='low', analog=False, output='sos')
     df['filtered_rpm'] = signal.sosfilt(sos, df['engine_rpm'].values)
-    
+
     # Calculate rolling statistics for anomaly detection
     df['rpm_mean_rolling'] = df['filtered_rpm'].rolling(window=10).mean()
     df['anomaly'] = np.where(
@@ -372,7 +372,7 @@ def process_telemetry_data(raw_data):
         1,
         0
     )
-    
+
     return df
 
 # Example usage (assuming telemetry_data from previous example)
@@ -419,7 +419,7 @@ int humidity;
 
 void sensors_setup() {
     Wire.begin();
-    
+
 
     // --- MAX30105 ---
     if(!particleSensor.begin(Wire, I2C_SPEED_FAST)) {
@@ -427,7 +427,7 @@ void sensors_setup() {
         while(1);
     }
   particleSensor.setup();
-    
+
 
     // --- MAX30205 ---
     while(!tempSensor.scanAvailableSensors()) {

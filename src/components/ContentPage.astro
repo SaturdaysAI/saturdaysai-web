@@ -1,0 +1,121 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { url } from '../lib/content';
+import { renderContent } from '../lib/render-content';
+import type { CollectionEntry } from 'astro:content';
+import LearningExplorer from './LearningExplorer.astro';
+import PostCard from './PostCard.astro';
+import { publishedPosts } from '../lib/content';
+interface Props {
+  page: CollectionEntry<'pages'>;
+}
+const { page } = Astro.props;
+const p = page.data;
+const { html, toc } = await renderContent(page.body, true);
+const oldProgramme =
+  /master|online|la-paz|saturdays|dawia|honduras/.test(p.legacyPath) && !p.aliasTarget;
+const lang = p.language;
+const stories =
+  p.legacyPath === '/testimonios/'
+    ? (await publishedPosts()).filter((p) => p.data.kind === 'project').slice(0, 6)
+    : [];
+const copy =
+  lang === 'pt'
+    ? { home: 'Início', resources: 'Recursos', more: 'Continuar a explorar', toc: 'Nesta página' }
+    : lang === 'es'
+      ? { home: 'Inicio', resources: 'Recursos', more: 'Seguir explorando', toc: 'En esta página' }
+      : { home: 'Home', resources: 'Resources', more: 'Keep exploring', toc: 'On this page' };
+---
+
+<Layout
+  title={p.title}
+  description={p.description}
+  image={p.image || '/social-card.png'}
+  language={p.language}
+>
+  <div class="container">
+    <section class="page-hero">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={url('/')}>{copy.home}</a>
+        <span aria-hidden="true">/</span>
+        <a href={url('/explore/')}>{copy.resources}</a>
+      </nav>
+      <span class="eyebrow">SATURDAYS.AI / LEARN. BUILD. CONNECT.</span>
+      <h1>{p.title}</h1>
+      {p.aliasTarget && (
+        <>
+          <p>
+            {lang === 'pt'
+              ? 'Aprendemos inteligência artificial em comunidade e criamos projetos com impacto social.'
+              : p.description}
+          </p>
+          <a class="button button-orange" href={url(p.aliasTarget)}>
+            {copy.more} →
+          </a>
+        </>
+      )}
+    </section>
+    {oldProgramme && (
+      <p class="archive-notice">
+        This page includes programme information from our community archive. Contact the team to
+        confirm current dates, availability and requirements.
+      </p>
+    )}
+    <div class="document-shell">
+      <div>
+        {p.legacyPath === '/aprende-ai-en-remoto/' ? (
+          <LearningExplorer />
+        ) : (
+          html && <div class="prose" set:html={html} />
+        )}
+        {stories.length > 0 && (
+          <>
+            <p class="archive-notice">
+              Conoce los proyectos y experiencias que ha compartido nuestra comunidad.
+            </p>
+            <div class="post-grid testimonial-grid">
+              {stories.map((post) => (
+                <PostCard post={post} />
+              ))}
+            </div>
+          </>
+        )}
+        {p.legacyPath === '/privacy-policy/' && (
+          <p class="archive-notice">
+            Read our <a href={url('/privacy-policy-2/')}>complete privacy policy</a> for the policy
+            text published by Saturdays.AI.
+          </p>
+        )}
+        {!html && !p.aliasTarget && (
+          <p class="archive-notice">
+            For information about {p.title}, please contact{' '}
+            <a href="mailto:info@saturdays.ai">info@saturdays.ai</a>.
+          </p>
+        )}
+        {['/contact/', '/contacto/'].includes(p.legacyPath) && (
+          <a class="button button-orange" href="mailto:info@saturdays.ai">
+            Contact the community team →
+          </a>
+        )}
+        {p.legacyPath === '/starchat/' && (
+          <>
+            <p class="archive-notice">
+              The original interactive chat service is external to this site. Explore our learning
+              resources or contact the team for access.
+            </p>
+            <a class="button button-orange" href={url('/online/')}>
+              Explore learning resources →
+            </a>
+          </>
+        )}
+      </div>
+      <aside class="document-toc">
+        <h2>{copy.toc}</h2>
+        {toc.slice(0, 22).map((t) => (
+          <a href={`#${t.id}`} set:html={t.text} />
+        ))}
+        <a href={url('/explore/')}>{copy.more} →</a>
+      </aside>
+    </div>
+  </div>
+</Layout>

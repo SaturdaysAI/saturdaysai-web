@@ -3,80 +3,52 @@ import Layout from '../layouts/Layout.astro';
 import Icon from '../components/Icon.astro';
 import PostCard from '../components/PostCard.astro';
 import { publishedPosts, url, dateLabel, readingTime } from '../lib/content';
-import { marked } from 'marked';
-import sanitizeHtml from 'sanitize-html';
+import { renderContent } from '../lib/render-content';
+import { getCollection } from 'astro:content';
+import ContentPage from '../components/ContentPage.astro';
+import ArchivePage from '../components/ArchivePage.astro';
+import taxonomies from '../data/taxonomies.json';
+import comments from '../data/comments.json';
+import cities from '../data/cities.json';
+import { assertDistinctRoutes } from '../lib/content-rules.mjs';
 export async function getStaticPaths() {
-  return (await publishedPosts()).map((post) => ({
+  const posts = (await publishedPosts()).map((post) => ({
     params: { article: post.data.legacyPath.slice(1, -1) },
-    props: { post },
+    props: { post, page: null, archive: null },
   }));
+  const pages = (await getCollection('pages'))
+    .filter((p) => !p.data.draft && p.data.kind === 'page')
+    .map((page) => ({
+      params: { article: page.data.legacyPath.slice(1, -1) },
+      props: { page, post: null, archive: null },
+    }));
+  const archives = taxonomies.map((archive) => ({
+    params: { article: archive.path.slice(1, -1) },
+    props: { archive, post: null, page: null },
+  }));
+  const routes = [...posts, ...pages, ...archives];
+  assertDistinctRoutes([
+    ...routes.map((route) => `/${route.params.article}/`),
+    ...cities.cities.filter((city) => !city.draft).map((city) => `/${city.slug}/`),
+    '/cities/',
+    '/online/',
+    '/proyectos/',
+    '/blog-y-noticias/',
+    '/podcast/',
+    '/explore/',
+    '/admin/',
+  ]);
+  return routes;
 }
-const { post } = Astro.props;
-const p = post.data;
+const { post, page, archive } = Astro.props;
+const p = post?.data;
 const all = await publishedPosts();
-const related = all.filter((x) => x.id !== post.id && x.data.kind === p.kind).slice(0, 3);
-const localPaths = new Set([
-  '/',
-  '/blog-y-noticias/',
-  '/cities/',
-  '/online/',
-  '/proyectos/',
-  ...all.map((x) => x.data.legacyPath),
-]);
-const rewrite = (href: string) => {
-  if (href.startsWith('/media/')) return url(href);
-  try {
-    const parsed = new URL(href, 'https://saturdays.ai');
-    if (
-      ['saturdays.ai', 'www.saturdays.ai'].includes(parsed.hostname) &&
-      localPaths.has(parsed.pathname)
-    )
-      return url(parsed.pathname) + parsed.search + parsed.hash;
-  } catch {}
-  return href;
-};
-let html = sanitizeHtml(await marked.parse(post.body || '', { gfm: true }), {
-  allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-    'img',
-    'figure',
-    'figcaption',
-    'h1',
-    'details',
-    'summary',
-  ]),
-  allowedAttributes: {
-    a: ['href', 'title', 'rel'],
-    img: ['src', 'alt', 'loading', 'decoding'],
-    code: ['class'],
-    th: ['colspan'],
-    td: ['colspan'],
-  },
-  allowedSchemes: ['https', 'http', 'mailto'],
-  transformTags: {
-    a: (_, attrs) => ({
-      tagName: 'a',
-      attribs: { ...attrs, href: rewrite(attrs.href || ''), rel: 'noopener noreferrer' },
-    }),
-    img: (_, attrs) => ({
-      tagName: 'img',
-      attribs: {
-        src: rewrite(attrs.src || ''),
-        alt: attrs.alt || '',
-        loading: 'lazy',
-        decoding: 'async',
-      },
-    }),
-  },
-});
-const toc: { text: string; id: string }[] = [];
-html = html.replace(/<h([1-3])>([\s\S]*?)<\/h\1>/g, (_, level, content) => {
-  const text = sanitizeHtml(content, { allowedTags: [], allowedAttributes: {} });
-  const id = `section-${toc.length + 1}`;
-  toc.push({ text, id });
-  const tag = level === '1' ? 'h2' : `h${level}`;
-  return `<${tag} id="${id}">${content}</${tag}>`;
-});
-const initials = p.author
+const related = post
+  ? all.filter((x) => x.id !== post.id && x.data.category === post.data.category).slice(0, 3)
+  : [];
+const { html, toc } = await renderContent(post?.body || '');
+const archivedComments = comments.filter((c) => c.postId === p?.sourceId);
+const initials = (p?.author || '')
   .split(' ')
   .slice(0, 2)
   .map((x) => x[0])
@@ -84,126 +56,154 @@ const initials = p.author
 const structured = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
-  headline: p.title,
-  description: p.description,
-  datePublished: p.pubDate.toISOString(),
-  author: { '@type': 'Person', name: p.author },
+  headline: p?.title,
+  description: p?.description,
+  datePublished: p?.pubDate.toISOString(),
+  author: { '@type': p?.author === 'Saturdays.AI' ? 'Organization' : 'Person', name: p?.author },
   publisher: { '@type': 'Organization', name: 'Saturdays.AI' },
-  inLanguage: p.language,
-  mainEntityOfPage: new URL(url(p.legacyPath), Astro.site).href,
-  ...(p.image ? { image: new URL(url(p.image), Astro.site).href } : {}),
+  inLanguage: p?.language,
+  mainEntityOfPage: new URL(url(p?.legacyPath || '/'), Astro.site).href,
+  ...(p?.image ? { image: new URL(url(p.image), Astro.site).href } : {}),
 };
 ---
 
-<Layout
-  title={p.title}
-  description={p.description}
-  image={p.image || '/social-card.svg'}
-  language={p.language}
-  article
->
-  <script
-    slot="head"
-    type="application/ld+json"
-    set:html={JSON.stringify(structured).replace(/</g, '\\u003c')}
-  />
-  <div class="reading-progress" aria-hidden="true"></div>
-  <article>
-    <header class="container article-header">
-      <nav class="breadcrumb" aria-label="Ruta de navegación">
-        <a href={url('/')}>Inicio</a>
-        <span aria-hidden="true">/</span>
-        <a href={url(p.kind === 'project' ? '/proyectos/' : '/blog-y-noticias/')}>
-          {p.kind === 'project' ? 'Proyectos' : 'Blog y noticias'}
-        </a>
-        <span aria-hidden="true">/</span>
-        <span>{p.category}</span>
-      </nav>
-      <div class="post-meta">
-        <span class="tag">{p.category}</span>
-        <span>{readingTime(post.body)} min de lectura</span>
-        <span>Español</span>
-      </div>
-      <h1>{p.title}</h1>
-      <p class="article-deck">{p.description}</p>
-      <div class="article-author">
-        <span class="author-avatar" aria-hidden="true">
-          {initials}
-        </span>
-        <div>
-          <strong>{p.author}</strong>
-          <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate, 'es')}</time>
-        </div>
-      </div>
-    </header>
-    {p.image && (
-      <figure class="container article-cover">
-        <img src={url(p.image)} alt={p.imageAlt} width="1440" height="900" fetchpriority="high" />
-      </figure>
-    )}
-    <div class="container article-shell">
-      <div>
-        <div class="prose" set:html={html} />
-        <div class="article-end">
-          <p>
-            Una historia de la comunidad Saturdays.AI. Publicada originalmente el{' '}
-            {dateLabel(p.pubDate, 'es')}.
-          </p>
-          <a href={url('/blog-y-noticias/')}>← Más historias de la comunidad</a>
-        </div>
-      </div>
-      <aside class="article-aside" aria-label="Herramientas de lectura">
-        {toc.length > 0 && (
-          <>
-            <h2>En este artículo</h2>
-            <nav>
-              {toc.slice(0, 18).map((h) => (
-                <a href={`#${h.id}`} set:html={h.text} />
-              ))}
-            </nav>
-          </>
+{page ? (
+  <ContentPage page={page} />
+) : archive ? (
+  <ArchivePage archive={archive} />
+) : (
+  post &&
+  p && (
+    <Layout
+      title={p.title}
+      description={p.description}
+      image={p.image || '/social-card.png'}
+      language={p.language}
+      article
+    >
+      <script
+        slot="head"
+        type="application/ld+json"
+        set:html={JSON.stringify(structured).replace(/</g, '\\u003c')}
+      />
+      <div class="reading-progress" aria-hidden="true"></div>
+      <article>
+        <header class="container article-header">
+          <nav class="breadcrumb" aria-label="Ruta de navegación">
+            <a href={url('/')}>Inicio</a>
+            <span aria-hidden="true">/</span>
+            <a href={url(p.kind === 'project' ? '/proyectos/' : '/blog-y-noticias/')}>
+              {p.kind === 'project' ? 'Proyectos' : 'Blog y noticias'}
+            </a>
+            <span aria-hidden="true">/</span>
+            <span>{p.category}</span>
+          </nav>
+          <div class="post-meta">
+            <span class="tag">{p.category}</span>
+            <span>{readingTime(post.body)} min de lectura</span>
+            <span>{{ es: 'Español', en: 'English', pt: 'Português' }[p.language]}</span>
+          </div>
+          <h1>{p.title}</h1>
+          <p class="article-deck">{p.description}</p>
+          <div class="article-author">
+            <span class="author-avatar" aria-hidden="true">
+              {initials}
+            </span>
+            <div>
+              <strong>{p.author}</strong>
+              <time datetime={p.pubDate.toISOString()}>{dateLabel(p.pubDate, 'es')}</time>
+            </div>
+          </div>
+        </header>
+        {p.image && (
+          <figure class="container article-cover">
+            <img
+              src={url(p.image)}
+              alt={p.imageAlt}
+              width="1440"
+              height="900"
+              fetchpriority="high"
+            />
+          </figure>
         )}
-        <button class="button button-outline" data-copy-link>
-          <Icon name="copy" size={16} />
-          Copiar enlace
-        </button>
-        <span class="copy-status" role="status" data-copy-status></span>
-      </aside>
-    </div>
-  </article>
-  {related.length > 0 && (
-    <section class="container related-section">
-      <div class="section-heading">
-        <div>
-          <span class="eyebrow">SIGUE EXPLORANDO</span>
-          <h2>Más ideas de la comunidad.</h2>
+        <div class="container article-shell">
+          <div>
+            <div class="prose" set:html={html} />
+            {archivedComments.length > 0 && (
+              <section class="archived-comments">
+                <h2>Comentarios del archivo</h2>
+                {archivedComments.map((c) => (
+                  <blockquote id={`comment-${c.id}`}>
+                    <p>{c.body}</p>
+                    <footer>
+                      {c.author} — <time datetime={c.date}>{c.date.slice(0, 10)}</time>
+                    </footer>
+                  </blockquote>
+                ))}
+              </section>
+            )}
+            <div class="article-end">
+              <p>
+                Una historia de la comunidad Saturdays.AI. Publicada originalmente el{' '}
+                {dateLabel(p.pubDate, 'es')}.
+              </p>
+              <a href={url('/blog-y-noticias/')}>← Más historias de la comunidad</a>
+            </div>
+          </div>
+          <aside class="article-aside" aria-label="Herramientas de lectura">
+            {toc.length > 0 && (
+              <>
+                <h2>En este artículo</h2>
+                <nav>
+                  {toc.slice(0, 18).map((h) => (
+                    <a href={`#${h.id}`} set:html={h.text} />
+                  ))}
+                </nav>
+              </>
+            )}
+            <button class="button button-outline" data-copy-link>
+              <Icon name="copy" size={16} />
+              Copiar enlace
+            </button>
+            <span class="copy-status" role="status" data-copy-status></span>
+          </aside>
         </div>
-      </div>
-      <div class="post-grid">
-        {related.map((post) => (
-          <PostCard post={post} />
-        ))}
-      </div>
-    </section>
-  )}
-  <script>
-    const progress = document.querySelector<HTMLElement>('.reading-progress');
-    const update = () => {
-      if (progress) {
-        const max = document.documentElement.scrollHeight - innerHeight;
-        progress.style.width = `${max > 0 ? Math.min(100, (scrollY / max) * 100) : 0}%`;
-      }
-    };
-    window.addEventListener('scroll', update, { passive: true });
-    update();
-    document.querySelector('[data-copy-link]')?.addEventListener('click', async () => {
-      const status = document.querySelector('[data-copy-status]');
-      try {
-        await navigator.clipboard.writeText(location.href);
-        if (status) status.textContent = 'Enlace copiado.';
-      } catch {
-        if (status) status.textContent = 'Copia la dirección desde tu navegador.';
-      }
-    });
-  </script>
-</Layout>
+      </article>
+      {related.length > 0 && (
+        <section class="container related-section">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">SIGUE EXPLORANDO</span>
+              <h2>Más ideas de la comunidad.</h2>
+            </div>
+          </div>
+          <div class="post-grid">
+            {related.map((post) => (
+              <PostCard post={post} />
+            ))}
+          </div>
+        </section>
+      )}
+      <script>
+        const progress = document.querySelector<HTMLElement>('.reading-progress');
+        const update = () => {
+          if (progress) {
+            const max = document.documentElement.scrollHeight - innerHeight;
+            progress.style.width = `${max > 0 ? Math.min(100, (scrollY / max) * 100) : 0}%`;
+          }
+        };
+        window.addEventListener('scroll', update, { passive: true });
+        update();
+        document.querySelector('[data-copy-link]')?.addEventListener('click', async () => {
+          const status = document.querySelector('[data-copy-status]');
+          try {
+            await navigator.clipboard.writeText(location.href);
+            if (status) status.textContent = 'Enlace copiado.';
+          } catch {
+            if (status) status.textContent = 'Copia la dirección desde tu navegador.';
+          }
+        });
+      </script>
+    </Layout>
+  )
+)}

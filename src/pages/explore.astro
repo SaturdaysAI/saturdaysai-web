@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon.astro';
+import { getCollection } from 'astro:content';
+import { url, publishedPosts } from '../lib/content';
+import cities from '../data/cities.json';
+const pages = (await getCollection('pages')).filter(
+  (p) => !p.data.draft && p.data.kind === 'page' && !p.data.aliasTarget,
+);
+const posts = await publishedPosts();
+const group = (path: string) =>
+  /privacy|terms/.test(path)
+    ? 'About'
+    : /contact|about|partners|comunidad|member|testimonios|create-your/.test(path)
+      ? 'Community'
+      : 'Learning';
+---
+
+<Layout
+  title="Explore Saturdays.AI"
+  description="Find every learning programme, community resource, story and project in the Saturdays.AI archive."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">ONE COMMUNITY. MANY WAYS IN.</span>
+      <h1>
+        Follow your <span class="orange-word">curiosity.</span>
+      </h1>
+      <p>Learning paths, local communities and ideas worth sharing. Everything in one place.</p>
+      <div class="archive-counts">
+        <a href={url('/blog-y-noticias/')}>
+          <strong>{posts.length}</strong>
+          <span>articles and projects</span>
+        </a>
+        <a href={url('/cities/')}>
+          <strong>{cities.cities.length}</strong>
+          <span>local communities</span>
+        </a>
+        <a href={url('/podcast/')}>
+          <strong>{posts.filter((p) => p.data.category === 'Podcast').length}</strong>
+          <span>podcast conversations</span>
+        </a>
+      </div>
+    </section>
+    <div class="listing-tools" data-filters>
+      <div class="filter-pills">
+        {['All resources', 'Learning', 'Community', 'About'].map((c, i) => (
+          <button
+            data-filter={i ? c : 'all'}
+            aria-pressed={i === 0 ? 'true' : 'false'}
+            class:list={{ selected: i === 0 }}
+          >
+            {c}
+          </button>
+        ))}
+      </div>
+      <label class="search-box">
+        <Icon name="search" size={18} />
+        <span class="sr-only">Search resources</span>
+        <input type="search" data-search-input placeholder="Find a programme or resource…" />
+      </label>
+    </div>
+    <p class="result-count" data-result-count aria-live="polite">
+      {pages.length} resources
+    </p>
+    <div class="resource-grid">
+      {pages.map((p) => (
+        <a
+          class="resource-card"
+          data-resource
+          data-category={group(p.data.legacyPath)}
+          data-search={`${p.data.title} ${p.data.description}`}
+          href={url(p.data.legacyPath)}
+        >
+          <span class="eyebrow">{group(p.data.legacyPath)}</span>
+          <h2>{p.data.title}</h2>
+          <span class="text-link">
+            Explore <Icon name="arrow" size={17} />
+          </span>
+        </a>
+      ))}
+    </div>
+    <div data-empty hidden class="empty-state">
+      <h2>No resources found.</h2>
+      <p>Try another search or explore all resources.</p>
+      <button data-reset class="button button-dark">
+        Show all resources
+      </button>
+    </div>
+  </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-resource]', noun: 'resources' });
+  </script>
+</Layout>

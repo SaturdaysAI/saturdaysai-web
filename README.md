@@ -1,12 +1,16 @@
-# Saturdays.AI website pilot
+# Saturdays.AI website
 
-An Astro website with GitHub Pages hosting and a Pages CMS editorial configuration. This is a separate design and migration preview. **It does not replace saturdays.ai.**
+Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and the public WordPress archive. This remains a separate review site: **saturdays.ai has not been switched over.**
 
-Pilot URL: https://saturdaysai.github.io/saturdaysai-web/
+- [Website preview](https://saturdaysai.github.io/saturdaysai-web/)
+- [Pages CMS editor](https://app.pagescms.org/saturdaysai/saturdaysai-web/main)
+- [Migration inventory and limitations](docs/MIGRATION.md)
+- [Brand sources and rules](docs/BRAND.md)
+- [Validation record](docs/QA.md)
 
-## Run locally
+## Run and maintain
 
-Requires Node 24 (or Node >=22.23.4) and npm.
+Use Node 24 and npm.
 
 ```sh
 npm ci
@@ -14,53 +18,49 @@ npm run dev
 npm run verify
 ```
 
-The local preview is http://127.0.0.1:4321/. `npm run verify` checks types, publishing rules, CMS field coverage, builds the site and checks every generated local link and asset. There is no runtime dependency on WordPress.
+The development preview is http://127.0.0.1:4321/. Verification checks types, publication rules, content reconciliation, CMS fields, URL collisions, every generated local link and asset, and the built feed/sitemap. There is no runtime WordPress dependency.
 
-## What is included
+## Content and experience
 
-- Redesigned homepage, learning paths, story index, project index and city finder.
-- Eight complete imported articles/projects and eight city profiles with their original URL paths.
-- Local images and self-hosted fonts, small client scripts, responsive layouts, keyboard controls and reduced-motion support.
-- Article/topic search, accent-insensitive city search, course filters, reading progress and link sharing.
-- Draft exclusion, future-date exclusion, RSS, sitemap, canonical URLs and social metadata.
-- No pricing, fee, discount, donation or economic messaging on general site pages. Original article bodies retain economic information.
-- No production DNS changes, CNAME file or WordPress modifications. Preview pages have `noindex, nofollow`; robots.txt disallows crawling.
+The public snapshot contains 162 posts (including 41 podcast episodes), 63 legitimate pages and 23 city communities. All original post/page paths are preserved after the preview prefix. Category, tag and date archives provide additional routes.
 
-This is an editorial and visual pilot, not a full WordPress migration. Unmigrated organizational/legal pages link to the current site. Course delivery and registration remain external. City dates and programme availability require confirmation by the local teams.
+The design uses the supplied logo, Montserrat and the official orange, navy, blue and white palette. Search and topic/year filters, progressive article lists, a city finder, resource directory, learning selector, reading progress, subtle motion and click-to-load media keep the site useful without a large application framework. Images and fonts are served locally. Basic reading and navigation work without JavaScript. Reduced-motion settings are respected.
 
-## Editorial setup with Pages CMS
+Pricing, fees, discounts, donation requests and economic messaging are removed from general and city pages. Blog articles preserve their original economic content. Spam records and injected spam links are excluded. Older programme details are labelled as historical; local teams confirm current availability.
 
-The `.pages.yml` file configures Articles & projects, Homepage, City communities and Learning paths. The repository owner must install/authorize the official Pages CMS GitHub App for **only SaturdaysAI/saturdaysai-web** and sign in at https://app.pagescms.org/ before the hosted editor can save changes. Configuration alone is not an authenticated connection.
+## Write with Pages CMS
 
-1. Open Pages CMS and select this repository and the `main` branch.
-2. Create an article, fill all required fields and leave **Draft** enabled while writing.
-3. Use an explicit permanent path, e.g. `/2026/10/24/my-story/`. Do not change an existing path after publication.
-4. Add a cover image and image description. Write the article in the visual editor.
-5. Review the content, then disable **Draft**. Saving triggers GitHub Actions; the preview changes only after validation and deployment succeed.
+The repository connection was tested on 24 October 2026 by creating and saving **CMS connection test - unpublished draft** through the hosted editor. Its GitHub commit deployed successfully, while the draft stayed out of the website, RSS and sitemap.
 
-The included draft is an obviously public example to test that drafts never reach the built website. **A draft flag does not make files private in a public GitHub repository.** Keep confidential material elsewhere. This simple pilot has no enforced multi-person approval gate; review is an editorial step. Add protected branches and a review workflow before delegating publishing to a larger team.
+1. Open Pages CMS, select `saturdaysai/saturdaysai-web` and `main`.
+2. Choose **Articles & projects**, then **Add an entry**. New entries default to **Draft**.
+3. Fill in title, summary, author, date, topic, language and permanent URL path, for example `/2026/10/24/my-story/`.
+4. Upload a cover image and write in the visual editor. Save while Draft is enabled to keep writing.
+5. After review, disable Draft and save. GitHub Actions validates and publishes the site.
 
-Future-dated content is filtered at build time. It needs a manual or separately configured scheduled rebuild after its publication date. No scheduling automation is enabled by this pilot.
+Keep existing permanent paths unchanged. Future dates are excluded until a build runs after that date; scheduled publishing is not enabled. Draft files are visible in the public GitHub repository, although excluded from the website. Keep confidential material elsewhere. This workflow does not enforce a second person's approval.
+
+Other editable collections cover imported pages, the homepage, city profiles and learning paths. Imported city/section bodies are archived content; their presentation is controlled by shared templates. Use the existing city collection to update city profiles. Changing a page's `kind` can change whether its shared template renders it.
 
 ## Structure
 
-| Location | Purpose |
-| --- | --- |
-| `src/content/posts/` | Articles and project stories, Markdown with YAML metadata |
-| `src/data/` | Editable homepage, cities and course listings |
-| `src/components/` | Reusable UI components |
-| `src/layouts/Layout.astro` | Metadata, navigation, footer and shared behaviour |
-| `src/styles/global.css` | Named design tokens and responsive styles |
-| `imports/manifest.json` | Public source IDs, original paths and asset provenance |
-| `scripts/import-pilot.mjs` | Explicit allowlist importer; refuses to overwrite articles |
-| `scripts/verify-build.mjs` | Generated route, asset and content-policy checks |
-| `.github/workflows/deploy.yml` | Validate, build and deploy to the separate GitHub Pages preview |
+| Location                                        | Purpose                                                                 |
+| ----------------------------------------------- | ----------------------------------------------------------------------- |
+| `src/content/posts/`                            | Markdown articles, projects and podcast descriptions                    |
+| `src/content/pages/`                            | Imported organizational pages and historical programme bodies           |
+| `src/data/`                                     | Homepage, cities, course listings, archive mappings and public comments |
+| `src/components/`, `src/layouts/`               | Reusable presentation and interactions                                  |
+| `src/styles/global.css`, `src/styles/brand.css` | Layout, design tokens and official brand styling                        |
+| `public/brand/`, `public/media/`                | Brand assets, optimized article images and referenced documents         |
+| `imports/manifest.json`                         | Source IDs, paths, asset provenance, exclusions and source gaps         |
+| `.pages.yml`                                    | Hosted visual editor configuration                                      |
+| `.github/workflows/deploy.yml`                  | Validate and deploy the preview                                         |
 
-The imported source HTML is sanitized before Markdown conversion; rendered article HTML is sanitized again. Original scripts, forms and arbitrary embeds are not carried across. Supported video embeds become explicit links. Raster media is checked and optimised locally. No PDFs or unknown executable uploads were imported.
+Imported HTML is sanitized before Markdown conversion and again at rendering. Original scripts and forms are not executed. Approved audio/video providers load only after the reader presses Play. External LMS accounts, enrolment, forms and media services remain with their providers.
 
-## Deployment
+## Deployment and rollback
 
-GitHub Pages must use **GitHub Actions** as its build source. The workflow uses:
+GitHub Pages uses GitHub Actions with:
 
 ```text
 SITE_URL=https://saturdaysai.github.io
@@ -68,10 +68,8 @@ BASE_PATH=/saturdaysai-web
 PUBLIC_SITE_MODE=preview
 ```
 
-Both `/` and the GitHub project subpath are supported. WordPress URL paths are preserved after the preview prefix. Moving to the real domain later requires a separate, reviewed cutover: full migration, content review, root base path, production indexing, domain verification, DNS and HTTPS checks. Preserve course subdomains and mail records.
+The preview is noindex and robots.txt disallows crawling. There is no CNAME or automatic production cutover. Connecting the production domain is a separate decision after reviewing the preview and remaining source gaps. Preserve course subdomains and email DNS records during any eventual cutover.
 
-To undo an editorial or design change, revert its commit and let the same validation/deployment workflow run. Do not re-run the importer over edited content; make future migration changes through a reviewed import manifest.
+To undo an edit, revert its Git commit and allow the validated deployment to run. Do not rerun migration scripts over editorial work. The scripts in `scripts/` record the one-time migration process and depend on ignored raw snapshots/brand originals; ordinary maintenance uses Markdown, Pages CMS and the shared components.
 
-## Source and ownership
-
-Content and photographs come from the publicly accessible Saturdays.AI website and its embedded article images, migrated at the organization's request. Original article bylines are retained where visible in the public blog; older project stories retain their credited teams in their bodies. No new licence is asserted over third-party content. Known suspicious WordPress records are excluded by allowlist.
+Content, photographs and brand assets were migrated at the organization's request. Public author bylines and team credits are retained. No new licence is asserted over third-party material.

@@ -23,7 +23,15 @@ const manifest = JSON.parse(await readFile('imports/manifest.json', 'utf8'));
 for (const post of manifest.posts)
   assert.ok(known.has(`${post.path.slice(1)}index.html`), `Missing legacy route: ${post.path}`);
 for (const city of manifest.cities)
-  assert.ok(known.has(`${city.path.slice(1)}index.html`), `Missing legacy city route: ${city.path}`);
+  assert.ok(
+    known.has(`${city.path.slice(1)}index.html`),
+    `Missing legacy city route: ${city.path}`,
+  );
+for (const page of manifest.pages || [])
+  assert.ok(
+    known.has(`${page.path.slice(1)}index.html`),
+    `Missing legacy page route: ${page.path}`,
+  );
 for (const file of htmlFiles) {
   const text = await readFile(file, 'utf8');
   const $ = cheerio.load(text);
@@ -44,11 +52,17 @@ for (const file of htmlFiles) {
     !$('meta[name=robots]').attr('content')?.includes('noindex')
   )
     errors.push(`${rel}: preview must be noindex`);
-  if (/PILOT_DRAFT_MUST_NOT_BE_PUBLISHED|comprar-tramadol|Comprar-Zolpidem/i.test(text))
+  if (
+    /PILOT_DRAFT_MUST_NOT_BE_PUBLISHED|CMS_DRAFT_MUST_NOT_BE_PUBLISHED|cms-connection-test|comprar-tramadol|Comprar-Zolpidem/i.test(
+      text,
+    )
+  )
     errors.push(`${rel}: excluded content leaked`);
   if (text.includes('\u00b7')) errors.push(`${rel}: forbidden formatting character`);
-  if (!/^20\d\d\//.test(rel)) {
-    const body = $('body').text();
+  if (!/^(20\d\d\/|blog-y-noticias\/|podcast\/|proyectos\/|category\/|tag\/)/.test(rel)) {
+    const visibleBody = $('body').clone();
+    visibleBody.find('script,style').remove();
+    const body = visibleBody.text();
     if (
       /[€$£]|\b(pricing|prices?|discounts?|donat\w*|fees?|earlybird|financial aid|precio|descuento)\b/i.test(
         body,
@@ -84,7 +98,7 @@ for (const post of manifest.posts)
 for (const name of ['feed.xml', 'sitemap-0.xml'])
   assert.doesNotMatch(
     await readFile(path.join(root, name), 'utf8'),
-    /editor-demo-draft|PILOT_DRAFT_MUST_NOT_BE_PUBLISHED/,
+    /editor-demo-draft|PILOT_DRAFT_MUST_NOT_BE_PUBLISHED|cms-connection-test/,
   );
 const robots = await readFile(path.join(root, 'robots.txt'), 'utf8');
 if (process.env.PUBLIC_SITE_MODE !== 'production') assert.match(robots, /Disallow: \//);

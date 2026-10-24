@@ -3,7 +3,7 @@ title: "HaPyness: Análisis de sentimientos en la población de Aragón"
 description: El equipo Aragón Feliz explora el análisis de sentimientos para
   estudiar cómo se expresa el bienestar emocional de la población de Aragón.
 pubDate: 2022-04-07
-author: Saturdays.AI
+author: Info Saturdays
 category: AI for good
 kind: project
 tags:

@@ -9,70 +9,202 @@ content:
     format: yaml-frontmatter
     filename: '{year}-{month}-{day}-{primary}.md'
     view:
-      fields: [title, author, pubDate, draft]
+      fields:
+        - title
+        - author
+        - pubDate
+        - draft
       primary: title
-      sort: [pubDate, title]
+      sort:
+        - pubDate
+        - title
       default:
         sort: pubDate
         order: desc
     fields:
-      - { name: title, label: Title, type: string, required: true }
-      - { name: description, label: Summary, type: text, required: true }
-      - { name: author, label: Author, type: string, required: true }
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Summary
+        type: text
+        required: true
+      - name: author
+        label: Author
+        type: string
+        required: true
       - name: pubDate
         label: Publication date
         type: date
         required: true
-        options: { format: yyyy-MM-dd, time: false }
+        options:
+          format: yyyy-MM-dd
+          time: false
       - name: draft
         label: Draft
         type: boolean
         default: true
-        description: Keep enabled until reviewed. Draft files remain visible in this public GitHub repository.
+        description: Keep enabled until reviewed. Draft files remain visible in this
+          public GitHub repository.
       - name: legacyPath
         label: Permanent URL path
         type: string
         required: true
-        description: 'Example: /2026/10/24/my-story/. Preserve this exactly for existing articles. Use lowercase words separated by hyphens and a trailing slash.'
+        description: 'Example: /2026/10/24/my-story/. Preserve this exactly for existing
+          articles. Use lowercase words separated by hyphens and a trailing
+          slash.'
       - name: category
         label: Topic
         type: select
         required: true
         options:
-          values: [Community, AI for good, Build with AI]
+          values:
+            - Community
+            - AI for good
+            - Build with AI
+            - Podcast
       - name: kind
         label: Content type
         type: select
         default: article
         options:
-          values: [article, project]
+          values:
+            - article
+            - project
       - name: language
         label: Article language
         type: select
         default: es
         options:
-          values: [es, en, pt]
-      - { name: tags, label: Tags, type: string, list: true }
-      - { name: image, label: Cover image, type: image }
-      - { name: imageAlt, label: Image description, type: string }
+          values:
+            - es
+            - en
+            - pt
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: image
+        label: Cover image
+        type: image
+      - name: imageAlt
+        label: Image description
+        type: string
       - name: body
         label: Article
         type: rich-text
-        options: { format: markdown }
-      - { name: sourceUrl, label: Original source, type: string, readonly: true }
-      - { name: sourceId, label: WordPress ID, type: number, readonly: true }
+        options:
+          format: markdown
+      - name: sourceUrl
+        label: Original source
+        type: string
+        readonly: true
+      - name: sourceId
+        label: WordPress ID
+        type: number
+        readonly: true
+  - name: pages
+    label: Pages & community archives
+    type: collection
+    path: src/content/pages
+    format: yaml-frontmatter
+    filename: '{primary}.md'
+    view:
+      fields:
+        - title
+        - legacyPath
+        - kind
+        - draft
+      primary: title
+      sort:
+        - title
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Summary
+        type: text
+        required: true
+      - name: legacyPath
+        label: Permanent URL
+        type: string
+        required: true
+        description: Keep the existing URL. New pages must use a unique path such as
+          /my-page/.
+      - name: kind
+        type: select
+        default: page
+        options:
+          values:
+            - page
+            - city
+            - section
+        description: Use page for a new resource. City and section bodies appear
+          alongside the designed page.
+      - name: draft
+        label: Draft
+        type: boolean
+        default: true
+      - name: language
+        type: select
+        default: en
+        options:
+          values:
+            - en
+            - es
+            - pt
+      - name: image
+        type: image
+      - name: body
+        label: Page content
+        type: rich-text
+        options:
+          format: markdown
+      - name: aliasTarget
+        label: Related destination
+        type: string
+      - name: sourceUrl
+        type: string
+        readonly: true
+      - name: sourceId
+        type: number
+        readonly: true
   - name: homepage
     label: Homepage
     type: file
     path: src/data/site.json
     format: json
     fields:
-      - { name: heroLine1, label: Headline first line, type: string, required: true }
-      - { name: heroLine2, label: Headline second line, type: string, required: true }
-      - { name: heroEmphasis, label: Highlighted word, type: string, required: true }
-      - { name: description, label: Introduction, type: text, required: true }
-      - { name: heroImage, label: Hero photograph, type: image, required: true }
-      - { name: communityImage, label: Community photograph, type: image, required: true }
+      - name: heroLine1
+        label: Headline first line
+        type: string
+        required: true
+      - name: heroLine2
+        label: Headline second line
+        type: string
+        required: true
+      - name: heroEmphasis
+        label: Highlighted word
+        type: string
+        required: true
+      - name: description
+        label: Introduction
+        type: text
+        required: true
+      - name: heroImage
+        label: Hero photograph
+        type: image
+        required: true
+      - name: communityImage
+        label: Community photograph
+        type: image
+        required: true
   - name: cities
     label: City communities
     type: file
@@ -84,24 +216,46 @@ content:
         type: object
         list: true
         fields:
-          - { name: name, type: string, required: true }
-          - { name: country, type: string, required: true }
+          - name: name
+            type: string
+            required: true
+          - name: country
+            type: string
+            required: true
           - name: region
             type: select
-            options: { values: [Europe, Americas] }
-          - {
-              name: slug,
-              label: Permanent URL slug,
-              type: string,
-              required: true,
-              description: Preserve existing slugs.,
-            }
-          - { name: description, type: text, required: true }
-          - { name: image, type: image }
-          - { name: contact, label: Contact link, type: string, required: true }
-          - { name: status, label: Edition status, type: string, required: true }
-          - { name: draft, label: Hidden from website, type: boolean, default: true }
-          - { name: sourceUrl, type: string, readonly: true }
+            options:
+              values:
+                - Europe
+                - Americas
+          - name: slug
+            label: Permanent URL slug
+            type: string
+            required: true
+            description: Preserve existing slugs.
+          - name: description
+            type: text
+            required: true
+          - name: image
+            type: image
+          - name: contact
+            label: Contact link
+            type: string
+            required: true
+          - name: status
+            label: Edition status
+            type: string
+            required: true
+          - name: draft
+            label: Hidden from website
+            type: boolean
+            default: true
+          - name: sourceUrl
+            type: string
+            readonly: true
+          - name: logo
+            label: Official city logo
+            type: image
   - name: courses
     label: Learning paths
     type: file
@@ -112,20 +266,42 @@ content:
         type: object
         list: true
         fields:
-          - { name: title, type: string, required: true }
-          - { name: description, type: text, required: true }
-          - { name: url, label: Course destination, type: string, required: true }
-          - { name: language, type: string }
-          - { name: topic, type: string }
+          - name: title
+            type: string
+            required: true
+          - name: description
+            type: text
+            required: true
+          - name: url
+            label: Course destination
+            type: string
+            required: true
+          - name: language
+            type: string
+          - name: topic
+            type: string
           - name: level
             type: select
-            options: { values: [Starting out, Going deeper] }
+            options:
+              values:
+                - Starting out
+                - Going deeper
           - name: icon
             type: select
-            options: { values: [book, code, spark, globe] }
+            options:
+              values:
+                - book
+                - code
+                - spark
+                - globe
           - name: color
             type: select
-            options: { values: [peach, lilac, lime, blue] }
+            options:
+              values:
+                - peach
+                - lilac
+                - lime
+                - blue
 settings:
   content:
     merge: true

@@ -25,13 +25,29 @@ const posts = (await publishedPosts()).filter(
         and lessons from our community.
       </p>
     </section>
-    <p class="result-count">
+    <label class="search-box">
+      <Icon name="search" size={18} />
+      <span class="sr-only">Search projects</span>
+      <input type="search" data-search-input placeholder="Explore a topic or project…" />
+    </label>
+    <p class="result-count" data-result-count aria-live="polite">
       A selection of community projects. Original project stories are in Spanish.
     </p>
     <div class="post-grid listing-grid">
       {posts.map((post) => (
         <PostCard post={post} heading="h2" />
       ))}
+    </div>
+    <div class="load-more-wrap">
+      <button class="button button-dark" data-load-more hidden>
+        Show more projects
+      </button>
+    </div>
+    <div data-empty hidden class="empty-state">
+      <h2>No projects found.</h2>
+      <button data-reset class="button button-dark">
+        Show all projects
+      </button>
     </div>
     <section class="closing-section">
       <span class="eyebrow">YOUR IDEA COULD BE NEXT</span>
@@ -46,4 +62,8 @@ const posts = (await publishedPosts()).filter(
       </a>
     </section>
   </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-post]', noun: 'projects' });
+  </script>
 </Layout>

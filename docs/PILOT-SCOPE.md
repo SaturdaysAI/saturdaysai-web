@@ -1,33 +1,23 @@
-# Saturdays.AI migration pilot
+# Scope and acceptance
 
-Approved scope: Astro, GitHub Pages, Pages CMS, reviewed public content, preserved URL paths, redesigned UX. Show the pilot before changing production. No production DNS or WordPress mutations.
+Approved stack: Astro, GitHub Pages and Pages CMS. Approved destination: SaturdaysAI/saturdaysai-web. The owner requested the official identity, the full public archive, improved UX, original URL paths, spam exclusion and a CMS draft test. Production cutover remains separate.
 
-Editorial update: remove prices, fees, discounts, donation calls and other economic information from city pages and general site pages. Preserve original article bodies, including economic information in the blog.
+## Contracts
 
-## Architecture and contracts
+- All public legitimate post/page records from the 24 October snapshot have local routes, with their original paths after the preview prefix.
+- New articles default to draft. Drafts and future dates are excluded from built pages, RSS and sitemap. Routes cannot overwrite another article, page, city or fixed section.
+- Articles preserve economic content. General and city pages omit pricing and related economic copy.
+- Original scripts and forms are not executed. Supported external media is loaded on demand; external account/course services remain external.
+- Brand assets preserve original proportions. Montserrat and website images are local. Shared templates separate editorial content from presentation.
+- Preview stays noindex. No WordPress, DNS, mail or custom-domain changes are authorized by this build.
 
-- Astro builds static HTML. No React runtime, application server, visitor account database or runtime WordPress dependency.
-- Posts use Markdown with structured metadata and an explicit, immutable legacy URL path. Imported HTML is sanitized before conversion and again at rendering.
-- Import by a reviewed allowlist of WordPress IDs, never blindly crawl or publish the whole database. Suspicious page ID 12005 and media ID 12008 are excluded. No PDFs or executable uploads are imported.
-- Content types: articles, projects (article category), cities, course listings, homepage settings. A boolean draft field defaults to true for new articles. Future publication dates remain excluded until a rebuild after the date.
-- Pages CMS writes the same files used by the build. Content edits must not change existing legacy paths. No secret or unpublished confidential content belongs in a public repository.
-- Internal URLs and local media must work at both / and a GitHub project subpath. Existing URL paths are preserved relative to the pilot prefix and unchanged when the production domain is eventually connected.
-- Preview is noindex. Production indexing requires an explicit configuration change. No CNAME file or automatic domain cutover.
-- Courses, payments, registrations and donations continue to use reviewed external links. Historical city dates and fees are not represented as current offers.
-- Dependencies are pinned by the lockfile. Editorial content and visual components are separate. Images and fonts are local.
+## Acceptance
 
-## Acceptance criteria
+- Source reconciliation, URL preservation, draft exclusion, local references, SEO metadata and editorial fields are checked by `npm run verify`.
+- Actual desktop/mobile interactions and rendering are checked in a browser, including search, filters, archive disclosures and on-demand media.
+- Pages CMS must demonstrate a real saved GitHub draft and a successful deployment with that draft absent from the public website. This passed on 24 October 2026.
+- GitHub Actions must validate the commit before publishing the preview. Reverting a commit rolls back a change through the same workflow.
 
-1. Homepage, article index, several complete articles, project index, city finder, representative city pages, and course listing render.
-2. All imported article paths exactly match their WordPress paths. No duplicate paths, draft leaks, spam records or unsafe embedded markup.
-3. Article search/filter, city search/filter, course selector, menu and reading controls work by keyboard and pointer. No-JavaScript visitors can read the content and follow links.
-4. Responsive layouts, visible focus, accessible labels, reasonable contrast, no horizontal overflow and reduced-motion support.
-5. Static build checks cover routes, metadata, links, image dependencies, draft exclusion and subpath deployment. Browser checks cover actual interactions and layout.
-6. GitHub Actions validates before deployment. The pilot remains separate from saturdays.ai and is clearly labelled as a preview.
+## Failure handling
 
-## Failure cases
-
-- Import fails closed on a missing allowlisted record, an unsafe media type or unexpected content; existing authored files are never overwritten by default.
-- WordPress data is source material only. Unknown shortcodes/embeds are recorded for review; no scripts from WordPress are executed.
-- Broken builds do not deploy. Editorial mistakes can be reverted in GitHub.
-- GitHub account selection and Pages CMS installation may require the owner. Local preview remains usable while those integrations are pending.
+Unrecoverable source images are recorded rather than silently replaced. Broken builds do not deploy. Source omissions and placeholder legal copy are documented in MIGRATION.md. No credentials, private source manuals or confidential drafts belong in this public repository. Runtime content does not depend on WordPress.

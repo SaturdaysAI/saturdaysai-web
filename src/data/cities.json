@@ -10,7 +10,8 @@
       "sourceUrl": "https://saturdays.ai/barcelona/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Barcelona.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/barcelona.webp"
     },
     {
       "name": "Madrid",
@@ -22,7 +23,8 @@
       "sourceUrl": "https://saturdays.ai/madrid/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Madrid.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/madrid.webp"
     },
     {
       "name": "Valencia",
@@ -34,7 +36,8 @@
       "sourceUrl": "https://saturdays.ai/valencia/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Valencia.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/valencia.webp"
     },
     {
       "name": "Guadalajara",
@@ -46,7 +49,8 @@
       "sourceUrl": "https://saturdays.ai/guadalajara/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Guadalajara.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/guadalajara.webp"
     },
     {
       "name": "Quito",
@@ -58,7 +62,8 @@
       "sourceUrl": "https://saturdays.ai/quito/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Quito.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/quito.webp"
     },
     {
       "name": "Guayaquil",
@@ -70,7 +75,8 @@
       "sourceUrl": "https://saturdays.ai/guayaquil/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Guayaquil.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/guayaquil.webp"
     },
     {
       "name": "Monterrey",
@@ -82,7 +88,8 @@
       "sourceUrl": "https://saturdays.ai/monterrey-ai/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Monterrey.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/monterrey-ai.webp"
     },
     {
       "name": "Asunción",
@@ -94,7 +101,203 @@
       "sourceUrl": "https://saturdays.ai/asuncion/",
       "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Asunción.",
       "status": "Contact the team for the next edition",
-      "draft": false
+      "draft": false,
+      "logo": "/brand/cities/asuncion.webp"
+    },
+    {
+      "name": "Alicante",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "alicante",
+      "image": "/media/e47cb128d6da7070.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/alicante/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Alicante.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/alicante.webp"
+    },
+    {
+      "name": "Honduras",
+      "country": "Honduras",
+      "region": "Americas",
+      "slug": "honduras",
+      "image": "/media/af5e0c0262ede2ec.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/honduras/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Honduras.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "region": "Europe",
+      "slug": "copenhagen",
+      "image": "/media/4d3d5bd633f6322b.webp",
+      "contact": "mailto:guillermo.trujillo@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/copenhagen/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Copenhagen.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/copenhagen.webp"
+    },
+    {
+      "name": "Santiago de Compostela",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "santiago-de-compostela",
+      "image": "/media/352c85a774dba997.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/santiago-de-compostela/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Santiago de Compostela.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Zaragoza",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "zaragoza",
+      "image": "/media/f120167d3b2cb7b2.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/zaragoza/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Zaragoza.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Castellón",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "castellon",
+      "image": "/media/e47cb128d6da7070.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/castellon/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Castellón.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Cochabamba",
+      "country": "Bolivia",
+      "region": "Americas",
+      "slug": "cochabamba",
+      "image": "/media/dd868479b12843b7.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/cochabamba/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Cochabamba.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "La Paz",
+      "country": "Bolivia",
+      "region": "Americas",
+      "slug": "la-paz",
+      "image": "/media/0c64c5aca67450d1.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/la-paz/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in La Paz.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Costa Rica",
+      "country": "Costa Rica",
+      "region": "Americas",
+      "slug": "costa-rica",
+      "image": "/media/edf0a7900db9aad6.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/costa-rica/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Costa Rica.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/costa-rica.webp"
+    },
+    {
+      "name": "Mallorca",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "mallorca",
+      "image": "/media/edf0a7900db9aad6.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/mallorca/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Mallorca.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/mallorca.webp"
+    },
+    {
+      "name": "Asturias",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "asturias",
+      "image": "/media/599744acbb56a2cb.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/asturias/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Asturias.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": ""
+    },
+    {
+      "name": "Murcia",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "murcia",
+      "image": "/media/6b05a6fbf28b97d7.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/murcia/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Murcia.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/murcia.webp"
+    },
+    {
+      "name": "Tarragona",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "tarragona",
+      "image": "/media/9571490480338382.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/tarragona/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Tarragona.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/tarragona.webp"
+    },
+    {
+      "name": "Donostia",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "donostia",
+      "image": "/media/6e65a597f4347686.webp",
+      "contact": "mailto:donostia@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/donostia/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Donostia.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/donostia.webp"
+    },
+    {
+      "name": "Bilbao",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "bilbao",
+      "image": "/media/6e65a597f4347686.webp",
+      "contact": "mailto:info@saturdays.ai",
+      "sourceUrl": "https://saturdays.ai/bilbao/",
+      "description": "Learn artificial intelligence, meet your local community and build projects with social impact in Bilbao.",
+      "status": "Contact the team for the next edition",
+      "draft": false,
+      "logo": "/brand/cities/bilbao.webp"
     }
   ]
 }

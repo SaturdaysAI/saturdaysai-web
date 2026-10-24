@@ -13,6 +13,7 @@ const p = post.data;
 
 <article
   class:list={['post-card', { featured }]}
+  data-year={String(p.pubDate.getUTCFullYear())}
   data-post
   data-category={p.category}
   data-search={`${p.title} ${p.description} ${p.author} ${p.tags.join(' ')}`.toLocaleLowerCase()}

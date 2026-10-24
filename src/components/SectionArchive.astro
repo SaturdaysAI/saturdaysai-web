@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import { renderContent } from '../lib/render-content';
+interface Props {
+  path: string;
+  label?: string;
+}
+const { path, label = 'Community information and resources' } = Astro.props;
+const entry = (await getCollection('pages')).find(
+  (p) => p.data.legacyPath === path && !p.data.draft,
+);
+const { html } = await renderContent(entry?.body || '', true);
+---
+
+{html && (
+  <details class="city-history">
+    <summary>{label}</summary>
+    <p class="archive-notice">
+      From the Saturdays.AI community archive. Details of past editions are retained for reference;
+      the local team can confirm the current programme.
+    </p>
+    <div class="prose" set:html={html} />
+  </details>
+)}

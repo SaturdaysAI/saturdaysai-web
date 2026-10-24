@@ -1,0 +1,67 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from '../components/PostCard.astro';
+import SectionArchive from '../components/SectionArchive.astro';
+import Icon from '../components/Icon.astro';
+import { publishedPosts } from '../lib/content';
+const posts = (await publishedPosts()).filter((p) => p.data.category === 'Podcast');
+---
+
+<Layout
+  title="The Saturdays.AI podcast"
+  description="Conversations about artificial intelligence, the people behind it and the paths that brought us here. Explore every episode from the Saturdays.AI podcast."
+>
+  <div class="container">
+    <section class="page-hero">
+      <span class="eyebrow">THE PEOPLE BEHIND THE POSSIBILITIES</span>
+      <h1>
+        Big questions.
+        <br />
+        <span class="orange-word">Human conversations.</span>
+      </h1>
+      <p>
+        Stories about artificial intelligence and the people shaping it. Get to know their work,
+        their turning points and what keeps them curious.
+      </p>
+      <div class="archive-counts">
+        <span>
+          <strong>{posts.length}</strong>conversations in Spanish
+        </span>
+        <span>
+          <strong>5</strong>seasons to explore
+        </span>
+      </div>
+    </section>
+    <div class="listing-tools">
+      <label class="search-box">
+        <Icon name="search" size={18} />
+        <span class="sr-only">Search episodes</span>
+        <input type="search" data-search-input placeholder="Search guests, topics, seasons…" />
+      </label>
+    </div>
+    <p class="result-count" data-result-count aria-live="polite">
+      {posts.length} episodes
+    </p>
+    <div class="post-grid listing-grid">
+      {posts.map((post) => (
+        <PostCard post={post} heading="h2" />
+      ))}
+    </div>
+    <div class="load-more-wrap">
+      <button class="button button-dark" data-load-more hidden>
+        Show more episodes
+      </button>
+    </div>
+    <div data-empty hidden class="empty-state">
+      <h2>No episodes found.</h2>
+      <button data-reset class="button button-dark">
+        Show all episodes
+      </button>
+    </div>
+    <SectionArchive path="/podcast/" label="About the podcast and listening platforms" />
+  </div>
+  <script>
+    import { setupFilters } from '../scripts/filters';
+    setupFilters({ item: '[data-post]', noun: 'episodes' });
+  </script>
+</Layout>

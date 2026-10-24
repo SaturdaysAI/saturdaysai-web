@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import SectionArchive from '../components/SectionArchive.astro';
 import Icon from '../components/Icon.astro';
 import { url } from '../lib/content';
 import cities from '../data/cities.json';
@@ -30,6 +31,15 @@ const { city } = Astro.props;
     <section class="city-intro">
       <div>
         <span class="eyebrow">{city.country.toUpperCase()} / AI SATURDAYS</span>
+        {city.logo && (
+          <img
+            class="city-brand"
+            src={url(city.logo)}
+            alt={`AI Saturdays ${city.name}`}
+            width="250"
+            height="160"
+          />
+        )}
         <h1>
           Hello,
           <br />
@@ -90,5 +100,8 @@ const { city } = Astro.props;
         Explore the courses <Icon name="arrow" size={18} />
       </a>
     </section>
+  </div>
+  <div class="container">
+    <SectionArchive path={'/' + city.slug + '/'} label="Local community archive and resources" />
   </div>
 </Layout>

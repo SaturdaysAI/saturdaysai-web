@@ -61,18 +61,18 @@
 }
 @layer base {
   :root {
-    --paper: #f6f4ee;
-    --ink: #232620;
-    --muted: #65675e;
-    --line: #deded4;
-    --orange: #c74423;
-    --bright: #ef683d;
-    --peach: #fae2d5;
-    --lilac: #e9e4f7;
-    --lime: #e8edda;
-    --blue: #dfe9ed;
-    --display: 'Space Grotesk Variable', sans-serif;
-    --body: 'DM Sans Variable', sans-serif;
+    --paper: #ffffff;
+    --ink: #151e3f;
+    --muted: #536078;
+    --line: #dce2ed;
+    --orange: #ff9d5a;
+    --bright: #ff9d5a;
+    --peach: #fff0e5;
+    --lilac: #eaf1f8;
+    --lime: #eff5fb;
+    --blue: #e4f0f7;
+    --display: 'Montserrat Variable', sans-serif;
+    --body: 'Montserrat Variable', sans-serif;
   }
   body {
     font-family: var(--body);
@@ -83,7 +83,7 @@
     -webkit-font-smoothing: antialiased;
   }
   ::selection {
-    background: #f6bca4;
+    background: #ff9d5a;
     color: var(--ink);
   }
   h1,
@@ -112,7 +112,7 @@
     touch-action: manipulation;
   }
   :focus-visible {
-    outline: 3px solid #8654bd;
+    outline: 3px solid #0b6099;
     outline-offset: 5px;
   }
   button:disabled {
@@ -162,18 +162,18 @@
   }
   .preview-banner {
     min-height: 32px;
-    background: #eae8df;
+    background: #f0f4f9;
     font-size: 0.7rem;
     display: flex;
     gap: 8px;
     align-items: center;
     justify-content: center;
     padding: 5px 20px;
-    color: #55584d;
+    color: #536078;
   }
   .preview-label {
     font-size: 0.62rem;
-    border: 1px solid #bdbfb0;
+    border: 1px solid #c6d2e2;
     padding: 0 6px;
     border-radius: 3px;
     text-transform: uppercase;
@@ -195,7 +195,7 @@
   .site-header {
     position: sticky;
     top: 0;
-    background: rgb(246 244 238 / 94%);
+    background: rgb(255 255 255 / 96%);
     backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--line);
     z-index: 20;
@@ -267,24 +267,24 @@
   }
   .button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 0 #23262018;
+    box-shadow: 0 5px 0 #151e3f18;
   }
   .button-dark {
     background: var(--ink);
     color: #fff;
   }
   .button-dark:hover {
-    background: #3c4136;
+    background: #0b6099;
   }
   .button-orange {
     background: var(--orange);
     color: white;
   }
   .button-orange:hover {
-    background: #ba3a1c;
+    background: #ffb785;
   }
   .button-outline {
-    border: 1px solid #bfc2b3;
+    border: 1px solid #c6d2e2;
     background: transparent;
   }
   .nav-cta {
@@ -378,14 +378,14 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #bdc7aa;
+    background: #151e3f;
   }
   .mini-network i + i {
     margin-left: -7px;
-    background: #e8b79e;
+    background: #ff9d5a;
   }
   .mini-network i:last-child {
-    background: #c3b9df;
+    background: #0b6099;
   }
   .community-art {
     height: 520px;
@@ -409,9 +409,9 @@
     inset: 71px 28px 55px 40px;
     border-radius: 48% 48% 8px 8px;
     overflow: hidden;
-    background: #d9d5bf;
+    background: #e4f0f7;
     transform: rotate(-4deg);
-    border: 7px solid #eae8dc;
+    border: 7px solid #151e3f;
     box-shadow: 0 15px 40px #38322416;
   }
   .art-photo img {
@@ -426,7 +426,7 @@
     bottom: 18px;
     left: 18px;
     right: 18px;
-    background: rgb(246 244 238 / 94%);
+    background: rgb(255 255 255 / 96%);
     font-size: 0.68rem;
     padding: 10px 14px;
     border-radius: 5px;
@@ -613,14 +613,14 @@
     padding: 28px;
     display: flex;
     flex-direction: column;
-    border: 1px solid #23262008;
+    border: 1px solid #151e3f08;
     transition:
       transform 0.25s,
       box-shadow 0.25s;
   }
   .path-card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 12px 30px #2326200d;
+    box-shadow: 0 12px 30px #151e3f0d;
   }
   .peach {
     background: var(--peach);
@@ -1046,7 +1046,7 @@
     min-height: 25px;
   }
   .search-box:focus-within {
-    outline: 3px solid #8654bd;
+    outline: 3px solid #0b6099;
     outline-offset: 3px;
   }
   .search-box svg {

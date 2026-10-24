@@ -1,0 +1,35 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from './PostCard.astro';
+import { publishedPosts, url } from '../lib/content';
+interface Props {
+  archive: { title: string; path: string; postIds: number[]; type: string };
+}
+const { archive } = Astro.props;
+const posts = (await publishedPosts()).filter((p) =>
+  archive.postIds.includes(p.data.sourceId || 0),
+);
+---
+
+<Layout
+  title={archive.title}
+  description={`Stories, projects and conversations from Saturdays.AI about ${archive.title}.`}
+>
+  <div class="container">
+    <section class="page-hero">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={url('/blog-y-noticias/')}>Journal</a>
+        <span>/</span>
+        <span>{archive.type}</span>
+      </nav>
+      <span class="eyebrow">FROM THE COMMUNITY ARCHIVE</span>
+      <h1>{archive.title}</h1>
+      <p>{posts.length} stories, projects and conversations to explore.</p>
+    </section>
+    <div class="post-grid listing-grid">
+      {posts.map((post) => (
+        <PostCard post={post} heading="h2" />
+      ))}
+    </div>
+  </div>
+</Layout>
