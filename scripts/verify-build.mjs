@@ -22,6 +22,8 @@ let checked = 0;
 const manifest = JSON.parse(await readFile('imports/manifest.json', 'utf8'));
 for (const post of manifest.posts)
   assert.ok(known.has(`${post.path.slice(1)}index.html`), `Missing legacy route: ${post.path}`);
+for (const city of manifest.cities)
+  assert.ok(known.has(`${city.path.slice(1)}index.html`), `Missing legacy city route: ${city.path}`);
 for (const file of htmlFiles) {
   const text = await readFile(file, 'utf8');
   const $ = cheerio.load(text);
