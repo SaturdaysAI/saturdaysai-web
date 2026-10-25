@@ -2,7 +2,9 @@
 
 Authorized by the site owner on 25 October 2026 to replace the WordPress website at https://saturdays.ai/ with this repository's GitHub Pages website.
 
-Status: production build and domain cutover in progress. This record will be updated with live verification results.
+Status at 18:57 CET, 25 October 2026: production deployed and DNS records changed. HTTPS certificate issuance and final public verification are still pending. GitHub's DNS check still reports the previous non-GitHub destination, despite current authoritative and public DNS queries returning the new records.
+
+A bounded, one-time completion process is running locally in the background. It retries transient API failures, waits for an approved certificate, validates TLS for both the apex and www, enables HTTPS enforcement, and checks all production routes and metadata. Its log is `artifacts/cutover-2026-10-25/finish-https-background.log`; successful completion creates `completed.json` alongside the public verification report. The computer must remain running for this local process to finish. This is not a permanent monitoring service. Certificate issuance has not yet been confirmed, so the migration must not yet be reported as fully verified.
 
 ## Configuration
 
@@ -11,11 +13,24 @@ Status: production build and domain cutover in progress. This record will be upd
 - GitHub Pages custom domain: `saturdays.ai`.
 - Build: `SITE_URL=https://saturdays.ai`, `BASE_PATH=/`, `PUBLIC_SITE_MODE=production`.
 - DNS provider: Netlify, team `apolmig`, existing zone `saturdays.ai`.
-- Planned apex A records: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`.
-- Planned `www` CNAME: `saturdaysai.github.io`.
+- Configured apex A records: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (TTL 300).
+- Configured `www` CNAME: `saturdaysai.github.io` (TTL 300).
 - Email, course platforms and other subdomains retain their existing DNS records.
 
 Production removes the review banner and permits search crawling on substantive pages. Thin archives, utility and placeholder pages remain noindex. Existing article/page paths remain at the domain root; English versions use `/en/`. Pages CMS continues committing to this same repository.
+
+## Validation
+
+- Production code commit: `93c3d56504b605fc68d7d12eded7d55321d4a882`.
+- [Successful production workflow](https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40216649308).
+- Local production verification: 33 tests passed; Astro reported zero errors, warnings and hints.
+- 916 generated HTML pages, 162 legacy articles, 72,572 local references, 4,130 section links, 3,754 image dimensions and 1,832 language alternatives checked.
+- 445 branded social images verified; zero missing translations.
+- Root-domain canonical URLs and production indexing rules checked across all generated pages.
+- Local browser check: mobile navigation, Spanish/English switching and light/dark theme work without the preview banner or horizontal overflow.
+- Deployed GitHub origin returned the correct localized homepage and production canonical URL before DNS was changed.
+- DNS readback: 37 records after the change, with all 32 records outside the apex A and www CNAME preserved exactly.
+- All four authoritative nameservers return the four GitHub Pages addresses and new www CNAME. Recursive caches can temporarily return old answers.
 
 ## Before-change evidence and rollback
 
