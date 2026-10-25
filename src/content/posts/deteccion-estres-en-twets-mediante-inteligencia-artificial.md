@@ -195,13 +195,15 @@ A continuación podemos observar la matriz de confusión del modelo ganador, as�
 
 El ajuste fue realizado para tres modelos con el fin de mejorar su desempeño.
 
-**Logistic Regression  
-**Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
+**Logistic Regression**
+
+Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
 1.- Valor C  
 2.- Penalty del modelo: L1 (Lasso) y L2 (Ridge)
 
-**Random Forest Classifier  
-**Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
+**Random Forest Classifier**
+
+Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
 1.- Número de Estimadores: número de árboles utilizados en el bosque. Este valor empezará en 200 e irá de 10 en 10 hasta llegar a 2000.  
 2.- Max\_Features: es el número de atributos a considerar para la mejor división. Se prueba con “auto” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos.  
 3.- Max\_depth: esto se refiere a la máxima profundidad del árbol. Para este caso se parte en 10 hasta 110 avanzando de 11.  
@@ -209,8 +211,9 @@ El ajuste fue realizado para tres modelos con el fin de mejorar su desempeño.
 5.- Min\_samples\_leaf: el número mínimo de muestras requeridas para ser una hoja de nodo. Se considera 1, 2 y 4 para realizar la búsqueda de grilla.  
 6.- Bootstrap: Si es Verdadero, usará bottstrap en la construcción de los árboles. Si es falso no se utilizará. Se probará con ambas.
 
-**Gradient Boosting Classifier  
-**Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
+**Gradient Boosting Classifier**
+
+Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:  
 1.- Loss: se usa desviance para evaluar como regresión logística la función de pérdida  
 2.- Learning:rate: es la medición que mide la contribución de cada árbol.  
 3.- Max\_Features: es el número de atributos a considerar para la mejor división. Se prueba con “sqrt” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos, en el caso de “log2” se usa el logaritmo del número de atributos.  

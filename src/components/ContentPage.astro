@@ -8,12 +8,16 @@ import PostCard from './PostCard.astro';
 import { publishedPosts } from '../lib/content';
 import TableOfContents from './TableOfContents.astro';
 import { breadcrumbSchema, structuredJSON } from '../lib/seo.mjs';
+import { teamLayout } from '../lib/editorial-layout.mjs';
 interface Props {
   page: CollectionEntry<'pages'>;
 }
 const { page } = Astro.props;
 const p = page.data;
 const { html, toc } = await renderContent(page.body, true);
+const about = p.legacyPath === '/about/';
+const displayHtml = about ? teamLayout(html) : html;
+const navigation = about ? toc.filter((item) => /community|mission|team/i.test(item.text)) : toc;
 const oldProgramme =
   /master|online|la-paz|saturdays|dawia|honduras/.test(p.legacyPath) && !p.aliasTarget;
 const lang = p.language;
@@ -46,7 +50,7 @@ const copy =
       ]),
     )}
   />
-  <div class="container">
+  <div class:list={['container', { 'about-page': about }]}>
     <section class="page-hero">
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <a href={url('/')}>{copy.home}</a>
@@ -74,9 +78,15 @@ const copy =
         confirm current dates, availability and requirements.
       </p>
     )}
+    {about && (
+      <p class="archive-notice">
+        Team biographies and impact figures come from the original website. Contact the team to
+        confirm current roles and figures.
+      </p>
+    )}
     <div class="document-shell">
       <aside class="document-toc reading-navigation">
-        <TableOfContents items={toc} label={copy.toc} />
+        <TableOfContents items={navigation} label={copy.toc} />
         <a class="more-resources" href={url('/explore/')}>
           {copy.more} →
         </a>
@@ -85,7 +95,7 @@ const copy =
         {p.legacyPath === '/aprende-ai-en-remoto/' ? (
           <LearningExplorer />
         ) : (
-          html && <div class="prose" set:html={html} />
+          displayHtml && <div class="prose" set:html={displayHtml} />
         )}
         {stories.length > 0 && (
           <>

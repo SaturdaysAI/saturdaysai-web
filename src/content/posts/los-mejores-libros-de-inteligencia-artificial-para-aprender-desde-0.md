@@ -79,7 +79,7 @@ La IA es un campo extenso que incluye diversas áreas interrelacionadas, cada un
 
 ![](/media/9dde0445ac084099.webp)
 
-![La imagen tiene un atributo ALT vacío; su nombre de archivo es 61SpyZ8ymL.\_SY522\_-2.jpg](/media/d94f6f7d2052933b.webp)
+![](/media/d94f6f7d2052933b.webp)
 
 ![](/media/124c781251e730b2.webp)
 

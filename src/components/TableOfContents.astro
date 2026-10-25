@@ -30,13 +30,17 @@ const { items, label } = Astro.props;
   narrow.addEventListener('change', update);
   lists.forEach((list) =>
     list.querySelectorAll('a').forEach((link) =>
-      link.addEventListener('click', () => {
-        if (narrow.matches) list.open = false;
+      link.addEventListener('click', (event) => {
+        if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
         const target = document.getElementById(link.hash.slice(1));
-        if (target) {
-          target.tabIndex = -1;
-          target.focus({ preventScroll: true });
-        }
+        if (!target) return;
+        event.preventDefault();
+        if (narrow.matches) list.open = false;
+        history.pushState(null, '', link.hash);
+        target.tabIndex = -1;
+        target.focus({ preventScroll: true });
+        // Long articles should land immediately, after the mobile contents panel collapses.
+        target.scrollIntoView({ behavior: 'instant', block: 'start' });
       }),
     ),
   );

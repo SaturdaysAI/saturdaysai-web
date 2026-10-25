@@ -282,7 +282,7 @@ Realizaremos un segundo ejemplo, esta vez con un empleado que no esté haciendo 
 
 Ejemplo con el candidato 2
 
-candidate\_2\['Attrition'\]**0.76   **          
+candidate\_2\['Attrition'\] **0.76**          
 
 Para este segundo ejemplo, hemos elegido _MonthlyIncome_ y _StockOptionLevel._ En este caso hemos aumentado su salario mensual un 10% y le hemos dado una opción de participación de nivel 2 dentro de la empresa, para que se sienta partícipe.
 

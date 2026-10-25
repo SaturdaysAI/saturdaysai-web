@@ -6,7 +6,11 @@ import { getCollection } from 'astro:content';
 import { url, publishedPosts } from '../lib/content';
 import cities from '../data/cities.json';
 const pages = (await getCollection('pages')).filter(
-  (p) => !p.data.draft && p.data.kind === 'page' && !p.data.aliasTarget,
+  (p) =>
+    !p.data.draft &&
+    p.data.kind === 'page' &&
+    !p.data.aliasTarget &&
+    !/^\/(?:la-paz|elementor-|en\/|pt\/|starchat|terms)/.test(p.data.legacyPath),
 );
 const posts = await publishedPosts();
 const group = (path: string) =>

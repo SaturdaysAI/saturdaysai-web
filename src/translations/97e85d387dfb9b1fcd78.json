@@ -1008,6 +1008,24 @@
       "es": "KNN",
       "reviewed": false,
       "translationVersion": 2
+    },
+    {
+      "source": "Logistic Regression",
+      "en": "Logistic Regression",
+      "es": "Regresión logística",
+      "reviewed": true
+    },
+    {
+      "source": "Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:",
+      "en": "A grid search runs the model with a set of parameter values to find the configuration with the highest accuracy. The following parameters were considered:",
+      "es": "Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:",
+      "reviewed": true
+    },
+    {
+      "source": "Gradient Boosting Classifier",
+      "en": "Gradient Boosting Classifier",
+      "es": "Clasificador Gradient Boosting",
+      "reviewed": true
     }
   ]
 }

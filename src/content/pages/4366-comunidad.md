@@ -1,9 +1,6 @@
 ---
 title: Comunidad
-description: "*Only in Spanish at the moment* Community At Saturdays.AI we
-  believe that we must accelerate our mission to make A.I. accessible to
-  everyone. That is why we are launching our online community. Online Courses
-  and Events…"
+description: "Connect with the Saturdays.AI community, discover learning resources and ask the team about current activities."
 image: /media/b2c66986e8a798f4.webp
 legacyPath: /comunidad/
 sourceUrl: https://saturdays.ai/comunidad/
@@ -12,8 +9,6 @@ language: en
 draft: false
 kind: page
 ---
-
-## \*Only in Spanish at the moment\*
 
 # Community
 
@@ -35,11 +30,9 @@ That’s why we’ve created the **online Saturdays.AI community** so you can st
 
 Will you join us?
 
-[Access the community](https://discord.gg/kMXmAsrA2g)
+[Contact the community](/contacto/)
 
 #### What is the community like inside?
-
-![](/media/66b1f2098b5960de.webp)
 
 ![](/media/0a243a6d4e653fd5.webp)
 

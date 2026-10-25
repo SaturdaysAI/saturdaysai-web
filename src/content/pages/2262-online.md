@@ -35,9 +35,9 @@ Each module includes exercises that, in addition to summarizing the key concepts
 
 
 
-[Peer feedback and community](https://discord.gg/ktbM5ANcVM)
+[Peer feedback and community](/contacto/)
 
-You can engage with other fellows and the community both in our Discord or in social networks, so you never learn alone
+Contact the team to find the current community channels and connect with other learners.
 
 Unlimited access
 
@@ -57,7 +57,7 @@ You can choose different study plans through the courses depending on your knowl
 
 #### Prompt Engineering Avanzado
 
-\*_Spanish_\* Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar **contexto**, **caching**, **planificación, RAG** y **agentes**.
+Spanish Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar **contexto**, **caching**, **planificación, RAG** y **agentes**.
 
 [Join now](https://cursos.saturdays.ai/courses/prompt-engineering-ai)
 
@@ -67,7 +67,7 @@ You can choose different study plans through the courses depending on your knowl
 
 #### Python 4 AI
 
-\*_English & Spanish_\*   Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.
+English & Spanish   Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.
 
 The program is organized in several modules where we will challenge you with practical exercises. You will have the opportunity to share with the community your progress, ask doubts and code with other people, building the foundations to further learning.
 
@@ -77,7 +77,7 @@ The program is organized in several modules where we will challenge you with pra
 
 #### IA Generativa y Multimodal
 
-\*_English & Spanish_\* Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.
+English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.
 
 We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.
 
@@ -91,13 +91,13 @@ This particular field (**generative AI**) is changing superfast, so we are going
 
 #### Data Mining y Hugging Face
 
-\*_English & Spanish_\*  Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!
+English & Spanish  Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!
 
 [Join now](https://cursos.saturdays.ai/courses/datamining)
 
 #### Reinforcement Learning
 
-\*_Spanish_\*  ¿Sabes que el Aprendizaje por Refuerzo (**RL**) es fundamental en el desarrollo de sistemas autónomos y en la toma de decisiones inteligentes?
+Spanish  ¿Sabes que el Aprendizaje por Refuerzo (**RL**) es fundamental en el desarrollo de sistemas autónomos y en la toma de decisiones inteligentes?
 
 Descubre cómo modelar y resolver problemas complejos de inteligencia artificial. En este curso, aprenderás a implementar algoritmos como _Q-learning y Deep RL_; entenderás cómo aplicarlos en escenarios reales como juegos inteligentes, robótica y sistemas de recomendación.
 
@@ -109,7 +109,7 @@ _\*Spoiler: Quizás la AGI se consiga gracias al RL_
 
 #### DS Fundamentals
 
-\*_in English_\* Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.
+in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.
 
 Lay the grounds to kick start your Data Science superpowers. 
 
@@ -121,13 +121,13 @@ Lay the grounds to kick start your Data Science superpowers. 
 
 #### Pandas Data Science
 
-\*_English & Spanish_\*  Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.
+English & Spanish  Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.
 
 [Join now](https://cursos.saturdays.ai/courses/pandas)
 
 #### Numpy Data Science
 
-\*_English & Spanish_\*  Curso de NumPy: Dominando la Manipulación de Datos Numéricos.
+English & Spanish  Curso de NumPy: Dominando la Manipulación de Datos Numéricos.
 
 ¿Alguna vez te has preguntado cómo los científicos de datos y los ingenieros realizan cálculos complejos y manipulan grandes conjuntos de datos en Python? ¡Aquí es donde entra en juego NumPy! En este curso, vamos a sumergirnos en el fascinante mundo de NumPy y aprender a manejar datos numéricos de manera eficiente.
 

@@ -7,7 +7,7 @@ description: En la era de la inteligencia artificial y el procesamiento del
 pubDate: 2023-05-02
 author: Info Saturdays
 category: Community
-kind: project
+kind: article
 tags:
   - ChatGPT
   - Deep Learning

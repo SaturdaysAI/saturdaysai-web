@@ -13,6 +13,7 @@ export function getStaticPaths() {
     .map((city) => ({ params: { city: city.slug }, props: { city } }));
 }
 const { city } = Astro.props;
+const emblem = !city.logo || city.image === city.logo;
 const breadcrumbs = breadcrumbSchema([
   { name: 'Home', url: new URL(url('/'), Astro.site).href },
   { name: 'Community', url: new URL(url('/cities/'), Astro.site).href },
@@ -60,9 +61,8 @@ const breadcrumbs = breadcrumbSchema([
       </div>
       <ResponsiveImage
         src={city.image || site.communityImage}
-        alt={
-          city.image ? `A view of ${city.name}` : 'Saturdays.AI community members working together'
-        }
+        alt={`AI Saturdays ${city.name}`}
+        class={emblem ? 'city-emblem' : undefined}
         sizes="(max-width: 800px) 90vw, 550px"
         loading="eager"
         fetchpriority="high"

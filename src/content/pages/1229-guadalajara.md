@@ -44,145 +44,145 @@ _Te invitamos a leer su artículo dando **click** en el siguiente icono de Mediu
 
 
 
-![IMG\_6284](/media/fc75efeee62fedc0.webp)
+![](/media/fc75efeee62fedc0.webp)
 
-![IMG\_6286](/media/20b1bef38891201e.webp)
+![](/media/20b1bef38891201e.webp)
 
-![IMG\_6288](/media/9582b3c1b55cb827.webp)
+![](/media/9582b3c1b55cb827.webp)
 
-![IMG\_6291](/media/fa2b96f52297d137.webp)
+![](/media/fa2b96f52297d137.webp)
 
-![IMG\_6293](/media/0dfd0b64d4d2cee7.webp)
+![](/media/0dfd0b64d4d2cee7.webp)
 
-![IMG\_6295](/media/7a54c7e26fe7e205.webp)
+![](/media/7a54c7e26fe7e205.webp)
 
-![IMG\_6301](/media/cf41438dc0ba0780.webp)
+![](/media/cf41438dc0ba0780.webp)
 
-![IMG\_6304](/media/177b0f204bfe0d8f.webp)
+![](/media/177b0f204bfe0d8f.webp)
 
-![IMG\_6307](/media/ae37b7c68615a742.webp)
+![](/media/ae37b7c68615a742.webp)
 
-![IMG\_6319](/media/69eb5be8266ee48a.webp)
+![](/media/69eb5be8266ee48a.webp)
 
-![IMG\_6324](/media/790fe09987a4328d.webp)
+![](/media/790fe09987a4328d.webp)
 
-![IMG\_6331](/media/37c460eef25515c2.webp)
+![](/media/37c460eef25515c2.webp)
 
-![IMG\_6336](/media/2cde2b73ab1fc34c.webp)
+![](/media/2cde2b73ab1fc34c.webp)
 
-![IMG\_6337](/media/828e8cc72649a936.webp)
+![](/media/828e8cc72649a936.webp)
 
-![IMG\_6339](/media/5dd9f3ecf721f850.webp)
+![](/media/5dd9f3ecf721f850.webp)
 
-![IMG\_6340](/media/94b524c01fb27102.webp)
+![](/media/94b524c01fb27102.webp)
 
-![IMG\_6345](/media/2d9410a726666e7e.webp)
+![](/media/2d9410a726666e7e.webp)
 
-![IMG\_6350](/media/d8d15f46b1dca243.webp)
+![](/media/d8d15f46b1dca243.webp)
 
-![IMG\_6352](/media/efecbe8d87125f79.webp)
+![](/media/efecbe8d87125f79.webp)
 
-![IMG\_6354](/media/8ebddb50fbe4d404.webp)
+![](/media/8ebddb50fbe4d404.webp)
 
-![IMG\_6359](/media/4af4325a63e23a7c.webp)
+![](/media/4af4325a63e23a7c.webp)
 
-![IMG\_6360](/media/e3ca3da0668f13c8.webp)
+![](/media/e3ca3da0668f13c8.webp)
 
-![IMG\_6361](/media/51c86a4a44079c81.webp)
+![](/media/51c86a4a44079c81.webp)
 
-![IMG\_6364](/media/246950aae29e1785.webp)
+![](/media/246950aae29e1785.webp)
 
-![IMG\_6365](/media/ab11afc7c2de330a.webp)
+![](/media/ab11afc7c2de330a.webp)
 
-![IMG\_6366](/media/de9c03547fb44b08.webp)
+![](/media/de9c03547fb44b08.webp)
 
-![IMG\_6368](/media/716bf5a6c674d093.webp)
+![](/media/716bf5a6c674d093.webp)
 
-![IMG\_6370](/media/2055658deee7c60b.webp)
+![](/media/2055658deee7c60b.webp)
 
-![IMG\_6371](/media/8a0cf11515a98a7a.webp)
+![](/media/8a0cf11515a98a7a.webp)
 
-![IMG\_6372](/media/62597e60b6e7c08c.webp)
+![](/media/62597e60b6e7c08c.webp)
 
-![IMG\_6373](/media/1206bd86b4804eb2.webp)
+![](/media/1206bd86b4804eb2.webp)
 
-![IMG\_6374](/media/e13102157939bdbb.webp)
+![](/media/e13102157939bdbb.webp)
 
-![IMG\_6375](/media/c611bea3a7edda56.webp)
+![](/media/c611bea3a7edda56.webp)
 
-![IMG\_6376](/media/2fce761cc2684906.webp)
+![](/media/2fce761cc2684906.webp)
 
-![IMG\_6377](/media/f8c678209c2d6d6c.webp)
+![](/media/f8c678209c2d6d6c.webp)
 
-![IMG\_6378](/media/00484a937b4f51d5.webp)
+![](/media/00484a937b4f51d5.webp)
 
-![IMG\_6379](/media/c842a2bd87f35aa0.webp)
+![](/media/c842a2bd87f35aa0.webp)
 
-![IMG\_6380](/media/b9844439b6330926.webp)
+![](/media/b9844439b6330926.webp)
 
-![IMG\_6381](/media/ff84a24375856757.webp)
+![](/media/ff84a24375856757.webp)
 
-![IMG\_6382](/media/1c1bac58fc4063a5.webp)
+![](/media/1c1bac58fc4063a5.webp)
 
-![IMG\_6383](/media/69e3de3343e0a0e8.webp)
+![](/media/69e3de3343e0a0e8.webp)
 
-![IMG\_6385](/media/531a63a995f06651.webp)
+![](/media/531a63a995f06651.webp)
 
-![IMG\_6386](/media/153f3b9221b93d48.webp)
+![](/media/153f3b9221b93d48.webp)
 
-![IMG\_6387](/media/5f086ba0313e901e.webp)
+![](/media/5f086ba0313e901e.webp)
 
-![IMG\_6390](/media/95ac7447adf42906.webp)
+![](/media/95ac7447adf42906.webp)
 
-![IMG\_6394](/media/2b565fbad22fc020.webp)
+![](/media/2b565fbad22fc020.webp)
 
-![IMG\_6400](/media/65de8e6e8779e534.webp)
+![](/media/65de8e6e8779e534.webp)
 
-![IMG\_6401](/media/65eaaaa53a30ebbb.webp)
+![](/media/65eaaaa53a30ebbb.webp)
 
-![IMG\_6403](/media/e8ed7e3b1fb1425e.webp)
+![](/media/e8ed7e3b1fb1425e.webp)
 
-![IMG\_6404](/media/aef1a5a76cee4612.webp)
+![](/media/aef1a5a76cee4612.webp)
 
-![IMG\_6405](/media/af314473fee9747c.webp)
+![](/media/af314473fee9747c.webp)
 
-![IMG\_6406](/media/9f2c192f3cdcca46.webp)
+![](/media/9f2c192f3cdcca46.webp)
 
-![IMG\_6407](/media/e223a1731d019866.webp)
+![](/media/e223a1731d019866.webp)
 
-![IMG\_6410](/media/59ca1bb909c35dfd.webp)
+![](/media/59ca1bb909c35dfd.webp)
 
-![IMG\_6411](/media/7d382c4f0d94070a.webp)
+![](/media/7d382c4f0d94070a.webp)
 
-![IMG\_6412](/media/09fc035d2c75f032.webp)
+![](/media/09fc035d2c75f032.webp)
 
-![IMG\_6414](/media/d3ee588948773df1.webp)
+![](/media/d3ee588948773df1.webp)
 
-![IMG\_6416](/media/f446b4334b02174f.webp)
+![](/media/f446b4334b02174f.webp)
 
-![IMG\_6417](/media/32c66eeabd17b398.webp)
+![](/media/32c66eeabd17b398.webp)
 
-![IMG\_6420](/media/6743355614ef953c.webp)
+![](/media/6743355614ef953c.webp)
 
-![IMG\_6421](/media/6bf2c3ddb3498b11.webp)
+![](/media/6bf2c3ddb3498b11.webp)
 
-![IMG\_6425](/media/66bf95627adb3292.webp)
+![](/media/66bf95627adb3292.webp)
 
-![IMG\_6428](/media/c95c9af8d2704701.webp)
+![](/media/c95c9af8d2704701.webp)
 
-![IMG\_6432](/media/38cb551e2a1c6655.webp)
+![](/media/38cb551e2a1c6655.webp)
 
-![IMG\_6435](/media/59134769560e7a11.webp)
+![](/media/59134769560e7a11.webp)
 
-![IMG\_6439](/media/612e709de03477f3.webp)
+![](/media/612e709de03477f3.webp)
 
-![IMG\_6442](/media/5947c91f3bbe7c9d.webp)
+![](/media/5947c91f3bbe7c9d.webp)
 
-![IMG\_6445](/media/b07062e776dbce00.webp)
+![](/media/b07062e776dbce00.webp)
 
 ![EquipoAzul1](/media/19a4ff95c0b953bd.webp)
 
-![IMG\_6447](/media/8493ee52161c886a.webp)
+![](/media/8493ee52161c886a.webp)
 
 #### Así disfrutamos nuestro Demoday  
 de la 4ta edición
@@ -265,107 +265,107 @@ En [Guadalajara Connectory](https://guadalajaraconnectory.com/) un lugar para co
 
 ![fellows](/media/b374f586a8f4109e.webp)
 
-![IMG\_6112](/media/72a15d20e586bfcf.webp)
+![](/media/72a15d20e586bfcf.webp)
 
-![IMG\_6107](/media/2b2e22728c5166b9.webp)
+![](/media/2b2e22728c5166b9.webp)
 
-![IMG\_6116](/media/076f9b52a1c3fe4b.webp)
+![](/media/076f9b52a1c3fe4b.webp)
 
-![IMG\_6121](/media/1ce45ca5912f0bca.webp)
+![](/media/1ce45ca5912f0bca.webp)
 
-![IMG\_6159](/media/d4960190c98737d1.webp)
+![](/media/d4960190c98737d1.webp)
 
-![IMG\_6160](/media/e3fa447b7b986737.webp)
+![](/media/e3fa447b7b986737.webp)
 
-![IMG\_6162](/media/29603d94f8af84d9.webp)
+![](/media/29603d94f8af84d9.webp)
 
-![IMG\_6166](/media/b037b4a7cea34010.webp)
+![](/media/b037b4a7cea34010.webp)
 
-![IMG\_6167](/media/87daeea9619380f9.webp)
+![](/media/87daeea9619380f9.webp)
 
-![IMG\_6171](/media/f648f8dd5308b0b5.webp)
+![](/media/f648f8dd5308b0b5.webp)
 
-![IMG\_6175](/media/4220fa71a6ae4219.webp)
+![](/media/4220fa71a6ae4219.webp)
 
-![IMG\_6178](/media/94f9324eb707fed8.webp)
+![](/media/94f9324eb707fed8.webp)
 
-![IMG\_6183](/media/53c764785934e47f.webp)
+![](/media/53c764785934e47f.webp)
 
-![IMG\_6190](/media/de0ef1adcb214369.webp)
+![](/media/de0ef1adcb214369.webp)
 
-![IMG\_6193](/media/fe0ab0df53c5b429.webp)
+![](/media/fe0ab0df53c5b429.webp)
 
-![IMG\_6197](/media/ee754c5282c467aa.webp)
+![](/media/ee754c5282c467aa.webp)
 
-![IMG\_6200](/media/5eef1149de5be32f.webp)
+![](/media/5eef1149de5be32f.webp)
 
-![IMG\_6201](/media/e720785b2bb3dd30.webp)
+![](/media/e720785b2bb3dd30.webp)
 
-![IMG\_6202](/media/cf4789972b181929.webp)
+![](/media/cf4789972b181929.webp)
 
-![IMG\_6203](/media/090668d6406d3880.webp)
+![](/media/090668d6406d3880.webp)
 
-![IMG\_6205](/media/520e2bdb4533b3cd.webp)
+![](/media/520e2bdb4533b3cd.webp)
 
-![IMG\_6209](/media/de4914c24ecce508.webp)
+![](/media/de4914c24ecce508.webp)
 
-![IMG\_6211](/media/4d4c72e7cd49becd.webp)
+![](/media/4d4c72e7cd49becd.webp)
 
-![IMG\_6214](/media/c38cd889cc030f92.webp)
+![](/media/c38cd889cc030f92.webp)
 
-![IMG\_6215](/media/80ef54772f10fd70.webp)
+![](/media/80ef54772f10fd70.webp)
 
-![IMG\_6216](/media/1183139164c136d3.webp)
+![](/media/1183139164c136d3.webp)
 
-![IMG\_6220](/media/8bd802f42432f3c5.webp)
+![](/media/8bd802f42432f3c5.webp)
 
-![IMG\_6221](/media/5581409c683658b9.webp)
+![](/media/5581409c683658b9.webp)
 
-![IMG\_6223](/media/1b7dd773a7cc301a.webp)
+![](/media/1b7dd773a7cc301a.webp)
 
-![IMG\_6228](/media/d22de1f7dcdfc311.webp)
+![](/media/d22de1f7dcdfc311.webp)
 
-![IMG\_6231](/media/bcf112a45f73973f.webp)
+![](/media/bcf112a45f73973f.webp)
 
-![IMG\_6233](/media/5d0d01aee1978c9c.webp)
+![](/media/5d0d01aee1978c9c.webp)
 
-![IMG\_6238](/media/ab4b793741415c88.webp)
+![](/media/ab4b793741415c88.webp)
 
-![IMG\_6240](/media/fad3b66eb49a11a7.webp)
+![](/media/fad3b66eb49a11a7.webp)
 
-![IMG\_6245](/media/d9f0508037752c1a.webp)
+![](/media/d9f0508037752c1a.webp)
 
-![IMG\_6246](/media/58d1c381362d64b9.webp)
+![](/media/58d1c381362d64b9.webp)
 
-![IMG\_6249](/media/1f4877414c925c45.webp)
+![](/media/1f4877414c925c45.webp)
 
-![IMG\_6251](/media/750a7e5677240a24.webp)
+![](/media/750a7e5677240a24.webp)
 
-![IMG\_6253](/media/efd259d785e5ac9a.webp)
+![](/media/efd259d785e5ac9a.webp)
 
-![IMG\_6255](/media/3218f430fea5f941.webp)
+![](/media/3218f430fea5f941.webp)
 
-![IMG\_6257](/media/153cc4da0b3a8ec7.webp)
+![](/media/153cc4da0b3a8ec7.webp)
 
-![IMG\_6259](/media/737dabad161b421b.webp)
+![](/media/737dabad161b421b.webp)
 
-![IMG\_6261](/media/a506d6061bfa6253.webp)
+![](/media/a506d6061bfa6253.webp)
 
-![IMG\_6262](/media/586c5e74bebe6e59.webp)
+![](/media/586c5e74bebe6e59.webp)
 
-![IMG\_6265](/media/0ef169c210f9d207.webp)
+![](/media/0ef169c210f9d207.webp)
 
-![IMG\_6266](/media/b533097a9a56b949.webp)
+![](/media/b533097a9a56b949.webp)
 
-![IMG\_6267](/media/3df975e672393b8b.webp)
+![](/media/3df975e672393b8b.webp)
 
-![IMG\_6269](/media/979c6985675c20c5.webp)
+![](/media/979c6985675c20c5.webp)
 
-![IMG\_6271](/media/0100736bd351ff0a.webp)
+![](/media/0100736bd351ff0a.webp)
 
-![IMG\_6274](/media/1d013e3db247fa52.webp)
+![](/media/1d013e3db247fa52.webp)
 
-![IMG\_6275](/media/60442268bc87d72b.webp)
+![](/media/60442268bc87d72b.webp)
 
 ![Mentor1](/media/11bac37587260467.webp)
 

@@ -1,5 +1,5 @@
 ---
-title: "?StarCoder: ¡Únete a la resistencia!"
+title: "StarCoder: ¡Únete a la resistencia!"
 description: Starcoder, es un LLM de código abierto y ético para la generación
   de código y la asistencia técnica para programadores, ¿mejor que ChatGPT?
 pubDate: 2023-05-19
@@ -12,7 +12,7 @@ tags:
   - intel
   - Machine Learning
 image: /media/58a965cea8198726.webp
-imageAlt: "?StarCoder: ¡Únete a la resistencia!"
+imageAlt: "StarCoder: ¡Únete a la resistencia!"
 legacyPath: /2023/05/19/codellm-starcoder/
 sourceUrl: https://saturdays.ai/2023/05/19/codellm-starcoder/
 sourceId: 9221
@@ -50,7 +50,7 @@ Los _Code LLMs_ se entrenan de la misma manera que los LLMs normales, pero en lu
 
 Esta habilidad para **“aprender” a programa**r los convierte en herramientas poderosas para múltiples tareas, como la generación automática de código, la corrección ortográfica y de sintaxis, y la sugerencia de código en entornos de desarrollo de software. Esto tiene el potencial de **aumentar significativamente la productividad** y la eficiencia de los desarrolladores, ya que pueden delegar tareas repetitivas o tediosas a estos modelos y concentrarse en tareas más complejas y creativas.
 
-### ?StarCoder: la promesa open source de los Code LLM
+### StarCoder: la promesa open source de los Code LLM
 
 La comunidad BigCode ha presentado el Code LLM “StarCoder”, que ha su vez se divide en los modelos StarCoder y StarCoderBase. Estos modelos no solo son capaces de completar fragmentos de código, sino que también pueden realizar inferencias rápidas con grandes cantidades de datos.
 

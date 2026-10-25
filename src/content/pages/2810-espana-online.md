@@ -54,9 +54,9 @@ Hemos preparado para ayudarte antes del curso y que puedas realizar el programa 
 
 ![Diseño sin título (52)](/media/d426e6e0d152100f.webp)
 
-![Amazon\_logo](/media/9e1494aebf87c1c8.webp)
+![Amazon](/media/9e1494aebf87c1c8.webp)
 
-![Diseño sin título (53)](/media/fc12bee6384d2872.webp)
+![IBM](/media/fc12bee6384d2872.webp)
 
 ![Diseño sin título (54)](/media/e44c1dd54621383b.webp)
 

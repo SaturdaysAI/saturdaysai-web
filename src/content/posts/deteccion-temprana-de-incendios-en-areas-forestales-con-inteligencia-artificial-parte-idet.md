@@ -102,7 +102,7 @@ Modelo de entrenamiento de Yolov5
 
 Una vez que se obtuvo el modelo fireModel.pt se procedió a realizar un pequeño aplicativo en Python utilizando Flask como servidor de aplicaciones. Es decir, en Flask se tendrá una API que recibirá la imagen a inferir y el modelo fireModel.pt nos retornará el resultado y la sección donde se ha detectado el incendio en la foto con su respectivo porcentaje de predicción. A continuación, en la Ilustración 3 se muestra el código que realiza la descripción previa.
 
-**app**.**py**
+**app.py**
 
 ![](/media/ec6ae1a1d0d597a9.webp)
 

@@ -41,7 +41,7 @@ const episode = p.category === 'Podcast' ? episodeInfo(p.title) : null;
   <div class="post-content">
     <div class="post-meta">
       <span class="tag">{p.category}</span>
-      <span>
+      <span data-reading-minutes={p.category !== 'Podcast' ? readingTime(post.body) : undefined}>
         {p.category === 'Podcast'
           ? episode
             ? `Season ${episode.season} / Episode ${episode.episode}`

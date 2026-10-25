@@ -37,7 +37,7 @@
   },
   "Learn artificial intelligence. Build projects that matter. Find your people. That’s Saturdays.AI.": {
     "en": "Learn artificial intelligence. Build projects that matter. Find your people. That’s Saturdays.AI.",
-    "es": "Aprende inteligencia artificial. Crea proyectos con impacto. Encuentra tu comunidad. Eso es Saturdays.AI."
+    "es": "Aprende inteligencia artificial con cursos prácticos, mentores y proyectos en equipo. Encuentra tu comunidad en Saturdays.AI."
   },
   "Find your starting point": {
     "en": "Find your starting point",
@@ -706,5 +706,601 @@
   "so you can start discussions, ask your questions, share events or talks, search for job offers or create A.I. initiatives.": {
     "en": "so you can start discussions, ask your questions, share events or talks, search for job offers or create A.I. initiatives.",
     "es": "para que puedas iniciar conversaciones, plantear preguntas, compartir eventos o charlas, buscar ofertas de trabajo y crear iniciativas de IA."
+  },
+  "Bring your curiosity and develop your skills through practical work, shared questions and community learning.": {
+    "en": "Bring your curiosity and develop your skills through practical work, shared questions and community learning.",
+    "es": "Desarrolla tus habilidades con ejercicios prácticos, preguntas compartidas y el apoyo de la comunidad."
+  },
+  "Build for social good": {
+    "en": "Build for social good",
+    "es": "Crea proyectos con impacto"
+  },
+  "Explore how AI can address real challenges. Turn what you learn into a project with a purpose.": {
+    "en": "Explore how AI can address real challenges. Turn what you learn into a project with a purpose.",
+    "es": "Descubre cómo aplicar la IA a retos reales y convierte lo que aprendes en un proyecto con propósito."
+  },
+  "Grow together": {
+    "en": "Grow together",
+    "es": "Crece en comunidad"
+  },
+  "Connect with learners and mentors from different backgrounds. Share ideas and support each other along the way.": {
+    "en": "Connect with learners and mentors from different backgrounds. Share ideas and support each other along the way.",
+    "es": "Conoce a estudiantes y mentores con experiencias distintas. Comparte ideas y aprende en compañía."
+  },
+  "KEEP YOUR CURIOSITY MOVING": {
+    "en": "KEEP YOUR CURIOSITY MOVING",
+    "es": "SIGUE APRENDIENDO"
+  },
+  "Your learning starts wherever you are.": {
+    "en": "Your learning starts wherever you are.",
+    "es": "Aprende desde donde estés."
+  },
+  "Explore our online learning paths while you connect with your local community.": {
+    "en": "Explore our online learning paths while you connect with your local community.",
+    "es": "Explora los cursos online mientras conoces a tu comunidad local."
+  },
+  "Contact the team for the next edition": {
+    "en": "Contact the team for the next edition",
+    "es": "Próxima edición: consulta con el equipo"
+  },
+  ". Dates, location and programme details are confirmed by the local team.": {
+    "en": ". Dates, location and programme details are confirmed by the local team.",
+    "es": ". El equipo local te confirmará las fechas, la ubicación y los requisitos."
+  },
+  "AI Saturdays: learn with a team": {
+    "en": "AI Saturdays: learn with a team",
+    "es": "AI Saturdays: aprende en equipo"
+  },
+  "Our community programme combines practical sessions, mentor support and a team project. It typically runs over 12 to 15 Saturdays, ending with a Demo Day. Each local team confirms its format, dates and requirements.": {
+    "en": "Our community programme combines practical sessions, mentor support and a team project. It typically runs over 12 to 15 Saturdays, ending with a Demo Day. Each local team confirms its format, dates and requirements.",
+    "es": "AI Saturdays combina sesiones prácticas, acompañamiento de mentores y un proyecto en equipo. Suele desarrollarse durante 12 a 15 sábados y termina con un Demo Day para compartir lo aprendido. Cada comunidad confirma el formato, las fechas y los requisitos de su edición."
+  },
+  "How AI Saturdays works": {
+    "en": "How AI Saturdays works",
+    "es": "Cómo funciona AI Saturdays"
+  },
+  "Build your foundations. Go from your first line of Python to thinking in code.": {
+    "en": "Build your foundations. Go from your first line of Python to thinking in code.",
+    "es": "Empieza por la base: aprende Python y da tus primeros pasos en programación."
+  },
+  "Prompt engineering": {
+    "en": "Prompt engineering",
+    "es": "Ingeniería de prompts"
+  },
+  "Data mining & Hugging Face": {
+    "en": "Data mining & Hugging Face",
+    "es": "Minería de datos y Hugging Face"
+  },
+  "Generative AI": {
+    "en": "Generative AI",
+    "es": "IA generativa"
+  },
+  "Learning": {
+    "en": "Learning",
+    "es": "Aprendizaje"
+  },
+  "Work with context, RAG, agents and practical projects to take your prompts further.": {
+    "en": "Work with context, RAG, agents and practical projects to take your prompts further.",
+    "es": "Profundiza en el uso del contexto, RAG y agentes con proyectos prácticos."
+  },
+  "Discover patterns in data and learn to deploy a model through a hands-on project.": {
+    "en": "Discover patterns in data and learn to deploy a model through a hands-on project.",
+    "es": "Descubre patrones en los datos y aprende a desplegar un modelo con un proyecto práctico."
+  },
+  "Learn to clean, explore and transform data with one of Python’s essential tools.": {
+    "en": "Learn to clean, explore and transform data with one of Python’s essential tools.",
+    "es": "Aprende a limpiar, explorar y transformar datos con una de las herramientas esenciales de Python."
+  },
+  "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.": {
+    "en": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
+    "es": "Explora agentes que aprenden de la experiencia, desde Q-learning hasta el aprendizaje por refuerzo profundo."
+  },
+  "English": {
+    "en": "English",
+    "es": "Inglés"
+  },
+  "Spanish": {
+    "en": "Spanish",
+    "es": "Español"
+  },
+  "Try another topic or explore all levels.": {
+    "en": "Try another topic or explore all levels.",
+    "es": "Prueba otro tema o explora todos los niveles."
+  },
+  "Show all paths": {
+    "en": "Show all paths",
+    "es": "Ver todos los itinerarios"
+  },
+  "No matching communities.": {
+    "en": "No matching communities.",
+    "es": "No encontramos comunidades con esos filtros."
+  },
+  "Try a country name, or explore another region.": {
+    "en": "Try a country name, or explore another region.",
+    "es": "Prueba con un país o explora otra región."
+  },
+  "Find your local AI community": {
+    "en": "Find your local AI community",
+    "es": "Encuentra tu comunidad de IA"
+  },
+  "SATURDAYS.AI / LEARN. BUILD. CONNECT.": {
+    "en": "SATURDAYS.AI / LEARN. BUILD. CONNECT.",
+    "es": "SATURDAYS.AI / APRENDE. CREA. CONECTA."
+  },
+  "About": {
+    "en": "About",
+    "es": "Sobre Saturdays.AI"
+  },
+  "Jan Carbonell": {
+    "en": "Jan Carbonell",
+    "es": "Jan Carbonell"
+  },
+  "EU Manager & AI Saturdays Madrid Ambassador": {
+    "en": "EU Manager & AI Saturdays Madrid Ambassador",
+    "es": "Responsable de Europa y embajadora de AI Saturdays Madrid"
+  },
+  "Global Teams Lead & AI Saturdays Madrid Ambassador": {
+    "en": "Global Teams Lead & AI Saturdays Madrid Ambassador",
+    "es": "Coordinador de equipos globales y embajador de AI Saturdays Madrid"
+  },
+  "GTM Lead and Partnerships": {
+    "en": "GTM Lead and Partnerships",
+    "es": "Desarrollo de comunidad y alianzas"
+  },
+  "LATAM Manager & Guadalajara (MX) City Lead": {
+    "en": "LATAM Manager & Guadalajara (MX) City Lead",
+    "es": "Responsable de LATAM y coordinadora de Guadalajara (México)"
+  },
+  "Board Member & Monterrey City Lead": {
+    "en": "Board Member & Monterrey City Lead",
+    "es": "Miembro de la junta y coordinador de Monterrey"
+  },
+  "Board Member & Diversity Lead": {
+    "en": "Board Member & Diversity Lead",
+    "es": "Miembro de la junta y responsable de diversidad"
+  },
+  "Board Member & Guayaquil City Lead": {
+    "en": "Board Member & Guayaquil City Lead",
+    "es": "Miembro de la junta y coordinador de Guayaquil"
+  },
+  "Read biography": {
+    "en": "Read biography",
+    "es": "Leer biografía"
+  },
+  "Create your own AI Saturdays": {
+    "en": "Create your own AI Saturdays",
+    "es": "Impulsa AI Saturdays en tu ciudad"
+  },
+  "No resources found.": {
+    "en": "No resources found.",
+    "es": "No encontramos recursos con esos filtros."
+  },
+  "Try another search or explore all resources.": {
+    "en": "Try another search or explore all resources.",
+    "es": "Prueba otra búsqueda o explora todos los recursos."
+  },
+  "Mexico": {
+    "en": "Mexico",
+    "es": "México"
+  },
+  "Be part of the community": {
+    "en": "Be part of the community",
+    "es": "Forma parte de la comunidad"
+  },
+  "Learn, share your experience and help others build with AI.": {
+    "en": "Learn, share your experience and help others build with AI.",
+    "es": "Aprende, comparte tu experiencia y ayuda a otras personas a crear con IA."
+  },
+  "Find your place in Saturdays.AI": {
+    "en": "Find your place in Saturdays.AI",
+    "es": "Encuentra tu lugar en Saturdays.AI"
+  },
+  "Learn with others, share what you know and build projects with social impact. There are different ways to take part.": {
+    "en": "Learn with others, share what you know and build projects with social impact. There are different ways to take part.",
+    "es": "Aprende en compañía, comparte lo que sabes y crea proyectos con impacto social. Hay distintas formas de participar."
+  },
+  "Find a local community": {
+    "en": "Find a local community",
+    "es": "Encuentra una comunidad local"
+  },
+  "to meet learners and mentors.": {
+    "en": "to meet learners and mentors.",
+    "es": "para conocer a estudiantes y mentores."
+  },
+  "and choose your next learning step.": {
+    "en": "and choose your next learning step.",
+    "es": "y elige tu próximo paso."
+  },
+  "or share your experience as a mentor.": {
+    "en": "or share your experience as a mentor.",
+    "es": "o comparte tu experiencia como mentor."
+  },
+  "Contact the community team": {
+    "en": "Contact the community team",
+    "es": "Contacta con el equipo de la comunidad"
+  },
+  "Contact the community team →": {
+    "en": "Contact the community team →",
+    "es": "Contacta con el equipo de la comunidad →"
+  },
+  "to discuss how you can contribute.": {
+    "en": "to discuss how you can contribute.",
+    "es": "para explorar cómo puedes colaborar."
+  },
+  "Share your knowledge, mentor a project or help organise a local community.": {
+    "en": "Share your knowledge, mentor a project or help organise a local community.",
+    "es": "Comparte lo que sabes, acompaña un proyecto o ayuda a organizar una comunidad local."
+  },
+  "Read the privacy policy published by Saturdays.AI.": {
+    "en": "Read the privacy policy published by Saturdays.AI.",
+    "es": "Consulta la política de privacidad publicada por Saturdays.AI."
+  },
+  "This pilot is available for review. The final terms of use must be confirmed before the main domain is moved.": {
+    "en": "This pilot is available for review. The final terms of use must be confirmed before the main domain is moved.",
+    "es": "Este piloto está disponible para revisión. Los términos de uso definitivos deben validarse antes de trasladar el dominio principal."
+  },
+  "Show more stories": {
+    "en": "Show more stories",
+    "es": "Ver más historias"
+  },
+  "This page includes programme information from our community archive. Contact the team to confirm current dates, availability and requirements.": {
+    "en": "This page includes programme information from our community archive. Contact the team to confirm current dates, availability and requirements.",
+    "es": "Esta página conserva información de programas anteriores. Consulta con el equipo las fechas, la disponibilidad y los requisitos actuales."
+  },
+  "From the Saturdays.AI community archive. Details of past editions are retained for reference; the local team can confirm the current programme.": {
+    "en": "From the Saturdays.AI community archive. Details of past editions are retained for reference; the local team can confirm the current programme.",
+    "es": "Información del archivo de Saturdays.AI. Los detalles de ediciones anteriores se conservan como referencia; el equipo local puede confirmar el programa actual."
+  },
+  "No matching learning paths.": {
+    "en": "No matching learning paths.",
+    "es": "No encontramos itinerarios con esos filtros."
+  },
+  "Our Team": {
+    "en": "Our Team",
+    "es": "Nuestro equipo"
+  },
+  "Our Mission": {
+    "en": "Our Mission",
+    "es": "Nuestra misión"
+  },
+  "Contacta con Saturdays.AI para aprender, participar o colaborar.": {
+    "es": "Contacta con Saturdays.AI para aprender, participar o colaborar.",
+    "en": "Contact Saturdays.AI to learn, take part or collaborate."
+  },
+  "Hablemos de tu próximo paso": {
+    "es": "Hablemos de tu próximo paso",
+    "en": "Let’s talk about your next step"
+  },
+  "Escríbenos a": {
+    "es": "Escríbenos a",
+    "en": "Write to us at"
+  },
+  "para consultar programas, proponer una colaboración o participar en la comunidad.": {
+    "es": "para consultar programas, proponer una colaboración o participar en la comunidad.",
+    "en": "to ask about programmes, propose a collaboration or get involved in the community."
+  },
+  "Si buscas una edición local,": {
+    "es": "Si buscas una edición local,",
+    "en": "If you are looking for a local edition,"
+  },
+  "encuentra tu ciudad": {
+    "es": "encuentra tu ciudad",
+    "en": "find your city"
+  },
+  "y consulta con su equipo las fechas y los requisitos.": {
+    "es": "y consulta con su equipo las fechas y los requisitos.",
+    "en": "and ask its team about dates and requirements."
+  },
+  "¿Quieres impulsar AI Saturdays en tu ciudad?": {
+    "es": "¿Quieres impulsar AI Saturdays en tu ciudad?",
+    "en": "Would you like to bring AI Saturdays to your city?"
+  },
+  "Conoce cómo organizar una comunidad": {
+    "es": "Conoce cómo organizar una comunidad",
+    "en": "Find out how to organise a community"
+  },
+  "Portada del libro reseñado": {
+    "es": "Portada del libro reseñado",
+    "en": "Cover of the book reviewed"
+  },
+  "57 community projects to explore.": {
+    "es": "57 proyectos de la comunidad para explorar.",
+    "en": "57 community projects to explore."
+  },
+  "20 resources to explore.": {
+    "es": "20 recursos para explorar.",
+    "en": "20 resources to explore."
+  },
+  "Líder & Mentora": {
+    "es": "Líder & Mentora",
+    "en": "Community lead and mentor"
+  },
+  "– Presentación David Dávila, ¿Quién es?": {
+    "es": "– Presentación David Dávila, ¿Quién es?",
+    "en": "– Introducing David Dávila: who is he?"
+  },
+  "– Presentación Fernando y los proyectos que lleva": {
+    "es": "– Presentación Fernando y los proyectos que lleva",
+    "en": "– Introducing Fernando and his projects"
+  },
+  "– Mensaje a los oyentes": {
+    "es": "– Mensaje a los oyentes",
+    "en": "– A message to listeners"
+  },
+  "Spanish Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar": {
+    "es": "En español. Ingeniería de prompts para quienes ya conocen los fundamentos y quieren profundizar en las técnicas para gestionar",
+    "en": "In Spanish. Prompt engineering for learners who know the basics and want to explore techniques for managing"
+  },
+  "English & Spanish Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.": {
+    "es": "En inglés y español. Aprende a programar desde cero con una guía práctica para desarrollar tus habilidades en Python.",
+    "en": "English & Spanish Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way."
+  },
+  "English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.": {
+    "es": "En inglés y español. Un minicurso para aprender los fundamentos de la IA generativa y multimodal desde cero, tanto si empiezas como si te interesa la creación artística con IA.",
+    "en": "English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike."
+  },
+  "English & Spanish Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!": {
+    "es": "En inglés y español. Aprende minería de datos con un proyecto práctico y despliega un modelo en Hugging Face. Desarrolla dos habilidades útiles para tus proyectos de ciencia de datos e IA.",
+    "en": "In English and Spanish. Learn data mining through a practical project and deploy a model on Hugging Face. Develop two useful skills for your data science and AI projects."
+  },
+  "Spanish ¿Sabes que el Aprendizaje por Refuerzo (": {
+    "es": "En español. ¿Sabías que el aprendizaje por refuerzo (",
+    "en": "In Spanish. Did you know that reinforcement learning ("
+  },
+  "in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.": {
+    "es": "En inglés. Aprende los fundamentos de la ciencia de datos con vídeos breves, mapas conceptuales, ejercicios y un proyecto. Comparte tus avances y recibe comentarios de la comunidad.",
+    "en": "in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company."
+  },
+  "English & Spanish Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.": {
+    "es": "En inglés y español. Pandas es una biblioteca flexible para trabajar con datos. Aprende a cargarlos, prepararlos, transformarlos, modelarlos y analizarlos.",
+    "en": "In English and Spanish. Pandas is a flexible library for working with data. Learn to load, prepare, transform, model and analyse it."
+  },
+  "English & Spanish Curso de NumPy: Dominando la Manipulación de Datos Numéricos.": {
+    "es": "En inglés y español. Curso de NumPy: aprende a trabajar con datos numéricos.",
+    "en": "In English and Spanish. A NumPy course: learn to work with numerical data."
+  },
+  "Blog y noticias ¡Éste es nuestro blog! Aquí tienes artículos de divulgación, tutoriales y actualidad sobre la IA y Saturdays, seguro encuentras un artículo que te interesa, ¡échale un vistazo!": {
+    "es": "Artículos, tutoriales y novedades sobre inteligencia artificial y la comunidad Saturdays.AI.",
+    "en": "Articles, tutorials and news about artificial intelligence and the Saturdays.AI community."
+  },
+  "Digital HUB Monterrey Haz clic aquí": {
+    "es": "Conoce Digital HUB Monterrey",
+    "en": "Explore Digital HUB Monterrey"
+  },
+  "AI4Good México Haz clic aquí": {
+    "es": "Conoce AI4Good México",
+    "en": "Explore AI4Good México"
+  },
+  "soon!": {
+    "es": "próximamente",
+    "en": "soon!"
+  },
+  "Ya tenía una app completa, funcional, ligera y 100% generada con IA.": {
+    "es": "Ya tenía una app completa, funcional, ligera y 100% generada con IA.",
+    "en": "I now had a complete, functional, lightweight app generated entirely with AI."
+  },
+  "La precisión de los prompts lo es todo. Un buen contexto genera código limpio y funcional.": {
+    "es": "La precisión de los prompts lo es todo. Un buen contexto genera código limpio y funcional.",
+    "en": "Precision in prompts is everything. Good context produces clean, functional code."
+  },
+  "La validación humana sigue siendo esencial. La IA propone, pero tú decides qué aceptar o ajustar.": {
+    "es": "La validación humana sigue siendo esencial. La IA propone, pero tú decides qué aceptar o ajustar.",
+    "en": "Human validation remains essential. AI makes suggestions, but you decide what to accept or adjust."
+  },
+  "Bert en inglés:": {
+    "es": "Bert en inglés:",
+    "en": "BERT in English:"
+  },
+  "En esta página": {
+    "es": "En esta página",
+    "en": "On this page"
+  },
+  "Seguir explorando →": {
+    "es": "Seguir explorando →",
+    "en": "Keep exploring →"
+  },
+  "A nosotros personalmente nos preocupa, pero…": {
+    "es": "A nosotros personalmente nos preocupa, pero…",
+    "en": "It concerns us personally, but…"
+  },
+  "¿es algo que preocupa?": {
+    "es": "¿es algo que preocupa?",
+    "en": "is it a widespread concern?"
+  },
+  "basada en el estándar CRISP-DM": {
+    "es": "basada en el estándar CRISP-DM",
+    "en": "based on the CRISP-DM standard"
+  },
+  "(Cross Industry Standard Process for": {
+    "es": "(Proceso estándar de la industria para",
+    "en": "(Cross Industry Standard Process for"
+  },
+  "IBM": {
+    "es": "IBM",
+    "en": "IBM"
+  },
+  "Huawei": {
+    "es": "Huawei",
+    "en": "Huawei"
+  },
+  "Accenture": {
+    "es": "Accenture",
+    "en": "Accenture"
+  },
+  "HP": {
+    "es": "HP",
+    "en": "HP"
+  },
+  "Repsol": {
+    "es": "Repsol",
+    "en": "Repsol"
+  },
+  "app.py": {
+    "es": "app.py",
+    "en": "app.py"
+  },
+  "bert-large-uncased-whole-word-masking-finetuned-squad": {
+    "es": "bert-large-uncased-whole-word-masking-finetuned-squad",
+    "en": "bert-large-uncased-whole-word-masking-finetuned-squad"
+  },
+  "Moody AI": {
+    "es": "Moody AI",
+    "en": "Moody AI"
+  },
+  "Fernandez 🇧🇴": {
+    "es": "Fernandez 🇧🇴",
+    "en": "Fernandez 🇧🇴"
+  },
+  "Salvatierra Berrios 🇧🇴": {
+    "es": "Salvatierra Berrios 🇧🇴",
+    "en": "Salvatierra Berrios 🇧🇴"
+  },
+  "Victor Larios (MX)": {
+    "es": "Victor Larios (MX)",
+    "en": "Victor Larios (MX)"
+  },
+  "Margarita Sordo (MX)": {
+    "es": "Margarita Sordo (MX)",
+    "en": "Margarita Sordo (MX)"
+  },
+  "Carlos Astengo (MX)": {
+    "es": "Carlos Astengo (MX)",
+    "en": "Carlos Astengo (MX)"
+  },
+  "Sofia Trejo (MX)": {
+    "es": "Sofia Trejo (MX)",
+    "en": "Sofia Trejo (MX)"
+  },
+  "Dina Medina (MX)": {
+    "es": "Dina Medina (MX)",
+    "en": "Dina Medina (MX)"
+  },
+  "Angelina Alarcón (MX)": {
+    "es": "Angelina Alarcón (MX)",
+    "en": "Angelina Alarcón (MX)"
+  },
+  "Christian Tutivén (EC)": {
+    "es": "Christian Tutivén (EC)",
+    "en": "Christian Tutivén (EC)"
+  },
+  "Nayelhi de Anda (MX)": {
+    "es": "Nayelhi de Anda (MX)",
+    "en": "Nayelhi de Anda (MX)"
+  },
+  "Eduardo Ramírez (MX)": {
+    "es": "Eduardo Ramírez (MX)",
+    "en": "Eduardo Ramírez (MX)"
+  },
+  "Francisco Mena (CL)": {
+    "es": "Francisco Mena (CL)",
+    "en": "Francisco Mena (CL)"
+  },
+  "Cecilia Hurtado (MX)": {
+    "es": "Cecilia Hurtado (MX)",
+    "en": "Cecilia Hurtado (MX)"
+  },
+  "Alexander Saravia (EC)": {
+    "es": "Alexander Saravia (EC)",
+    "en": "Alexander Saravia (EC)"
+  },
+  "Rosa Sunum (GT)": {
+    "es": "Rosa Sunum (GT)",
+    "en": "Rosa Sunum (GT)"
+  },
+  "Daniel Hernandez (MX)": {
+    "es": "Daniel Hernandez (MX)",
+    "en": "Daniel Hernandez (MX)"
+  },
+  "Rodrigo Herrera (CR)": {
+    "es": "Rodrigo Herrera (CR)",
+    "en": "Rodrigo Herrera (CR)"
+  },
+  "Fernando Silva (BO)": {
+    "es": "Fernando Silva (BO)",
+    "en": "Fernando Silva (BO)"
+  },
+  "Gibran Félix (MX)": {
+    "es": "Gibran Félix (MX)",
+    "en": "Gibran Félix (MX)"
+  },
+  "Ivan Fretes (PY)": {
+    "es": "Ivan Fretes (PY)",
+    "en": "Ivan Fretes (PY)"
+  },
+  "Ángel Encalada (EC)": {
+    "es": "Ángel Encalada (EC)",
+    "en": "Ángel Encalada (EC)"
+  },
+  "Naren Castellon (PA)": {
+    "es": "Naren Castellon (PA)",
+    "en": "Naren Castellon (PA)"
+  },
+  "StarCoder: ¡Únete a la resistencia!": {
+    "es": "StarCoder: ¡Únete a la resistencia!",
+    "en": "StarCoder: join the resistance!"
+  },
+  "StarCoder: la promesa open source de los Code LLM": {
+    "es": "StarCoder: la promesa open source de los Code LLM",
+    "en": "StarCoder: the open-source promise of code LLMs"
+  },
+  "56 community projects to explore.": {
+    "en": "56 community projects to explore.",
+    "es": "56 proyectos de la comunidad para explorar."
+  },
+  "Ask about the next edition": {
+    "en": "Ask about the next edition",
+    "es": "Consulta la próxima edición"
+  },
+  "Stories, projects and conversations from the community.": {
+    "en": "Stories, projects and conversations from the community.",
+    "es": "Historias, proyectos y conversaciones de nuestra comunidad."
+  },
+  "Team biographies and impact figures come from the original website. Contact the team to confirm current roles and figures.": {
+    "en": "Team biographies and impact figures come from the original website. Contact the team to confirm current roles and figures.",
+    "es": "Las biografías del equipo y las cifras de impacto proceden de la web original. Consulta con el equipo los cargos y las cifras actuales."
+  },
+  "A learning project shared by the community. The article documents its team, methods and results; it does not establish that the prototype is ready for real-world use.": {
+    "en": "A learning project shared by the community. The article documents its team, methods and results; it does not establish that the prototype is ready for real-world use.",
+    "es": "Proyecto de aprendizaje compartido por la comunidad. El artículo documenta el equipo, el método y los resultados; no acredita que el prototipo esté listo para su uso fuera del entorno de aprendizaje."
+  },
+  "We have designed": {
+    "en": "We have designed",
+    "es": "Hemos diseñado"
+  },
+  "our flagship programme, AI Saturdays, suitable for anyone that wants to start in AI. It takes students": {
+    "en": "our flagship programme, AI Saturdays, suitable for anyone that wants to start in AI. It takes students",
+    "es": "nuestro programa principal, AI Saturdays, para quienes quieren iniciarse en la IA. Durante"
+  },
+  "12 to 15 Saturdays": {
+    "en": "12 to 15 Saturdays",
+    "es": "12 a 15 sábados"
+  },
+  "to learn ML techniques and end up creating their": {
+    "en": "to learn ML techniques and end up creating their",
+    "es": "los participantes aprenden técnicas de aprendizaje automático y desarrollan su"
+  },
+  "own project": {
+    "en": "own project",
+    "es": "propio proyecto"
+  },
+  "in AI. Everything with the guide and support of the community during the whole process.": {
+    "en": "in AI. Everything with the guide and support of the community during the whole process.",
+    "es": "de IA con la guía y el apoyo de la comunidad durante todo el proceso."
+  },
+  "We have designed our flagship programme, AI Saturdays, suitable for anyone that wants to start in AI. It takes students": {
+    "en": "We have designed our flagship programme, AI Saturdays, suitable for anyone that wants to start in AI. It takes students",
+    "es": "Hemos diseñado AI Saturdays, nuestro programa principal, para quienes quieren iniciarse en la IA. Durante"
+  },
+  "that want to lead in AI and we organise other initiatives such as talks, our own podcast or events in our community to bring AI closer and motivate the creation of real projects.": {
+    "en": "that want to lead in AI and we organise other initiatives such as talks, our own podcast or events in our community to bring AI closer and motivate the creation of real projects.",
+    "es": "que quieren avanzar en IA. También organizamos charlas, un podcast y encuentros para acercar la IA a más personas e impulsar proyectos reales."
+  },
+  "Contact the team for the next edition. Dates, location and programme details are confirmed by the local team.": {
+    "en": "Contact the team for the next edition. Dates, location and programme details are confirmed by the local team.",
+    "es": "Próxima edición: consulta con el equipo. Te confirmará las fechas, la ubicación y los requisitos."
+  },
+  "6 learning paths to explore.": {
+    "en": "6 learning paths to explore.",
+    "es": "6 itinerarios para explorar."
   }
 }

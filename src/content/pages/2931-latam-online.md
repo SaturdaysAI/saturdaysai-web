@@ -103,11 +103,7 @@ Te invitamos a ver el video de nuestro DEMODAY de 2da. Edición, puedes sintoniz
 
 ## Nuestros Speakers
 
-## **PhD [Victor Larios
-
-###### MX
-
-](#)**
+## Victor Larios (MX)
 
 ##### Speaker
 
@@ -119,11 +115,7 @@ Las Smart Cities se convirtieron en un campo multidisciplinario donde la tecnolo
 
 ## Nuestros Jueces
 
-## **[Margarita Sordo
-
-###### MX
-
-](#)**
+## Margarita Sordo (MX)
 
 ##### Juez
 
@@ -133,11 +125,7 @@ Margarita es Doctora en Ciencias de la Computación e Inteligencia Artificial de
 
 El trabajo actual se centra en la aplicación de sistemas adaptativos complejos para modelar las características y preferencias de los pacientes para evaluar el impacto de los determinantes de la salud y las políticas de salud pública en la salud individual.
 
-## **[Carlos Astengo
-
-###### MX
-
-](#)**
+## Carlos Astengo (MX)
 
 ##### Juez
 
@@ -147,11 +135,7 @@ Carlos Astengo es Doctor en Inteligencia Artificial por el ITESM campus Monterr
 
 Dentro del Tecnológico de Monterrey ha desempeñado diversos cargos. Cuenta con  estudios de especialidad en Telecomunicaciones por parte del ITESM Campus Guadalajara. Colaboró en el Center for Numerical Analysis en UT Austin. Se capacitó en las técnicas de POL en las universidades de Twente, Holanda y Aalborg, Dinamarca; en PBL en Wheeling University, en el Método de Casos en Harvard y en Aprendizaje Colaborativo en UT-Austin. Esta certificado como Facilitador Acreditado de POL y PBL.Director Nacional de los Centros de Desarrollo Docente e Innovación Educativa (CEDDIEs). Director de Innovación de Profesional (Undergraduate Studies Chief Innovation Officer). 
 
-## **[Victor Larios
-
-###### MX
-
-](#)**
+## Victor Larios (MX)
 
 ##### Juez
 
@@ -169,11 +153,7 @@ El Dr. Larios ha publicado más de 70 artículo internacionales reverenciados en
 
 ## Nuestros Speakers
 
-## **[Sofia Trejo
-
-###### MX
-
-](#)**
+## Sofia Trejo (MX)
 
 ##### Speaker
 
@@ -183,11 +163,7 @@ Investigadora y profesora especializada en Ética de la Inteligencia Artificial 
 
 Actualmente, es profesora en la Maestría de Ciencia de Datos del Instituto Tecnológico Autónomo de México y miembro del Consejo Consultivo del Instituto Federal de Telecomunicaciones (México).
 
-## **[Dina Medina
-
-###### MX
-
-](#)**
+## Dina Medina (MX)
 
 ##### Speaker
 
@@ -205,23 +181,17 @@ Actualmente es Senior Manager en la Oficina de Planificación Estratégica en In
 
 Nuestro equipo está compuesto de gente apasionada por la IA y el progreso humano. Creemos firmemente que la combinación de la comunidad con la tecnología es la mejor manera de catalizar el cambio que nos permitirá hacer del mundo un lugar mejor.
 
-## **[Angelina Alarcón
+## Angelina Alarcón (MX)
 
-###### MX
+[LinkedIn](https://www.linkedin.com/in/angelina-alarcon/)
 
-](https://www.linkedin.com/in/angelina-alarcon/)**
-
-##### Líder & Mentora</h5<
+##### Líder & Mentora
 
 ![](/media/70066a085ca285a2.webp)
 
 Ingeniera en Computación con Maestría en Administración de Empresas y otra en Ciencia de Datos y Big Data. Actualmente estudiante del Doctorado de Tecnologías de la Información por la Universidad de Guadalajara. Tiene más de 25 años de experiencia profesional en TI y en los últimos años ha implementando proyectos de Machine Learning en el Sector Público. Es miembro de la Asociación en materia de Gestión de Datos e Información, en DAMA México y Co-Fundadora de Women in Data Science, Power and Engineering AC además de ser Gerente Regional en Latam para esta comunidad.
 
-## **[Christian Tutivén
-
-###### EC
-
-](#)**
+## Christian Tutivén (EC)
 
 ##### Mentor
 
@@ -231,23 +201,17 @@ Doctorado en Automática, Robótica y Visión de la Universidad Politécnica de 
 
 Catedrático e investigador Escuela superior Politécnica del Litoral (ESPOL), Univ. De Nariño y Sociedad Estadística Ecuatoriana. Fundador de Steam Center (Proyectos basados en datos).
 
-## **[Nayelhi de Anda
+## Nayelhi de Anda (MX)
 
-###### MX
+[LinkedIn](https://www.linkedin.com/in/nayelhi-de-anda-b6759986/)
 
-](https://www.linkedin.com/in/nayelhi-de-anda-b6759986/)**
-
-##### Mentora</h5<
+##### Mentora
 
 ![](/media/c0a48c6e6beaee04.webp)
 
 Licenciada en Marketing por la Universidad de Guadalajara y Maestra en Ciencia de Datos y Procesamiento de Datos Masivos (Big Data). CoFundadora de la empresa Vitruvio, agencia de Marketing Digital e Inteligencia Artificial. Cuenta con más de 6 años de experiencia implementando proyectos de Ciencia de Datos, Marketing Digital e Inteligencia de Negocios en grandes y medianas empresas de distintas industrias.
 
-## **[Eduardo Ramírez
-
-###### MX
-
-](#)**  
+## Eduardo Ramírez (MX)  
 
 ##### Mentor
 
@@ -255,11 +219,7 @@ Licenciada en Marketing por la Universidad de Guadalajara y Maestra en Ciencia 
 
 Emprendedor y científico de datos fundo y dirige el Monterrey Data Science Meetup. Escribe y habla sobre datos y análisis y, como investigador o consultor, ha estado involucrado en pronósticos, aprendizaje automático y optimización desde mediados de la década de 2000 trabajando para nuevas empresas y grandes corporaciones como Microsoft y Yahoo. Es cofundador Ensitech, una empresa de software que ahora cuenta con más de 50 empleados en la que es director de Inteligencia Artificial. Actualmente participa en proyectos sociales como AirHubNL, una red independiente de monitoreo de la calidad del aire para el área de Monterrey y es líder de en la Ciudad de Monterrey para esta comunidad.
 
-## **[Francisco Mena
-
-###### CL
-
-](#)**  
+## Francisco Mena (CL)  
 
 ##### Mentor
 
@@ -267,11 +227,9 @@ Emprendedor y científico de datos fundo y dirige el Monterrey Data Science Meet
 
 Como Científico de Datos, Francisco ha trabajado con modelos de machine learning para asistir en diagnósticos en medicina, y diseñando modelos de business intelligence. Como Ingeniero Ambiental ha conducido investigación en calidad del aire, emisión de contaminantes y aerosoles, procesos atmosféricos, además de diversos problemas de ingeniería ambiental y sustentabilidad.
 
-## **[Cecilia Hurtado
+## Cecilia Hurtado (MX)
 
-###### MX
-
-](https://www.linkedin.com/in/cecilia-hurtado-valdez-8684561a1/)**  
+[LinkedIn](https://www.linkedin.com/in/cecilia-hurtado-valdez-8684561a1/)  
 
 ##### Mentora
 
@@ -279,11 +237,7 @@ Como Científico de Datos, Francisco ha trabajado con modelos de machine learnin
 
 Ingeniera Industrial y Maestra en Economía por la Universidad de Guadalajara. Se ha desempeñado como gestora y coordinadora de proyectos de desarrollo de software, así como de recolección y procesamiento de datos para análisis de beneficios de diversos programas sociales e iniciativas gubernamentales en entidades públicas estatales y federales. Ha participado como mentora, juez y promotora de diversos retos y hackathones con enfoque social, fomentando la diversidad y participación de jóvenes y niñas para acortar la brecha de género en tecnología.
 
-## **[Alexander Saravia
-
-###### EC
-
-](#)**  
+## Alexander Saravia (EC)  
 
 ##### Mentor
 
@@ -291,21 +245,15 @@ Ingeniera Industrial y Maestra en Economía por la Universidad de Guadalajara. S
 
 Ingeniero en Electrónica, Automatización y Control; Maestrante en Inteligencia Computacional por la Universidad Federal de Rio de Janeiro; City Lead & Coordinador de Internet of Things en la comunidad Saturdays AI Quito (ai6uio.org); Actualmente de desarrolla como consultor en investigación de Internet of Things e Inteligencia Artificial para diferentes universidades del Ecuador, además es Cofundador de SunPlena Tech donde realiza soluciones de inteligencia de Inteligencia Artificial más Internet of Things.
 
-## **[Rosa Sunum
-
-###### GT
-
-](#)**  
+## Rosa Sunum (GT)  
 
 ##### Mentora
 
 ![](/media/7cdd2ad9bbd31fe2.webp)
 
-## **[Daniel Hernandez
+## Daniel Hernandez (MX)
 
-###### MX
-
-](https://www.linkedin.com/in/dhdzmota/)**  
+[LinkedIn](https://www.linkedin.com/in/dhdzmota/)  
 
 ##### Mentor
 
@@ -313,11 +261,7 @@ Ingeniero en Electrónica, Automatización y Control; Maestrante en Inteligencia
 
 Ingeniero en nanotecnología con experiencia en simulación de modelos físicos cuánticos, análisis de datos y visualización en Python. Tiene gran interés en la Inteligencia Artificial y Machine Learning. Participó en proyectos de investigación enfocados a la computación cuántica, y métodos de optimización.
 
-## **[Rodrigo Herrera
-
-###### CR
-
-](#)**  
+## Rodrigo Herrera (CR)  
 
 ##### Mentor
 
@@ -325,11 +269,7 @@ Ingeniero en nanotecnología con experiencia en simulación de modelos físicos 
 
 Co-Fundador y Chief Technology Officer (CTO) de Ainnovatech. Ingeniero en Sistemas, Master en Big Data & Business Intelligence en la Universidad NEXTIBS y Universidad de LLeida en Madrid. Certificado en Redes de Broadcom en Minnesota, Estados Unidos y Administrador de Servidores Linux por la Universidad Nacional de Costa Rica, Científico de Datos en UPS, Estados Unidos. Líder país en la non-profit global www.saturdays.ai Costa Rica, profesor y director de la Especialidad de Inteligencia Artificial de Lead University. Es amante de la física, la ciencia y de cómo hacer la tecnología más accesible para todas y todos
 
-## **[Fernando Silva
-
-###### BO
-
-](#)**  
+## Fernando Silva (BO)  
 
 ##### Mentor
 
@@ -337,11 +277,7 @@ Co-Fundador y Chief Technology Officer (CTO) de Ainnovatech. Ingeniero en Sistem
 
 Ingenierio de Sistemas con postgrado en Inteligencia Artificial de la Universidad de Chile, lleva desde el 2019 en el área de Inteligencia Artificial. Inició como mentor de Python y Machine Learning bajo la coordinación del Centro Cultural de España. Trabajó en la banca como Machine Learning Engineer, donde realizaba implementación de modelos. Actualmente realiza investigación en la Universidad Católica de Bolivia en el área de Reinforcement Learning. Ha participado y ganado en varios concursos, siendo el más destacado el primer lugar en una de las categorías de la hackathon de Facebook F8 en Silicon Valley el 2019. A su vez ha sido lider de comunidades con el objetivo de democratizar la inteligencia Artificial, entre estas comunidades: GDG Android Bolivia, Data Science Bolivia, PyData La Paz, Kaggle Days La Paz. Actualmente tiene una startup de Computer Vision y se desempeña como embajador de deeplearning.ai de Andrew Ng con su programa de Pie & AI.
 
-## **[Gibran Félix
-
-###### MX
-
-](#)**  
+## Gibran Félix (MX)  
 
 ##### Mentor
 
@@ -349,11 +285,7 @@ Ingenierio de Sistemas con postgrado en Inteligencia Artificial de la Universida
 
 Licenciado en Informática por la UAS, Maestría en Ciencias de la Computación en el CINVESTAV, Campus Guadalajara. Desde 2012 ha estado involucrado en múltiples emprendimientos relacionados con datos. Actualmente, se desempeña como Co-fundador de Spreaad, empresa de analítica enfocada en entender la conversión de los usuarios.
 
-## **[Ivan Fretes
-
-###### PY
-
-](#)**  
+## Ivan Fretes (PY)  
 
 ##### Mentor
 
@@ -363,11 +295,7 @@ Senior Software Developer, con más de 10 años en el ámbito. He trabajado en d
 
 Soy aficionado y entusiasta a emprendimientos (startups), inbound marketing, desarrollo de software, Data Science y otros etcéteras.
 
-## **[Ángel Encalada
-
-###### EC
-
-](#)**  
+## Ángel Encalada (EC)  
 
 ##### Mentor
 
@@ -375,11 +303,7 @@ Soy aficionado y entusiasta a emprendimientos (startups), inbound marketing, des
 
 Ingeniero en Mecatrónica, graduado en la ESPOL (Guayaquil). Actualmente se desempeña como Ingeniero de Software en una importante empresa dedicada a la administración de Cajeros Automáticos en algunos Bancos del Ecuador. Por otro lado, trabaja como Investigador Externo en el grupo CoDAlab de la UPC (Barcelona) desarrollando modelos de Deep Learning para la detección y prognóstico de fallos en aerogeneradores. En la línea del Deep Learning también investiga en un Laboratorio de Energías Renovables de ESPOL sobre modelos para la identificación y clasificación de daños en Celdas de Combustible. Desde el 2019 registra varias publicaciones científicas en congresos y revistas internacionales. Finalmente, su interés por la investigación también lo ha llevado a impartir diferentes workshops sobre Modelamiento Computacional, Simulación de Vuelo de Drones, etc
 
-## **[Naren Castellon
-
-###### PA
-
-](#)**  
+## Naren Castellon (PA)  
 
 ##### Mentor
 

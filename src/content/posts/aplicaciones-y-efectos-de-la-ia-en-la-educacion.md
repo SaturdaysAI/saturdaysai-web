@@ -61,8 +61,7 @@ En el sector educativo, **las nuevas tecnologías de IA conllevan numerosos bene
 -   Las **diferencias entre el estatus socioeconómico** de las diferentes familias impidiendo garantizar la equidad educativa.  
 
 
-## **Conclusiones  
-**
+## Conclusiones
 
 Así pues, hemos de tener presentes los riesgos potenciales del uso de inteligencia artificial en los centros educativos. Para la implementación de esta tenemos que tener en cuenta que los estudiantes necesitan de una formación básica en el uso de estas tecnologías y la explicación de cómo deben ser tratados correctamente los datos. De lo contrario, estas técnicas mejorarían el aprendizaje individual de cada uno de los alumnos ya que pueden promover trayectorias específicas y únicas según las necesidades de cada estudiante personalizando su aprendizaje.  
 

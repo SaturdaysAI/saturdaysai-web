@@ -57,7 +57,7 @@ Fuente [Connsaludmental.org](https://consaludmental.org/centro-documentacion/sal
 
 Los datos están claros, toda esta situación ha tenido un alto impacto ya en la sociedad y probablemente se irá manifestando todavía más a lo largo de los próximos años.
 
-A nosotros personalmente nos preocupa, pero**… ¿es algo que preocupa?**
+A nosotros personalmente nos preocupa, pero… **¿es algo que preocupa?**
 
 Diferentes fuentes muestran que sí, que es un tema que preocupa en todos los rangos de edades, veamos por ejemplo esta encuesta realizada a un perfil más joven.
 
@@ -147,7 +147,7 @@ Nuestro eje rector está englobado dentro de los **Objetivos de Desarrollo Soste
 
 ## **Manos a la obra. Desarrollo del Proyecto**
 
-Para la ejecución del proyecto hemos seguido la siguiente **metodología iterativa** **basada en el estándar CRISP-DM (**Cross Industry Standard Process for _Data Mining_).
+Para la ejecución del proyecto hemos seguido la siguiente **metodología iterativa** **basada en el estándar CRISP-DM** (Cross Industry Standard Process for _Data Mining_).
 
 ![](/media/9c5ed5bac817dcd8.webp)
 

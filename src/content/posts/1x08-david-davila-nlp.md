@@ -35,7 +35,7 @@ Esperamos que lo disfruten tanto como nosotros. 
 
 **0:00** – Introducción
 
-**02:**45 – Presentación David Dávila, ¿Quién es?
+**02:45** – Presentación David Dávila, ¿Quién es?
 
 **12:34** – El mayor reto con el que se ha enfrentado
 

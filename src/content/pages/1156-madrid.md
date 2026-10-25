@@ -29,19 +29,19 @@ Edición completada
 
 # ¿Cómo es la experiencia?
 
-![DSC\_0106 (2)](/media/aad3c993c071d715.webp)
+![](/media/aad3c993c071d715.webp)
 
-![DSC\_0107](/media/dbbefc86ca2b67af.webp)
+![](/media/dbbefc86ca2b67af.webp)
 
 ![grupo jovenes aprendiendo inteligencia artificial](/media/0ef120ccb4ffe457.webp)
 
-![DSC00243](/media/4668c4d4ba408b17.webp)
+![](/media/4668c4d4ba408b17.webp)
 
-![DSC00561 (1)](/media/7de7978049951396.webp)
+![](/media/7de7978049951396.webp)
 
-![DSC00908](/media/62f446ea7f162f4b.webp)
+![](/media/62f446ea7f162f4b.webp)
 
-![DSC01146](/media/4b85cd84580803d6.webp)
+![](/media/4b85cd84580803d6.webp)
 
 ![web1](/media/2307129996d960a8.webp)
 

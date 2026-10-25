@@ -7,7 +7,7 @@ description: La Inteligencia Artificial tiene el potencial de transformar la
 pubDate: 2023-06-05
 author: Info Saturdays
 category: Community
-kind: project
+kind: article
 tags:
   - IA
   - Imagenes

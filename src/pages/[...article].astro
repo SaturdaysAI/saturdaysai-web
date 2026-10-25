@@ -206,6 +206,12 @@ const breadcrumbs = breadcrumbSchema([
           </div>
           <h1>{p.title}</h1>
           <p class="article-deck">{p.description}</p>
+          {p.kind === 'project' && (
+            <p class="project-context">
+              A learning project shared by the community. The article documents its team, methods
+              and results; it does not establish that the prototype is ready for real-world use.
+            </p>
+          )}
           {isPodcast && (
             <div class="episode-intro">
               {p.image && (

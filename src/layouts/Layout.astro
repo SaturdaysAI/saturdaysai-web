@@ -186,7 +186,12 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
           aria-expanded="false"
           aria-controls="site-nav"
         >
-          <Icon name="menu" />
+          <span class="menu-open-icon">
+            <Icon name="menu" />
+          </span>
+          <span class="menu-close-icon">
+            <Icon name="close" />
+          </span>
         </button>
         <nav id="site-nav" aria-label="Main navigation">
           {nav.map(([label, path]) => (
@@ -285,21 +290,44 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
         document.documentElement.lang === 'es'
           ? { open: 'Abrir navegación', close: 'Cerrar navegación' }
           : { open: 'Open navigation', close: 'Close navigation' };
+      let menuScroll = 0;
+      const background = document.querySelectorAll<HTMLElement>('main, .site-footer');
       const close = () => {
+        const wasOpen = toggle?.getAttribute('aria-expanded') === 'true';
         toggle?.setAttribute('aria-expanded', 'false');
         toggle?.setAttribute('aria-label', menuLabels.open);
         nav?.classList.remove('is-open');
+        document.body.classList.remove('menu-is-open');
+        document.body.style.removeProperty('--menu-scroll');
+        background.forEach((el) => (el.inert = false));
+        if (wasOpen) window.scrollTo({ top: menuScroll, behavior: 'instant' });
       };
       toggle?.addEventListener('click', () => {
         const open = toggle.getAttribute('aria-expanded') !== 'true';
+        if (!open) return close();
+        menuScroll = window.scrollY;
         toggle.setAttribute('aria-expanded', String(open));
         toggle.setAttribute('aria-label', open ? menuLabels.close : menuLabels.open);
         nav?.classList.toggle('is-open', open);
+        document.body.style.setProperty('--menu-scroll', `-${menuScroll}px`);
+        document.body.classList.add('menu-is-open');
+        background.forEach((el) => (el.inert = true));
       });
       document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape' && toggle?.getAttribute('aria-expanded') === 'true') {
           close();
           toggle.focus();
+        }
+        if (e.key === 'Tab' && toggle?.getAttribute('aria-expanded') === 'true') {
+          const links = nav?.querySelectorAll<HTMLAnchorElement>('a');
+          const last = links?.[links.length - 1];
+          if (e.shiftKey && document.activeElement === toggle) {
+            e.preventDefault();
+            last?.focus();
+          } else if (!e.shiftKey && document.activeElement === last) {
+            e.preventDefault();
+            toggle.focus();
+          }
         }
       });
       document.addEventListener('click', (e) => {

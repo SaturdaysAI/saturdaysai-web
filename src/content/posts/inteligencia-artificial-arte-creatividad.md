@@ -48,11 +48,7 @@ Pablo Talavante, un experto en inteligencia artificial y aprendizaje automático
 
 Sergi Calsina, cuyas obras pueden encontrarse en @calsinaart, destaca la expresividad y el sentimiento como elementos clave del arte, características que considera intrínsecamente humanas. Según Calsina, aunque la IA puede replicar estilos con precisión, carece de la capacidad para capturar genuinamente la emoción humana. Expresa su preocupación por cómo la IA podría afectar los derechos de autor y la valoración del trabajo artístico tradicional. Insiste en que cualquier uso legítimo de la IA en el arte debe involucrar un acuerdo claro sobre los derechos de imagen y reconocer el papel esencial del artista humano en el proceso creativo.
 
-> [
-> 
-> Ver esta publicación en Instagram
-> 
-> ](https://www.instagram.com/p/CzEh9sACoM7/?utm_source=ig_embed&utm_campaign=loading)
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/CzEh9sACoM7/?utm_source=ig_embed&utm_campaign=loading)
 > 
 > [Una publicación compartida por Calsina (@calsinaart)](https://www.instagram.com/p/CzEh9sACoM7/?utm_source=ig_embed&utm_campaign=loading)
 

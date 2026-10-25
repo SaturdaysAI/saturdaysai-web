@@ -363,14 +363,14 @@ La página que había creado ya estaba lista y era funcional. Tras verificar los
 
 [![](/media/47192cfa909ce56b.webp)](/media/47192cfa909ce56b.webp)
 
-Ya tenía una app completa, funcional, ligera y 100% generada con IA**.**
+Ya tenía una app completa, funcional, ligera y 100% generada con IA.
 
 ## Conclusiones y aprendizajes
 
 Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de **formular problemas, guiar al sistema y validar resultados.**
 
--   La precisión de los prompts lo es todo**.** Un buen contexto genera código limpio y funcional.
--   La validación humana sigue siendo esencial**.** La IA propone, pero tú decides qué aceptar o ajustar.
+-   La precisión de los prompts lo es todo. Un buen contexto genera código limpio y funcional.
+-   La validación humana sigue siendo esencial. La IA propone, pero tú decides qué aceptar o ajustar.
 -   El flujo de trabajo híbrido (ChatGPT + Codex) es tremendamente eficiente para proyectos personales o prototipos.
 -   GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.
 

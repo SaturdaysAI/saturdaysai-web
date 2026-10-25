@@ -33,34 +33,36 @@ AgroClaw ha nacido como un asistente AgTech en español, con foco inicial en el 
 
 En el repositorio [https://github.com/SaturdaysAI/agroclaw-demo](https://github.com/SaturdaysAI/agroclaw-demo) puede verse la estructura del directorio del proyecto:  
 
-agroclaw-demo/  
-├── public/  
-├── server/  
-│ ├── server.js  
-│ └── workspace-template/  
-│ ├── AGENTS.md  
-│ ├── BOOTSTRAP.md  
-│ ├── HEARTBEAT.md  
-│ ├── IDENTITY.md  
-│ ├── SOUL.md  
-│ ├── TOOLS.md  
-│ ├── USER.md  
-│ ├── skills/  
-│ └── knowledge/  
-│ └── olivar/  
-├── src/  
-│ ├── api/  
-│ ├── assets/  
-│ ├── components/  
-│ ├── data/  
-│ ├── types/  
-│ ├── utils/  
-│ ├── App.tsx  
-│ ├── index.css  
-│ └── main.tsx  
-├── .env.example  
-├── package.json  
+```text
+agroclaw-demo/
+├── public/
+├── server/
+│ ├── server.js
+│ └── workspace-template/
+│ ├── AGENTS.md
+│ ├── BOOTSTRAP.md
+│ ├── HEARTBEAT.md
+│ ├── IDENTITY.md
+│ ├── SOUL.md
+│ ├── TOOLS.md
+│ ├── USER.md
+│ ├── skills/
+│ └── knowledge/
+│ └── olivar/
+├── src/
+│ ├── api/
+│ ├── assets/
+│ ├── components/
+│ ├── data/
+│ ├── types/
+│ ├── utils/
+│ ├── App.tsx
+│ ├── index.css
+│ └── main.tsx
+├── .env.example
+├── package.json
 └── vite.config.ts
+```
 
 Esa arquitectura no es cosmética. Una de las ideas más útiles que ha dejado el proceso es que un agente LLM bien construido se parece, en su organización, a un sistema orientado a objetos. IDENTITY.md define quién es el agente; SOUL.md, cómo se expresa; AGENTS.md, cómo trabaja; las _skills_ delimitan qué sabe hacer; y la base documental define qué sabe sobre el dominio.
 

@@ -25,7 +25,7 @@ Queremos convertir la provincia de Castellón en referente internacional en Inte
 
 [Pre-registro 2ª edición](https://ti.to/saturdaysai/ai-saturdays-castellon-segunda-edicion)
 
-[¿No sabes Python?](https://app.eduflow.com/course/python-4-ai)
+[¿No sabes Python?](https://saturdays.ai/python-4-a-i/)
 
 ![](/media/85c0533b31eddae9.webp)
 

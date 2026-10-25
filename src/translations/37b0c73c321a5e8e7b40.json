@@ -143,7 +143,7 @@
     {
       "source": "Prompt engineering",
       "en": "Prompt engineering",
-      "es": "Ingeniería rápida",
+      "es": "ingeniería de prompts",
       "reviewed": false,
       "translationVersion": 2
     },
@@ -158,14 +158,14 @@
     {
       "source": "Explore Prompt engineering",
       "en": "Explore Prompt engineering",
-      "es": "Explorar la ingeniería rápida",
+      "es": "Explorar la ingeniería de prompts",
       "reviewed": false,
       "translationVersion": 2
     },
     {
       "source": "Data mining & Hugging Face",
       "en": "Data mining & Hugging Face",
-      "es": "Minería de datos y cara de abrazo",
+      "es": "Minería de datos y Hugging Face",
       "reviewed": false,
       "translationVersion": 2
     },
@@ -320,7 +320,7 @@
     {
       "source": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
       "en": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
-      "es": "Aprenda sobre la IA desde 0, con cursos online sobre Python, ciencia de datos, ingeniería rápida, aprendizaje automático y nuevas tecnologías.",
+      "es": "Aprenda sobre la IA desde 0, con cursos online sobre Python, ciencia de datos, ingeniería de prompts, aprendizaje automático y nuevas tecnologías.",
       "reviewed": false,
       "sourceLanguage": "en",
       "translationVersion": 2
@@ -770,6 +770,60 @@
       "reviewed": false,
       "translationVersion": 2,
       "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Spanish Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar",
+      "en": "In Spanish. Prompt engineering for learners who know the basics and want to explore techniques for managing",
+      "es": "En español. Ingeniería de prompts para quienes ya conocen los fundamentos y quieren profundizar en las técnicas para gestionar",
+      "reviewed": true
+    },
+    {
+      "source": "English & Spanish Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.",
+      "en": "English & Spanish Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.",
+      "es": "En inglés y español. Aprende a programar desde cero con una guía práctica para desarrollar tus habilidades en Python.",
+      "reviewed": true
+    },
+    {
+      "source": "English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.",
+      "en": "English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.",
+      "es": "En inglés y español. Un minicurso para aprender los fundamentos de la IA generativa y multimodal desde cero, tanto si empiezas como si te interesa la creación artística con IA.",
+      "reviewed": true
+    },
+    {
+      "source": "English & Spanish Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!",
+      "en": "In English and Spanish. Learn data mining through a practical project and deploy a model on Hugging Face. Develop two useful skills for your data science and AI projects.",
+      "es": "En inglés y español. Aprende minería de datos con un proyecto práctico y despliega un modelo en Hugging Face. Desarrolla dos habilidades útiles para tus proyectos de ciencia de datos e IA.",
+      "reviewed": true
+    },
+    {
+      "source": "Spanish ¿Sabes que el Aprendizaje por Refuerzo (",
+      "en": "In Spanish. Did you know that reinforcement learning (",
+      "es": "En español. ¿Sabías que el aprendizaje por refuerzo (",
+      "reviewed": true
+    },
+    {
+      "source": "in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.",
+      "en": "in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.",
+      "es": "En inglés. Aprende los fundamentos de la ciencia de datos con vídeos breves, mapas conceptuales, ejercicios y un proyecto. Comparte tus avances y recibe comentarios de la comunidad.",
+      "reviewed": true
+    },
+    {
+      "source": "English & Spanish Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.",
+      "en": "In English and Spanish. Pandas is a flexible library for working with data. Learn to load, prepare, transform, model and analyse it.",
+      "es": "En inglés y español. Pandas es una biblioteca flexible para trabajar con datos. Aprende a cargarlos, prepararlos, transformarlos, modelarlos y analizarlos.",
+      "reviewed": true
+    },
+    {
+      "source": "English & Spanish Curso de NumPy: Dominando la Manipulación de Datos Numéricos.",
+      "en": "In English and Spanish. A NumPy course: learn to work with numerical data.",
+      "es": "En inglés y español. Curso de NumPy: aprende a trabajar con datos numéricos.",
+      "reviewed": true
+    },
+    {
+      "source": "Contact the team to find the current community channels and connect with other learners.",
+      "en": "Contact the team to find the current community channels and connect with other learners.",
+      "es": "Consulta con el equipo los canales actuales de la comunidad y conecta con otras personas que están aprendiendo.",
+      "reviewed": true
     }
   ]
 }

@@ -44,7 +44,7 @@ Esperamos que lo disfruten.
 
 **09:45** – Sobre el proyecto
 
-**1**4**:39** – Proceso de desarrollo de la solución del proyecto
+**14:39** – Proceso de desarrollo de la solución del proyecto
 
 **21:41** – ¿Cuál es el mayor reto con el que se ha enfrentado hasta ahora?
 

@@ -5,7 +5,10 @@ import PostCard from '../components/PostCard.astro';
 import Icon from '../components/Icon.astro';
 import { publishedPosts, url } from '../lib/content';
 const posts = (await publishedPosts()).filter(
-  (p) => p.data.kind === 'project' || [11833, 11664].includes(p.data.sourceId || 0),
+  // The 2022 turbofan article expands the 2021 report; retain both URLs, list the latest once.
+  (p) =>
+    p.data.sourceId !== 4395 &&
+    (p.data.kind === 'project' || [11833, 11664].includes(p.data.sourceId || 0)),
 );
 ---
 

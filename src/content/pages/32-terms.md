@@ -1,6 +1,6 @@
 ---
 title: Terms
-description: This is a page with some basic terms and conditions terms.
+description: This pilot is available for review. The final terms of use must be confirmed before the main domain is moved.
 image: ""
 legacyPath: /terms/
 sourceUrl: https://saturdays.ai/terms/
@@ -10,4 +10,4 @@ draft: false
 kind: page
 ---
 
-This is a page with some basic terms and conditions terms.
+This pilot is available for review. The final terms of use must be confirmed before the main domain is moved.

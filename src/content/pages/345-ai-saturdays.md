@@ -21,11 +21,11 @@ It is always scheduled on Saturdays, so that everyone has the opportunity to lea
 
 ![grupo jovenes aprendiendo inteligencia artificial](/media/0ef120ccb4ffe457.webp)
 
-![DSC\_0107](/media/dbbefc86ca2b67af.webp)
+![](/media/dbbefc86ca2b67af.webp)
 
 ![saturdaysai2](/media/e37a50afe341f0d6.webp)
 
-![DSC00243](/media/4668c4d4ba408b17.webp)
+![](/media/4668c4d4ba408b17.webp)
 
 #### Watch what it's like
 
@@ -141,115 +141,27 @@ Our participants come from all walks of life. We are developers, researchers, en
 
 [See all campus](https://www.saturdays.ai/cities)
 
-[
+[![Barcelona](/media/58dd1c3507f65f37.webp) Barcelona](https://www.saturdays.ai/cities)
 
-![Barcelona](/media/58dd1c3507f65f37.webp)
+[![Guadalajara (MX)](/media/952c738dc2ddf9f4.webp) Guadalajara (MX)](https://www.saturdays.ai/cities)
 
-Barcelona
+[![Madrid](/media/d7235cd70ef474ac.webp) Madrid](https://www.saturdays.ai/cities)
 
+[![Guayaquil](/media/44a6e325cbdcfb86.webp) Guayaquil](https://www.saturdays.ai/cities)
 
+[![Sevilla](/media/27ca4493fa58f47d.webp) Sevilla](https://www.saturdays.ai/cities)
 
-](https://www.saturdays.ai/cities)
+[![Valencia](/media/ce7fe9c2bf93233c.webp) Valencia](https://www.saturdays.ai/cities)
 
-[
+[![Santiago de Chile](/media/54883b13d314c215.webp) Santiago de Chile](https://www.saturdays.ai/cities)
 
-![Guadalajara (MX)](/media/952c738dc2ddf9f4.webp)
+[![Quito](/media/7990678a6e8a33fc.webp) Quito](https://www.saturdays.ai/cities)
 
-Guadalajara (MX)
+[![Monterrey](/media/7df25ab271289e7b.webp) Monterrey](https://www.saturdays.ai/cities)
 
+[![Dubai](/media/dc22793f3fe9185a.webp) Dubai](https://www.saturdays.ai/cities)
 
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Madrid](/media/d7235cd70ef474ac.webp)
-
-Madrid
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Guayaquil](/media/44a6e325cbdcfb86.webp)
-
-Guayaquil
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Sevilla](/media/27ca4493fa58f47d.webp)
-
-Sevilla
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Valencia](/media/ce7fe9c2bf93233c.webp)
-
-Valencia
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Santiago de Chile](/media/54883b13d314c215.webp)
-
-Santiago de Chile
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Quito](/media/7990678a6e8a33fc.webp)
-
-Quito
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Monterrey](/media/7df25ab271289e7b.webp)
-
-Monterrey
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Dubai](/media/dc22793f3fe9185a.webp)
-
-Dubai
-
-
-
-](https://www.saturdays.ai/cities)
-
-[
-
-![Costa Rica](/media/c216695624dbcfd9.webp)
-
-Costa Rica
-
-
-
-](https://www.saturdays.ai/cities)
+[![Costa Rica](/media/c216695624dbcfd9.webp) Costa Rica](https://www.saturdays.ai/cities)
 
 #### Can't find your campus?
 

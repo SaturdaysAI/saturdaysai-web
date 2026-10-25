@@ -45,24 +45,14 @@ Al finalizar, se presentarán los proyectos que se realizaron durante el program
 
 ## Cursos:
 
-## [
-
-#### Machine  
-Learning
-
-](https://saturdays.ai/la-paz/ml/)
+## [Machine Learning](https://saturdays.ai/la-paz/ml/)
 
 #### 3º Edition  
 Inicio: 06 de Julio
 
 ![](/media/3ad392f8e07f0179.webp)
 
-## [
-
-#### Deep  
-Learning
-
-](https://saturdays.ai/la-paz/dl/)
+## [Deep Learning](https://saturdays.ai/la-paz/dl/)
 
 #### 2º Edition  
 Inicio: 24 de agosto
@@ -71,12 +61,7 @@ Inicio: 24 de agosto
 
 [Anotarme en la lista de espera](https://forms.gle/CoHV8GvK57caCAd29)
 
-## [
-
-#### Computer  
-Vision
-
-](https://saturdays.ai/la-paz/ml/)
+## [Computer Vision](https://saturdays.ai/la-paz/ml/)
 
 #### 1º Edition  
 Inicio: Proximamente
@@ -85,12 +70,7 @@ Inicio: Proximamente
 
 [Anotarme en la lista de espera](https://forms.gle/XQhSPVtZ9t3sVHxa7)
 
-## [
-
-#### Math for  
-Machine Learning
-
-](https://saturdays.ai/la-paz/ml/)
+## [Math for Machine Learning](https://saturdays.ai/la-paz/ml/)
 
 #### 1º Edition  
 Inicio: Proximamente

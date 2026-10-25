@@ -64,26 +64,30 @@ export async function renderMarkdown(
   }
   const toc = [];
   const headingStack = [];
-  $('h1,h2,h3,h4').each((index, heading) => {
+  let section = 0;
+  let subsection = 0;
+  $('h1,h2,h3,h4,h5,h6').each((_, heading) => {
     const el = $(heading);
     const text = el.text().replace(/\s+/g, ' ').trim();
-    const id = `section-${index + 1}`;
+    const originalLevel = Number(heading.name.slice(1));
+    // Keep previously published section links stable when normalizing deeper headings.
+    const id = originalLevel <= 4 ? `section-${++section}` : `subsection-${++subsection}`;
     if (!text) {
       el.replaceWith(`<span id="${id}" aria-hidden="true"></span>${el.html() || ''}`);
       return;
     }
     // Retain the existing section IDs while excluding empty builder headings from navigation.
     el.attr('id', id);
-    const originalLevel = Number(heading.name.slice(1));
     while (headingStack.length && headingStack.at(-1).originalLevel >= originalLevel)
       headingStack.pop();
     const level = (headingStack.at(-1)?.level || 1) + 1;
     headingStack.push({ originalLevel, level });
     heading.tagName = `h${Math.min(level, 6)}`;
-    toc.push({
-      id,
-      text: sanitizeHtml(el.html() || '', { allowedTags: [], allowedAttributes: {} }).trim(),
-    });
+    if (originalLevel <= 4)
+      toc.push({
+        id,
+        text: sanitizeHtml(el.html() || '', { allowedTags: [], allowedAttributes: {} }).trim(),
+      });
   });
   await Promise.all(
     $('img')

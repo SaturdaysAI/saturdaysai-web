@@ -17,7 +17,7 @@ kind: city
 
 Hej københavn!
 
-Check out how our [1st edition of SaturdaysAI](https://www.linkedin.com/posts/saturdaysai-copenhagen_machinelearning-team-diversity-activity-6939826022770991104-ghZ-?utm_source=share&utm_medium=member_desktop) in Denmark went! We will be posting more info about the **2nd edition** soon**!**
+Check out how our [1st edition of SaturdaysAI](https://www.linkedin.com/posts/saturdaysai-copenhagen_machinelearning-team-diversity-activity-6939826022770991104-ghZ-?utm_source=share&utm_medium=member_desktop) in Denmark went! We will be posting more info about the **2nd edition** soon!
 
 🌍 Our mission is to empower anyone to learn #AI beyond the conventional education path while delivering social impact🚀
 
@@ -42,27 +42,27 @@ Our program consist of 13+ in-person sessions of **5h each scheduled on** **Satu
 
 [Get more details about our program!](https://docs.google.com/document/d/1Spxgu1IsqMqi8ntkLprs0eNrMVt27b19MXsxxw7znpk/edit#)
 
-![DSC\_0106 (2)](/media/aad3c993c071d715.webp)
+![](/media/aad3c993c071d715.webp)
 
-![DSC\_0107](/media/dbbefc86ca2b67af.webp)
+![](/media/dbbefc86ca2b67af.webp)
 
-![DSC\_0062](/media/2784ee9e94b42f0a.webp)
+![](/media/2784ee9e94b42f0a.webp)
 
-![DSC\_0057](/media/f121006702504b78.webp)
+![](/media/f121006702504b78.webp)
 
 ![grupo jovenes aprendiendo inteligencia artificial](/media/0ef120ccb4ffe457.webp)
 
-![DSC00243](/media/4668c4d4ba408b17.webp)
+![](/media/4668c4d4ba408b17.webp)
 
-![DSC00561 (1)](/media/7de7978049951396.webp)
+![](/media/7de7978049951396.webp)
 
-![DSC01093](/media/7d442d653af21356.webp)
+![](/media/7d442d653af21356.webp)
 
-![DSC01074](/media/4bda5f35acd43bd6.webp)
+![](/media/4bda5f35acd43bd6.webp)
 
-![DSC00908](/media/62f446ea7f162f4b.webp)
+![](/media/62f446ea7f162f4b.webp)
 
-![DSC01146](/media/4b85cd84580803d6.webp)
+![](/media/4b85cd84580803d6.webp)
 
 #### Meet the AI community in Copenhagen
 

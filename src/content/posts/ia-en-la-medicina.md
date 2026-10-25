@@ -7,7 +7,7 @@ description: Cómo la inteligencia artificial está revolucionando la ingenierí
 pubDate: 2023-06-01
 author: Info Saturdays
 category: Community
-kind: project
+kind: article
 tags:
   - IA
   - Imágenes

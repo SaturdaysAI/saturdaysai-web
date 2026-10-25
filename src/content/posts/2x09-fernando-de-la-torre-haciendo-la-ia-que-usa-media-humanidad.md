@@ -34,13 +34,13 @@ En este episodio, **Fernando de la Torre,** Research Associate Professor en la
 
 **0:00** – Introducción
 
-**01:**30 – Presentación Fernando y los proyectos que lleva
+**01:30** – Presentación Fernando y los proyectos que lleva
 
 **11:46** – Fernando con 10 años de edad y el Sueño Americano
 
 **16:13** – ¿Cuál ha sido el reto más grande que has tenido?
 
-**21:**38 – Mensaje a los oyentes
+**21:38** – Mensaje a los oyentes
 
 **22:17** – ¿Cómo ves el sector de AI y ML hoy en día y en 10 años?
 

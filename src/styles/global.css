@@ -1349,7 +1349,7 @@
   }
   .prose img {
     max-height: 700px;
-    width: auto;
+    height: auto;
     max-width: 100%;
     margin: 24px auto;
     border-radius: 7px;

@@ -68,7 +68,7 @@ Ambos modelos fueron obtenidos y reutilizados de la biblioteca hugging Face Tran
 
 La elección del mejor modelo fue dado en base a los resultados:
 
--   **Bert en inglés:**bert-large-uncased-whole-word-masking-finetuned-squad
+-   **Bert en inglés:** bert-large-uncased-whole-word-masking-finetuned-squad
 -   **Bert en español (Beto):** distill-bert-base-spanish-wwm-cased-Finetuned-spa-squad2-es
 
 ![](/media/1d687e8ad5a89acb.webp)

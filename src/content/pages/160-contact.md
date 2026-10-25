@@ -8,6 +8,7 @@ sourceId: 160
 language: en
 draft: false
 kind: page
+aliasTarget: /contacto/
 ---
 
 ## Contact us at info@saturdays.ai

@@ -125,6 +125,17 @@ const paths = [
         Just bring a question and a little curiosity.
       </p>
     </div>
+    <div class="programme-summary">
+      <h3>AI Saturdays: learn with a team</h3>
+      <p>
+        Our community programme combines practical sessions, mentor support and a team project. It
+        typically runs over 12 to 15 Saturdays, ending with a Demo Day. Each local team confirms its
+        format, dates and requirements.
+      </p>
+      <a class="text-link" href={url('/ai-saturdays/')}>
+        How AI Saturdays works <Icon name="arrow" size={17} />
+      </a>
+    </div>
     <div class="path-grid">
       {paths.map((p) => (
         <a href={url(p.link)} class:list={['path-card', p.color]} data-reveal>

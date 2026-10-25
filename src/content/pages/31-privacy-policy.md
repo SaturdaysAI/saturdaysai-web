@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: This is a page with some basic information about our privacy policy.
+description: Read the privacy policy published by Saturdays.AI.
 image: ""
 legacyPath: /privacy-policy/
 sourceUrl: https://saturdays.ai/privacy-policy/
@@ -8,6 +8,7 @@ sourceId: 31
 language: en
 draft: false
 kind: page
+aliasTarget: /privacy-policy-2/
 ---
 
-This is a page with some basic information about our privacy policy.
+Read the privacy policy published by Saturdays.AI.
