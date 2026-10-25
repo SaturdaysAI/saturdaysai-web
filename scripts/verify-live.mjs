@@ -81,12 +81,34 @@ const activeSocialCards = new Set([
   ...Object.values(socialManifest).filter((value) => typeof value === 'string'),
   ...Object.values(socialManifest.english || {}),
 ]);
+const responsiveManifest = JSON.parse(
+  await fs.readFile('dist/media/responsive/manifest.json', 'utf8'),
+);
+const activeResponsiveImages = new Set(
+  Object.values(responsiveManifest).flatMap((entry) =>
+    entry.variants.map((variant) => variant.src),
+  ),
+);
 const allFiles = await walk('dist');
+let excludedSupersededCards = 0;
+let excludedUnusedResponsiveImages = 0;
 const files = allFiles.filter((file) => {
   const route = '/' + path.relative('dist', file).replaceAll('\\', '/');
-  return !/^\/social\/[a-f0-9]+\.jpg$/.test(route) || activeSocialCards.has(route);
+  if (/^\/social\/[a-f0-9]+\.jpg$/.test(route) && !activeSocialCards.has(route)) {
+    excludedSupersededCards++;
+    return false;
+  }
+  // Local derivative caches can outlive source edits. Only current manifest
+  // variants are used by pages; also validate every HTML reference below.
+  if (
+    /^\/media\/responsive\/[a-f0-9]+-\d+\.webp$/.test(route) &&
+    !activeResponsiveImages.has(route)
+  ) {
+    excludedUnusedResponsiveImages++;
+    return false;
+  }
+  return true;
 });
-const excludedSupersededCards = allFiles.length - files.length;
 let next = 0;
 let htmlCount = 0;
 let checkedCount = 0;
@@ -134,6 +156,18 @@ await Promise.all(
         const socialImage = $('meta[property="og:image"]').attr('content');
         if (!socialImage || !activeSocialCards.has(new URL(socialImage, origin).pathname))
           fail(route, 'Page references a card outside the current social manifest');
+        $('[src],[srcset]').each((_, element) => {
+          for (const attribute of ['src', 'srcset']) {
+            const value = $(element).attr(attribute) || '';
+            for (const match of value.matchAll(/\/media\/responsive\/[a-f0-9]+-\d+\.webp/g)) {
+              if (!activeResponsiveImages.has(match[0]))
+                fail(
+                  route,
+                  `Page references an image outside the current responsive manifest: ${match[0]}`,
+                );
+            }
+          }
+        });
         if ($('h1').length !== 1) fail(route, 'Expected one page heading');
         if ($('.preview-banner').length) fail(route, 'Preview banner on production');
         const robots = $('meta[name=robots]').attr('content') || '';
@@ -230,6 +264,7 @@ const report = {
   checkedFiles: results.length,
   activeSocialCards: activeSocialCards.size,
   excludedSupersededCards,
+  excludedUnusedResponsiveImages,
   htmlCount,
   sitemapURLs: sitemapURLs.length,
   redirects,

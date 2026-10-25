@@ -47,4 +47,17 @@ Esta es una revisión editorial asistida y dirigida por incidencias, no una lect
 - Controles adicionales evitan regresiones en el nombre español del apartado, el enlace exacto al curso y la corrección del artículo militar.
 - En navegador: lectura de la página nueva, búsqueda «seguridad» con un resultado, recorrido al curso real y cambio ES/EN. A 375 px de ancho útil, sin desbordamiento horizontal ni imágenes cargadas rotas. El tema oscuro permanece al cambiar de idioma.
 
-La evidencia y los registros están en `artifacts/archive-review-2026-10-25/`, excluidos de la web publicada. La publicación y la verificación pública se registrarán al terminar el despliegue.
+## Publicación
+
+- Publicado en `https://saturdays.ai/` desde el commit `a74c0bb1b42e9a314575a30c7dd35ad976e5c74e`.
+- [Validación y despliegue de GitHub Actions](https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40231542701): ambos trabajos completados correctamente.
+- Comparación pública adicional: 132 rutas, que corresponden a las 63 entradas modificadas, la portada, Aprende y la página de Seguridad de la IA en los dos idiomas. El texto completo del contenido principal y sus enlaces coinciden con la compilación revisada. Cero diferencias.
+- En la página pública se comprobó el apartado nuevo a 375 px de ancho útil. Sin desbordamiento horizontal. La captura de escritorio muestra el bloque completo y el acceso al curso.
+- HTTPS obligatorio confirmado en GitHub Pages para `saturdays.ai`.
+- Verificación pública final completada el 25 de octubre de 2026 a las 20:52 UTC: 6.189 archivos vigentes, 918 HTML, 446 tarjetas sociales y 568 URLs en el sitemap. Cero fallos. DNS normal y validación TLS estricta, con certificados válidos para `saturdays.ai` y `www.saturdays.ai`. Las redirecciones HTTP, www y la URL anterior de GitHub Pages preservan ruta y consulta.
+
+La primera comprobación encontró dos variantes antiguas de imágenes en la caché local que no existen en el despliegue limpio. No aparecen en el manifiesto vigente ni en el HTML, CSS o JSON compilado. Se ajustó `verify-live.mjs` para excluir las variantes no utilizadas del manifiesto y, además, fallar si cualquier `src` o `srcset` público referencia una variante retirada. Así no se confunde una caché local antigua con un recurso requerido por la web. El resultado original queda conservado como evidencia.
+
+El verificador excluye 35 variantes de la caché que no se utilizan en las páginas, incluidas las dos antiguas y variantes que no mejoran el tamaño del original. Comprueba todas las variantes vigentes y sus referencias en las 918 páginas. Esta corrección del verificador y el registro del resultado no alteran la web compilada que ya se ha publicado.
+
+La evidencia y los registros están en `artifacts/archive-review-2026-10-25/`, excluidos de la web publicada. El informe de comparación editorial es `editorial-live.json`; la comprobación general de producción se guarda en `live-verification.json`.
