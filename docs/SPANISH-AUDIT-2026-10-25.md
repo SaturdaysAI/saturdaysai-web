@@ -84,12 +84,31 @@ Se mantienen títulos, descripciones, canonicals, datos estructurados, alternanc
 - Textos editables en Markdown y catálogos de traducción. Las mejoras del equipo se aplican al HTML generado sin crear un segundo modelo de contenido.
 - Evidencia local adicional en `artifacts/spanish-audit-2026-10-25/`: informe recibido, capturas originales, escaneo por ruta, medidas HTTP y resultados de compilación. Ese material auxiliar no se publica como parte de la web.
 
+## Comprobación pública después del despliegue
+
+Versión del sitio auditada: `773c2d1`. La [ejecución de GitHub Actions](https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40214307078) terminó correctamente y publicó el piloto. Las **458 rutas españolas respondieron con HTTP 200**. Se comprobó el contenido nuevo servido por la CDN: bloque del programa, nueve fichas del equipo y sustitución de las invitaciones rotas. GitHub Pages conserva `cname: null`.
+
+PageSpeed Insights ejecutó Lighthouse 13.5.0 sobre la versión publicada el 25 de octubre de 2026, entre las 18:04 y las 18:06 CET. Las pruebas móviles usan Moto G Power emulado y limitación de 4G lenta. Se trata de una medición de laboratorio por página y dispositivo, no de un promedio de usuarios reales ni de todas las rutas.
+
+| Página | Dispositivo | Rendimiento | FCP | LCP | TBT | CLS |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| Portada | Móvil | 99 | 0,9 s | 1,4 s | 0 ms | 0 |
+| Portada | Escritorio | 100 | 0,2 s | 0,3 s | 0 ms | 0 |
+| Historias | Móvil | 100 | 1,1 s | 1,5 s | 0 ms | 0 |
+| Historias | Escritorio | 100 | 0,4 s | 0,4 s | 0 ms | 0 |
+| AgroClaw | Móvil | 100 | 0,9 s | 1,5 s | 0 ms | 0,001 |
+| AgroClaw | Escritorio | 100 | 0,3 s | 0,4 s | 0 ms | 0 |
+
+Las seis mediciones dan 100 en las comprobaciones automáticas de accesibilidad y 100 en prácticas recomendadas. No constituyen certificación WCAG. SEO obtiene 66 porque se bloquea deliberadamente la indexación del piloto: no se ha quitado `noindex` para mejorar artificialmente esa puntuación. PageSpeed indica que no dispone de datos de usuarios reales para estas páginas.
+
+Resultados independientes: [portada](https://pagespeed.web.dev/analysis/https-saturdaysai-github-io-saturdaysai-web/bh6br9zw32?form_factor=mobile), [historias](https://pagespeed.web.dev/analysis/https-saturdaysai-github-io-saturdaysai-web-blog-y-noticias/co88n8ct0h?form_factor=mobile) y [artículo AgroClaw](https://pagespeed.web.dev/analysis/https-saturdaysai-github-io-saturdaysai-web-2026-05-18-agroclaw-construye-agente-agtech/i2nf4n3ltz?form_factor=mobile). Cada informe permite cambiar a escritorio.
+
 ## Pendientes antes de cambiar el dominio
 
 1. **Validación legal:** confirmar identidad y datos del responsable, política vigente de privacidad y términos aplicables. La página de términos señala honestamente que la validación está pendiente; no se presenta como documento jurídico definitivo.
 2. **Vigencia organizativa:** confirmar cargos del equipo, cifras de impacto y próximas convocatorias. El archivo histórico se conserva con contexto; no demuestra actividad actual.
 3. **Prueba en dispositivos reales:** iPhone/Safari, Android, lector de pantalla y redes móviles. La emulación de anchura en el navegador de escritorio no sustituye estas pruebas ni permite declarar cumplimiento integral de WCAG.
-4. **Datos de experiencia real:** obtener LCP, INP y CLS con medición de laboratorio o datos de campo adecuados. No se atribuye una puntuación Lighthouse que no se haya obtenido.
+4. **Datos de experiencia real:** obtener datos de campo de LCP, INP y CLS cuando haya tráfico suficiente. Las mediciones de laboratorio anteriores son favorables, pero no establecen el rendimiento de cada visitante ni miden INP real.
 5. **Revisión editorial continua:** las traducciones automáticas siguen siendo editables y requieren revisión humana para matices de todo el archivo. Los enlaces históricos y plataformas externas pueden cambiar independientemente del repositorio.
 
 No se ha cambiado el dominio de producción.
