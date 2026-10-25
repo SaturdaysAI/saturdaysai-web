@@ -6,6 +6,11 @@ import { isPublished } from './content-rules.mjs';
 import { renderMarkdown } from './markdown.mjs';
 import taxonomies from '../data/taxonomies.json';
 import manifest from '../../imports/manifest.json';
+import { originalImageIdentity } from './image-identity.mjs';
+import { responsiveImage } from './responsive-images';
+const originals = new Map(
+  manifest.assets.map((asset) => [asset.path, originalImageIdentity(asset.original)]),
+);
 const sizes = new Map<string, Promise<{ width: number; height: number } | null>>();
 const imageInfo = (src: string) => {
   if (!sizes.has(src))
@@ -21,7 +26,8 @@ const imageInfo = (src: string) => {
           const file = path.resolve('public', local.slice(1));
           if (!file.startsWith(root + path.sep)) return null;
           const { width, height } = await sharp(file).metadata();
-          return width && height ? { width, height } : null;
+          const responsive = responsiveImage(local);
+          return width && height ? { width, height, srcset: responsive.srcset } : null;
         } catch {
           return null;
         }
@@ -61,5 +67,10 @@ export async function renderContent(body = '', galleries = false, leadImage = ''
     } catch {}
     return href;
   };
-  return renderMarkdown(body, { rewrite, imageInfo, galleries, leadImage });
+  const imageIdentity = (src: string) => {
+    const prefix = import.meta.env.BASE_URL.replace(/\/$/, '');
+    const local = src.startsWith(prefix + '/media/') ? src.slice(prefix.length) : src;
+    return originals.get(local) || local;
+  };
+  return renderMarkdown(body, { rewrite, imageIdentity, imageInfo, galleries, leadImage });
 }

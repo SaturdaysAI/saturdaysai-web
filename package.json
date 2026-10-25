@@ -7,7 +7,7 @@
     "node": ">=22.23.4"
   },
   "scripts": {
-    "assets": "node scripts/prepare-images.mjs",
+    "assets": "node scripts/prepare-images.mjs && node scripts/prepare-social-cards.mjs",
     "predev": "npm run assets",
     "precheck": "npm run assets",
     "prebuild": "npm run assets",
@@ -16,7 +16,7 @@
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
     "test": "node --test tests/*.test.mjs",
-    "verify": "npm run check && npm test && npm run build && node scripts/verify-build.mjs && node scripts/verify-performance.mjs",
+    "verify": "npm run check && npm test && npm run build && node scripts/verify-build.mjs && node scripts/verify-performance.mjs && node scripts/verify-social-cards.mjs",
     "import:pilot": "node scripts/import-pilot.mjs"
   },
   "dependencies": {

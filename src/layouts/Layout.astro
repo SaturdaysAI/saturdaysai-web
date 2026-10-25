@@ -10,7 +10,7 @@ import MediaEnhancement from '../components/MediaEnhancement.astro';
 import { validateSiteData } from '../lib/site-data';
 import { url } from '../lib/content';
 import { indexablePath, structuredJSON } from '../lib/seo.mjs';
-import { responsiveImage } from '../lib/responsive-images';
+import { socialCard } from '../lib/social-cards';
 validateSiteData();
 interface Props {
   title?: string;
@@ -23,17 +23,16 @@ interface Props {
 const {
   title = 'Learn AI. Build something that matters.',
   description = 'A global, non-profit community making artificial intelligence accessible to everyone. Learn by doing, build projects with social impact and find your people.',
-  image = '/social-card.png',
   language = 'en',
   article = false,
-  imageAlt = title,
 } = Astro.props;
 const preview = import.meta.env.PUBLIC_SITE_MODE !== 'production';
 const site = Astro.site || new URL('https://saturdays.ai');
 const canonical = new URL(Astro.url.pathname, site);
 const noindex = preview || !indexablePath(Astro.url.pathname, import.meta.env.BASE_URL);
 const home = new URL(url('/'), site).href;
-const socialImage = responsiveImage(image, { width: 1200, height: 630 });
+const socialImage = new URL(url(socialCard(Astro.url.pathname, import.meta.env.BASE_URL)), site);
+const socialAlt = `Saturdays.AI: ${title}. Aprende IA y crea proyectos con impacto social.`;
 const organization = {
   '@type': 'Organization',
   '@id': `${home}#organization`,
@@ -89,10 +88,12 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <meta property="og:description" content={description} />
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content={new URL(url(image), site)} />
-    <meta property="og:image:alt" content={imageAlt} />
-    <meta property="og:image:width" content={String(socialImage.width)} />
-    <meta property="og:image:height" content={String(socialImage.height)} />
+    <meta property="og:image" content={socialImage} />
+    <meta property="og:image:secure_url" content={socialImage} />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:alt" content={socialAlt} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="Saturdays.AI" />
     <meta
       property="og:locale"
@@ -103,8 +104,8 @@ const isActive = (path: string) => Astro.url.pathname.startsWith(url(path));
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={`${title} | Saturdays.AI`} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={new URL(url(image), site)} />
-    <meta name="twitter:image:alt" content={imageAlt} />
+    <meta name="twitter:image" content={socialImage} />
+    <meta name="twitter:image:alt" content={socialAlt} />
     <script type="application/ld+json" set:html={structuredJSON(pageGraph)} />
     <link
       rel="alternate"

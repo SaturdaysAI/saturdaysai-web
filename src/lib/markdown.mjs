@@ -3,12 +3,13 @@ import sanitizeHtml from 'sanitize-html';
 import { load } from 'cheerio';
 
 /** @param {string} body
- * @param {{rewrite?:(value:string)=>string, imageInfo?:(src:string)=>Promise<{width:number,height:number}|null>, galleries?:boolean, leadImage?:string}} options
+ * @param {{rewrite?:(value:string)=>string, imageIdentity?:(value:string)=>string, imageInfo?:(src:string)=>Promise<{width:number,height:number,srcset?:string,sizes?:string}|null>, galleries?:boolean, leadImage?:string}} options
  */
 export async function renderMarkdown(
   body = '',
   {
     rewrite = (value) => value,
+    imageIdentity = (value) => value,
     imageInfo = async () => null,
     galleries = false,
     leadImage = '',
@@ -43,16 +44,26 @@ export async function renderMarkdown(
     },
   });
   const $ = load(safe, null, false);
-  const first = $.root().children().first();
-  if (
-    leadImage &&
-    first.is('p') &&
-    !first.text().trim() &&
-    first.children().length === 1 &&
-    first.children('img').attr('src') === rewrite(leadImage)
-  )
-    first.remove();
+  // WordPress often repeats its featured image after introductory paragraphs or
+  // uses a second crop of the same upload. Keep captions and linked resources.
+  if (leadImage) {
+    const cover = imageIdentity(rewrite(leadImage));
+    $.root()
+      .children('p')
+      .each((_, paragraph) => {
+        const el = $(paragraph);
+        const source = el.children('img').attr('src');
+        if (
+          !el.text().trim() &&
+          el.children().length === 1 &&
+          source &&
+          imageIdentity(source) === cover
+        )
+          el.remove();
+      });
+  }
   const toc = [];
+  const headingStack = [];
   $('h1,h2,h3,h4').each((index, heading) => {
     const el = $(heading);
     const text = el.text().replace(/\s+/g, ' ').trim();
@@ -63,7 +74,12 @@ export async function renderMarkdown(
     }
     // Retain the existing section IDs while excluding empty builder headings from navigation.
     el.attr('id', id);
-    if (heading.name === 'h1') heading.tagName = 'h2';
+    const originalLevel = Number(heading.name.slice(1));
+    while (headingStack.length && headingStack.at(-1).originalLevel >= originalLevel)
+      headingStack.pop();
+    const level = (headingStack.at(-1)?.level || 1) + 1;
+    headingStack.push({ originalLevel, level });
+    heading.tagName = `h${Math.min(level, 6)}`;
     toc.push({
       id,
       text: sanitizeHtml(el.html() || '', { allowedTags: [], allowedAttributes: {} }).trim(),
@@ -83,6 +99,11 @@ export async function renderMarkdown(
         el.attr({ loading: 'lazy', decoding: 'async' });
         if (size?.width && size?.height)
           el.attr({ width: String(size.width), height: String(size.height) });
+        if (size?.srcset)
+          el.attr({
+            srcset: size.srcset,
+            sizes: size.sizes || '(max-width: 1000px) calc(100vw - 36px), 760px',
+          });
       }),
   );
   $('a').each((_, anchor) => {

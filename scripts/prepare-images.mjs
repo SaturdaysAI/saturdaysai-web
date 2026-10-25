@@ -8,10 +8,13 @@ import YAML from 'yaml';
 const output = 'public/media/responsive';
 await fs.mkdir(output, { recursive: true });
 const sources = new Set();
+sources.add('/brand/logo-orange.webp');
 for (const collection of ['posts', 'pages']) {
   for (const name of await fs.readdir(`src/content/${collection}`)) {
     if (!name.endsWith('.md')) continue;
     const text = await fs.readFile(`src/content/${collection}/${name}`, 'utf8');
+    for (const match of text.matchAll(/\/media\/[\w.-]+\.(?:webp|png|jpe?g)/gi))
+      sources.add(match[0]);
     const data = YAML.parse(text.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] || '');
     if (data?.image) sources.add(data.image);
   }
@@ -24,12 +27,12 @@ cities.cities.forEach((city) => {
   if (city.image) sources.add(city.image);
 });
 const manifest = {};
-const mediaRoot = path.resolve('public/media');
+const publicRoot = path.resolve('public');
 const queue = [...sources].filter(
   (src) =>
     typeof src === 'string' &&
-    /^\/media\/.+\.(webp|png|jpe?g)$/i.test(src) &&
-    path.resolve('public', src.slice(1)).startsWith(mediaRoot + path.sep),
+    /^\/(media|brand)\/.+\.(webp|png|jpe?g)$/i.test(src) &&
+    path.resolve('public', src.slice(1)).startsWith(publicRoot + path.sep),
 );
 let cursor = 0,
   generated = 0;
@@ -47,7 +50,7 @@ await Promise.all(
       };
       const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
       const variants = [];
-      for (const width of [480, 960]) {
+      for (const width of src.startsWith('/brand/') ? [200, 400] : [480, 720, 960]) {
         if (width >= dimensions.width) continue;
         const target = `${output}/${hash}-${width}.webp`;
         try {

@@ -89,6 +89,25 @@ for (const file of htmlFiles) {
   });
   if (!$('title').text() || !$('meta[name=description]').attr('content'))
     errors.push(`${rel}: missing SEO metadata`);
+  const social = $('meta[property="og:image"]');
+  const socialURL = social.attr('content');
+  if (
+    social.length !== 1 ||
+    !socialURL ||
+    !socialURL.startsWith(siteOrigin.replace(/\/$/, '') + base + '/social/')
+  )
+    errors.push(`${rel}: missing branded social card`);
+  else {
+    const asset = new URL(socialURL).pathname.slice(base.length + 1);
+    if (!known.has(asset)) errors.push(`${rel}: social card file missing`);
+  }
+  if (
+    $('meta[property="og:image:width"]').attr('content') !== '1200' ||
+    $('meta[property="og:image:height"]').attr('content') !== '630'
+  )
+    errors.push(`${rel}: incorrect social card dimensions`);
+  if ($('meta[name="twitter:image"]').attr('content') !== socialURL)
+    errors.push(`${rel}: inconsistent social preview`);
   const route =
     rel === 'index.html'
       ? '/'

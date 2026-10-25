@@ -1,14 +1,16 @@
 ---
 import { url } from '../lib/content';
+import ResponsiveImage from './ResponsiveImage.astro';
 ---
 
 <a class="brand" href={url('/')} aria-label="Saturdays.AI home">
-  <img
+  <ResponsiveImage
     class="brand-logo"
-    src={url('/brand/logo-orange.webp')}
+    src="/brand/logo-orange.webp"
     alt="Saturdays.AI"
-    width="800"
-    height="302"
-    decoding="async"
+    width={800}
+    height={302}
+    sizes="(max-width: 580px) 158px, 170px"
+    loading="eager"
   />
 </a>

@@ -74,7 +74,17 @@ BASE_PATH=/saturdaysai-web
 PUBLIC_SITE_MODE=preview
 ```
 
-The preview is noindex and robots.txt disallows crawling. There is no CNAME or automatic production cutover. Connecting the production domain is a separate decision after reviewing the preview and remaining source gaps. Preserve course subdomains and email DNS records during any eventual cutover.
+The preview is noindex and robots.txt disallows search crawlers while allowing named social preview crawlers (WhatsApp, Facebook, Twitter and LinkedIn). There is no CNAME or automatic production cutover. Connecting the production domain is a separate decision after reviewing the preview and remaining source gaps. Preserve course subdomains and email DNS records during any eventual cutover.
+
+## Mobile reading and sharing assets
+
+The shared article layout keeps reading tools in normal flow above the text below 1001px. Do not add unlayered rules for `.article-aside`: they override the brand layer and can place the text and controls in the same grid cell.
+
+`npm run assets` generates responsive versions of cover and body images, plus 1200 x 630 branded JPEG sharing cards. New published CMS entries receive a card automatically; drafts and future articles are excluded. Image URLs include a content hash so updated cards get a new URL. Previously shared messages may retain the platform's cached preview.
+
+Sharing cards use the original logo and a bundled Montserrat font from the Google Fonts repository (`ofl/montserrat`), licensed under the included SIL Open Font License in `scripts/assets/`. Text is rasterized directly; do not use SVG `foreignObject`, which produced blank text in the previous export. `verify-social-cards.mjs` verifies dimensions, file size and visible logo/title pixels.
+
+The renderer suppresses standalone repeats of the featured image, including known WordPress resized variants from the migration manifest. Linked images, captions and unrelated images remain. Source Markdown is not deleted or rewritten.
 
 To undo an edit, revert its Git commit and allow the validated deployment to run. Do not rerun migration scripts over editorial work. The scripts in `scripts/` record the one-time migration process and depend on ignored raw snapshots/brand originals; ordinary maintenance uses Markdown, Pages CMS and the shared components.
 

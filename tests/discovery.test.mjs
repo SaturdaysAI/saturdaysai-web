@@ -1,4 +1,5 @@
 import test from 'node:test';
+import { originalImageIdentity } from '../src/lib/image-identity.mjs';
 import assert from 'node:assert/strict';
 import { relatedPosts } from '../src/lib/recommendations.mjs';
 import { mediaProvider, findMedia, episodeInfo } from '../src/lib/media.mjs';
@@ -114,12 +115,50 @@ test('duplicate cover removal preserves linked images, captions and other pictur
     options,
   );
   assert.doesNotMatch(duplicate.html, /<img/);
+  const afterIntro = await renderMarkdown(
+    'First paragraph.\n\nSecond paragraph.\n\n![Cover](/media/cover.webp)\n\n## Next section\n\n![Other](/media/other.webp)',
+    options,
+  );
+  assert.doesNotMatch(afterIntro.html, /src="\/preview\/media\/cover.webp"/);
+  assert.match(afterIntro.html, /Second paragraph/);
+  assert.match(afterIntro.html, /src="\/preview\/media\/other.webp"/);
+  const variant = await renderMarkdown('![Crop](/media/crop.webp)\n\nPrompt: original caption', {
+    ...options,
+    imageIdentity: (src) => src.replace('crop.webp', 'cover.webp'),
+  });
+  assert.doesNotMatch(variant.html, /<img/);
+  assert.match(variant.html, /original caption/);
   for (const body of [
     '[![Cover](/media/cover.webp)](https://example.com/)',
     '![Cover](/media/cover.webp)\nCaption.',
     '![Other](/media/other.webp)',
   ])
     assert.match((await renderMarkdown(body, options)).html, /<img/);
+});
+
+test('WordPress image crops resolve to the same original without merging unrelated uploads', () => {
+  assert.equal(
+    originalImageIdentity('https://saturdays.ai/wp-content/uploads/2023/05/photo-scaled.jpg'),
+    originalImageIdentity('https://saturdays.ai/wp-content/uploads/2023/05/photo-1024x1024.jpg'),
+  );
+  assert.notEqual(
+    originalImageIdentity('/uploads/2023/photo.jpg'),
+    originalImageIdentity('/uploads/2024/photo.jpg'),
+  );
+});
+
+test('legacy heading jumps are normalized while section anchors remain stable', async () => {
+  const { html, toc } = await renderMarkdown(
+    '#### First\n\n#### Second\n\n## Third\n\n#### Child\n\n### Sibling',
+  );
+  assert.deepEqual(
+    [...html.matchAll(/<h(\d) id/g)].map((m) => Number(m[1])),
+    [2, 2, 2, 3, 3],
+  );
+  assert.deepEqual(
+    toc.map((item) => item.id),
+    ['section-1', 'section-2', 'section-3', 'section-4', 'section-5'],
+  );
 });
 
 test('published update dates must reflect an actual update after publication', () => {

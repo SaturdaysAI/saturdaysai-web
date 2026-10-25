@@ -1881,22 +1881,6 @@
     grid-template-columns: minmax(0, 1fr);
     gap: 20px;
   }
-  .article-aside {
-    position: static;
-    border-left: 0;
-    border-top: 1px solid var(--line);
-    padding: 25px 0 0;
-    grid-row: 2;
-  }
-  .article-aside nav {
-    display: none;
-  }
-  .article-aside h2 {
-    display: none;
-  }
-  .article-aside .button {
-    margin-top: 0;
-  }
   .article-header {
     padding-top: 35px;
   }

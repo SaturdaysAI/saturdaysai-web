@@ -740,6 +740,23 @@
     min-height: 44px;
     margin-top: 8px;
   }
+  .article-share-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .article-share-actions .button {
+    padding: 10px 12px;
+    font-size: 0.75rem;
+  }
+  .post-meta,
+  .post-byline {
+    flex-wrap: wrap;
+  }
+  .post-meta .tag {
+    max-width: 100%;
+    white-space: normal;
+  }
   .more-resources {
     margin-top: 20px;
     font-weight: 600;

@@ -265,15 +265,32 @@ const breadcrumbs = breadcrumbSchema([
         <div class="container article-shell">
           <aside class="article-aside reading-navigation" aria-label={copy.tools}>
             <TableOfContents items={toc} label={copy.contents} />
-            <button
-              class="button button-outline"
-              data-copy-link
-              data-success={copy.success}
-              data-error={copy.error}
-            >
-              <Icon name="copy" size={16} />
-              {copy.copy}
-            </button>
+            <div class="article-share-actions">
+              <button
+                class="button button-outline"
+                data-copy-link
+                data-success={copy.success}
+                data-error={copy.error}
+              >
+                <Icon name="copy" size={16} />
+                {copy.copy}
+              </button>
+              <a
+                class="button button-outline"
+                href={`https://wa.me/?text=${encodeURIComponent(`${p.title} | Saturdays.AI\n${new URL(Astro.url.pathname, Astro.site).href}`)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={
+                  {
+                    es: 'Compartir por WhatsApp',
+                    en: 'Share on WhatsApp',
+                    pt: 'Partilhar no WhatsApp',
+                  }[p.language]
+                }
+              >
+                WhatsApp <Icon name="northeast" size={16} />
+              </a>
+            </div>
             <span class="copy-status" role="status" data-copy-status></span>
           </aside>
           <div class="reading-body">
