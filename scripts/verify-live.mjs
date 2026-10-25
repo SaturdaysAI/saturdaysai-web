@@ -73,9 +73,23 @@ async function certificate(host) {
 for (const host of [new URL(origin).hostname, 'www.' + new URL(origin).hostname]) {
   certificates.push(await certificate(host));
 }
-const files = await walk('dist');
+// A developer's image cache can retain superseded cards. A clean CI build only
+// publishes cards from the current manifest. Never treat that local history as
+// a missing production asset.
+const socialManifest = JSON.parse(await fs.readFile('dist/social/manifest.json', 'utf8'));
+const activeSocialCards = new Set([
+  ...Object.values(socialManifest).filter((value) => typeof value === 'string'),
+  ...Object.values(socialManifest.english || {}),
+]);
+const allFiles = await walk('dist');
+const files = allFiles.filter((file) => {
+  const route = '/' + path.relative('dist', file).replaceAll('\\', '/');
+  return !/^\/social\/[a-f0-9]+\.jpg$/.test(route) || activeSocialCards.has(route);
+});
+const excludedSupersededCards = allFiles.length - files.length;
 let next = 0;
 let htmlCount = 0;
+let checkedCount = 0;
 const htmlRoutes = new Set();
 await Promise.all(
   Array.from({ length: 6 }, async () => {
@@ -117,6 +131,9 @@ await Promise.all(
         }
         if ($('title').text() !== expected('title').text())
           fail(route, 'Deployed title differs from the production build');
+        const socialImage = $('meta[property="og:image"]').attr('content');
+        if (!socialImage || !activeSocialCards.has(new URL(socialImage, origin).pathname))
+          fail(route, 'Page references a card outside the current social manifest');
         if ($('h1').length !== 1) fail(route, 'Expected one page heading');
         if ($('.preview-banner').length) fail(route, 'Preview banner on production');
         const robots = $('meta[name=robots]').attr('content') || '';
@@ -143,9 +160,11 @@ await Promise.all(
         });
       } catch (error) {
         fail(route, error.cause?.code || error.message);
+      } finally {
+        checkedCount++;
+        if (checkedCount % 500 === 0)
+          console.log(`Checked ${checkedCount}/${files.length} public files`);
       }
-      if (results.length % 500 === 0)
-        console.log(`Checked ${results.length}/${files.length} public files`);
     }
   }),
 );
@@ -209,6 +228,8 @@ const report = {
   strictTLS: true,
   certificates,
   checkedFiles: results.length,
+  activeSocialCards: activeSocialCards.size,
+  excludedSupersededCards,
   htmlCount,
   sitemapURLs: sitemapURLs.length,
   redirects,
