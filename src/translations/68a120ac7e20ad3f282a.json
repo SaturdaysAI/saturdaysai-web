@@ -10,9 +10,14 @@
     },
     {
       "source": "Available in Spanish only",
-      "en": "Available in Spanish only",
-      "es": "Available in Spanish only",
-      "reviewed": false
+      "en": "Audio available in Spanish only",
+      "es": "Audio disponible solo en español",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¡Éste es nuestro blog! Aquí tienes artículos de divulgación, tutoriales y actualidad sobre la IA y Saturdays, seguro encuentras un artículo que te interesa, ¡échale un vistazo!",
@@ -26,6 +31,17 @@
       "en": "Articles, tutorials and news about artificial intelligence and the Saturdays.AI community.",
       "es": "Artículos, tutoriales y novedades sobre inteligencia artificial y la comunidad Saturdays.AI.",
       "reviewed": true
+    },
+    {
+      "source": "Artículos, tutoriales y experiencias sobre inteligencia artificial y la comunidad Saturdays.AI.",
+      "en": "Articles, tutorials and experiences about artificial intelligence and the Saturdays.AI community.",
+      "es": "Artículos, tutoriales y experiencias sobre inteligencia artificial y la comunidad Saturdays.AI.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

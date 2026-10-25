@@ -1,9 +1,6 @@
 ---
-title: About
-description: We are a community on a mission to make AI accessible to anyone. We
-  connect the ecosystem of experts, individuals and organizations through
-  communities to create social impact with AI.We have helped more than 30,000
-  people to…
+title: About Saturdays.AI
+description: Saturdays.AI brings people together to learn artificial intelligence and build projects with social impact. We have helped more than 30,000 AI fellows on their learning journey.
 image: /media/ab85ea54a1691b1f.webp
 legacyPath: /about/
 sourceUrl: https://saturdays.ai/about/
@@ -13,11 +10,11 @@ draft: false
 kind: page
 ---
 
-## We are a community on a mission to make AI accessible to anyone.
+## Our community: learn, build and share
 
-We connect the ecosystem of experts, individuals and organizations through communities to create social impact with AI.
+Saturdays.AI began with a simple idea: learning artificial intelligence is more meaningful when we do it together and apply it to something that matters. We bring together learners, mentors and organisations to turn curiosity into practical skills and projects with social impact.
 
-We have helped more than 30,000 people to get into AI, supported the creation of hundreds of social impact AI projects, and have communities in 12 countries around the world.
+We have helped more than 30,000 AI fellows on their learning journey. They are the people at the heart of our community: people starting out, changing careers, sharing their experience or exploring a new idea. Our impact begins with what they learn and grows through what they build and share.
 
 ![](/media/ab85ea54a1691b1f.webp)
 
@@ -27,19 +24,20 @@ We have helped more than 30,000 people to get into AI, supported the creation of
 
 ![](/media/b2c66986e8a798f4.webp)
 
-## Our Mission
+## Our mission: AI4ALL IS AI4GOOD
 
-At Saturdays.AI we want to make AI accessible to everyone through the formation of **communities**.
+We want to make AI accessible to more people and help them use it with purpose. That means learning in a supportive community, asking good questions and building projects that respond to real needs.
 
-We have designed our flagship programme, AI Saturdays, suitable for anyone that wants to start in AI. It takes students **12 to 15 Saturdays** to learn ML techniques and end up creating their **own project** in AI. Everything with the guide and support of the community during the whole process. 
+Our flagship programme, **AI Saturdays**, combines practical sessions, mentor support and a project built in a team. Editions typically run over 12 to 15 Saturdays and end with a Demo Day to share the work. Each local team confirms its format, prerequisites and dates.
 
-We also offer courses exclusively for **schools** **and businesses** that want to lead in AI and we organise other initiatives such as talks, our own podcast or events in our community to bring AI closer and motivate the creation of real projects. 
+There is more than one way to begin. Explore our learning resources, find a local community, discover a project or listen to the podcast. Schools and organisations can contact us to explore ways to collaborate.
 
--   To promote knowledge of new technologies
+- Learn by doing, with support from others.
+- Share knowledge and encourage open technology.
+- Connect different backgrounds and perspectives.
+- Put people and social impact at the centre of each project.
 
--   To advocate open technology initiatives
--   To bring the professional world closer to our community
--   To support organizations and events that share our values
+[Find your community](https://saturdays.ai/cities/) or [start learning](https://saturdays.ai/online/).
 
 
 
@@ -49,9 +47,9 @@ We also offer courses exclusively for **schools** **and businesses** that want t
 
 ### Miguel Guerrero
 
-**CEO & Founder**
+**Founder & President**
 
-I founded Saturdays.AI so I could learn Deep Learning while building impact projects. I currently  serve as president and help with the daily operations and the strategy in order to fulfill our mission. I’m a Data Geek with extensive management experience in industrial and technology companies. I’m also a MBA Graduate from HEC Paris and Wharton, with a track-record as an entrepreneur for mission-driven initiatives, and a part-time professor of Applied AI. Passionate about how technology empowers everyone to achieve great things, I’m on a quest to build a better tomorrow for my 3 children. 
+I founded Saturdays.AI to learn deep learning while building projects with social impact. As founder and president, I help shape our strategy and support the day-to-day work that turns our mission into action. I believe technology becomes more useful when more people can understand it, question it and build with it.
 
 [Linkedin](https://www.linkedin.com/in/miguelguer/) [Twitter](https://twitter.com/apolmig)
 
@@ -59,7 +57,7 @@ I founded Saturdays.AI so I could learn Deep Learning while building impact proj
 
 ### Jan Carbonell
 
-**Chairman & Co-founder**
+**Co-founder**
 
 I co-founded Saturdays.AI back in 2018 willing to learn Deep Learning within a community of makers. More about me: I am a self-taught developer and former strategy consultant. My previous projects include an underwater augmented reality experience and a wearable to facilitate the navigation of the visually impaired from which I was nominated to the MIT Under 35. I’m actively involved in the Barcelona Entrepreneurship Scene through Startup Weekend, Global Shapers and StartupGrind among others.
 

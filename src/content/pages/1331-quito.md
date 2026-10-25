@@ -1,9 +1,6 @@
 ---
 title: Quito
-description: "Saturdays.AI - Quito Impulsando la Inteligencia Artificial en
-  Quito con impacto social. Cuando: 3ª edición en 2021Donde: OnlinePrograma:
-  Machine Learning, Deep Learning, Reinforcement Learning ¿No sabes Python?
-  ¿Cómo es la…"
+description: "Descubre la comunidad de Saturdays.AI en Quito. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/599744acbb56a2cb.webp
 legacyPath: /quito/
 sourceUrl: https://saturdays.ai/quito/

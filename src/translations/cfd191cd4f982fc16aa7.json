@@ -13,26 +13,51 @@
     {
       "source": "Contact us at info@saturdays.ai",
       "en": "Contact us at info@saturdays.ai",
-      "es": "Contáctenos a info@saturdays.ai",
+      "es": "Contáctenos en info@saturdays.ai",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Contact us at",
       "en": "Contact us at",
-      "es": "Contacta con nosotros",
+      "es": "Contáctenos en",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Contact the community team →",
       "en": "Contact the community team →",
-      "es": "Contactar con el equipo comunitario →",
-      "reviewed": false,
+      "es": "Contacta con el equipo de la comunidad →",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     }
   ]
 }

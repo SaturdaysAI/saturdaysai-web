@@ -55,8 +55,13 @@
     {
       "source": "No projects found.",
       "en": "No projects found.",
-      "es": "No se encontraron proyectos.",
-      "reviewed": false
+      "es": "No encontramos proyectos con esa búsqueda.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Show all projects",
@@ -92,10 +97,15 @@
     },
     {
       "source": "Discover real projects built by the Saturdays.AI community: practical applications of artificial intelligence for social good.",
-      "en": "Discover real projects built by the Saturdays.AI community: practical applications of artificial intelligence for social good.",
-      "es": "Descubra proyectos reales creados por la comunidad Saturdays.AI: aplicaciones prácticas de la inteligencia artificial para el bien social.",
-      "reviewed": false,
-      "sourceLanguage": "en"
+      "en": "Discover projects built by the Saturdays.AI community: practical applications of artificial intelligence for social good.",
+      "es": "Descubre proyectos de la comunidad Saturdays.AI: aplicaciones prácticas de la inteligencia artificial para el bien común.",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AI projects with a purpose",

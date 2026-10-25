@@ -210,11 +210,21 @@
     {
       "source": "Sign Up for Student Developer Pack",
       "en": "Sign Up for Student Developer Pack",
-      "es": "Regístrate para Student Developer Pack",
+      "es": "Regístrese para el paquete de desarrollador para estudiantes",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "SignUp",

@@ -31,19 +31,39 @@
     {
       "source": "Feb 2, 2022",
       "en": "Feb 2, 2022",
-      "es": "Febrero 2, 2022",
+      "es": "2 de febrero de 2022",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Stories, projects and conversations from Saturdays.AI about 2022 / 02.",
       "en": "Stories, projects and conversations from Saturdays.AI about 2022 / 02.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI unos 2022 / 02.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre 2022/02.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2022 / 02",

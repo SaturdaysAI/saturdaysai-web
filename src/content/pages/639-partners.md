@@ -1,9 +1,6 @@
 ---
 title: Partners
-description: Partners Your organization on Saturdays.AI Our partners ¿What is
-  Saturdays.AI? Saturdays.AI is a leading social impact organization dedicated
-  to democratize artificial intelligence (AI4All), while building open-source
-  projects…
+description: "Colabora con Saturdays.AI para acercar la inteligencia artificial a más personas y apoyar el aprendizaje y los proyectos con impacto social."
 image: /media/a2ec70fdcbd9ae3e.webp
 legacyPath: /partners/
 sourceUrl: https://saturdays.ai/partners/

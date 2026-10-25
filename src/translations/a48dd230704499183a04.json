@@ -84,18 +84,40 @@
     {
       "source": "Digital art of a robot at a desk, typing a story on an old typewriter",
       "en": "Digital art of a robot at a desk, typing a story on an old typewriter",
-      "es": "Arte digital de un robot en un escritorio, escribiendo una historia sobre un viejo máquina de escribir",
+      "es": "Arte digital de un robot en un escritorio, escribiendo una historia en una vieja máquina de escribir",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt: Digital art of a robot at a desk, typing a story on an old typewriter",
       "en": "Prompt: Digital art of a robot at a desk, typing a story on an old typewriter",
-      "es": "Prompt: Arte digital de un robot en un escritorio, escribiendo una historia sobre un viejo máquina de escribir",
+      "es": "Mensaje: Arte digital de un robot en un escritorio, escribiendo una historia en una vieja máquina de escribir",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ha experimentado un crecimiento exponencial en los últimos años, y su impacto en la creación de contenidos en redes sociales es innegable.",
@@ -233,10 +255,21 @@
     {
       "source": "Prompt: a robot helping a human programmer. Both programming together, with several monitors.",
       "en": "Prompt: a robot helping a human programmer. Both programming together, with several monitors.",
-      "es": "Prompt: un robot que ayuda a un programador humano. Ambos programando juntos, con varios monitores.",
+      "es": "Mensaje: un robot ayudando a un programador humano. Ambos programando juntos, con varios monitores.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para abordar estos desafíos, los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque proactivo y colaborativo.",
@@ -370,18 +403,40 @@
     {
       "source": "Chesney, R., & Citron, D. K. (2018). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753-1809.",
       "en": "Chesney, R., & Citron, D. K. (2018). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753-1809.",
-      "es": "Chesney, R., &quot; Citron, D. K. (2018). Fosas profundas: Un desafío inminente para la privacidad, la democracia y la seguridad nacional. California Law Review, 107, 1753-1809.",
+      "es": "Chesney, R. y Citron, DK (2018). Deep fakes: un desafío inminente para la privacidad, la democracia y la seguridad nacional. Revisión de la ley de California, 107, 1753-1809.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., … & Trench, M. (2017). Artificial intelligence: The next digital frontier?. McKinsey Global Institute.",
       "en": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., … & Trench, M. (2017). Artificial intelligence: The next digital frontier?. McKinsey Global Institute.",
-      "es": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., ... &quot; Trench, M. (2017). Inteligencia artificial: ¿La próxima frontera digital?. Instituto Global McKinsey.",
+      "es": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P.,… y Trench, M. (2017). Inteligencia artificial: ¿la próxima frontera digital?. Instituto Global McKinsey.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "es hacer la inteligencia artificial más accesible",

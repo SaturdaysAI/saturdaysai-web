@@ -1,6 +1,6 @@
 ---
 title: Aprende AI en Remoto
-description: A.I. in Tech Cloud - Three.js Animation
+description: "Encuentra tu itinerario para aprender IA a distancia: Python, ciencia de datos, IA generativa y proyectos prácticos."
 image: ""
 legacyPath: /aprende-ai-en-remoto/
 sourceUrl: https://saturdays.ai/aprende-ai-en-remoto/

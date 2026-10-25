@@ -1,9 +1,6 @@
 ---
 title: AI 4 Business
-description: AI 4 Business Corporate Training and top tier AI Consulting for
-  organizations that want to lead in the current technology revolution CONTACT
-  Coding Deep dive on what you really need and the technical way to do it
-  Business…
+description: "Aprendizaje práctico de inteligencia artificial para equipos y organizaciones. Consulta con Saturdays.AI cómo desarrollar una colaboración."
 image: /media/e0bfe8189441fd7c.webp
 legacyPath: /ai-4-business/
 sourceUrl: https://saturdays.ai/ai-4-business/

@@ -100,18 +100,40 @@
     {
       "source": "a hyper-realistic photo of a group of engineers writing text",
       "en": "a hyper-realistic photo of a group of engineers writing text",
-      "es": "una foto hiperrealista de un grupo de ingenieros escribiendo texto",
+      "es": "una foto hiperrealista de un grupo de ingenieros escribiendo un texto",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt: a hyper-realistic photo of a group of engineers writing text",
       "en": "Prompt: a hyper-realistic photo of a group of engineers writing text",
-      "es": "Prompt: una foto hiper-realista de un grupo de ingenieros escribiendo texto",
+      "es": "Mensaje: una foto hiperrealista de un grupo de ingenieros escribiendo un texto",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La ingeniería de prompts es un proceso de optimización y personalización de instrucciones o «prompts» para mejorar la interacción entre humanos y los modelos de lenguaje de inteligencia artificial (IA). Un «prompt» es básicamente la pregunta o instrucción que le damos a la IA. El objetivo de la ingeniería de prompts es hacer que las respuestas de los modelos de lenguaje sean más precisas, útiles y pertinentes, diseñando prompts que guíen eficientemente a la IA hacia la generación de la respuesta deseada.",
@@ -242,10 +264,21 @@
     {
       "source": "Prompt: whimsical portrait of remote usability research test",
       "en": "Prompt: whimsical portrait of remote usability research test",
-      "es": "Prompt: retrato caprichoso de la prueba de investigación de usabilidad remota",
+      "es": "Mensaje: retrato caprichoso de una prueba de investigación de usabilidad remota",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En resumen, la ingeniería de prompts es un componente crucial en la interacción efectiva bcon los modelos de lenguaje de IA. Al optimizar los prompts, podemos obtener respuestas más precisas, útiles y relevantes de estos modelos, mejorando su utilidad en una amplia variedad de aplicaciones.",

@@ -786,11 +786,21 @@
     {
       "source": ": Machine Learning y Deep Learning",
       "en": ": Machine Learning y Deep Learning",
-      "es": ": Aprendizaje de la máquina y Aprendizaje profundo",
+      "es": ": Aprendizaje Automático y Aprendizaje Profundo",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "* 25% de dto. usando el código",
@@ -916,12 +926,22 @@
     },
     {
       "source": "Conoce los alumnos de la 1ª edición",
-      "en": "Meet the students of the first edition",
+      "en": "Meet the students of the 1st edition",
       "es": "Conoce los alumnos de la 1ª edición",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Con la crisis del covid-19 desde Saturdays.AI aprendimos a crear la mejor expeirencia online posible con networking, mentores y ejercicios prácticos. El video representa la experiencia de AI Saturdays Madrid.",
@@ -1110,6 +1130,50 @@
       "en": "Community lead and mentor",
       "es": "Líder & Mentora",
       "reviewed": true
+    },
+    {
+      "source": "Una comunidad que conecta Latinoamérica",
+      "en": "A community connecting Latin America",
+      "es": "Una comunidad que conecta Latinoamérica",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays Online acerca el aprendizaje práctico de la IA a personas de distintos países de Latinoamérica. Aprendemos con otras personas, compartimos los retos y construimos un proyecto en equipo.",
+      "en": "AI Saturdays Online brings hands-on AI learning to people across Latin America. We learn with others, share challenges and build a project as a team.",
+      "es": "AI Saturdays Online acerca el aprendizaje práctico de la IA a personas de distintos países de Latinoamérica. Aprendemos con otras personas, compartimos los retos y construimos un proyecto en equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Aquí encontrarás el archivo de ediciones anteriores. Los horarios, requisitos y fechas de una nueva edición deben confirmarse con el equipo organizador.",
+      "en": "This page brings together previous editions. Confirm the schedule, prerequisites and dates of any new edition with the organising team.",
+      "es": "Aquí encontrarás el archivo de ediciones anteriores. Los horarios, requisitos y fechas de una nueva edición deben confirmarse con el equipo organizador.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays Online en Latinoamérica: aprendizaje práctico, mentores y proyectos de IA con impacto social. Consulta las próximas ediciones con el equipo.",
+      "en": "AI Saturdays Online in Latin America: practical learning, mentors and AI projects with social impact. Ask the team about upcoming editions.",
+      "es": "AI Saturdays Online en Latinoamérica: aprendizaje práctico, mentores y proyectos de IA con impacto social. Consulta las próximas ediciones con el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

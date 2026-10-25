@@ -319,9 +319,20 @@
     {
       "source": "‘Social Media and Depression Symptoms: A Network Perspective’",
       "en": "‘Social Media and Depression Symptoms: A Network Perspective’",
-      "es": "‘Simpuestos de Medios Sociales y Depresión: Una Perspectiva de Red’",
+      "es": "'Las redes sociales y los síntomas de la depresión: una perspectiva de la red'",
       "reviewed": false,
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "DOI:10.1037/xge0000528",

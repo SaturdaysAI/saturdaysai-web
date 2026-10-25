@@ -90,20 +90,40 @@
     {
       "source": "one line drawing of robot playing electronic music",
       "en": "one line drawing of robot playing electronic music",
-      "es": "una línea de dibujo de robot tocando música electrónica",
+      "es": "dibujo de una línea de robot tocando música electrónica",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt: one line drawing of robot playing electronic music",
       "en": "Prompt: one line drawing of robot playing electronic music",
-      "es": "Prompt: un dibujo de línea de robot tocando música electrónica",
+      "es": "Mensaje: dibujo de una línea de un robot tocando música electrónica",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La IA ha comenzado a desempeñar un papel significativo en la medicina, con tecnologías que van desde la identificación de enfermedades hasta la mejora de los cuidados del paciente. Los algoritmos de IA, por ejemplo, pueden analizar grandes cantidades de datos de pacientes, detectar patrones y prever el desarrollo de enfermedades con una precisión asombrosa. En la lucha contra el cáncer, la IA ya ha demostrado su capacidad para identificar tumores en imágenes médicas con una precisión que rivaliza con la de los profesionales humanos.",
@@ -188,10 +208,20 @@
     {
       "source": "Prompt: An artist robot holding a paintbrush is painting a masterpiece on a canvas, rear view",
       "en": "Prompt: An artist robot holding a paintbrush is painting a masterpiece on a canvas, rear view",
-      "es": "Prompt: Un robot artista que sostiene un pincel está pintando una obra maestra sobre un lienzo, vista trasera",
+      "es": "Mensaje: Un robot artista que sostiene un pincel está pintando una obra maestra sobre un lienzo, vista trasera",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En la lucha contra el cambio climático, la IA tiene el potencial de ser una herramienta invaluable. Puede ayudar a modelar y predecir el impacto del cambio climático con mayor precisión y ayudar a optimizar las estrategias de mitigación. Por ejemplo, la IA puede analizar datos satelitales para monitorear la deforestación, la pérdida de glaciares y otras amenazas ambientales en tiempo real.",

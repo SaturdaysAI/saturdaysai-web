@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "Podcast T4/E1-Javier Ideami-El arte de la IA",
-      "en": "Podcast T4 / E1-Javier Ideami- Art of the IA",
-      "es": "Podcast T4/E1-Javier Ideami-El arte de la IA",
-      "reviewed": false,
+      "en": "Podcast S4/E1 – Javier Ideami – The art of AI",
+      "es": "Podcast T4/E1 – Javier Ideami – El arte de la IA",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "T4 / E1",
@@ -20,20 +25,40 @@
     },
     {
       "source": "En el episodio de hoy tendremos el placer de entrevistar a Javier Ideami, cofundador de «The Geniverse» entre muchos otros proyectos. Nos cuenta su visión acerca de la IA generativa, cómo cree que puede afectar la IA al mundo…",
-      "en": "In today's episode we will have the pleasure of interviewing Javier Ideami, co-founder of \"The Geniverse\" among many other projects. He tells us his vision of the generative IA, how he thinks it can affect the AI to the world...",
+      "en": "In today's episode we will have the pleasure of interviewing Javier Ideami, co-founder of \"The Geneverse\" among many other projects. He tells us his vision about generative AI, how he thinks AI can affect the world...",
       "es": "En el episodio de hoy tendremos el placer de entrevistar a Javier Ideami, cofundador de «The Geniverse» entre muchos otros proyectos. Nos cuenta su visión acerca de la IA generativa, cómo cree que puede afectar la IA al mundo…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "21 jul 2022",
-      "en": "21 Jul 2022",
+      "en": "July 21, 2022",
       "es": "21 de julio de 2022",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el episodio de hoy tendremos el placer de entrevistar a Javier Ideami, cofundador de",
@@ -54,21 +79,41 @@
     },
     {
       "source": "entre muchos otros proyectos. Nos cuenta su visión acerca de la IA generativa, cómo cree que puede afectar la IA al mundo del arte. También habla sobre el papel que debería tener la IA en el futuro.",
-      "en": "among many other projects. He tells us his vision of the generative IA, how he thinks it can affect the AI to the world of art. He also talks about the role that the IA should have in the future.",
+      "en": "among many other projects. He tells us his vision about generative AI, how he thinks AI can affect the art world. He also talks about the role AI should play in the future.",
       "es": "entre muchos otros proyectos. Nos cuenta su visión acerca de la IA generativa, cómo cree que puede afectar la IA al mundo del arte. También habla sobre el papel que debería tener la IA en el futuro.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasarte por nuestro perfil.",
-      "en": "If you want to know more about these issues, do not hesitate to listen to the podcast or go through our profile.",
+      "en": "If you want to know more about these topics, do not hesitate to listen to the podcast or visit our profile.",
       "es": "Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasarte por nuestro perfil.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sobre Javier",
@@ -88,107 +133,227 @@
     },
     {
       "source": "0:00-Introducción",
-      "en": "0: 00-Introduction",
+      "en": "0:00-Introduction",
       "es": "0:00-Introducción",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "1:14-Presentación Javier Ideami",
-      "en": "1: 14 - Presentation Javier Ideami",
+      "en": "1:14-Presentation Javier Ideami",
       "es": "1:14-Presentación Javier Ideami",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2:47-¿Qué querías ser de pequeño? Fijación en DaVinci y principio de pareto",
-      "en": "2: 47- What did you want to be when you were a child? Setting in DaVinci and the principle of pareto",
+      "en": "2:47-What did you want to be when you were little? Fixation on DaVinci and the Pareto principle",
       "es": "2:47-¿Qué querías ser de pequeño? Fijación en DaVinci y principio de pareto",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "6:20-¿Cuáles son tus inquietudes?",
-      "en": "6: 20 - What are your concerns?",
+      "en": "6:20-What are your concerns?",
       "es": "6:20-¿Cuáles son tus inquietudes?",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "9:15-¿Cómo utilizas la IA para generar arte y de que va Geniverse?",
-      "en": "9: 15 - How do you use IA to generate art and what is Geniverse about?",
+      "en": "9:15-How do you use AI to generate art and what is Geniverse about?",
       "es": "9:15-¿Cómo utilizas la IA para generar arte y de que va Geniverse?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "16:00-¿Cómo encaja la tecnología con el arte y la creatividad?",
-      "en": "16: 00 - How does technology fit into art and creativity?",
+      "en": "16:00-How does technology fit with art and creativity?",
       "es": "16:00-¿Cómo encaja la tecnología con el arte y la creatividad?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "24:00-¿ Hay paralelismos entre los modelos generativos y la mente humana?",
-      "en": "24: 00 - Is there parallels between the generative models and the human mind?",
+      "en": "24:00-Are there parallels between generative models and the human mind?",
       "es": "24:00-¿ Hay paralelismos entre los modelos generativos y la mente humana?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "37:07-Predicción sobre Dalle-2",
-      "en": "37: 07-Prediction on Dalle-2",
+      "en": "37:07-Prediction about Dalle-2",
       "es": "37:07-Predicción sobre Dalle-2",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "38:31-¿Te inquietan los riesgos de la IA?",
-      "en": "38: 3- Are you concerned about the risks of the IA?",
+      "en": "38:31-Are you concerned about the risks of AI?",
       "es": "38:31-¿Te inquietan los riesgos de la IA?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "44:48- Nuevas oportunidades para el arte",
-      "en": "44: 48- New opportunities for art",
+      "en": "44:48- New opportunities for art",
       "es": "44:48- Nuevas oportunidades para el arte",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "46:00-¿Qué recomendarías a alguien que quiere introducirse o desarrollarse en la IA?",
-      "en": "46: 00 - What would you recommend to someone who wants to enter or develop into the IA?",
+      "en": "46:00-What would you recommend to someone who wants to get into or develop AI?",
       "es": "46:00-¿Qué recomendarías a alguien que quiere introducirse o desarrollarse en la IA?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 jul 2022.",
-      "en": "A story of the Saturdays.AI. community originally published on 21 Jul 2022.",
+      "en": "A history of the Saturdays.AI community. Originally published on July 21, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 jul 2022.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

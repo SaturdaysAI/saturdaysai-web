@@ -1,9 +1,6 @@
 ---
 title: Guayaquil
-description: "Saturdays.AI - Madrid No hay muchas ciudades en el mundo que
-  superen a Madrid, destaca por su rica experiencia, ambiente y posibilidades.
-  Cuando: desde el 6 de marzo de 2021Donde: Attico CoWorkingPrograma: Machine
-  Learning,…"
+description: "Descubre la comunidad de Saturdays.AI en Guayaquil. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/edf0a7900db9aad6.webp
 legacyPath: /guayaquil/
 sourceUrl: https://saturdays.ai/guayaquil/

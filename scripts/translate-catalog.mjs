@@ -2,6 +2,7 @@
 // Only public site text is sent; translations are committed and editable in Pages CMS.
 import fs from 'node:fs/promises';
 import { normalize } from './lib/localization.mjs';
+import { protectTerms } from './lib/translation-terms.mjs';
 const names = (await fs.readdir('src/translations')).filter((name) => name.endsWith('.json'));
 const documents = await Promise.all(
   names.map(async (name) => ({
@@ -11,13 +12,14 @@ const documents = await Promise.all(
 );
 let translated = 0;
 async function translate(text, language, sourceLanguage = 'auto') {
+  const protectedText = protectTerms(text);
   const endpoint = new URL('https://translate.googleapis.com/translate_a/single');
   for (const [key, value] of Object.entries({
     client: 'gtx',
     sl: sourceLanguage,
     tl: language,
     dt: 't',
-    q: text.replace(/Saturdays\.?AI/g, 'SATURDAYS_BRAND'),
+    q: protectedText.text,
   }))
     endpoint.searchParams.set(key, value);
   for (let attempt = 0; attempt < 12; attempt++) {
@@ -36,7 +38,7 @@ async function translate(text, language, sourceLanguage = 'auto') {
       const result = data[0].map((part) => part[0] || '').join('');
       if (!result.trim()) throw new Error('Empty translation');
       await new Promise((resolve) => setTimeout(resolve, 1800));
-      return result
+      return protectedText.restore(result)
         .replaceAll('\u00b7', '-')
         .replace(/SATURDAYS[_\s]BRAND/gi, 'Saturdays.AI')
         .replace(/(?:Sábados|Sabados)\.?\s*AI/gi, 'Saturdays.AI');

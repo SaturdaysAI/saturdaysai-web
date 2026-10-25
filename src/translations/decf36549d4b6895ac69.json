@@ -4,12 +4,22 @@
   "segments": [
     {
       "source": "AIreySalud: Modelación de la calidad del aire con Inteligencia Artificial",
-      "en": "Aureand Health: Modeling air quality with Artificial Intelligence",
+      "en": "AIreySalud: Air quality modeling with Artificial Intelligence",
       "es": "AIreySalud: Modelación de la calidad del aire con Inteligencia Artificial",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "20 min de lectura",
@@ -21,47 +31,97 @@
     },
     {
       "source": "Latam online. Primera Edición. 2020 ¿Cómo adelantarnos al enemigo invisible? Según la Organización Mundial de la Salud, la contaminación del aire representa uno de los mayores riesgos para la salud, mostrando una relación…",
-      "en": "Latin online. First Edition. 2020 How do we advance the invisible enemy? According to the World Health Organization, air pollution represents one of the greatest health risks, showing a relationship with the...",
+      "en": "Latam online. First Edition. 2020 How to get ahead of the invisible enemy? According to the World Health Organization, air pollution represents one of the greatest health risks, showing a relationship…",
       "es": "Latam online. Primera Edición. 2020 ¿Cómo adelantarnos al enemigo invisible? Según la Organización Mundial de la Salud, la contaminación del aire representa uno de los mayores riesgos para la salud, mostrando una relación…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "¿Cómo adelantarnos al enemigo invisible?",
-      "en": "How do we get ahead of the invisible enemy?",
+      "en": "How to get ahead of the invisible enemy?",
       "es": "¿Cómo adelantarnos al enemigo invisible?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Radiografía del aire",
-      "en": "Air X-ray",
+      "en": "air x-ray",
       "es": "Radiografía del aire",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y esto… ¿cómo se mide?",
-      "en": "And this... how do you measure it?",
+      "en": "And this… how is it measured?",
       "es": "Y esto… ¿cómo se mide?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Es aquí que nace AIreySalud",
-      "en": "It's here that Aire and Health is born",
+      "en": "It is here that AIreySalud was born",
       "es": "Es aquí que nace AIreySalud",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Hipótesis",
@@ -73,27 +133,57 @@
     },
     {
       "source": "Metodología de trabajo",
-      "en": "Working methodology",
+      "en": "Work methodology",
       "es": "Metodología de trabajo",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Seleccionar los datos",
-      "en": "Select the data",
+      "en": "Select data",
       "es": "Seleccionar los datos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Preprocesamiento de datos",
-      "en": "Data pre-processing",
+      "en": "Data preprocessing",
       "es": "Preprocesamiento de datos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Análisis exploratorio de datos",
@@ -105,11 +195,21 @@
     },
     {
       "source": "Relleno de datos faltantes",
-      "en": "Filling of missing data",
+      "en": "Filling missing data",
       "es": "Relleno de datos faltantes",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Transformar los datos",
@@ -121,11 +221,21 @@
     },
     {
       "source": "Ajustar modelos",
-      "en": "Adjust Models",
+      "en": "Fit models",
       "es": "Ajustar modelos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Qué sigue",
@@ -145,48 +255,98 @@
     },
     {
       "source": "Según la Organización Mundial de la Salud, la contaminación del aire representa uno de los mayores riesgos para la salud, mostrando una relación directa con la carga de morbilidad derivada de accidentes cerebrovasculares, diferentes cánceres de pulmón y neumopatías crónicas e incluso agudas, entre ellas el asma.",
-      "en": "According to the World Health Organization, air pollution represents one of the greatest health risks, showing a direct relationship with the burden of morbidity resulting from stroke, different lung cancers and chronic and even acute pneumopathies, including asthma.",
+      "en": "According to the World Health Organization, air pollution represents one of the greatest health risks, showing a direct relationship with the burden of morbidity derived from strokes, different lung cancers and chronic and even acute lung diseases, including asthma.",
       "es": "Según la Organización Mundial de la Salud, la contaminación del aire representa uno de los mayores riesgos para la salud, mostrando una relación directa con la carga de morbilidad derivada de accidentes cerebrovasculares, diferentes cánceres de pulmón y neumopatías crónicas e incluso agudas, entre ellas el asma.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Existen estudios que confirman que alinearse a las directrices recomendadas por la OMS derivan en un impacto de hasta 22 meses más en el aumento de la esperanza de vida en la población (WHO, 2016).",
-      "en": "There are studies that confirm that alignment with the WHO recommended guidelines results in an impact of up to 22 months on the increase in life expectancy in the population (WHO, 2016).",
+      "en": "There are studies that confirm that aligning with the guidelines recommended by the WHO results in an impact of up to 22 more months in increasing life expectancy in the population (WHO, 2016).",
       "es": "Existen estudios que confirman que alinearse a las directrices recomendadas por la OMS derivan en un impacto de hasta 22 meses más en el aumento de la esperanza de vida en la población (WHO, 2016).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En 2016, el 91% de la población vivía en lugares donde no se respetaban las",
-      "en": "In 2016, 91% of the population lived in places where the population was not respected.",
+      "en": "In 2016, 91% of the population lived in places where laws were not respected.",
       "es": "En 2016, el 91% de la población vivía en lugares donde no se respetaban las",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Directrices de la OMS sobre la calidad del aire",
-      "en": "WHO guidelines on air quality",
+      "en": "WHO Air Quality Guidelines",
       "es": "Directrices de la OMS sobre la calidad del aire",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ". Según estimaciones de 2016, la contaminación atmosférica en las ciudades y zonas rurales provoca cada año",
-      "en": ". According to 2016 estimates, air pollution in cities and rural areas causes each year",
+      "en": ". According to 2016 estimates, air pollution in cities and rural areas causes",
       "es": ". Según estimaciones de 2016, la contaminación atmosférica en las ciudades y zonas rurales provoca cada año",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "4.2 millones de defunciones prematuras",
@@ -199,198 +359,418 @@
     },
     {
       "source": ". Un 91% de esas defunciones prematuras se producen en países de",
-      "en": ". 91 per cent of these premature deaths occur in countries of",
+      "en": ". 91% of these premature deaths occur in countries of",
       "es": ". Un 91% de esas defunciones prematuras se producen en países de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "bajos y medianos ingresos",
-      "en": "low and medium-sized",
+      "en": "low and middle income",
       "es": "bajos y medianos ingresos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", y las mayores tasas de morbilidad se registran en las regiones del Sudeste de Asia y el Pacífico Occidental.",
-      "en": "and the highest morbidity rates are in the regions of South-East Asia and the Western Pacific.",
+      "en": ", and the highest morbidity rates are recorded in the Southeast Asia and Western Pacific regions.",
       "es": ", y las mayores tasas de morbilidad se registran en las regiones del Sudeste de Asia y el Pacífico Occidental.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En los países de bajos y medianos ingresos, la exposición a contaminantes en el interior y alrededor de las viviendas como consecuencia del uso de combustibles en estufas abiertas o cocinas tradicionales incrementa el riesgo de infecciones agudas de las vías respiratorias inferiores, así como el riesgo de cardiopatías, neumopatía obstructiva crónica y cáncer de pulmón en los adultos.",
-      "en": "In low-income and middle-income countries, exposure to pollutants in and around homes as a result of the use of fuels in open stoves or traditional kitchens increases the risk of acute lower respiratory infections, as well as the risk of heart disease, chronic obstructive pneumopathies and lung cancer in adults.",
+      "en": "In low- and middle-income countries, exposure to pollutants in and around homes from the use of fuels in open stoves or traditional kitchens increases the risk of acute lower respiratory tract infections, as well as the risk of heart disease, chronic obstructive pulmonary disease, and lung cancer in adults.",
       "es": "En los países de bajos y medianos ingresos, la exposición a contaminantes en el interior y alrededor de las viviendas como consecuencia del uso de combustibles en estufas abiertas o cocinas tradicionales incrementa el riesgo de infecciones agudas de las vías respiratorias inferiores, así como el riesgo de cardiopatías, neumopatía obstructiva crónica y cáncer de pulmón en los adultos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Existen graves riesgos sanitarios no solo por exposición a las partículas (PM10 y PM2.5, es decir, partículas menores que 10 y 2.5 micrómetros respectivamente), sino también al ozono (O3), el dióxido de nitrógeno (NO2) y el dióxido de azufre (SO2). Como en el caso de las partículas, las concentraciones más elevadas suelen encontrarse en las zonas urbanas. El ozono es un importante factor de mortalidad y morbilidad por asma, mientras que el dióxido de nitrógeno y el dióxido de azufre pueden tener influencia en el asma, los síntomas bronquiales, las alveolitis y la insuficiencia respiratoria.",
-      "en": "There are serious health risks not only due to exposure to particles (PM10 and PM2.5, i.e. particles less than 10 and 2.5 micrometers respectively), but also to ozone (O3), nitrogen dioxide (NO2) and sulphur dioxide (SO2). As in the case of particles, higher concentrations are usually found in urban areas. Ozone is an important factor of mortality and asthma morbidity, while nitrogen dioxide and sulphur dioxide can influence asthma, bronchial symptoms, alveolitis and respiratory failure.",
+      "en": "There are serious health risks not only from exposure to particulate matter (PM10 and PM2.5, that is, particles smaller than 10 and 2.5 micrometers respectively), but also to ozone (O3), nitrogen dioxide (NO2) and sulfur dioxide (SO2). As in the case of particles, the highest concentrations are usually found in urban areas. Ozone is an important factor in asthma mortality and morbidity, while nitrogen dioxide and sulfur dioxide may influence asthma, bronchial symptoms, alveolitis, and respiratory failure.",
       "es": "Existen graves riesgos sanitarios no solo por exposición a las partículas (PM10 y PM2.5, es decir, partículas menores que 10 y 2.5 micrómetros respectivamente), sino también al ozono (O3), el dióxido de nitrógeno (NO2) y el dióxido de azufre (SO2). Como en el caso de las partículas, las concentraciones más elevadas suelen encontrarse en las zonas urbanas. El ozono es un importante factor de mortalidad y morbilidad por asma, mientras que el dióxido de nitrógeno y el dióxido de azufre pueden tener influencia en el asma, los síntomas bronquiales, las alveolitis y la insuficiencia respiratoria.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Las industrias, los hogares, los automóviles y los camiones emiten mezclas complejas de contaminantes atmosféricos, muchos de los cuales son perjudiciales para la salud. De todos estos contaminantes, el material particulado fino tiene el mayor efecto sobre la salud humana. La mayor parte del material particulado fino proviene de la quema de combustible, tanto de fuentes móviles como vehículos, como de fuentes estacionarias como centrales eléctricas, industria, hogares o quema de biomasa.",
-      "en": "Industries, households, cars and trucks emit complex mixtures of atmospheric pollutants, many of which are harmful to health. Of all these, fine particulate material has the greatest effect on human health. Most fine particulate material comes from fuel burning, both from mobile sources and vehicles, as well as from stationary sources such as power plants, industry, homes or biomass burning.",
+      "en": "Industries, homes, cars and trucks emit complex mixtures of air pollutants, many of which are harmful to health. Of all these pollutants, fine particulate matter has the greatest effect on human health. Most fine particulate matter comes from fuel burning, both from mobile sources such as vehicles, and from stationary sources such as power plants, industry, homes or biomass burning.",
       "es": "Las industrias, los hogares, los automóviles y los camiones emiten mezclas complejas de contaminantes atmosféricos, muchos de los cuales son perjudiciales para la salud. De todos estos contaminantes, el material particulado fino tiene el mayor efecto sobre la salud humana. La mayor parte del material particulado fino proviene de la quema de combustible, tanto de fuentes móviles como vehículos, como de fuentes estacionarias como centrales eléctricas, industria, hogares o quema de biomasa.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La calidad del aire se mide a partir de las concetraciones de los contaminantes que están presentes en la atmósfera, en particular en el caso de las partículas finas se representa por la concentración media anual.",
-      "en": "Air quality is measured from the constrictions of pollutants present in the atmosphere, particularly in the case of fine particles is represented by the average annual concentration.",
+      "en": "Air quality is measured from the concentrations of pollutants that are present in the atmosphere, particularly in the case of fine particles, it is represented by the average annual concentration.",
       "es": "La calidad del aire se mide a partir de las concetraciones de los contaminantes que están presentes en la atmósfera, en particular en el caso de las partículas finas se representa por la concentración media anual.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Aunque las partículas finas se mide en muchos lugares a lo largo del mundo, la cantidad de monitores en diferentes áreas geográficas varía, y algunas áreas tienen poco o ningún monitoreo. Para producir estimaciones globales de alta resolución, se requieren datos adicionales. La concentración media urbana anual de PM2.5 se estima con modelos mejorados utilizando la integración de datos de sensores remotos por satélite, estimaciones de población, topografía y mediciones terrestres.",
-      "en": "Although fine particles are measured in many places throughout the world, the number of monitors in different geographical areas varies, and some areas have little or no monitoring. To produce global high-resolution estimates, additional data are required. The annual urban mean concentration of PM2.5 is estimated with improved models using the integration of remote satellite sensor data, population estimates, topography and terrestrial measurements.",
+      "en": "Although fine particulate matter is measured in many locations throughout the world, the number of monitors in different geographic areas varies, and some areas have little or no monitoring. To produce high-resolution global estimates, additional data are required. The annual urban mean concentration of PM2.5 is estimated with improved models using the integration of satellite remote sensing data, population estimates, topography and ground measurements.",
       "es": "Aunque las partículas finas se mide en muchos lugares a lo largo del mundo, la cantidad de monitores en diferentes áreas geográficas varía, y algunas áreas tienen poco o ningún monitoreo. Para producir estimaciones globales de alta resolución, se requieren datos adicionales. La concentración media urbana anual de PM2.5 se estima con modelos mejorados utilizando la integración de datos de sensores remotos por satélite, estimaciones de población, topografía y mediciones terrestres.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Con la finalidad de poder entender a nuestro amenazante enemigo, nos dimos a la tarea de hacerlo nuestro mejor amigo. Conocer hasta el más microscópico detalle para que con la ayuda de la Inteligencia Artificial nos pudiéramos adelantar a sus pasos.",
-      "en": "In order to be able to understand our threatening enemy, we gave ourselves the task of making it our best friend. To know even the most microscopic detail so that with the help of Artificial Intelligence we could advance to their steps.",
+      "en": "In order to understand our threatening enemy, we took on the task of making him our best friend. Know even the most microscopic detail so that with the help of Artificial Intelligence we could stay ahead of their steps.",
       "es": "Con la finalidad de poder entender a nuestro amenazante enemigo, nos dimos a la tarea de hacerlo nuestro mejor amigo. Conocer hasta el más microscópico detalle para que con la ayuda de la Inteligencia Artificial nos pudiéramos adelantar a sus pasos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La concentración promedio diaria de PM2.5 se puede predecir a partir de los contaminantes y parámetros meteorológicos que se monitorean de manera rutinaria en la Ciudad de México.",
-      "en": "The average daily concentration of PM2.5 can be predicted from the pollutants and weather parameters that are routinely monitored in Mexico City.",
+      "en": "The daily average concentration of PM2.5 can be predicted from the pollutants and meteorological parameters that are routinely monitored in Mexico City.",
       "es": "La concentración promedio diaria de PM2.5 se puede predecir a partir de los contaminantes y parámetros meteorológicos que se monitorean de manera rutinaria en la Ciudad de México.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En la literatura se recomienda seguir el siguiente plan de modelación:",
-      "en": "The literature recommends following the following modeling plan:",
+      "en": "In the literature it is recommended to follow the following modeling plan:",
       "es": "En la literatura se recomienda seguir el siguiente plan de modelación:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Análisis exploratorio de datos (identificar si hay valores faltantes y valores extremos, definir el tratamiento que se les dará)",
-      "en": "Exploratory data analysis (identify if there are missing values and extreme values, define the treatment to be given)",
+      "en": "Exploratory data analysis (identify if there are missing values and extreme values, define the treatment that will be given to them)",
       "es": "Análisis exploratorio de datos (identificar si hay valores faltantes y valores extremos, definir el tratamiento que se les dará)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Si es necesario, transformar los datos",
-      "en": "If necessary, transform data",
+      "en": "If necessary, transform the data",
       "es": "Si es necesario, transformar los datos",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ajustar modelos (definir el conjunto de entrenamiento y de prueba)",
-      "en": "Adjust models (define the training and test set)",
+      "en": "Fit models (define training and test set)",
       "es": "Ajustar modelos (definir el conjunto de entrenamiento y de prueba)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ajustar un modelo univariado y validarlo.",
-      "en": "Adjust a univariate model and validate it.",
+      "en": "Fit a univariate model and validate it.",
       "es": "Ajustar un modelo univariado y validarlo.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ajustar un modelo agregando fechas especiales (días de asueto y festivos) y validarlo.",
-      "en": "Adjust a model by adding special dates (days of assumption and holidays) and validate it.",
+      "en": "Adjust a model by adding special dates (holidays and holidays) and validate it.",
       "es": "Ajustar un modelo agregando fechas especiales (días de asueto y festivos) y validarlo.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ajustar un modelo agregando fechas especiales y regresores adicionales y validarlo.",
-      "en": "Adjust a model by adding additional special dates and backdates and validate it.",
+      "en": "Adjust a model by adding special dates and additional regressors and validate it.",
       "es": "Ajustar un modelo agregando fechas especiales y regresores adicionales y validarlo.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ajustar los hiperparámetros del modelo y validarlo.",
-      "en": "Adjust the model hyperparameters and validate it.",
+      "en": "Adjust the hyperparameters of the model and validate it.",
       "es": "Ajustar los hiperparámetros del modelo y validarlo.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Seleccionar el mejor modelo de acuerdo a los criterios de minimizar errores",
-      "en": "Select the best model according to the criteria to minimize errors",
+      "en": "Select the best model according to the criteria of minimizing errors",
       "es": "Seleccionar el mejor modelo de acuerdo a los criterios de minimizar errores",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A estos pasos se agregaría un paso previo: seleccionar los datos para responder al problema a modelar.",
-      "en": "To these steps would be added a previous step: select the data to respond to the problem to model.",
+      "en": "To these steps a previous step would be added: selecting the data to respond to the problem to be modeled.",
       "es": "A estos pasos se agregaría un paso previo: seleccionar los datos para responder al problema a modelar.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el tema de calidad del aire los gobiernos locales cuentan en la mayoría de las veces con información de este tipo, sin embargo, a veces llega a presentar un alto porcentaje de datos faltantes. Por otro lado, no toda la información se encuentra disponible de manera frecuente o pasa por un proceso de validación, por lo tanto se determinó emplear datos de una zona metropolitana, que cada mes publica la información validada, es el caso de la información del",
-      "en": "In the field of air quality, local governments have in most cases such information, however, sometimes it has a high percentage of missing data. On the other hand, not all information is frequently available or is going through a validation process, so it was determined to use data from a metropolitan area, which each month publishes the validated information, is the case with the information of the",
+      "en": "On the topic of air quality, local governments most of the time have information of this type, however, sometimes they present a high percentage of missing data. On the other hand, not all the information is frequently available or goes through a validation process, therefore it was determined to use data from a metropolitan area, which publishes validated information every month, this is the case of the information from the",
       "es": "En el tema de calidad del aire los gobiernos locales cuentan en la mayoría de las veces con información de este tipo, sin embargo, a veces llega a presentar un alto porcentaje de datos faltantes. Por otro lado, no toda la información se encuentra disponible de manera frecuente o pasa por un proceso de validación, por lo tanto se determinó emplear datos de una zona metropolitana, que cada mes publica la información validada, es el caso de la información del",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sistema de Monitoreo Atmosférico de la Ciudad de México",
-      "en": "Atmospheric Monitoring System of Mexico City",
+      "en": "Mexico City Atmospheric Monitoring System",
       "es": "Sistema de Monitoreo Atmosférico de la Ciudad de México",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "— SIMAT-).",
@@ -402,30 +782,60 @@
     },
     {
       "source": "Periodo de análisis: se consideró 5 años completos (2015 a 2019) y lo que va del año 2020.",
-      "en": "Analysis period: 5 full years (2015 to 2019) and the year 2020.",
+      "en": "Analysis period: 5 full years (2015 to 2019) and the year 2020 were considered.",
       "es": "Periodo de análisis: se consideró 5 años completos (2015 a 2019) y lo que va del año 2020.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se descargaron los datos de contaminantes y parámetros meteorológicos de los sitios de monitoreo del SIMAT (monóxido de carbono -CO-, dióxido de nitrógeno -NO2-, óxidos de nitógeno -NOx-, óxido nitrico -NO-, ozono -O3-, partículas menorea a 10 micrómetros -PM10-, partículas PM coarse que corresponde a la diferencia entre PM10 y PM2.5 -PMCO-, partículas menores a 2.52 micrómetros -PM2.5-, dióxido de azufre -SO2-, temperatura ambiente -TMP-, humedad relativa -RH-, presión atmosférica -PA-, presión barométrica -PBa-, velocidad del viento -WSP- y dirección del viento -WDR-) y se generó una base única. La información inicial representa los registros horarios de 39 sitios (ACO, SUR, TAH, TLA, TLI, SJA, PED, SAG, SFE, TPN, XAL, CCA, MGH, AJM, VIF, UAX, UIZ, CAM, MON, CHO, COY, CUA, MER, INN, HGM, CUT, AJU, ATI, LLA, LPR, NEZ, FAC, IZT, BJU, GAM, LAA, MPA, FAR y SAC) de monitoreo automático, sin embargo, por la construcción propia de un sistema de monitoreo de calidad del aire, no todos los sitios monitorean todos los contaminantes y parámetros meteorológicos. Aunado a esto, en el año 2017 se registró un sismo en la Ciudad de México que dañó la infraestructura de algunas instituciones en las que se localizaba estaciones de monitoreo, lo cual derivó en retirar los equipos de medición de esos lugares. Otra característica que presenta este tipo de fenómenos es la dependencia de sus registros con los ciclos temporales ya que su comportamiento se ve influenciado por la época del año y la hora del día (efecto de inversiones térmicas, época de lluvias, estabilidad atmosférica, horas pico del día, ubicación de fuentes de contaminación, entre otras).",
-      "en": "The data of pollutants and meteorological parameters of the monitoring sites of the SIMAT (carbon monoxide - CO-, nitrogen dioxide - NO2-, nitrogen oxides - NOx-, nitric oxide - NO-, ozone - O3-, particles menorea at 10 micrometers -PM10, particles coarse that corresponds to the difference between PM10 and PM2.5 -PMCO-, nitric oxide - NOX, O3 -, O3 -, O2, O2, O2, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1, O1",
+      "en": "Data on pollutants and meteorological parameters were downloaded from the SIMAT monitoring sites (carbon monoxide -CO-, nitrogen dioxide -NO2-, nitrogen oxides -NOx-, nitric oxide -NO-, ozone -O3-, minor particles at 10 micrometers -PM10-, PM coarse particles that correspond to the difference between PM10 and PM2.5 -PMCO-, particles smaller than 2.52 micrometers -PM2.5-, sulfur dioxide -SO2-, ambient temperature -TMP-, relative humidity -RH-, atmospheric pressure -PA-, barometric pressure -PBa-, wind speed -WSP- and wind direction -WDR-) and a single base was generated. The initial information represents the hourly records of 39 sites (ACO, SUR, TAH, TLA, TLI, SJA, PED, SAG, SFE, TPN, BJU, GAM, LAA, MPA, FAR and SAC) automatic monitoring, however, due to the construction of an air quality monitoring system, not all sites monitor all pollutants and meteorological parameters. In addition to this, in 2017 an earthquake was recorded in Mexico City that damaged the infrastructure of some institutions where monitoring stations were located, which led to the removal of measurement equipment from those places. Another characteristic that this type of phenomena presents is the dependence of its records on time cycles since its behavior is influenced by the time of year and time of day (effect of thermal inversions, rainy season, atmospheric stability, peak hours of the day, location of pollution sources, among others).",
       "es": "Se descargaron los datos de contaminantes y parámetros meteorológicos de los sitios de monitoreo del SIMAT (monóxido de carbono -CO-, dióxido de nitrógeno -NO2-, óxidos de nitógeno -NOx-, óxido nitrico -NO-, ozono -O3-, partículas menorea a 10 micrómetros -PM10-, partículas PM coarse que corresponde a la diferencia entre PM10 y PM2.5 -PMCO-, partículas menores a 2.52 micrómetros -PM2.5-, dióxido de azufre -SO2-, temperatura ambiente -TMP-, humedad relativa -RH-, presión atmosférica -PA-, presión barométrica -PBa-, velocidad del viento -WSP- y dirección del viento -WDR-) y se generó una base única. La información inicial representa los registros horarios de 39 sitios (ACO, SUR, TAH, TLA, TLI, SJA, PED, SAG, SFE, TPN, XAL, CCA, MGH, AJM, VIF, UAX, UIZ, CAM, MON, CHO, COY, CUA, MER, INN, HGM, CUT, AJU, ATI, LLA, LPR, NEZ, FAC, IZT, BJU, GAM, LAA, MPA, FAR y SAC) de monitoreo automático, sin embargo, por la construcción propia de un sistema de monitoreo de calidad del aire, no todos los sitios monitorean todos los contaminantes y parámetros meteorológicos. Aunado a esto, en el año 2017 se registró un sismo en la Ciudad de México que dañó la infraestructura de algunas instituciones en las que se localizaba estaciones de monitoreo, lo cual derivó en retirar los equipos de medición de esos lugares. Otra característica que presenta este tipo de fenómenos es la dependencia de sus registros con los ciclos temporales ya que su comportamiento se ve influenciado por la época del año y la hora del día (efecto de inversiones térmicas, época de lluvias, estabilidad atmosférica, horas pico del día, ubicación de fuentes de contaminación, entre otras).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tabla.1. Listado de los sitios de monitoreo de calidad del aire del SIMAT.",
-      "en": "Tabla.1. List of SIMAT air quality monitoring sites.",
+      "en": "Table.1. List of SIMAT air quality monitoring sites.",
       "es": "Tabla.1. Listado de los sitios de monitoreo de calidad del aire del SIMAT.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Listado de los sitios de monitoreo de calidad del aire del SIMAT",
@@ -447,12 +857,22 @@
     },
     {
       "source": "Todo esto implicó que se realizaran varios pasos para determinar la inclusión de los sitios para este análisis.",
-      "en": "All this involved several steps to determine the inclusion of the sites for this analysis.",
+      "en": "All of this involved several steps being taken to determine the inclusion of sites for this analysis.",
       "es": "Todo esto implicó que se realizaran varios pasos para determinar la inclusión de los sitios para este análisis.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Selección de sitios:",
@@ -473,30 +893,60 @@
     },
     {
       "source": "Aquellos que presentan registros en el año 2019 y cuentan con al menos el 75% de registros de ese año (a saber: TLA, PED, SFE, XAL, CCA, AJM, MON, MER, HGM, NEZ y GAM).",
-      "en": "Those with records in 2019 and with at least 75% of records in 2019 (i.e. TLA, PED, SFE, XAL, CCA, AJM, MON, MER, HGM, NEZ and GAM).",
+      "en": "Those who present registrations in 2019 and have at least 75% of registrations from that year (namely: TLA, PED, SFE, XAL, CCA, AJM, MON, MER, HGM, NEZ and GAM).",
       "es": "Aquellos que presentan registros en el año 2019 y cuentan con al menos el 75% de registros de ese año (a saber: TLA, PED, SFE, XAL, CCA, AJM, MON, MER, HGM, NEZ y GAM).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mapa 2. Localización de los once sitios de monitoreo de calidad del aire del SIMAT que serán modelados.",
-      "en": "Map 2. Location of the 11 air quality monitoring sites of the SIMAT that will be modeled.",
+      "en": "Map 2. Location of the eleven SIMAT air quality monitoring sites that will be modeled.",
       "es": "Mapa 2. Localización de los once sitios de monitoreo de calidad del aire del SIMAT que serán modelados.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El registro continuo de este tipo de datos requiere un programa de aseguramiento y control de calidad de las mediciones, el cual implica la pérdida de registros, por ejemplo, cuando se realizan calibraciones y revisión del correcto funcionamiento de los equipos automáticos; así como, por la falta de insumo de energía eléctrica que conlleva la reactivación de los equipos. Esto se refleja en tener valores faltantes (",
-      "en": "The continuous recording of this type of data requires a program of assurance and quality control of the measurements, which involves the loss of records, for example, when calibrations and revision of the correct operation of the automatic equipment; as well as, due to the lack of electrical energy input that involves the reactivation of the equipment. This is reflected in having missing values (",
+      "en": "The continuous recording of this type of data requires a measurement quality assurance and control program, which implies the loss of records, for example, when calibrations and reviews of the correct operation of automatic equipment are carried out; as well as, due to the lack of electrical energy input that entails the reactivation of the equipment. This is reflected in having missing values (",
       "es": "El registro continuo de este tipo de datos requiere un programa de aseguramiento y control de calidad de las mediciones, el cual implica la pérdida de registros, por ejemplo, cuando se realizan calibraciones y revisión del correcto funcionamiento de los equipos automáticos; así como, por la falta de insumo de energía eléctrica que conlleva la reactivación de los equipos. Esto se refleja en tener valores faltantes (",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "missing values",
@@ -508,56 +958,116 @@
     },
     {
       "source": ") en las bases de datos, por lo tanto, se debe plantear un tratamiento para el relleno de datos faltantes.",
-      "en": ") in the databases, therefore, a treatment for the filling of missing data should be proposed.",
+      "en": ") in the databases, therefore, a treatment must be proposed to fill in missing data.",
       "es": ") en las bases de datos, por lo tanto, se debe plantear un tratamiento para el relleno de datos faltantes.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se realizó la exploración de los sitios para identificar posibles asociaciones entre ellos por cada parámetro.",
-      "en": "Sites were explored to identify possible partnerships between them for each parameter.",
+      "en": "The sites were explored to identify possible associations between them for each parameter.",
       "es": "Se realizó la exploración de los sitios para identificar posibles asociaciones entre ellos por cada parámetro.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se revisó si existe alguna dependencia con rezago en las horas para cada parámetro.",
-      "en": "It was reviewed whether there is any dependency with delay in the hours for each parameter.",
+      "en": "It was reviewed if there is any dependency with lag in hours for each parameter.",
       "es": "Se revisó si existe alguna dependencia con rezago en las horas para cada parámetro.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se realizó la exploración asociada a la dirección del viento, para identificar alguna dependencia relacionada con la dirección de donde proviene el viento.",
-      "en": "The exploration associated with the direction of the wind was carried out to identify some dependence related to the direction from which the wind comes.",
+      "en": "The exploration associated with the direction of the wind was carried out to identify any dependence related to the direction from which the wind comes.",
       "es": "Se realizó la exploración asociada a la dirección del viento, para identificar alguna dependencia relacionada con la dirección de donde proviene el viento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para el análisis exploratorio se empleó la librería",
-      "en": "The library was used for exploratory analysis",
+      "en": "For the exploratory analysis, the library was used",
       "es": "Para el análisis exploratorio se empleó la librería",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Open air",
       "en": "Open air",
-      "es": "Aire abierto",
+      "es": "al aire libre",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "de r-project.",
@@ -569,39 +1079,79 @@
     },
     {
       "source": "Se considera emplear modelos que permitan el ajuste aún con datos faltantes en la variable objetivo o respuesta (PM.2.5).",
-      "en": "It is considered to use models that allow the adjustment even with missing data in the target or response variable (PM.2.5).",
+      "en": "It is considered to use models that allow adjustment even with missing data in the target or response variable (PM.2.5).",
       "es": "Se considera emplear modelos que permitan el ajuste aún con datos faltantes en la variable objetivo o respuesta (PM.2.5).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "De igual manera se considera emplear modelos que requieren que la variable respuesta no contenga faltantes, por lo que se emplearán varios métodos de imputación de valores faltantes para PM2.5 (cabe comentar que por la naturaleza de este tipo de datos rellenar con la media, mediana o alguna otra constante no es recomendable). Previamente se realizará una comparación de los métodos con un conjunto de datos completo en el que se simulan los faltantes y se evalúa el error de la imputación para seleccionar el mejor modelo de relleno de faltantes (se identifica el tipo de datos faltantes que rige a este fenómeno (MCAR, MAR o NMAR por sus siglas en inglés), que se refieren a un comportamiento completamente aleatorio, de forma aleatoria o bien no sigue un proceso aleatorio, respectivamente.",
-      "en": "It is also considered to use models that require the variable response to not contain missing, so several methods of imputation of missing values for PM2.5 will be used (it is worth noting that by the nature of this type of data to be filled with the mean, median or some other constant is not recommended). Previously, a comparison of the methods with a complete set of data in which the missing values are simulated and the error of the imputation is evaluated to select the best model of missing data (the type of missing data that governs this phenomenon (MCAR, MAR, or NAR, or in its random form, are not fully referred to a random, or to a random process) is not, in its respective, or to be used.",
+      "en": "Likewise, it is considered to use models that require that the response variable does not contain missing values, so several methods of imputation of missing values for PM2.5 will be used (it should be noted that due to the nature of this type of data, filling in with the mean, median or some other constant is not recommended). Previously, a comparison of the methods will be carried out with a complete data set in which the missing data is simulated and the imputation error is evaluated to select the best missing filling model (the type of missing data that governs this phenomenon is identified (MCAR, MAR or NMAR for its acronym in English), which refer to a completely random behavior, randomly or does not follow a random process, respectively.",
       "es": "De igual manera se considera emplear modelos que requieren que la variable respuesta no contenga faltantes, por lo que se emplearán varios métodos de imputación de valores faltantes para PM2.5 (cabe comentar que por la naturaleza de este tipo de datos rellenar con la media, mediana o alguna otra constante no es recomendable). Previamente se realizará una comparación de los métodos con un conjunto de datos completo en el que se simulan los faltantes y se evalúa el error de la imputación para seleccionar el mejor modelo de relleno de faltantes (se identifica el tipo de datos faltantes que rige a este fenómeno (MCAR, MAR o NMAR por sus siglas en inglés), que se refieren a un comportamiento completamente aleatorio, de forma aleatoria o bien no sigue un proceso aleatorio, respectivamente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de los modelos de pronóstico en el tiempo, se requiere que las variables regresoras no tengan faltantes en el período de entrenamiento ni en el periodo de prueba. Además, se requiere datos futuros para el pronóstico de PM2.5; por lo tanto, también se debe realizar imputación de datos faltantes.",
-      "en": "In the case of time-forecast models, regressive variables are required to have no missing in the training period or in the test period. In addition, future data are required for the PM2.5 prognosis; therefore, missing data should also be charged.",
+      "en": "In the case of time forecast models, it is required that the regressor variables do not have missing values in the training period or the testing period. Furthermore, future data is required for PM2.5 forecasting; therefore, imputation of missing data must also be performed.",
       "es": "En el caso de los modelos de pronóstico en el tiempo, se requiere que las variables regresoras no tengan faltantes en el período de entrenamiento ni en el periodo de prueba. Además, se requiere datos futuros para el pronóstico de PM2.5; por lo tanto, también se debe realizar imputación de datos faltantes.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para el proceso de relleno de datos faltantes se exploraron varias técnicas sin llegar a buenos resultados ya que generaban valores constantes para el relleno (por ejemplo las opciones que tiene implementada la rutina",
-      "en": "For the process of filling missing data, several techniques were explored without achieving good results as they generated constant values for filling (for example the options that the routine has implemented",
+      "en": "For the process of filling in missing data, several techniques were explored without achieving good results since they generated constant values for filling (for example, the options that the routine has implemented",
       "es": "Para el proceso de relleno de datos faltantes se exploraron varias técnicas sin llegar a buenos resultados ya que generaban valores constantes para el relleno (por ejemplo las opciones que tiene implementada la rutina",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "de Python), entre ellas:",
@@ -613,30 +1163,60 @@
     },
     {
       "source": "SimpleFill: reemplaza las entradas que faltan con la media o mediana de cada columna.",
-      "en": "SimpleFill: replace missing entries with the mean or median of each column.",
+      "en": "SimpleFill: Replaces missing entries with the mean or median of each column.",
       "es": "SimpleFill: reemplaza las entradas que faltan con la media o mediana de cada columna.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "KNN: imputación de vecinos más cercanos a través de la ponderación de registros usando la diferencia cuadrática media de las variables en las que dos filas tienen datos observados.",
-      "en": "KNN: imputation of closer neighbors through the weighting of records using the average quadratic difference of the variables in which two rows have observed data.",
+      "en": "KNN: Nearest neighbor imputation via record weighting using the root mean square difference of variables where two rows have observed data.",
       "es": "KNN: imputación de vecinos más cercanos a través de la ponderación de registros usando la diferencia cuadrática media de las variables en las que dos filas tienen datos observados.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "SoftImpute: compleción de la matriz mediante umbral suavizado iterativo de las descomposiciones de la SVD. Inspirado en el paquete SoftImpute para R, que se basa en algoritmos de regularización espectral para el aprendizaje de grandes matrices incompletas de",
-      "en": "SoftImpute: matrix completion by iterative softened threshold of SVD decompositions. Inspired by the SoftImpute package for R, which is based on spectral regularization algorithms for the learning of large incomplete matrices",
+      "en": "SoftImpute: Matrix completion using iterative smooth thresholding of SVD decompositions. Inspired by the SoftImpute package for R, which is based on spectral regularization algorithms for learning large incomplete matrices of",
       "es": "SoftImpute: compleción de la matriz mediante umbral suavizado iterativo de las descomposiciones de la SVD. Inspirado en el paquete SoftImpute para R, que se basa en algoritmos de regularización espectral para el aprendizaje de grandes matrices incompletas de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mazumder et. al.",
@@ -648,83 +1228,173 @@
     },
     {
       "source": "IterativeImputer: una estrategia para imputar valores faltantes al modelar cada característica con valores perdidos como una función de otras características en forma rotativa. Un código auxiliar que se vincula al IterativeImputer de scikit-learn.",
-      "en": "IterativeImputer: a strategy to impute missing values by modeling each feature with lost values as a function of other characteristics in rotational form. An auxiliary code that is linked to IterativeImputer of scikit-learn.",
+      "en": "IterativeImputer: A strategy for imputing missing values by modeling each feature with missing values as a function of other features in a round-robin fashion. A stub that links to scikit-learn's IterativeImputer.",
       "es": "IterativeImputer: una estrategia para imputar valores faltantes al modelar cada característica con valores perdidos como una función de otras características en forma rotativa. Un código auxiliar que se vincula al IterativeImputer de scikit-learn.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "IterativeSVD: Compleción de la matriz mediante descomposición iterativa de SVD de bajo rango. Debería ser similar a SVDimpute de los métodos de estimación de valores perdidos para microarreglos de ADN de",
-      "en": "IterativeSVD: Matrix completion by low-range iterative SVD decomposition. It should be similar to SVDimpute of the methods of estimating lost values for DNA microarrangements of",
+      "en": "IterativeSVD: Matrix completion using iterative low-rank SVD decomposition. Should be similar to SVDimpute's missing value estimation methods for DNA microarrays.",
       "es": "IterativeSVD: Compleción de la matriz mediante descomposición iterativa de SVD de bajo rango. Debería ser similar a SVDimpute de los métodos de estimación de valores perdidos para microarreglos de ADN de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Troyanskaya et. al.",
-      "en": "Troyanskaya et.",
-      "es": "Troyanskaya et al.",
+      "en": "Troyanskaya et. to the.",
+      "es": "Troyanskaya et. al.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "MatrixFactorization: factorización directa de la matriz incompleta en U y V de rango bajo, con una penalización por escasez de L1 en los elementos de U y una penalización de L2 en los elementos de V.",
-      "en": "MatrixFactorization: direct factorization of the incomplete U and V matrix of low range, with a L1 shortage penalty on U elements and a L2 penalty on V elements",
+      "en": "MatrixFactorization: Direct factorization of the incomplete matrix in low-rank U and V, with an L1 sparsity penalty on the elements of U and an L2 penalty on the elements of V.",
       "es": "MatrixFactorization: factorización directa de la matriz incompleta en U y V de rango bajo, con una penalización por escasez de L1 en los elementos de U y una penalización de L2 en los elementos de V.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "NuclearNormMinimization: implementación simple de Compleción de la matriz exacta a través de Optimización convexa por Emmanuel Candes y Benjamin Recht usando cvxpy. Demasiado lento para matrices grandes.",
-      "en": "NucleoNormMinimization: simple implementation of the exact matrix completion through convex optimization by Emmanuel Candes and Benjamin Recht using cvxpy. Too slow for large matrices.",
+      "en": "NuclearNormMinimization - Simple implementation of Exact Matrix Completion via Convex Optimization by Emmanuel Candes and Benjamin Recht using cvxpy. Too slow for large arrays.",
       "es": "NuclearNormMinimization: implementación simple de Compleción de la matriz exacta a través de Optimización convexa por Emmanuel Candes y Benjamin Recht usando cvxpy. Demasiado lento para matrices grandes.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "BiScaler: estimación iterativa de la media por fila/columna y desviación estándar para obtener una matriz doblemente normalizada. No se garantiza que converja, pero funciona bien en la práctica. Tomado de Completar matriz y SVD de bajo rango a través de mínimos cuadrados alternativos rápidos.",
-      "en": "BiScaler: iterative estimation of the mean per row / column and standard deviation to obtain a double standard matrix. It is not guaranteed to converge, but works well in practice. Taking from Complete matrix and low-range SVD through quick alternative minimum squares.",
+      "en": "BiScaler: Iterative estimation of row/column mean and standard deviation to obtain a doubly normalized matrix. It's not guaranteed to converge, but it works well in practice. Taken from Matrix Completion and Low-Rank SVD via Fast Alternative Least Squares.",
       "es": "BiScaler: estimación iterativa de la media por fila/columna y desviación estándar para obtener una matriz doblemente normalizada. No se garantiza que converja, pero funciona bien en la práctica. Tomado de Completar matriz y SVD de bajo rango a través de mínimos cuadrados alternativos rápidos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por lo que se decidió rellenar a partir del perfil horario de la serie de datos, es decir considerando el promedio de registros para la misma hora a lo largo de la serie, esto asegura que se cuente con un valor diferenciado por hora y no se generan datos constantes para todos los registros faltantes.",
-      "en": "So it was decided to fill in from the time profile of the data series, i.e. considering the average records for the same time throughout the series, this ensures that a differentiated value per hour is available and that no constant data is generated for all missing records.",
+      "en": "Therefore, it was decided to fill in from the hourly profile of the data series, that is, considering the average of records for the same hour throughout the series, this ensures that there is a differentiated value per hour and constant data is not generated for all the missing records.",
       "es": "Por lo que se decidió rellenar a partir del perfil horario de la serie de datos, es decir considerando el promedio de registros para la misma hora a lo largo de la serie, esto asegura que se cuente con un valor diferenciado por hora y no se generan datos constantes para todos los registros faltantes.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En algunas ocasiones es recomendable transformar los datos para obtener un mejor ajuste, sin embargo algunas transformaciones pueden ocasionar falta de interpretación de los resultados, por lo cual se recomienda emplear transformaciones sencillas y fácil de revertir al momento de la interpretación.",
-      "en": "In some cases it is recommended to transform the data for better adjustment, however some changes may cause lack of interpretation of the results, so it is recommended to use simple and easy to reverse transformations at the time of interpretation.",
+      "en": "On some occasions it is advisable to transform the data to obtain a better fit, however some transformations may cause a lack of interpretation of the results, which is why it is recommended to use simple transformations that are easy to reverse at the time of interpretation.",
       "es": "En algunas ocasiones es recomendable transformar los datos para obtener un mejor ajuste, sin embargo algunas transformaciones pueden ocasionar falta de interpretación de los resultados, por lo cual se recomienda emplear transformaciones sencillas y fácil de revertir al momento de la interpretación.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de la variable respuesta (PM2.5) se transformará con el logaritmo natural para contar con un mejor comportamiento de los datos.",
-      "en": "In the case of the response variable (PM2.5), the natural logarithm will be transformed to have better data performance.",
+      "en": "In the case of the response variable (PM2.5) it will be transformed with the natural logarithm to have better behavior of the data.",
       "es": "En el caso de la variable respuesta (PM2.5) se transformará con el logaritmo natural para contar con un mejor comportamiento de los datos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y=ln(PM2.5)",
@@ -736,12 +1406,22 @@
     },
     {
       "source": "En el caso de los regresores (o covariables) se estandarizan los datos en cada variable, debido a que cada una por su naturaleza está en unidades y escalas variadas.",
-      "en": "In the case of regressors (or covariables), data are standardized in each variable, because each by nature is in different units and scales.",
+      "en": "In the case of the regressors (or covariates), the data are standardized in each variable, because each one, by its nature, is in varied units and scales.",
       "es": "En el caso de los regresores (o covariables) se estandarizan los datos en cada variable, debido a que cada una por su naturaleza está en unidades y escalas variadas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La librería",
@@ -761,45 +1441,95 @@
     },
     {
       "source": "de facebook (",
-      "en": "facebook (",
-      "es": "de facebook",
+      "en": "from facebook (",
+      "es": "de facebook (",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "fbprophet",
-      "en": "fbprofet",
+      "en": "fbprophet",
       "es": "fbprophet",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "),permite pronosticar datos de series de tiempo basado en un modelo aditivo donde las tendencias no lineales se ajustan a la estacionalidad anual, semanal y diaria, más los efectos de los días festivos. Funciona mejor con series de tiempo que tienen marcados efectos estacionales y varias temporadas de datos históricos. Prophet es robusto ante los datos faltantes y los cambios de tendencia, y normalmente maneja bien los valores atípicos.",
-      "en": "), allows to predict time series data based on an additive model where non-linear trends are adjusted to the annual, weekly and daily seasonality, plus the effects of the holidays. It works best with time series that have marked seasonal effects and several historical data seasons. Prophet is robust in the face of missing data and trend changes, and usually manages atypical values well.",
+      "en": "), allows forecasting time series data based on an additive model where non-linear trends are adjusted to annual, weekly and daily seasonality, plus the effects of holidays. It works best with time series that have strong seasonal effects and multiple seasons of historical data. Prophet is robust to missing data and trend changes, and typically handles outliers well.",
       "es": "),permite pronosticar datos de series de tiempo basado en un modelo aditivo donde las tendencias no lineales se ajustan a la estacionalidad anual, semanal y diaria, más los efectos de los días festivos. Funciona mejor con series de tiempo que tienen marcados efectos estacionales y varias temporadas de datos históricos. Prophet es robusto ante los datos faltantes y los cambios de tendencia, y normalmente maneja bien los valores atípicos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para modelar la serie temporal Prophet, separamos la señal en los siguientes componentes aditivos:",
-      "en": "To model the time series Prophet, we separate the signal into the following additive components:",
+      "en": "To model the Prophet time series, we separate the signal into the following additive components:",
       "es": "Para modelar la serie temporal Prophet, separamos la señal en los siguientes componentes aditivos:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "y(t)= g(t) + s(t) + h(t) + εt",
-      "en": "and (t) = g (t) + s (t) + h (t) + εt",
+      "en": "y(t)= g(t) + s(t) + h(t) + εt",
       "es": "y(t)= g(t) + s(t) + h(t) + εt",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Dónde:",
@@ -811,154 +1541,324 @@
     },
     {
       "source": "y(t) es la variable a pronosticar",
-      "en": "and (t) is the variable to be predicted",
+      "en": "y(t) is the variable to be predicted",
       "es": "y(t) es la variable a pronosticar",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "g(t) es la función de tendencia que modela cambios no periódicos usando un modelo de crecimiento de saturación no lineal o un modelo de regresión lineal por partes. Puede configurar esto usando parámetros.",
-      "en": "g (t) is the trend function that models non-recurrent changes using a non-linear saturation growth model or a linear regression model by parts. You can configure this using parameters.",
+      "en": "g(t) is the trend function that models nonperiodic changes using a nonlinear saturation growth model or a piecewise linear regression model. You can configure this using parameters.",
       "es": "g(t) es la función de tendencia que modela cambios no periódicos usando un modelo de crecimiento de saturación no lineal o un modelo de regresión lineal por partes. Puede configurar esto usando parámetros.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "s(t) es el funcional estacional (anual, semanal y diario) que modela los cambios periódicos en el valor de la serie temporal. Este componente se modela mediante una transformada de Fourier y, si lo desea, puede agregar sus propias estacionalidades.",
-      "en": "s (t) is the seasonal functional (annual, weekly and daily) that models the periodic changes in the value of the time series. This component is modeled by a Fourier transform and, if you want, can add your own seasonalities.",
+      "en": "s(t) is the seasonal functional (annual, weekly and daily) that models the periodic changes in the value of the time series. This component is modeled using a Fourier transform and you can add your own seasonalities if you wish.",
       "es": "s(t) es el funcional estacional (anual, semanal y diario) que modela los cambios periódicos en el valor de la serie temporal. Este componente se modela mediante una transformada de Fourier y, si lo desea, puede agregar sus propias estacionalidades.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "h(t) representa la función para modelar días festivos y eventos de impacto especial. Puede agregar su propio conjunto de feriados personalizados y eventos especiales.",
-      "en": "h (t) represents the function to model holiday and special impact events. You can add your own set of custom holidays and special events.",
+      "en": "h(t) represents the function for modeling holidays and special impact events. You can add your own set of custom holidays and special events.",
       "es": "h(t) representa la función para modelar días festivos y eventos de impacto especial. Puede agregar su propio conjunto de feriados personalizados y eventos especiales.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "εt es el error/ruido de los modelos que se supone que tiene una distribución",
-      "en": "εt is the error / noise of the models that is supposed to have a distribution",
+      "en": "εt is the error/noise of models assumed to have a distribution",
       "es": "εt es el error/ruido de los modelos que se supone que tiene una distribución",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para un descripción más detallada del algoritmo consultar",
-      "en": "For a more detailed description of the algorithm please consult",
+      "en": "For a more detailed description of the algorithm consult",
       "es": "Para un descripción más detallada del algoritmo consultar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El algoritmo funciona mejor con series de tiempo que tienen fuertes efectos estacionales y varias temporadas de datos históricos. Prophet es robusto ante los datos faltantes en la variable de salida y a los cambios de tendencia, y normalmente maneja bien los valores atípicos (outliers).",
-      "en": "The algorithm works best with time series that have strong seasonal effects and several historical data seasons. Prophet is robust in the face of missing data in the output variable and trend changes, and usually manages atypical values (outliers) well.",
+      "en": "The algorithm works best with time series that have strong seasonal effects and multiple seasons of historical data. Prophet is robust to missing data in the output variable and to changes in trend, and typically handles outliers well.",
       "es": "El algoritmo funciona mejor con series de tiempo que tienen fuertes efectos estacionales y varias temporadas de datos históricos. Prophet es robusto ante los datos faltantes en la variable de salida y a los cambios de tendencia, y normalmente maneja bien los valores atípicos (outliers).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se establecieron los grupos de entrenamiento y prueba para evaluar los modelos considerando la secuencia de la información y a diferencia de tomarlos al azar, se estableció dejar los primeros cuatro años como periodo de entrenamiento y el último año como periodo de prueba.",
-      "en": "Training and testing groups were established to evaluate the models by considering the sequence of the information and, unlike taking them at random, it was established to leave the first four years as a training period and the last year as a test period.",
+      "en": "The training and test groups were established to evaluate the models considering the sequence of the information and, unlike taking them at random, it was established to leave the first four years as the training period and the last year as the test period.",
       "es": "Se establecieron los grupos de entrenamiento y prueba para evaluar los modelos considerando la secuencia de la información y a diferencia de tomarlos al azar, se estableció dejar los primeros cuatro años como periodo de entrenamiento y el último año como periodo de prueba.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se seleccionaron los datos de calidad del aire de las estaciones localizadas en la Zona Metropolitana de la Ciudad de México, que presentan registros entre los años 2015 y 2020, de estas estacione se realizó un filtro para tener las estaciones que contaban con registros de PM2.5, a estas estaciones se les realizó un segundo filtro para contar con las estaciones que registraron dato en el año 2019 y que contaron con suficiencia anual (al menos el 75% de registros horarios en el año) de esta manera se contó con un conjunto de once estaciones (ver Mapa 2).",
-      "en": "The air quality data of stations located in the Metropolitan Zone of Mexico City, which have records between 2015 and 2020, were selected, of these parking stations were made a filter to have stations with PM2.5 records, and a second filter was made to have stations that recorded data in 2019 and that had annual sufficiency (at least 75% of time records in the year) in this way was available to these stations (see Map 2).",
+      "en": "The air quality data from the stations located in the Metropolitan Area of Mexico City were selected, which present records between the years 2015 and 2020, a filter was made from these stations to have the stations that had PM2.5 records, a second filter was made to these stations to have the stations that recorded data in the year 2019 and that had annual sufficiency (at least 75% of hourly records in the year) in this way there was a set of eleven stations (see Map 2).",
       "es": "Se seleccionaron los datos de calidad del aire de las estaciones localizadas en la Zona Metropolitana de la Ciudad de México, que presentan registros entre los años 2015 y 2020, de estas estacione se realizó un filtro para tener las estaciones que contaban con registros de PM2.5, a estas estaciones se les realizó un segundo filtro para contar con las estaciones que registraron dato en el año 2019 y que contaron con suficiencia anual (al menos el 75% de registros horarios en el año) de esta manera se contó con un conjunto de once estaciones (ver Mapa 2).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El análisis exploratorio permitió conocer el comportamiento de cada variables, en el caso de PM2.5 (Figura 1) se observó que hay diferencias entre las estaciones, ya que algunas presentan mayor cantidad de eventos atípicos, esto se debe principalmente al lugar en el que se localiza cada estación y las fuentes de contaminación asociadas a ellas.",
-      "en": "The exploratory analysis allowed to know the behavior of each variable, in the case of PM2.5 (Figure 1) it was observed that there are differences between the stations, as some have more atypical events, this is mainly due to the location of each station and the sources of pollution associated with them.",
+      "en": "The exploratory analysis allowed us to know the behavior of each variable, in the case of PM2.5 (Figure 1) it was observed that there are differences between the stations, since some present a greater number of atypical events, this is mainly due to the place where each station is located and the pollution sources associated with them.",
       "es": "El análisis exploratorio permitió conocer el comportamiento de cada variables, en el caso de PM2.5 (Figura 1) se observó que hay diferencias entre las estaciones, ya que algunas presentan mayor cantidad de eventos atípicos, esto se debe principalmente al lugar en el que se localiza cada estación y las fuentes de contaminación asociadas a ellas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 1. Comportamiento de PM2.5 de los once sitios elegidos para la modelación",
-      "en": "Figure 1. PM2.5 Behavior of the 11 sites chosen for modeling",
+      "en": "Figure 1. PM2.5 behavior of the eleven sites chosen for modeling",
       "es": "Figura 1. Comportamiento de PM2.5 de los once sitios elegidos para la modelación",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para ejemplificar el resto de los resultados se presenta el caso de la estación Ajusco Medio (AJM), para su localización consulte el Mapa 2.",
-      "en": "To illustrate the rest of the results, the case of the Ajusco Medio (AJM) station is presented, see Map 2 for location.",
+      "en": "To exemplify the rest of the results, the case of the Ajusco Medio (AJM) station is presented; for its location, see Map 2.",
       "es": "Para ejemplificar el resto de los resultados se presenta el caso de la estación Ajusco Medio (AJM), para su localización consulte el Mapa 2.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El análisis por variable deja ver que son frecuentes los periodos de ausencia de datos, la diferencia en el comportamiento de cada parámetro (algunos presentan distribuciones sesgadas a la derecha, otros a la izquierda y algunos su distribución es simétrica, algunos presentan más de una moda y suele haber datos atípicos) (Figura 2).",
-      "en": "The variable analysis shows that the data absence periods are common, the difference in the behavior of each parameter (some have skewed distributions to the right, others to the left and some are symmetrical, some present more than one fashion and there are usually atypical data) (Figure 2).",
+      "en": "The analysis by variable shows that there are frequent periods of absence of data, the difference in the behavior of each parameter (some have distributions skewed to the right, others to the left and some have a symmetrical distribution, some have more than one mode and there are usually atypical data) (Figure 2).",
       "es": "El análisis por variable deja ver que son frecuentes los periodos de ausencia de datos, la diferencia en el comportamiento de cada parámetro (algunos presentan distribuciones sesgadas a la derecha, otros a la izquierda y algunos su distribución es simétrica, algunos presentan más de una moda y suele haber datos atípicos) (Figura 2).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El comportamiento de PM2.5 con respecto a la dirección del viento, muestra una clara asociación en meses de invierno (enero y diciembre) en la dirección noreste y con una franja de influencia del norte al este, y en los meses de abril y mayo se repite con un ligero corrimiento hacia el sur (colores rojos en la Figura 3), también se identifica la dilución de este contaminante en los meses de lluvias, ya que predominan los colores azules, verdes y amarilos en todas las direcciones del viento.",
-      "en": "PM2.5's behavior with regard to wind direction shows a clear association in winter months (January and December) in the north-east direction and with a range of influence from the north to the east, and in April and May it is repeated with a slight correction to the south (red colors in Figure 3), also the dilution of this pollutant in the rainy months is identified, as the blue, green and yellow colors prevail in all directions of the wind.",
+      "en": "The behavior of PM2.5 with respect to the direction of the wind shows a clear association in the winter months (January and December) in the northeast direction and with a strip of influence from the north to the east, and in the months of April and May it is repeated with a slight shift towards the south (red colors in Figure 3), the dilution of this pollutant is also identified in the rainy months, since blue, green and yellow colors predominate in all wind directions.",
       "es": "El comportamiento de PM2.5 con respecto a la dirección del viento, muestra una clara asociación en meses de invierno (enero y diciembre) en la dirección noreste y con una franja de influencia del norte al este, y en los meses de abril y mayo se repite con un ligero corrimiento hacia el sur (colores rojos en la Figura 3), también se identifica la dilución de este contaminante en los meses de lluvias, ya que predominan los colores azules, verdes y amarilos en todas las direcciones del viento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 2. Distribución de los registros horarios en la estación Ajusco Medio (AJM) y representación de la rosa de concentraci",
-      "en": "Figure 2. Distribution of time records at the Ajusco Medio station (AJM) and representation of the concentration rose",
+      "en": "Figure 2. Distribution of hourly records at the Ajusco Medio (AJM) station and representation of the concentration rose.",
       "es": "Figura 2. Distribución de los registros horarios en la estación Ajusco Medio (AJM) y representación de la rosa de concentraci",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 2. Distribución de los registros horarios en la estación Ajusco Medio (AJM) y representación de la rosa de concentración desagregada por mes",
-      "en": "Figure 2. Distribution of time records at the Ajusco Medio station (AJM) and representation of the rose concentration broken down per month",
+      "en": "Figure 2. Distribution of hourly records at the Ajusco Medio (AJM) station and representation of the concentration rose disaggregated by month",
       "es": "Figura 2. Distribución de los registros horarios en la estación Ajusco Medio (AJM) y representación de la rosa de concentración desagregada por mes",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La desagregación por época climática para cada año permite apreciar los cambios a lo largo del periodo, (cabe comentar que la época invernal considera el diciembre de un año y el enero y febrero del siguiente año), se identifica el cambio de rojos a naranjas a lo largo de los años en la época invernal y en 2020 no registró esos colores (presenta concentraciones menores). También se marca la influencia de la primavera (marzo a mayo) con concentraciones altas principalmente en 2016, 2017 y 2019 (Figura 4).",
-      "en": "The breakdown by climate period for each year allows to appreciate the changes over the period, (it should be noted that the winter period is considered December of one year and January and February of the following year), the change from red to orange over the years in the winter period is identified and in 2020 it did not record those colors (it has minor concentrations). Also the influence of spring (March to May) is marked with high concentrations mainly in 2016, 2017 and 2019 (Figure 4).",
+      "en": "The disaggregation by climatic season for each year allows us to appreciate the changes throughout the period (it should be noted that the winter season considers December of one year and January and February of the following year), the change from red to orange is identified over the years in the winter season and in 2020 these colors were not recorded (it presents lower concentrations). The influence of spring (March to May) is also marked with high concentrations mainly in 2016, 2017 and 2019 (Figure 4).",
       "es": "La desagregación por época climática para cada año permite apreciar los cambios a lo largo del periodo, (cabe comentar que la época invernal considera el diciembre de un año y el enero y febrero del siguiente año), se identifica el cambio de rojos a naranjas a lo largo de los años en la época invernal y en 2020 no registró esos colores (presenta concentraciones menores). También se marca la influencia de la primavera (marzo a mayo) con concentraciones altas principalmente en 2016, 2017 y 2019 (Figura 4).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 3. Representación de la rosa de concentración de PM2.5 desagregada por mes",
@@ -971,90 +1871,190 @@
     },
     {
       "source": "Figura 4. Distribución por época climática (primavera, verano, otoño e invierno) de la rosa de concentración desagregada por",
-      "en": "Figure 4. Distribution by climate period (spring, summer, autumn and winter) of the rose concentration broken down by",
+      "en": "Figure 4. Distribution by climatic season (spring, summer, autumn and winter) of the concentration rose disaggregated by",
       "es": "Figura 4. Distribución por época climática (primavera, verano, otoño e invierno) de la rosa de concentración desagregada por",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 4. Distribución por época climática (primavera, verano, otoño e invierno) de la rosa de concentración desagregada por año.",
-      "en": "Figure 4. Distribution by climate period (spring, summer, autumn and winter) of the rose concentration broken down by year.",
+      "en": "Figure 4. Distribution by climatic season (spring, summer, autumn and winter) of the concentration rose disaggregated by year.",
       "es": "Figura 4. Distribución por época climática (primavera, verano, otoño e invierno) de la rosa de concentración desagregada por año.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La serie de tiempo de los registros horarios de PM2.5 se representa en la Figura 5, se puede apreciar los espacios en blanco correspondientes a los valores faltantes en esos días, así como la variación del fenómeno y los valores extremos.",
-      "en": "The time series of the PM2.5 time records is represented in Figure 5, the blank spaces corresponding to the missing values in those days can be seen, as well as the variation of the phenomenon and the extreme values.",
+      "en": "The time series of the hourly PM2.5 records is represented in Figure 5, you can see the blank spaces corresponding to the missing values on those days, as well as the variation of the phenomenon and the extreme values.",
       "es": "La serie de tiempo de los registros horarios de PM2.5 se representa en la Figura 5, se puede apreciar los espacios en blanco correspondientes a los valores faltantes en esos días, así como la variación del fenómeno y los valores extremos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 5. Serie de tiempo de la concentración horaria de PM2.5 en el periodo 2015–2020 para la estación AJM.",
-      "en": "Figure 5. Time series of PM2.5 time concentration in the period 2015- 2020 for the AJM station.",
+      "en": "Figure 5. Time series of hourly PM2.5 concentration in the period 2015–2020 for the AJM station.",
       "es": "Figura 5. Serie de tiempo de la concentración horaria de PM2.5 en el periodo 2015–2020 para la estación AJM.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La modelación se realizará con registros promedios diarios de PM2.5 por lo que se visualizó el comportamiento de estos en la Figura 6.",
-      "en": "The modeling will be done with daily mean records of PM2.5, so the behavior of these was visualized in Figure 6.",
+      "en": "The modeling will be carried out with daily average PM2.5 records, so their behavior was visualized in Figure 6.",
       "es": "La modelación se realizará con registros promedios diarios de PM2.5 por lo que se visualizó el comportamiento de estos en la Figura 6.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 6. Series temporales de los promedios diarios para los diferentes contaminantes y parámetros meteorológicos en AJM (20",
-      "en": "Figure 6. Time series of daily averages for different pollutants and weather parameters in AJM (20",
+      "en": "Figure 6. Time series of daily averages for the different pollutants and meteorological parameters in AJM (20",
       "es": "Figura 6. Series temporales de los promedios diarios para los diferentes contaminantes y parámetros meteorológicos en AJM (20",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 6. Series temporales de los promedios diarios para los diferentes contaminantes y parámetros meteorológicos en AJM (2015–2020).",
-      "en": "Figure 6. Time series of daily averages for different pollutants and weather parameters in AJM (2015-2020).",
+      "en": "Figure 6. Time series of daily averages for the different pollutants and meteorological parameters in AJM (2015–2020).",
       "es": "Figura 6. Series temporales de los promedios diarios para los diferentes contaminantes y parámetros meteorológicos en AJM (2015–2020).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La variación de PM2.5 a partir de registros diarios permite identificar la presencia de ciclos asociados a los meses y años (Figura 7).",
-      "en": "The variation of PM2.5 from daily records allows to identify the presence of cycles associated with the months and years (Figure 7).",
+      "en": "The variation of PM2.5 from daily records allows the presence of cycles associated with months and years to be identified (Figure 7).",
       "es": "La variación de PM2.5 a partir de registros diarios permite identificar la presencia de ciclos asociados a los meses y años (Figura 7).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 7. Concentración diaria de PM2.5 en el periodo 2015–2020 para la estación AJM.",
-      "en": "Figure 7. Daily PM2.5 concentration in the period 2015-2020 for the AJM station.",
+      "en": "Figure 7. Daily concentration of PM2.5 in the period 2015–2020 for the AJM station.",
       "es": "Figura 7. Concentración diaria de PM2.5 en el periodo 2015–2020 para la estación AJM.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de PM2.5 la transformación fue con el logaritmo natural, la Figura 8 muestra el comportamiento original y la transformación, donde se busca tener una distribución más apegada a la simetría.",
-      "en": "In the case of PM2.5 the transformation was with the natural logarithm, Figure 8 shows the original behavior and the transformation, where it is sought to have a distribution more attached to symmetry.",
+      "en": "In the case of PM2.5 the transformation was with the natural logarithm, Figure 8 shows the original behavior and the transformation, where the aim is to have a distribution more in line with symmetry.",
       "es": "En el caso de PM2.5 la transformación fue con el logaritmo natural, la Figura 8 muestra el comportamiento original y la transformación, donde se busca tener una distribución más apegada a la simetría.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 8. Distribución de PM2.5, original y transformada (AJM, 2015–2020).",
@@ -1067,47 +2067,97 @@
     },
     {
       "source": "En el caso de los regresores se realizó la transformación por separado para el conjunto de datos de entrenamiento y de prueba (Figura 9).",
-      "en": "In the case of regressors, the transformation was carried out separately for the training and test data set (Figure 9).",
+      "en": "In the case of the regressors, the transformation was performed separately for the training and test data set (Figure 9).",
       "es": "En el caso de los regresores se realizó la transformación por separado para el conjunto de datos de entrenamiento y de prueba (Figura 9).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 9. Distribución de regresores estandarizados en el conjunto de entrenamiento y de prueba (AJM, 2015–2020)",
-      "en": "Figure 9. Distribution of standardized backers in the training and test set (AJM, 2015-2020)",
+      "en": "Figure 9. Distribution of standardized regressors in the training and test set (AJM, 2015–2020)",
       "es": "Figura 9. Distribución de regresores estandarizados en el conjunto de entrenamiento y de prueba (AJM, 2015–2020)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Comenzamos modelando la serie univariada de PM2.5 sin imputar faltantes ya que el modelo maneja la falta de información en la variable de salida.",
-      "en": "We start by modeling the univariate series of PM2.5 without imputing missing as the model handles the lack of information in the output variable.",
+      "en": "We begin by modeling the univariate PM2.5 series without imputing missing values since the model handles the lack of information in the output variable.",
       "es": "Comenzamos modelando la serie univariada de PM2.5 sin imputar faltantes ya que el modelo maneja la falta de información en la variable de salida.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Generamos el conjunto de entrenamiento desde el",
-      "en": "We generate the training set from the",
+      "en": "We generate the training set from",
       "es": "Generamos el conjunto de entrenamiento desde el",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "hasta el",
-      "en": "until",
+      "en": "until the",
       "es": "hasta el",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "y el conjunto de prueba a partir del",
@@ -1120,29 +2170,59 @@
     },
     {
       "source": "y hasta el",
-      "en": "and to",
+      "en": "and until the",
       "es": "y hasta el",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "para entrenar y evaluar el modelo respectivamente. Se incorporan los días festivos de México al modelo para lograr un mejor ajuste.",
-      "en": "to train and evaluate the model respectively. Mexico's public holidays are incorporated into the model for better adjustment.",
+      "en": "to train and evaluate the model respectively. Mexican holidays are incorporated into the model to achieve a better fit.",
       "es": "para entrenar y evaluar el modelo respectivamente. Se incorporan los días festivos de México al modelo para lograr un mejor ajuste.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fragmento de código con los valores de los hiperparametros utilizados para entrenar el algoritmo:",
-      "en": "Code fragment with hyperparametres values used to train the algorithm:",
+      "en": "Code fragment with the values of the hyperparameters used to train the algorithm:",
       "es": "Fragmento de código con los valores de los hiperparametros utilizados para entrenar el algoritmo:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "pro_change=Prophet(changepoint_range=0.9,yearly_seasonality=True,",
@@ -1155,10 +2235,20 @@
     {
       "source": "holidays=holidays)",
       "en": "holidays=holidays)",
-      "es": "vacaciones=holidays)",
+      "es": "vacaciones = vacaciones)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "pro_change.add_country_holidays(country_name=’MX’)",
@@ -1195,20 +2285,40 @@
     },
     {
       "source": "El modelo genera un valor predictivo llamado yhat, y un intervalo de confianza con límite inferior yhat_lower y límite superior yhat_upper para la concentración de PM2.5, fijamos el nivel de confianza del 95%.",
-      "en": "The model generates a predictive value called yhat, and a confidence interval with lower yhat _ lower and upper yhat _ upper limit for PM2.5 concentration, we set the confidence level of 95%.",
+      "en": "The model generates a predictive value called yhat, and a confidence interval with lower limit yhat_lower and upper limit yhat_upper for the PM2.5 concentration, we set the confidence level of 95%.",
       "es": "El modelo genera un valor predictivo llamado yhat, y un intervalo de confianza con límite inferior yhat_lower y límite superior yhat_upper para la concentración de PM2.5, fijamos el nivel de confianza del 95%.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fragmento de código para hacer el cross validation",
-      "en": "Code Fragment to Make Cross Validation",
+      "en": "Code fragment to do cross validation",
       "es": "Fragmento de código para hacer el cross validation",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "from fbprophet.diagnostics import cross_validation",
@@ -1237,20 +2347,40 @@
     },
     {
       "source": "Figura 10. Ajuste del modelo de PM2.5 en la estación AJM",
-      "en": "Figure 10. Adjustment of the PM2.5 model at the AJM station",
+      "en": "Figure 10. PM2.5 model adjustment at the AJM station",
       "es": "Figura 10. Ajuste del modelo de PM2.5 en la estación AJM",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En la Figura 11 se muestra la descomposición de la serie en su tendencia, los días festivos, la estacionalidad semanal y anual.",
-      "en": "Figure 11 shows the breakdown of the series in its trend, the holidays, the weekly and annual seasonality.",
+      "en": "Figure 11 shows the decomposition of the series into its trend, holidays, weekly and annual seasonality.",
       "es": "En la Figura 11 se muestra la descomposición de la serie en su tendencia, los días festivos, la estacionalidad semanal y anual.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 11. Descomposición de la serie de PM2.5 en la estación AJM.",
@@ -1288,106 +2418,226 @@
     },
     {
       "source": "yhat, yhat_lower y yhat_upper versus y",
-      "en": "yhat, yhat _ lower and yhat _ upper versus and",
+      "en": "yhat, yhat_lower and yhat_upper versus y",
       "es": "yhat, yhat_lower y yhat_upper versus y",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "), en función de la distancia desde el límite (qué tan lejos en el futuro estaba la predicción). Las estadísticas calculadas son el error cuadrático medio (MSE), la raíz cuadrada del error cuadrático medio (RMSE), el error absoluto medio (MAE), el error porcentual absoluto medio (MAPE), el error porcentual absoluto medio (MDAPE) y la cobertura de las estimaciones",
-      "en": "), depending on the distance from the limit (how far in the future the prediction was). The calculated statistics are the mean quadratic error (MSE), the square root of the mean quadratic error (MSE), the mean absolute error (MAE), the mean absolute absolute error (MAPE), the mean absolute percentage error (MDAPE) and the coverage of the estimates",
+      "en": "), as a function of distance from the boundary (how far into the future the prediction was). The calculated statistics are Mean Squared Error (MSE), Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), Mean Absolute Percentage Error (MAPE), Mean Absolute Percentage Error (MDAPE), and Estimate Coverage.",
       "es": "), en función de la distancia desde el límite (qué tan lejos en el futuro estaba la predicción). Las estadísticas calculadas son el error cuadrático medio (MSE), la raíz cuadrada del error cuadrático medio (RMSE), el error absoluto medio (MAE), el error porcentual absoluto medio (MAPE), el error porcentual absoluto medio (MDAPE) y la cobertura de las estimaciones",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "yhat_lower",
-      "en": "yhat _ lower",
-      "es": "Yhat_lower",
+      "en": "yhat_lower",
+      "es": "yhat_lower",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "yhat_upper",
-      "en": "yhat _ upper",
-      "es": "Yhat_upper",
+      "en": "yhat_upper",
+      "es": "yhat_superior",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ". Estos se calculan en una ventana móvil de las predicciones en el dataframe después de clasificar por horizonte (ds menos cutoff). Por defecto, el 10% de las predicciones se incluirán en cada ventana, pero esto se puede cambiar con el argumento",
-      "en": ". These are calculated in a mobile window of the predictions in the dataframe after classifying by horizon (ds minus cutoff). By default, 10% of the predictions will be included in each window, but this can be changed with the argument",
+      "en": ". These are calculated in a moving window of the predictions in the dataframe after sorting by horizon (ds minus cutoff). By default, 10% of the predictions will be included in each window, but this can be changed with the argument",
       "es": ". Estos se calculan en una ventana móvil de las predicciones en el dataframe después de clasificar por horizonte (ds menos cutoff). Por defecto, el 10% de las predicciones se incluirán en cada ventana, pero esto se puede cambiar con el argumento",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "rolling_window",
       "en": "rolling_window",
-      "es": "Roll_window",
+      "es": "ventana_rodante",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fragmento de código para la obtención de las métricas",
-      "en": "Code Fragment for Metric Acquisition",
+      "en": "Code fragment to obtain metrics",
       "es": "Fragmento de código para la obtención de las métricas",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez que se corrieron los diferentes modelos, se realizó la comparación de las métricas para determinar el mejor modelo. En el caso de AJM, el mejor modelo a partir de RMSE fue el ajuste con hiperparámetros, seguido del modelo con regresores en general. Para todas las métricas, el modelo con menor error fue el de los hiperparámetros.",
-      "en": "Once the different models were corrected, the comparison of the metrics was made to determine the best model. In the case of AJM, the best model from RMSE was the adjustment with hyperparameters, followed by the model with in general regression. For all the metrics, the lowest error model was that of hyperparameters.",
+      "en": "Once the different models were run, the metrics were compared to determine the best model. In the case of AJM, the best model from RMSE was the fit with hyperparameters, followed by the model with general regressors. For all metrics, the model with the lowest error was the hyperparameters model.",
       "es": "Una vez que se corrieron los diferentes modelos, se realizó la comparación de las métricas para determinar el mejor modelo. En el caso de AJM, el mejor modelo a partir de RMSE fue el ajuste con hiperparámetros, seguido del modelo con regresores en general. Para todas las métricas, el modelo con menor error fue el de los hiperparámetros.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tabla 2. Comparativa de las métricas de los modelos ajustados (AJM, 2015–2020)",
-      "en": "Table 2. Comparative of the metrics of the adjusted models (AJM, 2015-2020)",
+      "en": "Table 2. Comparison of the metrics of the adjusted models (AJM, 2015–2020)",
       "es": "Tabla 2. Comparativa de las métricas de los modelos ajustados (AJM, 2015–2020)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A continuación se presenta la representación gráfica del mejor modelo ajustado, distinguiendo el periodo de entrenamiento, el de prueba y el pronóstico (Figura 12).",
-      "en": "The following is the graphic representation of the best adjusted model, distinguishing the training period, the test period and the prognosis (Figure 12).",
+      "en": "Below is the graphical representation of the best fitted model, distinguishing the training period, the test period and the forecast (Figure 12).",
       "es": "A continuación se presenta la representación gráfica del mejor modelo ajustado, distinguiendo el periodo de entrenamiento, el de prueba y el pronóstico (Figura 12).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 12. Ajuste del mejor modelo (AJM, 2015-2020)",
-      "en": "Figure 12. Best model adjustment (AJM, 2015-2020)",
+      "en": "Figure 12. Fit of the best model (AJM, 2015-2020)",
       "es": "Figura 12. Ajuste del mejor modelo (AJM, 2015-2020)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como resultado agregado al modelar estos datos, podemos detectar si en días futuros se puede presentar algún riesgo para la salud, con referencia a las Directrices de la Organización Mundial de la Salud para el promedio de 24 horas de PM2.5 (25 g/m³) y los rangos establecidos en el Índice AIRE y SALUD de México (NOM-172-SEMARNAT-2019).",
-      "en": "As an added result in modeling these data, we can detect whether in future days there can be any health risk, with reference to the World Health Organization Guidelines for the average of 24 hours of PM2.5 (25 g / m ³) and the ranges set out in the AIRE and SALUD Index of Mexico (NOM-172-SEMARNAT-2019).",
+      "en": "As an added result when modeling this data, we can detect if any health risk may occur in future days, with reference to the World Health Organization Guidelines for the 24-hour average of PM2.5 (25 g/m³) and the ranges established in the Mexican AIR and HEALTH Index (NOM-172-SEMARNAT-2019).",
       "es": "Como resultado agregado al modelar estos datos, podemos detectar si en días futuros se puede presentar algún riesgo para la salud, con referencia a las Directrices de la Organización Mundial de la Salud para el promedio de 24 horas de PM2.5 (25 g/m³) y los rangos establecidos en el Índice AIRE y SALUD de México (NOM-172-SEMARNAT-2019).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tabla 3. Niveles de riesgo de la calidad del aire (2020)",
@@ -1400,65 +2650,135 @@
     },
     {
       "source": "Fuente:Comisión Ambiental de la Megalópolis (CAMe)",
-      "en": "Source: Megalópolis Environmental Commission (CAME)",
+      "en": "Source: Environmental Commission of the Megalopolis (CAMe)",
       "es": "Fuente:Comisión Ambiental de la Megalópolis (CAMe)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de Ajusco Medio el pronóstico identifica registros posibles entre las bandas de calidad del aire buena y aceptable, y al considerar el intervalo de confianza del modelo (Figura 13) se identifica que los registros podrían llegar hasta la banda de calidad el aire mala, lo que podría presentar algún riesgo para la población.",
-      "en": "In the case of Ajusco Medio the prognosis identifies possible records between good and acceptable air quality bands, and when considering the confidence interval of the model (Figure 13) it is identified that the records could reach the bad air quality band, which could present some risk to the population.",
+      "en": "In the case of Ajusco Medio, the forecast identifies possible records between the good and acceptable air quality bands, and when considering the confidence interval of the model (Figure 13), it is identified that the records could reach the bad air quality band, which could present some risk to the population.",
       "es": "En el caso de Ajusco Medio el pronóstico identifica registros posibles entre las bandas de calidad del aire buena y aceptable, y al considerar el intervalo de confianza del modelo (Figura 13) se identifica que los registros podrían llegar hasta la banda de calidad el aire mala, lo que podría presentar algún riesgo para la población.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Figura 13. Alertas por calidad del aire en AJM, datos medidos y pronóstico al 31/01/2021",
-      "en": "Figure 13. Air quality alerts in AJM, measured data and prognosis at 31 / 01 / 2021",
+      "en": "Figure 13. Air quality alerts in AJM, measured data and forecast as of 01/31/2021",
       "es": "Figura 13. Alertas por calidad del aire en AJM, datos medidos y pronóstico al 31/01/2021",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se abre un mar de oportunidades para mejorar este primer acercamiento a modelar la calidad del aire por medio de inteligencia artificial. Los modelos se aplicaron a cada una de las estaciones, pero se puede desarrollar un modelo multiseries. De igual manera se estableció el total de variables contra las que se realizó el ajuste, pero se puede realizar una búsqueda entre los regresores que mayor aportación presentan al modelado de PM2.5.",
-      "en": "A sea of opportunities is opened to improve this first approach to modeling air quality through artificial intelligence. The models were applied to each of the stations, but a multiseries model can be developed. In the same way, the total variables against which the adjustment was made were established, but a search can be made among the regressors that present the most contribution to the modeling of PM2.5.",
+      "en": "A sea of opportunities opens up to improve this first approach to modeling air quality through artificial intelligence. The models were applied to each of the stations, but a multiseries model can be developed. In the same way, the total number of variables against which the adjustment was carried out was established, but a search can be carried out among the regressors that present the greatest contribution to the PM2.5 modeling.",
       "es": "Se abre un mar de oportunidades para mejorar este primer acercamiento a modelar la calidad del aire por medio de inteligencia artificial. Los modelos se aplicaron a cada una de las estaciones, pero se puede desarrollar un modelo multiseries. De igual manera se estableció el total de variables contra las que se realizó el ajuste, pero se puede realizar una búsqueda entre los regresores que mayor aportación presentan al modelado de PM2.5.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Desarrollar una aplicación para dar difusión de los resultados.",
-      "en": "Develop an application to disseminate results.",
+      "en": "Develop an application to disseminate the results.",
       "es": "Desarrollar una aplicación para dar difusión de los resultados.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Probar otros conjuntos de datos de diferentes ciudades.",
-      "en": "Test other data sets from different cities.",
+      "en": "Try other data sets from different cities.",
       "es": "Probar otros conjuntos de datos de diferentes ciudades.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "y mucho más…",
-      "en": "And much more...",
+      "en": "and much more...",
       "es": "y mucho más…",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Basheer O, et al. Imputation of Missing Values in Daily Wind Speed Data Using Hybrid AR-ANN Method Modern Applied Science 9(11):1, June 2015",
@@ -1471,20 +2791,40 @@
     {
       "source": "Mazumder R., Hastie T., Tibshirani R. Spectral regularization algorithms for learning large incomplete matrices. The Journal of Machine Learning Research 11, 2287–2322",
       "en": "Mazumder R., Hastie T., Tibshirani R. Spectral regularization algorithms for learning large incomplete matrices. The Journal of Machine Learning Research 11, 2287–2322",
-      "es": "Mazumder R., Hastie T., Tibshirani R. algoritmos de regularización espectral para aprender grandes matrices incompletas. El Journal of Machine Learning Research 11, 2287–2322",
+      "es": "Mazumder R., Hastie T., Tibshirani R. Algoritmos de regularización espectral para aprender grandes matrices incompletas. Revista de investigación sobre aprendizaje automático 11, 2287–2322",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Medina F. y Galván M. Imputación de datos: teoría y práctica. CEPAL, 2007.",
-      "en": "Medina F. and Galván M. Imputation of data: theory and practice. ECLAC, 2007.",
+      "en": "Medina F. and Galván M. Data imputation: theory and practice. ECLAC, 2007.",
       "es": "Medina F. y Galván M. Imputación de datos: teoría y práctica. CEPAL, 2007.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Shaadan N. and RahimN A M. 2019 J. Phys.: Conf. Ser. 1366 012107.",
@@ -1497,18 +2837,38 @@
     {
       "source": "Taylor SJ, Letham B. 2017. Forecasting at scale. PeerJ Preprints 5:e3190v2",
       "en": "Taylor SJ, Letham B. 2017. Forecasting at scale. PeerJ Preprints 5:e3190v2",
-      "es": "Taylor SJ, Letham B. 2017. Pronóstico a escala. PeerJ Preimpresos 5:e3190v2",
+      "es": "Taylor SJ, Letham B. 2017. Previsión a escala. Preimpresiones de PeerJ 5:e3190v2",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Troyanskaya G, et al. Missing Value Estimation Methods for DNA Microarrays June 2001. Bioinformatics 17(6):520–525",
       "en": "Troyanskaya G, et al. Missing Value Estimation Methods for DNA Microarrays June 2001. Bioinformatics 17(6):520–525",
-      "es": "Troyanskaya G, et al. Métodos de estimación de valor perdidos para las microarrayas de ADN Junio 2001. Bioinformática 17(6):520-525",
+      "es": "Troyanskaya G, et al. Métodos de estimación de valores faltantes para microarrays de ADN, junio de 2001. Bioinformatics 17(6):520–525",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "WHO, 2016.",
@@ -1521,27 +2881,57 @@
     {
       "source": "Health risk assessment of air pollution — general principles. Copenhagen: WHO Regional Office for Europe; 2016.",
       "en": "Health risk assessment of air pollution — general principles. Copenhagen: WHO Regional Office for Europe; 2016.",
-      "es": "Evaluación del riesgo de salud de la contaminación atmosférica - principios generales. Copenhague: Oficina Regional de la OMS para Europa; 2016.",
+      "es": "Evaluación de riesgos para la salud debido a la contaminación del aire: principios generales. Copenhague: Oficina Regional de la OMS para Europa; 2016.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Carslaw, D. C. and K. Ropkins, (2012) openair — — an R package for air quality data analysis. Environmental Modelling & Software. Volume 27–28, 52–61.",
       "en": "Carslaw, D. C. and K. Ropkins, (2012) openair — — an R package for air quality data analysis. Environmental Modelling & Software. Volume 27–28, 52–61.",
-      "es": "Carslaw, D. C. y K. Ropkins, (2012) openair — un paquete R para el análisis de datos de calidad del aire. Modelización ambiental &amp; Software. Volumen 27–28, 52–61.",
+      "es": "Carslaw, D. C. y K. Ropkins, (2012) openair — — un paquete R para análisis de datos de calidad del aire. Software y modelado ambiental. Volumen 27–28, 52–61.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Facebook Open Source, Prophet.",
       "en": "Facebook Open Source, Prophet.",
-      "es": "Fuente abierta de Facebook, Profeta.",
+      "es": "Código abierto de Facebook, Profeta.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Cristina Ortuño Mojica",

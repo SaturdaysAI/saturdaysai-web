@@ -17,10 +17,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Tarragona.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Tarragona.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Tarragona.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Tarragona.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Tarragona",

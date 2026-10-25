@@ -5,10 +5,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about Violence.",
       "en": "Stories, projects and conversations from Saturdays.AI about Violence.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre la violencia.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre Violencia.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

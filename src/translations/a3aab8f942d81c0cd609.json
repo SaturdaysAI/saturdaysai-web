@@ -60,10 +60,21 @@
     {
       "source": "Cesar was born in Lima, Peru. He’s a System Engineer and a MSc Candidate. Appasionate for Maths and Techonology/AI that became him in a specialized Machine Learning/Deep Learning Engineer. He has built and deploy many machine learning algorithms for a variety industries such as Retail, Telco and Bank. Currently, he works at Rappi for the Rappibank Latam team. Also, he has a vast experience in AWS Cloud, and has earned an AWS Machine Learning Specialty Certification. Moreover, he is an active research in new topics of Artificial Intelligence with research publications.",
       "en": "Cesar was born in Lima, Peru. He’s a System Engineer and a MSc Candidate. Appasionate for Maths and Techonology/AI that became him in a specialized Machine Learning/Deep Learning Engineer. He has built and deploy many machine learning algorithms for a variety industries such as Retail, Telco and Bank. Currently, he works at Rappi for the Rappibank Latam team. Also, he has a vast experience in AWS Cloud, and has earned an AWS Machine Learning Specialty Certification. Moreover, he is an active research in new topics of Artificial Intelligence with research publications.",
-      "es": "César nació en Lima, Perú. Es ingeniero de sistemas y candidato de MSc. Aplazado para Matemáticas y Tecnología/AI que se convirtió en un ingeniero especializado de aprendizaje de máquinas/Aprendizaje profundo. Ha construido e implementado muchos algoritmos de aprendizaje de máquinas para una variedad de industrias como Retail, Telco y Bank. Actualmente trabaja en Rappi para el equipo de Laboratorios Rappibank. Además, tiene una vasta experiencia en Noticias",
+      "es": "César nació en Lima, Perú. Es ingeniero de sistemas y candidato a maestría. Apasionado por las Matemáticas y la Tecnología/IA que lo convirtieron en un Ingeniero especializado en Machine Learning/Deep Learning. Ha creado e implementado muchos algoritmos de aprendizaje automático para una variedad de industrias como el comercio minorista, las telecomunicaciones y la banca. Actualmente trabaja en Rappi para el equipo de Rappibank Latam. Además, tiene una amplia experiencia en la nube de AWS y obtuvo una certificación de especialidad en aprendizaje automático de AWS. Además, es un investigador activo en nuevos temas de Inteligencia Artificial con publicaciones de investigación.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Deep Learning, Machine Learning",
@@ -74,10 +85,21 @@
     {
       "source": "Deep Learning researcher, GDG Rio Verde and TensorFlow Goiás Organizer, Mentor at Google for Startups, Ph.D Candidate, CIO at University of Rio Verde.",
       "en": "Deep Learning researcher, GDG Rio Verde and TensorFlow Goiás Organizer, Mentor at Google for Startups, Ph.D Candidate, CIO at University of Rio Verde.",
-      "es": "Investigadora de Aprendizaje Profundo, GDG Rio Verde y TensorFlow Goiás Organizador, Mentor en Google para Startups, Ph.D Candidate, CIO en la Universidad de Río Verde.",
+      "es": "Investigador de Deep Learning, GDG Rio Verde y Organizador de TensorFlow Goiás, Mentor de Google for Startups, Candidato a Ph.D, CIO de la Universidad de Rio Verde.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ética de la Inteligencia Artificial",
@@ -118,6 +140,17 @@
       "es": "Saturdays.AILa Paz ¡Aprende Inteligencia Artificial junto a nosotros! Cuando: 23 de septiembreDonde: OnlinePrograma: Deep Learning 2º edición Inscribirme Ver folleto Estructura del curso: Code2Learn Durante la primera mitad…",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Archivo del programa de deep learning de AI Saturdays La Paz. Explora su metodología y consulta las nuevas ediciones con el equipo.",
+      "en": "The AI Saturdays La Paz deep learning programme archive. Explore its approach and ask the team about new editions.",
+      "es": "Archivo del programa de deep learning de AI Saturdays La Paz. Explora su metodología y consulta las nuevas ediciones con el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

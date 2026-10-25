@@ -59,7 +59,7 @@ To return this repository to its separate review URL, remove `PAGES_CUSTOM_DOMAI
 
 ## Source limitations
 
-The [Spanish audit](SPANISH-AUDIT-2026-10-25.md) records remaining editorial and manual-device checks. Production publication does not imply that those issues have been closed. Private WordPress drafts, users, transactions and LMS data are outside the public-content migration.
+The [Spanish audit](SPANISH-AUDIT-2026-10-25.md) records the original editorial and manual-device findings. The subsequent [Spanish and English editorial review](EDITORIAL-REVIEW-2026-10-25.md) updates the organisation's narrative and identity, legal information and translation quality, with explicit limits on archive review. Physical-device and field-performance limitations still apply. Private WordPress drafts, users, transactions and LMS data are outside the public-content migration.
 
 ## Provider references
 

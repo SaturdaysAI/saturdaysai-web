@@ -942,11 +942,21 @@
     {
       "source": "Shape of X before SMOTE: (1470, 51)",
       "en": "Shape of X before SMOTE: (1470, 51)",
-      "es": "Forma de X antes de la OCE: (1470, 51)",
+      "es": "Forma de X antes de SMOTE: (1470, 51)",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Shape of X after SMOTE: (2466, 51)",

@@ -14,10 +14,20 @@
     {
       "source": "Jul 29, 2022",
       "en": "Jul 29, 2022",
-      "es": "29 de julio, 2022",
+      "es": "29 de julio de 2022",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Season 4 / Episode 2",
@@ -31,10 +41,20 @@
     {
       "source": "Jul 26, 2022",
       "en": "Jul 26, 2022",
-      "es": "26 de julio, 2022",
+      "es": "26 de julio de 2022",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Season 4 / Episode 1",
@@ -64,11 +84,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about 2022 / 07.",
       "en": "Stories, projects and conversations from Saturdays.AI about 2022 / 07.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI unos 2022 / 07.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre 2022/07.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2022 / 07",

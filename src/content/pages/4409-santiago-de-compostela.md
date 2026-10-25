@@ -1,9 +1,6 @@
 ---
 title: Santiago de Compostela
-description: "Saturdays.AI - SCQ Conviértete en expert@ en machine learning en
-  solo 12 semanas.Desarrolla proyectos de impacto social en equipos
-  multidisciplinares.Forma parte de la comunidad global de I.A. Cuándo: 1ª
-  Edición – febrero 2022…"
+description: "Descubre la comunidad de Saturdays.AI en Santiago de Compostela. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/352c85a774dba997.webp
 legacyPath: /santiago-de-compostela/
 sourceUrl: https://saturdays.ai/santiago-de-compostela/

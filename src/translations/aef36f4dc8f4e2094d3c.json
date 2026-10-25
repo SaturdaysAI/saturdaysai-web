@@ -227,10 +227,15 @@
     },
     {
       "source": "Deep Learning para detectar el cansancio y la inantención del conductor.",
-      "en": "Deep Learning to detect driver fatigue and inattention.",
-      "es": "Deep Learning para detectar el cansancio y la inantención del conductor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Deep learning to detect driver fatigue and inattention",
+      "es": "Deep learning para detectar el cansancio y la inatención del conductor",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Feb 27, 2022",

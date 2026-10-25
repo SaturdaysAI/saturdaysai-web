@@ -1,8 +1,6 @@
 ---
 title: Bilbao
-description: "Saturdays.AI - Bilbao Bilbao promueve la atracción, la creación y
-  el crecimiento de empresas que generen empleo y riqueza en el municipio en un
-  ámbito estratégico como es el sector de la I.A. Cuando: inscripciones…"
+description: "Descubre la comunidad de Saturdays.AI en Bilbao. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/6e65a597f4347686.webp
 legacyPath: /bilbao/
 sourceUrl: https://saturdays.ai/bilbao/

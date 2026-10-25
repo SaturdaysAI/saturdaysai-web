@@ -140,9 +140,14 @@
     },
     {
       "source": "AI fellows",
-      "en": "AI Fellows",
+      "en": "AI fellows",
       "es": "AI fellows",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "desarrollaron una serie de scripts con Python, Selenium, entre otras herramientas. Como resultado de esta etapa de extracción, consiguieron generar nuestros primeros conjuntos de datos en bruto (",
@@ -497,16 +502,32 @@
     {
       "source": "Box, G. E. P., and G. M. Jenkins. 1976: Time Series Analysis: Forecasting and Control. Ed. Holden-day. San Francisco.",
       "en": "Box, G. E. P., and G. M. Jenkins. 1976: Time Series Analysis: Forecasting and Control. Ed. Holden-day. San Francisco.",
-      "es": "Box, G. E. P. y G. M. Jenkins. 1976: Análisis de la serie de tiempo: pronóstico y control. Ed. Holden-day. San Francisco.",
+      "es": "Box, G. E. P. y G. M. Jenkins. 1976: Análisis de series temporales: previsión y control. Ed. Día de Holden. San Francisco.",
       "reviewed": false,
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Otero, J; Trujillo, F. 1998: “Forecasting Tourism Demand in the Short Term: The Case of Andalusian Hotel Establishments”, 4th International Forum on Tourism Statistics. Copenhague",
       "en": "Otero, J; Trujillo, F. 1998: “Forecasting Tourism Demand in the Short Term: The Case of Andalusian Hotel Establishments”, 4th International Forum on Tourism Statistics. Copenhague",
-      "es": "Otero, J; Trujillo, F. 1998: “La demanda de turismo en el corto plazo: El caso de los establecimientos hoteleros andaluz”, 4o Foro Internacional sobre Estadísticas del Turismo. Copenhague",
-      "reviewed": false,
-      "provider": "Argos automatic translation"
+      "es": "Otero, J; Trujillo, F. 1998: “Forecasting Tourism Demand in the Short Term: The Case of Andalusian Hotel Establishments”, 4th International Forum on Tourism Statistics. Copenhague",
+      "reviewed": true,
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Translation checked against original; no new verification of historical research claims"
+      }
     },
     {
       "source": "Gabriela Vega",

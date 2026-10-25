@@ -669,10 +669,21 @@
     {
       "source": "Hands-on Transfer Learning with Keras and the VGG16 Model",
       "en": "Hands-on Transfer Learning with Keras and the VGG16 Model",
-      "es": "Aprendizaje de transferencia manual con Keras y el modelo VGG16",
+      "es": "Aprendizaje práctico por transferencia con Keras y el modelo VGG16",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A partir del resultado de este primer ajuste, construiremos nuevos modelos,",

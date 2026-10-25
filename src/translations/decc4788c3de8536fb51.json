@@ -5,18 +5,38 @@
     {
       "source": "Neighborhood-Based",
       "en": "Neighborhood-Based",
-      "es": "Barrio-Basado",
+      "es": "Basado en el vecindario",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tree-Based",
       "en": "Tree-Based",
-      "es": "Base de árboles",
+      "es": "Basado en árboles",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ensemble",
@@ -29,34 +49,74 @@
     {
       "source": "Linear and Non-linear",
       "en": "Linear and Non-linear",
-      "es": "Linear y no lineal",
+      "es": "Lineal y no lineal",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Dimensionality",
       "en": "Dimensionality",
-      "es": "Dimensión",
+      "es": "Dimensionalidad",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Federico dos Reis 🇦🇷",
-      "en": "Federico dos Reis",
-      "es": "Federico dos Reis 🇦 Desnudez",
+      "en": "Federico dos Reis 🇦🇷",
+      "es": "Federico dos Reyes 🇦🇷",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "**Stanley",
-      "en": "* * Stanley",
-      "es": "¡Stanley!",
+      "en": "**Stanley",
+      "es": "**stanley",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "AI Saturdays La Paz Machine Learning",
@@ -69,11 +129,16 @@
     },
     {
       "source": ": 06 de Julio",
-      "en": ": July 06",
+      "en": ": July 6",
       "es": ": 06 de Julio",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Translation checked against original; no new verification of historical research claims"
+      }
     },
     {
       "source": ": Machine Learning 3º edición",
@@ -94,11 +159,21 @@
     },
     {
       "source": "113 USD / Bs. 791 (Promo válida hasta el 27/06)",
-      "en": "USD 113 / Bs. 791 (Proof valid until 27 / 06)",
+      "en": "113 USD / Bs. 791 (Promo valid until 06/27)",
       "es": "113 USD / Bs. 791 (Promo válida hasta el 27/06)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "105 USD / Bs. 735",
@@ -110,11 +185,21 @@
     },
     {
       "source": "Inscripciones",
-      "en": "Registration",
+      "en": "Registrations",
       "es": "Inscripciones",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Methods",
@@ -126,30 +211,60 @@
     },
     {
       "source": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
-      "en": "We will start with basic concepts with Machine Learning. Then we will start with Machine Learning supervised by viewing the first methods of Machine Learning: K Nearest Neighbors, K-D trees. We will also review the Netflix case.",
+      "en": "We will start with basic concepts with Machine Learning. Then we will start with supervised Machine Learning looking at the first Machine Learning methods: K Nearest Neighbors, K-D trees. We will also review the Netflix case.",
       "es": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
-      "en": "We will continue with the different methods based on decision trees: Decision Trees, Return Trees, Classification Trees. We will review CHAID, CART.",
+      "en": "We will continue with the different methods based on decision trees: Decision Trees, Regression Trees, Classification Trees. We will review CHAID, CART.",
       "es": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
-      "en": "We will use Ensemble Methods to combine models and produce better results. We will review Boosting (Adaboost, Stochastic Gradient Boosting), Bagging (Random Forest).",
+      "en": "We will use Ensemble Methods to combine models and produce better results. We will review Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
       "es": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Culminaremos la etapa de Machine Learning supervisado revisando Linear Regression, Logistic Regression, Shrinkage Methods y Support Vector Machines",
@@ -170,12 +285,22 @@
     },
     {
       "source": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
-      "en": "We will start the Unsupervised Machine Learning phase with the reduction of dimensionality. We will see Principal Component Analysis, Linear Discrimination Analysis and t-SNE.",
+      "en": "We will begin the unsupervised Machine Learning stage with dimensionality reduction. We will look at Principal Component Analysis, Linear Discriminant Analysis and t-SNE.",
       "es": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Concretaremos la etapa de Machine Learning no supervisado con los métodos de clustering. Veremos K-Means Clustering, Hierarchical Clustering, DBSCAN.",
@@ -188,12 +313,22 @@
     },
     {
       "source": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
-      "en": "We will review the introduction to Deep Learning and the Natural Language Processing.",
+      "en": "We will review the introduction to Deep Learning and Natural Language Processing.",
       "es": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fundamentos de cloud y uso de Amazon Web Services para el deploy de modelos de Machine Learning.",
@@ -215,10 +350,20 @@
     {
       "source": "Data Scientist, Physicist",
       "en": "Data Scientist, Physicist",
-      "es": "Científicos de datos, físicos",
+      "es": "Científico de datos, físico",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Físico en ciencia de datos. Machine learning engineer en Mercado Ads (Mercado Libre Publicidad). Fuí docente en la Universidad de Buenos Aires, doctorando CONICET.",
@@ -240,36 +385,66 @@
     {
       "source": "Data Engineering, Data Science",
       "en": "Data Engineering, Data Science",
-      "es": "Ingeniería de datos, Ciencia de datos",
+      "es": "Ingeniería de datos, ciencia de datos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
-      "en": "Stanley Salvatierra studied electrical engineering, currently CTO and co-founder of the startup deepmicrosystems.com. Where he works on solving problems of artificial vision and natural language processing. In 2019 he was chosen innovator less than 35 by the MIT tech review for his work in artificial vision within his startup.",
+      "en": "Stanley Salvatierra studied electrical engineering, he is currently CTO and co-founder of the startup deepmicrosystems.com. Where he works on solving problems in computer vision and natural language processing. In 2019 he was chosen as Innovator under 35 by the MIT tech review for his work in artificial vision within his startup.",
       "es": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Inscripciones del 14 de junio al 04 de julio",
-      "en": "Registration from 14 June to 04 July",
+      "en": "Registration from June 14 to July 4",
       "es": "Inscripciones del 14 de junio al 04 de julio",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Translation checked against original; no new verification of historical research claims"
+      }
     },
     {
       "source": "Duración del curso: 06 de julio – 21 de agosto",
-      "en": "Course duration: July 06 - August 21",
+      "en": "Course duration: July 6 – August 21",
       "es": "Duración del curso: 06 de julio – 21 de agosto",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Translation checked against original; no new verification of historical research claims"
+      }
     },
     {
       "source": "Lunes, Martes y Sábado",
@@ -281,11 +456,21 @@
     },
     {
       "source": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
-      "en": "Hours: Monday (21: 00 - 22: 00), Tuesday (18: 00 - 21: 00), Saturday (09: 00 - 12: 00) UTC - 4 (Bolivian time)",
+      "en": "Schedule: Monday (21:00 – 22:00), Tuesday (18:00 – 21:00), Saturday (09:00 – 12:00) UTC – 4 (Bolivian time)",
       "es": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "113 USD / Bs. 791",
@@ -297,12 +482,22 @@
     },
     {
       "source": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
-      "en": "Download our brochure for more detailed information from our Machine Learning program.",
+      "en": "Download our brochure for more detailed information on our Machine Learning program.",
       "es": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Saturdays AILa Paz ¡Aprende Inteligencia Artificial junto a nosotros! Cuando: 06 de JulioDonde: OnlinePrograma: Machine Learning 3º edición: 150 USD / Bs. 1050120 USD / Bs. 840113 USD / Bs. 791 (Promo válida hasta el 27/06)105…",
@@ -318,6 +513,17 @@
       "en": "Salvatierra Berrios 🇧🇴",
       "es": "Salvatierra Berrios 🇧🇴",
       "reviewed": true
+    },
+    {
+      "source": "Archivo del programa de machine learning de AI Saturdays La Paz: metodología, proyectos y equipo. Consulta las nuevas ediciones con la comunidad.",
+      "en": "The AI Saturdays La Paz machine learning programme archive: approach, projects and team. Ask the community about new editions.",
+      "es": "Archivo del programa de machine learning de AI Saturdays La Paz: metodología, proyectos y equipo. Consulta las nuevas ediciones con la comunidad.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

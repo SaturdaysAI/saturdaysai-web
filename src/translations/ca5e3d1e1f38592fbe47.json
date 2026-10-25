@@ -4,21 +4,36 @@
   "segments": [
     {
       "source": "La IA, presente en nuestras vidas",
-      "en": "The IA, present in our lives",
+      "en": "AI in our everyday lives",
       "es": "La IA, presente en nuestras vidas",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La IA está presente en nuestras vidas, pero, ¿qué es la IA? ¿Qué es eso llamado inteligencia artificial? Podemos haber oído el concepto “inteligencia artificial” muchas veces en la televisión, en redes sociales, en el…",
-      "en": "The IA is present in our lives, but what is the IA? What is that called artificial intelligence? We may have heard the concept \"artificial intelligence\" many times on television, on social networks, on the...",
+      "en": "AI is present in our lives, but what is AI? What is this thing called artificial intelligence? We may have heard the concept “artificial intelligence” many times on television, on social networks, in the…",
       "es": "La IA está presente en nuestras vidas, pero, ¿qué es la IA? ¿Qué es eso llamado inteligencia artificial? Podemos haber oído el concepto “inteligencia artificial” muchas veces en la televisión, en redes sociales, en el…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "22 abr 2022",
@@ -38,12 +53,22 @@
     },
     {
       "source": "Diferentes categorías de la IA",
-      "en": "Different categories of IA",
+      "en": "Different categories of AI",
       "es": "Diferentes categorías de la IA",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para reflexionar",
@@ -55,56 +80,116 @@
     },
     {
       "source": "La IA está presente en nuestras vidas, pero, ¿qué es la IA? ¿Qué es eso llamado inteligencia artificial? Podemos haber oído el concepto “inteligencia artificial” muchas veces en la televisión, en redes sociales, en el periódico… Pero, no sabemos qué es exactamente: ¿una inteligencia que tienen las máquinas? ¿las hace inteligentes? ¿van a dominar el mundo gracias a esta inteligencia las máquinas? Nada más lejos de la realidad.",
-      "en": "The IA is present in our lives, but what is the IA? What is that called artificial intelligence? We may have heard the concept \"artificial intelligence\" many times on television, on social networks, on the newspaper... But, we don't know exactly what it is: an intelligence that the machines have? Does it make them intelligent? Will they dominate the world thanks to this intelligence the machines? Nothing further than reality.",
+      "en": "AI is present in our lives, but what is AI? What is this thing called artificial intelligence? We may have heard the concept “artificial intelligence” many times on television, on social networks, in the newspaper... But, we do not know what exactly it is: an intelligence that machines have? Does it make them intelligent? Are machines going to dominate the world thanks to this intelligence? Nothing could be further from the truth.",
       "es": "La IA está presente en nuestras vidas, pero, ¿qué es la IA? ¿Qué es eso llamado inteligencia artificial? Podemos haber oído el concepto “inteligencia artificial” muchas veces en la televisión, en redes sociales, en el periódico… Pero, no sabemos qué es exactamente: ¿una inteligencia que tienen las máquinas? ¿las hace inteligentes? ¿van a dominar el mundo gracias a esta inteligencia las máquinas? Nada más lejos de la realidad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La inteligencia artificial está presente en nuestras vidas y va a ser clave en los próximos años en el progreso económico, político y social. Por ello, aquí vamos a ver una definición y caracterización sencilla y entendible de la Inteligencia Artificial, también llamada IA y sus diferentes tipologías.",
-      "en": "Artificial intelligence is present in our lives and will be key in the coming years in economic, political and social progress. Therefore, here we will see a simple and understandable definition and characterization of Artificial Intelligence, also called IA and its different typologies.",
+      "en": "Artificial intelligence is present in our lives and will be key in the coming years in economic, political and social progress. Therefore, here we are going to see a simple and understandable definition and characterization of Artificial Intelligence, also called AI, and its different typologies.",
       "es": "La inteligencia artificial está presente en nuestras vidas y va a ser clave en los próximos años en el progreso económico, político y social. Por ello, aquí vamos a ver una definición y caracterización sencilla y entendible de la Inteligencia Artificial, también llamada IA y sus diferentes tipologías.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Si consultamos varios artículos de prensa o académicos nos da la sensación de que no hay una definición homogénea. Lo que solemos entender es que si hablamos de Inteligencia Artificial hablamos de cómo una máquina reproduce las funciones cognitivas humanas, cómo si esas máquinas supieran cómo funciona el cerebro humano. Se desarrolla a partir de algoritmos y se entrena con datos observables, que pueden ser públicos y encontrarse, por ejemplo, en internet o peuden ser privados, producidos por una empresa.",
-      "en": "If we look at several press or academic articles, it gives us the feeling that there is no homogeneous definition. What we usually understand is that if we talk about Artificial Intelligence we talk about how a machine reproduces human cognitive functions, how if these machines know how the human brain works. It develops from algorithms and is trained with observable data, which can be public and found, for example, on the Internet or peuden to be private, produced by a company.",
+      "en": "If we consult several press or academic articles, we get the feeling that there is no homogeneous definition. What we usually understand is that if we talk about Artificial Intelligence we talk about how a machine reproduces human cognitive functions, as if these machines knew how the human brain works. It is developed from algorithms and is trained with observable data, which can be public and found, for example, on the Internet or can be private, produced by a company.",
       "es": "Si consultamos varios artículos de prensa o académicos nos da la sensación de que no hay una definición homogénea. Lo que solemos entender es que si hablamos de Inteligencia Artificial hablamos de cómo una máquina reproduce las funciones cognitivas humanas, cómo si esas máquinas supieran cómo funciona el cerebro humano. Se desarrolla a partir de algoritmos y se entrena con datos observables, que pueden ser públicos y encontrarse, por ejemplo, en internet o peuden ser privados, producidos por una empresa.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por otro lado, la definición que nos ofrece la",
-      "en": "On the other hand, the definition that offers us the",
+      "en": "On the other hand, the definition offered by the",
       "es": "Por otro lado, la definición que nos ofrece la",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Unión Europea (UE)",
-      "en": "EU (EU)",
+      "en": "European Union (EU)",
       "es": "Unión Europea (UE)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "“«inteligencia artificial» (IA) se aplica a los sistemas que manifiestan un comportamiento inteligente, pues son capaces de analizar su entorno y pasar a la acción –con cierto grado de autonomía– con el fin de alcanzar objetivos específicos” (COM/2018/237 final, Bruselas, 25.4.2018). Y aunque esta definición puede aterrizarnos, como vimos en otro",
-      "en": "\"\" artificial intelligence \"(IA) applies to systems that demonstrate intelligent behaviour, as they are able to analyze their environment and move to action - with a certain degree of autonomy - in order to achieve specific objectives\" (COM / 2018 / 237 final, Brussels, 25.4.2018).",
+      "en": "“Artificial intelligence (AI) applies to systems that exhibit intelligent behavior, as they are capable of analyzing their environment and taking action – with a certain degree of autonomy – in order to achieve specific objectives” (COM/2018/237 final, Brussels, 25.4.2018). And although this definition may land us, as we saw in another",
       "es": "“«inteligencia artificial» (IA) se aplica a los sistemas que manifiestan un comportamiento inteligente, pues son capaces de analizar su entorno y pasar a la acción –con cierto grado de autonomía– con el fin de alcanzar objetivos específicos” (COM/2018/237 final, Bruselas, 25.4.2018). Y aunque esta definición puede aterrizarnos, como vimos en otro",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "artículo",
@@ -116,39 +201,74 @@
     },
     {
       "source": ", no hemos de preocuparnos si no lo entendemos del todo, la definición en sí es confusa.",
-      "en": "We must not worry if we do not fully understand it, the definition itself is confusing.",
+      "en": ", we should not worry if we do not fully understand it, the definition itself is confusing.",
       "es": ", no hemos de preocuparnos si no lo entendemos del todo, la definición en sí es confusa.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sin embargo, no podemos olvidarnos de cómo surgió. 1956 y Darmouth, donde se organizó un taller que reunió a grandes pensadores de las redes neuronales, teoría de los autómatas y estudio de la inteligencia., del que saldría la disciplina de la inteligencia artificial. protagonistas de este hecho fueron Allen Newell, Herbert Simon, Marvin Minsky, Arthur Samuel y John McCarthy. Más tarde vendrán los grandes enfrentamientos entre máquinas y ajedrecistas. En la década de los 70, Terry Winograd desarrolla un programa que interrogaba y daba órdenes a un robot que se movía dentro de un mundo de bloques. Ya a partir de los años 2000 entrará IBM y sus supercomputadores, y actualmente no hemos de perder de vista los desarrollos de OpenAI.",
-      "en": "However, we cannot forget how it came to be. 1956 and Darmouth, where a workshop was organized that brought together great thinkers of the neural networks, automatic theory and intelligence study. In the 1970s, Terry Winograd developed a program that questioned and gave orders to a robot that moved within a world of the 2000's, and we have not yet lost the previous ones.",
+      "en": "However, we cannot forget how it came about. 1956 and Dartmouth, where a workshop was organized that brought together great thinkers in neural networks, automata theory and the study of intelligence, from which the discipline of artificial intelligence would emerge. The protagonists of this event were Allen Newell, Herbert Simon, Marvin Minsky, Arthur Samuel and John McCarthy. Later will come the great confrontations between machines and chess players. In the 1970s, Terry Winograd developed a program that interrogated and gave commands to a robot that moved within a world of blocks. Starting in the 2000s, IBM and its supercomputers will enter, and currently we must not lose sight of the developments of OpenAI.",
       "es": "Sin embargo, no podemos olvidarnos de cómo surgió. 1956 y Darmouth, donde se organizó un taller que reunió a grandes pensadores de las redes neuronales, teoría de los autómatas y estudio de la inteligencia., del que saldría la disciplina de la inteligencia artificial. protagonistas de este hecho fueron Allen Newell, Herbert Simon, Marvin Minsky, Arthur Samuel y John McCarthy. Más tarde vendrán los grandes enfrentamientos entre máquinas y ajedrecistas. En la década de los 70, Terry Winograd desarrolla un programa que interrogaba y daba órdenes a un robot que se movía dentro de un mundo de bloques. Ya a partir de los años 2000 entrará IBM y sus supercomputadores, y actualmente no hemos de perder de vista los desarrollos de OpenAI.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Translation checked against original; no new verification of historical research claims"
+      }
     },
     {
       "source": "Pero, no hemos de olvidarnos de los orígenes más antiguos que podemos rastear de la Inteligencia artificial. Podemos rastrear sus orígenes en Aristóteles y Ctesibio de Alejandría. Ya que, el primero propuso una serie de reglas que guiarían nuestra mente para llegar a conclusiones racionales; y el segundo, construyó una de las primeras máquinas autocontrolada de manera racional, pero esta no poseía razonamiento como tal.",
-      "en": "But we must not forget the oldest origins that we can trace from artificial intelligence. We can trace its origins in Aristotle and Ctesibio of Alexandria. Since, the first proposed a series of rules that would guide our mind to reach rational conclusions; and the second, it built one of the first self-controlled machines in a rational way, but it did not possess reasoning as such.",
+      "en": "But, we must not forget the oldest origins that we can trace of Artificial Intelligence. We can trace its origins to Aristotle and Ctesibius of Alexandria. Since, the first proposed a series of rules that would guide our mind to reach rational conclusions; and the second, he built one of the first rationally self-controlled machines, but this did not have reasoning as such.",
       "es": "Pero, no hemos de olvidarnos de los orígenes más antiguos que podemos rastear de la Inteligencia artificial. Podemos rastrear sus orígenes en Aristóteles y Ctesibio de Alejandría. Ya que, el primero propuso una serie de reglas que guiarían nuestra mente para llegar a conclusiones racionales; y el segundo, construyó una de las primeras máquinas autocontrolada de manera racional, pero esta no poseía razonamiento como tal.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En otros artículos ya hemos mencionado algunas cuestiones acerca de la categorización de la IA y sus diferentes niveles de riesgo. Pero aquí, para comprender mejor qué es la inteligencia artificial, hemos de tener en cuenta las siguientes categorías en las que se puede clasificar la IA, según Stuart Russell y Peter Norvig:",
-      "en": "In other articles we have already mentioned some questions about the categorization of the IA and its different levels of risk. But here, to better understand what artificial intelligence is, we have to take into account the following categories in which the IA can be classified, according to Stuart Russell and Peter Norvig:",
+      "en": "In other articles we have already mentioned some issues about the categorization of AI and its different levels of risk. But here, to better understand what artificial intelligence is, we have to take into account the following categories in which AI can be classified, according to Stuart Russell and Peter Norvig:",
       "es": "En otros artículos ya hemos mencionado algunas cuestiones acerca de la categorización de la IA y sus diferentes niveles de riesgo. Pero aquí, para comprender mejor qué es la inteligencia artificial, hemos de tener en cuenta las siguientes categorías en las que se puede clasificar la IA, según Stuart Russell y Peter Norvig:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sistemas que piensan como humanos.",
@@ -160,30 +280,60 @@
     },
     {
       "source": "Intentan emular nuestro pensamiento y sus procesos.",
-      "en": "They try to emulate our thinking and their processes.",
+      "en": "They try to emulate our thinking and its processes.",
       "es": "Intentan emular nuestro pensamiento y sus procesos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sistemas que actúan como humanos.",
-      "en": "Systems that act as humans.",
+      "en": "Systems that act like humans.",
       "es": "Sistemas que actúan como humanos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Intenta emular nuestras acciones y comportamiento, como por ejemplo la robótica.",
-      "en": "Try to emulate our actions and behavior, such as robotics.",
+      "en": "It tries to emulate our actions and behavior, such as robotics.",
       "es": "Intenta emular nuestras acciones y comportamiento, como por ejemplo la robótica.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sistemas que piensan racionalmente",
@@ -195,12 +345,22 @@
     },
     {
       "source": ". Intenta emular nuestro pensamiento lógico-racional que haría posible los dos puntos anteriores.",
-      "en": ". Try to emulate our logical-rational thought that would make possible the two above points.",
+      "en": ". Try to emulate our logical-rational thinking that would make the previous two points possible.",
       "es": ". Intenta emular nuestro pensamiento lógico-racional que haría posible los dos puntos anteriores.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sistemas que actúan racionalmente.",
@@ -212,63 +372,133 @@
     },
     {
       "source": "Intenta emular el comportamiento racional humano, lo que podría entenderse como una comprensión y unión de los tres puntos anteriores.",
-      "en": "He tries to emulate human rational behavior, which could be understood as an understanding and union of the three above points.",
+      "en": "It tries to emulate rational human behavior, which could be understood as an understanding and union of the three previous points.",
       "es": "Intenta emular el comportamiento racional humano, lo que podría entenderse como una comprensión y unión de los tres puntos anteriores.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Además, hemos de tener presente también la diferenciación entre inteligencia artificial convencional y computacional. Mientras que la primera es conocida como una IA simbólico-deductiva, la otra es conocida como una IA subsimbólica-deductiva.",
-      "en": "In addition, we must also keep in mind the differentiation between conventional and computational artificial intelligence. While the first is known as a symbolic-deductive IA, the other is known as a subsymbolic-deductive IA.",
+      "en": "In addition, we must also keep in mind the differentiation between conventional and computational artificial intelligence. While the first is known as a symbolic-deductive AI, the other is known as a subsymbolic-deductive AI.",
       "es": "Además, hemos de tener presente también la diferenciación entre inteligencia artificial convencional y computacional. Mientras que la primera es conocida como una IA simbólico-deductiva, la otra es conocida como una IA subsimbólica-deductiva.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La IA simbólica deductiva",
-      "en": "The deductive symbolic AI",
+      "en": "Deductive symbolic AI",
       "es": "La IA simbólica deductiva",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "se basa en un modo de operar, tal y como su nombre indica, deductivo; se basa en un análisis formal y estadístico, a partir del cual escoge la solución a un determinado problema. Puede autorregularse y goza de autonomía. Mientras que",
-      "en": "It is based on a way of operating, as its name indicates, deductive; it is based on a formal and statistical analysis, from which it chooses the solution to a particular problem. It can be self-regulated and has autonomy.",
+      "en": "It is based on a deductive mode of operation, as its name indicates; It is based on a formal and statistical analysis, from which the solution to a certain problem is chosen. It can self-regulate and enjoys autonomy. While",
       "es": "se basa en un modo de operar, tal y como su nombre indica, deductivo; se basa en un análisis formal y estadístico, a partir del cual escoge la solución a un determinado problema. Puede autorregularse y goza de autonomía. Mientras que",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "la IA subsimbólica- deductiva",
-      "en": "the subsymbolic-deductive IA",
+      "en": "subsymbolic-deductive AI",
       "es": "la IA subsimbólica- deductiva",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", que se basa en el desarrollo o aprendizaje interactivo, que toma como base datos empíricos.",
-      "en": "which is based on interactive development or learning, which takes as an empirical basis.",
+      "en": ", which is based on interactive development or learning, which is based on empirical data.",
       "es": ", que se basa en el desarrollo o aprendizaje interactivo, que toma como base datos empíricos.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No podemos dejar de pasar por alto que aún no hay una definición explícita y clara sobre lo que es la Inteligencia Artificial. De hecho, actualmente, en vez de hablar en hablar de IA, se habla de Machine learning o Deep learning. Aunque, los últimos avances en IA buscan el",
-      "en": "We cannot fail to ignore that there is still no explicit and clear definition of what Artificial Intelligence is. In fact, today, instead of talking about IA, we talk about Machine Learning or Deep Learning. Although, the latest advances in IA seek to achieve the",
+      "en": "We cannot help but overlook that there is still no explicit and clear definition of what Artificial Intelligence is. In fact, currently, instead of talking about AI, we talk about Machine learning or Deep learning. Although, the latest advances in AI seek the",
       "es": "No podemos dejar de pasar por alto que aún no hay una definición explícita y clara sobre lo que es la Inteligencia Artificial. De hecho, actualmente, en vez de hablar en hablar de IA, se habla de Machine learning o Deep learning. Aunque, los últimos avances en IA buscan el",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Reasoning Learning",
@@ -280,30 +510,60 @@
     },
     {
       "source": ", no sólo se busca que «sepan» sino que sean capaces de relacionar conceptos entre sí, es decir, intentan emular el «razonar» humano. ¿Curioso verdad?",
-      "en": "Not only are they wanted to \"know\" but they are able to relate concepts to each other, that is, they try to emulate human \"reasoning.\"",
+      "en": ", we not only want them to \"know\" but also to be able to relate concepts to each other, that is, they try to emulate human \"reasoning.\" Curious right?",
       "es": ", no sólo se busca que «sepan» sino que sean capaces de relacionar conceptos entre sí, es decir, intentan emular el «razonar» humano. ¿Curioso verdad?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Alguno de los campos donde tiene una mayor aplicación la inteligencia artificial es en los juegos, medicina, transportes, atención al cliente, medicina, finanzas, industria y , como no, la computación. Sin embargo, en los siguientes años seguro que nos la encontramos en sitios tan dispares como puede ser un restaurante, la tienda de al lado de nuestra casa o en la oficina del ayuntamiento de nuestra ciudad.",
-      "en": "Some of the fields where artificial intelligence has a greater application is in games, medicine, transport, customer care, medicine, finance, industry and, as not, computing. However, in the next years we will surely find it in places as different as a restaurant, the shop next to our house or in the office of our city council.",
+      "en": "Some of the fields where artificial intelligence has the greatest application is in games, medicine, transportation, customer service, medicine, finance, industry and, of course, computing. However, in the following years we will surely find it in places as diverse as a restaurant, the store next to our house or in the city hall office of our city.",
       "es": "Alguno de los campos donde tiene una mayor aplicación la inteligencia artificial es en los juegos, medicina, transportes, atención al cliente, medicina, finanzas, industria y , como no, la computación. Sin embargo, en los siguientes años seguro que nos la encontramos en sitios tan dispares como puede ser un restaurante, la tienda de al lado de nuestra casa o en la oficina del ayuntamiento de nuestra ciudad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por ello, si quieres saber más sobre IA y conocer qué es el Machine Learning, echa un vistazo a",
-      "en": "So, if you want to know more about IA and know what the Machine Learning is, take a look at",
+      "en": "Therefore, if you want to know more about AI and learn what Machine Learning is, take a look at",
       "es": "Por ello, si quieres saber más sobre IA y conocer qué es el Machine Learning, echa un vistazo a",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "nuestra web",
@@ -315,19 +575,39 @@
     },
     {
       "source": "para comenzar a formarte en Inteligencia Artificial.",
-      "en": "to start training you in Artificial Intelligence.",
+      "en": "to start training in Artificial Intelligence.",
       "es": "para comenzar a formarte en Inteligencia Artificial.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Gestión (11/11/2018)",
-      "en": "Management (11 / 11 / 2018)",
+      "en": "Management (11/11/2018)",
       "es": "Gestión (11/11/2018)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "¿Qué es la inteligencia artificial y para qué sirve?",
@@ -357,46 +637,96 @@
     },
     {
       "source": ". Instituto Tecnológico e Nuevo Laredo. Recuperado de:",
-      "en": ". Institute of Technology and New Laredo. Recovered from:",
+      "en": ". Technological Institute of Nuevo Laredo. Recovered from:",
       "es": ". Instituto Tecnológico e Nuevo Laredo. Recuperado de:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Singh, A. (08/09/2021)",
-      "en": "Singh, A. (08 / 09 / 2021)",
+      "en": "Singh, A. (09/08/2021)",
       "es": "Singh, A. (08/09/2021)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Deep Reasoning: Is this the Next Era of AI?",
       "en": "Deep Reasoning: Is this the Next Era of AI?",
-      "es": "Razonamiento Profundo: ¿Es esta la siguiente era de AI?",
+      "es": "Razonamiento profundo: ¿Es esta la próxima era de la IA?",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "UE ( 19/02/2020)",
-      "en": "EU (19 / 02 / 2020)",
+      "en": "EU (02/19/2020)",
       "es": "UE ( 19/02/2020)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Informe sobre las repercusiones en materia de seguridad y responsabilidad civil de la inteligencia artificial, el internet de las cosas y la robótica",
-      "en": "Report on the security and civil responsibility implications of artificial intelligence, the Internet of things and robotics",
+      "en": "Report on the security and liability implications of artificial intelligence, the Internet of Things and robotics",
       "es": "Informe sobre las repercusiones en materia de seguridad y responsabilidad civil de la inteligencia artificial, el internet de las cosas y la robótica",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Documento. Recuperado de:",
@@ -416,20 +746,40 @@
     },
     {
       "source": "vida cotidiana",
-      "en": "daily life",
+      "en": "everyday life",
       "es": "vida cotidiana",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 abr 2022.",
-      "en": "A story of the Saturdays.AI. community originally published on 22 abr 2022.",
+      "en": "A history of the Saturdays.AI community. Originally published on Apr 22, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 abr 2022.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

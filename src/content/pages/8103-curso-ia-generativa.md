@@ -1,9 +1,6 @@
 ---
 title: Curso-IA-Generativa
-description: Generative AI ⚔ Multimodal Learn what is Generative AI, «prompt
-  engineering«, and what is «Multimodal», including «recipes & tips» to make it
-  worthy.From boosting your productivity to free your creativity, Generative AI
-  only…
+description: "Explora los fundamentos de la IA generativa, los modelos multimodales y la ingeniería de prompts con Saturdays.AI."
 image: /media/56ca14beb9357bd7.webp
 legacyPath: /curso-ia-generativa/
 sourceUrl: https://saturdays.ai/curso-ia-generativa/

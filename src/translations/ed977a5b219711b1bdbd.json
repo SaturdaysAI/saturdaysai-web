@@ -5,45 +5,90 @@
     {
       "source": "This page includes programme information from our community archive. Contact the team to confirm current dates, availability and requirements.",
       "en": "This page includes programme information from our community archive. Contact the team to confirm current dates, availability and requirements.",
-      "es": "Esta página incluye información del programa de nuestro archivo comunitario. Contacte con el equipo para confirmar las fechas, disponibilidad y requisitos actuales.",
-      "reviewed": false,
+      "es": "Esta página conserva información de programas anteriores. Consulta con el equipo las fechas, la disponibilidad y los requisitos actuales.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Watch what it's like",
       "en": "Watch what it's like",
-      "es": "Mira cómo es",
+      "es": "Mira como es",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "1º - Code 2 Learn",
       "en": "1º - Code 2 Learn",
-      "es": "1o - Código 2 Aprender",
+      "es": "1º - Código 2 Aprender",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2º - Build 2 Learn",
       "en": "2º - Build 2 Learn",
-      "es": "2o - Construir 2 Aprender",
+      "es": "2º - Construye 2 Aprende",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "3º - DemoDay",
       "en": "3º - DemoDay",
-      "es": "3o - DemoDay",
+      "es": "3º - DemoDay",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "How is the programme built?",
@@ -57,10 +102,20 @@
     {
       "source": "Machine Learning Curriculum",
       "en": "Machine Learning Curriculum",
-      "es": "Programa de aprendizaje automático",
+      "es": "Plan de estudios de aprendizaje automático",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Deep Learning Curriculum",
@@ -81,27 +136,57 @@
     {
       "source": "Technical mentor support",
       "en": "Technical mentor support",
-      "es": "Apoyo a los mentores técnicos",
+      "es": "Soporte técnico de mentores",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A learning experience done right",
       "en": "A learning experience done right",
-      "es": "Una experiencia de aprendizaje hecha correctamente",
+      "es": "Una experiencia de aprendizaje bien hecha",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Certificate of completion",
       "en": "Certificate of completion",
-      "es": "Certificado de terminación",
+      "es": "Certificado de finalización",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Meet our fellows",
@@ -114,20 +199,40 @@
     {
       "source": "Our flagship program AI Saturdays lasts about 12-15 sessions of 5h each.",
       "en": "Our flagship program AI Saturdays lasts about 12-15 sessions of 5h each.",
-      "es": "Nuestro programa insignia AI Saturdays dura alrededor de 12-15 sesiones de 5h cada uno.",
+      "es": "Nuestro programa estrella AI Saturdays dura entre 12 y 15 sesiones de 5 horas cada una.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "It is always scheduled on Saturdays, so that everyone has the opportunity to learn while building projects powered by AI.",
       "en": "It is always scheduled on Saturdays, so that everyone has the opportunity to learn while building projects powered by AI.",
-      "es": "Siempre está programado los sábados, para que todos tengan la oportunidad de aprender mientras se construyen proyectos impulsados por AI.",
+      "es": "Siempre está programado los sábados, para que todos tengan la oportunidad de aprender mientras crean proyectos impulsados por IA.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "grupo jovenes aprendiendo inteligencia artificial",
@@ -149,10 +254,20 @@
     {
       "source": "saturdaysai2",
       "en": "saturdaysai2",
-      "es": "Saturdays.AI2",
+      "es": "sábadosai2",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "DSC00243",
@@ -165,11 +280,21 @@
     {
       "source": "During the first half of the program, we learn the foundations of Machine Learning or Deep Learning through",
       "en": "During the first half of the program, we learn the foundations of Machine Learning or Deep Learning through",
-      "es": "Durante la primera mitad del programa, aprendemos los cimientos del aprendizaje automático o el aprendizaje profundo a través de",
+      "es": "Durante la primera mitad del programa, aprendemos los fundamentos del Machine Learning o Deep Learning a través de",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "coding exercises",
@@ -182,28 +307,58 @@
     {
       "source": "on GPU enabled environments in a collaborative way. You will be assisted by facilitators and mentors all along this stage.",
       "en": "on GPU enabled environments in a collaborative way. You will be assisted by facilitators and mentors all along this stage.",
-      "es": "en entornos habilitados por la GPU de manera colaborativa. Será atendido por facilitadores y mentores a lo largo de esta etapa.",
+      "es": "en entornos habilitados para GPU de forma colaborativa. Estarás asistido por facilitadores y mentores a lo largo de esta etapa.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "We follow a top-down approach to learning by programming. To start, you will need some knowledge in Python and to know how to handle the basics of data science libraries. We go for challenges that encourage thinking.",
       "en": "We follow a top-down approach to learning by programming. To start, you will need some knowledge in Python and to know how to handle the basics of data science libraries. We go for challenges that encourage thinking.",
-      "es": "Seguimos un enfoque de arriba hacia abajo para el aprendizaje mediante la programación. Para empezar, necesitarás algún conocimiento en Python y saber cómo manejar los fundamentos de las bibliotecas de ciencia de datos.",
+      "es": "Seguimos un enfoque de arriba hacia abajo para aprender mediante programación. Para comenzar, necesitarás algunos conocimientos de Python y saber manejar los conceptos básicos de las bibliotecas de ciencia de datos. Apostamos por retos que fomenten el pensamiento.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Practice > Theory",
       "en": "Practice > Theory",
-      "es": "Practicar >",
+      "es": "Práctica > Teoría",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "In the second half of the program, we",
@@ -217,99 +372,209 @@
     {
       "source": "build end2end AI powered prototypes",
       "en": "build end2end AI powered prototypes",
-      "es": "construir end2end AI prototipos alimentados",
+      "es": "construir prototipos impulsados por IA end2end",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "using what we have just learnt. Working with both a dataset and a model of your choice, we address a real problem with AI, looking for social impact ideas.",
       "en": "using what we have just learnt. Working with both a dataset and a model of your choice, we address a real problem with AI, looking for social impact ideas.",
-      "es": "Usando lo que acabamos de aprender. Trabajando con un conjunto de datos y un modelo de su elección, abordamos un problema real con la IA, buscando ideas de impacto social.",
+      "es": "utilizando lo que acabamos de aprender. Trabajando tanto con un conjunto de datos como con un modelo de su elección, abordamos un problema real con la IA, buscando ideas de impacto social.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "For the projects, we put together multidisciplinary teams where diversity stands out. You can flip through all the projects we developed",
       "en": "For the projects, we put together multidisciplinary teams where diversity stands out. You can flip through all the projects we developed",
-      "es": "Para los proyectos, construimos equipos multidisciplinarios en los que destaca la diversidad.",
+      "es": "Para los proyectos conformamos equipos multidisciplinarios donde destaca la diversidad. Puedes hojear todos los proyectos que desarrollamos",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "here",
       "en": "here",
-      "es": "Aquí.",
+      "es": "aquí",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Finally, after completing the Saturdays sessions, you",
       "en": "Finally, after completing the Saturdays sessions, you",
-      "es": "Finalmente, después de completar las sesiones de los sábados, usted",
+      "es": "Finalmente, después de completar las sesiones de los sábados,",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "deliver a presentation",
       "en": "deliver a presentation",
-      "es": "entrega una presentación",
+      "es": "hacer una presentación",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "on DemoDay. This day, you can reveal to the community what you have accomplished and we all celebrate your project showcase.",
       "en": "on DemoDay. This day, you can reveal to the community what you have accomplished and we all celebrate your project showcase.",
-      "es": "en DemoDay. Este día, usted puede revelar a la comunidad lo que usted ha logrado y todos celebramos su escaparate del proyecto.",
+      "es": "en DemoDay. Este día, puedes revelarle a la comunidad lo que has logrado y todos celebramos la exhibición de tu proyecto.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "To submit your project you will need to display your work beforehand in an article in our blog and publish the code in open source through Github.",
       "en": "To submit your project you will need to display your work beforehand in an article in our blog and publish the code in open source through Github.",
-      "es": "Para enviar su proyecto necesitará mostrar su trabajo de antemano en un artículo en nuestro blog y publicar el código en código abierto a través de Github.",
+      "es": "Para enviar tu proyecto necesitarás mostrar tu trabajo previamente en un artículo de nuestro blog y publicar el código en código abierto a través de Github.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "You can choose different curriculums in Machine Learning or Deep Learning depending on your knowledge and interests in AI. You will learn in group with your mentors through coding exercises and share with your partners.",
       "en": "You can choose different curriculums in Machine Learning or Deep Learning depending on your knowledge and interests in AI. You will learn in group with your mentors through coding exercises and share with your partners.",
-      "es": "Usted puede elegir diferentes planes de estudios en Aprendizaje de Máquinas o Aprendizaje Profundo dependiendo de sus conocimientos e intereses en AI. Usted aprenderá en grupo con sus mentores a través de ejercicios de codificación y compartir con sus socios.",
+      "es": "Puedes elegir diferentes planes de estudio en Machine Learning o Deep Learning según tus conocimientos e intereses en IA. Aprenderás en grupo con tus mentores a través de ejercicios de codificación y compartirás con tus socios.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "This programme consists of a minimum of 6 weeks, that can be extended at the discretion of the city manager. Here you can take a look at the basic content you will learn.",
       "en": "This programme consists of a minimum of 6 weeks, that can be extended at the discretion of the city manager. Here you can take a look at the basic content you will learn.",
-      "es": "Este programa consta de un mínimo de 6 semanas, que se puede ampliar a discreción del gerente de la ciudad. Aquí puede echar un vistazo al contenido básico que aprenderá.",
+      "es": "Este programa consta de un mínimo de 6 semanas, que pueden ampliarse a criterio del administrador de la ciudad. Aquí puedes echar un vistazo al contenido básico que aprenderás.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "During the weeks of the Code2Learn phase we are not seeking for a complete training, but rather for you to develop the ability to use Machine Learning in practical exercises.",
       "en": "During the weeks of the Code2Learn phase we are not seeking for a complete training, but rather for you to develop the ability to use Machine Learning in practical exercises.",
-      "es": "Durante las semanas de la fase Code2Learn no estamos buscando un entrenamiento completo, sino más bien para que usted desarrolle la capacidad de utilizar Machine Learning en ejercicios prácticos.",
+      "es": "Durante las semanas de la fase Code2Learn no buscamos una formación completa, sino que desarrolles la capacidad de utilizar Machine Learning en ejercicios prácticos.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Level:",
@@ -330,20 +595,40 @@
     {
       "source": "The Deep Learning curriculum also consists of a minimum of 6 weeks. To enroll, you will need a minimum of experience with key Machine Learning concepts, preferably through a project.",
       "en": "The Deep Learning curriculum also consists of a minimum of 6 weeks. To enroll, you will need a minimum of experience with key Machine Learning concepts, preferably through a project.",
-      "es": "El plan de estudios de aprendizaje profundo también consiste en un mínimo de 6 semanas. Para inscribirse, necesitará un mínimo de experiencia con conceptos clave de aprendizaje automático, preferiblemente a través de un proyecto.",
+      "es": "El plan de estudios de Deep Learning también consta de un mínimo de 6 semanas. Para inscribirse, necesitará un mínimo de experiencia con conceptos clave de Machine Learning, preferiblemente a través de un proyecto.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Here you can look at the basic curriculum, although each city has the possibility to extend it. Ask your city lead.",
       "en": "Here you can look at the basic curriculum, although each city has the possibility to extend it. Ask your city lead.",
-      "es": "Aquí puede ver el currículo básico, aunque cada ciudad tiene la posibilidad de extenderlo. Pregúntele a su ciudad.",
+      "es": "Aquí puedes consultar el plan de estudios básico, aunque cada ciudad tiene la posibilidad de ampliarlo. Pregúntele al líder de su ciudad.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "intermediate",
@@ -356,11 +641,21 @@
     {
       "source": "With social impact projects and immersive content built in groups, you’ll master the A.I. skills you need.",
       "en": "With social impact projects and immersive content built in groups, you’ll master the A.I. skills you need.",
-      "es": "Con proyectos de impacto social y contenidos inmersivos construidos en grupos, dominarás las habilidades A.I. que necesitas.",
+      "es": "Con proyectos de impacto social y contenido inmersivo creado en grupos, dominarás la inteligencia artificial. habilidades que necesitas.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Not only will you learn by creating a project, but you will be able to have a real and social impact in the field you choose.",
@@ -374,11 +669,21 @@
     {
       "source": "The reason why anyone can learn A.I. is to be able to count on mentors from different backgrounds with experience in machine learning.",
       "en": "The reason why anyone can learn A.I. is to be able to count on mentors from different backgrounds with experience in machine learning.",
-      "es": "La razón por la que alguien puede aprender A.I. es poder contar con mentores de diferentes orígenes con experiencia en el aprendizaje automático.",
+      "es": "La razón por la que cualquiera puede aprender A.I. es poder contar con mentores de diferentes orígenes con experiencia en aprendizaje automático.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Access to recorded classes, forums, exercises and more resources.",
@@ -392,29 +697,59 @@
     {
       "source": "Thanks to the help of Eduflow you will be able to train yourself through tests, exercises, corrections and feedback between students, etc.",
       "en": "Thanks to the help of Eduflow you will be able to train yourself through tests, exercises, corrections and feedback between students, etc.",
-      "es": "Gracias a la ayuda de Eduflow podrás entrenar a ti mismo a través de pruebas, ejercicios, correcciones y comentarios entre estudiantes, etc.",
+      "es": "Gracias a la ayuda de Eduflow podrás capacitarte a través de pruebas, ejercicios, correcciones y comentarios entre alumnos, etc.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Get your certificate of completion after the successful completion of your project. It is a certificate issued by Saturdays.AI as an organization so you can present it on your CV or Linkedin.",
       "en": "Get your certificate of completion after the successful completion of your project. It is a certificate issued by Saturdays.AI as an organization so you can present it on your CV or Linkedin.",
-      "es": "Obtenga su certificado de terminación después de la finalización exitosa de su proyecto. Es un certificado emitido por los Saturdays.AI como una organización para que pueda presentarlo en su CV o Linkedin.",
+      "es": "Obtenga su certificado de finalización después de la finalización exitosa de su proyecto. Es un certificado emitido por Saturdays.AI como organización para que puedas presentarlo en tu CV o Linkedin.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "You will have to complete the entire course, from the exercises of the code2learn phase, to creating a group project and presenting it at the demoday.",
       "en": "You will have to complete the entire course, from the exercises of the code2learn phase, to creating a group project and presenting it at the demoday.",
-      "es": "Tendrá que completar todo el curso, desde los ejercicios de la fase code2learn, hasta crear un proyecto de grupo y presentarlo en el demoday.",
+      "es": "Tendrás que completar todo el curso, desde los ejercicios de la fase code2learn, hasta crear un proyecto grupal y presentarlo en el demoday.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Happy AI Fellows",
@@ -427,28 +762,58 @@
     {
       "source": "have benefited from learning Artificial Intelligence as part of the AI Saturdays movement, creating an awesome community of AI enthusiasts and practitioners.",
       "en": "have benefited from learning Artificial Intelligence as part of the AI Saturdays movement, creating an awesome community of AI enthusiasts and practitioners.",
-      "es": "se han beneficiado de aprender Inteligencia Artificial como parte del movimiento AI Saturdays, creando una comunidad impresionante de entusiastas y practicantes de IA.",
+      "es": "se han beneficiado del aprendizaje de Inteligencia Artificial como parte del movimiento AI Saturdays, creando una increíble comunidad de entusiastas y profesionales de la IA.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "AI Projects Delivered",
       "en": "AI Projects Delivered",
-      "es": "Proyectos AI ejecutados",
+      "es": "Proyectos de IA entregados",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Our participants have built high-impact AI prototypes and proof of concepts (POC) during AI Saturdays, many for non-profit organizations and several on their way of becoming Start-ups.",
       "en": "Our participants have built high-impact AI prototypes and proof of concepts (POC) during AI Saturdays, many for non-profit organizations and several on their way of becoming Start-ups.",
-      "es": "Nuestros participantes han construido prototipos de IA de alto impacto y pruebas de conceptos (POC) durante los sábados de IA, muchos para organizaciones sin fines de lucro y varios en su forma de convertirse en start-ups.",
+      "es": "Nuestros participantes han construido prototipos de IA de alto impacto y pruebas de conceptos (POC) durante AI Saturdays, muchos para organizaciones sin fines de lucro y varios en camino de convertirse en Start-ups.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Machine Learning Exercises",
@@ -461,29 +826,125 @@
     {
       "source": "To deliver on our commitment of making you AI fluent, we employ the best learning tools. We know that the learning experience is as good as the community that you are part of plus the lessons you follow.",
       "en": "To deliver on our commitment of making you AI fluent, we employ the best learning tools. We know that the learning experience is as good as the community that you are part of plus the lessons you follow.",
-      "es": "Para cumplir con nuestro compromiso de hacer que la IA sea fluida, empleamos las mejores herramientas de aprendizaje. Sabemos que la experiencia de aprendizaje es tan buena como la comunidad de la que eres parte más de las lecciones que sigues.",
+      "es": "Para cumplir con nuestro compromiso de hacer que usted domine la IA, empleamos las mejores herramientas de aprendizaje. Sabemos que la experiencia de aprendizaje es tan buena como la comunidad de la que formas parte y las lecciones que sigues.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Our participants come from all walks of life. We are developers, researchers, entrepreneurs, product managers, students… Diversity is the bedrock on our mission.",
       "en": "Our participants come from all walks of life. We are developers, researchers, entrepreneurs, product managers, students… Diversity is the bedrock on our mission.",
-      "es": "Nuestros participantes vienen de todos los ámbitos de la vida. Somos desarrolladores, investigadores, empresarios, gerentes de productos, estudiantes... La diversidad es la base de nuestra misión.",
+      "es": "Nuestros participantes provienen de todos los ámbitos de la vida. Somos desarrolladores, investigadores, emprendedores, product managers, estudiantes… La diversidad es la base de nuestra misión.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "AI Saturdays Our flagship program AI Saturdays lasts about 12-15 sessions of 5h each. It is always scheduled on Saturdays, so that everyone has the opportunity to learn while building projects powered by AI. Watch what it's…",
       "en": "AI Saturdays Our flagship program AI Saturdays lasts about 12-15 sessions of 5h each. It is always scheduled on Saturdays, so that everyone has the opportunity to learn while building projects powered by AI. Watch what it's…",
-      "es": "AI Saturdays Nuestro programa insignia AI Saturdays dura alrededor de 12-15 sesiones de 5h cada uno. Siempre está programado los sábados, para que todos tengan la oportunidad de aprender mientras se construyen proyectos impulsados por AI. Ver lo que es...",
+      "es": "AI Saturdays Nuestro programa estrella AI Saturdays dura entre 12 y 15 sesiones de 5 horas cada una. Siempre está programado los sábados, para que todos tengan la oportunidad de aprender mientras crean proyectos impulsados ​​por IA. Mira lo que es...",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
+    },
+    {
+      "source": "From curiosity to a project you can share",
+      "en": "From curiosity to a project you can share",
+      "es": "De la curiosidad a un proyecto que puedes compartir",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Archive of previous editions",
+      "en": "Archive of previous editions",
+      "es": "Archivo de ediciones anteriores",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and work together on a project with social impact. A Demo Day gives each team a chance to share what it has built and learned.",
+      "en": "AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and work together on a project with social impact. A Demo Day gives each team a chance to share what it has built and learned.",
+      "es": "AI Saturdays es nuestro programa de aprendizaje en comunidad. Practicas IA con otras personas, recibes apoyo de mentores y trabajas en equipo en un proyecto con impacto social. El Demo Day permite compartir lo que cada equipo ha creado y aprendido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Editions typically run over 12 to 15 Saturdays. Each community confirms its format, prerequisites and dates. The programme archive below shows how previous editions worked.",
+      "en": "Editions typically run over 12 to 15 Saturdays. Each community confirms its format, prerequisites and dates. The programme archive below shows how previous editions worked.",
+      "es": "Las ediciones suelen durar entre 12 y 15 sábados. Cada comunidad confirma su formato, requisitos y fechas. El archivo del programa muestra cómo se desarrollaron ediciones anteriores.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Explore learning resources",
+      "en": "Explore learning resources",
+      "es": "Explora los recursos para aprender",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays combines practical AI learning, mentor support and a team project. Find a community and ask about its next edition.",
+      "en": "AI Saturdays combines practical AI learning, mentor support and a team project. Find a community and ask about its next edition.",
+      "es": "AI Saturdays combina aprendizaje práctico de IA, mentores y un proyecto en equipo. Encuentra tu comunidad y consulta su próxima edición.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

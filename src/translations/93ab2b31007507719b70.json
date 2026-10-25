@@ -76,10 +76,21 @@
     {
       "source": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
       "en": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
-      "es": "Detectar COVID-19 en imágenes de rayos X con Keras, TensorFlow y Deep Learning",
+      "es": "Detección de COVID-19 en imágenes de rayos X con Keras, TensorFlow y Deep Learning",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Cnn",

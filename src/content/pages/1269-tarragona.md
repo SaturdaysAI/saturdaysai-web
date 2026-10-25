@@ -1,9 +1,6 @@
 ---
 title: Tarragona
-description: "Saturdays.AI - Tarragona Participa en la comunidad de Inteligencia
-  Artificial de la antigua capital de Hispania Cuando: a determinarDonde:
-  semipresencialPrograma: Machine Learning: (a determinar) Únete ahora de la
-  próxima ¿No…"
+description: "Descubre la comunidad de Saturdays.AI en Tarragona. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/9571490480338382.webp
 legacyPath: /tarragona/
 sourceUrl: https://saturdays.ai/tarragona/

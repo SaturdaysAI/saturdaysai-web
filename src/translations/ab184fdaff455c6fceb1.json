@@ -5,10 +5,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about filosofia.",
       "en": "Stories, projects and conversations from Saturdays.AI about filosofia.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre filosofia.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre filosofía.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

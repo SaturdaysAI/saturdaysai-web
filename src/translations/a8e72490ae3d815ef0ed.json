@@ -313,10 +313,21 @@
     {
       "source": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education",
       "en": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education",
-      "es": "Saturdays.AI es una organización centrada en el impacto en una misión para empoderar a diversos individuos para aprender Inteligencia Artificial de una manera colaborativa y basada en proyectos, más allá del camino convencional de la educación tradicional",
+      "es": "Saturdays.AI es una organización centrada en el impacto con la misión de capacitar a diversas personas para que aprendan Inteligencia Artificial de una manera colaborativa y basada en proyectos, más allá del camino convencional de la educación tradicional.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

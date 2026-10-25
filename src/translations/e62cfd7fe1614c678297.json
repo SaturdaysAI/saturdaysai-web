@@ -48,19 +48,39 @@
     {
       "source": "Aug 1, 2022",
       "en": "Aug 1, 2022",
-      "es": "1, 2022",
+      "es": "1 de agosto de 2022",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Stories, projects and conversations from Saturdays.AI about 2022 / 08.",
       "en": "Stories, projects and conversations from Saturdays.AI about 2022 / 08.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI unos 2022 / 08.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre 2022/08.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2022 / 08",

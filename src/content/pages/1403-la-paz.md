@@ -1,9 +1,6 @@
 ---
 title: La Paz
-description: "Saturdays AILa Paz ¡Aprende Inteligencia Artificial junto a
-  nosotros! Estructura del curso: Code2Learn Durante la primera mitad del
-  programa aprenderás los fundamentos de Machine Learning con ejercicios
-  prácticos de…"
+description: "Descubre la comunidad de Saturdays.AI en La Paz. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/0c64c5aca67450d1.webp
 legacyPath: /la-paz/
 sourceUrl: https://saturdays.ai/la-paz/

@@ -236,10 +236,21 @@
     {
       "source": "Se eliminaron las stopwords como: the, and, that, a, any, an, be, with. Entre otras.",
       "en": "Se eliminaron las stopwords como: the, and, that, a, any, an, be, with. Entre otras.",
-      "es": "Se eliminaron las stopwords como: el, y, que, a, cualquiera, an, ser, con. Entre otras.",
+      "es": "Se eliminaron las palabras vacías como: the, and, that, a, any, an, be, with. Entre otras.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se eliminaron emojis, URL, hashtags y cualquier tipo de valor alfanumérico.",

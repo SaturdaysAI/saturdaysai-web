@@ -13,27 +13,57 @@
     },
     {
       "source": "4 min de lectura",
-      "en": "4 min reading",
+      "en": "4 min read",
       "es": "4 min de lectura",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo. El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años…",
-      "en": "In this article, we will use Machine Learning techniques to optimize soil compaction. The soil is a material composed of a solid, liquid and gaseous part, which was formed for hundreds of millions of years...",
+      "en": "In this article, we will use Machine Learning techniques to optimize soil compaction. Soil is a material composed of a solid, liquid and gaseous part, which was formed over hundreds of millions of years...",
       "es": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo. El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años…",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "12 nov 2021",
-      "en": "12 Nov 2021",
+      "en": "Nov 12, 2021",
       "es": "12 nov 2021",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mauricio Ramirez Salamanca",
@@ -54,47 +84,97 @@
     },
     {
       "source": "El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años de meteorización y sedimentación. Entendemos por compactación el eliminar la mayor cantidad de masa gaseosa (comúnmente aire) del suelo mediante carga.",
-      "en": "The soil is a material composed of a solid, liquid and gaseous part, which was formed for hundreds of millions of years of meteorization and sedimentation. We understand by compaction the elimination of the most gaseous mass (commonly air) from the soil by charge.",
+      "en": "Soil is a material composed of a solid, liquid and gaseous part, which was formed during hundreds of millions of years of weathering and sedimentation. We understand compaction to eliminate the greatest amount of gaseous mass (commonly air) from the soil by loading.",
       "es": "El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años de meteorización y sedimentación. Entendemos por compactación el eliminar la mayor cantidad de masa gaseosa (comúnmente aire) del suelo mediante carga.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
-      "en": "The compaction curve consists of a curve that is built after marking the dry density and moisture points of the sample. With a minimum of 5 points a curve is hand-drawn that can correlate all these points and the maximum dry density and the optimal humidity to which this soil can be compacted.",
+      "en": "The compaction curve consists of a curve that is constructed after marking the even points of dry density and moisture of the sample. With a minimum of 5 points, a curve is drawn by hand that can correlate all these points and the maximum dry density and the optimal humidity at which this soil can be compacted are obtained.",
       "es": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Estos parámetros son linealmente independientes y no existe una relación entre el ensayo de compactación y la clasificación de suelos, por lo que se realizan dos ensayos diferentes para la obtención del mismo.",
-      "en": "These parameters are linearly independent and there is no relationship between the compaction test and the classification of soils, so two different tests are performed for the purpose of obtaining it.",
+      "en": "These parameters are linearly independent and there is no relationship between the compaction test and soil classification, so two different tests are carried out to obtain it.",
       "es": "Estos parámetros son linealmente independientes y no existe una relación entre el ensayo de compactación y la clasificación de suelos, por lo que se realizan dos ensayos diferentes para la obtención del mismo.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Descripción del problema",
-      "en": "Description of the problem",
+      "en": "Problem description",
       "es": "Descripción del problema",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para cada kilómetro de carretera se requieren 5 pozos de ensayo de los cuales es requisito presentar dos ensayos:",
-      "en": "For each kilometre of road, 5 test wells are required, of which two tests are required:",
+      "en": "For each kilometer of road, 5 test pits are required, of which two tests must be submitted:",
       "es": "Para cada kilómetro de carretera se requieren 5 pozos de ensayo de los cuales es requisito presentar dos ensayos:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Clasificación de suelos",
@@ -114,12 +194,22 @@
     },
     {
       "source": "En la práctica, debido a los recursos económicos y la logística que representa solo se realizan 5 ensayos de clasificación y 2 de compactación y los resultados se interpolan.",
-      "en": "In practice, due to the economic resources and logistics it represents, only 5 classification and 2 compaction tests are performed and the results are interpolated.",
+      "en": "In practice, due to the economic resources and logistics involved, only 5 classification tests and 2 compaction tests are carried out and the results are interpolated.",
       "es": "En la práctica, debido a los recursos económicos y la logística que representa solo se realizan 5 ensayos de clasificación y 2 de compactación y los resultados se interpolan.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Objetivo",
@@ -157,19 +247,39 @@
     },
     {
       "source": "Regresión multi-lineal",
-      "en": "Multilinear regression",
+      "en": "Multi-linear regression",
       "es": "Regresión multi-lineal",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Regresión polinómica",
-      "en": "Polynomic regression",
+      "en": "Polynomial regression",
       "es": "Regresión polinómica",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Técnicas implementadas",
@@ -189,12 +299,22 @@
     },
     {
       "source": "Se redujeron todas las columnas que no aportan una información relevante: ‘Pozo’, ‘Lado’, ‘Prf o (m)’, ‘Prf f (m)’, ‘% Hum’, ‘ST >3’, ‘3’, ‘AASTHO’, ‘#’, ‘SUCS’, ‘100%’, ‘97%’, ‘95%’, ‘100%.1’, ‘97%.1’, ‘95%.1’",
-      "en": "All columns that do not provide relevant information were reduced: 'Pozo', 'Lado', 'Prf or (m)', 'Prf f (m)', '% Hum', 'ST > 3', '3', 'AASTHO', '#', 'SUCS', '100%', '97%', '95%', '100% 1', '97% 1', '95%'",
+      "en": "All columns that do not provide relevant information were reduced: 'Well', 'Side', 'Prf o (m)', 'Prf f (m)', '% Hum', 'ST >3', '3', 'AASTHO', '#', 'SUCS', '100%', '97%', '95%', '100%.1', '97%.1', '95%.1'",
       "es": "Se redujeron todas las columnas que no aportan una información relevante: ‘Pozo’, ‘Lado’, ‘Prf o (m)’, ‘Prf f (m)’, ‘% Hum’, ‘ST >3’, ‘3’, ‘AASTHO’, ‘#’, ‘SUCS’, ‘100%’, ‘97%’, ‘95%’, ‘100%.1’, ‘97%.1’, ‘95%.1’",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Valores faltantes",
@@ -206,12 +326,22 @@
     },
     {
       "source": "En la columna de LL se encontró que faltaban 30 datos, se utilizó un histograma y se determinó que la curva normal que describe a sus datos estaba desfasada del medio, por lo que se rellenó los datos faltantes con la mediana, que es 32.2",
-      "en": "In the LL column, 30 data were found missing, a histogram was used and the normal curve describing its data was determined to be outdated from the medium, so the missing data was filled with the median, which is 32.2.",
+      "en": "In the LL column it was found that 30 data were missing, a histogram was used and it was determined that the normal curve that describes its data was offset from the middle, so the missing data was filled in with the median, which is 32.2",
       "es": "En la columna de LL se encontró que faltaban 30 datos, se utilizó un histograma y se determinó que la curva normal que describe a sus datos estaba desfasada del medio, por lo que se rellenó los datos faltantes con la mediana, que es 32.2",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Gráficas",
@@ -223,55 +353,115 @@
     },
     {
       "source": "Se realizaron todas las gráficas necesarias para entender e interpretar el problema.",
-      "en": "All the necessary graphics were made to understand and interpret the problem.",
+      "en": "All the necessary graphs were made to understand and interpret the problem.",
       "es": "Se realizaron todas las gráficas necesarias para entender e interpretar el problema.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relación lineal (con sklearn)",
-      "en": "Linear ratio (with sklearn)",
+      "en": "Linear relationship (with sklearn)",
       "es": "Relación lineal (con sklearn)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relación polinómica de 2do grado (con numpy)",
-      "en": "2nd degree polynomic ratio (with numpy)",
+      "en": "2nd degree polynomial relationship (with numpy)",
       "es": "Relación polinómica de 2do grado (con numpy)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relación polinómica de 3er grado (con numpy)",
-      "en": "3rd degree polynomic ratio (with numpy)",
+      "en": "3rd degree polynomial relationship (with numpy)",
       "es": "Relación polinómica de 3er grado (con numpy)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relación multi-lineal (con sklearn)",
-      "en": "Multilinear ratio (with sklearn)",
+      "en": "Multi-linear relationship (with sklearn)",
       "es": "Relación multi-lineal (con sklearn)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relación multi-lineal (con sns) donde se relacionan los 14 parámetros entre sí y su relación con la Humedad óptima.",
-      "en": "Multi-linear ratio (with sns) where the 14 parameters are related to each other and their relationship to the optimal Humidity.",
+      "en": "Multi-linear relationship (with sns) where the 14 parameters are related to each other and their relationship with the optimal Humidity.",
       "es": "Relación multi-lineal (con sns) donde se relacionan los 14 parámetros entre sí y su relación con la Humedad óptima.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Evaluación del modelo",
@@ -299,21 +489,41 @@
     },
     {
       "source": "Regresión polinómica de 2do grado:",
-      "en": "2nd grade polynomic regression:",
+      "en": "2nd degree polynomial regression:",
       "es": "Regresión polinómica de 2do grado:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Regresión polinómica de 3er grado:",
-      "en": "3rd grade polynomic regression:",
+      "en": "3rd degree polynomial regression:",
       "es": "Regresión polinómica de 3er grado:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Feature vs H opt",
@@ -325,29 +535,59 @@
     },
     {
       "source": "Análisis de resultados",
-      "en": "Results analysis",
+      "en": "Analysis of results",
       "es": "Análisis de resultados",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se puede observar que es la regresión polinómica la que tiene un coeficiente de correlación más cercano a 1 y en gráfica la que mejor se ajusta por lo que será la regresión adoptada",
-      "en": "It can be observed that it is the polynomic regression that has a correlation coefficient closer to 1 and in graph that best fits so it will be the adopted regression",
+      "en": "It can be seen that it is the polynomial regression that has a correlation coefficient closest to 1 and in the graph the one that best fits, which is why it will be the regression adopted",
       "es": "Se puede observar que es la regresión polinómica la que tiene un coeficiente de correlación más cercano a 1 y en gráfica la que mejor se ajusta por lo que será la regresión adoptada",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se puede observar un valor de coeficiente de correlación cercano a 1 y en las gráficas de sns la gran mayoría son relaciones lineales por lo que se acepta el modelo multi-lineal conseguido.",
-      "en": "A correlation coefficient value close to 1 can be observed and in the sns graphics the vast majority are linear relationships so the multi-linear model achieved is accepted.",
+      "en": "A correlation coefficient value close to 1 can be observed and in the sns graphs the vast majority are linear relationships, so the multi-linear model achieved is accepted.",
       "es": "Se puede observar un valor de coeficiente de correlación cercano a 1 y en las gráficas de sns la gran mayoría son relaciones lineales por lo que se acepta el modelo multi-lineal conseguido.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Conclusión",
@@ -359,36 +599,76 @@
     },
     {
       "source": "Se determinó una correlación entre la clasificación de suelos y la compactación de suelos, para calcular la humedad a la que se compactará un determinado tramo de carretera:",
-      "en": "A correlation between soil classification and soil compaction was established to calculate the humidity at which a certain section of road will be compacted:",
+      "en": "A correlation was determined between soil classification and soil compaction, to calculate the humidity at which a certain stretch of road will be compacted:",
       "es": "Se determinó una correlación entre la clasificación de suelos y la compactación de suelos, para calcular la humedad a la que se compactará un determinado tramo de carretera:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "H opt = 0.117*(LL) + 0.0212*(LP) — 0.007*(2) + 0.010*(1 ½) — 0.004*(1) — 0.001*(¾) + 0.017*(⅜) — 0.001*(no 4) — 0.052*(no 10) +",
       "en": "H opt = 0.117*(LL) + 0.0212*(LP) — 0.007*(2) + 0.010*(1 ½) — 0.004*(1) — 0.001*(¾) + 0.017*(⅜) — 0.001*(no 4) — 0.052*(no 10) +",
-      "es": "H opt = 0.117*(LL) + 0,0212*(LP) — 0,007*(2) + 0,010*(1 1⁄2) — 0,004*(1) — 0,001*(3⁄4) + 0,017*(3⁄8) — 0,001*(no 4) — 0,052*(no 10) +",
+      "es": "H opt = 0,117*(LL) + 0,0212*(LP) — 0,007*(2) + 0,010*(1 ½) — 0,004*(1) — 0,001*(¾) + 0,017*(⅜) — 0,001*(n° 4) — 0,052*(n° 10) +",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "+ 0.054*(no 40) + 0.036*(no 200) — 0.043*(% Grava) + 0.007*(% Arena) + 0.036*(% Finos) + 3.779",
       "en": "+ 0.054*(no 40) + 0.036*(no 200) — 0.043*(% Grava) + 0.007*(% Arena) + 0.036*(% Finos) + 3.779",
-      "es": "+ 0,054*(no 40) + 0,036*(no 200) — 0,043*(% Grava) + 0,007*(% Arena) + 0,036*(% Finos) + 3.779",
+      "es": "+ 0,054*(n° 40) + 0,036*(n° 200) — 0,043*(% Grava) + 0,007*(% Arena) + 0,036*(% Finos) + 3,779",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "D max = 4.110*10^(-4)*(H opt)² — 4.256*10^(-2)*(H opt) + 2.394",
       "en": "D max = 4.110*10^(-4)*(H opt)² — 4.256*10^(-2)*(H opt) + 2.394",
-      "es": "D max = 4.110*10^(-4)*(H opt)2 — 4.256*10^(-2)*(H opt) + 2.394",
+      "es": "D máx = 4,110*10^(-4)*(opción H)² - 4,256*10^(-2)*(opción H) + 2,394",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Follow",
@@ -409,37 +689,72 @@
     },
     {
       "source": "Regresión",
-      "en": "Return",
+      "en": "Regression",
       "es": "Regresión",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 12 nov 2021.",
-      "en": "A story of the Saturdays.AI. community originally published on 12 November 2021.",
+      "en": "A history of the Saturdays.AI community. Originally published on Nov 12, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 12 nov 2021.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "3 min read",
       "en": "3 min read",
-      "es": "3 min leer",
+      "es": "3 minutos de lectura",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Machine Learning aplicado a la Industria textil",
-      "en": "Machine Learning aplicado a la Industria textil",
-      "es": "Machine Learning aplicado a la Industria textil",
-      "reviewed": false,
+      "en": "Machine learning in the textile industry",
+      "es": "Machine learning aplicado a la industria textil",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     }
   ]
 }

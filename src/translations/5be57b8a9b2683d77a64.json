@@ -604,12 +604,22 @@
     },
     {
       "source": "K — vecinos más cercanos (KNN)",
-      "en": "K - nearest neighbours (KNN)",
+      "en": "K — nearest neighbors (KNN)",
       "es": "K — vecinos más cercanos (KNN)",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "MLP classification",

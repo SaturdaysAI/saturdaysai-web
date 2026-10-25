@@ -1,6 +1,6 @@
 ---
 title: StarChat – Chatbot para aprender Inteligencia Artificial
-description: Open media or resource
+description: "Información sobre StarChat, el recurso de conversación para aprender inteligencia artificial. Consulta con el equipo cómo acceder."
 image: /media/1af953162f634a55.webp
 legacyPath: /starchat/
 sourceUrl: https://saturdays.ai/starchat/

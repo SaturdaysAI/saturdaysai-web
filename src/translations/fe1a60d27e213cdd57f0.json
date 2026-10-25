@@ -5,11 +5,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about TensorFlow.",
       "en": "Stories, projects and conversations from Saturdays.AI about TensorFlow.",
-      "es": "Historias, proyectos y conversaciones de los Saturdays.AI sobre TensorFlow.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre TensorFlow.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

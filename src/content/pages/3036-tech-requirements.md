@@ -1,9 +1,6 @@
 ---
 title: Technology Requirements
-description: Technology Requirements Please read the following information to
-  ensure your device is compatible with the Saturdays.AI learning platform,
-  community & experience. Browser An up-to-date version of Chrome, Firefox,
-  Safari, Opera…
+description: "Requisitos técnicos y recomendaciones para acceder a los recursos de aprendizaje de Saturdays.AI desde tu ordenador."
 image: ""
 legacyPath: /tech-requirements/
 sourceUrl: https://saturdays.ai/tech-requirements/

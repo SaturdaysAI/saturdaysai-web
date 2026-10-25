@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "Podcast T2/E9 – Fernando de la Torre – Haciendo la IA que usa media humanidad",
-      "en": "Podcast S2/E9 – Fernando de la Torre – Making AI that uses half of humanity",
+      "en": "Podcast S2/E9 – Fernando de la Torre – Building the AI used by half of humanity",
       "es": "Podcast T2/E9 – Fernando de la Torre – Haciendo la IA que usa media humanidad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "T2 / E9",

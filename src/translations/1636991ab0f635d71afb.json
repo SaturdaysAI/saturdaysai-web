@@ -19,11 +19,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Quito.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Quito.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Quito.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Quito.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Quito",
@@ -59,11 +69,21 @@
     {
       "source": ": Machine Learning, Deep Learning, Reinforcement Learning",
       "en": ": Machine Learning, Deep Learning, Reinforcement Learning",
-      "es": ": Aprendizaje de máquinas, Aprendizaje profundo, Aprendizaje de refuerzo",
+      "es": ": Aprendizaje automático, aprendizaje profundo, aprendizaje por refuerzo",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "panecillo",
@@ -90,12 +110,22 @@
     },
     {
       "source": "AI Saturdays Quito 3ª Edición",
-      "en": "To Saturdays Quito 3rd Edition",
+      "en": "AI Saturdays Quito 3rd Edition",
       "es": "AI Saturdays Quito 3ª Edición",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Las sesiones tendrán lugar los sábados de 9am a 2pm para que todos los apasionados de la IA tengan la oportunidad de aprender mientras construyen proyectos de Impacto Social",

@@ -4,12 +4,22 @@
   "segments": [
     {
       "source": "Descubre paso a paso cómo desarrollé la webapp de Barranquismo que no encontraba, con ChatGPT, Codex e IA. Código, guía, ejemplos y consejos de este aprendizaje para que tú lo puedas aplicar.",
-      "en": "Find out step by step how I developed the Barranquismo webapp that I did not find, with ChatGPT, Codex and IA. Code, guide, examples and tips of this learning for you to apply.",
+      "en": "Discover step by step how I developed the Canyoning webapp that I couldn't find, with ChatGPT, Codex and AI. Code, guide, examples and tips from this learning so that you can apply it.",
       "es": "Descubre paso a paso cómo desarrollé la webapp de Barranquismo que no encontraba, con ChatGPT, Codex e IA. Código, guía, ejemplos y consejos de este aprendizaje para que tú lo puedas aplicar.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "28 oct 2025",
@@ -21,21 +31,41 @@
     },
     {
       "source": "Fase 1. Planificación y elección del stack",
-      "en": "Phase 1. Planning and choice of track",
+      "en": "Phase 1. Planning and choosing the stack",
       "es": "Fase 1. Planificación y elección del stack",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 2. Inicialización del proyecto en Visual Studio Code",
-      "en": "Phase 2. Project initialization in Visual Studio Code",
+      "en": "Phase 2. Initialization of the project in Visual Studio Code",
       "es": "Fase 2. Inicialización del proyecto en Visual Studio Code",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 3. Diseño de la estructura base",
@@ -48,28 +78,58 @@
     },
     {
       "source": "Fase 4. Subir la app a GitHub Pages",
-      "en": "Phase 4. Up to GitHub Pages",
+      "en": "Phase 4. Upload the app to GitHub Pages",
       "es": "Fase 4. Subir la app a GitHub Pages",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 5 : Recopilación de datos e importar a JSON",
-      "en": "Phase 5: Data collection and import to JSON",
+      "en": "Phase 5: Collect data and import to JSON",
       "es": "Fase 5 : Recopilación de datos e importar a JSON",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 6. Normalización de datos con IA",
-      "en": "Phase 6. Standardization of data with IA",
+      "en": "Phase 6. Data normalization with AI",
       "es": "Fase 6. Normalización de datos con IA",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 7. Creación de la interfaz React",
@@ -82,20 +142,40 @@
     },
     {
       "source": "Fase 8. Añadir La «memoria» offline",
-      "en": "Phase 8. Add \"memory\" offline",
+      "en": "Phase 8. Add offline “memory”",
       "es": "Fase 8. Añadir La «memoria» offline",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
-      "en": "Phase 9. UX / IU design improvement with ChatGPT",
+      "en": "Phase 9. UX/UI design improvement with ChatGPT",
       "es": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Fase 10. Despliegue final y pruebas",
@@ -108,11 +188,21 @@
     },
     {
       "source": "Conclusiones y aprendizajes",
-      "en": "Conclusions and lessons learned",
+      "en": "Conclusions and learnings",
       "es": "Conclusiones y aprendizajes",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Recursos y enlaces",
@@ -124,20 +214,40 @@
     },
     {
       "source": "Sobre el autor",
-      "en": "The author",
+      "en": "About the author",
       "es": "Sobre el autor",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como muchos amantes de la montaña, me gustaría la posibilidad de tener una página minimalista, donde encontrar la información de los barrancos de manera sencilla y que me permitiera consultar la los tracks cuando no tuviera cobertura en lugar de saltar entre diez webs para encontrar información fiable de un barranco, además,",
-      "en": "Like many mountain lovers, I would like the possibility of having a minimalist page, where to find the information of the rails in a simple way and that would allow me to consult the tracks when I had no coverage rather than jumping between ten websites to find reliable information of a ravine, in addition,",
+      "en": "Like many mountain lovers, I would like the possibility of having a minimalist page, where I can find information about the ravines in a simple way and that would allow me to consult the tracks when I had no coverage instead of jumping between ten websites to find reliable information about a ravine. Furthermore,",
       "es": "Como muchos amantes de la montaña, me gustaría la posibilidad de tener una página minimalista, donde encontrar la información de los barrancos de manera sencilla y que me permitiera consultar la los tracks cuando no tuviera cobertura en lugar de saltar entre diez webs para encontrar información fiable de un barranco, además,",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Wikiloc",
@@ -174,29 +284,59 @@
     },
     {
       "source": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
-      "en": "So I decided to build it myself, here's the link to the result:",
+      "en": "So I decided to build it myself, here is the link to the result:",
       "es": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
-      "en": "I wanted a simple web: filters, maps and that works 100% offline. But this time, I decided not to do it alone. And not only that, but I wouldn't write a code line. So I looked for two partners to do it for me:",
+      "en": "I wanted a simple website: filters, maps and that works 100% offline. But this time, I decided not to do it alone. And not only that, but you wouldn't write a line of code. So I looked for two colleagues to do it for me:",
       "es": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", como consultor técnico y de UX.",
-      "en": "as a technical consultant and UX.",
+      "en": ", as a technical and UX consultant.",
       "es": ", como consultor técnico y de UX.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "(integrado en",
@@ -208,29 +348,59 @@
     },
     {
       "source": "), como programador ejecutor.",
-      "en": "), as a running programmer.",
-      "es": "), como programador eyecutor.",
+      "en": "), as executing programmer.",
+      "es": "), como programador ejecutor.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
-      "en": "My goal: to show that, with good planning and precise prompts, a single person can build a functional application, from scratch, using only IA.",
+      "en": "My goal: to demonstrate that, with good planning and precise prompts, a single person can build a functional application, from scratch, using only AI.",
       "es": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
-      "en": "Before writing a code line, I needed a solid plan. My first interaction was with ChatGPT, to define technological architecture.",
+      "en": "Before writing a line of code, I needed a solid plan. My first interaction was with ChatGPT, to define the technological architecture.",
       "es": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt clave a ChatGPT:",
@@ -260,12 +430,22 @@
     },
     {
       "source": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
-      "en": ") and, from Visual Studio Code, I launched Codex in agent mode. I selected the IA GPT-5 Codex Preview and asked you to start the project step by step. By introducing the prompt that ChatGPT had provided me by modifying the format a little bit so that it adapted to my needs, incorporating stops and that there would be feedback during the process.",
+      "en": ") and, from Visual Studio Code, I launched Codex in agent mode. I selected the AI ​​GPT-5 Codex Preview and asked it to start the project step by step. Introducing the prompt that ChatGPT had provided me, modifying the format a little so that it adapted to my needs, incorporating stops and providing feedback during the process.",
       "es": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El siguiente paso fue definir la estructura de navegación antes de cargar datos o diseñar la interfaz.",
@@ -286,56 +466,116 @@
     },
     {
       "source": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
-      "en": "We will develop a PWA-type static app with fact sheets for each ravine, necessary material and external links (Wikiloc for approach and return). I want you to help me step by step with this structured workflow:",
+      "en": "We will develop a static PWA-type web app with descriptive sheets of each ravine, necessary material and external links (Wikiloc for approach and return). I want you to help me step by step with this structured workflow:",
       "es": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
-      "en": "It lands the idea (concept): it defines the purpose, the key functionalities, and the technological stop (React + Vite or pure JS).",
+      "en": "Land the idea (concept): define the purpose, the key functionalities, and the technological stack (React + Vite or pure JS).",
       "es": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
-      "en": "It plans the architecture: folder structure, localStorage instead of database, without authentication, all -side clientele, suitable for deployment in GitHub Pages.",
+      "en": "Plan the architecture: folder structure, use of localStorage instead of database, no authentication, all client-side, suitable for deployment in GitHub Pages.",
       "es": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
-      "en": "Build the project: create the base code with documentation in comments and guide me phase by phase (structure, main page, chips, map, local persistence, filters, design, PWA).",
+      "en": "Build the project: create the code base with documentation in comments and guide me phase by phase (structure, home page, tabs, map, local persistence, filters, layout, PWA).",
       "es": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
-      "en": "Document the process: each step should include brief explanations, code commented, and notes to be able to then write an article / tutorial.",
+      "en": "Document the process: each step should include brief explanations, commented code, and notes so you can then write an article/tutorial.",
       "es": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
-      "en": "Predeployment: shows how to configure vite.config.ts or index.html for GitHub Pages.Conditions:",
+      "en": "Prepare Deployment: Show how to configure vite.config.ts or index.html for GitHub Pages.Conditions:",
       "es": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Toda la persistencia debe hacerse con localStorage.",
@@ -357,119 +597,249 @@
     },
     {
       "source": "Código modular, limpio y comentado.",
-      "en": "Modular code, clean and commented.",
+      "en": "Modular, clean and commented code.",
       "es": "Código modular, limpio y comentado.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Usa inglés en el código, pero español en las explicaciones.",
-      "en": "He uses English in the code, but Spanish in the explanations.",
+      "en": "Use English in the code, but Spanish in the explanations.",
       "es": "Usa inglés en el código, pero español en las explicaciones.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Pide validación antes de avanzar a cada fase.",
-      "en": "It calls for validation before moving on to each phase.",
+      "en": "Ask for validation before advancing to each phase.",
       "es": "Pide validación antes de avanzar a cada fase.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
-      "en": "The app must be responsive and light. Start with phase 1 (concept) and wait for me before you move to the next phase. When I say 'follow', you move on to the next.",
+      "en": "The app must be responsive and light. Start with phase 1 (concept) and wait for me before moving on to the next phase. When I say 'continue', you move on to the next one.",
       "es": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
-      "en": "Generates the React component structure (per folder) and the code to manage this 5-tab navigation and the nested detail route \"",
+      "en": "Generates the React component structure (by folders) and the code to manage this 5-tab navigation and nested detail path»",
       "es": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
-      "en": "He then asked me a number of questions about what he had understood (codex) to follow, the execution:",
+      "en": "Next he asked me several questions in relation to what I had understood (codex) to continue, the with the execution:",
       "es": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
-      "en": "In each of the answers I was giving, I consulted ChatGPT if Codex was doing it correctly, if so, he continued with the execution:",
+      "en": "In each of the answers he gave me, I asked ChatGPT if Codex was doing it correctly, and if so, I continued with the execution:",
       "es": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
-      "en": "The result was a modular skeleton of components with routes, pages and a professional folder structure. Codex was responsible for creating the initial files, dependencies and project configuration automatically.",
+      "en": "The result was a modular skeleton of components with routes, pages and a professional folder structure. Codex took care of creating the initial files, dependencies and configuration of the project automatically.",
       "es": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
-      "en": "Now yes, Codex started working, generating folders and files, during the process he goes asking if you want to run some system and debugging instructions, to which you tell him if to make the modifications he has to do.",
+      "en": "Now, Codex started working, generating folders and files, during the process it is asked if you want to execute some system and debugging instructions, to which you say yes so that you can make the modifications it has to do.",
       "es": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
-      "en": "After a few minutes, Codex generated the entire structure of folders, dependencies and scripts.",
+      "en": "After a few minutes, Codex generated the entire folder structure, dependencies and scripts.",
       "es": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
-      "en": "The best of all is that the project compiled without any compilation or execution error, simply amazing... Once finished I tried to boot the server in local. But I didn't know how to lift the web app so I asked him:",
+      "en": "The best of all is that the project compiled without any compilation or execution errors, simply incredible... Once finished, I tried starting the server locally. But I didn't know how to build the web app so I asked him:",
       "es": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
-      "en": "There are now several options: either run it from an external console or in my case use the one that is already installed on VSC in the terminal intermediate tab:",
+      "en": "Now there are several options: either you run it from an external console or in my case use the one that is already installed in VSC in the intermediate terminal tab:",
       "es": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
-      "en": "Once the web app has been launched, I try to connect to the browser to check if it works:",
+      "en": "Once the web app is launched, I try to connect to the browser to check if it works:",
       "es": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La página funcionaba.",
@@ -481,56 +851,116 @@
     },
     {
       "source": "¡En menos de 30 min ya tenía una página lista!",
-      "en": "In less than 30 minutes I had a page ready!",
+      "en": "In less than 30 minutes I already had a page ready!",
       "es": "¡En menos de 30 min ya tenía una página lista!",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
-      "en": "The initial idea was to take advantage of GitHub's service to host the web app, so I asked for help with codex how to do it correctly:",
+      "en": "The initial idea was to take advantage of the service that GitHub has to host the web app, so I asked codex for help on how to do it correctly:",
       "es": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Antes de empezar si no tenemos cuenta de",
-      "en": "Before we start if we don't have a",
+      "en": "Before starting if we do not have an account",
       "es": "Antes de empezar si no tenemos cuenta de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
-      "en": "Once created, we create the repository, it is very important that it be called your project folder, since if the units are not not working properly.",
+      "en": ", you create one, it is completely free. Once created, we create the repository, it is very important that it be named after your project folder since otherwise the dependencies will not work correctly.",
       "es": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
-      "en": "If we don't have Git, you can download it.",
+      "en": "If we do not have Git we will have to install it, you can download it",
       "es": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ". Una vez",
-      "en": "Once.",
+      "en": ". once",
       "es": ". Una vez",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "instalado",
@@ -542,30 +972,60 @@
     },
     {
       "source": "// Vincula tu repositorio con GitHub.",
-      "en": "/ / Link your repository to GitHub.",
+      "en": "// Link your repository with GitHub.",
       "es": "// Vincula tu repositorio con GitHub.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
-      "en": "Now we have already uploaded the same repository that we have in local with GitHub, now every change we want to make we must start the steps from the 2 and very important to put the commons names of the modifications we are making, so then it is easier to return to an earlier state knowing what modifications we made at that time.",
+      "en": "Now we have uploaded the same repository that we have locally with GitHub, now for every change we want to make we will have to start the steps from step 2 and it is very important to give the commits names of the modifications that we are making, so that later it is easier to return to a previous state knowing what modifications we made at that moment.",
       "es": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
-      "en": "Once we have the repository we ask codex how to upload it to GitHub you pay correctly:",
+      "en": "Once we have the repository, we ask codex how to upload it to GitHub pages correctly:",
       "es": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "seguimos las instrucciones:",
@@ -577,55 +1037,115 @@
     },
     {
       "source": "y accedemos a la web app desde GitHub:",
-      "en": "and access the web app from GitHub:",
+      "en": "and we access the web app from GitHub:",
       "es": "y accedemos a la web app desde GitHub:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
-      "en": "As we can see, the initial version is functional but data in JSON format and improve aesthetics are missing.",
+      "en": "As we can see, the initial version is functional but the data in JSON format is missing and the aesthetics need to be improved.",
       "es": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
-      "en": "Collecting data from each of the rails is very tedious, and you risk wrong when extrapolating the data, so I ask Codex if it can help me:",
+      "en": "Collecting data from each of the ravines one by one is very tedious, and you also run the risk of making mistakes when extrapolating the data, so I ask Codex if he can help me:",
       "es": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Su respuesta es un script",
-      "en": "Your answer is a script",
+      "en": "Your response is a script",
       "es": "Su respuesta es un script",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
-      "en": "We go one step further, we tell him to generate a script itself and to run it himself and to keep it in the JSON file with the rails we put fictitious.",
+      "en": "We go one step further, we tell it to generate a script itself and execute it itself and also save it in the JSON file with the gullies that we made fictitious.",
       "es": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El mayor desafío era la información. Los datos estaban en fuentes abiertas, en diferentes formatos y cada página tenía una descripción distinta de cada atributo y no mantienen una coherencia por lo que los datos que obtuve estaban totalmente desestructurados. Necesitaba un",
-      "en": "The greatest challenge was information. Data were in open sources, in different formats and each page had a different description of each attribute and do not maintain a consistency so the data I obtained was completely disstructured.",
+      "en": "The biggest challenge was information. The data was in open sources, in different formats and each page had a different description of each attribute and did not maintain coherence, so the data I obtained was totally unstructured. I needed a",
       "es": "El mayor desafío era la información. Los datos estaban en fuentes abiertas, en diferentes formatos y cada página tenía una descripción distinta de cada atributo y no mantienen una coherencia por lo que los datos que obtuve estaban totalmente desestructurados. Necesitaba un",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "pipeline",
@@ -654,54 +1174,114 @@
     },
     {
       "source": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
-      "en": ", etc.), and were disordered and with different formats. I needed a script in Node.js to clean and unify them.",
+      "en": ", etc.), and they were disordered and in different formats. I needed a script in Node.js to clean them up and unify them.",
       "es": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt a Codex:",
       "en": "Prompt a Codex:",
-      "es": "Provoca un Codex:",
+      "es": "Solicitar un Codex:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
-      "en": "Codex generated an automated cleaning script. The result: a file",
+      "en": "Codex generated an automated cleanup script. The result: a file",
       "es": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "consolidado, que serviría como base de datos local de la aplicación.",
-      "en": "consolidated, which would serve as a local implementation database.",
+      "en": "consolidated, which would serve as the application's local database.",
       "es": "consolidado, que serviría como base de datos local de la aplicación.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
-      "en": "With the dataset ready, it was time to view the data. Instead of writing components manually, I asked them directly to Codex.",
+      "en": "With the dataset ready, it was time to visualize the data. Instead of writing components manually, I ordered them directly from Codex.",
       "es": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt 1:",
       "en": "Prompt 1:",
-      "es": "Pronuncio 1:",
+      "es": "Pregunta 1:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt 2:",
@@ -723,10 +1303,20 @@
     {
       "source": "Leaflet",
       "en": "Leaflet",
-      "es": "Principales",
+      "es": "Folleto",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "tras otro prompt específico.",
@@ -738,30 +1328,60 @@
     },
     {
       "source": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
-      "en": "The app needed to \"remember\" user data, such as checklist and ratings.",
+      "en": "The app needed to “remember” user data, such as the checklist and ratings.",
       "es": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
-      "en": "Codex implemented local storage logic and automatic recovery. Then we set up the Service Worker to make the full-functional app offline: it was already a PWA that could be installed and usable without coverage.",
+      "en": "Codex implemented local storage logic and automatic recovery. Then we configured the Service Worker to make the app fully functional offline: it was already an installable and usable PWA without coverage.",
       "es": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
-      "en": "The functionality was ready, but the interface needed a professional touch. I returned to ChatGPT, this time as a UX designer specializing in outdoor environments.",
+      "en": "The functionality was ready, but the interface needed a professional touch. I returned to ChatGPT, this time as a UX designer specialized in outdoor environments.",
       "es": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt clave:",
@@ -781,11 +1401,21 @@
     },
     {
       "source": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
-      "en": "I'm developing a PWA in React + Vite called \"Barranquism,\" designed to be used in mountains and natural environments.",
+      "en": "I am developing a PWA in React + Vite called “Canyoning”, designed to be used in mountains and natural environments.",
       "es": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Los usuarios la consultarán en condiciones reales de campo: con luz solar intensa, reflejos, guantes, y conexión limitada.",
@@ -798,116 +1428,246 @@
     },
     {
       "source": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
-      "en": "The app shows chips of rails with difficulty, material, times and links to Wikiloc.",
+      "en": "The app shows canyon files with difficulty, material, times and links to Wikiloc.",
       "es": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
-      "en": "No backend: everything works on the client (localStorage, local JSON) and will be deployed in GitHub Pages.",
+      "en": "It has no backend - everything works on the client (localStorage, local JSON) and will be deployed to GitHub Pages.",
       "es": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# OBJETIVO",
       "en": "# OBJECTIVE",
-      "es": "OBJETIVO",
+      "es": "#OBJETIVO",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
-      "en": "I want you to act as a * * professional UX / IU designer specializing in outdoor environments, accessibility and functional design * *.",
+      "en": "I want you to act as a **professional UX/UI designer specialized in outdoor environments, accessibility and functional design**.",
       "es": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
-      "en": "Your task is to improve the visual design and experience of using the * * application to make it beautiful, legible and professional * *, without losing simplicity or performance.",
+      "en": "Your task is to improve the visual design and user experience of the application **so that it is beautiful, readable and professional**, without losing simplicity or performance.",
       "es": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
-      "en": "Give me detailed design suggestions and, if possible, code fragments (JSX, CSS or Tailwind) ready to implement.",
+      "en": "Give me detailed design suggestions and, if possible, code snippets (JSX, CSS or Tailwind) ready to implement.",
       "es": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# QUÉ QUIERO CONSEGUIR",
-      "en": "♪ What I want to get",
+      "en": "# WHAT I WANT TO ACHIEVE",
       "es": "# QUÉ QUIERO CONSEGUIR",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
-      "en": "- A nice and coherent interface * *, worthy of a professional product.",
+      "en": "– A **beautiful and coherent** interface, worthy of a professional product.",
       "es": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
-      "en": "- * * High legibility under the sun * *: large texts, clear sources and strong contrast.",
+      "en": "– **High readability under the sun**: large texts, clear fonts and strong contrast.",
       "es": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
-      "en": "- * * Visually attractive components * * but simple to render in React (without heavy dependencies).",
+      "en": "– **Visually attractive components** but easy to render in React (no heavy dependencies).",
       "es": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
-      "en": "- * * Clear visual hierarchy * * (well defined colors, sizes and spaces).",
+      "en": "– **Clear visual hierarchy** (well-defined colors, sizes and spaces).",
       "es": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
-      "en": "- * * Outdoor style * *, natural and modern (inspired by apps such as Komoot, AllTrails or Wikiloc).",
+      "en": "– **Outdoor style**, natural and modern (inspired by apps like Komoot, AllTrails or Wikiloc).",
       "es": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
-      "en": "- * * Comfortable touch interaction * * (wide buttons, immediate visual feedback).",
+      "en": "– **Comfortable tactile interaction** (large buttons, immediate visual feedback).",
       "es": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– **Adaptación móvil total** (mobile-first con breakpoints a tablet).",
@@ -920,189 +1680,409 @@
     },
     {
       "source": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
-      "en": "- That it respects good practices of accessibility (WCAG 2.1) * *.",
+      "en": "– That respects good **accessibility practices (WCAG 2.1)**.",
       "es": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
-      "en": "- To propose a * * palette of colors and professional typography * *, ideal for direct sun and natural contexts.",
+      "en": "– That proposes a **professional color palette and typography**, ideal for direct sun and natural contexts.",
       "es": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# PUNTOS CLAVE QUE DEBES CUBRIR",
-      "en": "# CLAVE POINTS YOU MUST CURRENT",
+      "en": "# KEY POINTS YOU SHOULD COVER",
       "es": "# PUNTOS CLAVE QUE DEBES CUBRIR",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "1. **Tipografía**",
-      "en": "1. * * Typography * *",
+      "en": "1. **Typography**",
       "es": "1. **Tipografía**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
-      "en": "- Use legible sans-serif sources (e.g. Inter, Poppins, Nunito, Flex Robot).",
+      "en": "– Use readable sans-serif fonts (e.g. Inter, Poppins, Nunito, Roboto Flex).",
       "es": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
-      "en": "- Thread: minimum 16-18px for text, 22-28px for titles.",
+      "en": "– Sizes: minimum 16–18px for text, 22–28px for titles.",
       "es": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
-      "en": "- Good spacing ('letter-spacing', 'linear-height') for reading under reflections.",
+      "en": "– Good spacing (`letter-spacing`, `line-height`) for reading under reflections.",
       "es": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2. **Colores y contraste**",
-      "en": "2. * * Colors and contrast * *",
+      "en": "2. **Colors and contrast**",
       "es": "2. **Colores y contraste**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Contraste alto (WCAG AAA) entre fondo y texto.",
-      "en": "- High contrast (WCAG AAA) between background and text.",
+      "en": "– High contrast (WCAG AAA) between background and text.",
       "es": "– Contraste alto (WCAG AAA) entre fondo y texto.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
-      "en": "- Propose a professional palette inspired by nature (blue, beige, dark green, warm grey).",
+      "en": "– Propose a professional palette inspired by nature (blues, beige, dark greens, warm grays).",
       "es": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Incluye un modo alto contraste o “modo exterior”.",
-      "en": "- Includes a high contrast or \"external mode.\"",
+      "en": "– Includes a high contrast mode or “outdoor mode”.",
       "es": "– Incluye un modo alto contraste o “modo exterior”.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "3. **Componentes y botones**",
-      "en": "3. * * Parts and buttons * *",
+      "en": "3. **Components and buttons**",
       "es": "3. **Componentes y botones**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Áreas táctiles grandes (mínimo 44x44px).",
-      "en": "- Large touch areas (minimum 44x44px).",
+      "en": "– Large touch areas (minimum 44x44px).",
       "es": "– Áreas táctiles grandes (mínimo 44x44px).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Botones redondeados con sombra suave o borde definido.",
-      "en": "- Rounded buttons with soft shade or defined edge.",
+      "en": "– Rounded buttons with soft shadow or defined edge.",
       "es": "– Botones redondeados con sombra suave o borde definido.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
-      "en": "- Visual feedback when pressing (change of color, opacity or elevation).",
+      "en": "– Visual feedback when clicking (change color, opacity or elevation).",
       "es": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Mantén consistencia en iconos, sombras y radios.",
-      "en": "- Maintain consistency in icons, shadows and radios.",
+      "en": "– Maintain consistency in icons, shadows and radii.",
       "es": "– Mantén consistencia en iconos, sombras y radios.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "4. **Diseño visual**",
-      "en": "4. * * Visual design * *",
+      "en": "4. **Visual design**",
       "es": "4. **Diseño visual**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
-      "en": "- Functional minimalism: not recharged, but visually pleasant.",
+      "en": "– Functional minimalism: without being overloaded, but visually pleasing.",
       "es": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
-      "en": "- Clear distribution: fixed header, list of well-separated cards and accessible details.",
+      "en": "– Clear distribution: fixed header, list of ravines with well-separated cards and accessible details.",
       "es": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
-      "en": "- Balanced use of color for hierarchy: titles, primary buttons, secondary actions.",
+      "en": "– Balanced use of color for hierarchy: titles, primary buttons, secondary actions.",
       "es": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "5. **Estilo global**",
-      "en": "5. * * Global style * *",
+      "en": "5. **Global style**",
       "es": "5. **Estilo global**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Insp",
-      "en": "- Insp.",
+      "en": "–Insp",
       "es": "– Insp",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "iración en Material Design y Fluent UI, adaptado al uso outdoor.",
@@ -1115,147 +2095,317 @@
     },
     {
       "source": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
-      "en": "- Subtle animations (fade, scale) only if they do not affect performance.",
+      "en": "– Subtle animations (fade, scale) only if they do not affect performance.",
       "es": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Bordes suaves, sombras naturales, espacios amplios.",
-      "en": "- Soft bordes, natural shadows, wide spaces.",
+      "en": "– Soft edges, natural shadows, wide spaces.",
       "es": "– Bordes suaves, sombras naturales, espacios amplios.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Consistencia entre Home, Detail y Checklist.",
-      "en": "- Consistency between Home, Detail and Checklist.",
+      "en": "– Consistency between Home, Detail and Checklist.",
       "es": "– Consistencia entre Home, Detail y Checklist.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "6. **PWA y rendimiento**",
-      "en": "6. * * PWA and performance * *",
+      "en": "6. **PWA and performance**",
       "es": "6. **PWA y rendimiento**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Fuentes y colores precargados.",
-      "en": "- Precharged sources and colors.",
+      "en": "– Preloaded fonts and colors.",
       "es": "– Fuentes y colores precargados.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
-      "en": "- Do not use heavy images, use SVG or vector icons.",
+      "en": "– Don't use heavy images, use SVG or vector icons.",
       "es": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Optimiza para modo offline (mínimo CSS y assets).",
-      "en": "- Optimize for offline mode (minimum CSS and assets).",
+      "en": "– Optimize for offline mode (minimal CSS and assets).",
       "es": "– Optimiza para modo offline (mínimo CSS y assets).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "7. **Accesibilidad**",
-      "en": "7. * * accessibility * *",
+      "en": "7. **Accessibility**",
       "es": "7. **Accesibilidad**",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Contraste mínimo 4.5:1 en todos los textos.",
-      "en": "- Minimum contrast 4.5: 1 in all texts.",
+      "en": "– Minimum contrast 4.5:1 in all texts.",
       "es": "– Contraste mínimo 4.5:1 en todos los textos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Colores accesibles para daltónicos (usa color+forma).",
-      "en": "- Accessible colors for dalltonic (use color + shape).",
+      "en": "– Colors accessible to colorblind people (use color+shape).",
       "es": "– Colores accesibles para daltónicos (usa color+forma).",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Texto alternativo en iconos, roles ARIA en botones.",
-      "en": "- Alternative text in icons, ARIA roles in buttons.",
+      "en": "– Alt text on icons, ARIA roles on buttons.",
       "es": "– Texto alternativo en iconos, roles ARIA en botones.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# FORMATO DE RESPUESTA ESPERADO",
-      "en": "# STARTED REPLY FORMATE",
+      "en": "# EXPECTED RESPONSE FORMAT",
       "es": "# FORMATO DE RESPUESTA ESPERADO",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
-      "en": "- - List of UX / IU recommendations ordered by priority (high, medium, low).",
+      "en": "– ✅ List of UX/UI recommendations ordered by priority (high, medium, low).",
       "es": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
-      "en": "- Proposal of * * colour palette and typography * * professional.",
+      "en": "– 🎨 Proposal for a professional **color palette and typography**.",
       "es": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
-      "en": "- - Specific examples of CSS or Tailwind to implement.",
+      "en": "– 💻 Concrete examples of CSS or Tailwind to implement.",
       "es": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
-      "en": "- The short justification for each suggestion (why it improves visibility, aesthetics or usability).",
+      "en": "– 🧠 Brief justification for each suggestion (why it improves visibility, aesthetics or usability).",
       "es": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
-      "en": "- Â Mockup textual or wireframe (optional) for the ideal structure of the main screen.",
+      "en": "– 📱 Textual or wireframe mockup (optional) for the ideal structure of the main screen.",
       "es": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# TECNOLOGÍAS",
@@ -1268,34 +2418,74 @@
     {
       "source": "– React + Vite",
       "en": "– React + Vite",
-      "es": "– Reaccionar + Vite",
+      "es": "– React + Vite",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Tailwind o CSS Modules",
-      "en": "- Tallwind or CSS Modules",
-      "es": "– Módulos Tailwind o CSS",
+      "en": "– Tailwind or CSS Modules",
+      "es": "– Tailwind o Módulos CSS",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– LocalStorage",
-      "en": "- LocalStorage",
+      "en": "–LocalStorage",
       "es": "– LocalStorage",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– GitHub Pages (PWA estática)",
-      "en": "- GitHub Pages (static PWA)",
+      "en": "– GitHub Pages (Static PWA)",
       "es": "– GitHub Pages (PWA estática)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "# INSTRUCCIÓN FINAL",
@@ -1307,47 +2497,97 @@
     },
     {
       "source": "Actúa como un diseñador UX/UI profesional.",
-      "en": "It acts as a professional UX / IU designer.",
+      "en": "Act like a professional UX/UI designer.",
       "es": "Actúa como un diseñador UX/UI profesional.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
-      "en": "Do not give theory: * * give me proposals ready to apply * * with code or specific styles.",
+      "en": "Don't give theory: **give me proposals ready to apply** with specific code or styles.",
       "es": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
-      "en": "Balancing * * beauty, usability and outdoor functionality * *.",
+      "en": "Balances **beauty, usability and outdoor functionality**.",
       "es": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
-      "en": "The result must seem to be made by an expert designer, but optimized for React and Light PWA.",
+      "en": "The result should look like it was made by an expert designer, but optimized for React and lightweight PWAs.",
       "es": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El resultado fue una guía completa: tipografías legibles (",
-      "en": "The result was a complete guide: legible typographs (",
+      "en": "The result was a complete guide: legible fonts (",
       "es": "El resultado fue una guía completa: tipografías legibles (",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Inter",
@@ -1384,10 +2624,20 @@
     {
       "source": "inspirado en",
       "en": "inspired by",
-      "es": "inspirador",
+      "es": "inspirado en",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Komoot",
@@ -1407,69 +2657,139 @@
     },
     {
       "source": ". Codex aplicó las mejoras automáticamente y la interfaz ganó claridad, accesibilidad y coherencia.",
-      "en": ". Codex applied the improvements automatically and the interface gained clarity, accessibility and coherence.",
+      "en": ". Codex applied the improvements automatically and the interface gained clarity, accessibility and consistency.",
       "es": ". Codex aplicó las mejoras automáticamente y la interfaz ganó claridad, accesibilidad y coherencia.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
-      "en": "Once you asked for these changes to Codex, you changed what you considered necessary, after a few minutes (it is fascinating to see how you are changing the code in real time) a version as you needed was already ready:",
+      "en": "Once he requested those changes from Codex, he modified what he considered necessary, after a few minutes (it is fascinating to see how he modifies the code in real time) a version was ready as he needed:",
       "es": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "volví a visualizar la página ejecutando en consola:",
-      "en": "I revisualized the page running in console:",
+      "en": "I viewed the page again by executing in the console:",
       "es": "volví a visualizar la página ejecutando en consola:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "entro en el navegador y…",
-      "en": "I go into the browser and...",
+      "en": "I go into the browser and…",
       "es": "entro en el navegador y…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
-      "en": "The page I had created was already ready and functional. After checking the changes, I ran a new",
+      "en": "The page I had created was now ready and functional. After verifying the changes, I ran a new",
       "es": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
-      "en": "and I waited for the update of GitHub Pages. Sometimes the changes take time to be reflected by cache or localStorage, but after cleaning the browser, the new version worked perfectly.",
+      "en": "and waited for the update of GitHub Pages. Sometimes changes take a while to be reflected by caching or localStorage, but after cleaning the browser, the new version worked perfectly.",
       "es": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "View linked image or resource",
       "en": "View linked image or resource",
-      "es": "Ver imagen vinculada o recurso",
+      "es": "Ver imagen o recurso vinculado",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ya tenía una app completa, funcional, ligera y 100% generada con IA**.**",
-      "en": "It already had a complete, functional, light and 100% IA-generated app. * * *",
+      "en": "It already had a complete, functional, light and 100% AI-generated app. * * *",
       "es": "Ya tenía una app completa, funcional, ligera y 100% generada con IA**.**",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -1478,12 +2798,22 @@
     },
     {
       "source": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
-      "en": "Developing this application was much more than programming: it was learning to communicate with an IA. The role of the developer changes: it is no longer about writing code, but about",
+      "en": "Developing this application was much more than programming: it was learning to communicate with an AI. The role of the developer changes: it is no longer about writing code, but about",
       "es": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "formular problemas, guiar al sistema y validar resultados.",
@@ -1505,7 +2835,7 @@
     },
     {
       "source": "La validación humana sigue siendo esencial**.** La IA propone, pero tú decides qué aceptar o ajustar.",
-      "en": "Human validation remains essential * *. * * The IA proposes, but you decide what to accept or adjust.",
+      "en": "Human validation remains essential * *. * * The AI proposes, but you decide what to accept or adjust.",
       "es": "La validación humana sigue siendo esencial**.** La IA propone, pero tú decides qué aceptar o ajustar.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -1523,11 +2853,21 @@
     },
     {
       "source": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
-      "en": "GitHub Pages and PWA are the perfect match for backend-free projects.",
+      "en": "GitHub Pages and PWA are the perfect pair for projects without a backend.",
       "es": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Framework:",
@@ -1547,28 +2887,58 @@
     },
     {
       "source": "IA utilizadas:",
-      "en": "IA used:",
+      "en": "AI used:",
       "es": "IA utilizadas:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
-      "en": "ChatGPT (technical assistant and UX) and Codex (code generation)",
+      "en": "ChatGPT (UX and technical assistant) and Codex (code generation)",
       "es": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Librerías clave:",
-      "en": "Key bookstores:",
+      "en": "Key libraries:",
       "es": "Librerías clave:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Leaflet, Workbox, TailwindCSS",
@@ -1588,11 +2958,21 @@
     },
     {
       "source": "GitHub Pages (PWA estática)",
-      "en": "GitHub Pages (static PWA)",
+      "en": "GitHub Pages (Static PWA)",
       "es": "GitHub Pages (PWA estática)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Web",
@@ -1612,20 +2992,40 @@
     },
     {
       "source": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
-      "en": "Computer Engineering Student, passionate about nature technology. Combine your professional experience in the food industry with software projects and apps outside. Explore how",
+      "en": "Computer Engineering student, passionate about technology applied to nature. He combines his professional experience in the food industry with software projects and outdoor apps. Explore how",
       "es": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "utiliza",
-      "en": "use",
-      "es": "Uso",
+      "en": "uses",
+      "es": "utilizar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "la inteligencia artificial para potenciar la creatividad y la productividad humana",
@@ -1646,12 +3046,22 @@
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
-      "en": "A story of the Saturdays.AI. community originally published on 28 Oct 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on Oct 28, 2025.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ya tenía una app completa, funcional, ligera y 100% generada con IA.",

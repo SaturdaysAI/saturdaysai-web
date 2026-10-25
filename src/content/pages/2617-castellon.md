@@ -1,9 +1,6 @@
 ---
 title: Castellón
-description: "Saturdays.AI - Castellón Queremos convertir la provincia de
-  Castellón en referente internacional en Inteligencia Artificial, haciendo la
-  IA accesible a todos los públicos. ¿Te apuntas? Cuándo: 14 sábados, de oct/29
-  a…"
+description: "Descubre la comunidad de Saturdays.AI en Castellón. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/e47cb128d6da7070.webp
 legacyPath: /castellon/
 sourceUrl: https://saturdays.ai/castellon/

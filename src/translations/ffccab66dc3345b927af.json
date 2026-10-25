@@ -43,18 +43,33 @@
     {
       "source": "seasons to explore",
       "en": "seasons to explore",
-      "es": "temporadas para explorar",
+      "es": "estaciones para explorar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Filter by season",
       "en": "Filter by season",
-      "es": "Filtro por temporada",
-      "reviewed": false,
+      "es": "Filtrar por temporada",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "All seasons",
@@ -114,10 +129,15 @@
     {
       "source": "Search guests, topics, seasons…",
       "en": "Search guests, topics, seasons…",
-      "es": "Buscar invitados, temas, temporadas...",
-      "reviewed": false,
+      "es": "Busca invitados, temas, temporadas…",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "41 episodes to explore.",
@@ -138,10 +158,15 @@
     {
       "source": "No episodes found.",
       "en": "No episodes found.",
-      "es": "No hay episodios encontrados.",
-      "reviewed": false,
+      "es": "No encontramos episodios con esa búsqueda.",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Show all episodes",
@@ -153,46 +178,76 @@
     },
     {
       "source": "About the podcast and listening platforms",
-      "en": "About the podcast and listening platforms",
-      "es": "Acerca de las plataformas de podcast y escucha",
-      "reviewed": false,
+      "en": "About the podcast and where to listen",
+      "es": "Sobre el podcast y dónde escucharlo",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Escucha nuestro Podcast",
-      "en": "Listen to our Podcast.",
+      "en": "Listen to our Podcast",
       "es": "Escucha nuestro Podcast",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Hablamos de forma distendida sobre Inteligencia Artificial, las decisiones vitales que nos han llevado hasta aquí, y qué nos depara el futuro.",
-      "en": "We speak in a dissenting way about Artificial Intelligence, the vital decisions that have taken us here, and what the future holds.",
-      "es": "Hablamos de forma distendida sobre Inteligencia Artificial, las decisiones vitales que nos han llevado hasta aquí, y qué nos depara el futuro.",
-      "reviewed": false,
+      "en": "Relaxed conversations about artificial intelligence, the life choices that brought us here and what the future holds.",
+      "es": "Hablamos de forma distendida sobre inteligencia artificial, las decisiones vitales que nos han llevado hasta aquí y qué nos depara el futuro.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La misión del podcast es hacer divulgación de IA y compartir historias que inspiran a dedicarse a esta tecnología que está cambiando el mundo.",
-      "en": "The podcast's mission is to spread IA and share stories that inspire the world's changing technology.",
-      "es": "La misión del podcast es hacer divulgación de IA y compartir historias que inspiran a dedicarse a esta tecnología que está cambiando el mundo.",
-      "reviewed": false,
+      "en": "The podcast makes AI easier to understand and shares stories that inspire people to explore this world-changing technology.",
+      "es": "La misión del podcast es acercar la IA a más personas y compartir historias que inspiran a explorar esta tecnología que está cambiando el mundo.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Puedes escucharlos en:",
-      "en": "You can hear them in:",
+      "en": "Listen on:",
       "es": "Puedes escucharlos en:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Apple",
@@ -212,20 +267,30 @@
     },
     {
       "source": "Conversations about artificial intelligence, the people behind it and the paths that brought us here. Explore every episode from the Saturdays.AI podcast.",
-      "en": "Conversations about artificial intelligence, the people behind it and the paths that brought us here. Explore every episode from the Saturdays.AI podcast.",
-      "es": "Conversaciones sobre inteligencia artificial, la gente detrás de ella y los caminos que nos trajeron aquí. Explore cada episodio de los Saturdays.AI podcast.",
-      "reviewed": false,
+      "en": "Conversations about artificial intelligence, the people behind it and the paths that brought us here. Explore every episode of the Saturdays.AI podcast.",
+      "es": "Conversaciones sobre inteligencia artificial, las personas que la hacen posible y los caminos que nos han traído hasta aquí. Descubre todos los episodios del podcast de Saturdays.AI.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "The Saturdays.AI podcast",
       "en": "The Saturdays.AI podcast",
-      "es": "Los Saturdays.AI podcast",
-      "reviewed": false,
+      "es": "El podcast de Saturdays.AI",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

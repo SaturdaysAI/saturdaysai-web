@@ -1,8 +1,6 @@
 ---
 title: Asunción
-description: "Saturdays.AI - Asunción Queremos convertir Asunción y Paraguay en
-  referente internacional en Inteligencia Artificial, haciendo la IA accesible a
-  todos los públicos. ¿Os apuntas? Cuándo: 14 sábados, TBADónde: TBAPrograma:…"
+description: "Descubre la comunidad de Saturdays.AI en Asunción. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/abf9417803bb561a.webp
 legacyPath: /asuncion/
 sourceUrl: https://saturdays.ai/asuncion/

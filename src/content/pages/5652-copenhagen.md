@@ -1,9 +1,6 @@
 ---
 title: Copenhagen
-description: "Saturdays.AI Copenhagen Hej københavn! Check out how our 1st
-  edition of SaturdaysAI in Denmark went! We will be posting more info about the
-  2nd edition soon! 🌍 Our mission is to empower anyone to learn #AI beyond
-  the…"
+description: "Descubre la comunidad de Saturdays.AI en Copenhagen. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/4d3d5bd633f6322b.webp
 legacyPath: /copenhagen/
 sourceUrl: https://saturdays.ai/copenhagen/

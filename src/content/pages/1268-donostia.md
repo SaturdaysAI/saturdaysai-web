@@ -1,9 +1,6 @@
 ---
 title: Donostia
-description: Saturdays.AI - Donostia Euskadi es un referente internacional en
-  Inteligencia Artificial, impulsando la aplicación de la IA en la industria, el
-  sector servicios y la administración pública y concienciando a todos los
-  agentes y…
+description: "Descubre la comunidad de Saturdays.AI en Donostia. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/6e65a597f4347686.webp
 legacyPath: /donostia/
 sourceUrl: https://saturdays.ai/donostia/

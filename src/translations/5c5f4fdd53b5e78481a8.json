@@ -297,10 +297,21 @@
     {
       "source": ". Sleep problems during COVID-19 pandemic by population: a systematic review and meta-analysis.",
       "en": ". Sleep problems during COVID-19 pandemic by population: a systematic review and meta-analysis.",
-      "es": ". Problemas de sueño durante la pandemia COVID-19 por población: revisión sistemática y metaanálisis.",
+      "es": ". Problemas del sueño durante la pandemia de COVID-19 por población: una revisión sistemática y un metanálisis.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "J Clin Sleep Med",
@@ -317,10 +328,21 @@
     {
       "source": "2. Cunningham, T.J., Fields, E.C. & Kensinger, E.A. (2021) Boston College daily sleep and well-being survey data during early phase of the COVID-19 pandemic. Sci Data 8, 110.",
       "en": "2. Cunningham, T.J., Fields, E.C. & Kensinger, E.A. (2021) Boston College daily sleep and well-being survey data during early phase of the COVID-19 pandemic. Sci Data 8, 110.",
-      "es": "2. Cunningham, T.J., Fields, E.C. &quot; Kensinger, E.A. (2021) Boston College datos diarios de encuesta de sueño y bienestar durante la fase temprana de la pandemia COVID-19. Sci Data 8, 110.",
+      "es": "2. Cunningham, TJ, Fields, EC y Kensinger, EA. (2021) Datos de la encuesta de bienestar y sueño diario de Boston College durante la fase inicial de la pandemia de COVID-19. Datos de ciencia 8, 110.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ana Galindo Alonso",

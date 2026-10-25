@@ -1,9 +1,6 @@
 ---
 title: Alicante
-description: "Saturdays.AI - Alicante En Alicante somos líderes en Inteligencia
-  Artificial, ¿sabes cómo? Apúntate Cuándo: Sábados, empezamos 9/3/2024Dónde:
-  Universitat AlicantePrograma: Machine Learning Apúntate ¿No sabes Python?
-  ¿Cómo es…"
+description: "Descubre la comunidad de Saturdays.AI en Alicante. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/e47cb128d6da7070.webp
 legacyPath: /alicante/
 sourceUrl: https://saturdays.ai/alicante/

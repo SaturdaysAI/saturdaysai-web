@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "Comunidad",
-      "en": "Comunidad",
+      "en": "Community",
       "es": "Comunidad",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "*Only in Spanish at the moment*",
@@ -27,33 +32,53 @@
     },
     {
       "source": "Online Courses and A.I. events",
-      "en": "Online Courses and A.I. events",
-      "es": "Cursos en línea y A.I. eventos",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Online AI courses and events",
+      "es": "Cursos y eventos de IA en línea",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "We connect the A.I. ecosystem.",
-      "en": "We connect the A.I. ecosystem.",
-      "es": "Conectamos la A.I. ecosistema.",
-      "reviewed": false,
+      "en": "We connect the AI ecosystem.",
+      "es": "Conectamos el ecosistema de la IA.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Participate in asynchronous discussions",
-      "en": "Participate in asynchronous discussions",
-      "es": "Participar en discusiones asincrónicas.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Join discussions at your own pace",
+      "es": "Participa en conversaciones a tu ritmo",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "At Saturdays.AI we believe that we must accelerate our mission to make A.I. accessible to everyone. That is why we are launching our online community.",
-      "en": "At Saturdays.AI we believe that we must accelerate our mission to make A.I. accessible to everyone. That is why we are launching our online community.",
-      "es": "En Saturdays.AI creemos que debemos acelerar nuestra misión de hacer que la A.I. accesible a todos. Es por eso que estamos lanzando nuestra comunidad en línea.",
-      "reviewed": false,
+      "en": "At Saturdays.AI, we want to make AI accessible to everyone. Our online community helps us learn, share and connect beyond our own cities.",
+      "es": "En Saturdays.AI queremos acercar la IA a todas las personas. Nuestra comunidad en línea nos ayuda a aprender, compartir y conectar más allá de cada ciudad.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Online Courses and Events",
@@ -94,18 +119,28 @@
     },
     {
       "source": "That’s why we’ve created the",
-      "en": "That’s why we’ve created the",
-      "es": "Por eso hemos creado el",
-      "reviewed": false,
+      "en": "That’s why we created the",
+      "es": "Por eso hemos creado la",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "online Saturdays.AI community",
-      "en": "online Saturdays.AI community",
-      "es": "comunidad Saturdays.AI en línea",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Saturdays.AI online community",
+      "es": "comunidad en línea de Saturdays.AI",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– free of charge – so you can start discussions, ask your questions, share events or talks, search for job offers or create A.I. initiatives.",
@@ -138,26 +173,41 @@
     },
     {
       "source": "You will be able to access state of the art online courses about AI, from learning python to prompt engineering, or even to train a custom LLM, bot for advanced and beginners, together with events and what is trending in the AI / ML world.",
-      "en": "You will be able to access state of the art online courses about AI, from learning python to prompt engineering, or even to train a custom LLM, bot for advanced and beginners, together with events and what is trending in the AI / ML world.",
-      "es": "Podrá acceder a cursos en línea de última generación sobre IA, desde aprender Python hasta ingeniería de prompts, o incluso capacitar un LLM personalizado, un bot para avanzados y principiantes, junto con eventos y las tendencias en el mundo de AI/ML.",
-      "reviewed": false,
+      "en": "Explore AI courses for different levels, from Python and prompt engineering to training language models. Discover events and developments in AI and machine learning too.",
+      "es": "Explora cursos de IA para distintos niveles: desde Python e ingeniería de prompts hasta el entrenamiento de modelos de lenguaje. Descubre también eventos y novedades sobre IA y aprendizaje automático.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AI Fellows only",
       "en": "AI Fellows only",
-      "es": "Solo becarios de IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Solo para AI Fellows",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Join conversations around the world about programming, technology, A.I. resources and machine learning projects that are changing the world.",
-      "en": "Join conversations around the world about programming, technology, A.I. resources and machine learning projects that are changing the world.",
-      "es": "Únase a conversaciones en todo el mundo sobre programación, tecnología, A.I. recursos y proyectos de aprendizaje automático que están cambiando el mundo.",
-      "reviewed": false,
+      "en": "Join people around the world in conversations about programming, technology, AI resources and machine learning projects.",
+      "es": "Participa en conversaciones con personas de todo el mundo sobre programación, tecnología, recursos de IA y proyectos de aprendizaje automático.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Quality, orderly conversations where you control the notifications you receive.",

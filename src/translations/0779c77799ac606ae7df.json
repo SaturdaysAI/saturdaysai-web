@@ -17,10 +17,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Cochabamba.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Cochabamba.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Cochabamba.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Cochabamba.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Cochabamba",
@@ -190,8 +201,13 @@
     {
       "source": "Learning",
       "en": "Learning",
-      "es": "Learning",
-      "reviewed": false
+      "es": "Aprendizaje",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Continuaremos con el estado del arte explorando desde los espacios latentes, la teoría de las GANs y sus arquitecturas.",
@@ -298,10 +314,21 @@
     {
       "source": "Adriana Romero Soriano is a research scientist at Facebook AI Research and an adjunct professor at McGill University. Her research focuses on developing models and algorithms that are able to learn from multi-modal and real world data, understand and reason about conceptual relations, and recognize their uncertainties, while addressing impactful problems. She completed her postdoctoral studies at Mila, where she was advised by Prof. Yoshua Bengio. Her postdoctoral research revolved around deep learning techniques to tackle biomedical challenges, such as the ones posed by multi-modal data, high dimensional data and graph structured data. She received her Ph.D. from University of Barcelona with a thesis on assisting the training of deep neural networks with applications to computer vision, advised by Dr. Carlo Gatta. Adriana serves as program committee for conferences such as ICLR, NeurIPS, ICML, and CVPR. She co-organized WiCV at CVPR 2018, RLGM at ICLR 2019, SEDL at NeurIPS 2019, the Montreal AI Symposium 2019, and SEDL at ICLR 2021.",
       "en": "Adriana Romero Soriano is a research scientist at Facebook AI Research and an adjunct professor at McGill University. Her research focuses on developing models and algorithms that are able to learn from multi-modal and real world data, understand and reason about conceptual relations, and recognize their uncertainties, while addressing impactful problems. She completed her postdoctoral studies at Mila, where she was advised by Prof. Yoshua Bengio. Her postdoctoral research revolved around deep learning techniques to tackle biomedical challenges, such as the ones posed by multi-modal data, high dimensional data and graph structured data. She received her Ph.D. from University of Barcelona with a thesis on assisting the training of deep neural networks with applications to computer vision, advised by Dr. Carlo Gatta. Adriana serves as program committee for conferences such as ICLR, NeurIPS, ICML, and CVPR. She co-organized WiCV at CVPR 2018, RLGM at ICLR 2019, SEDL at NeurIPS 2019, the Montreal AI Symposium 2019, and SEDL at ICLR 2021.",
-      "es": "A Adriana Romero Soriano es científica de investigación en Facebook AI Research y profesora adjunta en la Universidad McGill. Su investigación se centra en desarrollar modelos y algoritmos que puedan aprender de datos multimodales y reales, entender y razonar sobre las relaciones conceptuales, y reconocer sus incertidumbres, al mismo tiempo que abordan problemas impactantes.",
+      "es": "Adriana Romero Soriano es científica investigadora en Facebook AI Research y profesora adjunta en la Universidad McGill. Su investigación se centra en el desarrollo de modelos y algoritmos que sean capaces de aprender de datos multimodales y del mundo real, comprender y razonar sobre relaciones conceptuales y reconocer sus incertidumbres, al mismo tiempo que abordan problemas impactantes. Completó sus estudios postdoctorales en Mila, donde fue asesorada por el Prof. Yoshua Bengio. Su investigación postdoctoral giró en torno a técnicas de aprendizaje profundo para abordar desafíos biomédicos, como los que plantean los datos multimodales, los datos de alta dimensión y los datos estructurados en gráficos. Recibió su doctorado. de la Universidad de Barcelona con una tesis sobre asistencia al entrenamiento de redes neuronales profundas con aplicaciones a la visión por computadora, asesorada por el Dr. Carlo Gatta. Adriana sirve como comité de programa para conferencias como ICLR, NeurIPS, ICML y CVPR. Coorganizó WiCV en CVPR 2018, RLGM en ICLR 2019, SEDL en NeurIPS 2019, el Simposio de IA de Montreal 2019 y SEDL en ICLR 2021.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Marcia Montealegre 🇺🇾",

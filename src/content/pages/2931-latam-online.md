@@ -1,8 +1,6 @@
 ---
 title: LATAM Online
-description: Edición Latam AI Saturdays Online 12 de febrero, 9:30 hrs GMT-6
-  LIVE Saturdays.AI Conoce a nuestros alumnos graduados de los cursos de machine
-  learning y deep learning de la 2da Edición de Latam. Conéctate con nosotros y…
+description: "AI Saturdays Online en Latinoamérica: aprendizaje práctico, mentores y proyectos de IA con impacto social. Consulta las próximas ediciones con el equipo."
 image: /media/6939042e0c758166.webp
 legacyPath: /latam-online/
 sourceUrl: https://saturdays.ai/latam-online/
@@ -11,6 +9,16 @@ language: en
 draft: false
 kind: page
 ---
+
+## Una comunidad que conecta Latinoamérica
+
+AI Saturdays Online acerca el aprendizaje práctico de la IA a personas de distintos países de Latinoamérica. Aprendemos con otras personas, compartimos los retos y construimos un proyecto en equipo.
+
+Aquí encontrarás el archivo de ediciones anteriores. Los horarios, requisitos y fechas de una nueva edición deben confirmarse con el equipo organizador.
+
+[Consulta las próximas ediciones](https://saturdays.ai/contacto/) | [Explora los recursos para aprender](https://saturdays.ai/online/)
+
+## Archivo de ediciones anteriores
 
 ### Edición Latam  
 AI Saturdays Online

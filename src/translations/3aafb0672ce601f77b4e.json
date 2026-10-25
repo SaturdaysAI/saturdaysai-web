@@ -311,16 +311,38 @@
     {
       "source": "[1] D. Bruneo and F. De Vita, “On the use of LSTM networks for predictive maintenance in smart industries,” in Proceedings — 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019, 2019, pp. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
       "en": "[1] D. Bruneo and F. De Vita, “On the use of LSTM networks for predictive maintenance in smart industries,” in Proceedings — 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019, 2019, pp. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
-      "es": "[1] D. Bruneo y F. De Vita, “Sobre el uso de redes LSTM para el mantenimiento predictivo en industrias inteligentes”, en Proceedings — 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019, 2019, pp. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
+      "es": "[1] D. Bruneo y F. De Vita, “Sobre el uso de redes LSTM para mantenimiento predictivo en industrias inteligentes”, en Actas — Conferencia internacional IEEE sobre computación inteligente de 2019, SMARTCOMP 2019, 2019, págs. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
       "reviewed": false,
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "[2] S. Guldamlasioglu, O. Aydin, and D. Scientist, “Using LSTM networks to predict engine condition on large scale data processing framework,” 2017, doi: 10.1109/ICEEE2.2017.7935834.",
       "en": "[2] S. Guldamlasioglu, O. Aydin, and D. Scientist, “Using LSTM networks to predict engine condition on large scale data processing framework,” 2017, doi: 10.1109/ICEEE2.2017.7935834.",
-      "es": "[2] S. Guldamlasioglu, O. Aydin y D. Scientist, “Usando redes LSTM para predecir la condición del motor en el marco de procesamiento de datos a gran escala,” 2017, doi: 10.1109/ICEEE2.2017.7935834.",
+      "es": "[2] S. Guldamlasioglu, O. Aydin y D. Scientist, “Uso de redes LSTM para predecir la condición del motor en un marco de procesamiento de datos a gran escala”, 2017, doi: 10.1109/ICEEE2.2017.7935834.",
       "reviewed": false,
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "[3] L. Swanson, “Linking maintenance strategies to performance,” Int. J. Prod. Econ., vol. 70, no. 3, pp. 237–244, Apr. 2001, doi: 10.1016/S0925–5273(00)00067–0",

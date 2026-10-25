@@ -1,8 +1,6 @@
 ---
 title: Valencia
-description: "Saturdays.AI - Valencia En Valencia somos líderes en Inteligencia
-  Artificial, ¿sabes cómo? Apúntate Cuándo: Sábados, empezamos el 7/2/2024Dónde:
-  Universitat de ValenciaPrograma: Machine Learning Apúntate ¿No sabes Python?…"
+description: "Descubre la comunidad de Saturdays.AI en Valencia. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/7e9b275c99714c8d.webp
 legacyPath: /valencia/
 sourceUrl: https://saturdays.ai/valencia/

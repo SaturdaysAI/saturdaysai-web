@@ -1,9 +1,6 @@
 ---
 title: Create your own AI Saturdays
-description: "Join or Create anAI Saturdays community AI Saturdays is a
-  part-time (saturdays sync, rest of the week async), in person bootcamp, where
-  passionate individuals learn AI together and code social impact projects
-  #ai4all…"
+description: "Impulsa AI Saturdays en tu ciudad. Conoce el modelo de aprendizaje en comunidad y contacta con el equipo para organizar una edición."
 image: /media/13aa42fd7194f063.webp
 legacyPath: /create-your-own-ai-saturdays/
 sourceUrl: https://saturdays.ai/create-your-own-ai-saturdays/

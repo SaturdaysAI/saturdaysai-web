@@ -1,7 +1,6 @@
 ---
 title: Barcelona
-description: "Saturdays.AI - Barcelona When: TBA in 2023Where: TBATrack: Machine
-  Learning or Deep Learning Don't Know Python?"
+description: "Descubre la comunidad de Saturdays.AI en Barcelona. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/28fc43911415b277.webp
 legacyPath: /barcelona/
 sourceUrl: https://saturdays.ai/barcelona/

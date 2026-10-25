@@ -1,8 +1,6 @@
 ---
 title: España Online
-description: Edición España AI Saturdays Online Especialízate en Machine y Deep
-  Learning desde tu casa. Aprende en comunidad, de forma práctica junto a otros
-  AI fellows y mentores. Crea tu proyecto de impacto social y preséntalo en un…
+description: "AI Saturdays Online en España: aprende IA en equipo, desarrolla un proyecto y conecta con mentores. Consulta con el equipo las próximas ediciones."
 image: /media/3d5dcc244c493a2e.webp
 legacyPath: /espana-online/
 sourceUrl: https://saturdays.ai/espana-online/
@@ -11,6 +9,16 @@ language: en
 draft: false
 kind: page
 ---
+
+## Aprender a distancia, crear en comunidad
+
+AI Saturdays Online reúne a personas que quieren aprender inteligencia artificial desde casa y aplicarla a un proyecto en equipo. La experiencia combina práctica, acompañamiento de mentores y un Demo Day para compartir lo aprendido.
+
+Esta página conserva el programa y las experiencias de ediciones anteriores en España. Para conocer las próximas fechas, el nivel de entrada y la disponibilidad, consulta con el equipo.
+
+[Consulta las próximas ediciones](https://saturdays.ai/contacto/) | [Explora los recursos para aprender](https://saturdays.ai/online/)
+
+## Archivo de ediciones anteriores
 
 ## Edición España
 
@@ -100,17 +108,17 @@ Los primeros 6 sábados del programa se basan en…
 
 ##### Conceptos
 
-9 – 11 AM
+09:00–11:00
 
 Durante la primera mitad del programa, aprenderemos los fundamentos del Machine Learning o Deep Learning.
 
 ##### Coffee Break
 
-11 – 11:30 AM
+11:00–11:30
 
 ##### Ejercicios
 
-11:30 – 13 AM
+11:30–13:00
 
 Seguimos un enfoque top-down de aprendizaje mediante ejercicios prácticos. Para empezar, necesitarás algunos conocimientos en Python y librerías de ciencia de datos.
 
@@ -120,17 +128,17 @@ Los últimas sábados del programa se basan en…
 
 ##### Trabajo de equipo
 
-9 – 11 AM
+09:00–11:00
 
 En la segunda mitad del programa, construimos prototipos. Trabajando con un conjunto de datos y un modelo de tu elección, abordamos un problema real con IA, buscando ideas de impacto social.
 
 ##### Coffee Break
 
-11 – 11:30 AM
+11:00–11:30
 
 ##### Mentorías
 
-11:30 – 13 AM
+11:30–13:00
 
 Un mentor del equipo te guiará a ti y a tus compañeros durante el proyecto de impacto social. Terminarás publicando un artículo explicativo, una demo online y una presentación en el DemoDay.
 
@@ -166,7 +174,7 @@ Aquí puedes ver lo que opinan algunos AI Fellows 🙂
 
 ## ¿Quién te acompaña?
 
-Nuestro equipo está compuesto por personas apasionadas en el papel de la IA para el progreso humano. Creemos firmemente que **combinar** comunidades de **personas** junto con **tecnología,** es la mejor manera de catalizar el **cambio** que nos permitirá hacer del mundo un lugar mejor.
+Nuestro equipo cree en el potencial de la IA para contribuir al bienestar de las personas. Conectamos comunidades, conocimiento y tecnología para aprender juntos y desarrollar proyectos útiles.
 
 ## Nuestros partners
 
@@ -230,11 +238,7 @@ Te acompañarán mentores apasionados de la I.A., con experiencia profesional, y
 
 Los proyectos finales servirán para demostrar lo aprendido en el curso, proponiendo una solución a un problema de impacto social (de tu elección) con el uso de Inteligencia Artificial.
 
-Los proyectos deberán compartirse como código
-
-abierto (y un artículo explicativo) en el estado que se encuentren el día de la presentación, pero podréis seguir trabajando en el proyecto una vez acabado el curso si así lo deseáis.
-
-¿A qué va destinado el dinero?
+Los proyectos se comparten como código abierto, junto con un artículo explicativo, en el estado en que se encuentren el día de la presentación. Puedes seguir desarrollándolos después del curso.
 
 ¿Dónde puedo ver los proyectos de otras ediciones?
 

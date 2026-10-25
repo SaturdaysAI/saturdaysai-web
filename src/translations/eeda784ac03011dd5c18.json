@@ -13,11 +13,21 @@
     {
       "source": "Services: explore the Saturdays.AI community, learning and resources.",
       "en": "Services: explore the Saturdays.AI community, learning and resources.",
-      "es": "Servicios: explorar los Saturdays.AI comunidad, aprendizaje y recursos.",
+      "es": "Servicios: explore la comunidad, el aprendizaje y los recursos Saturdays.AI.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

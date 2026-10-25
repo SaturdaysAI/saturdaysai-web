@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "Podcast T3/E7 – María Grandury – IA´s que Hablan Español",
-      "en": "Podcast S3/E7 – María Grandury – IA's Who Speak Spanish",
-      "es": "Podcast T3/E7 – María Grandury – IA´s que Hablan Español",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Podcast S3/E7 – María Grandury – AI that speaks Spanish",
+      "es": "Podcast T3/E7 – María Grandury – IA que habla español",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "T3 / E7",

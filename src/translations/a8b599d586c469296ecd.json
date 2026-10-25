@@ -47,10 +47,21 @@
     },
     {
       "source": "Aarón Espasandín Geselmann",
-      "en": "Aaron Espasandín Geselmann",
+      "en": "Aarón Espasandín Geselmann",
       "es": "Aarón Espasandín Geselmann",
       "reviewed": false,
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Concepción Olivares Herráiz",
@@ -105,7 +116,7 @@
     {
       "source": "AI Saturdays Bootcamp",
       "en": "AI Saturdays Bootcamp",
-      "es": "Bootcamp de los sábados de IA",
+      "es": "Bootcamp de los AI Saturdays",
       "reviewed": false
     },
     {

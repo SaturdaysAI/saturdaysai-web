@@ -1,9 +1,6 @@
 ---
 title: Guadalajara (MX)
-description: Saturdays.AI - Guadalajara 5ta Edición Próximamente 26 de
-  noviembre, 10:00 hrs GMT-6 LIVE Saturdays.AI Conoce la comunidad de I.A. en
-  Guadalajara AI Saturdays Guadalajara forma parte de un movimiento comunitario,
-  sin fines de…
+description: "Descubre la comunidad de Saturdays.AI en Guadalajara. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/3ebcf6d077ce7d41.webp
 legacyPath: /guadalajara/
 sourceUrl: https://saturdays.ai/guadalajara/

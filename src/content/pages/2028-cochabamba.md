@@ -1,9 +1,6 @@
 ---
 title: Cochabamba
-description: "Saturdays.AICochabamba Ya llega la primera Datathon en
-  Cochabamba!!! Cuando: TBCDonde: PresencialPrograma: Machine Learning
-  Inscribirme Estructura del curso: Code2Learn Durante la primera mitad del
-  programa aprenderás los…"
+description: "Descubre la comunidad de Saturdays.AI en Cochabamba. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/dd868479b12843b7.webp
 legacyPath: /cochabamba/
 sourceUrl: https://saturdays.ai/cochabamba/

@@ -49,9 +49,14 @@
     {
       "source": "podcast conversations",
       "en": "podcast conversations",
-      "es": "conversaciones de podcasts",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "conversaciones del podcast",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "All resources",
@@ -70,9 +75,14 @@
     {
       "source": "Find a programme or resource…",
       "en": "Find a programme or resource…",
-      "es": "Encuentre un programa o recurso...",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Busca un programa o recurso…",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "29 resources to explore.",
@@ -104,10 +114,15 @@
     },
     {
       "source": "StarChat – Chatbot para aprender Inteligencia Artificial",
-      "en": "StarChat – Chatbot para aprender Inteligencia Artificial",
-      "es": "StarChat – Chatbot para aprender Inteligencia Artificial",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "StarChat: a chatbot for learning artificial intelligence",
+      "es": "StarChat: chatbot para aprender inteligencia artificial",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "LATAM Online",
@@ -133,23 +148,38 @@
     {
       "source": "Python 4 A.I.",
       "en": "Python 4 A.I.",
-      "es": "Python 4 IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Python 4 A.I.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Máster Saturdays.AI",
-      "en": "Máster Saturdays.AI",
+      "en": "Saturdays.AI master’s programme",
       "es": "Máster Saturdays.AI",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Partners",
       "en": "Partners",
-      "es": "Socios",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Colaboradores",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Historias de nuestros AI Fellows",
@@ -162,25 +192,40 @@
     },
     {
       "source": "Monterrey EN",
-      "en": "Monterrey EN",
-      "es": "Monterrey ES",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Monterrey",
+      "es": "Monterrey",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "No resources found.",
       "en": "No resources found.",
-      "es": "No se encontraron recursos.",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "No encontramos recursos con esa búsqueda.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Try another search or explore all resources.",
       "en": "Try another search or explore all resources.",
-      "es": "Intente otra búsqueda o explore todos los recursos.",
-      "reviewed": false,
+      "es": "Prueba otra búsqueda o explora todos los recursos.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Show all resources",
@@ -192,23 +237,44 @@
     {
       "source": "Find every learning programme, community resource, story and project in the Saturdays.AI archive.",
       "en": "Find every learning programme, community resource, story and project in the Saturdays.AI archive.",
-      "es": "Encuentre todos los programas de aprendizaje, recursos comunitarios, historias y proyectos en el archivo Saturdays.AI.",
-      "reviewed": false,
+      "es": "Encuentra programas, recursos de la comunidad, historias y proyectos en el archivo de Saturdays.AI.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Saturdays.AI",
       "en": "Explore Saturdays.AI",
-      "es": "Explora los Saturdays.AI",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Explora Saturdays.AI",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "20 resources to explore.",
       "en": "20 resources to explore.",
       "es": "20 recursos para explorar.",
       "reviewed": true
+    },
+    {
+      "source": "Política de privacidad",
+      "en": "Privacy policy",
+      "es": "Política de privacidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

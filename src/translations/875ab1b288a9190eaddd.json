@@ -108,12 +108,22 @@
     },
     {
       "source": "enfermedades de la aorta en general",
-      "en": "Aorta diseases in general",
+      "en": "diseases of the aorta in general",
       "es": "enfermedades de la aorta en general",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Existe la posibilidad de realizar angiotomografias simples que no requieren el uso de medios de contraste y que tienen un costo menor (alrededor de $200,00 de diferencia), pero estas no permiten una visualización completa de las estructuras aórticas con claridad (2), por lo que no son útiles en muchos casos, como en el de Jesús.",
@@ -344,11 +354,21 @@
     {
       "source": "World Heart Federation (2016) World Congress of cardiology & Cardiovascular Health",
       "en": "World Heart Federation (2016) World Congress of cardiology & Cardiovascular Health",
-      "es": "World Heart Federation (2016) World Congress of cardiology &quot; Cardiovascular Health",
+      "es": "Federación Mundial del Corazón (2016) Congreso Mundial de Cardiología y Salud Cardiovascular",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "(4) Ferreira, J (2017)",

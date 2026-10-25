@@ -1,9 +1,6 @@
 ---
 title: Murcia
-description: Saturdays.AI - Murcia Participa en un curso práctico de
-  inteligencia artificial en el que expertos en la materia te ayudarán a
-  desarrollar tu propio proyecto de ciencia de datos de principio a fin. Te
-  enseñaremos qué…
+description: "Descubre la comunidad de Saturdays.AI en Murcia. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/6b05a6fbf28b97d7.webp
 legacyPath: /murcia/
 sourceUrl: https://saturdays.ai/murcia/

@@ -26,4 +26,10 @@ The catalogs are versioned, so normal builds need no translation credentials, ne
 
 Use `npm run build` followed by `npm run preview` to inspect both final static languages. `astro dev` remains a source/design preview; localization runs after Astro's build. Use the same `SITE_URL`, `BASE_PATH` and `PUBLIC_SITE_MODE` environment variables as GitHub Actions when testing the GitHub Pages base path.
 
-The live domain, DNS and WordPress are outside this change.
+Production is now hosted at `https://saturdays.ai/`; use `SITE_URL=https://saturdays.ai`, `BASE_PATH=/` and `PUBLIC_SITE_MODE=production`. See [the production record](PRODUCTION-CUTOVER.md).
+
+## Editorial safeguards
+
+The [25 October editorial review](EDITORIAL-REVIEW-2026-10-25.md) records the reviewed core narrative, owner-confirmed facts, legal identity, corrections and limits of the archive review. Automatically refreshed segments retain `reviewed: false`; their quality checks are not editorial approval. Agent-reviewed segments identify the agent, date and scope separately.
+
+`src/i18n/glossary.json` protects programme, brand and technical names before the optional translation helper sends text. The helper rejects a response that loses a protected name. Add new names there when necessary, and still review translated sentences in context. The archive notice remains on historical content; it is omitted on the curated about, contact and legal information pages.

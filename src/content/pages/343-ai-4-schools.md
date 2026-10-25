@@ -1,8 +1,6 @@
 ---
 title: AI 4 Schools
-description: AI 4 Schools Learn or teach AI in your courses with the support of
-  3,000 AI enthusiasts. From K12 to College, with a special focus on secondary
-  education, the AI4Schools programmes empower you to learn and use AI as a…
+description: "Acerca la inteligencia artificial al aula con Saturdays.AI. Explora recursos educativos y consulta las opciones de colaboración para tu centro."
 image: /media/843fb79f8285e61e.webp
 legacyPath: /ai-4-schools/
 sourceUrl: https://saturdays.ai/ai-4-schools/

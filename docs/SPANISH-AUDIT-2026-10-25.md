@@ -2,6 +2,8 @@
 
 Actualización posterior: el propietario autorizó la publicación y HTTPS se activó en `saturdays.ai` el 25 de octubre de 2026. Consulta el [registro de producción](PRODUCTION-CUTOVER.md) para el estado y las pruebas del dominio definitivo. El texto que sigue conserva el alcance y los resultados de la auditoría previa del piloto.
 
+Actualización editorial posterior: se han incorporado el CIF y domicilio facilitados por el propietario, la cifra de más de 30.000 fellows y el cargo de Miguel como fundador y presidente. Se han revisado la narrativa principal y las traducciones españolas e inglesas, y actualizado el aviso legal y la privacidad. El [registro editorial](EDITORIAL-REVIEW-2026-10-25.md) detalla el trabajo y distingue la revisión de textos de las comprobaciones automáticas del archivo. Los pendientes enumerados al final reflejan el momento de esta auditoría previa; no son una lista actualizada de bloqueos de publicación.
+
 Fecha: 25 de octubre de 2026. Destino: [piloto en GitHub Pages](https://saturdaysai.github.io/saturdaysai-web/?lang=es).
 
 La revisión combina el informe y las capturas del ZIP aportado, inspección del código, análisis de todas las páginas españolas generadas y pruebas nuevas en navegador. El ZIP se ha tratado como evidencia previa: sus observaciones no se dan por vigentes sin contrastarlas. Las mejoras se aplican al piloto; el dominio `saturdays.ai`, WordPress, DNS y correo no forman parte del despliegue.

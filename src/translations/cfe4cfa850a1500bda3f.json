@@ -4,12 +4,22 @@
   "segments": [
     {
       "source": "De una isla de SkyBlock a una wiki viva: la experiencia de construir una herramienta para organizar información y explorar nuevas posibilidades con IA.",
-      "en": "From a SkyBlock island to a live wiki: the experience of building a tool to organize information and explore new possibilities with IA.",
+      "en": "From an island of SkyBlock to a living wiki: the experience of building a tool to organize information and explore new possibilities with AI.",
       "es": "De una isla de SkyBlock a una wiki viva: la experiencia de construir una herramienta para organizar información y explorar nuevas posibilidades con IA.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "15 abr 2026",
@@ -21,28 +31,58 @@
     },
     {
       "source": "El reto de hacerlo estático sin que se sintiera estático",
-      "en": "The challenge of making it static without feeling static",
+      "en": "The challenge of making it static without it feeling static",
       "es": "El reto de hacerlo estático sin que se sintiera estático",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una dificultad real: el formato visual de Minecraft no existe en la web",
-      "en": "A real difficulty: Minecraft's visual format does not exist on the web",
+      "en": "A real difficulty: the visual format of Minecraft does not exist on the web",
       "es": "Una dificultad real: el formato visual de Minecraft no existe en la web",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Más allá del buscador: convertir datos en experiencia",
-      "en": "Beyond the search engine: convert data into experience",
+      "en": "Beyond the search engine: converting data into experience",
       "es": "Más allá del buscador: convertir datos en experiencia",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Búsqueda y sugerencias",
@@ -54,11 +94,21 @@
     },
     {
       "source": "Ítems: de una ficha plana a una ficha realmente útil",
-      "en": "Items: from a flat to a really useful sheet",
+      "en": "Items: from a flat token to a really useful token",
       "es": "Ítems: de una ficha plana a una ficha realmente útil",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Collections: no solo tiers, sino contexto",
@@ -79,29 +129,59 @@
     },
     {
       "source": "Mayor y elecciones: cuando el modelo de datos cambia según el contexto",
-      "en": "Major and elections: when the data model changes according to context",
+      "en": "Major and Choices: When the data model changes based on context",
       "es": "Mayor y elecciones: cuando el modelo de datos cambia según el contexto",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Bingo: convertir una API en una carta jugable",
-      "en": "Bingo: turning an API into a playable card",
+      "en": "Bingo: convert an API into a playable card",
       "es": "Bingo: convertir una API en una carta jugable",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Museum: organizar sin saturar",
-      "en": "Museum: organize without saturation",
+      "en": "Museum: organize without cluttering",
       "es": "Museo: organizar sin saturar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Lo que Codex aportó de verdad",
@@ -114,11 +194,21 @@
     },
     {
       "source": "Resultado actual",
-      "en": "Current outcome",
+      "en": "Current result",
       "es": "Resultado actual",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Código y aplicación",
@@ -130,30 +220,60 @@
     },
     {
       "source": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero cuello de botella no era el juego… sino la información. Horas saltando entre wikis desactualizadas, foros enterrados y vídeos inconexos para entender una sola mecánica. En ese momento surge la pregunta: ¿y si la wiki no fuera un archivo muerto, sino un sistema vivo que aprende al ritmo del juego?",
-      "en": "It all started as many obsessions begin in Minecraft: on an island of SkyBlock, alone, with limited resources and a constant feeling that the real bottle neck was not the game... but the information. Hours jumping among outdated wikis, buried forums and unrelated videos to understand a single mechanics. At that time the question arises: what if the wiki was not a dead file, but a living system that learns at the pace of the game?",
+      "en": "It all started as many Minecraft obsessions begin: on an island in SkyBlock, alone, with limited resources and a constant feeling that the real bottleneck was not the game... but the information. Hours jumping between outdated wikis, buried forums, and disjointed videos to understand a single mechanic. At that moment the question arises: what if the wiki was not a dead file, but a living system that learns at the pace of the game?",
       "es": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero cuello de botella no era el juego… sino la información. Horas saltando entre wikis desactualizadas, foros enterrados y vídeos inconexos para entender una sola mecánica. En ese momento surge la pregunta: ¿y si la wiki no fuera un archivo muerto, sino un sistema vivo que aprende al ritmo del juego?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "SkyBlockCodexAPI nace de esa fricción, pero también de esa intuición: convertir el caos de conocimiento de SkyBlock en una infraestructura dinámica donde comunidad, datos y modelos de IA no solo documentan lo que pasa, sino que lo entienden, lo actualizan y lo anticipan.",
-      "en": "SkyBlockCodexAPI is born from that friction, but also from that intuition: turning the chaos of SkyBlock knowledge into a dynamic infrastructure where community, data and IA models not only document what happens, but understand, update and anticipate it.",
+      "en": "SkyBlockCodexAPI is born from that friction, but also from that intuition: turning the chaos of knowledge of SkyBlock into a dynamic infrastructure where community, data and AI models not only document what happens, but understand it, update it and anticipate it.",
       "es": "SkyBlockCodexAPI nace de esa fricción, pero también de esa intuición: convertir el caos de conocimiento de SkyBlock en una infraestructura dinámica donde comunidad, datos y modelos de IA no solo documentan lo que pasa, sino que lo entienden, lo actualizan y lo anticipan.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La primera fase fue bastante directa en apariencia: conectar con la API pública de Hypixel y empezar a mostrar información de:",
-      "en": "The first phase was quite direct in appearance: to connect with the Hipixel public API and start showing information from:",
+      "en": "The first phase was pretty straightforward on the surface: connect to Hypixel's public API and start displaying information about:",
       "es": "La primera fase fue bastante directa en apariencia: conectar con la API pública de Hypixel y empezar a mostrar información de:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ítems",
@@ -205,21 +325,41 @@
     },
     {
       "source": "Sobre el papel, la idea era simple: pedir datos y enseñarlos. En la práctica, no tardamos en descubrir el problema real: la información no llega siempre con el mismo formato ni con el mismo nivel de limpieza.",
-      "en": "On paper, the idea was simple: to ask for data and to teach them. In practice, we don't delay in discovering the real problem: the information does not always come in the same format or with the same level of cleaning.",
+      "en": "On paper, the idea was simple: ask for data and show it. In practice, we soon discovered the real problem: the information does not always arrive in the same format or with the same level of cleanliness.",
       "es": "Sobre el papel, la idea era simple: pedir datos y enseñarlos. En la práctica, no tardamos en descubrir el problema real: la información no llega siempre con el mismo formato ni con el mismo nivel de limpieza.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Algunas descripciones venían en texto plano.",
-      "en": "Some descriptions came in flat text.",
+      "en": "Some descriptions came in plain text.",
       "es": "Algunas descripciones venían en texto plano.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Otras traían listas.",
@@ -240,29 +380,59 @@
     },
     {
       "source": "Y muchas incluían códigos de formato de Minecraft como §7, §a, §d o incluso formatos alternativos como %%light_purple%%.",
-      "en": "And many included Minecraft format codes as § 7, § a, § d or even alternative formats as% light _ purple%.",
+      "en": "And many included Minecraft format codes like §7, §a, §d, or even alternative formats like %%light_purple%%.",
       "es": "Y muchas incluían códigos de formato de Minecraft como §7, §a, §d o incluso formatos alternativos como %%light_purple%%.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ese fue uno de los primeros momentos en los que la IA empezó a aportar valor de verdad. Nos ayudó a:",
-      "en": "That was one of the first moments when the IA began to bring real value. It helped us:",
+      "en": "That was one of the first moments in which AI began to add real value. It helped us:",
       "es": "Ese fue uno de los primeros momentos en los que la IA empezó a aportar valor de verdad. Nos ayudó a:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "detectar estructuras repetidas dentro del caos",
-      "en": "to detect repeated structures within chaos",
+      "en": "detect repeated structures within chaos",
       "es": "detectar estructuras repetidas dentro del caos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "proponer normalizaciones sin perder información",
@@ -275,12 +445,22 @@
     },
     {
       "source": "transformar formatos pensados para el juego en algo legible para web",
-      "en": "transform formats thought for the game into something legible for web",
+      "en": "transform formats designed for the game into something readable for the web",
       "es": "transformar formatos pensados para el juego en algo legible para web",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "acelerar iteraciones pequeñas sin perder coherencia visual",
@@ -293,11 +473,21 @@
     },
     {
       "source": "No se trataba solo de “traducir JSON”. Se trataba de",
-      "en": "It was not just about \"translating JSON.\" It was about",
+      "en": "It wasn't just about “translating JSON”. It was about",
       "es": "No se trataba solo de “traducir JSON”. Se trataba de",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "interpretar el lenguaje visual del juego",
@@ -310,30 +500,60 @@
     },
     {
       "source": "y llevarlo a un entorno web sin que perdiera personalidad.",
-      "en": "and take him to a web environment without losing personality.",
+      "en": "and bring it to a web environment without losing personality.",
       "es": "y llevarlo a un entorno web sin que perdiera personalidad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Uno de los condicionantes más importantes del proyecto fue decidir que la aplicación debía vivir en GitHub Pages.",
-      "en": "One of the most important conditions of the project was to decide that the application should live in GitHub Pages.",
+      "en": "One of the most important conditions of the project was deciding that the application should live in GitHub Pages.",
       "es": "Uno de los condicionantes más importantes del proyecto fue decidir que la aplicación debía vivir en GitHub Pages.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Eso imponía una restricción muy clara: sin backend tradicional.",
-      "en": "That imposed a very clear restriction: without traditional backend.",
+      "en": "That imposed a very clear restriction: no traditional backend.",
       "es": "Eso imponía una restricción muy clara: sin backend tradicional.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sin servidor persistente.",
@@ -354,12 +574,22 @@
     },
     {
       "source": "Lejos de verlo como un límite, lo tratamos como una restricción creativa. Si queríamos una web estática, entonces teníamos que conseguir que pareciera dinámica usando únicamente:",
-      "en": "Far from seeing it as a limit, we treated it as a creative restriction. If we wanted a static web, then we had to make it look dynamic using only:",
+      "en": "Far from seeing it as a limit, we treat it as a creative restriction. If we wanted a static website, then we had to make it look dynamic using only:",
       "es": "Lejos de verlo como un límite, lo tratamos como una restricción creativa. Si queríamos una web estática, entonces teníamos que conseguir que pareciera dinámica usando únicamente:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "HTML",
@@ -404,12 +634,22 @@
     },
     {
       "source": "La IA fue especialmente útil aquí porque nos ayudó a repensar el proyecto varias veces sin tener que rehacerlo entero. A medida que descubríamos qué endpoints eran públicos, cuáles no, qué cosas se podían consultar directamente y cuáles convenía simplificar, fuimos ajustando la arquitectura con rapidez.",
-      "en": "The IA was especially useful here because it helped us to rethink the project several times without having to rethink it whole. As we discovered which endpoints were public, which were not, which things could be consulted directly and which things needed to be simplified, we were adjusting architecture quickly.",
+      "en": "AI was especially helpful here because it helped us rethink the project multiple times without having to redo the entire thing. As we discovered which endpoints were public, which were not, which things could be queried directly, and which needed to be simplified, we quickly adjusted the architecture.",
       "es": "La IA fue especialmente útil aquí porque nos ayudó a repensar el proyecto varias veces sin tener que rehacerlo entero. A medida que descubríamos qué endpoints eran públicos, cuáles no, qué cosas se podían consultar directamente y cuáles convenía simplificar, fuimos ajustando la arquitectura con rapidez.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El resultado fue una decisión importante:",
@@ -422,39 +662,79 @@
     },
     {
       "source": "apostar por una web muy viva",
-      "en": "bet on a very alive website",
+      "en": "bet on a very lively website",
       "es": "apostar por una web muy viva",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", pero sin backend propio, aprovechando solo lo que podía resolverse de forma segura y pública. Eso nos permitió mantener el despliegue simple y el proyecto muy fácil de compartir.",
-      "en": "but without its own backend, taking advantage of only what could be resolved in a safe and public way. That allowed us to maintain the simple deployment and the very easy project to share.",
+      "en": ", but without its own backend, taking advantage of only what could be resolved safely and publicly. That allowed us to keep the deployment simple and the project very easy to share.",
       "es": ", pero sin backend propio, aprovechando solo lo que podía resolverse de forma segura y pública. Eso nos permitió mantener el despliegue simple y el proyecto muy fácil de compartir.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Uno de los problemas más curiosos —y más entretenidos— fue el tratamiento del texto.",
-      "en": "One of the most curious and entertaining problems was the treatment of the text.",
+      "en": "One of the most curious—and most entertaining—problems was the treatment of the text.",
       "es": "Uno de los problemas más curiosos —y más entretenidos— fue el tratamiento del texto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En SkyBlock, una enorme parte del significado visual está en el color. Un perk no solo dice algo: cómo lo dice también importa. Un texto dorado, una línea en azul claro, un stat en rojo o una rareza en morado no son adornos; son parte de la experiencia del juego.",
-      "en": "In SkyBlock, a huge part of the visual meaning is in color. A perk not only says something: how it says it also matters. A golden text, a light blue line, a stat in red or a purple rarity are not ornaments; they are part of the experience of the game.",
+      "en": "In SkyBlock, a huge part of the visual meaning is in the color. A perk doesn't just say something: how it says it matters too. A gold text, a light blue line, a red stat, or a purple rarity are not decorations; They are part of the game experience.",
       "es": "En SkyBlock, una enorme parte del significado visual está en el color. Un perk no solo dice algo: cómo lo dice también importa. Un texto dorado, una línea en azul claro, un stat en rojo o una rareza en morado no son adornos; son parte de la experiencia del juego.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ejemplos típicos:",
@@ -466,53 +746,113 @@
     },
     {
       "source": "+0.5% ☣ Crit Chance",
-      "en": "+ 0.5%",
-      "es": "+0,5% ☣ Crit Chance",
+      "en": "+0.5% ☣ Crit Chance",
+      "es": "+0.5% ☣ Probabilidad de crítico",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "+1 ❈ Defense",
       "en": "+1 ❈ Defense",
-      "es": "+1 Defensa",
+      "es": "+1 ❈ Defensa",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "+5 SkyBlock XP",
-      "en": "+ 5 SkyBlock XP",
+      "en": "+5 SkyBlock XP",
       "es": "+5 SkyBlock XP",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "perks con colores embebidos",
-      "en": "perks with embossed colors",
+      "en": "perks with embedded colors",
       "es": "perks con colores embebidos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "nombres de ítems con formato especial",
-      "en": "special format items names",
+      "en": "specially formatted item names",
       "es": "nombres de ítems con formato especial",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para mostrar eso bien en una web tuvimos que resolver muchas pequeñas dificultades:",
-      "en": "To show that well on a web we had to solve many small difficulties:",
+      "en": "To show that well on a website we had to solve many small difficulties:",
       "es": "Para mostrar eso bien en una web tuvimos que resolver muchas pequeñas dificultades:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "interpretar códigos §",
@@ -525,18 +865,38 @@
     {
       "source": "interpretar formatos",
       "en": "interpret formats",
-      "es": "#",
+      "es": "interpretar formatos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "alternativos como %%light_purple%%",
-      "en": "alternative as% light _ purple%",
-      "es": "alternativos como %%light_purple%",
+      "en": "alternatives like %%light_purple%%",
+      "es": "alternativas como %%light_purple%%",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "diferenciar entre símbolo, número y texto",
@@ -549,57 +909,117 @@
     },
     {
       "source": "respetar el “+” sin romper el color del stat",
-      "en": "respect the \"+\" without breaking the stat color",
+      "en": "respect the “+” without breaking the color of the stat",
       "es": "respetar el “+” sin romper el color del stat",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "aplicar colores distintos según el atributo",
-      "en": "apply different colors according to the attribute",
+      "en": "apply different colors depending on the attribute",
       "es": "aplicar colores distintos según el atributo",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mantener la legibilidad visual sin perder el estilo del juego",
-      "en": "maintain visual legibility without losing the style of the game",
+      "en": "maintain visual readability without losing the style of the game",
       "es": "mantener la legibilidad visual sin perder el estilo del juego",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Aquí la IA fue especialmente útil como herramienta de iteración rápida. Nos ayudó a convertir reglas visuales informales en reglas concretas de renderizado. Y, quizás más importante, a corregir decenas de bugs pequeños que aparecen cuando se trabaja con texto muy irregular.",
-      "en": "Here the IA was especially useful as a quick iteration tool. It helped us to convert informal visual rules into concrete rendering rules. And, perhaps more importantly, to correct dozens of small bugs that appear when working with very irregular text.",
+      "en": "Here AI was especially useful as a rapid iteration tool. It helped us convert informal visual rules into concrete rendering rules. And, perhaps more importantly, to correct dozens of small bugs that appear when working with very irregular text.",
       "es": "Aquí la IA fue especialmente útil como herramienta de iteración rápida. Nos ayudó a convertir reglas visuales informales en reglas concretas de renderizado. Y, quizás más importante, a corregir decenas de bugs pequeños que aparecen cuando se trabaja con texto muy irregular.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Muchos de esos errores habrían costado bastante tiempo si hubiéramos ido caso por caso. Con IA, fue mucho más fácil detectar patrones, revisar excepciones y ajustar el resultado hasta que se sintiera bien.",
-      "en": "Many of these errors would have taken quite a while if we had gone case by case. With IA, it was much easier to detect patterns, review exceptions and adjust the result until it felt good.",
+      "en": "Many of those mistakes would have taken a lot of time if we had gone case by case. With AI, it was much easier to spot patterns, check for exceptions, and adjust the outcome until it felt right.",
       "es": "Muchos de esos errores habrían costado bastante tiempo si hubiéramos ido caso por caso. Con IA, fue mucho más fácil detectar patrones, revisar excepciones y ajustar el resultado hasta que se sintiera bien.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez que el renderizado básico funcionaba, el siguiente paso fue dejar de pensar solo en “mostrar datos” y empezar a pensar en",
-      "en": "Once the basic rendering worked, the next step was to stop thinking just about \"showing data\" and start thinking about",
+      "en": "Once the basic rendering was working, the next step was to stop thinking about just “displaying data” and start thinking about",
       "es": "Una vez que el renderizado básico funcionaba, el siguiente paso fue dejar de pensar solo en “mostrar datos” y empezar a pensar en",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "cómo se navega una wiki",
@@ -612,46 +1032,96 @@
     },
     {
       "source": "Ahí empezaron a aparecer las decisiones que más personalidad le dieron al proyecto:",
-      "en": "There began to appear the decisions that gave the project the most personality:",
+      "en": "There the decisions that gave the most personality to the project began to appear:",
       "es": "Ahí empezaron a aparecer las decisiones que más personalidad le dieron al proyecto:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No queríamos un buscador muerto. Queríamos una búsqueda ágil, con autocompletado y sugerencias que dieran sensación de inmediatez.",
-      "en": "We didn't want a dead search engine. We wanted an agile search, with self-completed and suggestions that would give a sense of immediacy.",
+      "en": "We didn't want a dead seeker. We wanted an agile search, with autocompletion and suggestions that gave a feeling of immediacy.",
       "es": "No queríamos un buscador muerto. Queríamos una búsqueda ágil, con autocompletado y sugerencias que dieran sensación de inmediatez.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se añadieron:",
-      "en": "The following were added:",
+      "en": "Added:",
       "es": "Se añadieron:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "sugerencias en tiempo real",
-      "en": "Real-time suggestions",
+      "en": "real time suggestions",
       "es": "sugerencias en tiempo real",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "búsqueda por items, collections y skills",
-      "en": "search for items, collections and skills",
+      "en": "search by items, collections and skills",
       "es": "búsqueda por items, collections y skills",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ejemplos visuales en la landing",
@@ -663,48 +1133,98 @@
     },
     {
       "source": "una animación de búsqueda para hacer la home más llamativa",
-      "en": "a search animation to make home more striking",
+      "en": "a search animation to make the home more attractive",
       "es": "una animación de búsqueda para hacer la home más llamativa",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Además, trabajamos para que esas sugerencias no fueran solo texto plano, sino que respetaran colores, rarezas y formatos especiales. Así la experiencia del buscador encajaba con la del resto de la aplicación.",
-      "en": "In addition, we worked to ensure that those suggestions were not just flat text, but that they respected special colors, rarity and formats. Thus, the search engine's experience was in line with that of the rest of the application.",
+      "en": "In addition, we worked so that these suggestions were not just plain text, but rather respected colors, rarities and special formats. This way the search engine experience fit with the rest of the application.",
       "es": "Además, trabajamos para que esas sugerencias no fueran solo texto plano, sino que respetaran colores, rarezas y formatos especiales. Así la experiencia del buscador encajaba con la del resto de la aplicación.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La sección de items fue probablemente una de las más trabajadas.",
-      "en": "The item section was probably one of the most worked out.",
+      "en": "The items section was probably one of the most worked on.",
       "es": "La sección de items fue probablemente una de las más trabajadas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No bastaba con enseñar nombre, categoría e ID. Eso se parecía demasiado a imprimir un JSON en pantalla. Queríamos algo que hablara el idioma del jugador.",
-      "en": "It was not enough to teach name, category and ID. That was too much to print a JSON on screen. We wanted something to speak the player's language.",
+      "en": "It was not enough to show name, category and ID. That was too much like printing a JSON to the screen. We wanted something that spoke the player's language.",
       "es": "No bastaba con enseñar nombre, categoría e ID. Eso se parecía demasiado a imprimir un JSON en pantalla. Queríamos algo que hablara el idioma del jugador.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por eso se fue refinando la ficha hasta incluir:",
-      "en": "That's why the tab was refined to include:",
+      "en": "That is why the file was refined to include:",
       "es": "Por eso se fue refinando la ficha hasta incluir:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "nombre con color según rareza",
@@ -717,12 +1237,22 @@
     },
     {
       "source": "soporte para nombres con formato especial",
-      "en": "special format name support",
+      "en": "support for specially formatted names",
       "es": "soporte para nombres con formato especial",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "imagen del item según su material",
@@ -752,29 +1282,59 @@
     },
     {
       "source": "manejo de imágenes que fallan sin mostrar el icono roto del navegador",
-      "en": "managing images that fail without showing the broken icon of the browser",
+      "en": "handling images failing without showing broken browser icon",
       "es": "manejo de imágenes que fallan sin mostrar el icono roto del navegador",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "stats visuales, ordenados y coloreados",
-      "en": "visual stats, sorted and coloured",
+      "en": "visual, organized and colored stats",
       "es": "stats visuales, ordenados y coloreados",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "información del Museum",
-      "en": "information of the Museum",
+      "en": "Museum information",
       "es": "información del Museum",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "items relacionados dentro del mismo set",
@@ -787,105 +1347,225 @@
     },
     {
       "source": "suma de stats totales del set",
-      "en": "sum of total set states",
+      "en": "sum of total stats of the set",
       "es": "suma de stats totales del set",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "También tuvimos que resolver casos muy concretos y muy “SkyBlock”:",
-      "en": "We also had to solve very specific and very \"SkyBlock\" cases:",
+      "en": "We also had to solve very specific and very “SkyBlock” cases:",
       "es": "También tuvimos que resolver casos muy concretos y muy “SkyBlock”:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "materiales legacy como gold_boots que en assets reales son golden_boots",
-      "en": "legacy materials like gold _ boots that in real assets are golden _ boots",
+      "en": "legacy materials like gold_boots that in real assets are golden_boots",
       "es": "materiales legacy como gold_boots que en assets reales son golden_boots",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "armaduras tintadas de cuero con campo color",
-      "en": "leather-tyed armour with color field",
+      "en": "tinted leather armor with color field",
       "es": "armaduras tintadas de cuero con campo color",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "sets con nombres poco uniformes como:",
-      "en": "sets with ununiform names such as:",
+      "en": "sets with inconsistent names such as:",
       "es": "sets con nombres poco uniformes como:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Wise Dragon Boots",
       "en": "Wise Dragon Boots",
-      "es": "Botas de dragón sabias",
+      "es": "Botas de dragón sabio",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Boots of the Pack",
       "en": "Boots of the Pack",
-      "es": "Botas del paquete",
+      "es": "Botas de la manada",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Perfect Boots – Tier XII",
       "en": "Perfect Boots – Tier XII",
-      "es": "Botas perfectas – Tier XII",
+      "es": "Botas perfectas – Nivel XII",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Aquí la IA volvió a ser muy útil no por “inventar” la solución, sino por ayudarnos a generalizar reglas. Cuando detectábamos un caso raro, podíamos iterar rápido sobre la lógica y convertir excepciones en patrones reutilizables. Llegando al resultado final",
-      "en": "Here the IA was again very useful not by \"inventing\" the solution, but by helping us to generalize rules. When we detected a rare case, we could quickly iterate on logic and convert exceptions into reusable patterns.",
+      "en": "Here AI was once again very useful, not by “inventing” the solution, but by helping us generalize rules. When we detected a rare case, we could quickly iterate over the logic and turn exceptions into reusable patterns. Getting to the final result",
       "es": "Aquí la IA volvió a ser muy útil no por “inventar” la solución, sino por ayudarnos a generalizar reglas. Cuando detectábamos un caso raro, podíamos iterar rápido sobre la lógica y convertir excepciones en patrones reutilizables. Llegando al resultado final",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La parte de collections también evolucionó bastante.",
-      "en": "The collection part also evolved quite a bit.",
+      "en": "The collections part also evolved a lot.",
       "es": "La parte de collections también evolucionó bastante.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Al principio bastaba con enseñar categoría y tiers. Pero una vez que empezamos a usar la web como una herramienta real, quedó claro que eso se quedaba corto.",
-      "en": "At first it was enough to teach category and tiers. But once we started using the web as a real tool, it became clear that that was short.",
+      "en": "At first it was enough to teach category and tiers. But once we started using the web as a real tool, it became clear that that fell short.",
       "es": "Al principio bastaba con enseñar categoría y tiers. Pero una vez que empezamos a usar la web como una herramienta real, quedó claro que eso se quedaba corto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Terminamos añadiendo:",
-      "en": "We end up adding:",
+      "en": "We finish by adding:",
       "es": "Terminamos añadiendo:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "iconos por categoría",
@@ -913,11 +1593,21 @@
     },
     {
       "source": "resaltado de SkyBlock XP",
-      "en": "highlighted by SkyBlock XP",
+      "en": "SkyBlock XP highlight",
       "es": "resaltado de SkyBlock XP",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "unlocks clicables cuando apuntan a items reales",
@@ -930,38 +1620,78 @@
     },
     {
       "source": "soporte para recipes y minion recipes",
-      "en": "support for repairs and mining repairs",
+      "en": "support for recipes and minion recipes",
       "es": "soporte para recipes y minion recipes",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Eso permitió que una colección no fuera solo una lista de requisitos, sino una pequeña ruta navegable dentro de la propia wiki. Desde una colección puedes saltar a un item, y desde el item seguir explorando otras partes del contenido.",
-      "en": "That allowed a collection not only to be a list of requirements, but a small navigable route within the wiki itself. From a collection you can jump to an item, and from the item you can continue exploring other parts of the content.",
+      "en": "That allowed a collection to be not just a list of requirements, but a small navigable path within the wiki itself. From a collection you can jump to an item, and from the item continue exploring other parts of the content.",
       "es": "Eso permitió que una colección no fuera solo una lista de requisitos, sino una pequeña ruta navegable dentro de la propia wiki. Desde una colección puedes saltar a un item, y desde el item seguir explorando otras partes del contenido.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La sección de skills también requirió una buena cantidad de trabajo. No solo por la estructura de datos, sino porque había que interpretar correctamente la información del API.",
-      "en": "The skills section also required a good deal of work, not only because of the data structure, but because the API information had to be interpreted correctly.",
+      "en": "The skills section also required a good amount of work. Not only because of the data structure, but because the API information had to be interpreted correctly.",
       "es": "La sección de skills también requirió una buena cantidad de trabajo. No solo por la estructura de datos, sino porque había que interpretar correctamente la información del API.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La API no daba la experiencia “por nivel”, sino la experiencia total acumulada. Así que hubo que recalcular y representar:",
-      "en": "The API did not give the experience \"by level,\" but the total experience accumulated. So we had to recalculate and represent:",
+      "en": "The API did not give the experience “per level”, but rather the total accumulated experience. So we had to recalculate and represent:",
       "es": "La API no daba la experiencia “por nivel”, sino la experiencia total acumulada. Así que hubo que recalcular y representar:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "nivel",
@@ -973,20 +1703,40 @@
     },
     {
       "source": "XP necesaria para ese nivel",
-      "en": "XP required for this level",
+      "en": "XP required for that level",
       "es": "XP necesaria para ese nivel",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "XP total",
       "en": "Total XP",
-      "es": "Total XP",
+      "es": "XP total",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "unlocks por nivel",
@@ -998,37 +1748,77 @@
     },
     {
       "source": "Después añadimos un modal de detalle para cada nivel, donde se muestran los unlocks con formato visual mejorado. Y ahí se volvió a repetir la misma idea que ya habíamos aprendido: no basta con mostrar texto; hay que respetar el lenguaje visual del juego.",
-      "en": "Then we added a detail modal for each level, where the unlocks are shown with improved visual format. And there the same idea that we had already learned was repeated: it is not enough to show text; the visual language of the game must be respected.",
+      "en": "Then we added a detail modal for each level, where the unlocks are displayed in an improved visual format. And there the same idea that we had already learned was repeated: it is not enough to show text; You have to respect the visual language of the game.",
       "es": "Después añadimos un modal de detalle para cada nivel, donde se muestran los unlocks con formato visual mejorado. Y ahí se volvió a repetir la misma idea que ya habíamos aprendido: no basta con mostrar texto; hay que respetar el lenguaje visual del juego.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La parte de Mayor fue especialmente interesante porque no solo había que mostrar información, sino también interpretar situaciones distintas:",
-      "en": "The part of Major was especially interesting because not only was information to be shown, but also to interpret different situations:",
+      "en": "Mayor's part was especially interesting because he not only had to show information, but also interpret different situations:",
       "es": "La parte de Mayor fue especialmente interesante porque no solo había que mostrar información, sino también interpretar situaciones distintas:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mayor actual",
-      "en": "current higher",
+      "en": "current major",
       "es": "mayor actual",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "minister",
       "en": "minister",
-      "es": "Ministro",
+      "es": "ministro",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "perks",
@@ -1056,11 +1846,21 @@
     },
     {
       "source": "porcentajes de votos",
-      "en": "Percentage of votes",
+      "en": "vote percentages",
       "es": "porcentajes de votos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "posibles special mayors",
@@ -1080,12 +1880,22 @@
     },
     {
       "source": "a la izquierda, el gabinete actual",
-      "en": "to the left, the current cabinet",
+      "en": "on the left, the current cabinet",
       "es": "a la izquierda, el gabinete actual",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "a la derecha, las votaciones actuales",
@@ -1116,11 +1926,21 @@
     },
     {
       "source": "colores de Minecraft en descripciones",
-      "en": "Minecraft colors in descriptions",
+      "en": "minecraft colors in descriptions",
       "es": "colores de Minecraft en descripciones",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "detección de minister perks",
@@ -1132,71 +1952,151 @@
     },
     {
       "source": "años visibles",
-      "en": "years visible",
+      "en": "visible years",
       "es": "años visibles",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "votos mostrados como x / y z%",
-      "en": "votes shown as x / and z%",
+      "en": "votes shown as x/y z%",
       "es": "votos mostrados como x / y z%",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "orden de candidatos de mayor a menor voto",
-      "en": "order of candidates from greater to lesser vote",
+      "en": "order of candidates from highest to lowest vote",
       "es": "orden de candidatos de mayor a menor voto",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y, como suele pasar en proyectos reales, aparecieron casos especiales. Por ejemplo, cuando la estructura de election no estaba exactamente donde esperábamos o cuando se estaba mostrando la elección anterior en vez de la actual.",
-      "en": "And, as is often the case in real projects, special cases appeared, for example, when the election structure was not exactly where we expected or when the previous choice was being shown instead of the current one.",
+      "en": "And, as often happens in real projects, special cases appeared. For example, when the choice structure was not exactly where we expected or when the previous choice was being shown instead of the current one.",
       "es": "Y, como suele pasar en proyectos reales, aparecieron casos especiales. Por ejemplo, cuando la estructura de election no estaba exactamente donde esperábamos o cuando se estaba mostrando la elección anterior en vez de la actual.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ese tipo de problemas son justamente donde la IA ahorra tiempo de verdad: no porque “adivine” la respuesta, sino porque permite probar rápidamente estrategias de parsing más robustas hasta dar con una solución consistente.",
-      "en": "That kind of problem is just where IA saves real time: not because it \"guesses\" the answer, but because it allows you to quickly test more robust parsing strategies until a consistent solution is found.",
+      "en": "These types of problems are precisely where AI really saves time: not because it “guesses” the answer, but because it allows us to quickly test more robust parsing strategies until we find a consistent solution.",
       "es": "Ese tipo de problemas son justamente donde la IA ahorra tiempo de verdad: no porque “adivine” la respuesta, sino porque permite probar rápidamente estrategias de parsing más robustas hasta dar con una solución consistente.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La subpágina de Bingo fue otra de las partes más divertidas de construir.",
-      "en": "Bingo's subpage was another of the most fun parts to build.",
+      "en": "The Bingo subpage was another of the most fun parts to build.",
       "es": "La subpágina de Bingo fue otra de las partes más divertidas de construir.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No queríamos listar objetivos en vertical. Eso no se parecía en nada a la experiencia real del juego. Así que lo convertimos en una",
-      "en": "We didn't want to list vertical targets. That was nothing like the actual experience of the game. So we made it a",
+      "en": "We didn't want to list objectives vertically. That was nothing like the actual game experience. So we turned it into a",
       "es": "No queríamos listar objetivos en vertical. Eso no se parecía en nada a la experiencia real del juego. Así que lo convertimos en una",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "carta 5×5",
-      "en": "letter 5 × 5",
+      "en": "5×5 card",
       "es": "carta 5×5",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", visual y navegable.",
@@ -1208,11 +2108,21 @@
     },
     {
       "source": "grid 5×5",
-      "en": "grid 5 × 5",
+      "en": "5×5 grid",
       "es": "grid 5×5",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "modal por objetivo",
@@ -1224,12 +2134,22 @@
     },
     {
       "source": "full lore dentro del modal",
-      "en": "full lore inside the modal",
+      "en": "full lore within the modal",
       "es": "full lore dentro del modal",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "hover interactivo",
@@ -1241,20 +2161,40 @@
     },
     {
       "source": "detección de goals comunitarias",
-      "en": "Community goal detection",
+      "en": "community goal detection",
       "es": "detección de goals comunitarias",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "coloreado progresivo según tier alcanzado",
-      "en": "progressive color as tier reached",
+      "en": "progressive coloring according to tier reached",
       "es": "coloreado progresivo según tier alcanzado",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "información de puntos contextual",
@@ -1266,89 +2206,189 @@
     },
     {
       "source": "navegación separada en su propia subpágina",
-      "en": "separate navigation on your own subpage",
+      "en": "separate navigation on its own subpage",
       "es": "navegación separada en su propia subpágina",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Con Bingo, más que en ningún otro módulo, se vio claramente la diferencia entre “mostrar datos” y “diseñar una experiencia”. Ese cambio de mentalidad fue una de las mejores decisiones del proyecto.",
-      "en": "With Bingo, more than in any other module, the difference between \"showing data\" and \"designing an experience\" was clearly seen. This change in mindset was one of the best decisions of the project.",
+      "en": "With Bingo, more than any other module, the difference between “showing data” and “designing an experience” was clearly seen. That change in mentality was one of the best decisions of the project.",
       "es": "Con Bingo, más que en ningún otro módulo, se vio claramente la diferencia entre “mostrar datos” y “diseñar una experiencia”. Ese cambio de mentalidad fue una de las mejores decisiones del proyecto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La sección de Museum nació como una necesidad natural del proyecto. Una vez que ya teníamos items bien renderizados, tenía todo el sentido construir un navegador dedicado que permitiera explorar:",
-      "en": "The Museum section was born as a natural need of the project. Once we already had well-rendered items, it made every sense to build a dedicated browser that would allow us to explore:",
+      "en": "The Museum section was born as a natural necessity of the project. Once we had well-rendered items, it made perfect sense to build a dedicated browser that allowed exploration:",
       "es": "La sección de Museum nació como una necesidad natural del proyecto. Una vez que ya teníamos items bien renderizados, tenía todo el sentido construir un navegador dedicado que permitiera explorar:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "qué items acepta el Museum",
-      "en": "what items the Museum accepts",
+      "en": "What items does the Museum accept?",
       "es": "qué items acepta el Museum",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "cuánta XP da cada uno",
-      "en": "how much XP each gives",
+      "en": "how much XP does each give",
       "es": "cuánta XP da cada uno",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "a qué categoría pertenece",
-      "en": "to which category it belongs",
+      "en": "What category does it belong to?",
       "es": "a qué categoría pertenece",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Además, se trabajó específicamente para evitar ruido innecesario:",
-      "en": "In addition, specific work was done to avoid unnecessary noise:",
+      "en": "In addition, we specifically worked to avoid unnecessary noise:",
       "es": "Además, se trabajó específicamente para evitar ruido innecesario:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "deduplicación de armor sets",
-      "en": "redoubling of armor sets",
+      "en": "armor set deduplication",
       "es": "deduplicación de armor sets",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "visualización limpia por categorías",
-      "en": "clean display by category",
+      "en": "clean display by categories",
       "es": "visualización limpia por categorías",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "iconos representativos",
-      "en": "Representative icons",
+      "en": "representative icons",
       "es": "iconos representativos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "navegación desde Museum al item correspondiente",
@@ -1361,21 +2401,41 @@
     },
     {
       "source": "Y también aquí aparecieron los matices: sets completos, icono principal del helmet en Museum, distintas formas de extraer la XP de donación, etc.",
-      "en": "And here also appeared the nuances: complete sets, main icon of the helmet in Museum, different ways to extract the XP from donation, etc.",
+      "en": "And also here the nuances appeared: complete sets, main helmet icon in Museum, different ways to extract donation XP, etc.",
       "es": "Y también aquí aparecieron los matices: sets completos, icono principal del helmet en Museum, distintas formas de extraer la XP de donación, etc.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A estas alturas, la contribución de la IA se puede resumir muy bien:",
-      "en": "At this point, the contribution of the IA can be summarized very well:",
+      "en": "At this point, the contribution of AI can be summarized very well:",
       "es": "A estas alturas, la contribución de la IA se puede resumir muy bien:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "menos fricción, más iteración, más consistencia",
@@ -1405,37 +2465,77 @@
     },
     {
       "source": "No tomó decisiones importantes sin supervisión.",
-      "en": "It did not make important decisions without supervision.",
+      "en": "He did not make important decisions without supervision.",
       "es": "No tomó decisiones importantes sin supervisión.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Pero sí hizo posible trabajar mucho más rápido en tareas como:",
-      "en": "But it did make it possible to work much faster on tasks such as:",
+      "en": "But it did make it possible to work much faster on tasks like:",
       "es": "Pero sí hizo posible trabajar mucho más rápido en tareas como:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "detectar patrones en datos inconsistentes",
-      "en": "to detect patterns in inconsistent data",
+      "en": "detect patterns in inconsistent data",
       "es": "detectar patrones en datos inconsistentes",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "proponer estructuras de render más limpias",
-      "en": "propose cleaner rendering structures",
+      "en": "propose cleaner render structures",
       "es": "proponer estructuras de render más limpias",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mantener coherencia entre páginas",
@@ -1447,63 +2547,133 @@
     },
     {
       "source": "depurar bugs visuales pequeños pero molestos",
-      "en": "debugging small but annoying visual bugs",
+      "en": "debug small but annoying visual bugs",
       "es": "depurar bugs visuales pequeños pero molestos",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ajustar casos especiales sin frenar el ritmo del proyecto",
-      "en": "adjust special cases without slowing down the project pace",
+      "en": "adjust special cases without slowing down the pace of the project",
       "es": "ajustar casos especiales sin frenar el ritmo del proyecto",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y eso tiene un valor enorme, porque en proyectos así el enemigo real no suele ser la complejidad técnica pura, sino el desgaste acumulado de cien pequeños detalles.",
-      "en": "And that has a huge value, because in projects like this the real enemy is not usually pure technical complexity, but the accumulated wear of a hundred small details.",
+      "en": "And that has enormous value, because in projects like this the real enemy is usually not pure technical complexity, but rather the accumulated wear and tear of a hundred small details.",
       "es": "Y eso tiene un valor enorme, porque en proyectos así el enemigo real no suele ser la complejidad técnica pura, sino el desgaste acumulado de cien pequeños detalles.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La IA ayudó precisamente ahí: en mantener el proyecto en movimiento.",
-      "en": "The IA helped precisely there: to keep the project moving.",
+      "en": "AI helped precisely there: in keeping the project moving.",
       "es": "La IA ayudó precisamente ahí: en mantener el proyecto en movimiento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "SkyBlockCodexAPI hoy ya no es una idea, sino una base sólida y funcional.",
-      "en": "SkyBlockCodexAPI today is no longer an idea, but a solid and functional basis.",
+      "en": "SkyBlockCodexAPI today is no longer an idea, but a solid and functional foundation.",
       "es": "SkyBlockCodexAPI hoy ya no es una idea, sino una base sólida y funcional.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Actualmente incluye:",
-      "en": "It currently includes:",
+      "en": "Currently includes:",
       "es": "Actualmente incluye:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "buscador rápido",
-      "en": "Quick search engine",
+      "en": "fast search engine",
       "es": "buscador rápido",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "sugerencias inteligentes",
@@ -1515,37 +2685,77 @@
     },
     {
       "source": "renderizado fiel al lenguaje visual de SkyBlock",
-      "en": "rendering true to the visual language of SkyBlock",
+      "en": "rendering faithful to the visual language of SkyBlock",
       "es": "renderizado fiel al lenguaje visual de SkyBlock",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "fichas de items mucho más orientadas al jugador",
-      "en": "much more player-oriented item chips",
+      "en": "much more player-oriented item sheets",
       "es": "fichas de items mucho más orientadas al jugador",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "páginas separadas para Mayor, Bingo y Museum",
-      "en": "separate pages for Major, Bingo and Museum",
+      "en": "separate pages for Mayor, Bingo and Museum",
       "es": "páginas separadas para Mayor, Bingo y Museum",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "soporte para colores, perks, rarezas y formatos especiales",
-      "en": "support for special colors, perks, rarity and formats",
+      "en": "support for colors, perks, rarities and special formats",
       "es": "soporte para colores, perks, rarezas y formatos especiales",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "navegación clara entre secciones",
@@ -1565,12 +2775,22 @@
     },
     {
       "source": "Todo ello sin backend tradicional, manteniendo una arquitectura ligera y fácil de compartir.",
-      "en": "All without traditional backend, maintaining a light and easy-to-share architecture.",
+      "en": "All this without a traditional backend, maintaining a light architecture that is easy to share.",
       "es": "Todo ello sin backend tradicional, manteniendo una arquitectura ligera y fácil de compartir.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Podéis acceder al código fuente en:",
@@ -1600,10 +2820,20 @@
     {
       "source": "minecraft",
       "en": "minecraft",
-      "es": "Minería",
+      "es": "minecraft",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Skyblock",
@@ -1615,12 +2845,22 @@
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 15 abr 2026.",
-      "en": "A story of the Saturdays.AI. community originally published on 15 abr 2026.",
+      "en": "A history of the Saturdays.AI community. Originally published on Apr 15, 2026.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 15 abr 2026.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

@@ -74,10 +74,20 @@
     {
       "source": "Prompt: a high tech robot, in a military uniform",
       "en": "Prompt: a high tech robot, in a military uniform",
-      "es": "Prompt: un robot de alta tecnología, en un uniforme militar",
+      "es": "Aviso: un robot de alta tecnología, con uniforme militar.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En la vanguardia de la tecnología y la defensa, los Estados Unidos está experimentando con inteligencia artificial",
@@ -184,10 +194,20 @@
     {
       "source": "a high tech robot, in a military uniform",
       "en": "a high tech robot, in a military uniform",
-      "es": "un robot de alta tecnología, en un uniforme militar",
+      "es": "Un robot de alta tecnología, con uniforme militar.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La inteligencia artificial (IA) tiene un enorme potencial para transformar la guerra moderna. Desde",

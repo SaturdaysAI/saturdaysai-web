@@ -12,7 +12,7 @@
     {
       "source": "SPAIN / AI SATURDAYS",
       "en": "SPAIN / AI SATURDAYS",
-      "es": "ESPAÑA / AI SÁBADOS",
+      "es": "ESPAÑA / AI Saturdays",
       "reviewed": false,
       "translationVersion": 2
     },
@@ -62,10 +62,15 @@
     {
       "source": "Contact the team for the next edition. Dates, location and programme details are confirmed by the local team.",
       "en": "Contact the team for the next edition. Dates, location and programme details are confirmed by the local team.",
-      "es": "Contacta con el equipo para la próxima edición. Las fechas, la ubicación y los detalles del programa son confirmados por el equipo local.",
-      "reviewed": false,
+      "es": "Próxima edición: consulta con el equipo. Te confirmará las fechas, la ubicación y los requisitos.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Learn by doing",
@@ -77,63 +82,103 @@
     {
       "source": "Bring your curiosity and develop your skills through practical work, shared questions and community learning.",
       "en": "Bring your curiosity and develop your skills through practical work, shared questions and community learning.",
-      "es": "Traiga su curiosidad y desarrolle sus habilidades a través del trabajo práctico, preguntas compartidas y aprendizaje comunitario.",
-      "reviewed": false,
+      "es": "Desarrolla tus habilidades con ejercicios prácticos, preguntas compartidas y el apoyo de la comunidad.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Build for social good",
       "en": "Build for social good",
-      "es": "Construir para el bien social",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Crea proyectos con impacto",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Explore how AI can address real challenges. Turn what you learn into a project with a purpose.",
       "en": "Explore how AI can address real challenges. Turn what you learn into a project with a purpose.",
-      "es": "Explore cómo la IA puede abordar desafíos reales. Convierte lo que aprendes en un proyecto con un propósito.",
-      "reviewed": false,
+      "es": "Descubre cómo aplicar la IA a retos reales y convierte lo que aprendes en un proyecto con propósito.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Grow together",
       "en": "Grow together",
-      "es": "crecer juntos",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Crece en comunidad",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Connect with learners and mentors from different backgrounds. Share ideas and support each other along the way.",
       "en": "Connect with learners and mentors from different backgrounds. Share ideas and support each other along the way.",
-      "es": "Conéctese con estudiantes y mentores de diferentes orígenes. Compartan ideas y apóyense mutuamente en el camino.",
-      "reviewed": false,
+      "es": "Conoce a estudiantes y mentores con experiencias distintas. Comparte ideas y aprende en compañía.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "KEEP YOUR CURIOSITY MOVING",
       "en": "KEEP YOUR CURIOSITY MOVING",
-      "es": "MANTENGA SU CURIOSIDAD EN MOVIMIENTO",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "SIGUE APRENDIENDO",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Your learning starts wherever you are.",
       "en": "Your learning starts wherever you are.",
-      "es": "Tu aprendizaje comienza dondequiera que estés.",
-      "reviewed": false,
+      "es": "Aprende desde donde estés.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Explore our online learning paths while you connect with your local community.",
       "en": "Explore our online learning paths while you connect with your local community.",
-      "es": "Explore nuestras rutas de aprendizaje en línea mientras se conecta con su comunidad local.",
-      "reviewed": false,
+      "es": "Explora los cursos online mientras conoces a tu comunidad local.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Local community archive and resources",
@@ -151,12 +196,22 @@
     },
     {
       "source": "En Alicante somos líderes en Inteligencia Artificial, ¿sabes cómo? Apúntate",
-      "en": "In Alicante we are leaders in Artificial Intelligence, you know how?",
+      "en": "In Alicante we are leaders in Artificial Intelligence, do you know how? Sign up",
       "es": "En Alicante somos líderes en Inteligencia Artificial, ¿sabes cómo? Apúntate",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Cuándo",
@@ -167,11 +222,21 @@
     },
     {
       "source": ": Sábados, empezamos 9/3/2024",
-      "en": ": Saturdays, we start 9 / 3 / 2024",
+      "en": ": Saturdays, we start 3/9/2024",
       "es": ": Sábados, empezamos 9/3/2024",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Dónde",
@@ -224,10 +289,15 @@
     },
     {
       "source": "¿Cómo es la experiencia?",
-      "en": "¿Cómo es la experiencia?",
+      "en": "What is the experience like?",
       "es": "¿Cómo es la experiencia?",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "AI Saturdays Alicante 4ª Edición",

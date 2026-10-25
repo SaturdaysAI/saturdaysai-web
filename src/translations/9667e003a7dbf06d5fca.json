@@ -11,16 +11,38 @@
     {
       "source": "The original interactive chat service is external to this site. Explore our learning resources or contact the team for access.",
       "en": "The original interactive chat service is external to this site. Explore our learning resources or contact the team for access.",
-      "es": "El servicio de chat interactivo original es externo a este sitio. Explore nuestros recursos de aprendizaje o póngase en contacto con el equipo para acceder.",
+      "es": "El servicio de chat interactivo original es externo a este sitio. Explore nuestros recursos de aprendizaje o comuníquese con el equipo para obtener acceso.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Explore learning resources →",
       "en": "Explore learning resources →",
       "es": "Explore learning resources →",
       "reviewed": false
+    },
+    {
+      "source": "Información sobre StarChat, el recurso de conversación para aprender inteligencia artificial. Consulta con el equipo cómo acceder.",
+      "en": "Information about StarChat, a conversational resource for learning artificial intelligence. Ask the team how to access it.",
+      "es": "Información sobre StarChat, el recurso de conversación para aprender inteligencia artificial. Consulta con el equipo cómo acceder.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

@@ -26,11 +26,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Guadalajara.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Guadalajara.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Guadalajara.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Guadalajara.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Guadalajara",
@@ -1673,11 +1683,21 @@
     {
       "source": "Basic ML models (Supervised & Unsupervised Learning)",
       "en": "Basic ML models (Supervised & Unsupervised Learning)",
-      "es": "Modelos básicos de ML (Aprendizaje No Supervisado)",
+      "es": "Modelos básicos de ML (aprendizaje supervisado y no supervisado)",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Model Validation",

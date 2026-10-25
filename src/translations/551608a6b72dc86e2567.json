@@ -121,11 +121,21 @@
     {
       "source": "The Lancet Global Health [ 2]",
       "en": "The Lancet Global Health [ 2]",
-      "es": "La salud mundial de Lancet [ 2]",
+      "es": "The Lancet Global Health [2]",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "afirma que:",
@@ -228,7 +238,7 @@
     },
     {
       "source": "reproduce un mensaje de voz con el resultado del monto reconocido. El uso de Ciclope.IA brinda al usuario seguridad y autonomía al momento de realizar transacciones en efectivo y disminuye el riesgo de ser víctima de engaño. La interacción con la aplicación se puede realizar en idioma español bajo el sistema operativo Android.",
-      "en": "plays a voice message with the result of the recognized amount. The use of Ciclope.IA provides the user with security and autonomy when making cash transactions and reduces the risk of being a victim of deception. Interaction with the application can be done in Spanish under the Android operating system.",
+      "en": "plays a voice message with the result of the recognized amount. The use of Ciclope.AI provides the user with security and autonomy when making cash transactions and reduces the risk of being a victim of deception. Interaction with the application can be done in Spanish under the Android operating system.",
       "es": "reproduce un mensaje de voz con el resultado del monto reconocido. El uso de Ciclope.IA brinda al usuario seguridad y autonomía al momento de realizar transacciones en efectivo y disminuye el riesgo de ser víctima de engaño. La interacción con la aplicación se puede realizar en idioma español bajo el sistema operativo Android.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -394,29 +404,59 @@
     {
       "source": "Retrieved January 12, 2022, from",
       "en": "Retrieved January 12, 2022, from",
-      "es": "Consultado el 12 de enero de 2022,",
+      "es": "Recuperado el 12 de enero de 2022 de",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "[2] The Lancet Global Health. (2021).",
       "en": "[2] The Lancet Global Health. (2021).",
-      "es": "[2] La Salud Global Lancet. (2021).",
+      "es": "[2] Salud Global de The Lancet. (2021).",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "The Lancet Global Health Commission On Global Eye Health: Vision Beyond 2020. Retrieved January 12, 2022, from",
       "en": "The Lancet Global Health Commission On Global Eye Health: Vision Beyond 2020. Retrieved January 12, 2022, from",
-      "es": "La Comisión Mundial de Salud de Lancet sobre Salud Ocular Global: Visión Más allá de 2020. Consultado el 12 de enero de 2022, desde",
+      "es": "The Lancet Global Health Commission On Global Eye Health: Vision Beyond 2020. Obtenido el 12 de enero de 2022 de",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "[3] BBVA (2019).",
@@ -436,11 +476,21 @@
     {
       "source": "Retrieved February 4, 2022 from",
       "en": "Retrieved February 4, 2022 from",
-      "es": "Consultado el 4 de febrero de 2022 desde",
+      "es": "Recuperado el 4 de febrero de 2022 de",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Juan Antonio Pascual Estapé",
@@ -469,11 +519,21 @@
     {
       "source": "[6] Towards Data Science (2020). YOLOv5 compared to Faster RCNN. Who wins?. Retrieved February 4, 2022.",
       "en": "[6] Towards Data Science (2020). YOLOv5 compared to Faster RCNN. Who wins?. Retrieved February 4, 2022.",
-      "es": "[6] Hacia la ciencia de datos (2020). YOLOv5 en comparación con el más rápido RCNN. ¿Quién gana?. Consultado el 4 de febrero de 2022.",
+      "es": "[6] Hacia la ciencia de datos (2020). YOLOv5 en comparación con RCNN más rápido. ¿Quién gana?. Consultado el 4 de febrero de 2022.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Alexander Cortes",

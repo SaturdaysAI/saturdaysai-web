@@ -4,131 +4,216 @@
   "segments": [
     {
       "source": "Cómo el proyecto Energía en Acción encontró su espacio digital: una plataforma para conectar estudiantes, mentores y organizaciones alrededor de proyectos compartidos.",
-      "en": "How the Energy in Action project found its digital space: a platform to connect students, mentors and organizations around shared projects.",
+      "en": "How the Energía en Acción project found its digital space: a platform to connect students, mentors and organizations around shared projects.",
       "es": "Cómo el proyecto Energía en Acción encontró su espacio digital: una plataforma para conectar estudiantes, mentores y organizaciones alrededor de proyectos compartidos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "18 mar 2026",
-      "en": "18 Mar 2026",
+      "en": "Mar 18, 2026",
       "es": "18 mar 2026",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "EL PUNTO DE PARTIDA",
-      "en": "THE POINT OF PARTICIPATION",
+      "en": "THE STARTING POINT",
       "es": "EL PUNTO DE PARTIDA",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿ QUÉ HACE LA APP ?",
-      "en": "What's the APP doing?",
-      "es": "¿ QUÉ HACE LA APP ?",
-      "reviewed": false,
+      "en": "WHAT DOES THE APP DO?",
+      "es": "¿QUÉ HACE LA APP?",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "LAS HERRAMIENTAS QUE UTILICÉ",
-      "en": "THE HERRAMIENTS YOU USED",
+      "en": "THE TOOLS I USED",
       "es": "LAS HERRAMIENTAS QUE UTILICÉ",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CÓMO PLANTEÉ LA ARQUITECTURA",
-      "en": "HOW THE ARCHITECTURE",
+      "en": "HOW I DESIGNED THE ARCHITECTURE",
       "es": "CÓMO PLANTEÉ LA ARQUITECTURA",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AUTENTICACIÓN, SESIÓN Y ROLES",
-      "en": "AUTENTIFICATION, MEETING AND ROLES",
+      "en": "AUTHENTICATION, SESSIONS AND ROLES",
       "es": "AUTENTICACIÓN, SESIÓN Y ROLES",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "LO IMPORTANTE: LOS FLUJOS REALES",
-      "en": "THE IMPORTANT: THE REAL FLUITS",
+      "en": "WHAT MATTERS: REAL USER FLOWS",
       "es": "LO IMPORTANTE: LOS FLUJOS REALES",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "MENSAJERÍA Y COMUNICACIÓN EN LA APP",
-      "en": "MESSAGE AND COMMUNICATION IN THE APP",
+      "en": "MESSAGING AND COMMUNICATION IN THE APP",
       "es": "MENSAJERÍA Y COMUNICACIÓN EN LA APP",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "EL ONBOARDING ES PARTE DEL PRODUCTO",
-      "en": "THE ONBOARDING IS PART OF THE PRODUCT",
-      "es": "EL ONBOARDING ES PARTE DEL PRODUCTO",
-      "reviewed": false,
+      "en": "ONBOARDING IS PART OF THE PRODUCT",
+      "es": "LA INCORPORACIÓN ES PARTE DEL PRODUCTO",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "LOS PROBLEMAS REALES QUE APARECIERON",
-      "en": "THE REAL PROBLEMS WHICH THEY APARECIERATE",
+      "en": "THE REAL PROBLEMS I ENCOUNTERED",
       "es": "LOS PROBLEMAS REALES QUE APARECIERON",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CÓMO ME AYUDÓ CODEX DURANTE EL DESARROLLO",
-      "en": "HOW CODEX HELP ME DURING DEVELOPMENT",
+      "en": "HOW CODEX HELPED ME DURING DEVELOPMENT",
       "es": "CÓMO ME AYUDÓ CODEX DURANTE EL DESARROLLO",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "QUÉ VALIDÉ ANTES DE DARLO POR BUENO",
-      "en": "WHAT I VALID BEFORE I DARL FOR GOOD",
+      "en": "WHAT I CHECKED BEFORE CALLING IT READY",
       "es": "QUÉ VALIDÉ ANTES DE DARLO POR BUENO",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "LO MEJOR DEL PROYECTO",
-      "en": "THE IMPROVING OF THE PROJECT",
+      "en": "THE BEST PART OF THE PROJECT",
       "es": "LO MEJOR DEL PROYECTO",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Demo de la App de Energianaccion",
-      "en": "Energianaction App Demo",
-      "es": "Demo de la App de Energianaccion",
-      "reviewed": false,
+      "en": "Energía en Acción app demo",
+      "es": "Demostración de la app de Energía en Acción",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En este caso, la idea no nació de cero.",
@@ -140,20 +225,35 @@
     },
     {
       "source": "Energía en Acción",
-      "en": "Energy in Action",
+      "en": "Energía en Acción",
       "es": "Energía en Acción",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "ya existía como proyecto y lo que faltaba era una",
-      "en": "it already existed as a project and what was missing was a",
+      "en": "It already existed as a project and what was missing was a",
       "es": "ya existía como proyecto y lo que faltaba era una",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "capa digital",
@@ -165,30 +265,60 @@
     },
     {
       "source": "que ayudara a ordenar mejor su funcionamiento.",
-      "en": "to help better order its operation.",
+      "en": "that would help better organize its operation.",
       "es": "que ayudara a ordenar mejor su funcionamiento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ahí es donde entró la web app: no como una simple página de apoyo, sino como una",
-      "en": "That's where the app entered: not as a simple support page, but as a",
+      "en": "That's where the web app came in: not as a simple support page, but as a",
       "es": "Ahí es donde entró la web app: no como una simple página de apoyo, sino como una",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "herramienta útil para el día a día",
-      "en": "useful tool for day to day",
+      "en": "useful tool for everyday life",
       "es": "herramienta útil para el día a día",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", pensada para dar más claridad a estudiantes, mentores y organizaciones.",
@@ -200,29 +330,54 @@
     },
     {
       "source": "Desde el principio lo tenía claro: no quería una web que solo explicara el proyecto hacia fuera, sino una herramienta que también sirviera hacia dentro.",
-      "en": "From the beginning I had it clear: I did not want a web that would only explain the project out, but a tool that would also serve in.",
+      "en": "From the beginning I was clear: I did not want a website that only explained the project externally, but a tool that also served internally.",
       "es": "Desde el principio lo tenía claro: no quería una web que solo explicara el proyecto hacia fuera, sino una herramienta que también sirviera hacia dentro.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Si una estudiante descubre un proyecto y empieza a participar, esa experiencia debía continuar dentro del mismo sistema. En otras palabras, el proyecto ya existía; lo que faltaba era una web app capaz de darle estructura operativa.",
-      "en": "If a student discovers a project and begins to participate, that experience should continue within the same system. In other words, the project already existed; what was missing was a web app capable of giving it operational structure.",
+      "en": "If a student discovers a project and begins to participate, that experience should continue within the same system. In other words, the project already existed; What was missing was a web app capable of giving it an operational structure.",
       "es": "Si una estudiante descubre un proyecto y empieza a participar, esa experiencia debía continuar dentro del mismo sistema. En otras palabras, el proyecto ya existía; lo que faltaba era una web app capaz de darle estructura operativa.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "home",
       "en": "home",
-      "es": "casa",
-      "reviewed": false,
+      "es": "página de inicio",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La web app está pensada para conectar",
@@ -250,47 +405,92 @@
     },
     {
       "source": ". Desde el principio tenía claro que no todos debían recorrer la plataforma de la misma manera, porque cada uno llega con una necesidad distinta.",
-      "en": "From the beginning it was clear that not all should go through the platform in the same way, because each one comes with a different need.",
+      "en": ". From the beginning it was clear that not everyone should navigate the platform in the same way, because each one arrives with a different need.",
       "es": ". Desde el principio tenía claro que no todos debían recorrer la plataforma de la misma manera, porque cada uno llega con una necesidad distinta.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de las estudiantes, el recorrido va del registro al perfil y de ahí a la exploración de proyectos. Cuando una estudiante aplica, la app deja de ser solo un catálogo y empieza a funcionar como un espacio de seguimiento.",
-      "en": "In the case of students, the tour goes from registration to profile and from there to project exploration. When a student applies, the app ceases to be just a catalogue and starts to function as a follow-up space.",
+      "en": "In the case of students, the journey goes from registration to profile and from there to the exploration of projects. When a student applies, the app stops being just a catalog and begins to function as a tracking space.",
       "es": "En el caso de las estudiantes, el recorrido va del registro al perfil y de ahí a la exploración de proyectos. Cuando una estudiante aplica, la app deja de ser solo un catálogo y empieza a funcionar como un espacio de seguimiento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de los mentores, la lógica es otra. No entran tanto para descubrir como para acompañar, ver en qué proyectos participan, detectar interés y compartir actualizaciones sin depender de canales externos.",
-      "en": "In the case of mentors, logic is another. They do not go in so much to discover as to accompany, see which projects participate in, detect interest and share updates without relying on external channels.",
+      "en": "In the case of mentors, the logic is different. They do not enter so much to discover as to accompany, see what projects they participate in, detect interest and share updates without depending on external channels.",
       "es": "En el caso de los mentores, la lógica es otra. No entran tanto para descubrir como para acompañar, ver en qué proyectos participan, detectar interés y compartir actualizaciones sin depender de canales externos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La plataforma también contempla el papel de las organizaciones, aunque en esta primera versión la experiencia principal esté más centrada en estudiantes y mentores.",
-      "en": "The platform also includes the role of organizations, although in this first version the main experience is more focused on students and mentors.",
+      "en": "The platform also considers the role of organizations, although in this first version the main experience is more focused on students and mentors.",
       "es": "La plataforma también contempla el papel de las organizaciones, aunque en esta primera versión la experiencia principal esté más centrada en estudiantes y mentores.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "catalogo",
       "en": "catalogue",
-      "es": "catalogo",
-      "reviewed": false,
+      "es": "catálogo",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para construir la web app trabajé con",
@@ -343,11 +543,21 @@
     },
     {
       "source": ". Además, utilicé",
-      "en": ". Besides, I used",
+      "en": ". Additionally, I used",
       "es": ". Además, utilicé",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Zod",
@@ -359,11 +569,21 @@
     },
     {
       "source": "para validaciones,",
-      "en": "for validation,",
+      "en": "for validations,",
       "es": "para validaciones,",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "JWT",
@@ -375,19 +595,29 @@
     },
     {
       "source": "para la sesión y",
-      "en": "for the meeting and",
-      "es": "para la sesión y",
-      "reviewed": false,
+      "en": "for session management and",
+      "es": "para gestionar la sesión y",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Tailwind CSS",
-      "en": "Tallwind CSS",
+      "en": "Tailwind CSS",
       "es": "Tailwind CSS",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "para la interfaz.",
@@ -399,20 +629,40 @@
     },
     {
       "source": "Más que acumular herramientas, lo que buscaba era una base técnica estable para poder trabajar con",
-      "en": "More than accumulating tools, what I was looking for was a stable technical basis for working with",
+      "en": "More than accumulating tools, what I was looking for was a stable technical base to be able to work with",
       "es": "Más que acumular herramientas, lo que buscaba era una base técnica estable para poder trabajar con",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "roles",
       "en": "roles",
-      "es": "Funciones",
+      "es": "roles",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "datos",
@@ -424,11 +674,21 @@
     },
     {
       "source": "mensajería",
-      "en": "courier",
+      "en": "messaging",
       "es": "mensajería",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "y distintos recorridos dentro de la misma aplicación.",
@@ -458,12 +718,22 @@
     },
     {
       "source": ". Quería evitar una app donde todo acabara mezclado y cada nueva funcionalidad complicara más la anterior.",
-      "en": ". I wanted to avoid an app where everything would end up mixed and each new functionality would complicate the previous one.",
+      "en": ". I wanted to avoid an app where everything ended up mixed together and each new functionality made the previous one more complicated.",
       "es": ". Quería evitar una app donde todo acabara mezclado y cada nueva funcionalidad complicara más la anterior.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por eso mantuve una separación clara entre la",
@@ -484,19 +754,39 @@
     },
     {
       "source": ", la",
-      "en": ",",
+      "en": ", the",
       "es": ", la",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "lógica de la aplicación",
-      "en": "logic of application",
+      "en": "application logic",
       "es": "lógica de la aplicación",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "API",
@@ -516,20 +806,40 @@
     },
     {
       "source": ". Eso me permitió avanzar con más control y construir un MVP pequeño, pero bien estructurado.",
-      "en": "That allowed me to move forward with more control and build a small, but well structured MVP.",
+      "en": ". That allowed me to move forward with more control and build a small, but well-structured MVP.",
       "es": ". Eso me permitió avanzar con más control y construir un MVP pequeño, pero bien estructurado.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En una aplicación como esta, iniciar sesión no era lo más importante. El verdadero reto estaba en decidir bien qué puede hacer cada persona y en qué contexto.",
-      "en": "In an application like this, login was not the most important thing. The real challenge was to decide what each person can do and in what context.",
+      "en": "In an app like this, logging in wasn't the most important thing. The real challenge was deciding well what each person can do and in what context.",
       "es": "En una aplicación como esta, iniciar sesión no era lo más importante. El verdadero reto estaba en decidir bien qué puede hacer cada persona y en qué contexto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La sesión se resuelve con",
@@ -542,114 +852,244 @@
     },
     {
       "source": "guardado en una cookie httpOnly, lo que permite validar accesos y proteger rutas según el rol.",
-      "en": "stored in a httpOnly cookie, which allows you to validate access and protect routes according to the role.",
+      "en": "saved in an httpOnly cookie, which allows validating access and protecting routes depending on the role.",
       "es": "guardado en una cookie httpOnly, lo que permite validar accesos y proteger rutas según el rol.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles este tipo de control es lo que hace que la experiencia se sienta coherente de verdad.",
-      "en": "It may seem a small detail, but on a platform with several profiles this type of control is what makes the experience feel really coherent.",
+      "en": "It may seem like a small detail, but on a platform with multiple profiles this type of control is what makes the experience feel truly coherent.",
       "es": "Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles este tipo de control es lo que hace que la experiencia se sienta coherente de verdad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.",
-      "en": "One of the most important parts was to protect the routes well according to the profile. This fragment summarizes how the app checks the session and redirects each user to its correct space.",
+      "en": "One of the most important parts was to protect the routes well according to the profile. This snippet summarizes how the app checks the session and redirects each user to their correct space.",
       "es": "Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.",
-      "en": "It may seem a small logic, but this type of control is just what prevents inconsistent routes when there are several roles in the same product.",
+      "en": "It may seem like a small logic, but this type of control is exactly what avoids incoherent paths when several roles coexist within the same product.",
       "es": "Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Más allá de la parte técnica, lo que me interesaba era que la app contara una historia de uso clara.",
-      "en": "Beyond the technical part, what I was interested in was that the app told a story of clear use.",
+      "en": "Beyond the technical part, what interested me was that the app told a clear story of use.",
       "es": "Más allá de la parte técnica, lo que me interesaba era que la app contara una historia de uso clara.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de las estudiantes, el recorrido va del acceso al perfil, del perfil al catálogo y de ahí al dashboard. La idea era evitar esa sensación de “he aplicado y ya no sé qué pasa”. Por eso el panel no funciona solo como resumen, sino como un espacio donde se recupera contexto.",
-      "en": "In the case of the students, the tour goes from access to the profile, from profile to catalogue and from there to the dashboard. The idea was to avoid that feeling of \"I have applied and no longer know what happens.\" Therefore the panel does not work only as a summary, but as a space where context is recovered.",
+      "en": "In the case of students, the journey goes from access to the profile, from the profile to the catalog and from there to the dashboard. The idea was to avoid that feeling of “I applied and I don't know what's happening.” That is why the panel does not function only as a summary, but as a space where context is recovered.",
       "es": "En el caso de las estudiantes, el recorrido va del acceso al perfil, del perfil al catálogo y de ahí al dashboard. La idea era evitar esa sensación de “he aplicado y ya no sé qué pasa”. Por eso el panel no funciona solo como resumen, sino como un espacio donde se recupera contexto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "inicio",
-      "en": "start",
+      "en": "home",
       "es": "inicio",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En el caso de los mentores, el flujo está más orientado al",
-      "en": "In the case of mentors, the flow is more oriented to",
+      "en": "In the case of mentors, the flow is more oriented",
       "es": "En el caso de los mentores, el flujo está más orientado al",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "acompañamiento",
-      "en": "accompanying",
+      "en": "accompaniment",
       "es": "acompañamiento",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ". Entran para ver proyectos, detectar interés, abrir conversaciones y mantener el seguimiento desde un mismo lugar.",
-      "en": ". They enter to see projects, detect interest, open conversations and keep track of the same place.",
+      "en": ". They come in to see projects, detect interest, open conversations and keep track from one place.",
       "es": ". Entran para ver proyectos, detectar interés, abrir conversaciones y mantener el seguimiento desde un mismo lugar.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Su dashboard está pensado más como una",
-      "en": "Your dashboard is thought more like a",
+      "en": "Your dashboard is designed more as a",
       "es": "Su dashboard está pensado más como una",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "superficie de trabajo",
-      "en": "work area",
+      "en": "work surface",
       "es": "superficie de trabajo",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "que como una página informativa.",
-      "en": "that as an information page.",
+      "en": "than as an informational page.",
       "es": "que como una página informativa.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mentor",
@@ -661,28 +1101,58 @@
     },
     {
       "source": "Luego está la propia",
-      "en": "Then there's your own.",
+      "en": "Then there is one's own",
       "es": "Luego está la propia",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "ficha de proyecto",
-      "en": "Project document",
+      "en": "project sheet",
       "es": "ficha de proyecto",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", que actúa como unidad central dentro de la plataforma. Ahí se concentra el contexto del trabajo: descripción, estado, skills y acciones disponibles según el rol.",
-      "en": "It acts as a central unit within the platform. There the context of the work is concentrated: description, state, skills and actions available according to the role.",
+      "en": ", which acts as a central unit within the platform. The context of the job is concentrated there: description, status, skills and actions available according to the role.",
       "es": ", que actúa como unidad central dentro de la plataforma. Ahí se concentra el contexto del trabajo: descripción, estado, skills y acciones disponibles según el rol.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "project",
@@ -694,21 +1164,41 @@
     },
     {
       "source": "Otra parte importante era evitar que la colaboración se rompiera justo después de empezar. Si todo acababa dependiendo de mensajes fuera de la plataforma, la app perdía parte de su valor.",
-      "en": "Another important part was to prevent the collaboration from breaking right after it started. If it all ended up depending on messages outside the platform, the app lost part of its value.",
+      "en": "Another important part was to avoid the collaboration breaking down right after it started. If everything ended up depending on messages outside the platform, the app lost part of its value.",
       "es": "Otra parte importante era evitar que la colaboración se rompiera justo después de empezar. Si todo acababa dependiendo de mensajes fuera de la plataforma, la app perdía parte de su valor.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por eso integré un sistema de",
-      "en": "So I integrated a system of",
+      "en": "That's why I integrated a system of",
       "es": "Por eso integré un sistema de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mensajería interna",
@@ -720,37 +1210,77 @@
     },
     {
       "source": ", pero conectado al contexto real del proyecto y no a una lógica genérica de contacto entre usuarios.",
-      "en": "but connected to the actual context of the project and not to a generic logic of contact between users.",
+      "en": ", but connected to the real context of the project and not to a generic logic of contact between users.",
       "es": ", pero conectado al contexto real del proyecto y no a una lógica genérica de contacto entre usuarios.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Además, la parte de",
-      "en": "In addition, the",
+      "en": "Furthermore, the part of",
       "es": "Además, la parte de",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "comunicados",
-      "en": "Communications",
+      "en": "communications",
       "es": "comunicados",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "la resolví reutilizando esa misma base de mensajería, con una distinción interna para tratar ciertas actualizaciones como mensajes de proyecto. Era una solución simple, pero muy útil para esta fase.",
-      "en": "I resolved it by reusing that same messaging base, with an internal distinction to treat certain updates as project messages. It was a simple, but very useful solution for this phase.",
+      "en": "I solved it by reusing that same messaging base, with an internal distinction to treat certain updates as project messages. It was a simple solution, but very useful for this phase.",
       "es": "la resolví reutilizando esa misma base de mensajería, con una distinción interna para tratar ciertas actualizaciones como mensajes de proyecto. Era una solución simple, pero muy útil para esta fase.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "chat",
@@ -762,29 +1292,59 @@
     },
     {
       "source": "En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.",
-      "en": "In the messaging part I chose a rather pragmatic solution: to reuse the message infrastructure to send communications linked to a specific project.",
+      "en": "In the messaging part, I opted for a quite pragmatic solution: reuse the messaging infrastructure to send communications linked to a specific project.",
       "es": "En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.",
-      "en": "That allowed me to solve a real need for MVP without lifting a parallel system just for internal updates.",
+      "en": "That allowed me to solve a real MVP need without setting up a parallel system just for internal updates.",
       "es": "Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En un proyecto con varios roles, no quería que la gente tuviera que deducir por intuición cómo usar la plataforma.",
-      "en": "In a multi-role project, I didn't want people to have to figure out by intuition how to use the platform.",
+      "en": "In a project with multiple roles, I didn't want people to have to intuitively figure out how to use the platform.",
       "es": "En un proyecto con varios roles, no quería que la gente tuviera que deducir por intuición cómo usar la plataforma.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por eso añadí recorridos de",
@@ -798,72 +1358,152 @@
     {
       "source": "onboarding",
       "en": "onboarding",
-      "es": "incorporación guiada",
+      "es": "incorporación",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "en pantallas clave como los dashboards y el catálogo de proyectos. No lo veía como un extra estético, sino como una parte importante de la experiencia.",
-      "en": "on key screens such as dashboards and the project catalogue. I did not see it as an extra aesthetic, but as an important part of the experience.",
+      "en": "on key screens such as dashboards and the project catalog. I didn't see it as an aesthetic extra, but as an important part of the experience.",
       "es": "en pantallas clave como los dashboards y el catálogo de proyectos. No lo veía como un extra estético, sino como una parte importante de la experiencia.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como suele pasar, la parte más interesante no estuvo solo en construir pantallas, sino en conseguir que la aplicación respondiera bien cuando empezó a comportarse como un sistema real.",
-      "en": "As usual, the most interesting part was not only in building screens, but in getting the application to respond well when it began to behave like a real system.",
+      "en": "As is often the case, the most interesting part was not just building screens, but getting the application to respond well when it started to behave like a real system.",
       "es": "Como suele pasar, la parte más interesante no estuvo solo en construir pantallas, sino en conseguir que la aplicación respondiera bien cuando empezó a comportarse como un sistema real.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Uno de los focos fue la",
-      "en": "One of the focal points was the",
+      "en": "One of the focuses was",
       "es": "Uno de los focos fue la",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "robustez general",
-      "en": "General strength",
+      "en": "overall robustness",
       "es": "robustez general",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ": autenticación, sesiones, protección por rol y respuesta de endpoints sensibles. No me interesaba solo que la app se viera bien, sino que también fuera fiable al ejecutarla.",
-      "en": ": authentication, sessions, role protection and response of sensitive endpoints. I was not only interested that the app looked good, but that it was also reliable when executing it.",
+      "en": ": Authentication, sessions, role protection and response of sensitive endpoints. I wasn't just interested in the app looking good, but also in being reliable when running.",
       "es": ": autenticación, sesiones, protección por rol y respuesta de endpoints sensibles. No me interesaba solo que la app se viera bien, sino que también fuera fiable al ejecutarla.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "También aparecieron ajustes más concretos, como el comportamiento del sistema cuando la base de datos no estaba disponible. Ahí me interesaba que la app degradara bien y que el diagnóstico fuera claro.",
-      "en": "More concrete adjustments also appeared, such as the system's behavior when the database was not available. I was interested in the well-degraded app and the diagnosis being clear.",
+      "en": "More specific settings also appeared, such as the behavior of the system when the database was not available. There I was interested in the app degrading well and that the diagnosis was clear.",
       "es": "También aparecieron ajustes más concretos, como el comportamiento del sistema cuando la base de datos no estaba disponible. Ahí me interesaba que la app degradara bien y que el diagnóstico fuera claro.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.",
-      "en": "Another important adjustment appeared when thinking of the system actually working, not only in local with everything perfect. The healthcheck went on to respond clearly when the database is not available.",
+      "en": "Another important adjustment appeared when thinking about the system really working, not just locally with everything perfect. The healthcheck now responds clearly when the database is not available.",
       "es": "Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "No es una funcionalidad visible para el usuario final, pero sí una de esas decisiones que marcan la diferencia cuando toca diagnosticar, desplegar y mantener una aplicación.",
@@ -876,57 +1516,117 @@
     },
     {
       "source": "Codex fue una ayuda real en varias fases del proyecto. Me sirvió para revisar la estructura de la app con más perspectiva, mapear rutas, componentes y lógica compartida, y detectar ajustes con más claridad.",
-      "en": "Codex was a real help in several phases of the project. It served me to review the app structure with more perspective, map routes, components and shared logic, and detect adjustments more clearly.",
+      "en": "Codex was a real help in several phases of the project. It helped me review the structure of the app with more perspective, map routes, components and shared logic, and detect adjustments more clearly.",
       "es": "Codex fue una ayuda real en varias fases del proyecto. Me sirvió para revisar la estructura de la app con más perspectiva, mapear rutas, componentes y lógica compartida, y detectar ajustes con más claridad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "También me ayudó en la parte más práctica del desarrollo, generando fragmentos de implementación y desbloqueando enfoques de código que me permitieron avanzar más rápido.",
-      "en": "It also helped me in the most practical part of development, generating implementation fragments and unblocking code approaches that allowed me to move forward faster.",
+      "en": "It also helped me with the more practical part of development, generating implementation snippets and unlocking code approaches that allowed me to move faster.",
       "es": "También me ayudó en la parte más práctica del desarrollo, generando fragmentos de implementación y desbloqueando enfoques de código que me permitieron avanzar más rápido.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y además tuvo un papel importante al final: revisar, validar y transformar parte de la base técnica del proyecto en documentación y explicaciones más fáciles de comunicar.",
-      "en": "It also had an important role in the end: to review, validate and transform part of the technical basis of the project into easier documentation and explanations to communicate.",
+      "en": "And it also had an important role in the end: reviewing, validating and transforming part of the technical basis of the project into documentation and explanations that were easier to communicate.",
       "es": "Y además tuvo un papel importante al final: revisar, validar y transformar parte de la base técnica del proyecto en documentación y explicaciones más fáciles de comunicar.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Y para quien quiera ir un paso más allá y montarlo por su cuenta, también dejaré enlazado",
-      "en": "And for anyone who wants to go one step further and ride it on their own, I'll also leave it linked.",
+      "en": "And for those who want to go a step further and set it up on their own, I will also leave it linked",
       "es": "Y para quien quiera ir un paso más allá y montarlo por su cuenta, también dejaré enlazado",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "un artículo donde explico cómo instalar la aplicación paso a paso.",
-      "en": "an article where I explain how to install the step-by-step application.",
+      "en": "an article where I explain how to install the application step by step.",
       "es": "un artículo donde explico cómo instalar la aplicación paso a paso.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Antes de cerrar esta fase del proyecto, revisé la aplicación como si fuera a entregarla para una validación real. Pasé",
-      "en": "Before closing this phase of the project, I reviewed the application as if it were to be delivered for real validation.",
+      "en": "Before closing this phase of the project, I reviewed the application as if I were going to hand it over for real validation. I passed",
       "es": "Antes de cerrar esta fase del proyecto, revisé la aplicación como si fuera a entregarla para una validación real. Pasé",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "lint",
@@ -938,11 +1638,21 @@
     },
     {
       "source": ", revisé el",
-      "en": "I checked the",
+      "en": ", I checked the",
       "es": ", revisé el",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "build",
@@ -954,30 +1664,60 @@
     },
     {
       "source": "de producción y comprobé el comportamiento de los endpoints más importantes.",
-      "en": "I checked the behavior of the most important endpoints.",
+      "en": "production and checked the behavior of the most important endpoints.",
       "es": "de producción y comprobé el comportamiento de los endpoints más importantes.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El resultado fue bueno a nivel de aplicación: compila, responde y mantiene bien su estructura principal. Para tener funcionalidad completa de extremo a extremo, eso sí, el entorno de datos tenía que estar correctamente levantado.",
-      "en": "The result was good at the application level: it compiles, responds and maintains its main structure well. To have complete end-to-end functionality, yes, the data environment had to be properly raised.",
+      "en": "The result was good at the application level: it compiles, responds and maintains its main structure well. To have full end-to-end functionality, however, the data environment had to be properly built.",
       "es": "El resultado fue bueno a nivel de aplicación: compila, responde y mantiene bien su estructura principal. Para tener funcionalidad completa de extremo a extremo, eso sí, el entorno de datos tenía que estar correctamente levantado.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Lo que más me gusta de la web app de Energía en Acción es que no se siente como una suma de pantallas desconectadas.",
-      "en": "What I like most about the Energy in Action app is that it doesn't feel like a sum of disconnected screens.",
+      "en": "What I like most about the Energía en Acción web app is that it doesn't feel like a sum of disconnected screens.",
       "es": "Lo que más me gusta de la web app de Energía en Acción es que no se siente como una suma de pantallas desconectadas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tiene una narrativa clara: entras, descubres proyectos, participas, hablas con otras personas y sigues el contexto desde un mismo lugar.",
@@ -999,29 +1739,59 @@
     },
     {
       "source": "Más que crear una web bonita, se trataba de construir una herramienta útil para que estudiantes, mentores y organizaciones pudieran moverse con más claridad y menos fricción.",
-      "en": "Rather than creating a beautiful web, it was a question of building a useful tool for students, mentors and organizations to move more clearly and less friction.",
+      "en": "More than creating a beautiful website, it was about building a useful tool so that students, mentors and organizations could move with more clarity and less friction.",
       "es": "Más que crear una web bonita, se trataba de construir una herramienta útil para que estudiantes, mentores y organizaciones pudieran moverse con más claridad y menos fricción.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "App web",
-      "en": "Web app",
+      "en": "web app",
       "es": "App web",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 mar 2026.",
-      "en": "A history of the Saturdays.AI. community originally published on the 18 Mar 2026.",
+      "en": "A history of the Saturdays.AI community. Originally published on March 18, 2026.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 mar 2026.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

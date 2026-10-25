@@ -11,10 +11,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about eventos tech.",
       "en": "Stories, projects and conversations from Saturdays.AI about eventos tech.",
-      "es": "Historias, proyectos y conversaciones de los Saturdays.AI sobre la tecnología de eventos.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre eventos tech.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

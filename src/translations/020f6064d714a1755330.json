@@ -699,18 +699,40 @@
     {
       "source": "Detecting gender-based hate speech in Spanish with Natural Language Processing:",
       "en": "Detecting gender-based hate speech in Spanish with Natural Language Processing:",
-      "es": "Detección de discursos de odio basados en el género en español con Procesamiento de Idioma Natural:",
+      "es": "Detección de discursos de odio por motivos de género en español con procesamiento del lenguaje natural:",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks. Jason Wei, Kai Zou. EMNLP-IJCNLP 2019",
       "en": "EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks. Jason Wei, Kai Zou. EMNLP-IJCNLP 2019",
-      "es": "EDA: Técnicas de aumento de datos fáciles para la creación de rendimiento en tareas de clasificación de textos. Jason Wei, Kai Zou. EMNLP-IJCNLP 2019",
+      "es": "EDA: técnicas sencillas de aumento de datos para mejorar el rendimiento en tareas de clasificación de texto. Jason Wei, Kai Zou. EMNLP-IJCNLP 2019",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "BETO: Spanish BERT:",

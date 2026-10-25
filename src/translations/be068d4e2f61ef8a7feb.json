@@ -11,10 +11,21 @@
     {
       "source": "Stories, projects and conversations from Saturdays.AI about 480.",
       "en": "Stories, projects and conversations from Saturdays.AI about 480.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI alrededor de 480.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre 480.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "480",

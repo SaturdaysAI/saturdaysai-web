@@ -80,11 +80,32 @@
     {
       "source": "A.I. in Tech Cloud - Three.js Animation",
       "en": "A.I. in Tech Cloud - Three.js Animation",
-      "es": "A.I. en Tech Cloud - Three.js Animation",
+      "es": "IA en Tech Cloud - Animación Three.js",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
+    },
+    {
+      "source": "Encuentra tu itinerario para aprender IA a distancia: Python, ciencia de datos, IA generativa y proyectos prácticos.",
+      "en": "Find your path to learning AI remotely: Python, data science, generative AI and practical projects.",
+      "es": "Encuentra tu itinerario para aprender IA a distancia: Python, ciencia de datos, IA generativa y proyectos prácticos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

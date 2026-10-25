@@ -1,9 +1,6 @@
 ---
 title: Máster Saturdays.AI
-description: "100% online 12 meses A tu ritmo Máster Saturdays.AI Puedes comprar
-  directamente el Master, ¡únete! #ai4all #ai4good La comunidad (en +10 países)
-  donde aprenderás Inteligencia Artificial desde 0 mientras creas un proyecto
-  de…"
+description: "Explora el programa histórico del máster de Saturdays.AI y consulta con el equipo su disponibilidad y las opciones actuales para aprender IA."
 image: /media/6be21da428514174.webp
 legacyPath: /master-ia-online/
 sourceUrl: https://saturdays.ai/master-ia-online/
@@ -12,6 +9,16 @@ language: en
 draft: false
 kind: page
 ---
+
+## Tu siguiente paso en inteligencia artificial
+
+Aprender IA consiste en conectar conocimientos con práctica: comprender los datos, experimentar con modelos y construir proyectos que resuelvan necesidades reales. Saturdays.AI te ayuda a encontrar recursos y una comunidad con la que avanzar.
+
+El contenido de esta página corresponde al programa de máster publicado en nuestra web anterior. Consulta con el equipo su disponibilidad y las opciones actuales antes de inscribirte.
+
+[Consulta las próximas ediciones](https://saturdays.ai/contacto/) | [Explora los recursos para aprender](https://saturdays.ai/online/)
+
+## Archivo de ediciones anteriores
 
 -   100% online
 -   12 meses
@@ -347,11 +354,7 @@ Los másters homologados tienen que atenerse a planes de estudios que te hacen p
 
 Los proyectos finales servirán para demostrar lo aprendido en el curso, proponiendo una solución a un problema de impacto social (de tu elección) con el uso de Inteligencia Artificial.
 
-Los proyectos deberán compartirse como código
-
-abierto (y un artículo explicativo) en el estado que se encuentren el día de la presentación, pero podréis seguir trabajando en el proyecto una vez acabado el curso si así lo deseáis.
-
-¿A qué va destinado el dinero?
+Los proyectos se comparten como código abierto, junto con un artículo explicativo, en el estado en que se encuentren el día de la presentación. Puedes seguir desarrollándolos después del curso.
 
 ¿Dónde puedo ver los proyectos de otras ediciones?
 

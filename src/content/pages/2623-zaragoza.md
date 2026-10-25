@@ -1,9 +1,6 @@
 ---
 title: Zaragoza
-description: Saturdays.AI - Zaragoza El sector de la IA en Aragón está
-  experimentando un crecimiento exponencial, con la irrupción de esta en campos
-  consolidados como la agricultura, la ganadería y el turismo. Esto nos está
-  forzando a…
+description: "Descubre la comunidad de Saturdays.AI en Zaragoza. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/f120167d3b2cb7b2.webp
 legacyPath: /zaragoza/
 sourceUrl: https://saturdays.ai/zaragoza/

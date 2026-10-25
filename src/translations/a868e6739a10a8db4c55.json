@@ -34,11 +34,21 @@
     {
       "source": "Replace -100 in the labels as we can’t decode them.",
       "en": "Replace -100 in the labels as we can’t decode them.",
-      "es": "Reemplazar -100 en las etiquetas ya que no podemos decodificarlas.",
+      "es": "Reemplace -100 en las etiquetas ya que no podemos decodificarlas.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Trabajo Futuro",
@@ -364,12 +374,22 @@
     },
     {
       "source": "Antes de entrenar el modelo se realiza la configuración de hiperparámetros.",
-      "en": "The hyperparameter configuration is performed before the model is trained.",
+      "en": "Before training the model, hyperparameter configuration is performed.",
       "es": "Antes de entrenar el modelo se realiza la configuración de hiperparámetros.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "batch_size = 4",
@@ -464,12 +484,22 @@
     },
     {
       "source": "Se crea una función para realizar el cómputo de métricas haciendo uso de rouge score.",
-      "en": "A function is created to perform the computation of metrics using rouge score.",
+      "en": "A function is created to compute metrics using rouge score.",
       "es": "Se crea una función para realizar el cómputo de métricas haciendo uso de rouge score.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "def compute_metrics(eval_pred):",
@@ -570,12 +600,22 @@
     },
     {
       "source": "Una vez inicializado el modelo, definidos los hiperparámetros, datasets, tokenizer y métricas creamos un Trainer.",
-      "en": "Once the model has been initialized, the hyperparameters, datasets, tokenizer and metrics are defined, we create a Trainer.",
+      "en": "Once the model has been initialized, the hyperparameters, datasets, tokenizer and metrics have been defined, we create a Trainer.",
       "es": "Una vez inicializado el modelo, definidos los hiperparámetros, datasets, tokenizer y métricas creamos un Trainer.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "trainer = Seq2SeqTrainer(",

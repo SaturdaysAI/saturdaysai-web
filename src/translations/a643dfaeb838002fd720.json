@@ -158,11 +158,21 @@
     {
       "source": "Machine Learning, Deep Learning, Data Science",
       "en": "Machine Learning, Deep Learning, Data Science",
-      "es": "Aprendizaje a máquina, Aprendizaje profundo, Ciencia de datos",
+      "es": "Aprendizaje automático, aprendizaje profundo, ciencia de datos",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Machine Learning Engineer",
@@ -174,11 +184,21 @@
     {
       "source": "Machine Learning Engineer with more than 15 years of experience in the Software Industry. She started her career as a teacher in University of Havana. She has also worked as Senior Software Developer and AI Developer. Now, she is pursuing her second Master Degree in Machine Learning at MILA.",
       "en": "Machine Learning Engineer with more than 15 years of experience in the Software Industry. She started her career as a teacher in University of Havana. She has also worked as Senior Software Developer and AI Developer. Now, she is pursuing her second Master Degree in Machine Learning at MILA.",
-      "es": "Ingeniero de Aprendizaje de Máquinas con más de 15 años de experiencia en la Industria del Software. Comenzó su carrera como profesora en la Universidad de La Habana. También ha trabajado como desarrollador de Software Senior y desarrollador de AI. Ahora, está cursando su segundo Máster en Aprendizaje de Máquinas en MILA.",
+      "es": "Ingeniero en Machine Learning con más de 15 años de experiencia en la Industria del Software. Inició su carrera como docente en la Universidad de La Habana. También ha trabajado como desarrolladora senior de software y desarrolladora de inteligencia artificial. Ahora está cursando su segunda Maestría en Aprendizaje Automático en MILA.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ph.D. Student at Texas A&M University",
@@ -226,11 +246,21 @@
     {
       "source": "Active volunteer lifestyle for more than 7 years in differents non profit organizations. She has been selected as 1 to 140 social entrepreneurs people around the word for participate of the program Global Entrepreneur summer school in Mexico, and the next year she got an scholarship for participate in the High Impact entrepreneurship Program in New York. She won in both programs the first place with two social tech projects for farmers and child with TDH. Actually she is founder and co founder of aurorasoft, qhali, iris360grados and human design group. Graduated of Commercial Engineering, Minor of brand creation at Catholic University and studying a digital business master. She likes to share her experiences and knowledge giving talks about topics of agile, tech, management,social entrepreneurship and gender. She is proactive and worry to solve problems of her community as she demonstrated participated in many contexts of startup weekends, hackathons, and won five times the first place on them. she believes the key is work with a multidisciplinary teams and see in perspective, for truly understand with empathy the segment of people as a human first.",
       "en": "Active volunteer lifestyle for more than 7 years in differents non profit organizations. She has been selected as 1 to 140 social entrepreneurs people around the word for participate of the program Global Entrepreneur summer school in Mexico, and the next year she got an scholarship for participate in the High Impact entrepreneurship Program in New York. She won in both programs the first place with two social tech projects for farmers and child with TDH. Actually she is founder and co founder of aurorasoft, qhali, iris360grados and human design group. Graduated of Commercial Engineering, Minor of brand creation at Catholic University and studying a digital business master. She likes to share her experiences and knowledge giving talks about topics of agile, tech, management,social entrepreneurship and gender. She is proactive and worry to solve problems of her community as she demonstrated participated in many contexts of startup weekends, hackathons, and won five times the first place on them. she believes the key is work with a multidisciplinary teams and see in perspective, for truly understand with empathy the segment of people as a human first.",
-      "es": "Se ha seleccionado como 1 a 140 empresarios sociales alrededor de la palabra para participar del programa Global Entrepreneur escuela de verano en México, y el próximo año obtuvo una beca para participar en el programa de alto impacto empresarial en Nueva York. Ganó en ambos programas el primer lugar con dos proyectos de tecnología social para agricultores y niños con TDH.",
+      "es": "Vida voluntaria activa durante más de 7 años en diferentes organizaciones sin fines de lucro. Ha sido seleccionada como 1 entre 140 emprendedores sociales de todo el mundo para participar del programa Global Entrepreneur summer school en México, y al año siguiente obtuvo una beca para participar en el Programa de emprendimiento de Alto Impacto en Nueva York. En ambos programas ganó el primer lugar con dos proyectos de tecnología social para agricultores y niños con TDH. Actualmente es fundadora y cofundadora de aurorasoft, qhali, iris360grados y human design group. Egresada de Ingeniería Comercial, Mención de creación de marca en la Universidad Católica y cursando una maestría en negocios digitales. Le gusta compartir sus experiencias y conocimientos dando charlas sobre temas de agilidad, tecnología, gestión, emprendimiento social y género. Es proactiva y se preocupa por resolver los problemas de su comunidad, como demostró participó en muchos contextos de fines de semana de startups, hackathons y ganó cinco veces el primer lugar en ellos. Ella cree que la clave es trabajar con equipos multidisciplinarios y ver en perspectiva, para comprender verdaderamente con empatía al segmento de las personas como ser humano primero.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Vásquez 🇨🇱",
@@ -343,6 +373,17 @@
       "en": "Fernandez 🇧🇴",
       "es": "Fernandez 🇧🇴",
       "reviewed": true
+    },
+    {
+      "source": "Archivo de ediciones de AI Saturdays La Paz: aprendizaje práctico, mentores y proyectos. Consulta con el equipo las opciones actuales.",
+      "en": "Previous editions of AI Saturdays La Paz: practical learning, mentors and projects. Ask the team about current options.",
+      "es": "Archivo de ediciones de AI Saturdays La Paz: aprendizaje práctico, mentores y proyectos. Consulta con el equipo las opciones actuales.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

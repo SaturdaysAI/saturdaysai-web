@@ -98,11 +98,21 @@
     {
       "source": "Imagen recuperada de: IEEE Innovation at work",
       "en": "Imagen recuperada de: IEEE Innovation at work",
-      "es": "Imagen recuperada de: IEEE Innovación en el trabajo",
+      "es": "Imagen recuperada de: IEEE Innovación en acción",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Obtención de datos",
@@ -511,11 +521,21 @@
     {
       "source": "Gebejes, A. & Khokhlova, A. (2021). Learning Curve Theory.",
       "en": "Gebejes, A. & Khokhlova, A. (2021). Learning Curve Theory.",
-      "es": "Gebejes, A. &quot; Khokhlova, A. (2021).",
+      "es": "Gebejes, A. y Khokhlova, A. (2021). Teoría de la curva de aprendizaje.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Data of Learning.",
@@ -543,11 +563,21 @@
     {
       "source": "Machine Learning for Credit Card Fraud Detection — Practical Handbook.",
       "en": "Machine Learning for Credit Card Fraud Detection — Practical Handbook.",
-      "es": "Machine Learning for Credit Card Fraud Detection — Practice Handbook.",
+      "es": "Aprendizaje automático para la detección de fraudes con tarjetas de crédito: manual práctico.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Université Libre de Bruxelles. Recuperado de:",

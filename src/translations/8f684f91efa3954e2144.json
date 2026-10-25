@@ -77,10 +77,15 @@
     },
     {
       "source": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
-      "en": "From existing project to digital product: How did I build the Energía en Acción web app?",
-      "es": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "From existing project to digital product: how I built the Energía en Acción web app",
+      "es": "De proyecto existente a producto digital: cómo construí la web app de Energía en Acción",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Codex vs. MiniMax M2.1: replicando FoodCheck con dos IAs distintas",

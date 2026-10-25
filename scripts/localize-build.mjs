@@ -136,7 +136,10 @@ for (const file of files) {
       $(el).text(JSON.stringify(value).replace(/</g, '\\u003c'));
     });
     // Label the translated archive accurately; audio/video recordings remain in their original language.
-    if ($('.reading-body .prose,.city-history .prose').length) {
+    const reviewedInformationPages = new Set([
+      '/about/', '/terms/', '/privacy-policy/', '/privacy-policy-2/', '/contact/', '/contacto/',
+    ]);
+    if ($('.reading-body .prose,.city-history .prose').length && !reviewedInformationPages.has(route)) {
       const notice = $('<p class="translation-notice"></p>').text(
         language === 'en'
           ? 'This archive includes automatic translations. Audio, video and text inside images remain in their original language.'

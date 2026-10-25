@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "Podcast T2/E6 – Ariadna Font – Machine Learning en Escala",
-      "en": "Podcast T2/E6 – Ariadna Font – Machine Learning en Escala",
-      "es": "Podcast T2/E6 – Ariadna Font – Machine Learning en Escala",
-      "reviewed": false,
+      "en": "Podcast S2/E6 – Ariadna Font – Machine Learning at scale",
+      "es": "Podcast T2/E6 – Ariadna Font – Machine Learning a escala",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "T2 / E6",

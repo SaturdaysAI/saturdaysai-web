@@ -1218,11 +1218,21 @@
     {
       "source": "And last but not least…",
       "en": "And last but not least…",
-      "es": "Y por último, pero no menos importante...",
+      "es": "Y por último pero no menos importante...",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como esperábamos este modelo tiene una precisión del",

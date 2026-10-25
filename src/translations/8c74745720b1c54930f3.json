@@ -358,10 +358,21 @@
     {
       "source": "Mellouck & Handouzi. (2020). Facial emotion recognition using deep learning: review and insights. Procedia Computer Science.",
       "en": "Mellouck & Handouzi. (2020). Facial emotion recognition using deep learning: review and insights. Procedia Computer Science.",
-      "es": "Mellouck & Handouzi. (2020). Reconocimiento de emociones faciales mediante el aprendizaje profundo: revisión y perspectivas. Procedia Computer Science.",
+      "es": "Mellouck y Handouzi. (2020). Reconocimiento de emociones faciales mediante aprendizaje profundo: revisión y conocimientos. Procedia Ciencias de la Computación.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Minae et al. (2019). Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network",
@@ -378,10 +389,21 @@
     {
       "source": "Bok. (2020). Getting Started with Albumentation: Winning Deep Learning Image Augmentation Technique in PyTorch example.",
       "en": "Bok. (2020). Getting Started with Albumentation: Winning Deep Learning Image Augmentation Technique in PyTorch example.",
-      "es": "Bok. (2020). Comienzo con la Albumentación: Ganando Tecnología de Aprendizaje Profundo en el ejemplo PyTorch.",
+      "es": "Libro. (2020). Primeros pasos con la albumentación: ejemplo de técnica ganadora de aumento de imágenes de aprendizaje profundo en PyTorch.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Rohan Singh",

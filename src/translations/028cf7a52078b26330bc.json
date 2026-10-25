@@ -184,19 +184,39 @@
     {
       "source": ". (n.d.). Retrieved December 4, 2021, from",
       "en": ". (n.d.). Retrieved December 4, 2021, from",
-      "es": "Consultado el 4 de diciembre de 2021, de",
+      "es": ". (Dakota del Norte.). Recuperado el 4 de diciembre de 2021 de",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "film colorization, colorize video, colorize black and white videos, colorize video software, film colorization software, colorization of film",
       "en": "film colorization, colorize video, colorize black and white videos, colorize video software, film colorization software, colorization of film",
-      "es": "para colorear, colorear vídeo, colorear videos en blanco y negro, colorear software de vídeo, software de para colorear película, colorización de películas",
+      "es": "colorear películas, colorear videos, colorear videos en blanco y negro, software para colorear videos, software para colorear películas, colorear películas",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Códigos",

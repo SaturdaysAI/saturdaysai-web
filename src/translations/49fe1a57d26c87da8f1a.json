@@ -938,10 +938,21 @@
     {
       "source": "WomanLife: Deep Learning for the detection and classification of breast cancer",
       "en": "WomanLife: Deep Learning for the detection and classification of breast cancer",
-      "es": "MujerVida: Aprendizaje profundo para la detección y clasificación del cáncer de mama",
+      "es": "WomanLife: Deep Learning para la detección y clasificación del cáncer de mama",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "IA: Más allá de los chatbots",

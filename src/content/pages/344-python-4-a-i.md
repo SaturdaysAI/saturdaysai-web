@@ -1,9 +1,6 @@
 ---
 title: Python 4 A.I.
-description: Python 4 AI Aprende a programar en I.A. desde 0. Para ello, hemos
-  preparado una hoja de ruta personalizada para transformar tus skills de python
-  en poco tiempo, de forma divertida y menos estresante. Ínscríbete ahora
-  Descargar…
+description: "Da tus primeros pasos en Python y aprende a aplicarlo a proyectos de inteligencia artificial con recursos prácticos de Saturdays.AI."
 image: /media/793c8f6b64ebc2f4.webp
 legacyPath: /python-4-a-i/
 sourceUrl: https://saturdays.ai/python-4-a-i/

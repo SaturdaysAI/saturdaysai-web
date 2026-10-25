@@ -1,9 +1,6 @@
 ---
 title: Asturias
-description: "Saturdays.AI - Asturias Impulsando la Inteligencia Artificial en
-  Asturias con impacto social. Cuando: Empezamos el 17/2/2024Donde: Universidad
-  de Oviedo Me Apunto ¿No sabes Python? ¿Cómo es la experiencia? Conoce la
-  comunidad…"
+description: "Descubre la comunidad de Saturdays.AI en Asturias. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/599744acbb56a2cb.webp
 legacyPath: /asturias/
 sourceUrl: https://saturdays.ai/asturias/

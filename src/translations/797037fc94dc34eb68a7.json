@@ -19,11 +19,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Madrid.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Madrid.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Madrid.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Madrid.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Madrid",

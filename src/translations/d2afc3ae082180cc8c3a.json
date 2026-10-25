@@ -21,19 +21,39 @@
     {
       "source": "Apr 11, 2023",
       "en": "Apr 11, 2023",
-      "es": "11, 2023",
+      "es": "11 de abril de 2023",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Stories, projects and conversations from Saturdays.AI about 2023 / 04.",
       "en": "Stories, projects and conversations from Saturdays.AI about 2023 / 04.",
-      "es": "Historias, proyectos y conversaciones de Saturdays.AI unos 2023 / 04.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre 2023/04.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "2023 / 04",

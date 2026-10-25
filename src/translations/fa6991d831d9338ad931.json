@@ -4,12 +4,22 @@
   "segments": [
     {
       "source": "Podcast T2/E11 – Inés Huertas – Inclusión de género en el Mundo de la IA",
-      "en": "Podcast T2 / E11 - Inés Huertas - Gender Inclusion in the AI World",
+      "en": "Podcast S2/E11 – Inés Huertas – Gender inclusion in the World of AI",
       "es": "Podcast T2/E11 – Inés Huertas – Inclusión de género en el Mundo de la IA",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "T2 / E11",
@@ -21,29 +31,59 @@
     },
     {
       "source": "Hoy, desde Saturdays.AI entrevistamos a Inés Huertas, consultora y experta en Big Data & Machine Learning, además de ser coordinadora de la organización RLadies Madrid",
-      "en": "Today, from Saturdays.AI we interview Inés Huertas, consultant and expert at Big Data & Machine Learning, as well as being coordinator of the organization RLadies Madrid",
+      "en": "Today, from Saturdays.AI we interview Inés Huertas, consultant and expert in Big Data & Machine Learning, in addition to being coordinator of the organization RLadies Madrid",
       "es": "Hoy, desde Saturdays.AI entrevistamos a Inés Huertas, consultora y experta en Big Data & Machine Learning, además de ser coordinadora de la organización RLadies Madrid",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "21 dic 2021",
-      "en": "21 Dec 2021",
+      "en": "Dec 21, 2021",
       "es": "21 dic 2021",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Hoy, desde Saturdays.AI entrevistamos a",
-      "en": "Today, from Saturdays.AI we interviewed",
+      "en": "Today, from Saturdays.AI we interview",
       "es": "Hoy, desde Saturdays.AI entrevistamos a",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Inés Huertas",
@@ -72,12 +112,22 @@
     },
     {
       "source": "además de ser coordinadora de la organización",
-      "en": "in addition to being the coordinator of the organization",
+      "en": "In addition to being coordinator of the organization",
       "es": "además de ser coordinadora de la organización",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "RLadies Madrid",
@@ -89,20 +139,40 @@
     },
     {
       "source": "En la entrevista, Inés nos habla de su",
-      "en": "In the interview, Inés tells us about his",
+      "en": "In the interview, Inés tells us about her",
       "es": "En la entrevista, Inés nos habla de su",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", de la importancia de dar",
-      "en": "of the importance of",
+      "en": ", of the importance of giving",
       "es": ", de la importancia de dar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "representación",
@@ -114,11 +184,21 @@
     },
     {
       "source": "a las",
-      "en": "No.",
+      "en": "at",
       "es": "a las",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mujeres",
@@ -130,63 +210,133 @@
     },
     {
       "source": "que forman parte del sector de la IA y de su",
-      "en": "which are part of the IA sector and its",
+      "en": "who are part of the AI sector and its",
       "es": "que forman parte del sector de la IA y de su",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "pronóstico",
-      "en": "prognosis",
+      "en": "forecast",
       "es": "pronóstico",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "para este campo en los próximos años. Hablamos de una",
-      "en": "for this field in the coming years.",
+      "en": "for this field in the coming years. We talk about a",
       "es": "para este campo en los próximos años. Hablamos de una",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "IA totalmente transversal,",
-      "en": "A completely transverse,",
+      "en": "Fully transversal AI,",
       "es": "IA totalmente transversal,",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "presente en cualquier campo de trabajo, y de su relevancia en el futuro, llegando a decir que",
-      "en": "present in any field of work, and its relevance in the future, coming to say that",
+      "en": "present in any field of work, and its relevance in the future, going so far as to say that",
       "es": "presente en cualquier campo de trabajo, y de su relevancia en el futuro, llegando a decir que",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "«la IA será el inglés o la ofimática",
-      "en": "\"The IA will be English or the office",
+      "en": "«AI will be English or office automation",
       "es": "«la IA será el inglés o la ofimática",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "en unos años».",
-      "en": "in a few years. \"",
+      "en": "in a few years.\"",
       "es": "en unos años».",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Sobre Inés",
@@ -198,92 +348,192 @@
     },
     {
       "source": "– Presentación Inés",
-      "en": "- Inés presentation",
+      "en": "– Presentation Inés",
       "es": "– Presentación Inés",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿Inés con 10 años podía imaginar que iba a dedicarse a la AI?",
-      "en": "- You were 10 years old, could you imagine I was going to go to AI?",
+      "en": "– At 10 years old, could Inés imagine that she was going to dedicate herself to AI?",
       "es": "– ¿Inés con 10 años podía imaginar que iba a dedicarse a la AI?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿En qué momento llegaste a la Ai y cuál fue el factor WOW?",
-      "en": "- At what point did you get to the Ai and what was the WOW factor?",
+      "en": "– When did you arrive at Ai and what was the WOW factor?",
       "es": "– ¿En qué momento llegaste a la Ai y cuál fue el factor WOW?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Mayores retos de un trabajo de Data Scientist",
-      "en": "- More challenges of a Data Scientist work",
+      "en": "– Biggest challenges of a Data Scientist job",
       "es": "– Mayores retos de un trabajo de Data Scientist",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿Cómo ha sido trabajar con tus compañeros",
-      "en": "- How was it working with your partners?",
+      "en": "– How has it been working with your colleagues?",
       "es": "– ¿Cómo ha sido trabajar con tus compañeros",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿Cómo se ha desarrollado en los últimos años y cómo será la inclusión de las mujeres en la AI?",
-      "en": "- How has it developed in recent years and how will women be included in the AI?",
+      "en": "– How has it developed in recent years and what will the inclusion of women in AI be like?",
       "es": "– ¿Cómo se ha desarrollado en los últimos años y cómo será la inclusión de las mujeres en la AI?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿Cómo ves la inclusión el sector hoy en día y en 10 años?",
-      "en": "- How do you see the inclusion of the sector today and in 10 years?",
+      "en": "– How do you see inclusion in the sector today and in 10 years?",
       "es": "– ¿Cómo ves la inclusión el sector hoy en día y en 10 años?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– ¿Ser líderes en la regulación de la Ai es la parte más técnica?",
-      "en": "- Is being a leader in the regulation of the Ai the most technical part?",
+      "en": "– Is being leaders in AI regulation the most technical part?",
       "es": "– ¿Ser líderes en la regulación de la Ai es la parte más técnica?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Recomendaciones para los que entran en el mundo de la AI",
-      "en": "- Recommendations for those entering the AI world",
+      "en": "– Recommendations for those entering the world of AI",
       "es": "– Recomendaciones para los que entran en el mundo de la AI",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 dic 2021.",
-      "en": "A story of the Saturdays.AI. community originally published on 21st Dec 2021.",
+      "en": "A history of the Saturdays.AI community. Originally published on December 21, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 dic 2021.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

@@ -26,11 +26,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Bilbao.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Bilbao.",
-      "es": "Aprende inteligencia artificial, reúne a tu comunidad local y construye proyectos con impacto social en Bilbao.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Bilbao.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Bilbao",
@@ -143,12 +153,22 @@
     },
     {
       "source": "AI Saturdays Bilbao 1ª Edición",
-      "en": "AI Saturdays Bilbao 1st edition",
+      "en": "AI Saturdays Bilbao 1st Edition",
       "es": "AI Saturdays Bilbao 1ª Edición",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Lo que dicen los organizadores",

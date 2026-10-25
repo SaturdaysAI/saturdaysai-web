@@ -118,7 +118,7 @@
     {
       "source": "Learn artificial intelligence. Build projects that matter. Find your people. That’s Saturdays.AI.",
       "en": "Learn artificial intelligence. Build projects that matter. Find your people. That’s Saturdays.AI.",
-      "es": "Aprende inteligencia artificial. Crea proyectos con impacto. Encuentra tu comunidad. Eso es Saturdays.AI.",
+      "es": "Aprende inteligencia artificial con cursos prácticos, mentores y proyectos en equipo. Encuentra tu comunidad en Saturdays.AI.",
       "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2
@@ -457,16 +457,26 @@
     {
       "source": "Barcelona",
       "en": "Barcelona",
-      "es": "barcelona",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Barcelona",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Madrid",
       "en": "Madrid",
-      "es": "madrid",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Madrid",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Valencia",
@@ -526,12 +536,22 @@
     },
     {
       "source": "PyCamp España 2026: cuatro días de Python, naturaleza y comunidad",
-      "en": "PyCamp Spain 2026: four days of Python, nature and community",
+      "en": "PyCamp España 2026: four days of Python, nature and community",
       "es": "PyCamp España 2026: cuatro días de Python, naturaleza y comunidad",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Jun 9, 2026",
@@ -556,11 +576,21 @@
     },
     {
       "source": "AgroClaw: lo que aprendimos al construir un agente AgTech",
-      "en": "AgroClaw: what we learned when we built an AgTech agent",
+      "en": "AgroClaw: What we learned when building an AgTech agent",
       "es": "AgroClaw: lo que aprendimos al construir un agente AgTech",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "May 18, 2026",
@@ -646,10 +676,15 @@
     {
       "source": "From the Saturdays.AI community archive. Details of past editions are retained for reference; the local team can confirm the current programme.",
       "en": "From the Saturdays.AI community archive. Details of past editions are retained for reference; the local team can confirm the current programme.",
-      "es": "Del archivo de la comunidad Saturdays.AI. Los detalles de ediciones anteriores se conservan como referencia; El equipo local puede confirmar el programa actual.",
-      "reviewed": false,
+      "es": "Del archivo de la comunidad Saturdays.AI. Conservamos los detalles de ediciones anteriores como referencia; consulta con el equipo local el programa actual.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Artificial Intelligence;",
@@ -772,9 +807,14 @@
     {
       "source": "AI Fellows",
       "en": "AI Fellows",
-      "es": "Becarios de IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "AI Fellows",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cities around the 🌍",
@@ -785,10 +825,15 @@
     },
     {
       "source": "A.I. Projects",
-      "en": "A.I. Projects",
-      "es": "IA Proyectos",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "AI projects",
+      "es": "Proyectos de IA",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "We connect individuals and organizations through communities to create social impact. Our flagship programme,",
@@ -801,9 +846,14 @@
     {
       "source": "AI Saturdays,",
       "en": "AI Saturdays,",
-      "es": "Sábados de IA,",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "AI Saturdays,",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "is suitable for anyone that wants to start in AI, learning by doing AI projects with social impact in their community.",
@@ -823,10 +873,15 @@
     },
     {
       "source": "JOIN A CITY",
-      "en": "JOIN A CITY",
-      "es": "ÚNETE A UNA CIUDAD",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "FIND YOUR COMMUNITY",
+      "es": "ENCUENTRA TU COMUNIDAD",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "ONLINE COURSES",
@@ -837,11 +892,16 @@
     },
     {
       "source": "Organizations where our fellows work",
-      "en": "Organizations where our fellows work",
-      "es": "Organizaciones donde trabajan nuestros becarios",
-      "reviewed": false,
+      "en": "Organisations where our AI fellows work",
+      "es": "Organizaciones donde trabajan nuestros AI fellows",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Participating in Saturdays, as a student, mentor, volunteer or staff, have helped many individuals to advance their careers and achieve some reasonable happiness, by working and researching in some of the leading AI organizations worldwide, as well as start their own AI business, or join an industry where to apply their skills.",
@@ -917,9 +977,14 @@
     {
       "source": "Meet our AI Fellows",
       "en": "Meet our AI Fellows",
-      "es": "Conozca a nuestros becarios de IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Conoce a nuestros AI Fellows",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Our participants come from all walks of life, developers, researchers, entrepreneurs, product managers, students…",
@@ -931,10 +996,15 @@
     },
     {
       "source": "Reproducir",
-      "en": "Reproducir",
-      "es": "reproducir",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Play",
+      "es": "Reproducir",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "](/media/d1018e6e89eae0c2.webp)",
@@ -981,9 +1051,14 @@
     {
       "source": "Start your AI journey",
       "en": "Start your AI journey",
-      "es": "Comience su viaje en IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Da tus primeros pasos en IA",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Saturdays.AI offers free online courses with a roadmap to get yourself started in the world of AI.",
@@ -996,16 +1071,26 @@
     {
       "source": "Python 4 AI",
       "en": "Python 4 AI",
-      "es": "Python 4 IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Python 4 AI",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Curso de python4AI",
-      "en": "Curso de python4AI",
-      "es": "Curso de python4AI",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Python 4 AI course",
+      "es": "Curso de Python 4 AI",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "*Spanish*",
@@ -1031,10 +1116,15 @@
     },
     {
       "source": "DS Fundamentals",
-      "en": "DS Fundamentals",
-      "es": "Fundamentos de DS",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Data science fundamentals",
+      "es": "Fundamentos de ciencia de datos",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Visit ti.to",
@@ -1046,9 +1136,14 @@
     {
       "source": "English",
       "en": "English",
-      "es": "ingles",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Inglés",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing",
@@ -1067,17 +1162,27 @@
     },
     {
       "source": "Master online",
-      "en": "Master online",
-      "es": "Maestro en línea",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Online master’s programme",
+      "es": "Máster en línea",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Spanish",
       "en": "Spanish",
-      "es": "español",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Español",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Where any future Data enthusiast comes to learn. Whether you are just starting out or have been in adjacent professions for years, here you will find peers, mentors and challenges to support and learn from. If you want to acquire skills in data and machine learning.",
@@ -1224,7 +1329,7 @@
     {
       "source": "of Saturdays.AI",
       "en": "of Saturdays.AI",
-      "es": "de los Saturdays.AI",
+      "es": "de Saturdays.AI",
       "reviewed": false,
       "translationVersion": 2
     },
@@ -1400,10 +1505,15 @@
     },
     {
       "source": "Terms",
-      "en": "Terms",
-      "es": "Términos",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Legal notice",
+      "es": "Aviso legal",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Editor access",
@@ -1431,18 +1541,28 @@
     {
       "source": "START LEARNING AI",
       "en": "START LEARNING AI",
-      "es": "START LEARNING AI",
-      "reviewed": false,
+      "es": "EMPIEZA A APRENDER IA",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "We also have many online courses to get you started in AI, in addition to news, scientific papers, tutorials and code to deep dive in any part of the Artificial Intelligence stack.",
-      "en": "We also have many online courses to get you started in AI, in addition to news, scientific papers, tutorials and code to deep dive in any part of the Artificial Intelligence stack.",
-      "es": "También tenemos muchos cursos en línea para que usted comience en AI, además de noticias, documentos científicos, tutoriales y código para la inmersión profunda en cualquier parte de la pila de Inteligencia Artificial.",
-      "reviewed": false,
+      "en": "You can also explore courses to get started in AI, alongside news, research papers, tutorials and code to take your learning further.",
+      "es": "También encontrarás cursos para iniciarte en la IA, además de noticias, artículos científicos, tutoriales y código para profundizar en los temas que te interesen.",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "together.",
@@ -1509,6 +1629,17 @@
       "en": "Share your knowledge, mentor a project or help organise a local community.",
       "es": "Comparte lo que sabes, acompaña un proyecto o ayuda a organizar una comunidad local.",
       "reviewed": true
+    },
+    {
+      "source": "More than 30,000 AI fellows supported. One shared purpose.",
+      "en": "More than 30,000 AI fellows supported. One shared purpose.",
+      "es": "Más de 30.000 AI fellows acompañados. Un propósito compartido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

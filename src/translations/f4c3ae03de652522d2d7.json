@@ -37,10 +37,20 @@
     {
       "source": "Corporate Training",
       "en": "Corporate Training",
-      "es": "Formación empresarial",
+      "es": "Formación Corporativa",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "AI Consulting",
@@ -61,18 +71,38 @@
     {
       "source": "for organizations that",
       "en": "for organizations that",
-      "es": "para las organizaciones que",
+      "es": "para organizaciones que",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "want to lead",
       "en": "want to lead",
-      "es": "Quiero liderar",
+      "es": "quiero liderar",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "in the current technology revolution",
@@ -93,10 +123,20 @@
     {
       "source": "Deep dive on",
       "en": "Deep dive on",
-      "es": "Buceo profundo",
+      "es": "Buceo profundo en",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "what you really need",
@@ -126,35 +166,75 @@
     {
       "source": "business objectives",
       "en": "business objectives",
-      "es": "objetivos empresariales",
+      "es": "objetivos de negocio",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "with technology capabilities",
       "en": "with technology capabilities",
-      "es": "con capacidad tecnológica",
+      "es": "con capacidades tecnológicas",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Integrate AI",
       "en": "Integrate AI",
-      "es": "Integrar la AI",
+      "es": "Integrar IA",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "in your processes and organization in a seamless way",
       "en": "in your processes and organization in a seamless way",
-      "es": "en sus procesos y organización de una manera perfecta",
+      "es": "en tus procesos y organización de forma fluida",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Best in class",
@@ -167,19 +247,39 @@
     {
       "source": "practical training",
       "en": "practical training",
-      "es": "capacitación práctica",
+      "es": "entrenamiento practico",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "on AI, Machine Learning and Data Science.",
       "en": "on AI, Machine Learning and Data Science.",
-      "es": "sobre IA, Aprendizaje de Máquinas y Ciencias de Datos.",
+      "es": "sobre IA, aprendizaje automático y ciencia de datos.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mentoring",
@@ -192,63 +292,128 @@
     {
       "source": "with top notch professionals to help you create a working prototypes for your use cases.",
       "en": "with top notch professionals to help you create a working prototypes for your use cases.",
-      "es": "con los mejores profesionales para ayudarle a crear prototipos de trabajo para sus casos de uso.",
+      "es": "con profesionales de primer nivel para ayudarlo a crear prototipos funcionales para sus casos de uso.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Business oriented or technical deep dive,",
       "en": "Business oriented or technical deep dive,",
-      "es": "Buceo profundo orientado a negocios o técnico,",
+      "es": "Orientado a los negocios o inmersión técnica profunda,",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "we have you covered",
       "en": "we have you covered",
-      "es": "Te tenemos cubierto",
+      "es": "te tenemos cubierto",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "All you need, from basic to cutting edge AI",
       "en": "All you need, from basic to cutting edge AI",
-      "es": "Todo lo que necesitas, desde lo básico hasta el borde de corte AI",
+      "es": "Todo lo que necesitas, desde IA básica hasta IA de vanguardia",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Whether you’re exploring computer vision, building LLM and",
       "en": "Whether you’re exploring computer vision, building LLM and",
-      "es": "Ya sea que esté explorando la visión de la computadora, construyendo LLM y",
+      "es": "Ya sea que esté explorando la visión por computadora, desarrollando un LLM y",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Generative AI",
       "en": "Generative AI",
-      "es": "Generative AI",
-      "reviewed": false,
+      "es": "IA generativa",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "applications, or implementing predictive analytics, we work alongside your team to architect, develop, and deploy production-grade",
       "en": "applications, or implementing predictive analytics, we work alongside your team to architect, develop, and deploy production-grade",
-      "es": "aplicaciones, o la implementación de análisis predictivos, trabajamos junto a su equipo para arquitecto, desarrollar e implementar la producción de grado",
+      "es": "aplicaciones o implementar análisis predictivos, trabajamos junto con su equipo para diseñar, desarrollar e implementar aplicaciones de nivel de producción.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "solutions",
@@ -261,11 +426,21 @@
     {
       "source": "We don’t just advise, we help you build working prototypes and scalable systems that deliver measurable",
       "en": "We don’t just advise, we help you build working prototypes and scalable systems that deliver measurable",
-      "es": "No sólo aconsejamos, le ayudamos a construir prototipos de trabajo y sistemas escalables que ofrecen mensurables",
+      "es": "No solo asesoramos, sino que lo ayudamos a construir prototipos funcionales y sistemas escalables que brinden resultados mensurables.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "business impact",
@@ -278,19 +453,39 @@
     {
       "source": ", while transferring critical knowledge to your team throughout the journey.",
       "en": ", while transferring critical knowledge to your team throughout the journey.",
-      "es": ", al tiempo que transfieren conocimientos críticos a su equipo durante todo el viaje.",
+      "es": ", mientras transfiere conocimientos críticos a su equipo durante todo el viaje.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Check out our",
       "en": "Check out our",
-      "es": "Mira nuestra",
+      "es": "Echa un vistazo a nuestro",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Corporate Training program",
@@ -311,11 +506,32 @@
     {
       "source": "AI 4 Business Corporate Training and top tier AI Consulting for organizations that want to lead in the current technology revolution CONTACT Coding Deep dive on what you really need and the technical way to do it Business…",
       "en": "AI 4 Business Corporate Training and top tier AI Consulting for organizations that want to lead in the current technology revolution CONTACT Coding Deep dive on what you really need and the technical way to do it Business…",
-      "es": "AI 4 Business Corporate Training and top tier AI Consulting for organizations that want to lead in the current technology revolution CONTACT Coding Inmersión profunda en lo que realmente necesitas y la forma técnica de hacerlo Business...",
+      "es": "AI 4 Business Corporate Training y Consultoría de AI de primer nivel para organizaciones que quieran liderar la revolución tecnológica actual CONTACTO Codificación Profundice en lo que realmente necesita y la forma técnica de hacerlo Negocios…",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
+    },
+    {
+      "source": "Aprendizaje práctico de inteligencia artificial para equipos y organizaciones. Consulta con Saturdays.AI cómo desarrollar una colaboración.",
+      "en": "Practical artificial intelligence learning for teams and organisations. Ask Saturdays.AI about working together.",
+      "es": "Aprendizaje práctico de inteligencia artificial para equipos y organizaciones. Consulta con Saturdays.AI cómo desarrollar una colaboración.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

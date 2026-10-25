@@ -1,9 +1,6 @@
 ---
 title: Madrid
-description: "Saturdays.AI Madrid No hay muchas ciudades en el mundo que superen
-  a Madrid. Destaca por su rica experiencia, su ambiente y las infinitas
-  posibilidades que ofrece. Cuándo: Por determinarDónde: Factoría F5, calle
-  Fernando Poo…"
+description: "Descubre la comunidad de Saturdays.AI en Madrid. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/edf0a7900db9aad6.webp
 legacyPath: /madrid/
 sourceUrl: https://saturdays.ai/madrid/

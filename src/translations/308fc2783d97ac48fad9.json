@@ -30,10 +30,21 @@
     {
       "source": "Su libro: Impact Science: The science of getting to radical social and environmental breakthroughs",
       "en": "Su libro: Impact Science: The science of getting to radical social and environmental breakthroughs",
-      "es": "Su libro: Impact Science: The science of get to radical social and environmental breakthroughs",
+      "es": "Su libro: Ciencia del impacto: la ciencia para lograr avances sociales y ambientales radicales",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "De bombero en protección civil en Asturias, a la NASA, no te lo pierdas!!",

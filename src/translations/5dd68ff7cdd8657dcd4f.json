@@ -85,14 +85,24 @@
     {
       "source": "Show more stories",
       "en": "Show more stories",
-      "es": "Mostrar más historias",
-      "reviewed": false
+      "es": "Ver más historias",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "No stories found.",
       "en": "No stories found.",
-      "es": "No se encontraron historias.",
-      "reviewed": false
+      "es": "No encontramos historias con esa búsqueda.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Try a different word or explore another topic.",

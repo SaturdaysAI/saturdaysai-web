@@ -1,10 +1,8 @@
 ---
 title: La IA como recurso para reducir la desertificación
-description: EL problema de la desertificación La desertificación afecta a más
-  de 15000 millones de personas en todo el mundo. Generalmente, las más
-  afectadas son aquellas con un estatus social bajo y que viven en las zonas más
-  vulnerables…
+description: Cómo pueden contribuir la inteligencia artificial y los datos al estudio de la desertificación y a una gestión más sostenible del territorio.
 pubDate: 2022-03-22
+updatedDate: 2026-10-25
 author: Info Saturdays
 category: Community
 kind: article
@@ -20,10 +18,15 @@ draft: false
 
 ![Preventing desertification](/media/cf065201912aacf2.webp)
 
-## EL problema de la desertificación
+## El problema de la desertificación
 
-La desertificación afecta a más de 15000 millones de personas en todo el mundo. Generalmente, las más afectadas son aquellas con un estatus social bajo y que viven en las zonas más vulnerables del planeta.  
-Cuando hablamos de desertificación, nos referimos a la degradación que la tierra sufre en zonas áridas, semiáridas y secosubhúmedas. Esto se debe mayoritariamente a la gran exposición de las actividades humanas, como la desforestación o bien la sobreexplotación de recursos y por otro lado, las variaciones climáticas que sufre nuestro planeta en forma de sequías o lluvias torrenciales. La mayoría de veces, esta desertificación es irreversible afectando directamente a la pérdida de productividad.
+La desertificación amenaza los medios de vida de muchas comunidades, especialmente de las personas con menos recursos en zonas vulnerables. Una síntesis de la UNCCD publicada en 2021 situaba en más de 1.000 millones las personas cuyos medios de vida estaban amenazados por este proceso.
+
+[Fuente: UNCCD, tierra y salud humana, 2021](https://catalogue.unccd.int/UNCCD_DLDD_SDS_Land_Human_Health_7_April_2021.pdf).
+
+Nota editorial del 25 de octubre de 2026: se ha corregido la cifra de población de la versión original y se ha añadido la fuente. El artículo conserva su contexto de publicación de 2022.
+
+La desertificación es la degradación de la tierra en zonas áridas, semiáridas y subhúmedas secas. Puede deberse a variaciones climáticas y a actividades humanas, como la deforestación o la sobreexplotación de recursos. Reduce la productividad de la tierra; prevenirla, reducirla y restaurar las zonas afectadas requiere medidas adaptadas a cada contexto.
 
 
 Algunos de los territorios en riesgo son parte del continente africano, de EUA, América de Sur, Australia o España. Para reducir el impacto que la desertificación produce en estas áreas deben ser tratados los factores políticos, socioeconómicos, científicos y/o sociales del momento con el objetivo de conseguir las medidas adecuadas para reducir los efectos que desafortunadamente este suceso conlleva.

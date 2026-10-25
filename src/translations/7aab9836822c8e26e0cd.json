@@ -4,7 +4,7 @@
   "segments": [
     {
       "source": "Curso-IA-Generativa",
-      "en": "Curso-IA-Generativa",
+      "en": "Curso-AI-Generativa",
       "es": "Curso-IA-Generativa",
       "reviewed": false,
       "translationVersion": 2
@@ -77,12 +77,22 @@
     },
     {
       "source": "Galería con ejemplos de entregas",
-      "en": "Gallery with examples of deliveries",
+      "en": "Gallery with delivery examples",
       "es": "Galería con ejemplos de entregas",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "robot fighting garbage",
@@ -121,12 +131,22 @@
     },
     {
       "source": "pecera con una casa ecológica autosostenible",
-      "en": "fish with a self-sustaining green house",
+      "en": "fish tank with a self-sustainable ecological house",
       "es": "pecera con una casa ecológica autosostenible",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "1949ca23-6909-49e1-9c9e-54bb661c808f",
@@ -163,6 +183,17 @@
       "reviewed": false,
       "sourceLanguage": "en",
       "translationVersion": 2
+    },
+    {
+      "source": "Explora los fundamentos de la IA generativa, los modelos multimodales y la ingeniería de prompts con Saturdays.AI.",
+      "en": "Explore generative AI, multimodal models and prompt engineering fundamentals with Saturdays.AI.",
+      "es": "Explora los fundamentos de la IA generativa, los modelos multimodales y la ingeniería de prompts con Saturdays.AI.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

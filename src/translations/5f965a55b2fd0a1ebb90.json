@@ -192,20 +192,40 @@
     {
       "source": "a robot working with a computer",
       "en": "a robot working with a computer",
-      "es": "un robot trabajando con un ordenador",
+      "es": "un robot trabajando con una computadora",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Prompt: a robot working with a computer",
       "en": "Prompt: a robot working with a computer",
-      "es": "Prompt: un robot que trabaja con un ordenador",
+      "es": "Mensaje: un robot trabajando con una computadora",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La inteligencia artificial puede desempeñar un papel crucial en la lucha contra la desinformación. Mediante el uso de",
@@ -287,11 +307,21 @@
     {
       "source": "Villasenor, J. (2020, November 23). How to deal with AI-enabled disinformation. Brookings; Brookings.",
       "en": "Villasenor, J. (2020, November 23). How to deal with AI-enabled disinformation. Brookings; Brookings.",
-      "es": "Villasenor, J. (2020, 23 de noviembre). Cómo lidiar con la desinformación habilitada por AI. Brookings; Brookings.",
+      "es": "Villaseñor, J. (2020, 23 de noviembre). Cómo lidiar con la desinformación habilitada por la IA. Brookings; Brookings.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 24 may 2023.",

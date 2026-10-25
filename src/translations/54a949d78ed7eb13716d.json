@@ -4,20 +4,30 @@
   "segments": [
     {
       "source": "La IA llega al mundo del arte",
-      "en": "IA comes to the art world",
+      "en": "AI enters the art world",
       "es": "La IA llega al mundo del arte",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ya podemos decir que la IA llega al mundo del arte. Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). A…",
-      "en": "Ya podemos decir que la IA llega al mundo del arte. Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). To…",
-      "es": "Ya podemos decir que la IA llega al mundo del arte. Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). A…",
-      "reviewed": false,
+      "en": "Artificial intelligence enters the art world. We explore how it changes artistic creation and the questions it raises.",
+      "es": "La inteligencia artificial llega al mundo del arte. Exploramos cómo cambia la creación artística y qué preguntas plantea.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "17 may 2022",
@@ -35,16 +45,26 @@
     },
     {
       "source": "Ya podemos decir que la IA llega al mundo del arte.",
-      "en": "We can already say that IA comes to the art world.",
+      "en": "We can already say that AI is reaching the world of art.",
       "es": "Ya podemos decir que la IA llega al mundo del arte.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). A pesar de ello, era difícil hacerse a la idea de que pudiesen adaptarse a una actividad tan humana como el arte.",
-      "en": "It has already arrived, there are already \"artists\" not of flesh and blood. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). Despite this, it was difficult to get the idea that they could adapt to an activity as human as art.",
+      "en": "It has already arrived, there are already \"artists\" not of flesh and blood. Y es que la AI ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). Despite this, it was difficult to get the idea that they could adapt to an activity as human as art.",
       "es": "Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). A pesar de ello, era difícil hacerse a la idea de que pudiesen adaptarse a una actividad tan humana como el arte.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -52,12 +72,22 @@
     },
     {
       "source": "Pero han dejándose atrás sus ámbitos más propicios",
-      "en": "But they have left their most conducive areas behind.",
+      "en": "But their most favorable areas have been left behind",
       "es": "Pero han dejándose atrás sus ámbitos más propicios",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "(datos, gestión) para incorporarse a unos nuevos.",
@@ -70,7 +100,7 @@
     },
     {
       "source": "Hay que decir que ya existían algunas aplicaciones propicias para el arte. Una de ellas es Wombo IA, que es capaz de hacer que tu imagen coja vida a partir de un procesamiento corto. Otra de ellas es Botto, un artista nacido a partir de un inteligencia artificial. Su funcionamiento está basado en su comunidad. Esta elige cada semana cual de las obras realizadas por Botto le gusta más, moldeando el algoritmo para futuras obras.",
-      "en": "It must be said that there were already some favorable applications for art. Una de ellas es Wombo IA, que es capaz de hacer que tu imagen coja vida a partir de un procesamiento corto. Another of them is Botto, an artist born from an artificial intelligence. Su funcionamiento está basado en su comunidad. Esta elige cada semana cual de las obras realizadas por Botto le gusta más, moldeando el algoritmo para futuras obras.",
+      "en": "It must be said that there were already some favorable applications for art. Una de ellas es Wombo AI, que es capaz de hacer que tu imagen coja vida a partir de un procesamiento corto. Another of them is Botto, an artist born from an artificial intelligence. Su funcionamiento está basado en su comunidad. Esta elige cada semana cual de las obras realizadas por Botto le gusta más, moldeando el algoritmo para futuras obras.",
       "es": "Hay que decir que ya existían algunas aplicaciones propicias para el arte. Una de ellas es Wombo IA, que es capaz de hacer que tu imagen coja vida a partir de un procesamiento corto. Otra de ellas es Botto, un artista nacido a partir de un inteligencia artificial. Su funcionamiento está basado en su comunidad. Esta elige cada semana cual de las obras realizadas por Botto le gusta más, moldeando el algoritmo para futuras obras.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -78,20 +108,40 @@
     },
     {
       "source": "Imagen generada por Dalle-2 compartida por la empresa Open AI",
-      "en": "Image generated by Dalle-2 shared by Open AI",
+      "en": "Image generated by Dalle-2 shared by the company Open AI",
       "es": "Imagen generada por Dalle-2 compartida por la empresa Open AI",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Pero en 2022 ha habido una revolución pictórica venida de la mano de Dalle-2.",
-      "en": "But in 2022 there was a pictorial revolution coming from the hand of Dalle-2.",
+      "en": "But in 2022 there has been a pictorial revolution coming from the hand of Dalle-2.",
       "es": "Pero en 2022 ha habido una revolución pictórica venida de la mano de Dalle-2.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Esta inteligencia artificial desarrollada por Open AI se ha viralizado en redes sociales. Esto se debe a que los usuarios «competían» por ver qué obra era mejor acogida por el público. Cada imagen tiene un contexto diferente detrás, algunas más conceptuales, otras más surrealistas… y porque no decirlo, muchas otras perturbadoras. Esta inteligencia artificial se basa en el texto que inserten los usuarios para crear sus obras. Y es que el ser humano cuando se ve libre de poder crear, puede ser racional e irracional por partes iguales.",

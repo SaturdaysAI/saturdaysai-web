@@ -1,8 +1,6 @@
 ---
 title: Blog
-description: Blog y noticias ¡Éste es nuestro blog!
-  Aquí tienes artículos de divulgación, tutoriales y actualidad sobre la IA y
-  Saturdays, seguro encuentras un artículo que te interesa, ¡échale un vistazo!
+description: "Artículos, tutoriales y experiencias sobre inteligencia artificial y la comunidad Saturdays.AI."
 image: ""
 legacyPath: /blog/
 sourceUrl: https://saturdays.ai/blog/

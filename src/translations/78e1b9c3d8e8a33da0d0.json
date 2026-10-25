@@ -6,7 +6,12 @@
       "source": "España Online",
       "en": "Spain Online",
       "es": "España Online",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Edición España",
@@ -22,9 +27,14 @@
     },
     {
       "source": "Tiempo estimado",
-      "en": "Estimated time",
-      "es": "Tiempo estimado",
-      "reviewed": false
+      "en": "Estimated duration",
+      "es": "Duración estimada",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "4 meses",
@@ -47,27 +57,47 @@
     {
       "source": "Pre-requisitos",
       "en": "Prerequisites",
-      "es": "Pre-requisitos",
-      "reviewed": false
+      "es": "Requisitos previos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Python & matemáticas básicas",
-      "en": "Python & basic math",
-      "es": "Python & matemáticas básicas",
-      "reviewed": false
+      "en": "Python and basic maths",
+      "es": "Python y matemáticas básicas",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Así lo han vivido nuestros AI Fellows",
-      "en": "This is what our AI Fellows have experienced",
+      "en": "Our AI Fellows share their experience",
       "es": "Así lo han vivido nuestros AI Fellows",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Cómo es el programa?",
-      "en": "What is the program like?",
+      "en": "How does the programme work?",
       "es": "¿Cómo es el programa?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Code 2 Learn",
@@ -83,16 +113,26 @@
     },
     {
       "source": "¿Cuál es el contenido del programa?",
-      "en": "What is the content of the program?",
+      "en": "What does the programme cover?",
       "es": "¿Cuál es el contenido del programa?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Aprende en comunidad",
-      "en": "Learn in community",
+      "en": "Learn together",
       "es": "Aprende en comunidad",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La experiencia AI Saturdays",
@@ -108,9 +148,14 @@
     },
     {
       "source": "¿Quién te acompaña?",
-      "en": "Who accompanies you?",
+      "en": "Who supports your learning?",
       "es": "¿Quién te acompaña?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Nuestros partners",
@@ -132,18 +177,28 @@
     },
     {
       "source": "Especialízate en Machine y Deep Learning desde tu casa.",
-      "en": "Special in Machine and Deep Learning from your home.",
-      "es": "Especialízate en Machine y Deep Learning desde tu casa.",
-      "reviewed": false,
+      "en": "Develop your machine learning and deep learning skills from home.",
+      "es": "Especialízate en machine learning y deep learning desde casa.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Aprende en comunidad, de forma práctica junto a otros",
-      "en": "Learn in community, in a practical way with others",
+      "en": "Learn through hands-on practice alongside other",
       "es": "Aprende en comunidad, de forma práctica junto a otros",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "y mentores.",
@@ -153,25 +208,40 @@
     },
     {
       "source": "Crea tu proyecto de impacto social y preséntalo en un DemoDay.",
-      "en": "Create your social impact project and present it on a DemoDay.",
-      "es": "Crea tu proyecto de impacto social y preséntalo en un DemoDay.",
-      "reviewed": false,
+      "en": "Build a project with social impact and present it at a Demo Day.",
+      "es": "Crea un proyecto de impacto social y preséntalo en un Demo Day.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "aprendiendo inteligencia artificial en comunidad",
-      "en": "learning artificial intelligence in community",
+      "en": "Learning artificial intelligence together",
       "es": "aprendiendo inteligencia artificial en comunidad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los sábados te conectarás en directo durante 4 horas con el resto de tu grupo, además el sábado tendrás tutorías con tu mentor/a y se espera dediques unas 5-6 horas de trabajo asíncrono por tu cuenta.",
-      "en": "On Saturdays you will connect live for 4 hours with the rest of your group, plus on Saturday you will have tutorials with your mentor and you will be expected to dedicate about 5-6 hours of asynchronous work on your own.",
-      "es": "Los sábados te conectarás en directo durante 4 horas con el resto de tu grupo, además el sábado tendrás tutorías con tu mentor/a y se espera dediques unas 5-6 horas de trabajo asíncrono por tu cuenta.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "On Saturdays, you will have four hours of live sessions with your group and mentoring support. You should also allow five to six hours a week for independent study.",
+      "es": "Los sábados tendrás cuatro horas de sesiones en directo con tu grupo y tutorías con tu mentor o mentora. Además, se esperan entre cinco y seis horas semanales de trabajo por tu cuenta.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Según tu nivel de partida, podrás hacer el programa de Machine Learning o de Deep Learning.",
@@ -182,16 +252,26 @@
     },
     {
       "source": "Horario: GMT+2",
-      "en": "Time: GMT+2",
-      "es": "Horario: GMT+2",
-      "reviewed": false
+      "en": "Edition time zone: GMT+2",
+      "es": "Zona horaria de la edición: GMT+2",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Hemos preparado para ayudarte antes del curso y que puedas realizar el programa aunque empieces desde 0.",
-      "en": "We have prepared to help you before the course so that you can complete the program even if you start from 0.",
-      "es": "Hemos preparado para ayudarte antes del curso y que puedas realizar el programa aunque empieces desde 0.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Preparation resources help you strengthen your skills before starting the programme.",
+      "es": "Dispones de recursos de preparación para reforzar tus conocimientos antes de empezar el programa.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Únete a la lista de espera",
@@ -247,9 +327,14 @@
     },
     {
       "source": "AI Fellows graduados",
-      "en": "Graduated AI Fellows",
+      "en": "AI Fellows who completed the programme",
       "es": "AI Fellows graduados",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ciudades de todo el 🌍",
@@ -265,10 +350,15 @@
     },
     {
       "source": "La clave de AI Saturdays Online es la metodología práctica y divertida que sea crea al interactuar entre los alumnos, los mentores y los contenidos preparados.",
-      "en": "The key to AI Saturdays Online is the practical and fun methodology created by interacting between students, mentors and the prepared content.",
-      "es": "La clave de AI Saturdays Online es la metodología práctica y divertida que sea crea al interactuar entre los alumnos, los mentores y los contenidos preparados.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AI Saturdays Online brings students, mentors and learning materials together through a practical, participatory approach.",
+      "es": "La clave de AI Saturdays Online es una metodología práctica y participativa que conecta a estudiantes, mentores y materiales de aprendizaje.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los primeros 6 sábados del programa se basan en…",
@@ -291,11 +381,16 @@
     },
     {
       "source": "Durante la primera mitad del programa, aprenderemos los fundamentos del Machine Learning o Deep Learning.",
-      "en": "During the first half of the program, we will learn the basics of the Machine Learning or Deep Learning.",
+      "en": "During the first half of the programme, we learn the foundations of machine learning or deep learning.",
       "es": "Durante la primera mitad del programa, aprenderemos los fundamentos del Machine Learning o Deep Learning.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Coffee Break",
@@ -329,23 +424,38 @@
     },
     {
       "source": "Los últimas sábados del programa se basan en…",
-      "en": "The last Saturdays of the program are based on…",
-      "es": "Los últimas sábados del programa se basan en…",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The final Saturdays of the programme focus on…",
+      "es": "Los últimos sábados del programa se centran en…",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Trabajo de equipo",
-      "en": "team work",
-      "es": "Trabajo de equipo",
-      "reviewed": false
+      "en": "Teamwork",
+      "es": "Trabajo en equipo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la segunda mitad del programa, construimos prototipos. Trabajando con un conjunto de datos y un modelo de tu elección, abordamos un problema real con IA, buscando ideas de impacto social.",
-      "en": "In the second half of the program, we built prototypes. Working with a data set and model of your choice, we tackle a real problem with AI, looking for ideas of social impact.",
+      "en": "In the second half of the programme, we build prototypes. Using a dataset and a model of your choice, your team explores how AI could address a real problem with social impact.",
       "es": "En la segunda mitad del programa, construimos prototipos. Trabajando con un conjunto de datos y un modelo de tu elección, abordamos un problema real con IA, buscando ideas de impacto social.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Mentorías",
@@ -355,10 +465,15 @@
     },
     {
       "source": "Un mentor del equipo te guiará a ti y a tus compañeros durante el proyecto de impacto social. Terminarás publicando un artículo explicativo, una demo online y una presentación en el DemoDay.",
-      "en": "A team mentor will guide you and your colleagues during the social impact project. You will end up publishing an explanatory article, an online demo and a presentation at DemoDay.",
-      "es": "Un mentor del equipo te guiará a ti y a tus compañeros durante el proyecto de impacto social. Terminarás publicando un artículo explicativo, una demo online y una presentación en el DemoDay.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "A mentor supports your team throughout the project. At the end, you share an explanatory article, an online demo and a Demo Day presentation.",
+      "es": "Un mentor acompaña a tu equipo durante el proyecto. Al finalizar, compartiréis un artículo explicativo, una demostración en línea y una presentación en el Demo Day.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Recibimos muchas dudas sobre el contenido de los programas. Aquí puedes ver un esquema general aunque lo realmente importante es la organización de los retos en grupo y proyectos que realizarás.",
@@ -408,24 +523,39 @@
     },
     {
       "source": "Únete a una comunidad activa y autodidacta para aprender de forma intensa en 3 meses.",
-      "en": "Join an active and self-taught community to learn intensely in 3 months.",
-      "es": "Únete a una comunidad activa y autodidacta para aprender de forma intensa en 3 meses.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Join an active community and learn through hands-on work throughout the programme.",
+      "es": "Únete a una comunidad activa para aprender de forma práctica durante el programa.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Te ayudamos a encontrar un trabajo a tu medida, y a desarrollar habilidades de Data Scientist.",
-      "en": "We help you find a job that suits you, and develop Data Scientist skills.",
-      "es": "Te ayudamos a encontrar un trabajo a tu medida, y a desarrollar habilidades de Data Scientist.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Develop data science skills and practical experience to support your professional journey.",
+      "es": "Desarrolla habilidades de ciencia de datos y experiencia práctica que puedas compartir en tu trayectoria profesional.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El programa AI Saturday se basa en 3 etapas: la primera fase del programa sigue un enfoque práctico en ML o DL, la segunda fase consiste en la creación de proyectos de impacto social que se presentan a la comunidad en la última etapa, el DemoDay.",
-      "en": "The AI Saturday program is based on 3 stages: the first phase of the program follows a practical approach in ML or DL, the second phase consists of the creation of social impact projects that are presented to the community in the last stage, DemoDay.",
-      "es": "El programa AI Saturday se basa en 3 etapas: la primera fase del programa sigue un enfoque práctico en ML o DL, la segunda fase consiste en la creación de proyectos de impacto social que se presentan a la comunidad en la última etapa, el DemoDay.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AI Saturdays has three stages: learning machine learning or deep learning techniques, building a project with social impact, and sharing it with the community at Demo Day.",
+      "es": "AI Saturdays combina tres etapas: aprender técnicas de machine learning o deep learning, crear un proyecto de impacto social y compartirlo con la comunidad en el Demo Day.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Aquí puedes ver lo que opinan algunos AI Fellows 🙂",
@@ -443,9 +573,14 @@
     },
     {
       "source": "combinar",
-      "en": "combine",
+      "en": "bringing together",
       "es": "combinar",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "comunidades de",
@@ -467,16 +602,26 @@
     },
     {
       "source": "tecnología,",
-      "en": "technology,",
+      "en": "technology",
       "es": "tecnología,",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "es la mejor manera de catalizar el",
-      "en": "is the best way to catalyze the",
-      "es": "es la mejor manera de catalizar el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "can help drive",
+      "es": "es una forma de impulsar el",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "cambio",
@@ -542,9 +687,14 @@
     },
     {
       "source": "Apoya ai saturdays",
-      "en": "Support ai saturdays",
-      "es": "Apoya ai saturdays",
-      "reviewed": false
+      "en": "Support AI Saturdays",
+      "es": "Apoya AI Saturdays",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "FAQs",
@@ -560,10 +710,15 @@
     },
     {
       "source": "Si, hay dos niveles distintos: Machine Learning y Deep Learning. Para hacer el curso de Deep Learning se requieren conocimientos de Machine Learning y ambos cursos requieren un nivel intermedio de Python.",
-      "en": "Yes, there are two different levels: Machine Learning and Deep Learning. To take the Deep Learning course, knowledge of Machine Learning is required and both courses require an intermediate level of Python.",
-      "es": "Si, hay dos niveles distintos: Machine Learning y Deep Learning. Para hacer el curso de Deep Learning se requieren conocimientos de Machine Learning y ambos cursos requieren un nivel intermedio de Python.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Yes. There are two levels: machine learning and deep learning. The deep learning track requires prior knowledge of machine learning, and both tracks require intermediate Python skills.",
+      "es": "Sí, hay dos niveles: machine learning y deep learning. Para cursar deep learning se requieren conocimientos de machine learning. Ambos itinerarios requieren un nivel intermedio de Python.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Nuestros mentores te ayudarán a elegir el programa ideal para ti durante la fase",
@@ -587,9 +742,14 @@
     },
     {
       "source": "Puedes realizar",
-      "en": "You can perform",
+      "en": "You can take",
       "es": "Puedes realizar",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "estos test",
@@ -613,10 +773,15 @@
     },
     {
       "source": "Durante la semana trabajas y estudias el temario de la semana. Los sábados se repasará lo visto esa semana, se resolverán dudas y se plantearán desafíos en grupo para poner en práctica los conocimientos aprendidos.",
-      "en": "During the week you work and study the week's agenda. On Saturdays, what was seen that week will be reviewed, doubts will be resolved and group challenges will be posed to put the knowledge learned into practice.",
-      "es": "Durante la semana trabajas y estudias el temario de la semana. Los sábados se repasará lo visto esa semana, se resolverán dudas y se plantearán desafíos en grupo para poner en práctica los conocimientos aprendidos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "During the week, you study and practise the material. On Saturdays, we review it, answer questions and work on group challenges to put it into practice.",
+      "es": "Durante la semana estudias y practicas los contenidos. Los sábados repasamos lo aprendido, resolvemos dudas y planteamos retos en grupo para ponerlo en práctica.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Puedo preguntar dudas durante la semana?",
@@ -662,17 +827,27 @@
     },
     {
       "source": "Los proyectos deberán compartirse como código",
-      "en": "Projects must be shared as code",
-      "es": "Los proyectos deberán compartirse como código",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Projects are shared as",
+      "es": "Los proyectos se comparten como",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "abierto (y un artículo explicativo) en el estado que se encuentren el día de la presentación, pero podréis seguir trabajando en el proyecto una vez acabado el curso si así lo deseáis.",
-      "en": "open (and an explanatory article) in the state they are in on the day of the presentation, but you can continue working on the project once the course is over if you wish.",
-      "es": "abierto (y un artículo explicativo) en el estado que se encuentren el día de la presentación, pero podréis seguir trabajando en el proyecto una vez acabado el curso si así lo deseáis.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "open source, with an explanatory article, in their state on presentation day. You can continue developing them after the course.",
+      "es": "código abierto, junto con un artículo explicativo, en el estado en que se encuentren el día de la presentación. Después del curso podéis seguir desarrollándolos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿A qué va destinado el dinero?",
@@ -690,16 +865,26 @@
     },
     {
       "source": "Puedes verlo en nuestro repositorio de",
-      "en": "You can see it in our repository",
+      "en": "You can explore our",
       "es": "Puedes verlo en nuestro repositorio de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "y nuestra página de",
-      "en": "and our page",
+      "en": "repository and our page on",
       "es": "y nuestra página de",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Medium",
@@ -709,9 +894,14 @@
     },
     {
       "source": "aplicar aquí",
-      "en": "apply here",
-      "es": "aplicar aquí",
-      "reviewed": false
+      "en": "Ask for information here",
+      "es": "Solicita información aquí",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Qué diferencia AI Saturdays de otros programas?",
@@ -729,17 +919,27 @@
     },
     {
       "source": "No se trata de un curriculum escrito en piedra con todos los contenidos del Machine Learning. Pensamos que lo más realista para tener un impacto de verdad es poner a prueba a nuestra comunidad a través de retos cada semana, interactuar con mentores con experiencia real en el campo, y acabar creando y presentando un proyecto.",
-      "en": "It is not a curriculum written in stone with all the contents of Machine Learning. We think that the most realistic way to have a real impact is to test our community through challenges every week, interact with mentors with real experience in the field, and end up creating and presenting a project.",
-      "es": "No se trata de un curriculum escrito en piedra con todos los contenidos del Machine Learning. Pensamos que lo más realista para tener un impacto de verdad es poner a prueba a nuestra comunidad a través de retos cada semana, interactuar con mentores con experiencia real en el campo, y acabar creando y presentando un proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The programme combines weekly challenges, contact with mentors and a final project. It helps you connect knowledge with practice and share what you have learned.",
+      "es": "El programa combina retos semanales, contacto con mentores y un proyecto final. Así puedes conectar los conocimientos con la práctica y compartir lo que has aprendido.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Lo que más agradecen los alumnos es lo divertido del curso, la experiencia y el mapa general que consiguen una vez han terminado los tres meses. Algo difícil de conseguir realizando cursos online aburridos.",
-      "en": "What students appreciate most is the fun of the course, the experience and the general map that they get once the three months have ended. Something difficult to achieve by taking boring online courses.",
-      "es": "Lo que más agradecen los alumnos es lo divertido del curso, la experiencia y el mapa general que consiguen una vez han terminado los tres meses. Algo difícil de conseguir realizando cursos online aburridos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Accounts from previous editions highlight learning as a team, practical experience and the broader perspective the programme provides.",
+      "es": "Las experiencias de ediciones anteriores destacan el aprendizaje en equipo, la práctica y la visión de conjunto que aporta el programa.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿De dónde viene el nombre de AI Saturdays?",
@@ -750,10 +950,15 @@
     },
     {
       "source": "En 2018 un grupo de amigos que trabajábamos en sectores muy diversos queríamos juntarnos a aprender I.A. después de aburrirnos haciendo cursos online sin tener ninguna experiencia. Entonces, nos dimos cuenta que el único día que más o menos todo el mundo tenía libre fuera del trabajo y del descanso, son los sábados. Lanzamos un evento en Barcelona, después vino Ecuador, Monterrey, Madrid… Pronto empezamos a expandir por todo el mundo el modelo de aprendizaje en comunidad que habíamos creado.",
-      "en": "In 2018, a group of friends who worked in very diverse sectors wanted to get together to learn A.I. after getting bored doing online courses without having any experience. Then, we realized that the only day that more or less everyone has free outside of work and rest, are Saturdays. We launched an event in Barcelona, ​​then came Ecuador, Monterrey, Madrid... Soon we began to expand the community learning model that we had created throughout the world.",
-      "es": "En 2018 un grupo de amigos que trabajábamos en sectores muy diversos queríamos juntarnos a aprender I.A. después de aburrirnos haciendo cursos online sin tener ninguna experiencia. Entonces, nos dimos cuenta que el único día que más o menos todo el mundo tenía libre fuera del trabajo y del descanso, son los sábados. Lanzamos un evento en Barcelona, después vino Ecuador, Monterrey, Madrid… Pronto empezamos a expandir por todo el mundo el modelo de aprendizaje en comunidad que habíamos creado.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "In 2018, a group of friends from different fields wanted to learn AI together and put it into practice. Saturday was the day we could meet. We started with an event in Barcelona, followed by communities in Ecuador, Monterrey, Madrid and elsewhere. That experience shaped our approach to learning as a community.",
+      "es": "En 2018, un grupo de amigos de distintos sectores buscábamos aprender IA juntos y llevarla a la práctica. El sábado era el día en que podíamos reunirnos. Empezamos con un encuentro en Barcelona; después llegaron comunidades en Ecuador, Monterrey, Madrid y otros lugares. De esa experiencia nació nuestro modelo de aprendizaje en comunidad.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Y si tengo alguna pregunta más?",
@@ -764,10 +969,15 @@
     },
     {
       "source": "Te animamos a dejar tu correo en una de las cajas de arriba para recibir más información sobre la metodología, contenidos, etc.",
-      "en": "We encourage you to leave your email in one of the boxes above to receive more information about the methodology, contents, etc.",
-      "es": "Te animamos a dejar tu correo en una de las cajas de arriba para recibir más información sobre la metodología, contenidos, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Contact the team to learn about the approach, content and upcoming editions.",
+      "es": "Contacta con el equipo para conocer la metodología, los contenidos y las próximas ediciones.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "También puedes escribir a",
@@ -787,6 +997,107 @@
       "es": "Edición España AI Saturdays Online Especialízate en Machine y Deep Learning desde tu casa. Aprende en comunidad, de forma práctica junto a otros AI fellows y mentores. Crea tu proyecto de impacto social y preséntalo en un…",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Aprender a distancia, crear en comunidad",
+      "en": "Learn remotely, build together",
+      "es": "Aprender a distancia, crear en comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Archivo de ediciones anteriores",
+      "en": "Archive of previous editions",
+      "es": "Archivo de ediciones anteriores",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays Online reúne a personas que quieren aprender inteligencia artificial desde casa y aplicarla a un proyecto en equipo. La experiencia combina práctica, acompañamiento de mentores y un Demo Day para compartir lo aprendido.",
+      "en": "AI Saturdays Online brings together people who want to learn artificial intelligence from home and apply it to a team project. The experience combines hands-on practice, mentor support and a Demo Day to share what you have learned.",
+      "es": "AI Saturdays Online reúne a personas que quieren aprender inteligencia artificial desde casa y aplicarla a un proyecto en equipo. La experiencia combina práctica, acompañamiento de mentores y un Demo Day para compartir lo aprendido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Esta página conserva el programa y las experiencias de ediciones anteriores en España. Para conocer las próximas fechas, el nivel de entrada y la disponibilidad, consulta con el equipo.",
+      "en": "This page preserves the programme and experiences of previous editions in Spain. Ask the team about upcoming dates, entry requirements and availability.",
+      "es": "Esta página conserva el programa y las experiencias de ediciones anteriores en España. Para conocer las próximas fechas, el nivel de entrada y la disponibilidad, consulta con el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Consulta las próximas ediciones",
+      "en": "Ask about upcoming editions",
+      "es": "Consulta las próximas ediciones",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Explora los recursos para aprender",
+      "en": "Explore learning resources",
+      "es": "Explora los recursos para aprender",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AI Saturdays Online en España: aprende IA en equipo, desarrolla un proyecto y conecta con mentores. Consulta con el equipo las próximas ediciones.",
+      "en": "AI Saturdays Online in Spain: learn AI as a team, build a project and connect with mentors. Ask the team about upcoming editions.",
+      "es": "AI Saturdays Online en España: aprende IA en equipo, desarrolla un proyecto y conecta con mentores. Consulta con el equipo las próximas ediciones.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Los proyectos se comparten como código abierto, junto con un artículo explicativo, en el estado en que se encuentren el día de la presentación. Puedes seguir desarrollándolos después del curso.",
+      "es": "Los proyectos se comparten como código abierto, junto con un artículo explicativo, en el estado en que se encuentren el día de la presentación. Puedes seguir desarrollándolos después del curso.",
+      "en": "Projects are shared as open source, together with an explanatory article, in their state on presentation day. You can continue developing them after the course.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Nuestro equipo cree en el potencial de la IA para contribuir al bienestar de las personas. Conectamos comunidades, conocimiento y tecnología para aprender juntos y desarrollar proyectos útiles.",
+      "es": "Nuestro equipo cree en el potencial de la IA para contribuir al bienestar de las personas. Conectamos comunidades, conocimiento y tecnología para aprender juntos y desarrollar proyectos útiles.",
+      "en": "Our team believes AI can contribute to human well-being. We bring together communities, knowledge and technology to learn together and develop useful projects.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

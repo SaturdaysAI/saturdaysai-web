@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "Podcast T3/E9 – Lewis Tunstall – Las Partículas del Machine Learning",
-      "en": "Podcast T3 / E9 - Lewis Tunstall - The Particles of the Machine Learning",
+      "en": "Podcast S3/E9 – Lewis Tunstall – The building blocks of machine learning",
       "es": "Podcast T3/E9 – Lewis Tunstall – Las Partículas del Machine Learning",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "T3 / E9",

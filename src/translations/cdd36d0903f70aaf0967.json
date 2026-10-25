@@ -54,26 +54,56 @@
     {
       "source": "Download: 2+ Mbps recommended; minimum 1 Mbps.",
       "en": "Download: 2+ Mbps recommended; minimum 1 Mbps.",
-      "es": "Descargar: 2+ Mbps recomendado; mínimo 1 Mbps.",
+      "es": "Descarga: se recomiendan 2+ Mbps; mínimo 1Mbps.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Upload: 0.5 Mbps.",
       "en": "Upload: 0.5 Mbps.",
-      "es": "Subir: 0,5 Mbps.",
+      "es": "Subida: 0,5 Mbps.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Mobile Data: Reliable Wi-Fi or cellular data connection.",
       "en": "Mobile Data: Reliable Wi-Fi or cellular data connection.",
-      "es": "Datos móviles: Conexión confiable de datos Wi-Fi o celular.",
+      "es": "Datos móviles: Wi-Fi confiable o conexión de datos móviles.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "PC: Windows 7 or higher with the latest updates installed.",
@@ -96,37 +126,88 @@
     {
       "source": "Linux: Any recent distribution that has the supported browsers installed.",
       "en": "Linux: Any recent distribution that has the supported browsers installed.",
-      "es": "Linux: Cualquier distribución reciente que tenga instalados los navegadores compatibles.",
+      "es": "Linux: cualquier distribución reciente que tenga instalados los navegadores compatibles.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ubuntu: 17.10+ or 14.04 LTS+.",
-      "en": "Ubuntu: 17.10 + or 14.04 LTS +.",
+      "en": "Ubuntu: 17.10+ or 14.04 LTS+.",
       "es": "Ubuntu: 17.10+ or 14.04 LTS+.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ability to watch YouTube videos is required.",
       "en": "Ability to watch YouTube videos is required.",
-      "es": "Es necesario tener la capacidad de ver videos de YouTube.",
+      "es": "Se requiere capacidad para ver videos de YouTube.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Technology Requirements Please read the following information to ensure your device is compatible with the Saturdays.AI learning platform, community & experience. Browser An up-to-date version of Chrome, Firefox, Safari, Opera…",
       "en": "Technology Requirements Please read the following information to ensure your device is compatible with the Saturdays.AI learning platform, community & experience. Browser An up-to-date version of Chrome, Firefox, Safari, Opera…",
-      "es": "Requisitos de tecnología Por favor lea la siguiente información para asegurar que su dispositivo es compatible con la plataforma de aprendizaje de los Saturdays.AI, la comunidad & experiencia. Navegador Una versión actualizada de Chrome, Firefox, Safari, Opera...",
+      "es": "Requisitos tecnológicos Lea la siguiente información para asegurarse de que su dispositivo sea compatible con la plataforma de aprendizaje, la comunidad y la experiencia Saturdays.AI. Navegador Una versión actualizada de Chrome, Firefox, Safari, Opera…",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
+    },
+    {
+      "source": "Requisitos técnicos y recomendaciones para acceder a los recursos de aprendizaje de Saturdays.AI desde tu ordenador.",
+      "en": "Technical requirements and guidance for accessing Saturdays.AI learning resources on your computer.",
+      "es": "Requisitos técnicos y recomendaciones para acceder a los recursos de aprendizaje de Saturdays.AI desde tu ordenador.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

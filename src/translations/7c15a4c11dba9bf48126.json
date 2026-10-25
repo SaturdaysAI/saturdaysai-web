@@ -366,12 +366,22 @@
     },
     {
       "source": "Interfaz en Chat Conversacional de StarCoder",
-      "en": "Interface in StarCoder Conversational Chat",
+      "en": "StarCoder Conversational Chat Interface",
       "es": "Interfaz en Chat Conversacional de StarCoder",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El rendimiento de estos modelos ha sido evaluado exhaustivamente y se encontró está entre los mejores modelos de lenguaje de código abierto. En particular, StarCoder y StarCoderBase demostraron su superioridad en términos de precisión y velocidad de inferencia, lo que los convierte en excelentes alternativas para los LLMs cerrados como",

@@ -1,9 +1,6 @@
 ---
 title: Monterrey
-description: Saturdays.AI Monterrey 🌍 Nuestra misión es capacitar a personas
-  para que aprendan inteligencia artificial en un ambiente moderno con
-  ejercicios prácticos, colaborativo y de enfoque social donde el estudio se ve
-  reforzado con…
+description: "Descubre la comunidad de Saturdays.AI en Monterrey. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/c6b395e607a555c0.webp
 legacyPath: /monterrey-ai/
 sourceUrl: https://saturdays.ai/monterrey-ai/

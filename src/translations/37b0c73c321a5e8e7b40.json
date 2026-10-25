@@ -77,10 +77,15 @@
     {
       "source": "6 learning paths to explore.",
       "en": "6 learning paths to explore.",
-      "es": "6 caminos de aprendizaje para explorar.",
-      "reviewed": false,
+      "es": "6 itinerarios para explorar.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Python for AI",
@@ -92,10 +97,15 @@
     {
       "source": "Build your foundations. Go from your first line of Python to thinking in code.",
       "en": "Build your foundations. Go from your first line of Python to thinking in code.",
-      "es": "Construye tus cimientos. Pase de su primera línea de Python a pensar en código.",
-      "reviewed": false,
+      "es": "Crea una base sólida. Pasa de tu primera línea de Python a pensar en código.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Python for AI",
@@ -143,46 +153,76 @@
     {
       "source": "Prompt engineering",
       "en": "Prompt engineering",
-      "es": "ingeniería de prompts",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Ingeniería de prompts",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Work with context, RAG, agents and practical projects to take your prompts further.",
       "en": "Work with context, RAG, agents and practical projects to take your prompts further.",
-      "es": "Trabaje con contexto, RAG, agentes y proyectos prácticos para llevar sus indicaciones más allá.",
-      "reviewed": false,
+      "es": "Trabaja con contexto, RAG, agentes y proyectos prácticos para mejorar tus prompts.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Prompt engineering",
       "en": "Explore Prompt engineering",
-      "es": "Explorar la ingeniería de prompts",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Explora la ingeniería de prompts",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Data mining & Hugging Face",
       "en": "Data mining & Hugging Face",
       "es": "Minería de datos y Hugging Face",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Discover patterns in data and learn to deploy a model through a hands-on project.",
       "en": "Discover patterns in data and learn to deploy a model through a hands-on project.",
-      "es": "Descubra patrones en los datos y aprenda a implementar un modelo a través de un proyecto práctico.",
-      "reviewed": false,
+      "es": "Descubre patrones en los datos y aprende a desplegar un modelo con un proyecto práctico.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Data mining & Hugging Face",
       "en": "Explore Data mining & Hugging Face",
-      "es": "Explora la minería de datos y abrazar la cara",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Explora minería de datos y Hugging Face",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pandas for data science",
@@ -194,10 +234,15 @@
     {
       "source": "Learn to clean, explore and transform data with one of Python’s essential tools.",
       "en": "Learn to clean, explore and transform data with one of Python’s essential tools.",
-      "es": "Aprenda a limpiar, explorar y transformar datos con una de las herramientas esenciales de Python.",
-      "reviewed": false,
+      "es": "Aprende a limpiar, explorar y transformar datos con una de las herramientas esenciales de Python.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Pandas for data science",
@@ -216,17 +261,27 @@
     {
       "source": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
       "en": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
-      "es": "Explore agentes que aprenden haciendo, desde Q-learning hasta aprendizaje por refuerzo profundo.",
-      "reviewed": false,
+      "es": "Explora agentes que aprenden mediante la interacción, desde Q-learning hasta el aprendizaje por refuerzo profundo.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore Reinforcement learning",
       "en": "Explore Reinforcement learning",
-      "es": "Explorar el aprendizaje por refuerzo",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Explora el aprendizaje por refuerzo",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Courses open on the Saturdays.AI learning platform. Programme details open here.",
@@ -246,17 +301,27 @@
     {
       "source": "Try another topic or explore all levels.",
       "en": "Try another topic or explore all levels.",
-      "es": "Pruebe otro tema o explore todos los niveles.",
-      "reviewed": false,
+      "es": "Prueba con otro tema o explora todos los niveles.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Show all paths",
       "en": "Show all paths",
-      "es": "Mostrar todos los caminos",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Mostrar todos los itinerarios",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "BETTER TOGETHER",
@@ -297,10 +362,15 @@
     {
       "source": "More learning paths and programme information",
       "en": "More learning paths and programme information",
-      "es": "Más rutas de aprendizaje e información del programa",
-      "reviewed": false,
+      "es": "Más itinerarios e información sobre los programas",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Build AI skills online",
@@ -311,19 +381,29 @@
     },
     {
       "source": "Get the skills you need for the future of work!",
-      "en": "Get the skills you need for the future of work!",
-      "es": "¡Obtenga las habilidades que necesita para el futuro del trabajo!",
-      "reviewed": false,
+      "en": "Build skills for the future of work.",
+      "es": "Desarrolla habilidades para el futuro del trabajo.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
-      "en": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
-      "es": "Aprenda sobre la IA desde 0, con cursos online sobre Python, ciencia de datos, ingeniería de prompts, aprendizaje automático y nuevas tecnologías.",
-      "reviewed": false,
+      "en": "Learn AI from scratch with courses in Python, data science, prompt engineering and machine learning.",
+      "es": "Aprende IA desde cero con cursos de Python, ciencia de datos, ingeniería de prompts y aprendizaje automático.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "What's great about our courses",
@@ -516,11 +596,21 @@
     {
       "source": "We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.",
       "en": "We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.",
-      "es": "Cubrimos desde un tema caliente de la PV de pájaro como LLMs, Diffusion y por supuesto, qué herramientas y «tricks» podemos utilizar para generar lo que queremos.",
+      "es": "Cubrimos desde un punto de vista de pájaro temas candentes como LLM, Difusión y por supuesto, qué herramientas y «trucos» podemos utilizar para generar lo que queremos.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "This particular field (",
@@ -539,11 +629,21 @@
     {
       "source": ") is changing superfast, so we are going to keep updating the content often.",
       "en": ") is changing superfast, so we are going to keep updating the content often.",
-      "es": ") está cambiando superfast, por lo que vamos a seguir actualizando el contenido a menudo.",
+      "es": ") está cambiando muy rápido, por lo que seguiremos actualizando el contenido con frecuencia.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Data Mining y Hugging Face",
@@ -616,18 +716,33 @@
     {
       "source": "girl moving connecting to the future",
       "en": "girl moving connecting to the future",
-      "es": "chica que se mueve conecta con el futuro",
+      "es": "niña moviéndose conectándose al futuro",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "in English",
-      "en": "in English",
-      "es": "in English",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "In English",
+      "es": "En inglés",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "* Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.",
@@ -640,12 +755,17 @@
     },
     {
       "source": "Lay the grounds to kick start your Data Science superpowers.",
-      "en": "Lay the grounds to kick start your Data Science superpowers.",
-      "es": "Coloca los terrenos para iniciar tus superpotencias de la Ciencia de Datos.",
-      "reviewed": false,
+      "en": "Build a solid foundation in data science.",
+      "es": "Construye una base sólida en ciencia de datos.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pandas Data Science",
@@ -695,9 +815,14 @@
     {
       "source": "SCIPY COURSE",
       "en": "SCIPY COURSE",
-      "es": "SCIPY COURSE",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "CURSO DE SCIPY",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "SciPy Data Science",
@@ -724,28 +849,48 @@
     {
       "source": "Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI.",
       "en": "Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI.",
-      "es": "Explore las trayectorias prácticas de aprendizaje en Python, IA generativa, ciencia de datos y aprendizaje automático. Aprenda a su propio ritmo con los Saturdays.AI.",
-      "reviewed": false,
+      "es": "Explora itinerarios prácticos de Python, IA generativa, ciencia de datos y aprendizaje automático. Aprende a tu ritmo con Saturdays.AI.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Find your AI learning path",
       "en": "Find your AI learning path",
-      "es": "Encuentre su camino de aprendizaje de IA",
-      "reviewed": false,
+      "es": "Encuentra tu itinerario para aprender IA",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "All learning paths are listed below. Search and level filters require JavaScript.",
       "en": "All learning paths are listed below. Search and level filters require JavaScript.",
-      "es": "Todos los caminos de aprendizaje se enumeran a continuación. Los filtros de búsqueda y nivel requieren JavaScript.",
+      "es": "Todas las rutas de aprendizaje se enumeran a continuación. Los filtros de búsqueda y nivel requieren JavaScript.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Join now",
@@ -758,18 +903,38 @@
     {
       "source": "EN - Join now",
       "en": "EN - Join now",
-      "es": "EN - Únete ahora",
+      "es": "ES - Únete ahora",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Empieza",
-      "en": "Start",
+      "en": "Get started",
       "es": "Empieza",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Spanish Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar",

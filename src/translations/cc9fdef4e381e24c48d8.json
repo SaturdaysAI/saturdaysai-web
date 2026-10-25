@@ -4,12 +4,17 @@
   "segments": [
     {
       "source": "La IA como recurso para reducir la desertificación",
-      "en": "IA as a resource for reducing desertification",
+      "en": "AI as a tool to reduce desertification",
       "es": "La IA como recurso para reducir la desertificación",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "EL problema de la desertificación La desertificación afecta a más de 15000 millones de personas en todo el mundo. Generalmente, las más afectadas son aquellas con un estatus social bajo y que viven en las zonas más vulnerables…",
@@ -22,21 +27,41 @@
     },
     {
       "source": "EL problema de la desertificación",
-      "en": "Desertification",
+      "en": "THE problem of desertification",
       "es": "EL problema de la desertificación",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La IA y la desertificación",
-      "en": "IA and desertification",
+      "en": "AI and desertification",
       "es": "La IA y la desertificación",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "VARIABLES BIOFÍSICAS",
@@ -48,71 +73,151 @@
     },
     {
       "source": "Estrés hídrico de la vegetación y estado reservas de agua subterránea:",
-      "en": "Water stress of vegetation and state reserves of groundwater:",
+      "en": "Water stress of vegetation and state of groundwater reserves:",
       "es": "Estrés hídrico de la vegetación y estado reservas de agua subterránea:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "–Identificación precisa de pastizales y de carbono orgánico en el suelo:",
-      "en": "-Precise identification of pastures and organic carbon in soil:",
+      "en": "–Accurate identification of grasslands and organic carbon in the soil:",
       "es": "–Identificación precisa de pastizales y de carbono orgánico en el suelo:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "–Imágenes de satélite:",
-      "en": "-Satellite images:",
+      "en": "–Satellite images:",
       "es": "–Imágenes de satélite:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "VARIABLES SOCIO-ECONÓMICAS",
-      "en": "Social and economic rights",
+      "en": "SOCIO-ECONOMIC VARIABLES",
       "es": "VARIABLES SOCIO-ECONÓMICAS",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "–Densidad de población:",
-      "en": "- Population density:",
+      "en": "–Population density:",
       "es": "–Densidad de población:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "–Asociación de la renta media y la desertificación:",
-      "en": "- Association of middle income and desertification:",
+      "en": "–Association of middle income and desertification:",
       "es": "–Asociación de la renta media y la desertificación:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "–La agricultura a gran escala, de regadío y el sobrepastoreo:",
-      "en": "- Large-scale, irrigated and overgrazing agriculture:",
+      "en": "–Large-scale, irrigated agriculture and overgrazing:",
       "es": "–La agricultura a gran escala, de regadío y el sobrepastoreo:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Preventing desertification",
       "en": "Preventing desertification",
-      "es": "Prevención de la desertificación",
+      "es": "Prevenir la desertificación",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La desertificación afecta a más de 15000 millones de personas en todo el mundo. Generalmente, las más afectadas son aquellas con un estatus social bajo y que viven en las zonas más vulnerables del planeta.",
@@ -125,38 +230,78 @@
     },
     {
       "source": "Cuando hablamos de desertificación, nos referimos a la degradación que la tierra sufre en zonas áridas, semiáridas y secosubhúmedas. Esto se debe mayoritariamente a la gran exposición de las actividades humanas, como la desforestación o bien la sobreexplotación de recursos y por otro lado, las variaciones climáticas que sufre nuestro planeta en forma de sequías o lluvias torrenciales. La mayoría de veces, esta desertificación es irreversible afectando directamente a la pérdida de productividad.",
-      "en": "When we talk about desertification, we refer to the degradation that the land suffers in arid, semi-arid and dry-humid areas. This is mostly due to the high exposure of human activities, such as deforestation or over-exploitation of resources, and on the other hand, the climatic variations that our planet suffers in the form of droughts or torrential rains. Most of the time, this desertification is irreversible directly affecting the loss of productivity.",
+      "en": "When we talk about desertification, we refer to the degradation that the land suffers in arid, semi-arid and dry-subhumid areas. This is mainly due to the great exposure of human activities, such as deforestation or the overexploitation of resources and, on the other hand, the climatic variations that our planet suffers in the form of droughts or torrential rains. Most of the time, this desertification is irreversible, directly affecting the loss of productivity.",
       "es": "Cuando hablamos de desertificación, nos referimos a la degradación que la tierra sufre en zonas áridas, semiáridas y secosubhúmedas. Esto se debe mayoritariamente a la gran exposición de las actividades humanas, como la desforestación o bien la sobreexplotación de recursos y por otro lado, las variaciones climáticas que sufre nuestro planeta en forma de sequías o lluvias torrenciales. La mayoría de veces, esta desertificación es irreversible afectando directamente a la pérdida de productividad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Algunos de los territorios en riesgo son parte del continente africano, de EUA, América de Sur, Australia o España. Para reducir el impacto que la desertificación produce en estas áreas deben ser tratados los factores políticos, socioeconómicos, científicos y/o sociales del momento con el objetivo de conseguir las medidas adecuadas para reducir los efectos que desafortunadamente este suceso conlleva.",
-      "en": "Some of the territories at risk are part of the African continent, of the United States, South America, Australia or Spain. To reduce the impact that desertification produces in these areas, the political, socio-economic, scientific and / or social factors of the moment must be treated with the aim of achieving appropriate measures to reduce the effects that this event unfortunately entails.",
+      "en": "Some of the territories at risk are part of the African continent, the USA, South America, Australia or Spain. To reduce the impact that desertification produces in these areas, the political, socioeconomic, scientific and/or social factors of the moment must be treated with the aim of achieving appropriate measures to reduce the effects that this event unfortunately entails.",
       "es": "Algunos de los territorios en riesgo son parte del continente africano, de EUA, América de Sur, Australia o España. Para reducir el impacto que la desertificación produce en estas áreas deben ser tratados los factores políticos, socioeconómicos, científicos y/o sociales del momento con el objetivo de conseguir las medidas adecuadas para reducir los efectos que desafortunadamente este suceso conlleva.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para los diferentes estudios de la desertificación en las distintas áreas del planeta con riego se utilizan varias técnicas de inteligencia artificial con la finalidad de poder analizar de una forma más exhaustiva todos los datos conseguidos. Para el aprendizaje automático, los métodos más recurrentes son la utilización de:",
-      "en": "For the different studies of desertification in the different areas of the planet with irrigation, several techniques of artificial intelligence are used in order to be able to analyse in a more comprehensive way all the data obtained. For automatic learning, the most recurrent methods are the use of:",
+      "en": "For the different studies of desertification in the different areas of the planet with irrigation, various artificial intelligence techniques are used in order to be able to analyze all the data obtained in a more exhaustive way. For machine learning, the most common methods are the use of:",
       "es": "Para los diferentes estudios de la desertificación en las distintas áreas del planeta con riego se utilizan varias técnicas de inteligencia artificial con la finalidad de poder analizar de una forma más exhaustiva todos los datos conseguidos. Para el aprendizaje automático, los métodos más recurrentes son la utilización de:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Vecino más cercano (K-NN)",
-      "en": "nearest neighbourhood (K-NN)",
+      "en": "Nearest Neighbor (K-NN)",
       "es": "Vecino más cercano (K-NN)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Randomforest (RF)",
@@ -176,30 +321,60 @@
     },
     {
       "source": ". Por otro lado, encontramos también el aprendizaje profundo, entre estos destacar el uso de:",
-      "en": "On the other hand, we also find deep learning, among them the use of:",
+      "en": ". On the other hand, we also find deep learning, among which the use of:",
       "es": ". Por otro lado, encontramos también el aprendizaje profundo, entre estos destacar el uso de:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Perceptrón multicapa (MLP) o las Redes Neuronales Convolucionales (CNN).",
-      "en": "Multilayer Perceptron (MLP) or the Convoltional Neuronal Networks (CNN).",
+      "en": "Multilayer perceptron (MLP) or Convolutional Neural Networks (CNN).",
       "es": "Perceptrón multicapa (MLP) o las Redes Neuronales Convolucionales (CNN).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Dejando de lado las metodologías utilizadas para el análisis de datos, debemos considerar también de dos tipos de variables para analizar cada una de las distintas situaciones. Así pues, por un lado encontramos las variables biofísicas y por el otro, las socioeconómicas.",
-      "en": "Leaving aside the methodologies used for data analysis, we must also consider two types of variables to analyse each of the different situations. Thus, on the one hand, we find biophysical variables and on the other, socio-economic variables.",
+      "en": "Leaving aside the methodologies used for data analysis, we must also consider two types of variables to analyze each of the different situations. Thus, on the one hand we find the biophysical variables and on the other, the socioeconomic variables.",
       "es": "Dejando de lado las metodologías utilizadas para el análisis de datos, debemos considerar también de dos tipos de variables para analizar cada una de las distintas situaciones. Así pues, por un lado encontramos las variables biofísicas y por el otro, las socioeconómicas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Índice de aridez",
@@ -211,12 +386,22 @@
     },
     {
       "source": "Se calcula mediante el ratio de la precipitación anual y la evapotranspiración potencial anual (variable entre el rango de 0.05 y 0.65). Gracias al uso de",
-      "en": "It is calculated by the ratio of annual precipitation and annual potential evapotranspiration (variable between the range of 0.05 and 0.65).",
+      "en": "It is calculated by the ratio of annual precipitation and annual potential evapotranspiration (variable between the range of 0.05 and 0.65). Thanks to the use of",
       "es": "Se calcula mediante el ratio de la precipitación anual y la evapotranspiración potencial anual (variable entre el rango de 0.05 y 0.65). Gracias al uso de",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "RandomForest, XGBoostasí",
@@ -237,30 +422,60 @@
     },
     {
       "source": "Las redes neuronales convolucionales se han utilizado para completar datos de anomalías en la estimación de almacenamiento de agua terrestre. Por otro lado, el uso del aprendizaje profundo con imágenes térmicas infrarrojas se ha identificado también como una técnica muy útil para la evaluación del estrés hídrico de los cultivos y de la vegetación natural.",
-      "en": "The convolutional neural networks have been used to complete data of anomalies in the estimation of terrestrial water storage. On the other hand, the use of deep learning with infrared thermal images has also been identified as a very useful technique for the assessment of the water stress of crops and natural vegetation.",
+      "en": "Convolutional neural networks have been used to complete anomaly data in terrestrial water storage estimation. On the other hand, the use of deep learning with infrared thermal images has also been identified as a very useful technique for the evaluation of water stress of crops and natural vegetation.",
       "es": "Las redes neuronales convolucionales se han utilizado para completar datos de anomalías en la estimación de almacenamiento de agua terrestre. Por otro lado, el uso del aprendizaje profundo con imágenes térmicas infrarrojas se ha identificado también como una técnica muy útil para la evaluación del estrés hídrico de los cultivos y de la vegetación natural.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Identificación precisa de pastizales y de carbono orgánico en el suelo:",
-      "en": "Precise identification of pastures and organic carbon in soil:",
+      "en": "Accurate identification of grasslands and soil organic carbon:",
       "es": "Identificación precisa de pastizales y de carbono orgánico en el suelo:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A través de la combinación del aprendizaje automático y el profundo conseguimos detectar la vegetación y el tipo de suelo a partir de los resultados precisos generados a partir de los algoritmos.",
-      "en": "Through the combination of automatic and deep learning we can detect vegetation and soil type from the precise results generated from the algorithms.",
+      "en": "Through the combination of machine and deep learning we manage to detect the vegetation and soil type from the precise results generated from the algorithms.",
       "es": "A través de la combinación del aprendizaje automático y el profundo conseguimos detectar la vegetación y el tipo de suelo a partir de los resultados precisos generados a partir de los algoritmos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Imágenes de satélite:",
@@ -272,12 +487,22 @@
     },
     {
       "source": "A partir de señales abruptas debido a los cambios en la cubierta vegetal, posteriormente se pueden elaborar mapas precisos de zonas deforestadas a partir del aprendizaje profundo. En comparación al aprendizaje automático, que este nos permitirá por otro lado, predecir zonas potenciales de deforestación para poder conseguir una mejor gestión del territorio afectado.",
-      "en": "From abrupt signals due to changes in the plant cover, precise maps of deforested areas can then be developed from deep learning. Compared to automatic learning, which will allow us to predict potential areas of deforestation in order to achieve better management of the affected territory.",
+      "en": "Based on abrupt signals due to changes in vegetation cover, precise maps of deforested areas can subsequently be created using deep learning. In comparison to machine learning, which will allow us, on the other hand, to predict potential areas of deforestation in order to achieve better management of the affected territory.",
       "es": "A partir de señales abruptas debido a los cambios en la cubierta vegetal, posteriormente se pueden elaborar mapas precisos de zonas deforestadas a partir del aprendizaje profundo. En comparación al aprendizaje automático, que este nos permitirá por otro lado, predecir zonas potenciales de deforestación para poder conseguir una mejor gestión del territorio afectado.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Densidad de población:",
@@ -289,21 +514,41 @@
     },
     {
       "source": "La inteligencia artificial nos puede ayudar a cuantificar las redes comerciales productor-consumidor a nivel global y consecuentemente conocer el impacto de la ciudad en el campo. Además, imágenes de drones, aviones o satélites nos permiten elaborar mapas urbanos precisos que nos ayudan a predecir la expansión del territorio urbano.",
-      "en": "Artificial intelligence can help us quantify the commercial production-consumer networks globally and consequently know the impact of the city on the field. In addition, images of drones, planes or satellites allow us to produce precise urban maps that help us predict the expansion of urban territory.",
+      "en": "Artificial intelligence can help us quantify producer-consumer commercial networks at a global level and consequently know the impact of the city on the countryside. In addition, images from drones, airplanes or satellites allow us to create precise urban maps that help us predict the expansion of urban territory.",
       "es": "La inteligencia artificial nos puede ayudar a cuantificar las redes comerciales productor-consumidor a nivel global y consecuentemente conocer el impacto de la ciudad en el campo. Además, imágenes de drones, aviones o satélites nos permiten elaborar mapas urbanos precisos que nos ayudan a predecir la expansión del territorio urbano.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Asociación de la renta media y la desertificación:",
-      "en": "Association of Middle Income and Desertification:",
+      "en": "Association of middle income and desertification:",
       "es": "Asociación de la renta media y la desertificación:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Usando imágenes satelitales y aprendizaje profundo podemos entender el bienestar económico de la población en los distintos países.",
@@ -316,12 +561,22 @@
     },
     {
       "source": "La agricultura a gran escala, de regadío y el sobrepastoreo:",
-      "en": "Large-scale, irrigated and overgrazing agriculture:",
+      "en": "Large-scale, irrigated agriculture and overgrazing:",
       "es": "La agricultura a gran escala, de regadío y el sobrepastoreo:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La inteligencia artificial está ampliamente aplicada en distintos estudios de la agricultura a fin de poder conseguir una gestión sostenible de los recursos para combatir la desertificación.",
@@ -342,30 +597,148 @@
     },
     {
       "source": "A) Mapa conceptual en relación con “inteligencia artificial” + “desertificación” en el que se pueden ver los vínculos entre los términos que actualmente reciben más atención (hasta 2020) en las publicaciones científicas identificadas. B) Conexiones con “landdegradation”. C) Conexiones con los métodos basados en inteligencia artificial, donde se puede observar “neural networks” como término con gran importancia .",
-      "en": "A) Conceptual map in relation to \"artificial intelligence\" + \"desertification\" in which the links between the terms that are currently receiving more attention (up to 2020) can be seen in the scientific publications identified. B) Connections to \"landdegradation.\" C) Connections to methods based on artificial intelligence, where \"neural networks\" can be observed as a term with great importance.",
+      "en": "A) Conceptual map in relation to “artificial intelligence” + “desertification” in which you can see the links between the terms that currently receive the most attention (until 2020) in the identified scientific publications. B) Connections with “landdegradation”. C) Connections with methods based on artificial intelligence, where “neural networks” can be observed as a term with great importance.",
       "es": "A) Mapa conceptual en relación con “inteligencia artificial” + “desertificación” en el que se pueden ver los vínculos entre los términos que actualmente reciben más atención (hasta 2020) en las publicaciones científicas identificadas. B) Conexiones con “landdegradation”. C) Conexiones con los métodos basados en inteligencia artificial, donde se puede observar “neural networks” como término con gran importancia .",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En resumen, la inteligencia artificial aplicada en el campo de la desertificación, nos permite dar respuesta a dónde y cuándo podría ocurrir esta. No obstante, cabe remarcar que el estudio es complejo por la cantidad de factores a tener en cuenta. Debemos trabajar de manera síncrona con las distintas escalas espaciales y temporales siendo conscientes de las dificultades que esto supone y teniendo en cuenta además las variables biofísicas y socioeconómicas para tratar la desertificación y abordar el problema que esta ocasiona. Una vez conocido el impacto que tienen estos condicionantes, podremos incidir en las soluciones más adecuadas en cada una de las áreas.",
-      "en": "In short, the artificial intelligence applied in the field of desertification, allows us to respond to where and when this might occur. However, it should be noted that the study is complex because of the number of factors to be taken into account. We must work in a synchronous way with the different spatial and temporal scales, being aware of the difficulties that this entails and taking into account also the biophysical and socio-economic variables to deal with desertification and the problem that this causes. Once we know the impact of these conditioners, we can have an impact on the most appropriate solutions in each of the areas.",
+      "en": "In summary, artificial intelligence applied in the field of desertification allows us to respond to where and when it could occur. However, it should be noted that the study is complex due to the number of factors to be taken into account. We must work synchronously with the different spatial and temporal scales, being aware of the difficulties this entails and also taking into account the biophysical and socioeconomic variables to treat desertification and address the problem it causes. Once we know the impact that these conditions have, we will be able to influence the most appropriate solutions in each of the areas.",
       "es": "En resumen, la inteligencia artificial aplicada en el campo de la desertificación, nos permite dar respuesta a dónde y cuándo podría ocurrir esta. No obstante, cabe remarcar que el estudio es complejo por la cantidad de factores a tener en cuenta. Debemos trabajar de manera síncrona con las distintas escalas espaciales y temporales siendo conscientes de las dificultades que esto supone y teniendo en cuenta además las variables biofísicas y socioeconómicas para tratar la desertificación y abordar el problema que esta ocasiona. Una vez conocido el impacto que tienen estos condicionantes, podremos incidir en las soluciones más adecuadas en cada una de las áreas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "1.-Guirado, E., Martínez-Valderrama, J. 2021. Potencial de la inteligencia artificial para avanzar en el estudio de la desertificación. Ecosistemas 30(3): 2250.",
-      "en": "1.-Guirado, E., Martinez-Valderrama, J. 2021. Potential of artificial intelligence to advance the study of desertification. Ecosystems 30 (3): 2250.",
+      "en": "1.-Guirado, E., Martínez-Valderrama, J. 2021. Potential of artificial intelligence to advance the study of desertification. Ecosystems 30(3): 2250.",
       "es": "1.-Guirado, E., Martínez-Valderrama, J. 2021. Potencial de la inteligencia artificial para avanzar en el estudio de la desertificación. Ecosistemas 30(3): 2250.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
+    },
+    {
+      "source": "Cómo pueden contribuir la inteligencia artificial y los datos al estudio de la desertificación y a una gestión más sostenible del territorio.",
+      "en": "How artificial intelligence and data can contribute to the study of desertification and more sustainable land management.",
+      "es": "Cómo pueden contribuir la inteligencia artificial y los datos al estudio de la desertificación y a una gestión más sostenible del territorio.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Actualizado",
+      "en": "Updated",
+      "es": "Actualizado",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "25 oct 2026",
+      "en": "25 Oct 2026",
+      "es": "25 oct 2026",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "El problema de la desertificación",
+      "en": "The problem of desertification",
+      "es": "El problema de la desertificación",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "La desertificación amenaza los medios de vida de muchas comunidades, especialmente de las personas con menos recursos en zonas vulnerables. Una síntesis de la UNCCD publicada en 2021 situaba en más de 1.000 millones las personas cuyos medios de vida estaban amenazados por este proceso.",
+      "en": "Desertification threatens the livelihoods of many communities, especially people with fewer resources in vulnerable areas. A UNCCD briefing published in 2021 reported that this process threatened the livelihoods of more than one billion people.",
+      "es": "La desertificación amenaza los medios de vida de muchas comunidades, especialmente de las personas con menos recursos en zonas vulnerables. Una síntesis de la UNCCD publicada en 2021 situaba en más de 1.000 millones las personas cuyos medios de vida estaban amenazados por este proceso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Fuente: UNCCD, tierra y salud humana, 2021",
+      "en": "Source: UNCCD, land and human health, 2021",
+      "es": "Fuente: UNCCD, tierra y salud humana, 2021",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Nota editorial del 25 de octubre de 2026: se ha corregido la cifra de población de la versión original y se ha añadido la fuente. El artículo conserva su contexto de publicación de 2022.",
+      "en": "Editorial note, 25 October 2026: the population figure in the original version has been corrected and a source added. The article retains its original 2022 publication context.",
+      "es": "Nota editorial del 25 de octubre de 2026: se ha corregido la cifra de población de la versión original y se ha añadido la fuente. El artículo conserva su contexto de publicación de 2022.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "La desertificación es la degradación de la tierra en zonas áridas, semiáridas y subhúmedas secas. Puede deberse a variaciones climáticas y a actividades humanas, como la deforestación o la sobreexplotación de recursos. Reduce la productividad de la tierra; prevenirla, reducirla y restaurar las zonas afectadas requiere medidas adaptadas a cada contexto.",
+      "en": "Desertification is land degradation in arid, semi-arid and dry sub-humid areas. It can result from climate variations and human activities such as deforestation or overexploitation of resources. It reduces land productivity; preventing and reducing it, and restoring affected areas, requires measures adapted to each context.",
+      "es": "La desertificación es la degradación de la tierra en zonas áridas, semiáridas y subhúmedas secas. Puede deberse a variaciones climáticas y a actividades humanas, como la deforestación o la sobreexplotación de recursos. Reduce la productividad de la tierra; prevenirla, reducirla y restaurar las zonas afectadas requiere medidas adaptadas a cada contexto.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

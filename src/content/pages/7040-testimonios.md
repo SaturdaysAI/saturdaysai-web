@@ -1,6 +1,6 @@
 ---
 title: Historias de nuestros AI Fellows
-description: Historias de nuestros Alumnos
+description: "Descubre experiencias y proyectos de los AI Fellows de Saturdays.AI: personas que aprenden y crean en comunidad."
 image: ""
 legacyPath: /testimonios/
 sourceUrl: https://saturdays.ai/testimonios/

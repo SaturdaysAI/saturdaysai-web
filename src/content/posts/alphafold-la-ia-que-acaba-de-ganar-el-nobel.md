@@ -5,6 +5,7 @@ description: AlphaFold, ganador del Nobel de Química 2024, está cambiando cóm
   minutos. Desde el diseño de medicamentos hasta enzimas que combaten plásticos,
   este…
 pubDate: 2024-11-28
+updatedDate: 2026-10-25
 author: Alan
 category: Community
 kind: article

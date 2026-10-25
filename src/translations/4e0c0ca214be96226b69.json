@@ -38,10 +38,21 @@
     {
       "source": "Probabilistic reasoning system for social influence analysis in online social networks",
       "en": "Probabilistic reasoning system for social influence analysis in online social networks",
-      "es": "Sistema de razonamiento probabilístico para el análisis de influencia social en las redes sociales en línea",
+      "es": "Sistema de razonamiento probabilístico para el análisis de la influencia social en redes sociales online.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "– Presentación Lea, ¿Cómo se inició en el mundo de la inteligencia artificial?",

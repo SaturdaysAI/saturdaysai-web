@@ -38,7 +38,35 @@ for (const file of files) {
   });
   assert.equal($('[data-language]').length, 2, file);
   assert.equal($('.theme-toggle').length, 1, file);
-  assert.doesNotMatch($('body').text(), /ZXQ\d{4}|SATURDAYS_BRAND/, file);
+  assert.doesNotMatch($('body').text(), /ZXQ\d{4}|SATURDAYS_BRAND|QZXBRAND/, file);
+  assert.doesNotMatch(
+    $('body').text(),
+    /THE HERRAMIENTS YOU USED|THE REAL FLUITS|WHAT I VALID BEFORE I DARL|Miga de pan|abrazar la cara/i,
+    `${file}: known editorial regression`,
+  );
+  if (!/^(?:en\/)?20\d{2}\//.test(relative)) {
+    assert.doesNotMatch(
+      $('meta[name="description"]').attr('content') || '',
+      /\b\d[\d.,]*\s*(?:USD|EUR)\b|\b(?:USD|EUR)\s*\d/i,
+      `${file}: economic information in a non-blog description`,
+    );
+    assert.doesNotMatch(
+      $('body').text(),
+      /¿A qué va destinado el dinero\?|What is the money used for\?|11:30\s*[–-]\s*13 AM/,
+      `${file}: obsolete programme question or invalid time`,
+    );
+  }
+  if (/^(?:en\/)?about\/index.html$/.test(relative)) {
+    assert.match($('.prose').text(), language === 'es' ? /30\.000 AI fellows/ : /30,000 AI fellows/);
+    const founder = $('.about-person').filter((_, el) => $(el).find('h3').text() === 'Miguel Guerrero');
+    assert.equal(founder.find('.person-role').text(), language === 'es' ? 'Fundador y presidente' : 'Founder & President');
+  }
+  if (/^(?:en\/)?(?:terms|privacy-policy-2)\/index.html$/.test(relative)) {
+    assert.match($('.prose').text(), /AI SATURDAYS ASOCIACIÓN/);
+    assert.match($('.prose').text(), /G67349076/);
+    assert.match($('.prose').text(), /08005 Barcelona/);
+    assert.doesNotMatch($('.prose').text(), /before the main domain|antes de trasladar el dominio/);
+  }
   pages++;
 }
 let feedCount;

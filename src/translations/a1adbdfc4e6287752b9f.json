@@ -180,10 +180,21 @@
     {
       "source": "Analysis of maturation features in fetal brain ultrasound via artificial intelligence for the estimation of gestational age.",
       "en": "Analysis of maturation features in fetal brain ultrasound via artificial intelligence for the estimation of gestational age.",
-      "es": "Análisis de las características de maduración en el ultrasonido cerebral fetal a través de inteligencia artificial para la estimación de la edad gestacional.",
+      "es": "Análisis de características de maduración en ecografía cerebral fetal mediante inteligencia artificial para la estimación de la edad gestacional.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "August 14, 2021. Am J ObstetGynecol MFM.",

@@ -19,11 +19,21 @@
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Asturias.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Asturias.",
-      "es": "Aprende inteligencia artificial, conoce tu comunidad local y construye proyectos con impacto social en Asturias.",
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Asturias.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "A view of Asturias",

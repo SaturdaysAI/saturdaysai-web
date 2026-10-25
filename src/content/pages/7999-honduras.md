@@ -1,9 +1,6 @@
 ---
 title: Honduras
-description: "Saturdays.AIHonduras Ya llega AI Saturdays Honduras Cuando:
-  TBCDonde: Honduras – En línea (primera edición)Programa: Machine Learning :
-  TBA Inscribirme Estructura del curso: Code2Learn Durante la primera mitad del
-  programa…"
+description: "Descubre la comunidad de Saturdays.AI en Honduras. Explora sus proyectos y consulta con el equipo local las próximas actividades."
 image: /media/af5e0c0262ede2ec.webp
 legacyPath: /honduras/
 sourceUrl: https://saturdays.ai/honduras/

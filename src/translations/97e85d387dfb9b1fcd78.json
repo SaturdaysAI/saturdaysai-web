@@ -250,11 +250,21 @@
     {
       "source": "covid OR COVID OR coronavirus OR corona OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR sars OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR social distancing OR #socialdistancing OR #COVID OR #covid”",
       "en": "covid OR COVID OR coronavirus OR corona OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR sars OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR social distancing OR #socialdistancing OR #COVID OR #covid”",
-      "es": "covid OR COVID OR coronavirus OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR #socialdVID",
+      "es": "covid O COVID O coronavirus O corona O coronavirus O #coronavirus O #covid19 O covid19 O sarscov2 O #covid-19 O #sarscov2 O sars O cov2 O sars O #cuarentena O pandemia O #pandemia O #2019ncov O 2019ncov O cuarentena O encierro O #encierro O distanciamiento social O #distanciamiento social O #COVID O #covid”",
       "reviewed": false,
       "sourceLanguage": "en",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La estructura de los datos es idéntica para los 3 datasets. Cada dataset está organizado en 3 columnas:",
@@ -519,12 +529,22 @@
     },
     {
       "source": "Palabras más recurrentes en general:",
-      "en": "More recurrent words in general:",
+      "en": "Most recurring words in general:",
       "es": "Palabras más recurrentes en general:",
       "reviewed": false,
       "sourceLanguage": "pt",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Palabras más recurrentes dentro de los datos clasificados como SIN estrés",

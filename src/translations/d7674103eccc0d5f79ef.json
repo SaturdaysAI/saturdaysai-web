@@ -5,10 +5,21 @@
     {
       "source": "Noticias: explore the Saturdays.AI community, learning and resources.",
       "en": "Noticias: explore the Saturdays.AI community, learning and resources.",
-      "es": "Noticias: explorar los Saturdays.AI comunidad, aprendizaje y recursos.",
+      "es": "Noticias: explore la comunidad Saturdays.AI, aprendizaje y recursos.",
       "reviewed": false,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Google automatic translation",
+      "translationVersion": 3,
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

@@ -879,21 +879,41 @@
     },
     {
       "source": ") a la vez que se realizan proyectos de impacto social (",
-      "en": ") while social impact projects (",
+      "en": ") while carrying out social impact projects (",
       "es": ") a la vez que se realizan proyectos de impacto social (",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "). Si quieres aprender más sobre este proyecto (y otros) únete a nuestra",
-      "en": "). If you want to learn more about this project (and others) join us",
+      "en": "). If you want to learn more about this project (and others) join our",
       "es": "). Si quieres aprender más sobre este proyecto (y otros) únete a nuestra",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "comunidad",
@@ -904,12 +924,22 @@
     },
     {
       "source": "en o aprende a crear los tuyos en nuestro programa AI Saturdays.",
-      "en": "in or learn to create yours in our AI Saturdays program.",
+      "en": "in or learn how to create yours in our AI Saturdays program.",
       "es": "en o aprende a crear los tuyos en nuestro programa AI Saturdays.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Explore these topics",

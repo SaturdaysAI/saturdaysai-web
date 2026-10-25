@@ -4,12 +4,22 @@
   "segments": [
     {
       "source": "Latam online. Primera Edición. 2020 ¿Te has puesto a pensar, qué escuchan tus hijos? ¿Alguna vez has pensado cómo influye la música en nuestra sociedad y viceversa? Actualmente estamos rodeados de una gran cantidad de música…",
-      "en": "Latin online. First Edition. 2020 Have you thought about what your children hear? Have you ever thought about how music influences our society and vice versa? We are currently surrounded by a lot of music...",
+      "en": "Latam online. First Edition. 2020 Have you stopped to think, what do your children listen to? Have you ever thought about how music influences our society and vice versa? Currently we are surrounded by a large amount of music…",
       "es": "Latam online. Primera Edición. 2020 ¿Te has puesto a pensar, qué escuchan tus hijos? ¿Alguna vez has pensado cómo influye la música en nuestra sociedad y viceversa? Actualmente estamos rodeados de una gran cantidad de música…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "¿Alguna vez has pensado cómo influye la música en nuestra sociedad y viceversa?",
@@ -39,20 +49,40 @@
     },
     {
       "source": "Entrenamiento y selección del modelo",
-      "en": "Model training and selection",
+      "en": "Training and model selection",
       "es": "Entrenamiento y selección del modelo",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Curvas ROC de los modelos",
-      "en": "ROC Curves of Models",
+      "en": "ROC curves of the models",
       "es": "Curvas ROC de los modelos",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Escalabilidad del proyecto",
@@ -72,75 +102,155 @@
     },
     {
       "source": "¿Te has puesto a pensar, qué escuchan tus hijos?",
-      "en": "Have you thought, what do your children hear?",
+      "en": "Have you stopped to think, what do your children listen to?",
       "es": "¿Te has puesto a pensar, qué escuchan tus hijos?",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Actualmente estamos rodeados de una gran cantidad de música que, aunque tiene ciertos filtros y criterios para su publicación, en ocasiones llega a oídos de cierta población que resulta afectada por el mensaje que se transmite. Hoy en día ya no es necesario contar con una disquera para promocionar una canción, ya que el acceso a las redes sociales permite que cualquier persona con un celular y acceso a internet se grabe y publique su canción llegando a miles de personas en el mundo, entre ellos menores de edad, como tus hijos.",
-      "en": "We are currently surrounded by a lot of music that, although it has certain filters and criteria for its publication, sometimes comes to the ears of a certain population that is affected by the message that is being transmitted. Today it is no longer necessary to have a record to promote a song, as access to social networks allows anyone with a cell phone and Internet access to record and publish their song by reaching thousands of people in the world, including children.",
+      "en": "Currently we are surrounded by a large amount of music that, although it has certain filters and criteria for its publication, sometimes reaches the ears of a certain population that is affected by the message that is transmitted. Nowadays it is no longer necessary to have a record label to promote a song, since access to social networks allows anyone with a cell phone and internet access to record and publish their song, reaching thousands of people in the world, including minors, like your children.",
       "es": "Actualmente estamos rodeados de una gran cantidad de música que, aunque tiene ciertos filtros y criterios para su publicación, en ocasiones llega a oídos de cierta población que resulta afectada por el mensaje que se transmite. Hoy en día ya no es necesario contar con una disquera para promocionar una canción, ya que el acceso a las redes sociales permite que cualquier persona con un celular y acceso a internet se grabe y publique su canción llegando a miles de personas en el mundo, entre ellos menores de edad, como tus hijos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para que una canción llegue a ser escuchada existen varios canales de distribución como televisión, radio y las redes sociales, y si no se cuenta con un filtro adecuado, todo tipo de canciones con diferente contenido puede estar llegando a los oídos de menores de edad.",
-      "en": "For a song to be heard there are several distribution channels such as television, radio and social networks, and if there is no proper filter, all kinds of songs with different content may be reaching the ears of minors.",
+      "en": "For a song to be heard, there are several distribution channels such as television, radio and social networks, and if there is no adequate filter, all types of songs with different content may be reaching the ears of minors.",
       "es": "Para que una canción llegue a ser escuchada existen varios canales de distribución como televisión, radio y las redes sociales, y si no se cuenta con un filtro adecuado, todo tipo de canciones con diferente contenido puede estar llegando a los oídos de menores de edad.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Nuestra propuesta se basa en identificar las canciones en las que, en su letra, exista contenido violento. De acuerdo al artículo “",
-      "en": "Our proposal is based on identifying the songs in which, in its letter, violent content exists. According to the article \"",
+      "en": "Our proposal is based on identifying songs in which, in their lyrics, there is violent content. According to the article “",
       "es": "Nuestra propuesta se basa en identificar las canciones en las que, en su letra, exista contenido violento. De acuerdo al artículo “",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "La violencia contra las mujeres en la música: Una aproximación metodológica”",
-      "en": "Violence against women in music: A methodological approach \"",
+      "en": "“Violence against women in music: A methodological approach”",
       "es": "La violencia contra las mujeres en la música: Una aproximación metodológica”",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ", dónde se habla sobre la violencia contra las mujeres en la música, indica que:",
-      "en": "where we talk about violence against women in music, it says:",
+      "en": ", where violence against women in music is discussed, indicates that:",
       "es": ", dónde se habla sobre la violencia contra las mujeres en la música, indica que:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "“en los casos más negativos se proyecta estereotipos que sitúan al hombre y a la mujer en posiciones sociales distintas, incluso llegando a justificar y potenciar la violencia contra las mujeres“.",
-      "en": "\"in the most negative cases, stereotypes are projected that place men and women in different social positions, including by justifying and enhancing violence against women.\"",
+      "en": "“In the most negative cases, stereotypes are projected that place men and women in different social positions, even going so far as to justify and promote violence against women.”",
       "es": "“en los casos más negativos se proyecta estereotipos que sitúan al hombre y a la mujer en posiciones sociales distintas, incluso llegando a justificar y potenciar la violencia contra las mujeres“.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Es por ello que este proyecto tiene como ambición contribuir al cumplimento de uno de los diecisiete",
-      "en": "This is why this project has as its ambition to contribute to the completion of one of the seventeen",
+      "en": "That is why this project aims to contribute to the fulfillment of one of the seventeen",
       "es": "Es por ello que este proyecto tiene como ambición contribuir al cumplimento de uno de los diecisiete",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Objetivos de Desarrollo Sostenible",
@@ -152,30 +262,60 @@
     },
     {
       "source": ", planteados por las Naciones Unidas y aceptados por varios países en Latinoamérica, específicamente el objetivo cinco referente a la equidad de género. Para identificar y concientizar a la población sobre el mensaje que transmite la música y, de esta manera, empoderar a la población que tiene acceso a plataformas digitales de música, sobre los mensajes en las canciones que escucha.",
-      "en": ", which the United Nations has put forward and accepted by several countries in Latin America, specifically goal five on gender equity. To identify and raise public awareness about the message that music transmits and thus empower the population that has access to digital music platforms, about the messages in the songs it hears.",
+      "en": ", proposed by the United Nations and accepted by several countries in Latin America, specifically objective five regarding gender equality. To identify and raise awareness among the population about the message that music transmits and, in this way, empower the population that has access to digital music platforms, about the messages in the songs they listen to.",
       "es": ", planteados por las Naciones Unidas y aceptados por varios países en Latinoamérica, específicamente el objetivo cinco referente a la equidad de género. Para identificar y concientizar a la población sobre el mensaje que transmite la música y, de esta manera, empoderar a la población que tiene acceso a plataformas digitales de música, sobre los mensajes en las canciones que escucha.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Al inicio de este proyecto, se planteó una lluvia de ideas, se pensó en crear una app que al escuchar o ingresar una canción indique si esta contiene diversos tipos de violencia en sus letras, mediante el uso de Procesamiento Natural de Lenguaje (NLP), para lo cual se propuso el siguiente etiquetado:",
-      "en": "At the beginning of this project, a rain of ideas was put forward, an app was thought to be created that, when listening to or entering a song, would indicate whether it contains various types of violence in its letters, using Natural Language Processing (NLP), for which the following labelling was proposed:",
+      "en": "At the beginning of this project, we brainstormed and thought about creating an app that, when listening to or entering a song, indicates whether it contains various types of violence in its lyrics, through the use of Natural Language Processing (NLP), for which the following labeling was proposed:",
       "es": "Al inicio de este proyecto, se planteó una lluvia de ideas, se pensó en crear una app que al escuchar o ingresar una canción indique si esta contiene diversos tipos de violencia en sus letras, mediante el uso de Procesamiento Natural de Lenguaje (NLP), para lo cual se propuso el siguiente etiquetado:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tipos de violencia según artículo “La violencia contra las mujeres en la música: Una aproximación metodológica”, algunos iconos fueron obtenidos del artículo “De qué hablamos cuando hablamos de violencia contra la mujer”, de .infojusnoticias.gov.ar",
-      "en": "Types of violence according to article \"Violence against women in music: A methodological approach,\" some icons were obtained from the article \"What we talk about when we talk about violence against women,\" from.",
+      "en": "Types of violence according to the article “Violence against women in music: A methodological approach”, some icons were obtained from the article “What do we talk about when we talk about violence against women”, from .infojusnoticias.gov.ar",
       "es": "Tipos de violencia según artículo “La violencia contra las mujeres en la música: Una aproximación metodológica”, algunos iconos fueron obtenidos del artículo “De qué hablamos cuando hablamos de violencia contra la mujer”, de .infojusnoticias.gov.ar",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Apto para menores de edad",
@@ -187,21 +327,41 @@
     },
     {
       "source": "No contiene ningún tipo de violencia, el mensaje y contexto de la canción debe ser revisado por un adulto.",
-      "en": "It does not contain any kind of violence, the message and context of the song should be reviewed by an adult.",
+      "en": "It does not contain any type of violence, the message and context of the song should be reviewed by an adult.",
       "es": "No contiene ningún tipo de violencia, el mensaje y contexto de la canción debe ser revisado por un adulto.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para ello, se empezó a analizar una muestra de 500 canciones, las cuales se seleccionaron de listas de popularidad de música latina, ya que el proyecto se plantea para la población hispanoparlante de América Latina, por lo que el flujo de trabajo quedó de la siguiente manera:",
-      "en": "To this end, a sample of 500 songs was started, which were selected from Latin music popularity lists, as the project is proposed for the Spanish-speaking population of Latin America, so the workflow was as follows:",
+      "en": "To do this, a sample of 500 songs began to be analyzed, which were selected from Latin music popularity lists, since the project is proposed for the Spanish-speaking population of Latin America, so the workflow was as follows:",
       "es": "Para ello, se empezó a analizar una muestra de 500 canciones, las cuales se seleccionaron de listas de popularidad de música latina, ya que el proyecto se plantea para la población hispanoparlante de América Latina, por lo que el flujo de trabajo quedó de la siguiente manera:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se buscó en los rankings de Billboard y de Scanner Sound, la lista de canciones más tocadas con un web scraper, con lo que se obtuvo artista y título.",
@@ -214,21 +374,41 @@
     },
     {
       "source": "Mediante las herramientas de desarrollador de musixmatch se obtuvo la api el género musical de cada canción y si estas tienen lenguaje ‘explícito’, sin embargo solo nos proporcionaba el 40% de las letras.",
-      "en": "With the tools of the developer of musixmatch, the api was obtained the musical genre of each song and if they have 'explicit' language, however it provided only 40% of the letters.",
+      "en": "Using the musixmatch developer tools, the API obtained the musical genre of each song and whether they have 'explicit' language, however it only provided us with 40% of the lyrics.",
       "es": "Mediante las herramientas de desarrollador de musixmatch se obtuvo la api el género musical de cada canción y si estas tienen lenguaje ‘explícito’, sin embargo solo nos proporcionaba el 40% de las letras.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "De Google se obtuvo la letra de las canciones el cual se nutre de dos proveedores: Musixmatch y LyricFind, con lo que, finalmente, se obtuvieron los siguientes campos:",
-      "en": "From Google the lyrics of the songs were obtained which is nurtured by two suppliers: Musixmatch and LyricFind, which finally obtained the following fields:",
+      "en": "The lyrics of the songs were obtained from Google, which is fed by two providers: Musixmatch and LyricFind, with which, finally, the following fields were obtained:",
       "es": "De Google se obtuvo la letra de las canciones el cual se nutre de dos proveedores: Musixmatch y LyricFind, con lo que, finalmente, se obtuvieron los siguientes campos:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Artista",
@@ -264,92 +444,192 @@
     },
     {
       "source": "Luego, se realizó la extracción de las letras de las canciones mediante API’s que ofrecen los sitios más populares de música (Musixmatch y el Billboard) mediante sus herramientas para desarrolladores.",
-      "en": "Then, the lyrics of the songs were extracted through API's that offer the most popular music sites (Musixmatch and the Billboard) through their tools for developers.",
+      "en": "Then, the song lyrics were extracted using APIs offered by the most popular music sites (Musixmatch and Billboard) through their developer tools.",
       "es": "Luego, se realizó la extracción de las letras de las canciones mediante API’s que ofrecen los sitios más populares de música (Musixmatch y el Billboard) mediante sus herramientas para desarrolladores.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez que se obtuvieron las letras de las canciones se procedió al etiquetado manual, el cual se realizó de acuerdo a los tipos de violencia anteriormente expuestos. El equipo desarrollador de este proyecto, etiquetó las categorías de entrenamiento, con lo que se obtuvo una siguiente fuente de datos, su representación se puede ver a continuación:",
-      "en": "Once the lyrics of the songs were obtained, manual labelling was carried out, which was done according to the types of violence previously exposed. The team developing this project, tagged the training categories, thus obtaining a following source of data, its representation can be seen below:",
+      "en": "Once the lyrics of the songs were obtained, manual labeling was carried out, which was carried out according to the types of violence previously explained. The development team of this project labeled the training categories, resulting in the following data source, its representation can be seen below:",
       "es": "Una vez que se obtuvieron las letras de las canciones se procedió al etiquetado manual, el cual se realizó de acuerdo a los tipos de violencia anteriormente expuestos. El equipo desarrollador de este proyecto, etiquetó las categorías de entrenamiento, con lo que se obtuvo una siguiente fuente de datos, su representación se puede ver a continuación:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ejemplo de conjunto de datos obtenido en un primer etiquetado",
-      "en": "Example of a set of data obtained on a first labelling",
+      "en": "Example of a data set obtained in a first labeling",
       "es": "Ejemplo de conjunto de datos obtenido en un primer etiquetado",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Resulta importante destacar que, debido a que el etiquetado de cada categoría está sujeto a los criterios de cada integrante del equipo, el conjunto de datos podría tener un sesgo. Vale la pena mencionar, que esta etapa del proyecto es una prueba de concepto que nos servirá para validar la factibilidad de realizar un etiquetado automático de acuerdo al objetivo planteado. Además, al observar que el número de positivos en cada categoría no era suficiente para que el algoritmo pudiese tener un buen aprendizaje, se decidió agregar una categoría adicional, llamada ‘clase’, la cual indica si tiene contenido violento. Este cambio dentro del alcance se abordará más adelante.",
-      "en": "It is important to note that, because the labelling of each category is subject to the criteria of each team member, the data set could have a bias. It is worth mentioning that this stage of the project is a test of concept that will serve to validate the feasibility of performing an automatic labelling according to the objective set. Furthermore, by noting that the number of positive in each category was not enough for the algorithm to have a good learning, it was decided to add an additional category, called 'class', which indicates if it has violent content. This change within the scope will be addressed later.",
+      "en": "It is important to note that, because the labeling of each category is subject to the criteria of each team member, the data set could have a bias. It is worth mentioning that this stage of the project is a proof of concept that will help us validate the feasibility of carrying out automatic labeling according to the stated objective. Furthermore, upon observing that the number of positives in each category was not enough for the algorithm to learn well, it was decided to add an additional category, called 'class', which indicates whether it has violent content. This change within scope will be addressed later.",
       "es": "Resulta importante destacar que, debido a que el etiquetado de cada categoría está sujeto a los criterios de cada integrante del equipo, el conjunto de datos podría tener un sesgo. Vale la pena mencionar, que esta etapa del proyecto es una prueba de concepto que nos servirá para validar la factibilidad de realizar un etiquetado automático de acuerdo al objetivo planteado. Además, al observar que el número de positivos en cada categoría no era suficiente para que el algoritmo pudiese tener un buen aprendizaje, se decidió agregar una categoría adicional, llamada ‘clase’, la cual indica si tiene contenido violento. Este cambio dentro del alcance se abordará más adelante.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Luego se procedió a realizar el Análisis Expiatorio de Datos (EDA). Para preparar los datos utilizando la librería ‘pandas’ para Python, así como matplotlib, seaborn y plotly para este primer análisis que nos permitiera tomar decisiones previas al preprocesamiento de los datos y tener un panorama de cómo se distribuían las clases en nuestra ‘data set’. y obtener un corpus que nos sirviera de base para iniciar con el análisis utilizando NLP.",
-      "en": "The Expiatory Data Analysis (EDA) was then carried out. To prepare the data using the 'panda' library for Python, as well as matplotlib, seaborn and plotly for this first analysis that would allow us to make decisions prior to the preprocessing of the data and to have a picture of how the classes were distributed in our 'data set'. And to get a corpus that would serve as the basis for starting the analysis using NLP.",
+      "en": "Then the Expiatory Data Analysis (EDA) was carried out. To prepare the data using the 'pandas' library for Python, as well as matplotlib, seaborn and plotly for this first analysis that would allow us to make decisions prior to pre-processing the data and have an overview of how the classes were distributed in our 'data set'. and obtain a corpus that would serve as a basis to begin the analysis using NLP.",
       "es": "Luego se procedió a realizar el Análisis Expiatorio de Datos (EDA). Para preparar los datos utilizando la librería ‘pandas’ para Python, así como matplotlib, seaborn y plotly para este primer análisis que nos permitiera tomar decisiones previas al preprocesamiento de los datos y tener un panorama de cómo se distribuían las clases en nuestra ‘data set’. y obtener un corpus que nos sirviera de base para iniciar con el análisis utilizando NLP.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Del conjunto de datos generado se obtuvieron algunos ‘insights’ interesantes mediante un primer Análisis Expiatorio de Datos (EDA):",
-      "en": "Some interesting 'insights' were obtained from the data set generated by a first Expiatory Data Analysis (EDA):",
+      "en": "Some interesting insights were obtained from the generated data set through a first Expiatory Data Analysis (EDA):",
       "es": "Del conjunto de datos generado se obtuvieron algunos ‘insights’ interesantes mediante un primer Análisis Expiatorio de Datos (EDA):",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Análisis/distribución de tipos de violencia",
-      "en": "Analysis / distribution of violence",
+      "en": "Analysis/distribution of types of violence",
       "es": "Análisis/distribución de tipos de violencia",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Gráfica de Barras que muestra el número de incidencias en cada clase del ‘data set’",
-      "en": "Barra graph showing the number of incidents in each 'data set' class",
+      "en": "Bar graph showing the number of incidents in each class of the data set",
       "es": "Gráfica de Barras que muestra el número de incidencias en cada clase del ‘data set’",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En esta gráfica de barras podemos observar la distribución de los tipos de violencia que contiene la música seleccionada, en este caso, la mayor predominancia son géneros musicales de reggaeton, regional mexicano y pop en español debido a que se obtuvieron las canciones más escuchadas del momento, sin embargo, esta información no se utilizará para el algoritmo ya que podría crear un sesgo importante, como se puede observar en el histograma de acuerdo a los géneros. Vale la pena mencionar que este análisis se hizo antes de normalizar los datos para tener un panorama de cómo están distribuidos los datos.",
-      "en": "In this bar graph we can see the distribution of the types of violence that contains the selected music, in this case, the greatest predominance are musical genres of reggaeton, regional Mexican and pop in Spanish because they obtained the most heard songs of the moment, however, this information will not be used for the algorithm as it could create an important bias, as can be seen in the histogram according to the genres. It is worth mentioning that this analysis was done before normalizing the data to have an overview of how the data are distributed.",
+      "en": "In this bar graph we can observe the distribution of the types of violence contained in the selected music, in this case, the greatest predominance are musical genres of reggaeton, regional Mexican and pop in Spanish because the most listened to songs of the moment were obtained, however, this information will not be used for the algorithm since it could create an important bias, as can be seen in the histogram according to the genres. It is worth mentioning that this analysis was done before normalizing the data to have an overview of how the data is distributed.",
       "es": "En esta gráfica de barras podemos observar la distribución de los tipos de violencia que contiene la música seleccionada, en este caso, la mayor predominancia son géneros musicales de reggaeton, regional mexicano y pop en español debido a que se obtuvieron las canciones más escuchadas del momento, sin embargo, esta información no se utilizará para el algoritmo ya que podría crear un sesgo importante, como se puede observar en el histograma de acuerdo a los géneros. Vale la pena mencionar que este análisis se hizo antes de normalizar los datos para tener un panorama de cómo están distribuidos los datos.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Gráfica de barras que muestra cómo se distribuyen los tipos de violencia por género musical.",
-      "en": "Bargraph showing how the types of violence by musical gender are distributed.",
+      "en": "Bar graph showing how the types of violence are distributed by musical genre.",
       "es": "Gráfica de barras que muestra cómo se distribuyen los tipos de violencia por género musical.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se realizó un mapa de calor para descubrir cómo se relacionan los tipos de violencia dentro de las canciones que se consideraron.",
@@ -362,223 +642,473 @@
     },
     {
       "source": "Después del análisis de los tipos violencia, consideramos que separar la cantidad de canciones en las siete categorías seleccionadas no sería suficiente para hacer una buena clasificación ya que tenemos relativamente pocos positivos en cada categoría. Con base en esta observación, para una primera fase, se realizará la separación solo en 2 categorías: “violento” y “no violento”. Algo muy importante de destacar es, que aunque una canción no contenga violencia, no quiere decir que sea apto para infantes, debido a que podría tocar temas no aptos para ciertas edades.",
-      "en": "After the analysis of the types of violence, we consider that separating the number of songs into the seven categories selected would not be enough to make a good classification as we have relatively few positive in each category. Based on this observation, for a first phase, the separation will be made only in 2 categories: \"violent\" and \"non-violent.\" A very important thing to highlight is, that although a song does not contain violence, it does not mean that it is suitable for children, because it could touch issues not suitable for certain ages.",
+      "en": "After analyzing the types of violence, we consider that separating the number of songs into the seven selected categories would not be enough to make a good classification since we have relatively few positives in each category. Based on this observation, for a first phase, the separation will be carried out only into 2 categories: “violent” and “non-violent”. Something very important to highlight is that even if a song does not contain violence, it does not mean that it is suitable for infants, because it could touch on topics not suitable for certain ages.",
       "es": "Después del análisis de los tipos violencia, consideramos que separar la cantidad de canciones en las siete categorías seleccionadas no sería suficiente para hacer una buena clasificación ya que tenemos relativamente pocos positivos en cada categoría. Con base en esta observación, para una primera fase, se realizará la separación solo en 2 categorías: “violento” y “no violento”. Algo muy importante de destacar es, que aunque una canción no contenga violencia, no quiere decir que sea apto para infantes, debido a que podría tocar temas no aptos para ciertas edades.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "En una segunda aproximación, durante el preprocesamiento de los datos se obtuvieron mapas de palabras, como un segundo EDA, con el fin de identificar las palabras más frecuentes en contenido violento y no violento y reconocer algunas “stopwords” que debemos considerar o, en dado caso, palabras que deban lematizarse.",
-      "en": "In a second approach, word maps, such as a second EDA, were obtained during the pre-processing of the data in order to identify the most frequent words in violent and non-violent content and to recognize some \"stopwords\" that we should consider or, in case, words that should be lematised.",
+      "en": "In a second approach, during the preprocessing of the data, word maps were obtained, like a second EDA, in order to identify the most frequent words in violent and non-violent content and recognize some “stopwords” that we must consider or, if applicable, words that should be lemmatized.",
       "es": "En una segunda aproximación, durante el preprocesamiento de los datos se obtuvieron mapas de palabras, como un segundo EDA, con el fin de identificar las palabras más frecuentes en contenido violento y no violento y reconocer algunas “stopwords” que debemos considerar o, en dado caso, palabras que deban lematizarse.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El preprocesamiento de los datos, en este caso, se realizó de la siguiente manera:",
-      "en": "The data pre-processing, in this case, was carried out as follows:",
+      "en": "The preprocessing of the data, in this case, was carried out as follows:",
       "es": "El preprocesamiento de los datos, en este caso, se realizó de la siguiente manera:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Normalización datos/letras de canciones (acentos, mayúsculas, signos de puntuación y eliminación de palabras como ‘oh’, ‘yeah’, ‘ma’, etc.)",
-      "en": "Standardization of data / lyrics of songs (accents, capital letters, score signs and deletion of words such as' oh ',' yeah ',' ma ', etc.)",
+      "en": "Normalization of song data/lyrics (accents, capital letters, punctuation marks and elimination of words like 'oh', 'yeah', 'ma', etc.)",
       "es": "Normalización datos/letras de canciones (acentos, mayúsculas, signos de puntuación y eliminación de palabras como ‘oh’, ‘yeah’, ‘ma’, etc.)",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Tokenizado de palabras",
-      "en": "words",
+      "en": "Word tokenization",
       "es": "Tokenizado de palabras",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Remoción de ‘stopwords’",
-      "en": "Removal of 'stopwords'",
+      "en": "Stopword removal",
       "es": "Remoción de ‘stopwords’",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Lematización (en una siguiente etapa se considera ver si ‘stemming’ podría ayudar a obtener mejores resultados)",
-      "en": "Lematization (in a next stage it is considered to see if 'stemming' could help to achieve better results)",
+      "en": "Lemmatization (in a next stage it is considered to see if 'stemming' could help obtain better results)",
       "es": "Lematización (en una siguiente etapa se considera ver si ‘stemming’ podría ayudar a obtener mejores resultados)",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Vectorización de las canciones (en esta etapa del proyecto se emplea Bag of Words).",
-      "en": "Vectorization of the songs (at this stage of the project is used Bag of Words).",
+      "en": "Vectorization of the songs (Bag of Words is used in this stage of the project).",
       "es": "Vectorización de las canciones (en esta etapa del proyecto se emplea Bag of Words).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Posterior a que se hizo el preprocesamiento, se emplearon nuevamente mapas de palabras para observar qué palabras podrían ser más recurrentes en una canción con violencia y sin violencia. Sin embargo, al obtener los mapas de palabras, se observó que en ambos casos predominan palabras como: haber, querer, hacer y tener. Por lo que se incluyeron a la lista de ‘stopwords’ y se volvió a hacer un análisis con una nube de palabras.",
-      "en": "After the preprocessing was done, word maps were again used to observe which words could be more recurrent in a song with violence and without violence. However, when obtaining the words maps, it was observed that in both cases words such as: have, want, do and have predominate. So they were included in the list of 'stopwords' and a cloud of words analysis was redone.",
+      "en": "After the preprocessing was done, word maps were used again to observe which words could be more recurrent in a song with violence and without violence. However, when obtaining the word maps, it was observed that in both cases words such as: have, want, do and have predominate. Therefore, they were included in the list of 'stopwords' and an analysis was performed again with a word cloud.",
       "es": "Posterior a que se hizo el preprocesamiento, se emplearon nuevamente mapas de palabras para observar qué palabras podrían ser más recurrentes en una canción con violencia y sin violencia. Sin embargo, al obtener los mapas de palabras, se observó que en ambos casos predominan palabras como: haber, querer, hacer y tener. Por lo que se incluyeron a la lista de ‘stopwords’ y se volvió a hacer un análisis con una nube de palabras.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mapa de palabras «sin violencia» antes de quitar stop words muy comunes",
-      "en": "\"No violence\" word map before removing very common stop words",
+      "en": "map of “non-violence” words before removing very common stop words",
       "es": "mapa de palabras «sin violencia» antes de quitar stop words muy comunes",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mapa de palabras «con violencia» antes de quitar stop words muy comunes",
-      "en": "map of words \"with violence\" before removing very common stop words",
+      "en": "map “with violence” words before removing very common stop words",
       "es": "mapa de palabras «con violencia» antes de quitar stop words muy comunes",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mapa de palabras «sin violencia» después de quitar stop words muy comunes",
-      "en": "\"No violence\" word map after removing very common stop words",
+      "en": "map of “non-violence” words after removing very common stop words",
       "es": "mapa de palabras «sin violencia» después de quitar stop words muy comunes",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "mapa de palabras «con violencia» después de quitar stop words muy comunes",
-      "en": "map of words \"with violence\" after removing very common stop words",
+      "en": "map of “with violence” words after removing very common stop words",
       "es": "mapa de palabras «con violencia» después de quitar stop words muy comunes",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como se puede observar, ambas clasificaciones siguen teniendo algunas palabras en común como “decir” y “saber”. Sin embargo, se pueden observar diferentes palabras en el mapa de las canciones ‘con violencia’, como “olvidar”, “morir”, “perder”, “dejar”, etc.",
-      "en": "As you can see, both classifications still have some common words like \"say\" and \"know.\" However, different words can be observed on the map of the songs \"with violence,\" such as \"forget,\" \"die,\" \"lose,\" \"leave,\" etc.",
+      "en": "As can be seen, both classifications still have some words in common such as “say” and “know.” However, different words can be seen on the map of the songs 'with violence', such as \"forget\", \"die\", \"lose\", \"leave\", etc.",
       "es": "Como se puede observar, ambas clasificaciones siguen teniendo algunas palabras en común como “decir” y “saber”. Sin embargo, se pueden observar diferentes palabras en el mapa de las canciones ‘con violencia’, como “olvidar”, “morir”, “perder”, “dejar”, etc.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Una vez que se tuvo la ‘corpora’ preparada y se aplicó la vectorización Bag of Words, se trabajó con la etiqueta de “violento” o “no Violento”, que va a representar si la canción tiene cualquier tipo de violencia en su contenido.",
-      "en": "Once the 'corporate' was prepared and the Bag of Words was applied, it was worked on the label \"violent\" or \"non-violent,\" which will represent if the song has any kind of violence in its content.",
+      "en": "Once the 'corpora' was prepared and the Bag of Words vectorization was applied, we worked with the \"violent\" or \"non-violent\" label, which will represent whether the song has any type of violence in its content.",
       "es": "Una vez que se tuvo la ‘corpora’ preparada y se aplicó la vectorización Bag of Words, se trabajó con la etiqueta de “violento” o “no Violento”, que va a representar si la canción tiene cualquier tipo de violencia en su contenido.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Se probó con diferentes algoritmos, después de aplicar la representación ‘bag of words’ y usando la técnica de lematización con las herramientas de nltk, para los modelos se ocuparon las librerías de sklearn como Naive Bayes, Random Forest, Decision Tree, SVM y SGD.",
-      "en": "It was tested with different algorithms, after applying the 'bag of words' representation and using the technique of lematization with nltk tools, for the models were dealt with sklearn bookstores such as Naive Bayes, Random Forest, Decision Tree, SVM and SGD.",
+      "en": "It was tested with different algorithms, after applying the 'bag of words' representation and using the lemmatization technique with the nltk tools, for the models the sklearn libraries such as Naive Bayes, Random Forest, Decision Tree, SVM and SGD were used.",
       "es": "Se probó con diferentes algoritmos, después de aplicar la representación ‘bag of words’ y usando la técnica de lematización con las herramientas de nltk, para los modelos se ocuparon las librerías de sklearn como Naive Bayes, Random Forest, Decision Tree, SVM y SGD.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Por cada modelo, se presentó un reporte de clasificación para visualizar su precisión ‘accuracy’ , pero también se consideró el f1-score para evaluarlos junto con un mapa de calor de la matriz de confusión.",
-      "en": "For each model, a classification report was presented to visualize its accuracy 'accuracy', but the f1-score was also considered for evaluation along with a heat map of the confusion matrix.",
+      "en": "For each model, a classification report was presented to visualize its accuracy, but the f1-score was also considered to evaluate them together with a heat map of the confusion matrix.",
       "es": "Por cada modelo, se presentó un reporte de clasificación para visualizar su precisión ‘accuracy’ , pero también se consideró el f1-score para evaluarlos junto con un mapa de calor de la matriz de confusión.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Resultados obtenidos de los clasificadores, matriz de confusión y métricas obtenidas con las librerías sklearn y seaborn",
-      "en": "Results obtained from the classifiers, confusion matrix and metrics obtained with the sklearn and seaborn bookstores",
+      "en": "Results obtained from the classifiers, confusion matrix and metrics obtained with the sklearn and seaborn libraries",
       "es": "Resultados obtenidos de los clasificadores, matriz de confusión y métricas obtenidas con las librerías sklearn y seaborn",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Para poder comparar mejor el desempeño de los modelos, también se emplearon las curvas ROC. Lo cual nos muestra de una forma más visual el comportamiento de los modelos entre sí",
-      "en": "In order to better compare the performance of the models, the ROC curves were also used. This shows us in a more visual way the behavior of the models among themselves.",
+      "en": "In order to better compare the performance of the models, ROC curves were also used. Which shows us in a more visual way the behavior of the models with each other.",
       "es": "Para poder comparar mejor el desempeño de los modelos, también se emplearon las curvas ROC. Lo cual nos muestra de una forma más visual el comportamiento de los modelos entre sí",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Curvas ROC de los modelos obtenidas con las librerías sklearn y matplotlib",
-      "en": "ROC curves of the models obtained with the sklearn and matplotlib bookstores",
+      "en": "ROC curves of the models obtained with the sklearn and matplotlib libraries",
       "es": "Curvas ROC de los modelos obtenidas con las librerías sklearn y matplotlib",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Como se observa en la gráfica de curvas ROC, los modelos que tuvieron mejor desempeño fueron ‘Random Forest’ y ‘Naïve Bayes’, que tienen resultados muy similares. Sin embargo, si observamos las matrices de confusión y el ‘F1 Score’ podemos concluir que con los datos que se tienen, ‘Naïve Bayes’ es el modelo que mejor comportamiento tiene en esta etapa del proyecto. Ya que para nosotros es mejor tener una etiqueta de violencia aunque no la tenga, a que una canción con violencia sea erróneamente clasificada y llegue a menores de edad. Es decir, en términos técnicos es mejor para nosotros tener un error tipo I (falsos positivos), a un error tipo II (Falsos negativos).",
-      "en": "As observed in the ROC curve chart, the best-performing models were 'Random Forest' and 'Naïve Bayes', which have very similar results. However, if we look at the confusion matrices and the 'F1 Score' we can conclude that with the data that you have, 'Naïve Bayes' is the best model that you have at this stage of the project. Since for us it is better to have a label of violence even if you do not have it, a song with violence is wrongly classified and it reaches minors. That is, in technical terms it is better for us to have a negative type II error (a false type I).",
+      "en": "As seen in the ROC curve graph, the models that had the best performance were 'Random Forest' and 'Naïve Bayes', which have very similar results. However, if we look at the confusion matrices and the 'F1 Score' we can conclude that with the data we have, 'Naïve Bayes' is the model that has the best performance at this stage of the project. Since for us it is better to have a violent label even if it does not have one, than for a song with violence to be wrongly classified and reach minors. That is, in technical terms it is better for us to have a type I error (false positives) than a type II error (False negatives).",
       "es": "Como se observa en la gráfica de curvas ROC, los modelos que tuvieron mejor desempeño fueron ‘Random Forest’ y ‘Naïve Bayes’, que tienen resultados muy similares. Sin embargo, si observamos las matrices de confusión y el ‘F1 Score’ podemos concluir que con los datos que se tienen, ‘Naïve Bayes’ es el modelo que mejor comportamiento tiene en esta etapa del proyecto. Ya que para nosotros es mejor tener una etiqueta de violencia aunque no la tenga, a que una canción con violencia sea erróneamente clasificada y llegue a menores de edad. Es decir, en términos técnicos es mejor para nosotros tener un error tipo I (falsos positivos), a un error tipo II (Falsos negativos).",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Con base en los datos generados, se hizo el aprendizaje considerando sólo 2 categorías ‘con violencia’ y ‘sin violencia’, debido a que la cantidad de canciones utilizadas no serían suficientes para que el algoritmo pueda diferenciar entre 6 clases diferentes, incluso se piensa que en un futuro, con mayor cantidad de datos de aprendizaje, se pueda hace la clasificación en 3 o 4 categorías, dependiendo del número de positivos que podamos obtener.",
-      "en": "Based on the data generated, learning was made considering only 2 categories' with violence 'and' without violence ', because the amount of songs used would not be sufficient to allow the algorithm to differentiate between 6 different classes, even it is thought that in the future, with more learning data, it can be classified in 3 or 4 categories, depending on the number of positive that we can get.",
+      "en": "Based on the data generated, the learning was done considering only 2 categories 'with violence' and 'without violence', because the number of songs used would not be enough for the algorithm to differentiate between 6 different classes. It is even thought that in the future, with a greater amount of learning data, the classification can be made into 3 or 4 categories, depending on the number of positives that we can obtain.",
       "es": "Con base en los datos generados, se hizo el aprendizaje considerando sólo 2 categorías ‘con violencia’ y ‘sin violencia’, debido a que la cantidad de canciones utilizadas no serían suficientes para que el algoritmo pueda diferenciar entre 6 clases diferentes, incluso se piensa que en un futuro, con mayor cantidad de datos de aprendizaje, se pueda hace la clasificación en 3 o 4 categorías, dependiendo del número de positivos que podamos obtener.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "De obtener buenos resultados, se podría crear una API para uso en aplicaciones móviles o como plug in, con el fin de facilitar el reconocimiento de una canción y saber si dicha canción tiene o no contenido violento.",
-      "en": "If successful, an API could be created for use in mobile applications or as a plug in, in order to facilitate the recognition of a song and to know whether or not the song has violent content.",
+      "en": "If good results are obtained, an API could be created for use in mobile applications or as a plug-in, in order to facilitate the recognition of a song and know if said song has violent content or not.",
       "es": "De obtener buenos resultados, se podría crear una API para uso en aplicaciones móviles o como plug in, con el fin de facilitar el reconocimiento de una canción y saber si dicha canción tiene o no contenido violento.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "El conocer de antemano si una canción tiene o no contenido violento, será de ayuda para empoderar a los usuarios y reflexionar sobre el impacto que tiene lo que se escucha en la cultura popular sobre nuestras vidas y la cultura de la población.",
-      "en": "Knowing in advance whether a song has violent content or not will help to empower users and reflect on the impact of what is heard in popular culture on our lives and the culture of the population.",
+      "en": "Knowing in advance whether or not a song has violent content will help empower users and reflect on the impact that what is heard in popular culture has on our lives and the culture of the population.",
       "es": "El conocer de antemano si una canción tiene o no contenido violento, será de ayuda para empoderar a los usuarios y reflexionar sobre el impacto que tiene lo que se escucha en la cultura popular sobre nuestras vidas y la cultura de la población.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Un caso particular de una aplicación podría ser como herramienta de detección de ‘violencia mediática’, en una ley recientemente aprobada en México: la ley ‘Olimpia’, en la cual se integró este término, que como se puede leer en el periódico Excélsior[2], se define como:",
-      "en": "A particular case of an application could be as a tool for detecting 'media violence', in a law recently adopted in Mexico: the 'Olimpia' law, in which this term was integrated, which as can be read in the Excelsior newspaper [2], is defined as:",
+      "en": "A particular case of an application could be as a tool for detecting 'media violence', in a law recently approved in Mexico: the 'Olimpia' law, in which this term was integrated, which as can be read in the newspaper Excélsior[2], is defined as:",
       "es": "Un caso particular de una aplicación podría ser como herramienta de detección de ‘violencia mediática’, en una ley recientemente aprobada en México: la ley ‘Olimpia’, en la cual se integró este término, que como se puede leer en el periódico Excélsior[2], se define como:",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Todo acto que a través de cualquier medio de comunicación:",
@@ -591,65 +1121,135 @@
     },
     {
       "source": "-Promueva estereotipos sexistas.",
-      "en": "- It promotes sexist stereotypes.",
+      "en": "-Promote sexist stereotypes.",
       "es": "-Promueva estereotipos sexistas.",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "-Haga apología de la violencia contra mujeres y niñas.",
-      "en": "- Apology for violence against women and girls.",
+      "en": "-Advocate violence against women and girls.",
       "es": "-Haga apología de la violencia contra mujeres y niñas.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "-Produzca o permita la producción y difusión de discursos de odio sexista.",
-      "en": "-Produce or allow the production and dissemination of sexist hate speech.",
+      "en": "-Produces or allows the production and dissemination of sexist hate speech.",
       "es": "-Produzca o permita la producción y difusión de discursos de odio sexista.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "-Promueva la discriminación de género o desigualdad entre mujeres y hombres.",
-      "en": "It promotes gender discrimination or inequality between women and men.",
+      "en": "-Promotes gender discrimination or inequality between women and men.",
       "es": "-Promueva la discriminación de género o desigualdad entre mujeres y hombres.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "-Cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.",
-      "en": "- It causes harm to women and girls of a psychological, sexual, physical, economic, property or femicide type.",
+      "en": "-Cause harm to women and girls of a psychological, sexual, physical, economic, patrimonial or femicidal nature.",
       "es": "-Cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Ejemplo de API con el logo del equipo desarrollador",
-      "en": "Example of API with the developer team logo",
+      "en": "Example of API with the logo of the development team",
       "es": "Ejemplo de API con el logo del equipo desarrollador",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ": Procesamiento Natural del Lenguaje, por sus siglas en inglés (Natural Language Processing) es la rama de la Inteligencia Artificial que estudia la interacción del lenguaje humano con las computadoras.",
-      "en": ": Natural Language Processing, is the branch of Artificial Intelligence that studies the interaction of human language with computers.",
+      "en": ": Natural Language Processing is the branch of Artificial Intelligence that studies the interaction of human language with computers.",
       "es": ": Procesamiento Natural del Lenguaje, por sus siglas en inglés (Natural Language Processing) es la rama de la Inteligencia Artificial que estudia la interacción del lenguaje humano con las computadoras.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Corpus",
@@ -661,65 +1261,135 @@
     },
     {
       "source": "(pl. corpora): Un corpus lingüístico es un conjunto amplio y estructurado de ejemplos reales de uso de la lengua. Estos ejemplos pueden ser textos (los más comunes), o muestras orales (generalmente transcritas). [3]",
-      "en": "(pl. corpora): A linguistic corpus is a broad and structured set of real examples of language use. These examples can be texts (the most common), or oral samples (usually transcribed). [3]",
+      "en": "(pl. corpora): A linguistic corpus is a large and structured set of real examples of language use. These examples can be texts (the most common), or oral samples (generally transcribed). [3]",
       "es": "(pl. corpora): Un corpus lingüístico es un conjunto amplio y estructurado de ejemplos reales de uso de la lengua. Estos ejemplos pueden ser textos (los más comunes), o muestras orales (generalmente transcritas). [3]",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Relaciona una palabra flexionada o derivada con su forma canónica o lema. Y un lema no es otra cosa que la forma que tienen las palabras cuando las buscas en el diccionario. [4]",
-      "en": "It relates a flexed or derivative word to its canonical form or motto. And a motto is nothing more than the form that words have when you look for them in the dictionary. [4]",
+      "en": "Relate an inflected or derived word to its canonical form or lemma. And a motto is nothing more than the form that words have when you look them up in the dictionary. [4]",
       "es": "Relaciona una palabra flexionada o derivada con su forma canónica o lema. Y un lema no es otra cosa que la forma que tienen las palabras cuando las buscas en el diccionario. [4]",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Stopword:",
       "en": "Stopword:",
-      "es": "Parada:",
+      "es": "Palabra de parada:",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Palabras muy comunes y poco informativas desde el punto de vista léxico, tales como conjunciones (y, o, ni, qué), preposiciones (a, en, para, por, entre otras) y verbos muy comunes (ser, ir, y otros más).[4]",
-      "en": "Very common and uninformative words from the lexical point of view, such as conjunctions (and, or, or, what), prepositions (a, in, for, among others) and very common verbs (be, go, and others). [4]",
+      "en": "Very common words that are not very informative from a lexical point of view, such as conjunctions (and, or, nor, what), prepositions (a, en, para, por, among others) and very common verbs (ser, ir, and others).[4]",
       "es": "Palabras muy comunes y poco informativas desde el punto de vista léxico, tales como conjunciones (y, o, ni, qué), preposiciones (a, en, para, por, entre otras) y verbos muy comunes (ser, ir, y otros más).[4]",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Gómez Escarda, María., Pérez Redondo, Rubuén J. (2016) “",
-      "en": "Gómez Escarda, María., Pérez Redondo, Rubuén J. (2016) \"",
+      "en": "Gómez Escarda, María., Pérez Redondo, Rubuén J. (2016) “",
       "es": "Gómez Escarda, María., Pérez Redondo, Rubuén J. (2016) “",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": ". Universidad Rey Juan Carlos, España.",
-      "en": ". Rey Juan Carlos University, Spain.",
+      "en": ". King Juan Carlos University, Spain.",
       "es": ". Universidad Rey Juan Carlos, España.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Robles De la Rosa, Leticia (Noviembre 2020). Aprueban ‘Ley Olimpia’ para todo el país; establecen delito en el Código Penal Federal. Excélsior.",
-      "en": "Robles De la Rosa, Leticia (November 2020). They approve 'Olimpia Law' for the whole country; they establish an offence in the Federal Criminal Code. Excelsior.",
+      "en": "Robles De la Rosa, Leticia (November 2020). They approve 'Olimpia Law' for the entire country; establish a crime in the Federal Penal Code. Excelsior.",
       "es": "Robles De la Rosa, Leticia (Noviembre 2020). Aprueban ‘Ley Olimpia’ para todo el país; establecen delito en el Código Penal Federal. Excélsior.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Werner, Welte; Meno Blanco, Francisco (1985). Lingüística Moderna: Terminología y Bibliografía. Madrid: Gredos.",
@@ -732,12 +1402,22 @@
     },
     {
       "source": "Urdaneta Fernández, Lino Alberto (4 Mayo 2019). Reducir el número de palabras de un texto: lematización y radicalización (stemming) con Python. Medium.",
-      "en": "Urdaneta Fernández, Lino Alberto (4 May 2019). Reduce the number of words of a text: lematization and radicalization (stemming) with Python. Medium.",
+      "en": "Urdaneta Fernández, Lino Alberto (May 4, 2019). Reduce the number of words in a text: lemmatization and stemming with Python. Medium.",
       "es": "Urdaneta Fernández, Lino Alberto (4 Mayo 2019). Reducir el número de palabras de un texto: lematización y radicalización (stemming) con Python. Medium.",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Álvarez Leandro",
@@ -749,11 +1429,21 @@
     },
     {
       "source": "Cuadros Alejandra",
-      "en": "Alejandra Tables",
+      "en": "Alejandra paintings",
       "es": "Cuadros Alejandra",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Morales Leobardo",
@@ -765,11 +1455,21 @@
     },
     {
       "source": "Ramírez Héctor",
-      "en": "Ramírez Hector",
+      "en": "Ramirez Hector",
       "es": "Ramírez Héctor",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     },
     {
       "source": "Samaniego Luis",
@@ -789,11 +1489,21 @@
     },
     {
       "source": "Igualdad de Genero",
-      "en": "Gender equality",
+      "en": "Gender Equality",
       "es": "Igualdad de Genero",
       "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      }
     }
   ]
 }

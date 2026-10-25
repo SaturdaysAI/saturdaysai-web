@@ -106,10 +106,15 @@
     {
       "source": "Mexico",
       "en": "Mexico",
-      "es": "Mexico",
-      "reviewed": false,
+      "es": "México",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Paraguay",
@@ -177,28 +182,43 @@
     },
     {
       "source": "Tarragona",
-      "en": "Tarragone",
+      "en": "Tarragona",
       "es": "Tarragona",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "No matching communities.",
       "en": "No matching communities.",
-      "es": "No hay comunidades iguales.",
-      "reviewed": false,
+      "es": "No encontramos comunidades con esa búsqueda.",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Try a country name, or explore another region.",
       "en": "Try a country name, or explore another region.",
-      "es": "Pruebe un nombre de país, o explore otra región.",
-      "reviewed": false,
+      "es": "Prueba con un país o explora otra región.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Show all communities",
@@ -240,20 +260,30 @@
     {
       "source": "Find a Saturdays.AI community near you. Meet curious people, learn together and build AI projects with social impact.",
       "en": "Find a Saturdays.AI community near you. Meet curious people, learn together and build AI projects with social impact.",
-      "es": "Encuentra una comunidad de Saturdays.AI cerca de ti. Conoce gente curiosa, aprende juntos y construye proyectos de IA con impacto social.",
-      "reviewed": false,
+      "es": "Encuentra una comunidad de Saturdays.AI cerca de ti. Conoce a personas curiosas, aprende en equipo y crea proyectos de IA con impacto social.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Find your local AI community",
       "en": "Find your local AI community",
-      "es": "Encuentre su comunidad local de IA",
-      "reviewed": false,
+      "es": "Encuentra tu comunidad local de IA",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "All communities are listed below. Search and region filters require JavaScript.",

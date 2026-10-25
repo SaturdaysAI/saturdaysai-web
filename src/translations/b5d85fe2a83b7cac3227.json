@@ -565,10 +565,15 @@
     },
     {
       "source": "Procesamiento del Leguaje Natural (PLN) para el Análisis de Ofertas de Trabajo",
-      "en": "Natural Language Processing (PLN) for the Analysis of Job Offers",
-      "es": "Procesamiento del Leguaje Natural (PLN) para el Análisis de Ofertas de Trabajo",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Natural language processing (NLP) for analysing job postings",
+      "es": "Procesamiento del lenguaje natural (PLN) para el análisis de ofertas de trabajo",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Curated bilingual site copy"
+      }
     },
     {
       "source": "Apr 6, 2022",

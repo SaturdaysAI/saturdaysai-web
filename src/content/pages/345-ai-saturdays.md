@@ -1,9 +1,6 @@
 ---
 title: AI Saturdays
-description: AI Saturdays Our flagship program AI Saturdays lasts about 12-15
-  sessions of 5h each. It is always scheduled on Saturdays, so that everyone has
-  the opportunity to learn while building projects powered by AI. Watch what
-  it's…
+description: "AI Saturdays combines practical AI learning, mentor support and a team project. Find a community and ask about its next edition."
 image: /media/0ef120ccb4ffe457.webp
 legacyPath: /ai-saturdays/
 sourceUrl: https://saturdays.ai/ai-saturdays/
@@ -12,6 +9,16 @@ language: en
 draft: false
 kind: page
 ---
+
+## From curiosity to a project you can share
+
+AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and work together on a project with social impact. A Demo Day gives each team a chance to share what it has built and learned.
+
+Editions typically run over 12 to 15 Saturdays. Each community confirms its format, prerequisites and dates. The programme archive below shows how previous editions worked.
+
+[Ask about the next edition](https://saturdays.ai/contacto/) | [Explore learning resources](https://saturdays.ai/online/)
+
+## Archive of previous editions
 
 ## AI Saturdays
 

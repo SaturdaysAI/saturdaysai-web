@@ -1,9 +1,6 @@
 ---
 title: Curso ChatGPT y prompt engineering basico
-description: "ChatGPT 💬 y Prompt Engineering Aprende cómo usar ChatGPT y
-  empieza con la ingeniería de prompts o «prompt engineering«, para hacer
-  «recetas» y ayudarte a ser 10x más eficiente. Cuando: Siempre.Donde: online
-  (link en botón)Qué…"
+description: "Aprende a utilizar ChatGPT y a diseñar prompts con ejemplos y ejercicios prácticos de Saturdays.AI."
 image: /media/6e5c38c3156a8b32.webp
 legacyPath: /curso-chatgpt/
 sourceUrl: https://saturdays.ai/curso-chatgpt/
