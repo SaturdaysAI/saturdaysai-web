@@ -44,3 +44,11 @@ La verificación de producción pasa Astro, 36 pruebas automatizadas, la constru
 La evidencia de trabajo y los registros de comprobación se guardan en `artifacts/editorial-2026-10-25/`, excluidos de la publicación. Las pruebas en dispositivos físicos y los datos de campo de rendimiento siguen teniendo las limitaciones documentadas en la auditoría anterior.
 
 En navegador se ha leído la presentación española e inglesa, la página de España Online y la privacidad inglesa. En la presentación a 375 px se comprobó el cambio de idioma y la biografía desplegable de Miguel: sin desbordamiento horizontal ni imágenes cargadas rotas. La revisión en contexto detectó y eliminó una pregunta económica huérfana, corrigió horarios que decían `13 AM` y unió párrafos partidos del programa. La última construcción y sus comprobaciones incluyen esas correcciones.
+
+## Publicación
+
+Contenido publicado: `28c8da2b1fed89e15711f65dabe205100cfa00d8`. La [ejecución de GitHub Actions](https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40226712935) completó correctamente la validación y el despliegue en `https://saturdays.ai/`.
+
+Se confirmó por HTTPS el texto nuevo de portada, presentación, aviso legal, privacidad y España Online en ambos idiomas. La portada española y la presentación inglesa también se leyeron en el navegador público. En escritorio, la portada tenía 1265 px de anchura sin desbordamiento ni imágenes cargadas rotas; no se capturaron errores de consola. Captura: `artifacts/editorial-2026-10-25/home-live-es.png`.
+
+La verificación pública completa terminó a las 20:45 CET del 25 de octubre: **6.219 archivos, incluidas las 916 páginas HTML y 444 tarjetas sociales vigentes, con cero fallos**. Se usaron DNS público y validación estricta de certificados TLS. Los metadatos publicados coinciden con la construcción revisada; también pasaron las alternancias de idioma, datos estructurados, sitemap, robots, redirecciones y respuesta 404. Informe local: `artifacts/editorial-2026-10-25/live-verification.json`. Las diez comprobaciones específicas de narrativa y datos legales constan en `live-editorial-checks.json`.

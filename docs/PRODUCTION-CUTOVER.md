@@ -23,7 +23,7 @@ Production removes the review banner and permits search crawling on substantive 
 
 - Final live verification passed through normal public DNS and strict HTTPS: 6,220 current files, including all 916 HTML pages and 445 current social cards, with zero failures. The verifier excludes 493 superseded cards retained only in the local development cache and checks that every published page references the current manifest. Report: `artifacts/cutover-2026-10-25/live-verification-current.json`.
 - HTTP, www and the old GitHub Pages preview URL redirect permanently to the HTTPS canonical domain, preserving article paths and query strings. A nonexistent route returns HTTP 404. All published page metadata, language alternatives, structured data, indexing directives, robots.txt and sitemap passed the live checks; no insecure embedded HTTP resources were detected.
-- Current production content commit: `39ed042ed91fa455b60d36ddf032a1f1de5a308c`.
+- Content commit verified during the cutover: `39ed042ed91fa455b60d36ddf032a1f1de5a308c`. Later editorial publication is recorded in the [editorial review](EDITORIAL-REVIEW-2026-10-25.md).
 - [Successful production workflow](https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40221486945).
 - Local production verification: 33 tests passed; Astro reported zero errors, warnings and hints.
 - 916 generated HTML pages, 162 legacy articles, 72,572 local references, 4,130 section links, 3,754 image dimensions and 1,832 language alternatives checked.
