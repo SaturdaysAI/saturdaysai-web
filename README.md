@@ -1,6 +1,6 @@
 # Saturdays.AI website
 
-Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and the public WordPress archive. This remains a separate review site: **saturdays.ai has not been switched over.**
+Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and the public WordPress archive. See the [production deployment record](docs/PRODUCTION-CUTOVER.md) for the domain status and rollback procedure.
 
 - [Website preview](https://saturdaysai.github.io/saturdaysai-web/)
 - [Pages CMS editor](https://app.pagescms.org/saturdaysai/saturdaysai-web/main)
@@ -60,7 +60,7 @@ Other editable collections cover imported pages, the homepage, city profiles and
 | `public/brand/`, `public/media/`                | Brand assets, optimized article images and referenced documents         |
 | `imports/manifest.json`                         | Source IDs, paths, asset provenance, exclusions and source gaps         |
 | `.pages.yml`                                    | Hosted visual editor configuration                                      |
-| `.github/workflows/deploy.yml`                  | Validate and deploy the preview                                         |
+| `.github/workflows/deploy.yml`                  | Validate and deploy the website                                         |
 
 Imported HTML is sanitized before Markdown conversion and again at rendering. Original scripts and forms are not executed. Approved audio/video providers load only after the reader presses Play. External LMS accounts, enrolment, forms and media services remain with their providers.
 
@@ -74,15 +74,15 @@ Use `npm run build` and `npm run preview` for a complete bilingual local preview
 
 ## Deployment and rollback
 
-GitHub Pages uses GitHub Actions with:
+GitHub Pages uses GitHub Actions. The repository variable `PAGES_CUSTOM_DOMAIN=saturdays.ai` selects the production build:
 
 ```text
-SITE_URL=https://saturdaysai.github.io
-BASE_PATH=/saturdaysai-web
-PUBLIC_SITE_MODE=preview
+SITE_URL=https://saturdays.ai
+BASE_PATH=/
+PUBLIC_SITE_MODE=production
 ```
 
-The preview is noindex and robots.txt disallows search crawlers while allowing named social preview crawlers (WhatsApp, Facebook, Twitter and LinkedIn). There is no CNAME or automatic production cutover. Connecting the production domain is a separate decision after reviewing the preview and remaining source gaps. Preserve course subdomains and email DNS records during any eventual cutover.
+Without that variable, the workflow builds the noindex review site at `https://saturdaysai.github.io/saturdaysai-web/`. Setting the variable changes the build only; the GitHub Pages custom domain and DNS must be configured separately. Custom GitHub Actions publishing does not use a CNAME file. Production verification checks canonical URLs, indexing rules, sitemap, language alternatives and removal of the preview banner. Preserve course subdomains and email DNS records during domain changes. Follow the [cutover and rollback record](docs/PRODUCTION-CUTOVER.md).
 
 ## Mobile reading and sharing assets
 

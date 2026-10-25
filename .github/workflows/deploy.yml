@@ -1,4 +1,4 @@
-name: Validate and deploy pilot
+name: Validate and deploy website
 on:
   push:
     branches: [main]
@@ -14,9 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ASTRO_TELEMETRY_DISABLED: '1'
-      SITE_URL: https://saturdaysai.github.io
-      BASE_PATH: /saturdaysai-web
-      PUBLIC_SITE_MODE: preview
+      SITE_URL: ${{ vars.PAGES_CUSTOM_DOMAIN && format('https://{0}', vars.PAGES_CUSTOM_DOMAIN) || 'https://saturdaysai.github.io' }}
+      BASE_PATH: ${{ vars.PAGES_CUSTOM_DOMAIN && '/' || '/saturdaysai-web' }}
+      PUBLIC_SITE_MODE: ${{ vars.PAGES_CUSTOM_DOMAIN && 'production' || 'preview' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -39,6 +39,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy pilot
+      - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4

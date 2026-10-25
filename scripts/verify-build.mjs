@@ -127,6 +127,15 @@ for (const file of htmlFiles) {
     !$('meta[name=robots]').attr('content')?.includes('noindex')
   )
     errors.push(`${rel}: preview must be noindex`);
+  if (process.env.PUBLIC_SITE_MODE === 'production') {
+    if ($('.preview-banner').length) errors.push(`${rel}: production contains a preview banner`);
+    const robots = $('meta[name=robots]').attr('content') || '';
+    if (indexablePath(route, '/')) {
+      if (/noindex|nofollow/.test(robots)) errors.push(`${rel}: production page blocks indexing`);
+    } else if (!robots.includes('noindex')) {
+      errors.push(`${rel}: excluded production page must remain noindex`);
+    }
+  }
   if (
     /PILOT_DRAFT_MUST_NOT_BE_PUBLISHED|CMS_DRAFT_MUST_NOT_BE_PUBLISHED|cms-connection-test|comprar-tramadol|Comprar-Zolpidem/i.test(
       text,
@@ -199,6 +208,11 @@ sitemap('loc').each((_, loc) =>
   ),
 );
 if (process.env.PUBLIC_SITE_MODE !== 'production') assert.match(robots, /Disallow: \//);
+else {
+  assert.match(robots, /User-agent: \*\nAllow: \/\n/);
+  assert.doesNotMatch(robots, /Disallow: \/(?:\s|$)/);
+  assert.ok(robots.includes(`Sitemap: ${siteOrigin.replace(/\/$/, '')}${base}/sitemap-index.xml`));
+}
 const sizes = await Promise.all(files.map((p) => stat(p)));
 const bytes = sizes.reduce((n, s) => n + s.size, 0);
 assert.ok(bytes < 1024 ** 3, 'GitHub Pages size limit');
