@@ -24,6 +24,7 @@ let imageDimensionsChecked = 0;
 const documentIds = new Map();
 const fragmentLinks = [];
 const manifest = JSON.parse(await readFile('imports/manifest.json', 'utf8'));
+const socialCards = JSON.parse(await readFile('public/social/manifest.json', 'utf8'));
 for (const post of manifest.posts)
   assert.ok(known.has(`${post.path.slice(1)}index.html`), `Missing legacy route: ${post.path}`);
 for (const city of manifest.cities)
@@ -91,6 +92,11 @@ for (const file of htmlFiles) {
     errors.push(`${rel}: missing SEO metadata`);
   const social = $('meta[property="og:image"]');
   const socialURL = social.attr('content');
+  if (
+    rel === 'index.html' &&
+    socialURL !== siteOrigin.replace(/\/$/, '') + base + socialCards.default
+  )
+    errors.push(`${rel}: homepage must use the community brand card`);
   if (
     social.length !== 1 ||
     !socialURL ||
