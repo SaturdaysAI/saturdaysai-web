@@ -2,7 +2,7 @@
 
 Astro, GitHub Pages and Pages CMS, using the official Saturdays.AI identity and the public WordPress archive. See the [production deployment record](docs/PRODUCTION-CUTOVER.md) for the domain status and rollback procedure.
 
-- [Website preview](https://saturdaysai.github.io/saturdaysai-web/)
+- [Website](https://saturdays.ai/)
 - [Pages CMS editor](https://app.pagescms.org/saturdaysai/saturdaysai-web/main)
 - [Migration inventory and limitations](docs/MIGRATION.md)
 - [Brand sources and rules](docs/BRAND.md)
@@ -26,7 +26,7 @@ Responsive cover images are generated automatically before development and build
 
 ## Content and experience
 
-The public snapshot contains 162 posts (including 41 podcast episodes), 63 legitimate pages and 23 city communities. All original post/page paths are preserved after the preview prefix. Category, tag and date archives provide additional routes.
+The public snapshot contains 162 posts (including 41 podcast episodes), 63 legitimate pages and 23 city communities. All original post/page paths are preserved at the domain root. Category, tag and date archives provide additional routes.
 
 The design uses the supplied logo, Montserrat and the official orange, navy, blue and white palette. Search and topic/year filters, progressive article lists, a city finder, resource directory, learning selector, reading progress, subtle motion and click-to-load media keep the site useful without a large application framework. Images and fonts are served locally. Basic reading and navigation work without JavaScript. Reduced-motion settings are respected.
 
@@ -83,6 +83,8 @@ PUBLIC_SITE_MODE=production
 ```
 
 Without that variable, the workflow builds the noindex review site at `https://saturdaysai.github.io/saturdaysai-web/`. Setting the variable changes the build only; the GitHub Pages custom domain and DNS must be configured separately. Custom GitHub Actions publishing does not use a CNAME file. Production verification checks canonical URLs, indexing rules, sitemap, language alternatives and removal of the preview banner. Preserve course subdomains and email DNS records during domain changes. Follow the [cutover and rollback record](docs/PRODUCTION-CUTOVER.md).
+
+After building with the production environment above and deploying, run `npm run verify:live`. It checks the published HTML and every built asset through normal DNS and strict HTTPS, verifies the apex and www certificates, redirects, metadata, indexing rules, sitemap and a missing route. The report is saved to `artifacts/live-verification.json`; set `LIVE_REPORT` to choose another local report path. This verifies delivery and deployment consistency, not real-device usability or field performance.
 
 ## Mobile reading and sharing assets
 
