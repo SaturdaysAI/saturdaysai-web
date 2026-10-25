@@ -1,7 +1,8 @@
 export function indexablePath(pathname, base = '/') {
   const prefix = base.replace(/\/$/, '');
-  const path =
+  const localPath =
     prefix && pathname.startsWith(prefix + '/') ? pathname.slice(prefix.length) : pathname;
+  const path = localPath.replace(/^\/en(?=\/)/, '');
   return (
     !['/admin/', '/404/', '/404.html', '/privacy-policy/', '/terms/', '/starchat/'].includes(
       path,

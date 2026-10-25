@@ -1,0 +1,923 @@
+{
+  "title": "Predicción de zonas de desertificación usando IA.",
+  "route": "/2022/04/07/prediccion-de-zonas-de-desertificacion-en-aragon-usando-ia/",
+  "segments": [
+    {
+      "source": "Un proyecto de la comunidad de Zaragoza que utiliza imágenes satelitales y aprendizaje automático para estudiar el riesgo de desertificación en Aragón.",
+      "en": "A project from the Zaragoza community that uses satellite images and machine learning to study the risk of desertification in Aragon.",
+      "es": "Un proyecto de la comunidad de Zaragoza que utiliza imágenes satelitales y aprendizaje automático para estudiar el riesgo de desertificación en Aragón.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes Satelitales",
+      "en": "Satellite Images",
+      "es": "Imágenes Satelitales",
+      "reviewed": false
+    },
+    {
+      "source": "Índice de vegetación NDVI",
+      "en": "NDVI Vegetation Index",
+      "es": "Índice de vegetación NDVI",
+      "reviewed": false
+    },
+    {
+      "source": "Manipulando la imagen",
+      "en": "Manipulating the image",
+      "es": "Manipulando la imagen",
+      "reviewed": false
+    },
+    {
+      "source": "Obtención y preparación de datos",
+      "en": "Data collection and preparation",
+      "es": "Obtención y preparación de datos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Preparación",
+      "en": "Preparation",
+      "es": "Preparación",
+      "reviewed": false
+    },
+    {
+      "source": "¿Y la predicción de valores de desertificación?",
+      "en": "And the prediction of desertification values?",
+      "es": "¿Y la predicción de valores de desertificación?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La desertificación se produce por la",
+      "en": "Desertification is caused by",
+      "es": "La desertificación se produce por la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "degradación de la tierra",
+      "en": "land degradation",
+      "es": "degradación de la tierra",
+      "reviewed": false
+    },
+    {
+      "source": "que se da en zonas secas: áridas, semiáridas y subhúmedas secas. La actividad humana y las variaciones climáticas están entre las causas de esta degradación del suelo, que",
+      "en": "which occurs in dry areas: arid, semi-arid and dry subhumid. Human activity and climate variations are among the causes of this soil degradation, which",
+      "es": "que se da en zonas secas: áridas, semiáridas y subhúmedas secas. La actividad humana y las variaciones climáticas están entre las causas de esta degradación del suelo, que",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "impacta en los ecosistemas y en los recursos y modos de vida",
+      "en": "impacts ecosystems and resources and ways of life",
+      "es": "impacta en los ecosistemas y en los recursos y modos de vida",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "de los habitantes de las zonas afectadas. Estas zonas secas son aquellas con un índice de aridez (IA=P/ETP) inferior a 0,65.",
+      "en": "of the inhabitants of the affected areas. These dry areas are those with an aridity index (AI=P/ETP) less than 0.65.",
+      "es": "de los habitantes de las zonas afectadas. Estas zonas secas son aquellas con un índice de aridez (IA=P/ETP) inferior a 0,65.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "España es uno de los territorios que sufre esta problemática. En Aragón el 75% del territorio está en riesgo de desertización. El cambio climático y el incremento de las temperaturas amenazan las tierras semiáridas que predominan en el Valle del Ebro, desde la ciudad de Huesca hacia el sur. Identificar a tiempo estas zonas será de gran ayuda para el apoyo a la toma de acciones que permitirán mitigar el impacto que la desertificación trae sobre la seguridad alimentaria así como la reducción de la pérdida de hábitats naturales y biodiversidad, todo esto, alineado con los",
+      "en": "Spain is one of the territories that suffers from this problem. In Aragon, 75% of the territory is at risk of desertification. Climate change and increasing temperatures threaten the semi-arid lands that predominate in the Ebro Valley, from the city of Huesca to the south. Identifying these areas in time will be of great help to support the taking of actions that will mitigate the impact that desertification brings on food security as well as reducing the loss of natural habitats and biodiversity, all of this, aligned with the",
+      "es": "España es uno de los territorios que sufre esta problemática. En Aragón el 75% del territorio está en riesgo de desertización. El cambio climático y el incremento de las temperaturas amenazan las tierras semiáridas que predominan en el Valle del Ebro, desde la ciudad de Huesca hacia el sur. Identificar a tiempo estas zonas será de gran ayuda para el apoyo a la toma de acciones que permitirán mitigar el impacto que la desertificación trae sobre la seguridad alimentaria así como la reducción de la pérdida de hábitats naturales y biodiversidad, todo esto, alineado con los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Objetivos de Desarrollo Sostenible de Naciones Unidas",
+      "en": "United Nations Sustainable Development Goals",
+      "es": "Objetivos de Desarrollo Sostenible de Naciones Unidas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Enfoque sobre los objetivos de Desarrollo Sostenibles 13 y 15. Accion por el clima y biodiversidad",
+      "en": "Focus on Sustainable Development Goals 13 and 15. Action for climate and biodiversity",
+      "es": "Enfoque sobre los objetivos de Desarrollo Sostenibles 13 y 15. Accion por el clima y biodiversidad",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Enfoque sobre los objetivos de Desarrollo Sostenibles 13 y 15. Fuente:",
+      "en": "Focus on Sustainable Development Goals 13 and 15. Source:",
+      "es": "Enfoque sobre los objetivos de Desarrollo Sostenibles 13 y 15. Fuente:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para identificar estas zonas se propone un proceso que gestione el reconocimiento mediante imágenes satelitales de las zonas de desertificación en Aragón y permita realizar una aproximación a la predicción de posibles futuras zonas desérticas con el objetivo de aplicar políticas más eficientes referentes a la reforestación de las zonas afectadas, y nuevos tratamientos de cultivos. Con apoyo de la iniciativa",
+      "en": "To identify these areas, a process is proposed that manages the recognition through satellite images of the desertification areas in Aragon and allows an approach to be made to predict possible future desert areas with the aim of applying more efficient policies regarding the reforestation of the affected areas, and new crop treatments. With support from the initiative",
+      "es": "Para identificar estas zonas se propone un proceso que gestione el reconocimiento mediante imágenes satelitales de las zonas de desertificación en Aragón y permita realizar una aproximación a la predicción de posibles futuras zonas desérticas con el objetivo de aplicar políticas más eficientes referentes a la reforestación de las zonas afectadas, y nuevos tratamientos de cultivos. Con apoyo de la iniciativa",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Saturdays.AI Zaragoza,",
+      "en": "Saturdays.AI Zaragoza,",
+      "es": "Saturdays.AI Zaragoza,",
+      "reviewed": false
+    },
+    {
+      "source": "cuyo objetivo es acercar la IA a todos los ciudadanos y aplicarla a problemas sociales, queremos dar solución o una aproximación a resolver este escenario que nos hemos planteado como equipo de trabajo.",
+      "en": "whose objective is to bring AI closer to all citizens and apply it to social problems, we want to provide a solution or an approach to resolve this scenario that we have considered as a work team.",
+      "es": "cuyo objetivo es acercar la IA a todos los ciudadanos y aplicarla a problemas sociales, queremos dar solución o una aproximación a resolver este escenario que nos hemos planteado como equipo de trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Es entonces, cuando nos planteamos las siguientes inquietudes, ¿Cómo es posible calcular si hay o no desertificación en una zona determinada?, ¿qué imágenes pueden funcionar para este propósito?, ¿Cómo la IA nos puede apoyar para predecir estos valores? A lo largo de este artículo intentaremos dar solución a estas cuestiones.",
+      "en": "It is then when we ask ourselves the following concerns: How is it possible to calculate whether or not there is desertification in a given area? What images can work for this purpose? How can AI support us to predict these values? Throughout this article we will try to solve these questions.",
+      "es": "Es entonces, cuando nos planteamos las siguientes inquietudes, ¿Cómo es posible calcular si hay o no desertificación en una zona determinada?, ¿qué imágenes pueden funcionar para este propósito?, ¿Cómo la IA nos puede apoyar para predecir estos valores? A lo largo de este artículo intentaremos dar solución a estas cuestiones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las herramientas de teledetección hacen posible la visualización y cálculo de cambios que ocurren sobre la superficie terrestre, aquellas que nos interesan, los que corresponden a la teledetección pasiva (",
+      "en": "Remote sensing tools make it possible to visualize and calculate changes that occur on the Earth's surface, those that interest us, those that correspond to passive remote sensing (",
+      "es": "Las herramientas de teledetección hacen posible la visualización y cálculo de cambios que ocurren sobre la superficie terrestre, aquellas que nos interesan, los que corresponden a la teledetección pasiva (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Definición de Teledetección",
+      "en": "Definition of Remote Sensing",
+      "es": "Definición de Teledetección",
+      "reviewed": false
+    },
+    {
+      "source": "), en nuestro caso concreto, captan la radiación solar reflejada por la superficie. Es bien sabido que organismos vivos reflejan y absorben radiación solar en forma diferente a como lo hacen los objetos inertes como calles o edificios. Aprovechando este principio, los satélites generan imágenes que contienen estas diferencias en forma de Niveles Digitales y bandas, que se traducen en unidades numéricas que se corresponden con los valores de longitudes de onda de las diferentes secciones del espectro electromagnético (",
+      "en": "), in our specific case, they capture the solar radiation reflected by the surface. It is well known that living organisms reflect and absorb solar radiation differently than inert objects such as streets or buildings. Taking advantage of this principle, satellites generate images that contain these differences in the form of Digital Levels and bands, which are translated into numerical units that correspond to the wavelength values of the different sections of the electromagnetic spectrum (",
+      "es": "), en nuestro caso concreto, captan la radiación solar reflejada por la superficie. Es bien sabido que organismos vivos reflejan y absorben radiación solar en forma diferente a como lo hacen los objetos inertes como calles o edificios. Aprovechando este principio, los satélites generan imágenes que contienen estas diferencias en forma de Niveles Digitales y bandas, que se traducen en unidades numéricas que se corresponden con los valores de longitudes de onda de las diferentes secciones del espectro electromagnético (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Espectro electromagnético y teledetección",
+      "en": "Electromagnetic spectrum and remote sensing",
+      "es": "Espectro electromagnético y teledetección",
+      "reviewed": false
+    },
+    {
+      "source": "). En resumen, miden la radiación reflejada por objetos como edificios o autopistas o entes vivos como bosques o vegetación en general.",
+      "en": "). In short, they measure the radiation reflected by objects such as buildings or highways or living entities such as forests or vegetation in general.",
+      "es": "). En resumen, miden la radiación reflejada por objetos como edificios o autopistas o entes vivos como bosques o vegetación en general.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Principales Componentes de un sistema de Teledetección",
+      "en": "Main Components of a Remote Sensing System",
+      "es": "Principales Componentes de un sistema de Teledetección",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Principales Componentes de un sistema de Teledetección. Fuente : Curso de teledección",
+      "en": "Main Components of a Remote Sensing System. Source: Remote sensing course",
+      "es": "Principales Componentes de un sistema de Teledetección. Fuente : Curso de teledección",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los cambios en la vegetación con el soporte de las imágenes satelitales se pueden medir de diferentes formas, una de ellas es extrayendo índices de vegetación, “",
+      "en": "Changes in vegetation with the support of satellite images can be measured in different ways, one of them is by extracting vegetation indices, “",
+      "es": "Los cambios en la vegetación con el soporte de las imágenes satelitales se pueden medir de diferentes formas, una de ellas es extrayendo índices de vegetación, “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los Índices de Vegetación son combinaciones de las bandas espectrales registradas por los satélites de Teledetección",
+      "en": "Vegetation Indices are combinations of the spectral bands recorded by Remote Sensing satellites",
+      "es": "Los Índices de Vegetación son combinaciones de las bandas espectrales registradas por los satélites de Teledetección",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Cuál es el índice de Vegetación NDVI?",
+      "en": "What is the NDVI Vegetation Index?",
+      "es": "¿Cuál es el índice de Vegetación NDVI?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ") que permiten identificar vegetación sobre la superficie terrestre. Es allí,con ayuda de estos índices en donde se resaltan y se pueden analizar numéricamente las propiedades de la vegetación como tal.",
+      "en": ") that allow identifying vegetation on the earth's surface. It is there, with the help of these indices, that the properties of the vegetation as such are highlighted and can be analyzed numerically.",
+      "es": ") que permiten identificar vegetación sobre la superficie terrestre. Es allí,con ayuda de estos índices en donde se resaltan y se pueden analizar numéricamente las propiedades de la vegetación como tal.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Interacción de los elementos de la superficie terrestre con la radiación",
+      "en": "Interaction of elements of the Earth's surface with radiation",
+      "es": "Interacción de los elementos de la superficie terrestre con la radiación",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Interacción de los elementos de la superficie terrestre con la radiación. Fuente: Universidad de Murcia. Apuntes de teledetección. <",
+      "en": "Interaction of the elements of the Earth's surface with radiation. Source: University of Murcia. Remote sensing notes. <",
+      "es": "Interacción de los elementos de la superficie terrestre con la radiación. Fuente: Universidad de Murcia. Apuntes de teledetección. <",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El NDVI es el Índice de Vegetación Diferencial Normalizado, NDVI por sus siglas en inglés. Este índice es un parámetro calculado que se basa en los valores capturados por el instrumento satelital donde identifica patrones del espectro electromagnético que se corresponden con la reflectividad de coberturas vegetales. Este índice permite ayudar a distinguir fácilmente vegetación en imágenes satelitales.",
+      "en": "The NDVI is the Normalized Differential Vegetation Index, NDVI for its acronym in English. This index is a calculated parameter that is based on the values captured by the satellite instrument where it identifies patterns of the electromagnetic spectrum that correspond to the reflectivity of vegetation covers. This index helps to easily distinguish vegetation in satellite images.",
+      "es": "El NDVI es el Índice de Vegetación Diferencial Normalizado, NDVI por sus siglas en inglés. Este índice es un parámetro calculado que se basa en los valores capturados por el instrumento satelital donde identifica patrones del espectro electromagnético que se corresponden con la reflectividad de coberturas vegetales. Este índice permite ayudar a distinguir fácilmente vegetación en imágenes satelitales.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los patrones del espectro electromagnético para identificar la vegetación muestran que la vegetación absorbe la sección de radiación solar que corresponde al rojo. A su vez se reflejan valores elevados en el infrarrojo cercano y podremos identificar valores multiespectrales brillantes en esta banda (",
+      "en": "The patterns of the electromagnetic spectrum to identify vegetation show that vegetation absorbs the section of solar radiation that corresponds to red. At the same time, high values are reflected in the near infrared and we will be able to identify bright multispectral values in this band (",
+      "es": "Los patrones del espectro electromagnético para identificar la vegetación muestran que la vegetación absorbe la sección de radiación solar que corresponde al rojo. A su vez se reflejan valores elevados en el infrarrojo cercano y podremos identificar valores multiespectrales brillantes en esta banda (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Valores Espectrales del NDVI",
+      "en": "NDVI Spectral Values",
+      "es": "Valores Espectrales del NDVI",
+      "reviewed": false
+    },
+    {
+      "source": "Representación de cobertura vegetal en RED y NIR",
+      "en": "Representation of vegetation cover in RED and NIR",
+      "es": "Representación de cobertura vegetal en RED y NIR",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Representación de cobertura vegetal en RED y NIR. Fuente: Calculo de NDVI",
+      "en": "Representation of vegetation cover in RED and NIR. Source: NDVI calculation",
+      "es": "Representación de cobertura vegetal en RED y NIR. Fuente: Calculo de NDVI",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Así podemos diferenciar cubiertas vegetales en diferentes estados. Nuestro índice podrá ser obtenido mediante la siguiente relación:",
+      "en": "This way we can differentiate vegetal covers in different states. Our index can be obtained through the following relationship:",
+      "es": "Así podemos diferenciar cubiertas vegetales en diferentes estados. Nuestro índice podrá ser obtenido mediante la siguiente relación:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "NDVI = (Banda infrarroja cercana — Banda roja) / (Banda infrarroja cercana + Banda roja)",
+      "en": "NDVI = (Near Infrared Band — Red Band) / (Near Infrared Band + Red Band)",
+      "es": "NDVI = (Banda infrarroja cercana — Banda roja) / (Banda infrarroja cercana + Banda roja)",
+      "reviewed": false
+    },
+    {
+      "source": "O lo que es lo mismo, y en términos de nomenclatura cuando trabajamos las bandas multiespectrales:",
+      "en": "Or what is the same, and in terms of nomenclature when we work with multispectral bands:",
+      "es": "O lo que es lo mismo, y en términos de nomenclatura cuando trabajamos las bandas multiespectrales:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "NDVI = (NIR — RED) / (NIR + RED)",
+      "en": "NDVI = (NIR — RED) / (NIR + RED)",
+      "es": "NDVI = (NIR — RED) / (NIR + RED)",
+      "reviewed": false
+    },
+    {
+      "source": "Una vez se ha calculado el índice para cada uno de los píxeles de la imagen, los valores posibles oscilan entre -1 y 1.",
+      "en": "Once the index has been calculated for each of the image pixels, the possible values range between -1 and 1.",
+      "es": "Una vez se ha calculado el índice para cada uno de los píxeles de la imagen, los valores posibles oscilan entre -1 y 1.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Valores de NDVI para diferentes zonas",
+      "en": "NDVI values for different zones",
+      "es": "Valores de NDVI para diferentes zonas",
+      "reviewed": false
+    },
+    {
+      "source": "Valores de NDVI para diferentes zonas. Fuente: propia",
+      "en": "NDVI values for different areas. Source: own",
+      "es": "Valores de NDVI para diferentes zonas. Fuente: propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuanto mayor sea el valor más frondosa será la vegetación hasta adquirir valores próximos a 1.",
+      "en": "The higher the value, the more lush the vegetation will be until it acquires values close to 1.",
+      "es": "Cuanto mayor sea el valor más frondosa será la vegetación hasta adquirir valores próximos a 1.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para comprender mejor cómo podemos usar estos valores entre bandas y niveles digitales, es importante identificar las propiedades de una imagen en general y cómo se ven estos valores a nivel de computación.",
+      "en": "To better understand how we can use these values across bands and digital levels, it is important to identify the properties of an image in general and what these values look like at the computational level.",
+      "es": "Para comprender mejor cómo podemos usar estos valores entre bandas y niveles digitales, es importante identificar las propiedades de una imagen en general y cómo se ven estos valores a nivel de computación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Derecha: como un ser humano ve una imagen. Izquierda: como la procesa un ordenador (matrices)",
+      "en": "Right: how a human being sees an image. Left: how a computer processes it (matrices)",
+      "es": "Derecha: como un ser humano ve una imagen. Izquierda: como la procesa un ordenador (matrices)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Derecha: como un ser humano ve una imagen. Izquierda: como la procesa un ordenador. Fuente: Material Satudays.AI, Zaragoza. Edición I. 2021–2022. Tratamiento de Imágenes.",
+      "en": "Right: how a human being sees an image. Left: how a computer processes it. Source: Material Satudays.AI, Zaragoza. Edition I. 2021–2022. Image Treatment.",
+      "es": "Derecha: como un ser humano ve una imagen. Izquierda: como la procesa un ordenador. Fuente: Material Satudays.AI, Zaragoza. Edición I. 2021–2022. Tratamiento de Imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El ordenador o los métodos de computación, estructuran las imágenes en matrices con valores (i,j) estos valores (i,j) representan numéricamente el valor en términos computacionales de dicha coordenada sobre la imagen original (sin digitalizar). Cada uno de estos valores es lo que se denomina “pixel”",
+      "en": "The computer or computing methods structure the images into matrices with values (i,j) these values (i,j) numerically represent the value in computational terms of said coordinate on the original image (without digitizing). Each of these values is what is called a “pixel”.",
+      "es": "El ordenador o los métodos de computación, estructuran las imágenes en matrices con valores (i,j) estos valores (i,j) representan numéricamente el valor en términos computacionales de dicha coordenada sobre la imagen original (sin digitalizar). Cada uno de estos valores es lo que se denomina “pixel”",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para imágenes satelitales ocurre algo similar,la única diferencia radica en los valores para cada píxel, en este caso representan en niveles digitales para valores de reflectancia de radiación solar (espectro electromagnético) reflejada por el objeto terrestre sobre el cual el instrumento (el satélite) está midiendo.",
+      "en": "For satellite images something similar happens, the only difference lies in the values for each pixel, in this case they represent in digital levels for reflectance values of solar radiation (electromagnetic spectrum) reflected by the terrestrial object on which the instrument (the satellite) is measuring.",
+      "es": "Para imágenes satelitales ocurre algo similar,la única diferencia radica en los valores para cada píxel, en este caso representan en niveles digitales para valores de reflectancia de radiación solar (espectro electromagnético) reflejada por el objeto terrestre sobre el cual el instrumento (el satélite) está midiendo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Firmas espectrales en imágenes.",
+      "en": "Spectral signatures in images.",
+      "es": "Firmas espectrales en imágenes.",
+      "reviewed": false
+    },
+    {
+      "source": "Firmas espectrales en imágenes. Fuente: Imagen 45. Utilización en imágenes multiespectrales.",
+      "en": "Spectral signatures in images. Source: Image 45. Use in multispectral images.",
+      "es": "Firmas espectrales en imágenes. Fuente: Imagen 45. Utilización en imágenes multiespectrales.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Obtención",
+      "en": "Obtaining",
+      "es": "Obtención",
+      "reviewed": false
+    },
+    {
+      "source": "Ya que se hará un análisis sobre cambios en la superficie terrestre, las imágenes satelitales que se eligieron fueron del instrumento Sentinel 2A. Para la obtención de datos usamos la librería de Python",
+      "en": "Since an analysis will be carried out on changes in the Earth's surface, the satellite images that were chosen were from the Sentinel 2A instrument. To obtain data we use the Python library",
+      "es": "Ya que se hará un análisis sobre cambios en la superficie terrestre, las imágenes satelitales que se eligieron fueron del instrumento Sentinel 2A. Para la obtención de datos usamos la librería de Python",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "SentinelSat",
+      "en": "SentinelSat",
+      "es": "SentinelSat",
+      "reviewed": false
+    },
+    {
+      "source": "para la descarga de imágenes en el área que nos interesa. Es de anotar que las imágenes se han tomado con los siguientes condicionantes: para un área específica detallada en un fichero .json, para la misma tesela (zona de captura de imagen del satélite) y sección de órbita para garantizar que se está tomando la misma zona de estudio para diferentes momentos de tiempo.",
+      "en": "for downloading images in the area that interests us. It should be noted that the images have been taken with the following conditions: for a specific area detailed in a .json file, for the same tile (satellite image capture area) and orbit section to guarantee that the same study area is being taken for different moments in time.",
+      "es": "para la descarga de imágenes en el área que nos interesa. Es de anotar que las imágenes se han tomado con los siguientes condicionantes: para un área específica detallada en un fichero .json, para la misma tesela (zona de captura de imagen del satélite) y sección de órbita para garantizar que se está tomando la misma zona de estudio para diferentes momentos de tiempo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fuente: propia (Codigo completo en https://github.com/desertificacion-AI/desertificacion-AI)",
+      "en": "Source: own (Full code at https://github.com/desertificacion-AI/desertificacion-AI)",
+      "es": "Fuente: propia (Codigo completo en https://github.com/desertificacion-AI/desertificacion-AI)",
+      "reviewed": false
+    },
+    {
+      "source": "Fragmento de código para la descarga de imágenes sentinel del sitio scihub.copernicus.eu Fuente: Propia",
+      "en": "Code fragment for downloading sentinel images from the scihub.copernicus.eu site Source: Own",
+      "es": "Fragmento de código para la descarga de imágenes sentinel del sitio scihub.copernicus.eu Fuente: Propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "NOTA",
+      "en": "NOTE",
+      "es": "NOTA",
+      "reviewed": false
+    },
+    {
+      "source": ": Para la obtención y captura de los datos se han descargado las imágenes de Sentinel con un porcentaje de nubes máximo de 10%.",
+      "en": ": To obtain and capture the data, Sentinel images have been downloaded with a maximum cloud percentage of 10%.",
+      "es": ": Para la obtención y captura de los datos se han descargado las imágenes de Sentinel con un porcentaje de nubes máximo de 10%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez ejecutado el script para la descarga de imágenes del satélite, se descarga una serie de ficheros zip que contienen cada uno la siguiente estructura al momento de descomprimirlos:",
+      "en": "Once the script to download satellite images has been executed, a series of zip files are downloaded, each containing the following structure when decompressed:",
+      "es": "Una vez ejecutado el script para la descarga de imágenes del satélite, se descarga una serie de ficheros zip que contienen cada uno la siguiente estructura al momento de descomprimirlos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Estructura de fichero descargado del sitio scihub.copernicus.eu Fuente: propia",
+      "en": "File structure downloaded from the scihub.copernicus.eu site Source: own",
+      "es": "Estructura de fichero descargado del sitio scihub.copernicus.eu Fuente: propia",
+      "reviewed": false
+    },
+    {
+      "source": "Cada una de las imágenes Sentinel vienen dadas con un consecutivo de nombre de imagen con la siguiente estructura:",
+      "en": "Each Sentinel image is given a consecutive image name with the following structure:",
+      "es": "Cada una de las imágenes Sentinel vienen dadas con un consecutivo de nombre de imagen con la siguiente estructura:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MS2_MSILLL_YYYYMMDD",
+      "en": "MS2_MSILLL_YYYYMMDD",
+      "es": "MS2_MSILLL_YYYYMMDD",
+      "reviewed": false
+    },
+    {
+      "source": "MS2",
+      "en": "MS2",
+      "es": "MS2",
+      "reviewed": false
+    },
+    {
+      "source": ": identifica la misión de Sentinel 2, pudiendo encontrar S2A (para Sentinel 2A) o S2B (para Sentinel 2B)",
+      "en": ": identifies the mission of Sentinel 2, being able to find S2A (for Sentinel 2A) or S2B (for Sentinel 2B)",
+      "es": ": identifica la misión de Sentinel 2, pudiendo encontrar S2A (para Sentinel 2A) o S2B (para Sentinel 2B)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MSI",
+      "en": "MSI",
+      "es": "MSI",
+      "reviewed": false
+    },
+    {
+      "source": ": indica el instrumento de operación (MultiSpectral instrument)",
+      "en": ": indicates the operating instrument (MultiSpectral instrument)",
+      "es": ": indica el instrumento de operación (MultiSpectral instrument)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "LLL",
+      "en": "LLL",
+      "es": "LLL",
+      "reviewed": false
+    },
+    {
+      "source": ": indica el nivel de procesado del producto pudiendo encontrar los niveles L0, L1C, L1B o L2A",
+      "en": ": indicates the level of processing of the product and can find levels L0, L1C, L1B or L2A",
+      "es": ": indica el nivel de procesado del producto pudiendo encontrar los niveles L0, L1C, L1B o L2A",
+      "reviewed": false
+    },
+    {
+      "source": "YYYY",
+      "en": "YYYY",
+      "es": "YYYY",
+      "reviewed": false
+    },
+    {
+      "source": ": designa el momento temporal UTC (año) en el que fue tomada la imagen",
+      "en": ": designates the UTC time point (year) in which the image was taken",
+      "es": ": designa el momento temporal UTC (año) en el que fue tomada la imagen",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MM",
+      "en": "MM",
+      "es": "MM",
+      "reviewed": false
+    },
+    {
+      "source": ": designa el momento temporal UTC (mes) en el que fue tomada la imagen",
+      "en": ": designates the UTC time point (month) in which the image was taken",
+      "es": ": designa el momento temporal UTC (mes) en el que fue tomada la imagen",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "DD",
+      "en": "D.D.",
+      "es": "DD",
+      "reviewed": false
+    },
+    {
+      "source": ": designa el momento temporal UTC (día) en el que fue tomada la imagen",
+      "en": ": designates the UTC time point (day) in which the image was taken",
+      "es": ": designa el momento temporal UTC (día) en el que fue tomada la imagen",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las descargas de Sentinel para el proyecto fueron:",
+      "en": "Sentinel downloads for the project were:",
+      "es": "Las descargas de Sentinel para el proyecto fueron:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Relación de imágenes.",
+      "en": "List of images.",
+      "es": "Relación de imágenes.",
+      "reviewed": false
+    },
+    {
+      "source": "Fuente: Propia",
+      "en": "Source: Own",
+      "es": "Fuente: Propia",
+      "reviewed": false
+    },
+    {
+      "source": "Una vez obtenidas las imágenes, sobre ellas calcularemos los índices NDVI mediante Script en Python.",
+      "en": "Once the images are obtained, we will calculate the NDVI indices on them using a Python script.",
+      "es": "Una vez obtenidas las imágenes, sobre ellas calcularemos los índices NDVI mediante Script en Python.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fragmento de código para el cálculo del NDVI para las imágenes descargadas",
+      "en": "Code snippet for calculating NDVI for downloaded images",
+      "es": "Fragmento de código para el cálculo del NDVI para las imágenes descargadas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para entender la salida de este script, las imágenes con el NDVI calculado (nuevos ficheros tif), se debe tener en cuenta que esta transformación imágenes nos da lugar a una imagen compuesta por una matriz de valores donde cada valor corresponde a un pixel (representación en la imagen) y este valor oscila entre -1 y 1. Recordando el apartado de Índice de Vegetación, a partir de 0.3 entendemos que hay vegetación para ese píxel (valor de matriz).",
+      "en": "To understand the output of this script, the images with the calculated NDVI (new tif files), it must be taken into account that this image transformation gives us an image composed of a matrix of values where each value corresponds to a pixel (representation in the image) and this value ranges between -1 and 1. Remembering the Vegetation Index section, from 0.3 we understand that there is vegetation for that pixel (matrix value).",
+      "es": "Para entender la salida de este script, las imágenes con el NDVI calculado (nuevos ficheros tif), se debe tener en cuenta que esta transformación imágenes nos da lugar a una imagen compuesta por una matriz de valores donde cada valor corresponde a un pixel (representación en la imagen) y este valor oscila entre -1 y 1. Recordando el apartado de Índice de Vegetación, a partir de 0.3 entendemos que hay vegetación para ese píxel (valor de matriz).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Captura de pantalla de las imágenes NDVI generadas por el script. Fuente: Propia",
+      "en": "Screenshot of the NDVI images generated by the script. Source: Own",
+      "es": "Captura de pantalla de las imágenes NDVI generadas por el script. Fuente: Propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Detalle de una de las imágenes NDVI generadas por el script de Python. Fuente: Propia",
+      "en": "Detail of one of the NDVI images generated by the Python script. Source: Own",
+      "es": "Detalle de una de las imágenes NDVI generadas por el script de Python. Fuente: Propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ya estamos en el punto en donde, hemos identificado la zona sobre la que trabajaremos, hemos hallado los índices de vegetación para estas zonas en diferentes momentos de tiempo, ahora continuaremos con el establecimiento de una relación entre los valores medidos y cómo estos cambian en el tiempo (nuestra variable continua) para anticipar un conjunto de nuevos valores.",
+      "en": "We are already at the point where, we have identified the area on which we will work, we have found the vegetation indices for these areas at different moments in time, now we will continue with the establishment of a relationship between the measured values and how they change over time (our continuous variable) to anticipate a set of new values.",
+      "es": "Ya estamos en el punto en donde, hemos identificado la zona sobre la que trabajaremos, hemos hallado los índices de vegetación para estas zonas en diferentes momentos de tiempo, ahora continuaremos con el establecimiento de una relación entre los valores medidos y cómo estos cambian en el tiempo (nuestra variable continua) para anticipar un conjunto de nuevos valores.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Deseamos construir un modelo que describa la relación entre las variables de estudio, con el fin, principalmente, de predecir los valores de una variable a partir de los valores de la otra. Elegiremos",
+      "en": "We wish to build a model that describes the relationship between the study variables, with the aim, mainly, of predicting the values of one variable from the values of the other. we will choose",
+      "es": "Deseamos construir un modelo que describa la relación entre las variables de estudio, con el fin, principalmente, de predecir los valores de una variable a partir de los valores de la otra. Elegiremos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ya que tenemos un conjunto de valores numéricos que hemos considerado como categorías (cada imagen con su matriz específica) y luego promediamos la salida de cada árbol de decisión usando este algoritmo ( Definición de Random Forest regressor. Material Saturdays AI. Zaragoza. Edición I. 2021–2022. Sesión Regresores).",
+      "en": "since we have a set of numerical values that we have considered as categories (each image with its specific matrix) and then we average the output of each decision tree using this algorithm (Definition of Random Forest regressor. Material Saturdays AI. Zaragoza. Edition I. 2021–2022. Session Regressors).",
+      "es": "ya que tenemos un conjunto de valores numéricos que hemos considerado como categorías (cada imagen con su matriz específica) y luego promediamos la salida de cada árbol de decisión usando este algoritmo ( Definición de Random Forest regressor. Material Saturdays AI. Zaragoza. Edición I. 2021–2022. Sesión Regresores).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fuente: Definición de Random Forest regressor. Material Saturdays AI. Zaragoza. Edición I. Sesión Regresores. 2021–2022",
+      "en": "Source: Definition of Random Forest regressor. Material Saturdays AI. Saragossa. Edition I. Regressors Session. 2021–2022",
+      "es": "Fuente: Definición de Random Forest regressor. Material Saturdays AI. Zaragoza. Edición I. Sesión Regresores. 2021–2022",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Breve resumen del funcionamiento de Random Forest Regressor",
+      "en": "Brief summary of how Random Forest Regressor works",
+      "es": "Breve resumen del funcionamiento de Random Forest Regressor",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como este es un modelo de Machine Learning Supervisado, tomaremos las imágenes con el NDVI calculado, solo una zona de las misma para el aprendizaje del modelo y la zona siguiente de las imágenes para la predicción futura de índices NDVI.",
+      "en": "As this is a Supervised Machine Learning model, we will take the images with the calculated NDVI, only one area of ​​them for model learning and the next area of ​​the images for the future prediction of NDVI indices.",
+      "es": "Como este es un modelo de Machine Learning Supervisado, tomaremos las imágenes con el NDVI calculado, solo una zona de las misma para el aprendizaje del modelo y la zona siguiente de las imágenes para la predicción futura de índices NDVI.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para el entrenamiento del algoritmo, se tomaron 5 imágenes con NDVI calculado y una imagen adicional como salida conocida. De cada una de las imágenes se ha elegido un subset de igual tamaño para añadirlos a un vector en Python. Lo anterior se realiza por capacidad de procesamiento de las máquinas disponibles, las imágenes originales tienen dimensiones de 10.000×10.000 píxeles que no es posible procesar de forma ágil y eficiente con los recursos disponibles en el grupo de trabajo.",
+      "en": "For algorithm training, 5 images with calculated NDVI and one additional image as known output were taken. From each of the images, a subset of equal size has been chosen to add them to a vector in Python. The above is done due to the processing capacity of the available machines, the original images have dimensions of 10,000×10,000 pixels that cannot be processed quickly and efficiently with the resources available in the work group.",
+      "es": "Para el entrenamiento del algoritmo, se tomaron 5 imágenes con NDVI calculado y una imagen adicional como salida conocida. De cada una de las imágenes se ha elegido un subset de igual tamaño para añadirlos a un vector en Python. Lo anterior se realiza por capacidad de procesamiento de las máquinas disponibles, las imágenes originales tienen dimensiones de 10.000×10.000 píxeles que no es posible procesar de forma ágil y eficiente con los recursos disponibles en el grupo de trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes con NDVI calculado. Fuente: propia.",
+      "en": "Images with NDVI calculated. Source: own.",
+      "es": "Imágenes con NDVI calculado. Fuente: propia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nota Aclaratoria:",
+      "en": "Explanatory Note:",
+      "es": "Nota Aclaratoria:",
+      "reviewed": false
+    },
+    {
+      "source": "Cada imagen de NDVI calculado tiene un tamaño de 470MB aproximadamente, por lo que 6 de ellas nos da un estimado de 2,8GB para hacer el procesamiento de este dataset.",
+      "en": "Each calculated NDVI image has a size of approximately 470MB, so 6 of them gives us an estimated 2.8GB to process this dataset.",
+      "es": "Cada imagen de NDVI calculado tiene un tamaño de 470MB aproximadamente, por lo que 6 de ellas nos da un estimado de 2,8GB para hacer el procesamiento de este dataset.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fragmento de código para la elección del subset de datos para el Random Forest de entrenamiento. Fuente: propia",
+      "en": "Code fragment for choosing the data subset for the training Random Forest. Source: own",
+      "es": "Fragmento de código para la elección del subset de datos para el Random Forest de entrenamiento. Fuente: propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con ayuda de la librería",
+      "en": "With the help of the bookstore",
+      "es": "Con ayuda de la librería",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "sklearn",
+      "en": "sklearn",
+      "es": "sklearn",
+      "reviewed": false
+    },
+    {
+      "source": "establecemos un set de entrenamiento para el algoritmo con el que poder “enseñarle” cómo puede intentar predecir los siguientes valores y ejecutar la siguiente fase de prueba (testing).",
+      "en": "We establish a training set for the algorithm with which we can “teach” it how it can try to predict the following values and execute the next testing phase.",
+      "es": "establecemos un set de entrenamiento para el algoritmo con el que poder “enseñarle” cómo puede intentar predecir los siguientes valores y ejecutar la siguiente fase de prueba (testing).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Prueba",
+      "en": "Test",
+      "es": "Prueba",
+      "reviewed": false
+    },
+    {
+      "source": "Para probar el algoritmo, se tomaron las mismas 5imágenes con el NDVI calculado pero esta vez, el subset elegido corresponde a otra porción de la imagen. En el entrenamiento hemos elegido una sección, para la prueba (test) elegimos una sección distinta.",
+      "en": "To test the algorithm, the same 5 images were taken with the NDVI calculated but this time, the chosen subset corresponds to another portion of the image. In training we have chosen a section, for the test we choose a different section.",
+      "es": "Para probar el algoritmo, se tomaron las mismas 5imágenes con el NDVI calculado pero esta vez, el subset elegido corresponde a otra porción de la imagen. En el entrenamiento hemos elegido una sección, para la prueba (test) elegimos una sección distinta.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fragmento de código para la elección de los datos de test para el algoritmo. Fuente: Propia",
+      "en": "Code fragment for choosing test data for the algorithm. Source: Own",
+      "es": "Fragmento de código para la elección de los datos de test para el algoritmo. Fuente: Propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El margen de error para la imagen predicha es el siguiente:",
+      "en": "The margin of error for the predicted image is as follows:",
+      "es": "El margen de error para la imagen predicha es el siguiente:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Margen de error resultante de la predicción. Fuente Propia.",
+      "en": "Margin of error resulting from the prediction. Own Source.",
+      "es": "Margen de error resultante de la predicción. Fuente Propia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Margen de error resultante de la predicción. Fuente: Propia.",
+      "en": "Margin of error resulting from the prediction. Source: Own.",
+      "es": "Margen de error resultante de la predicción. Fuente: Propia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Es necesario saber si el algoritmo es capaz de predecir correctamente una imagen. Utilizaremos una imagen que ya se tiene para validar la efectividad del algoritmo a la hora de predecir el resultado.",
+      "en": "It is necessary to know if the algorithm is capable of correctly predicting an image. We will use an image that we already have to validate the effectiveness of the algorithm in predicting the result.",
+      "es": "Es necesario saber si el algoritmo es capaz de predecir correctamente una imagen. Utilizaremos una imagen que ya se tiene para validar la efectividad del algoritmo a la hora de predecir el resultado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Derecha: Imagen original. Izquierda: Imagen predicha. Fuente: Propia.",
+      "en": "Right: Original image. Left: Predicted image. Source: Own.",
+      "es": "Derecha: Imagen original. Izquierda: Imagen predicha. Fuente: Propia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Visualización en Streamlit",
+      "en": "Streamlit visualization",
+      "es": "Visualización en Streamlit",
+      "reviewed": false
+    },
+    {
+      "source": "En la página",
+      "en": "on the page",
+      "es": "En la página",
+      "reviewed": false
+    },
+    {
+      "source": "desertIAragon",
+      "en": "desertIAragon",
+      "es": "desertIAragon",
+      "reviewed": false
+    },
+    {
+      "source": "se encuentra desplegada la aplicación de Streamlit para visualizar los cambios en NDVI calculados",
+      "en": "The Streamlit application is deployed to view the changes in calculated NDVI",
+      "es": "se encuentra desplegada la aplicación de Streamlit para visualizar los cambios en NDVI calculados",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Captura de pantalla del sitio web de Streamlit para mostrar imágenes calculadas. Fuente : Propia",
+      "en": "Screenshot of the Streamlit website to show calculated images. Source: Own",
+      "es": "Captura de pantalla del sitio web de Streamlit para mostrar imágenes calculadas. Fuente : Propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En la sección",
+      "en": "In the section",
+      "es": "En la sección",
+      "reviewed": false
+    },
+    {
+      "source": ", encontramos un subset de 2000×2000 píxeles de las imágenes extraídas del sitio web de Sentinel:",
+      "en": ", we find a 2000x2000 pixel subset of the images taken from the Sentinel website:",
+      "es": ", encontramos un subset de 2000×2000 píxeles de las imágenes extraídas del sitio web de Sentinel:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes satelitales de 200x220 px. Fuente: propia",
+      "en": "200x220 px satellite images. Source: own",
+      "es": "Imágenes satelitales de 200x220 px. Fuente: propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes satelitales de 2000 x 2000 px. Fuente: propia",
+      "en": "Satellite images of 2000 x 2000 px. Source: own",
+      "es": "Imágenes satelitales de 2000 x 2000 px. Fuente: propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La sección de cuadrículas de estudio, nos permite elegir la coordenada deseada para mostrar los cambios en el NDVI calculado y sus valores. Elegir la coordenada en las opciones disponibles en el panel izquierdo:",
+      "en": "The study grids section allows us to choose the desired coordinate to display the changes in the calculated NDVI and its values. Choose the coordinate from the options available in the left panel:",
+      "es": "La sección de cuadrículas de estudio, nos permite elegir la coordenada deseada para mostrar los cambios en el NDVI calculado y sus valores. Elegir la coordenada en las opciones disponibles en el panel izquierdo:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Elección de coordenada para la cuadrícula de estudio. Fuente: propia",
+      "en": "Choice of coordinate for the study grid. Source: own",
+      "es": "Elección de coordenada para la cuadrícula de estudio. Fuente: propia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Valor de NDVI calculado para la imagen 1. Fuente: Propia.",
+      "en": "NDVI value calculated for image 1. Source: Own.",
+      "es": "Valor de NDVI calculado para la imagen 1. Fuente: Propia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El sistema se entrena con una porción igual de cada una de las imágenes 1 a 5. Esta porción es un recuadro de coordenadas aleatorias y dimensiones igual al ancho/alto de la cuadrícula indicado en la banda lateral (en Streamlit).",
+      "en": "The system is trained with an equal portion of each of images 1 to 5. This portion is a box of random coordinates and dimensions equal to the width/height of the grid indicated in the sideband (in Streamlit).",
+      "es": "El sistema se entrena con una porción igual de cada una de las imágenes 1 a 5. Esta porción es un recuadro de coordenadas aleatorias y dimensiones igual al ancho/alto de la cuadrícula indicado en la banda lateral (en Streamlit).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La razón de elegir un recuadro reducido es el elevado coste computacional que tiene el entrenamiento del sistema. Este coste puede estar rondando aproximadamente 5 minutos de procesamiento para un fragmento inferior a 250 píxeles de dimensión, en un ordenador con una RAM de 8GB y un procesador: Intel Core I5 2,67 Ghz.",
+      "en": "The reason for choosing a reduced box is the high computational cost of training the system. This cost may be around 5 minutes of processing for a fragment less than 250 pixels in size, on a computer with 8GB RAM and a processor: Intel Core I5 ​​2.67 Ghz.",
+      "es": "La razón de elegir un recuadro reducido es el elevado coste computacional que tiene el entrenamiento del sistema. Este coste puede estar rondando aproximadamente 5 minutos de procesamiento para un fragmento inferior a 250 píxeles de dimensión, en un ordenador con una RAM de 8GB y un procesador: Intel Core I5 2,67 Ghz.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De esta forma la aplicación puede mostrar unos resultados de una forma relativamente ágil. Para el test se ha elegido las imágenes de las cuadrículas 1 a 5 con las que se ha obtenido el índice NDVI.",
+      "en": "In this way the application can show results in a relatively agile way. For the test, the images from grids 1 to 5 have been chosen with which the NDVI index has been obtained.",
+      "es": "De esta forma la aplicación puede mostrar unos resultados de una forma relativamente ágil. Para el test se ha elegido las imágenes de las cuadrículas 1 a 5 con las que se ha obtenido el índice NDVI.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La predicción se hace con la cuadrícula 6. Se compara la imagen original con la predicha por la IA.",
+      "en": "The prediction is made with grid 6. The original image is compared with the one predicted by the AI.",
+      "es": "La predicción se hace con la cuadrícula 6. Se compara la imagen original con la predicha por la IA.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Comparación fragmento de la imagen original vs. imagen predicha por la IA",
+      "en": "Comparison of fragment of the original image vs. AI predicted image",
+      "es": "Comparación fragmento de la imagen original vs. imagen predicha por la IA",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Datos generales de las imágenes:",
+      "en": "General image data:",
+      "es": "Datos generales de las imágenes:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Coordenadas de la esquina superior izquierda: i_0_i_0​ * j_0_j_0​ = 0 * 0 px Coordenadas de la esquina superior derecha: i_n_in_​ * j_n_jn_​ = 5 * 5 px",
+      "en": "Upper left corner coordinates: i_0_i_0​ * j_0_j_0​ = 0 * 0 px Upper right corner coordinates: i_n_in_​ * j_n_jn_​ = 5 * 5 px",
+      "es": "Coordenadas de la esquina superior izquierda: i_0_i_0​ * j_0_j_0​ = 0 * 0 px Coordenadas de la esquina superior derecha: i_n_in_​ * j_n_jn_​ = 5 * 5 px",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Error cuadrático promedio: 0.03719",
+      "en": "Mean square error: 0.03719",
+      "es": "Error cuadrático promedio: 0.03719",
+      "reviewed": false
+    },
+    {
+      "source": "Existe software propietario como",
+      "en": "There is proprietary software such as",
+      "es": "Existe software propietario como",
+      "reviewed": false
+    },
+    {
+      "source": "ERDAS",
+      "en": "ERDAS",
+      "es": "ERDAS",
+      "reviewed": false
+    },
+    {
+      "source": "para facilitar el cálculo de NDVI y algoritmos de regresión para predecir comportamientos, sin embargo, alineados con los principios de Saturdays.AI: acercar la IA a todos los ciudadanos y aplicarla a problemas sociales, hemos optado por una solución basada en herramientas de código abierto y disponibles para todo público.",
+      "en": "to facilitate the calculation of NDVI and regression algorithms to predict behaviors, however, aligned with the principles of Saturdays.AI: bringing AI closer to all citizens and applying it to social problems, we have opted for a solution based on open source tools available to the public.",
+      "es": "para facilitar el cálculo de NDVI y algoritmos de regresión para predecir comportamientos, sin embargo, alineados con los principios de Saturdays.AI: acercar la IA a todos los ciudadanos y aplicarla a problemas sociales, hemos optado por una solución basada en herramientas de código abierto y disponibles para todo público.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Este proyecto tiene la potencialidad de explorar como una fase siguiente la capacidad de procesamiento de datos para imágenes de dimensiones más grandes, ya sea en resolución espacial o temporal, de forma más eficiente en la nube. Tomando ventajas como procesamiento en paralelo o distribuido se podrán añadir más entradas al algoritmo y procesamientos más complejos que no se pueden suplir con los recursos actuales",
+      "en": "This project has the potential to explore as a next phase the data processing capacity for larger dimensional images, whether in spatial or temporal resolution, more efficiently in the cloud. Taking advantages such as parallel or distributed processing, it will be possible to add more inputs to the algorithm and more complex processing that cannot be supplied with current resources.",
+      "es": "Este proyecto tiene la potencialidad de explorar como una fase siguiente la capacidad de procesamiento de datos para imágenes de dimensiones más grandes, ya sea en resolución espacial o temporal, de forma más eficiente en la nube. Tomando ventajas como procesamiento en paralelo o distribuido se podrán añadir más entradas al algoritmo y procesamientos más complejos que no se pueden suplir con los recursos actuales",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La desertificación sobre las zonas evaluadas se puede predecir de forma eficiente, con un margen de error bastante reducido para la primera fase de evaluación. A nivel numérico es posible establecer dónde la vegetación se ha ido perdiendo a lo largo del tiempo y predecir sus valores futuros para tomar acciones a tiempo sobre estas zonas y evitar así, nuevas zonas de desertificación.",
+      "en": "Desertification over the evaluated areas can be predicted efficiently, with a fairly small margin of error for the first evaluation phase. At a numerical level it is possible to establish where vegetation has been lost over time and predict its future values ​​to take timely actions in these areas and thus avoid new areas of desertification.",
+      "es": "La desertificación sobre las zonas evaluadas se puede predecir de forma eficiente, con un margen de error bastante reducido para la primera fase de evaluación. A nivel numérico es posible establecer dónde la vegetación se ha ido perdiendo a lo largo del tiempo y predecir sus valores futuros para tomar acciones a tiempo sobre estas zonas y evitar así, nuevas zonas de desertificación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Eva de Miguel Morales",
+      "en": "Eva by Miguel Morales",
+      "es": "Eva de Miguel Morales",
+      "reviewed": false
+    },
+    {
+      "source": "Pedro Biel",
+      "en": "Pedro Biel",
+      "es": "Pedro Biel",
+      "reviewed": false
+    },
+    {
+      "source": "Yineth Castiblanco Rojas",
+      "en": "Yineth Castiblanco Rojas",
+      "es": "Yineth Castiblanco Rojas",
+      "reviewed": false
+    },
+    {
+      "source": "Adicionalmente, el código de visualización se puede encontrar en :",
+      "en": "Additionally, the display code can be found at:",
+      "es": "Adicionalmente, el código de visualización se puede encontrar en :",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "GitHub Streamlit",
+      "en": "GitHub Streamlit",
+      "es": "GitHub Streamlit",
+      "reviewed": false
+    }
+  ]
+}

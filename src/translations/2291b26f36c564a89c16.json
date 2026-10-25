@@ -1,0 +1,515 @@
+{
+  "title": "Detección de COVID-19 en imágenes de rayos X con Machine learning",
+  "route": "/2021/11/22/deteccion-de-covid-con-machine-learning/",
+  "segments": [
+    {
+      "source": "La Paz. Deep Learning. 2021 INTRODUCCIÓN La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de…",
+      "en": "Peace. Deep Learning. 2021 INTRODUCTION COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31,…",
+      "es": "La Paz. Deep Learning. 2021 INTRODUCCIÓN La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de…",
+      "reviewed": false
+    },
+    {
+      "source": "22 nov 2021",
+      "en": "Nov 22, 2021",
+      "es": "22 nov 2021",
+      "reviewed": false
+    },
+    {
+      "source": "¿QUÉ PRUEBAS SE UTILIZAN PARA DIAGNOSTICAR EL COVID-19?",
+      "en": "WHAT TESTS ARE USED TO DIAGNOSE COVID-19?",
+      "es": "¿QUÉ PRUEBAS SE UTILIZAN PARA DIAGNOSTICAR EL COVID-19?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "PROBLEMATICA",
+      "en": "PROBLEM",
+      "es": "PROBLEMATICA",
+      "reviewed": false
+    },
+    {
+      "source": "OBJETIVOS",
+      "en": "OBJECTIVES",
+      "es": "OBJETIVOS",
+      "reviewed": false
+    },
+    {
+      "source": "DESARROLLO DEL MODELO",
+      "en": "MODEL DEVELOPMENT",
+      "es": "DESARROLLO DEL MODELO",
+      "reviewed": false
+    },
+    {
+      "source": "SELECCION DEL MODELO Y TECNICAS IMPLEMENTADAS",
+      "en": "MODEL SELECTION AND IMPLEMENTED TECHNIQUES",
+      "es": "SELECCION DEL MODELO Y TECNICAS IMPLEMENTADAS",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "DESARROLLO DEL PROYECTO",
+      "en": "PROJECT DEVELOPMENT",
+      "es": "DESARROLLO DEL PROYECTO",
+      "reviewed": false
+    },
+    {
+      "source": "EVALUACION DEL MODELO",
+      "en": "MODEL EVALUATION",
+      "es": "EVALUACION DEL MODELO",
+      "reviewed": false
+    },
+    {
+      "source": "ANALISIS DE RESULTADOS",
+      "en": "ANALYSIS OF RESULTS",
+      "es": "ANALISIS DE RESULTADOS",
+      "reviewed": false
+    },
+    {
+      "source": "CONCLUSION",
+      "en": "CONCLUSION",
+      "es": "CONCLUSION",
+      "reviewed": false
+    },
+    {
+      "source": "BIBLIOGRAFIA",
+      "en": "BIBLIOGRAPHY",
+      "es": "BIBLIOGRAFIA",
+      "reviewed": false
+    },
+    {
+      "source": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China).",
+      "en": "COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31, 2019, when it was informed of a group of cases of \"viral pneumonia\" that had been declared in Wuhan (People's Republic of China).",
+      "es": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se llama SARS-CoV-2, por las siglas:",
+      "en": "It is called SARS-CoV-2, for the acronym:",
+      "es": "Se llama SARS-CoV-2, por las siglas:",
+      "reviewed": false
+    },
+    {
+      "source": "“SARS” porque puede producir un “Síndrome Respiratorio Agudo Grave” (siglas en inglés: Severe Acute Respiratory Syndrome, SARS).",
+      "en": "“SARS” because it can cause “Severe Acute Respiratory Syndrome” (SARS).",
+      "es": "“SARS” porque puede producir un “Síndrome Respiratorio Agudo Grave” (siglas en inglés: Severe Acute Respiratory Syndrome, SARS).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "“CoV” porque es un coronavirus.",
+      "en": "“CoV” because it is a coronavirus.",
+      "es": "“CoV” porque es un coronavirus.",
+      "reviewed": false
+    },
+    {
+      "source": "“2” porque ya existió un virus parecido en 2002–2003 que producía también SARS.",
+      "en": "“2” because a similar virus already existed in 2002–2003 that also caused SARS.",
+      "es": "“2” porque ya existió un virus parecido en 2002–2003 que producía también SARS.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "PCR",
+      "en": "PCR",
+      "es": "PCR",
+      "reviewed": false
+    },
+    {
+      "source": "Las PCR (siglas en inglés de “Reacción en Cadena de la Polimersa”), son un tipo de pruebas de diagnóstico que se llevan utilizando durante años en diferentes crisis de salud pública relacionadas con enfermedades infecciosas. Estas pruebas se están usando desde los primeros días del estallido de la pandemia de coronavirus en España. Sin embargo, los test rápidos se han incorporado recientemente y, como su nombre indica, son más rápidos y sencillos. Ambos sirven para comprobar si una persona está infectada o no por el Covid-19.",
+      "en": "PCR (acronym in English for “Polymerse Chain Reaction”) are a type of diagnostic tests that have been used for years in different public health crises related to infectious diseases. These tests have been used since the first days of the outbreak of the coronavirus pandemic in Spain. However, rapid tests have been incorporated recently and, as their name suggests, they are faster and easier. Both are used to check whether a person is infected or not by Covid-19.",
+      "es": "Las PCR (siglas en inglés de “Reacción en Cadena de la Polimersa”), son un tipo de pruebas de diagnóstico que se llevan utilizando durante años en diferentes crisis de salud pública relacionadas con enfermedades infecciosas. Estas pruebas se están usando desde los primeros días del estallido de la pandemia de coronavirus en España. Sin embargo, los test rápidos se han incorporado recientemente y, como su nombre indica, son más rápidos y sencillos. Ambos sirven para comprobar si una persona está infectada o no por el Covid-19.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ANTÍGENO",
+      "en": "ANTIGEN",
+      "es": "ANTÍGENO",
+      "reviewed": false
+    },
+    {
+      "source": "Prueba de antígeno. Esta prueba para la COVID-19 detecta ciertas proteínas en el virus. Se usa un hisopo para tomar una muestra de fluido de la nariz, y las pruebas de antígeno pueden dar resultados en minutos.",
+      "en": "Antigen test. This COVID-19 test detects certain proteins on the virus. A swab is used to take a sample of fluid from the nose, and antigen tests can give results in minutes.",
+      "es": "Prueba de antígeno. Esta prueba para la COVID-19 detecta ciertas proteínas en el virus. Se usa un hisopo para tomar una muestra de fluido de la nariz, y las pruebas de antígeno pueden dar resultados en minutos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Test antígeno",
+      "en": "Antigen test",
+      "es": "Test antígeno",
+      "reviewed": false
+    },
+    {
+      "source": "RADIOGRAFIA DE TORAX",
+      "en": "CHEST X-RAY",
+      "es": "RADIOGRAFIA DE TORAX",
+      "reviewed": false
+    },
+    {
+      "source": "Los escáneres o las radiografías producen una imagen de los órganos y estructuras (corazón, pulmones y vías respiratorias) del tórax. Pueden detectar bloqueos, inflamación y exceso de líquido.",
+      "en": "Scans or x-rays produce an image of the organs and structures (heart, lungs, and airways) in the chest. They can detect blockages, inflammation and excess fluid.",
+      "es": "Los escáneres o las radiografías producen una imagen de los órganos y estructuras (corazón, pulmones y vías respiratorias) del tórax. Pueden detectar bloqueos, inflamación y exceso de líquido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las radiografías utilizan una pequeña cantidad de radiación para producir una imagen en dos dimensiones. Por lo general, las realiza un radiólogo en el hospital mediante un equipo fijo, pero también se pueden hacer con una máquina portátil.",
+      "en": "X-rays use a small amount of radiation to produce a two-dimensional image. They are usually done by a radiologist in the hospital using stationary equipment, but they can also be done with a portable machine.",
+      "es": "Las radiografías utilizan una pequeña cantidad de radiación para producir una imagen en dos dimensiones. Por lo general, las realiza un radiólogo en el hospital mediante un equipo fijo, pero también se pueden hacer con una máquina portátil.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La tomografía computarizada (TC) utiliza una computadora para fusionar varias radiografías tomadas desde diferentes ángulos y producir así una imagen bidimensional que se puede convertir en una imagen tridimensional. Requiere de un equipo muy especializado y la realiza en el hospital un radiólogo especialista.",
+      "en": "Computed tomography (CT) uses a computer to merge several x-rays taken from different angles to produce a two-dimensional image that can be converted to a three-dimensional image. It requires very specialized equipment and is performed in the hospital by a specialist radiologist.",
+      "es": "La tomografía computarizada (TC) utiliza una computadora para fusionar varias radiografías tomadas desde diferentes ángulos y producir así una imagen bidimensional que se puede convertir en una imagen tridimensional. Requiere de un equipo muy especializado y la realiza en el hospital un radiólogo especialista.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se pueden realizar en un hospital o en otros centros sanitarios, como la consulta de un médico o una clínica.",
+      "en": "They can be done in a hospital or other healthcare facilities, such as a doctor's office or clinic.",
+      "es": "Se pueden realizar en un hospital o en otros centros sanitarios, como la consulta de un médico o una clínica.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Dado que hay kits de prueba de COVID-19 son de acceso limitado para la población en general, debemos confiar en otras medidas de diagnóstico.",
+      "en": "Since COVID-19 test kits are of limited access to the general population, we must rely on other diagnostic measures.",
+      "es": "Dado que hay kits de prueba de COVID-19 son de acceso limitado para la población en general, debemos confiar en otras medidas de diagnóstico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "IMÁGENES DE RAYOS X",
+      "en": "X-RAY IMAGES",
+      "es": "IMÁGENES DE RAYOS X",
+      "reviewed": false
+    },
+    {
+      "source": "En el campo de la medicina se utilizan con frecuencia radiografías y tomografías computarizadas para diagnosticar neumonía, inflamación pulmonar, abscesos y / o ganglios linfáticos agrandados. Dado que COVID-19 ataca las células epiteliales que recubren nuestro tracto respiratorio, podemos usar rayos X para analizar la salud de los pulmones de un paciente.",
+      "en": "X-rays and CT scans are frequently used in the medical field to diagnose pneumonia, lung inflammation, abscesses, and/or enlarged lymph nodes. Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use x-rays to analyze the health of a patient's lungs.",
+      "es": "En el campo de la medicina se utilizan con frecuencia radiografías y tomografías computarizadas para diagnosticar neumonía, inflamación pulmonar, abscesos y / o ganglios linfáticos agrandados. Dado que COVID-19 ataca las células epiteliales que recubren nuestro tracto respiratorio, podemos usar rayos X para analizar la salud de los pulmones de un paciente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una gran mayoría de los hospitales tienen máquinas de imágenes de rayos X, se plantea la siguiente pregunta: ¿Cómo se podría detectar COVID-19 en imágenes de rayos X?, sin los kits de prueba dedicados.",
+      "en": "With a vast majority of hospitals having X-ray imaging machines, the question arises: How could COVID-19 be detected in X-ray images? without dedicated testing kits.",
+      "es": "Una gran mayoría de los hospitales tienen máquinas de imágenes de rayos X, se plantea la siguiente pregunta: ¿Cómo se podría detectar COVID-19 en imágenes de rayos X?, sin los kits de prueba dedicados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Recopilar las entradas del modelo en datasets para el entrenamiento, pruebas y validación.",
+      "en": "Compile model inputs into datasets for training, testing, and validation.",
+      "es": "Recopilar las entradas del modelo en datasets para el entrenamiento, pruebas y validación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Desarrollar un modelo de diagnóstico del covid a través de imágenes de rayos X usando deep learning, con un porcentaje de confiabilidad aceptable.",
+      "en": "Develop a model for the diagnosis of the covid through X-ray images using deep learning, with an acceptable reliability percentage.",
+      "es": "Desarrollar un modelo de diagnóstico del covid a través de imágenes de rayos X usando deep learning, con un porcentaje de confiabilidad aceptable.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Evaluar los resultados del modelo a través de la matriz de confusión.",
+      "en": "Evaluate the results of the model through the confusion matrix.",
+      "es": "Evaluar los resultados del modelo a través de la matriz de confusión.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para el desarrollo del modelo se ha utilizado un dataset del repositorio de kaggle que tiene un total de 5.856 imágenes, se ha usado radiografías de pacientes que tenían neumonía porque estos pacientes tienen una alta probabilidad de tener covid-19.",
+      "en": "To develop the model, a dataset from the Kaggle repository has been used that has a total of 5,856 images. X-rays of patients who had pneumonia have been used because these patients have a high probability of having covid-19.",
+      "es": "Para el desarrollo del modelo se ha utilizado un dataset del repositorio de kaggle que tiene un total de 5.856 imágenes, se ha usado radiografías de pacientes que tenían neumonía porque estos pacientes tienen una alta probabilidad de tener covid-19.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para la construcción del modelo se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
+      "en": "Convolutional Neural Networks were used to build the model, because they are neural networks designed and widely used to work with images.",
+      "es": "Para la construcción del modelo se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las redes convolucionales contienen varias hidden layers, las cuales se encargan de detectar líneas, curvas y así con las convoluciones se permitirá detectar formas más complejas como siluetas, rostros, etc.",
+      "en": "Convolutional networks contain several hidden layers, which are responsible for detecting lines and curves and thus with convolutions it will be possible to detect more complex shapes such as silhouettes, faces, etc.",
+      "es": "Las redes convolucionales contienen varias hidden layers, las cuales se encargan de detectar líneas, curvas y así con las convoluciones se permitirá detectar formas más complejas como siluetas, rostros, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las herramientas utilizadas son: Tensorflow y keras. Tensorflow es una plataforma de código abierto usada para aprendizaje automático compuesta por un conjunto de herramientas, librerías y recursos que facilitan el trabajo en el desarrollo e implementación de soluciones con inteligencia artificial (IA). Keras es una librería, actualmente es API de alto nivel que proporcionan interfaces que simplifican el trabajo en el desarrollo de aplicaciones con IA, a partir de la versión 2.0 keras ya viene integrada dentro de Tensorflow.",
+      "en": "The tools used are: Tensorflow and keras. Tensorflow is an open source platform used for machine learning made up of a set of tools, libraries and resources that facilitate the work in the development and implementation of solutions with artificial intelligence (AI). Keras is a library, currently it is a high-level API that provides interfaces that simplify the work in developing applications with AI. Starting with version 2.0, Keras is already integrated into Tensorflow.",
+      "es": "Las herramientas utilizadas son: Tensorflow y keras. Tensorflow es una plataforma de código abierto usada para aprendizaje automático compuesta por un conjunto de herramientas, librerías y recursos que facilitan el trabajo en el desarrollo e implementación de soluciones con inteligencia artificial (IA). Keras es una librería, actualmente es API de alto nivel que proporcionan interfaces que simplifican el trabajo en el desarrollo de aplicaciones con IA, a partir de la versión 2.0 keras ya viene integrada dentro de Tensorflow.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y el desarrollo del modelo se utilizó los servicios de colab.research de Google.",
+      "en": "Because it is a small proof of concept of image classification for an introductory course to Deep Learning, the images of the dataset have been uploaded to a Google Drive folder and Google's colab.research services were used to develop the model.",
+      "es": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y el desarrollo del modelo se utilizó los servicios de colab.research de Google.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las imágenes fueron ajustadas a un tamaño de 500×500, para poder entrenar, en la siguiente imagen se observa una radiografía de un paciente normal.",
+      "en": "The images were adjusted to a size of 500×500, to be able to train. The following image shows an x-ray of a normal patient.",
+      "es": "Las imágenes fueron ajustadas a un tamaño de 500×500, para poder entrenar, en la siguiente imagen se observa una radiografía de un paciente normal.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con la integración de Keras con Tensorflow, se tienen nuevas clases como “ImageDataGenerator” que facilitan la carga de imágenes:",
+      "en": "With the integration of Keras with Tensorflow, there are new classes such as “ImageDataGenerator” that facilitate the loading of images:",
+      "es": "Con la integración de Keras con Tensorflow, se tienen nuevas clases como “ImageDataGenerator” que facilitan la carga de imágenes:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las imágenes fueron divididas en 3 grupos: entrenamiento, pruebas y validación.",
+      "en": "The images were divided into 3 groups: training, testing and validation.",
+      "es": "Las imágenes fueron divididas en 3 grupos: entrenamiento, pruebas y validación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo de clasificación se puede observar en la siguiente gráfica:",
+      "en": "The classification model can be seen in the following graph:",
+      "es": "El modelo de clasificación se puede observar en la siguiente gráfica:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para realizar la evaluación se ha utilizado la matriz de confusión:",
+      "en": "To carry out the evaluation, the confusion matrix was used:",
+      "es": "Para realizar la evaluación se ha utilizado la matriz de confusión:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Donde se puede observar que el modelo ha identificado:",
+      "en": "Where you can see that the model has identified:",
+      "es": "Donde se puede observar que el modelo ha identificado:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para personas que estaban sanas y que el modelo predijo como personas sanas fueron 175 casos de verdaderos negativos (VN).",
+      "en": "For people who were healthy and who the model predicted as healthy people there were 175 cases of true negatives (VN).",
+      "es": "Para personas que estaban sanas y que el modelo predijo como personas sanas fueron 175 casos de verdaderos negativos (VN).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para personas que estaban enfermas y que el modelo predijo como personas enfermas fueron 384 casos de verdaderos positivos (VP).",
+      "en": "For people who were sick and who the model predicted as sick people, there were 384 cases of true positives (TP).",
+      "es": "Para personas que estaban enfermas y que el modelo predijo como personas enfermas fueron 384 casos de verdaderos positivos (VP).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para personas que estaban enfermas y que el modelo predijo como personas sanas fueron 59 casos de falsos negativos (FN).",
+      "en": "For people who were sick and who the model predicted as healthy people, there were 59 cases of false negatives (FN).",
+      "es": "Para personas que estaban enfermas y que el modelo predijo como personas sanas fueron 59 casos de falsos negativos (FN).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para personas que estaban sanas y que el modelo predijo como personas enfermas fueron 6 casos de falsos positivos (FP).",
+      "en": "For people who were healthy and who the model predicted as sick people, there were 6 cases of false positives (FP).",
+      "es": "Para personas que estaban sanas y que el modelo predijo como personas enfermas fueron 6 casos de falsos positivos (FP).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con estos datos podemos calcular los siguientes indicadores:",
+      "en": "With this data we can calculate the following indicators:",
+      "es": "Con estos datos podemos calcular los siguientes indicadores:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Exactitud = (VP + VN) / (VP + VN + FN + FP)",
+      "en": "Accuracy = (VP + VN) / (VP + VN + FN + FP)",
+      "es": "Exactitud = (VP + VN) / (VP + VN + FN + FP)",
+      "reviewed": false
+    },
+    {
+      "source": "Exactitud = (175 + 384) / (175 + 384 + 59 + 6)",
+      "en": "Accuracy = (175 + 384) / (175 + 384 + 59 + 6)",
+      "es": "Exactitud = (175 + 384) / (175 + 384 + 59 + 6)",
+      "reviewed": false
+    },
+    {
+      "source": "Exactitud = 0,8958",
+      "en": "Accuracy = 0.8958",
+      "es": "Exactitud = 0,8958",
+      "reviewed": false
+    },
+    {
+      "source": "La exactitud es la cantidad de predicciones que fueron positivas que fueron correctas y se llegó a un valor de 89,58%",
+      "en": "Accuracy is the number of positive predictions that were correct and reached a value of 89.58%.",
+      "es": "La exactitud es la cantidad de predicciones que fueron positivas que fueron correctas y se llegó a un valor de 89,58%",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Precisión = VP / (VP + FP)",
+      "en": "Precision = VP / (VP + FP)",
+      "es": "Precisión = VP / (VP + FP)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Precisión = 384 / (384 + 6)",
+      "en": "Accuracy = 384 / (384 + 6)",
+      "es": "Precisión = 384 / (384 + 6)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Precisión = 0,9846",
+      "en": "Precision = 0.9846",
+      "es": "Precisión = 0,9846",
+      "reviewed": false
+    },
+    {
+      "source": "La precisión es el porcentaje de casos positivos detectados llegó a un valor de 98,46%",
+      "en": "Precision is the percentage of positive cases detected, reaching a value of 98.46%",
+      "es": "La precisión es el porcentaje de casos positivos detectados llegó a un valor de 98,46%",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sensibilidad = VP / (VP + FN)",
+      "en": "Sensitivity = VP / (VP + FN)",
+      "es": "Sensibilidad = VP / (VP + FN)",
+      "reviewed": false
+    },
+    {
+      "source": "Sensibilidad = 384 / (384 + 59)",
+      "en": "Sensitivity = 384 / (384 + 59)",
+      "es": "Sensibilidad = 384 / (384 + 59)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sensibilidad = 0,8668",
+      "en": "Sensitivity = 0.8668",
+      "es": "Sensibilidad = 0,8668",
+      "reviewed": false
+    },
+    {
+      "source": "La sensibilidad es la proporción de casos positivos correctamente identificados llegó a un valor de 86,68%",
+      "en": "Sensitivity is the proportion of positive cases correctly identified, reaching a value of 86.68%.",
+      "es": "La sensibilidad es la proporción de casos positivos correctamente identificados llegó a un valor de 86,68%",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Especificidad = VN / (VN + FN)",
+      "en": "Specificity = VN / (VN + FN)",
+      "es": "Especificidad = VN / (VN + FN)",
+      "reviewed": false
+    },
+    {
+      "source": "Especificidad = 175 / (175 + 59)",
+      "en": "Specificity = 175 / (175 + 59)",
+      "es": "Especificidad = 175 / (175 + 59)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Especificidad = 0,7478",
+      "en": "Specificity = 0.7478",
+      "es": "Especificidad = 0,7478",
+      "reviewed": false
+    },
+    {
+      "source": "La especificidad trata de la cantidad de casos negativos correctamente identificados llegó a un valor de 74,78%.",
+      "en": "Specificity refers to the number of negative cases correctly identified, reaching a value of 74.78%.",
+      "es": "La especificidad trata de la cantidad de casos negativos correctamente identificados llegó a un valor de 74,78%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Del proceso de desarrollo del modelo, de acuerdo a las librerías de Keras y Tensorflow pudimos llegar a una precisión del 89,59 %.",
+      "en": "From the model development process, according to the Keras and Tensorflow libraries, we were able to reach an accuracy of 89.59%.",
+      "es": "Del proceso de desarrollo del modelo, de acuerdo a las librerías de Keras y Tensorflow pudimos llegar a una precisión del 89,59 %.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con los resultados obtenidos podemos observar en la figura que el valor de la precisión se mantuvo por encima del 80%, el valor de la pérdida fue inferior al 20 %.",
+      "en": "With the results obtained we can see in the figure that the precision value remained above 80%, the loss value was less than 20%.",
+      "es": "Con los resultados obtenidos podemos observar en la figura que el valor de la precisión se mantuvo por encima del 80%, el valor de la pérdida fue inferior al 20 %.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "machine learning results",
+      "en": "machine learning results",
+      "es": "machine learning results",
+      "reviewed": false
+    },
+    {
+      "source": "De acuerdo a los resultados obtenidos se tiene:",
+      "en": "According to the results obtained, we have:",
+      "es": "De acuerdo a los resultados obtenidos se tiene:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El valor de confiabilidad del modelo es aceptable, representado por el 89%.",
+      "en": "The reliability value of the model is acceptable, represented by 89%.",
+      "es": "El valor de confiabilidad del modelo es aceptable, representado por el 89%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando deep learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
+      "en": "The covid diagnosis model through X-ray images using deep learning could be applied in our environment as another diagnostic alternative.",
+      "es": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando deep learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
+      "reviewed": false
+    },
+    {
+      "source": "Bladimir Calcina",
+      "en": "Bladimir Calcina",
+      "es": "Bladimir Calcina",
+      "reviewed": false
+    },
+    {
+      "source": "Covid",
+      "en": "Covid",
+      "es": "Covid",
+      "reviewed": false
+    },
+    {
+      "source": "Deep LearningCnn",
+      "en": "Deep LearningCnn",
+      "es": "Deep LearningCnn",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 nov 2021.",
+      "en": "A history of the Saturdays.AI community. Originally published on Nov 22, 2021.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 nov 2021.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nov 19, 2021",
+      "en": "Nov 19, 2021",
+      "es": "Nov 19, 2021",
+      "reviewed": false
+    }
+  ]
+}

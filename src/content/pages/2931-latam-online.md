@@ -421,12 +421,6 @@ AI Saturdays ahora llega a todos los rincones de Latinoamérica. Aprende con la 
 
 **Programa**: Machine Learning y Deep Learning
 
-\* 25% de dto. usando el código _**“Welcome2LATAM”**_
-
-\* 50 % de dto. a nuestros #aifellows usando el código _**«Welcome2LATAM-fellows»**_
-
-Válidos hasta el 23 de septiembre 2021
-
 ![](/media/42760914f2249814.webp)
 
 [Unete ahora (Registro)](https://docs.google.com/forms/d/e/1FAIpQLSeme3x8rK9PEa5HILzoXeCyiG1VoivYFanUpHjoe-rjuCfIsA/viewform)

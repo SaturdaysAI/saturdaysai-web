@@ -1,0 +1,354 @@
+{
+  "title": "Deep Learning aplicado a detección temprana de incendios forestales",
+  "route": "/2022/03/09/deep-learning-aplicado-a-deteccion-temprana-de-incendios-forestales/",
+  "segments": [
+    {
+      "source": "La Paz. Segunda Edición. 2021 En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales,…",
+      "en": "Peace. Second Edition. 2021 In the world, forest fires are the most important cause of forest destruction. In a forest fire, not only trees and bushes are lost, but also houses, animals,...",
+      "es": "La Paz. Segunda Edición. 2021 En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales,…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Recolección de la información",
+      "en": "Information collection",
+      "es": "Recolección de la información",
+      "reviewed": false
+    },
+    {
+      "source": "Selección de los modelos",
+      "en": "Model selection",
+      "es": "Selección de los modelos",
+      "reviewed": false
+    },
+    {
+      "source": "1. CNN personalizado",
+      "en": "1. Custom CNN",
+      "es": "1. CNN personalizado",
+      "reviewed": false
+    },
+    {
+      "source": "2. VGG-16",
+      "en": "2. VGG-16",
+      "es": "2. VGG-16",
+      "reviewed": false
+    },
+    {
+      "source": "1. CNN Personalizado",
+      "en": "1. Custom CNN",
+      "es": "1. CNN Personalizado",
+      "reviewed": false
+    },
+    {
+      "source": "¡Más Inteligencia Artificial!",
+      "en": "More Artificial Intelligence!",
+      "es": "¡Más Inteligencia Artificial!",
+      "reviewed": false
+    },
+    {
+      "source": "La Paz.",
+      "en": "Peace.",
+      "es": "La Paz.",
+      "reviewed": false
+    },
+    {
+      "source": "Segunda Edición. 2021",
+      "en": "Second Edition. 2021",
+      "es": "Segunda Edición. 2021",
+      "reviewed": false
+    },
+    {
+      "source": "En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales, fuentes de trabajo e inclusive vidas humanas.",
+      "en": "In the world, forest fires are the most important cause of forest destruction. In a forest fire, not only trees and bushes are lost, but also houses, animals, sources of work and even human lives.",
+      "es": "En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales, fuentes de trabajo e inclusive vidas humanas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como se puede apreciar en la Fig.1 en Bolivia los últimos siete meses este fenómeno se multiplicó de manera alarmante el área afectada debido a múltiples factores la Fig. 2 muestra algunas de las causas estudiadas para los incendios forestales. Otro factor importante identificado es el cambio climático que debido al aumento de temperatura en los lugares afectados, aumenta las áreas afectadas de manera alarmante.",
+      "en": "As can be seen in Fig. 1 in Bolivia, in the last seven months this phenomenon has alarmingly multiplied the affected area due to multiple factors. Fig. 2 shows some of the causes studied for forest fires. Another important factor identified is climate change, which due to the increase in temperature in the affected places, increases the affected areas alarmingly.",
+      "es": "Como se puede apreciar en la Fig.1 en Bolivia los últimos siete meses este fenómeno se multiplicó de manera alarmante el área afectada debido a múltiples factores la Fig. 2 muestra algunas de las causas estudiadas para los incendios forestales. Otro factor importante identificado es el cambio climático que debido al aumento de temperatura en los lugares afectados, aumenta las áreas afectadas de manera alarmante.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fig. 2 Causas identificadas de los incendios forestales (Vélez)",
+      "en": "Fig. 2 Identified causes of forest fires (Vélez)",
+      "es": "Fig. 2 Causas identificadas de los incendios forestales (Vélez)",
+      "reviewed": false
+    },
+    {
+      "source": "Debido a las consecuencias de los incendios forestales no controlados ni planificados se deben tomar diferentes estrategias que permitan mitigar su ocurrencia en zonas protegidas o prohibidas para esta actividad.",
+      "en": "Due to the consequences of uncontrolled or unplanned forest fires, different strategies must be taken to mitigate their occurrence in protected or prohibited areas for this activity.",
+      "es": "Debido a las consecuencias de los incendios forestales no controlados ni planificados se deben tomar diferentes estrategias que permitan mitigar su ocurrencia en zonas protegidas o prohibidas para esta actividad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En base a lo mencionado anteriormente se plantea el siguiente problema:",
+      "en": "Based on what was mentioned above, the following problem arises:",
+      "es": "En base a lo mencionado anteriormente se plantea el siguiente problema:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Cómo identificar de manera oportuna incendios forestales no controlados para minimizar su impacto?",
+      "en": "How to identify uncontrolled forest fires in a timely manner to minimize their impact?",
+      "es": "¿Cómo identificar de manera oportuna incendios forestales no controlados para minimizar su impacto?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se plantea como objetivo general implementar un modelo de",
+      "en": "The general objective is to implement a model of",
+      "es": "Se plantea como objetivo general implementar un modelo de",
+      "reviewed": false
+    },
+    {
+      "source": "para la detección temprana de incendios forestales mediante el reconocimiento de humo en las áreas llanas/boscosas utilizando imágenes del lugar.",
+      "en": "for early detection of forest fires by recognizing smoke in flat/forested areas using images of the scene.",
+      "es": "para la detección temprana de incendios forestales mediante el reconocimiento de humo en las áreas llanas/boscosas utilizando imágenes del lugar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El siguiente gráfico muestra la idea central del proyecto.",
+      "en": "The following graphic shows the central idea of the project.",
+      "es": "El siguiente gráfico muestra la idea central del proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fig. 3 Propuesta del proyecto",
+      "en": "Fig. 3 Project proposal",
+      "es": "Fig. 3 Propuesta del proyecto",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El dataset para realizar el entrenamiento de los modelos se realizó mediante la descarga de imágenes clasificadas como “incendio forestal” (imágenes tomadas en perspectiva con presencia de humo en zonas forestales) y “no incendio forestal” (imágenes tomadas en perspectiva en zonas forestales sin presencia de humo o fuego).",
+      "en": "The dataset to train the models was created by downloading images classified as “forest fire” (images taken in perspective with the presence of smoke in forest areas) and “non-forest fire” (images taken in perspective in forest areas without the presence of smoke or fire).",
+      "es": "El dataset para realizar el entrenamiento de los modelos se realizó mediante la descarga de imágenes clasificadas como “incendio forestal” (imágenes tomadas en perspectiva con presencia de humo en zonas forestales) y “no incendio forestal” (imágenes tomadas en perspectiva en zonas forestales sin presencia de humo o fuego).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las imágenes descargadas (4 grupos de imágenes) fueron llevadas a un repositorio",
+      "en": "The downloaded images (4 groups of images) were taken to a repository",
+      "es": "Las imágenes descargadas (4 grupos de imágenes) fueron llevadas a un repositorio",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para su importación sencilla en Google Colab.",
+      "en": "for easy import into Google Colab.",
+      "es": "para su importación sencilla en Google Colab.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Impresión de las 8 primeras imágenes de entrenamiento y 8 primeras imágenes de validación:",
+      "en": "Print of the first 8 training images and first 8 validation images:",
+      "es": "Impresión de las 8 primeras imágenes de entrenamiento y 8 primeras imágenes de validación:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La selección de los modelos parte de las siguientes consideraciones:",
+      "en": "The selection of models is based on the following considerations:",
+      "es": "La selección de los modelos parte de las siguientes consideraciones:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Facilidad de su implementación.",
+      "en": "Ease of implementation.",
+      "es": "Facilidad de su implementación.",
+      "reviewed": false
+    },
+    {
+      "source": "Rendimiento del modelo.",
+      "en": "Model performance.",
+      "es": "Rendimiento del modelo.",
+      "reviewed": false
+    },
+    {
+      "source": "Limitación de cálculo.",
+      "en": "Calculation limitation.",
+      "es": "Limitación de cálculo.",
+      "reviewed": false
+    },
+    {
+      "source": "Estas consideraciones son debido a los recursos que se tienen para realizar el objetivo general. Los modelos a desarrollarse son:",
+      "en": "These considerations are due to the resources available to achieve the general objective. The models to be developed are:",
+      "es": "Estas consideraciones son debido a los recursos que se tienen para realizar el objetivo general. Los modelos a desarrollarse son:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "CCN Personalizado",
+      "en": "CCN Custom",
+      "es": "CCN Personalizado",
+      "reviewed": false
+    },
+    {
+      "source": "VGG-16",
+      "en": "VGG-16",
+      "es": "VGG-16",
+      "reviewed": false
+    },
+    {
+      "source": "La principal técnica utilizada para compensar el dataset de tamaño limitado por la limitación de búsqueda de imágenes en Google fue la de “",
+      "en": "The main technique used to compensate for the limited dataset size due to the limitation of Google image search was “",
+      "es": "La principal técnica utilizada para compensar el dataset de tamaño limitado por la limitación de búsqueda de imágenes en Google fue la de “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "data",
+      "en": "data",
+      "es": "data",
+      "reviewed": false
+    },
+    {
+      "source": "augmentation” realizada por la librería de",
+      "en": "augmentation” made by the bookstore",
+      "es": "augmentation” realizada por la librería de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "keras",
+      "en": "keras",
+      "es": "keras",
+      "reviewed": false
+    },
+    {
+      "source": "ImageDataGenerator",
+      "en": "ImageDataGenerator",
+      "es": "ImageDataGenerator",
+      "reviewed": false
+    },
+    {
+      "source": "Fig 5. Data Augmentation",
+      "en": "Fig 5. Data Augmentation",
+      "es": "Fig 5. Data Augmentation",
+      "reviewed": false
+    },
+    {
+      "source": "Fig. 6 ImageDataGenerator en Keras",
+      "en": "Fig. 6 ImageDataGenerator in Keras",
+      "es": "Fig. 6 ImageDataGenerator en Keras",
+      "reviewed": false
+    },
+    {
+      "source": "A continuación se muestran los resultados del modelo",
+      "en": "Below are the results of the model",
+      "es": "A continuación se muestran los resultados del modelo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "CNN personalizado",
+      "en": "Custom CNN",
+      "es": "CNN personalizado",
+      "reviewed": false
+    },
+    {
+      "source": "1. Precisión y",
+      "en": "1. Precision and",
+      "es": "1. Precisión y",
+      "reviewed": false
+    },
+    {
+      "source": "Curva de ROC",
+      "en": "ROC curve",
+      "es": "Curva de ROC",
+      "reviewed": false
+    },
+    {
+      "source": "personalizado:",
+      "en": "custom:",
+      "es": "personalizado:",
+      "reviewed": false
+    },
+    {
+      "source": "Curva ROC de CNN personalizado",
+      "en": "Custom CNN ROC Curve",
+      "es": "Curva ROC de CNN personalizado",
+      "reviewed": false
+    },
+    {
+      "source": "2. Precisión y",
+      "en": "2. Precision and",
+      "es": "2. Precisión y",
+      "reviewed": false
+    },
+    {
+      "source": "Precisión de VGG-16.",
+      "en": "Accuracy of VGG-16.",
+      "es": "Precisión de VGG-16.",
+      "reviewed": false
+    },
+    {
+      "source": "Curva de ROC de VGG-16.",
+      "en": "ROC curve of VGG-16.",
+      "es": "Curva de ROC de VGG-16.",
+      "reviewed": false
+    },
+    {
+      "source": "Las predicciones de los modelos a continuación:",
+      "en": "Model predictions below:",
+      "es": "Las predicciones de los modelos a continuación:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo",
+      "en": "The model",
+      "es": "El modelo",
+      "reviewed": false
+    },
+    {
+      "source": "personalizado tiene un desempeño adecuado para la detección de incendios forestales. El modelo",
+      "en": "customized has adequate performance for the detection of forest fires. The model",
+      "es": "personalizado tiene un desempeño adecuado para la detección de incendios forestales. El modelo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "con el elemento de pre-entrenamiento requiere más elaboración para obtener resultados más precisos. De esta manera un modelo",
+      "en": "with the pre-workout element requires more elaboration to obtain more accurate results. In this way a model",
+      "es": "con el elemento de pre-entrenamiento requiere más elaboración para obtener resultados más precisos. De esta manera un modelo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no siempre requiere tener una alta complejidad para realizar la clasificación de manera eficiente.",
+      "en": "It does not always require high complexity to perform classification efficiently.",
+      "es": "no siempre requiere tener una alta complejidad para realizar la clasificación de manera eficiente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo desarrollado obtiene muy buenos pronósticos para el problema planteado y es una solución complementaria al problema de incendios forestales.",
+      "en": "The developed model obtains very good forecasts for the problem posed and is a complementary solution to the problem of forest fires.",
+      "es": "El modelo desarrollado obtiene muy buenos pronósticos para el problema planteado y es una solución complementaria al problema de incendios forestales.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La utilización de modelos de _AI Deep Learnin_g pueden ser mejor explotados como complemento a la solución de problemas coyunturales.",
+      "en": "The use of _AI Deep Learning_g models can be better exploited as a complement to the solution of current problems.",
+      "es": "La utilización de modelos de _AI Deep Learnin_g pueden ser mejor explotados como complemento a la solución de problemas coyunturales.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Daniel Blanco",
+      "en": "Daniel Blanco",
+      "es": "Daniel Blanco",
+      "reviewed": false
+    }
+  ]
+}

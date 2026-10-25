@@ -1,0 +1,1013 @@
+{
+  "title": "Anxietweet AI: Detección de estrés en tweets mediante Inteligencia Artificial",
+  "route": "/2022/03/16/deteccion-estres-en-twets-mediante-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "11 min de lectura",
+      "en": "11 min read",
+      "es": "11 min de lectura",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Detección de estrés en tweets durante la pandemia SARS-CoV-2(COVID-19) Latam online. Primera Edición 2020 El estrés: una ‘epidemia’ silenciosa que puede afectar a cualquier persona durante la era moderna, ahora es más notoria…",
+      "en": "Stress detection in tweets during the SARS-CoV-2 (COVID-19) pandemic Latam online. First Edition 2020 Stress: a silent 'epidemic' that can affect anyone during the modern era, now it is more noticeable...",
+      "es": "Detección de estrés en tweets durante la pandemia SARS-CoV-2(COVID-19) Latam online. Primera Edición 2020 El estrés: una ‘epidemia’ silenciosa que puede afectar a cualquier persona durante la era moderna, ahora es más notoria…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Problema general",
+      "en": "General problem",
+      "es": "Problema general",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Motivación",
+      "en": "Motivation",
+      "es": "Motivación",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Diseño del modelo de reconocimiento:",
+      "en": "Recognition model design:",
+      "es": "Diseño del modelo de reconocimiento:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Etiquetado",
+      "en": "Labeling",
+      "es": "Etiquetado",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Exploración de los datos:",
+      "en": "Data exploration:",
+      "es": "Exploración de los datos:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Pre-procesamiento de los datos:",
+      "en": "Data pre-processing:",
+      "es": "Pre-procesamiento de los datos:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Visualización de datos",
+      "en": "Data visualization",
+      "es": "Visualización de datos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Modelado",
+      "en": "Modeling",
+      "es": "Modelado",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Optimización (‘Tuneo’) del modelo:",
+      "en": "Optimization ('Tuning') of the model:",
+      "es": "Optimización (‘Tuneo’) del modelo:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Evaluación:",
+      "en": "Evaluation:",
+      "es": "Evaluación:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Análisis de resultados:",
+      "en": "Analysis of results:",
+      "es": "Análisis de resultados:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Casos de uso para el modelo generado:",
+      "en": "Use cases for the generated model:",
+      "es": "Casos de uso para el modelo generado:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Desarrollo de Modelo en un App Web",
+      "en": "Model Development in a Web App",
+      "es": "Desarrollo de Modelo en un App Web",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Detección de estrés en tweets durante la pandemia SARS-CoV-2(COVID-19)",
+      "en": "Detection of stress in tweets during the SARS-CoV-2 (COVID-19) pandemic",
+      "es": "Detección de estrés en tweets durante la pandemia SARS-CoV-2(COVID-19)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". Primera Edición 2020",
+      "en": ". First Edition 2020",
+      "es": ". Primera Edición 2020",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El estrés: una ‘epidemia’ silenciosa que puede afectar a cualquier persona durante la era moderna, ahora es más notoria debido a la mayor crisis sanitaria enfrentada durante este siglo. Los niveles de preocupación, impacto económico y emocional que han tenido que afrontar las personas han sido factores que han impactado no solo la salud física también la mental de millones de personas.",
+      "en": "Stress: a silent 'epidemic' that can affect anyone during the modern era, is now more noticeable due to the largest health crisis faced during this century. The levels of worry, economic and emotional impact that people have had to face have been factors that have impacted not only the physical health but also the mental health of millions of people.",
+      "es": "El estrés: una ‘epidemia’ silenciosa que puede afectar a cualquier persona durante la era moderna, ahora es más notoria debido a la mayor crisis sanitaria enfrentada durante este siglo. Los niveles de preocupación, impacto económico y emocional que han tenido que afrontar las personas han sido factores que han impactado no solo la salud física también la mental de millones de personas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En este trabajo de inteligencia artificial (ciencia de datos), se realiza un esfuerzo para analizar, predecir y determinar, si una persona está estresada con el uso de sus mensajes a través de la red social de Twitter.",
+      "en": "In this artificial intelligence (data science) work, an effort is made to analyze, predict and determine if a person is stressed with the use of their messages through the Twitter social network.",
+      "es": "En este trabajo de inteligencia artificial (ciencia de datos), se realiza un esfuerzo para analizar, predecir y determinar, si una persona está estresada con el uso de sus mensajes a través de la red social de Twitter.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Es posible que una máquina pueda determinar si una persona está estresada solo con la expresión escrita?",
+      "en": "Is it possible that a machine can determine if a person is stressed from written expression alone?",
+      "es": "¿Es posible que una máquina pueda determinar si una persona está estresada solo con la expresión escrita?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Social: ayudar a identificar y reconocer el estrés durante la crisis sanitaria para así conocer el estado emocional de las personas sin necesidad de un estudio en persona",
+      "en": "Social: help identify and recognize stress during the health crisis in order to know the emotional state of people without the need for an in-person study",
+      "es": "Social: ayudar a identificar y reconocer el estrés durante la crisis sanitaria para así conocer el estado emocional de las personas sin necesidad de un estudio en persona",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Profesional: obtener, extender y aplicar los conocimientos sobre ciencia de datos e inteligencia artificial, en el análisis de lenguaje humano y en reconocimiento de emociones",
+      "en": "Professional: obtain, extend and apply knowledge about data science and artificial intelligence, in human language analysis and emotion recognition",
+      "es": "Profesional: obtener, extender y aplicar los conocimientos sobre ciencia de datos e inteligencia artificial, en el análisis de lenguaje humano y en reconocimiento de emociones",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La metodología con la que se trabajó en este proyecto está basada en la metodología tradicional de",
+      "en": "The methodology used in this project is based on the traditional methodology of",
+      "es": "La metodología con la que se trabajó en este proyecto está basada en la metodología tradicional de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "CRISP-DM",
+      "en": "CRISP-DM",
+      "es": "CRISP-DM",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "[1]. A continuación se muestra el diagrama general de los pasos que se llevaron a cabo en este trabajo.",
+      "en": "[1]. Below is the general diagram of the steps that were carried out in this work.",
+      "es": "[1]. A continuación se muestra el diagrama general de los pasos que se llevaron a cabo en este trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Recolección de datos",
+      "en": "Data collection",
+      "es": "Recolección de datos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para llevar a cabo el análisis se recolectaron datos de tweets de 3 diferentes ciudades para poder tener muestras variadas y esperar resultados diferentes. Las ciudades fueron elegidas solamente tomando en cuenta que fueran ciudades grandes en diferentes países angloparlantes.",
+      "en": "To carry out the analysis, tweet data from 3 different cities was collected in order to have varied samples and expect different results. The cities were chosen only taking into account that they were large cities in different English-speaking countries.",
+      "es": "Para llevar a cabo el análisis se recolectaron datos de tweets de 3 diferentes ciudades para poder tener muestras variadas y esperar resultados diferentes. Las ciudades fueron elegidas solamente tomando en cuenta que fueran ciudades grandes en diferentes países angloparlantes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las ciudades de las que se obtuvieron los datos fueron las siguientes:",
+      "en": "The cities from which the data was obtained were the following:",
+      "es": "Las ciudades de las que se obtuvieron los datos fueron las siguientes:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Brisbane, Australia (2225 tweets)",
+      "en": "Brisbane, Australia (2225 tweets)",
+      "es": "Brisbane, Australia (2225 tweets)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "San Francisco, Estados Unidos (5000 tweets)",
+      "en": "San Francisco, United States (5000 tweets)",
+      "es": "San Francisco, Estados Unidos (5000 tweets)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Vancouver, Canadá (1699 tweets)",
+      "en": "Vancouver, Canada (1699 tweets)",
+      "es": "Vancouver, Canadá (1699 tweets)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Cabe mencionar que los datos fueron recolectados el 24 de octubre y los tweets tienen fecha máxima de publicación una semana anterior a la fecha de recolección y mínima del mismo día de la recolección.",
+      "en": "It is worth mentioning that the data was collected on October 24 and the tweets have a maximum publication date one week prior to the collection date and a minimum publication date of the same day of collection.",
+      "es": "Cabe mencionar que los datos fueron recolectados el 24 de octubre y los tweets tienen fecha máxima de publicación una semana anterior a la fecha de recolección y mínima del mismo día de la recolección.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las palabras claves que se utilizaron para la recolección fueron las siguientes:",
+      "en": "The keywords that were used for collection were the following:",
+      "es": "Las palabras claves que se utilizaron para la recolección fueron las siguientes:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "covid OR COVID OR coronavirus OR corona OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR sars OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR social distancing OR #socialdistancing OR #COVID OR #covid”",
+      "en": "covid OR COVID OR coronavirus OR corona OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR sars OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR social distancing OR #socialdistancing OR #COVID OR #covid”",
+      "es": "covid OR COVID OR coronavirus OR coronavirus OR #coronavirus OR #covid19 OR covid19 OR sarscov2 OR #covid-19 OR #sarscov2 OR sars OR cov2 OR #quarantine OR pandemic OR #pandemic OR #2019ncov OR 2019ncov OR quarantine OR lockdown OR #lockdown OR #socialdVID",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La estructura de los datos es idéntica para los 3 datasets. Cada dataset está organizado en 3 columnas:",
+      "en": "The data structure is identical for the 3 datasets. Each dataset is organized in 3 columns:",
+      "es": "La estructura de los datos es idéntica para los 3 datasets. Cada dataset está organizado en 3 columnas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "user_location: Ubicación aproximada del usuario (si su ubicación está activada).",
+      "en": "user_location: Approximate location of the user (if location is enabled).",
+      "es": "user_location: Ubicación aproximada del usuario (si su ubicación está activada).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "date: Fecha de publicación del tweet.",
+      "en": "date: Date of publication of the tweet.",
+      "es": "date: Fecha de publicación del tweet.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "text: Texto del tweet.",
+      "en": "text: Text of the tweet.",
+      "es": "text: Texto del tweet.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Los datos anonimizados se obtuvieron a través de la API de Twitter a través de un script de Python utilizando",
+      "en": "The anonymized data was obtained through the Twitter API via a Python script using",
+      "es": "Los datos anonimizados se obtuvieron a través de la API de Twitter a través de un script de Python utilizando",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tweepy",
+      "en": "Tweepy",
+      "es": "Tweepy",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "tweepy",
+      "en": "tweepy",
+      "es": "tweepy",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para el etiquetado de los datos, fue utilizada una herramienta llamada",
+      "en": "To label the data, a tool called",
+      "es": "Para el etiquetado de los datos, fue utilizada una herramienta llamada",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "TensiStrength",
+      "en": "TensiStrength",
+      "es": "TensiStrength",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", la cuál está desarrollada en Java, y ayuda a evaluar el nivel de relajación o ansiedad que se puede encontrar en un texto sencillo. Esta herramienta funciona por medio de diccionarios de emociones en los cuales se asignan valores a las palabras positivas o negativas y a su vez también cuenta con un diccionario de palabras (booster words) que incrementan el valor de la expresión/emoción.",
+      "en": ", which is developed in Java, and helps evaluate the level of relaxation or anxiety that can be found in a simple text. This tool works through emotion dictionaries in which values are assigned to positive or negative words and at the same time it also has a dictionary of words (booster words) that increase the value of the expression/emotion.",
+      "es": ", la cuál está desarrollada en Java, y ayuda a evaluar el nivel de relajación o ansiedad que se puede encontrar en un texto sencillo. Esta herramienta funciona por medio de diccionarios de emociones en los cuales se asignan valores a las palabras positivas o negativas y a su vez también cuenta con un diccionario de palabras (booster words) que incrementan el valor de la expresión/emoción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "TensiStrength logra catalogar los textos de dos maneras disponibles, binaria o ternaria; la ternaria los clasifica en 1, 0, -1, positivo, neutral y negativo respectivamente. El esquema para la clasificación de emociones utilizado en nuestro modelo, utiliza la clasificación de tipo binaria, que consiste en usar las etiquetas 1 y 0, las cuales corresponden a “estrés” y “no estrés”.",
+      "en": "TensiStrength manages to catalog texts in two available ways, binary or ternary; the ternary classifies them into 1, 0, -1, positive, neutral and negative respectively. The scheme for classifying emotions used in our model uses binary type classification, which consists of using labels 1 and 0, which correspond to “stress” and “not stress.”",
+      "es": "TensiStrength logra catalogar los textos de dos maneras disponibles, binaria o ternaria; la ternaria los clasifica en 1, 0, -1, positivo, neutral y negativo respectivamente. El esquema para la clasificación de emociones utilizado en nuestro modelo, utiliza la clasificación de tipo binaria, que consiste en usar las etiquetas 1 y 0, las cuales corresponden a “estrés” y “no estrés”.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las clases se encuentran distribuidas con un porcentaje de:",
+      "en": "The classes are distributed with a percentage of:",
+      "es": "Las clases se encuentran distribuidas con un porcentaje de:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tweets con estrés = 49.972%",
+      "en": "Stressed tweets = 49.972%",
+      "es": "Tweets con estrés = 49.972%",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Tweets sin estrés = 50.028%",
+      "en": "Stress-free tweets = 50.028%",
+      "es": "Tweets sin estrés = 50.028%",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Cantidad de tweets con estrés.",
+      "en": "Number of tweets with stress.",
+      "es": "Cantidad de tweets con estrés.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Porcentaje de estrés por ciudad",
+      "en": "Percentage of stress by city",
+      "es": "Porcentaje de estrés por ciudad",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Porcentaje de estrés por ciudad, representa la cantidad de tweets con estrés respecto al total de tweets.",
+      "en": "Percentage of stress by city, represents the number of tweets with stress compared to the total number of tweets.",
+      "es": "Porcentaje de estrés por ciudad, representa la cantidad de tweets con estrés respecto al total de tweets.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Palabras más usadas en los tweets, excluyendo conectores.",
+      "en": "Words most used in tweets, excluding connectors.",
+      "es": "Palabras más usadas en los tweets, excluyendo conectores.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Palabras más usadas en los tweets, excluyendo conectores y palabras relacionadas con Covid.",
+      "en": "Words most used in tweets, excluding connectors and words related to Covid.",
+      "es": "Palabras más usadas en los tweets, excluyendo conectores y palabras relacionadas con Covid.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Distribución de las palabras en los Tweets según su longitud",
+      "en": "Distribution of words in Tweets according to their length",
+      "es": "Distribución de las palabras en los Tweets según su longitud",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de recolectar los datos, se llevó a cabo un pre-procesamiento con el fin de que los datos se pudieran utilizar para entrenar un modelo clasificador. Este paso es uno de los más importantes y es aquel que comúnmente consume más tiempo en un proyecto de aprendizaje de máquina.",
+      "en": "After collecting the data, pre-processing was carried out so that the data could be used to train a classifier model. This step is one of the most important and is the one that typically consumes the most time in a machine learning project.",
+      "es": "Después de recolectar los datos, se llevó a cabo un pre-procesamiento con el fin de que los datos se pudieran utilizar para entrenar un modelo clasificador. Este paso es uno de los más importantes y es aquel que comúnmente consume más tiempo en un proyecto de aprendizaje de máquina.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Reducción de Ruido:",
+      "en": "Noise Reduction:",
+      "es": "Reducción de Ruido:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "se eliminaron espacios extras, carácteres especiales y ligas a otras páginas.",
+      "en": "Extra spaces, special characters and links to other pages were eliminated.",
+      "es": "se eliminaron espacios extras, carácteres especiales y ligas a otras páginas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Normalización:",
+      "en": "Normalization:",
+      "es": "Normalización:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "los carácteres se transformaron a minúsculas, se eliminaron puntuaciones y se expandieron las contracciones.",
+      "en": "characters were transformed to lowercase, punctuations were removed, and contractions were expanded.",
+      "es": "los carácteres se transformaron a minúsculas, se eliminaron puntuaciones y se expandieron las contracciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Eliminación de palabras vacías o Stopwords:",
+      "en": "Removal of stopwords or stopwords:",
+      "es": "Eliminación de palabras vacías o Stopwords:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "se removieron aquellas palabras que no tienen un significado por sí mismas (artículos, pronombres, preposiciones y algunos verbos)",
+      "en": "Those words that do not have a meaning by themselves were removed (articles, pronouns, prepositions and some verbs)",
+      "es": "se removieron aquellas palabras que no tienen un significado por sí mismas (artículos, pronombres, preposiciones y algunos verbos)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Lematización:",
+      "en": "Lemmatization:",
+      "es": "Lematización:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "se llevó a cabo una lematización, la cual consiste en convertir la palabra a su forma base (i.e. mesas a mesa).",
+      "en": "Lemmatization was carried out, which consists of converting the word to its base form (i.e. tables by table).",
+      "es": "se llevó a cabo una lematización, la cual consiste en convertir la palabra a su forma base (i.e. mesas a mesa).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tokenización:",
+      "en": "Tokenization:",
+      "es": "Tokenización:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "finalmente los textos se separaron en palabras, también llamados tokens.",
+      "en": "Finally the texts were separated into words, also called tokens.",
+      "es": "finalmente los textos se separaron en palabras, también llamados tokens.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Antes del pre-procesamiento, el texto se visualiza de la siguiente manera:",
+      "en": "Before pre-processing, the text is displayed as follows:",
+      "es": "Antes del pre-procesamiento, el texto se visualiza de la siguiente manera:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Posterior a la limpieza y previo a la tokenización, el texto se visualiza de la siguiente manera:",
+      "en": "After cleaning and prior to tokenization, the text is displayed as follows:",
+      "es": "Posterior a la limpieza y previo a la tokenización, el texto se visualiza de la siguiente manera:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Fue realizada por medio de nubes de palabras, en general y dividiendo los datos por clase.",
+      "en": "It was carried out through word clouds, in general and dividing the data by class.",
+      "es": "Fue realizada por medio de nubes de palabras, en general y dividiendo los datos por clase.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Palabras más recurrentes en general:",
+      "en": "More recurrent words in general:",
+      "es": "Palabras más recurrentes en general:",
+      "reviewed": false,
+      "sourceLanguage": "pt",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Palabras más recurrentes dentro de los datos clasificados como SIN estrés",
+      "en": "Most recurrent words within the data classified as NO stress",
+      "es": "Palabras más recurrentes dentro de los datos clasificados como SIN estrés",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Palabras más recurrentes dentro de los datos clasificados como CON estrés",
+      "en": "Most recurrent words within the data classified as WITH stress",
+      "es": "Palabras más recurrentes dentro de los datos clasificados como CON estrés",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "LDA (Latent Dirichlet Allocation)",
+      "en": "LDA (Latent Dirichlet Allocation)",
+      "es": "LDA (Latent Dirichlet Allocation)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Se utilizó un clasificador de modelo generativo LDA (no supervisado), que permite que a partir de una bolsa de palabras, se genere un conjunto de observaciones que puedan ser explicadas por algunas de las partes de los datos que son similares o que tienen cierta concordancia. Este es un modelo de categorías y fue presentado como un modelo de grafos para descubrir categorías por David Blei, Andrew Ng y Michael Jordan en 2002.",
+      "en": "An LDA generative model classifier (unsupervised) was used, which allows a set of observations to be generated from a bag of words that can be explained by some of the parts of the data that are similar or have a certain agreement. This is a category model and was presented as a graph model for discovering categories by David Blei, Andrew Ng and Michael Jordan in 2002.",
+      "es": "Se utilizó un clasificador de modelo generativo LDA (no supervisado), que permite que a partir de una bolsa de palabras, se genere un conjunto de observaciones que puedan ser explicadas por algunas de las partes de los datos que son similares o que tienen cierta concordancia. Este es un modelo de categorías y fue presentado como un modelo de grafos para descubrir categorías por David Blei, Andrew Ng y Michael Jordan en 2002.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En nuestro trabajo se utilizó a partir de de la vectorización de la data tratada y limpia de los tweets obtenidos, una tokenización y generando una vectorización de las palabras.",
+      "en": "In our work, tokenization was used based on the vectorization of the treated and clean data of the tweets obtained, and generating a vectorization of the words.",
+      "es": "En nuestro trabajo se utilizó a partir de de la vectorización de la data tratada y limpia de los tweets obtenidos, una tokenización y generando una vectorización de las palabras.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Obteniendo un clasificador de 2 tópicos, en las cuales sus principales palabras fueron:",
+      "en": "Obtaining a classifier of 2 topics, in which the main words were:",
+      "es": "Obteniendo un clasificador de 2 tópicos, en las cuales sus principales palabras fueron:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tópico 0: Covid case new health vaccine death year trump plan day",
+      "en": "Topic 0: Cover case new health vaccine death year trump plan day",
+      "es": "Tópico 0: Covid case new health vaccine death year trump plan day",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tópico 1: Covid people trump go new case mask know say need",
+      "en": "Topic 1: Cover people trump go new case mass know say need",
+      "es": "Tópico 1: Covid people trump go new case mask know say need",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y utilizando la librería pyLDAvis",
+      "en": "and using the pyLDAvis library",
+      "es": "y utilizando la librería pyLDAvis",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "se obtuvo el visualizador:",
+      "en": "The viewer was obtained:",
+      "es": "se obtuvo el visualizador:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para este proyecto se evaluaron cinco modelos de Machine Learning. Como modelo base se utilizó Naive Bayes y se comparó con:",
+      "en": "Five models of Machine Learning were evaluated for this project. As a base model, Naive Bayes was used and compared with:",
+      "es": "Para este proyecto se evaluaron cinco modelos de Machine Learning. Como modelo base se utilizó Naive Bayes y se comparó con:",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "K-Nearest Neighbors",
+      "en": "K-Nearest Neighbors",
+      "es": "K-Nearest Neighbors",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Gradient Boosting.",
+      "en": "Gradient Boosting.",
+      "es": "Gradient Boosting.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para la vectorización [4] de los tweets se evaluaron 2 técnicas: Bag of Words y TF-IDF (term frequency — inverse document frequency) y dos estrategias para sus n-gramas: Bigrama y Trigramas [5].",
+      "en": "For the vectorization [4] of the tweets, two techniques were evaluated: Bag of Words and TF-IDF (term frequency — inverse document frequency) and two strategies for their n-grams: Bigram and Trigrams [5].",
+      "es": "Para la vectorización [4] de los tweets se evaluaron 2 técnicas: Bag of Words y TF-IDF (term frequency — inverse document frequency) y dos estrategias para sus n-gramas: Bigrama y Trigramas [5].",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Los resultados se midieron por medio del AUC (Area Bajo la Curva) y se evaluaron con validación cruzada (k = 10). Tanto el preprocesamiento, entrenamiento y evaluación del modelo se llevaron a cabo dentro de un “pipeline” creado dentro de una clase utilizando el lenguaje de programación de Python.",
+      "en": "The results were measured by means of the AUC (Area Under the Curve) and were evaluated with cross validation (k = 10). Both the preprocessing, training and evaluation of the model were carried out within a “pipeline” created within a class using the Python programming language.",
+      "es": "Los resultados se midieron por medio del AUC (Area Bajo la Curva) y se evaluaron con validación cruzada (k = 10). Tanto el preprocesamiento, entrenamiento y evaluación del modelo se llevaron a cabo dentro de un “pipeline” creado dentro de una clase utilizando el lenguaje de programación de Python.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Nivel de precisión para cada modelo implementado con “Bigrams”",
+      "en": "Precision level for each model implemented with “Bigrams”",
+      "es": "Nivel de precisión para cada modelo implementado con “Bigrams”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Nivel de precisión para cada modelo implementado con “Trigrams”",
+      "en": "Precision level for each model implemented with “Trigrams”",
+      "es": "Nivel de precisión para cada modelo implementado con “Trigrams”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En las gráficas de AUC previas se muestra que la combinación ganadora es la de: RFt + BoW + Bigramas, ya que es la mejor en discernir los mensajes que tienen alguna relación con estrés de aquellos que no la tienen.",
+      "en": "The previous AUC graphs show that the winning combination is: RFt + BoW + Bigrams, since it is the best at discerning messages that have some relationship with stress from those that do not.",
+      "es": "En las gráficas de AUC previas se muestra que la combinación ganadora es la de: RFt + BoW + Bigramas, ya que es la mejor en discernir los mensajes que tienen alguna relación con estrés de aquellos que no la tienen.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "A continuación podemos observar la matriz de confusión del modelo ganador, así como los resultados de sus métricas.",
+      "en": "Below we can see the confusion matrix of the winning model, as well as the results of its metrics.",
+      "es": "A continuación podemos observar la matriz de confusión del modelo ganador, así como los resultados de sus métricas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El ajuste fue realizado para tres modelos con el fin de mejorar su desempeño.",
+      "en": "The adjustment was carried out for three models in order to improve their performance.",
+      "es": "El ajuste fue realizado para tres modelos con el fin de mejorar su desempeño.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "**Logistic Regression",
+      "en": "**Logistic Regression",
+      "es": "**Logistic Regression",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:",
+      "en": "**A grid search is generated using grid search to which certain values are defined with which the model will be executed to obtain the version with the best Accuracy. For this it was considered:",
+      "es": "**Se genera una búsqueda de grilla utilizando grid search al cual se le definen ciertos valores con los que se ejecutará el modelo para obtener la versión con mejor Accuracy. Para esto se consideró:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "1.- Valor C",
+      "en": "1.- C value",
+      "es": "1.- Valor C",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "2.- Penalty del modelo: L1 (Lasso) y L2 (Ridge)",
+      "en": "2.- Penalty of the model: L1 (Lasso) and L2 (Ridge)",
+      "es": "2.- Penalty del modelo: L1 (Lasso) y L2 (Ridge)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "**Random Forest Classifier",
+      "en": "**Random Forest Classifier",
+      "es": "**Random Forest Classifier",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "1.- Número de Estimadores: número de árboles utilizados en el bosque. Este valor empezará en 200 e irá de 10 en 10 hasta llegar a 2000.",
+      "en": "1.- Number of Estimators: number of trees used in the forest. This value will start at 200 and go from 10 by 10 until it reaches 2000.",
+      "es": "1.- Número de Estimadores: número de árboles utilizados en el bosque. Este valor empezará en 200 e irá de 10 en 10 hasta llegar a 2000.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "2.- Max_Features: es el número de atributos a considerar para la mejor división. Se prueba con “auto” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos.",
+      "en": "2.- Max_Features: is the number of attributes to consider for the best division. It is tested with “auto” which means that the maximum number of attributes will be the square root of the number of attributes.",
+      "es": "2.- Max_Features: es el número de atributos a considerar para la mejor división. Se prueba con “auto” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "3.- Max_depth: esto se refiere a la máxima profundidad del árbol. Para este caso se parte en 10 hasta 110 avanzando de 11.",
+      "en": "3.- Max_depth: this refers to the maximum depth of the tree. In this case, it starts from 10 to 110, advancing from 11.",
+      "es": "3.- Max_depth: esto se refiere a la máxima profundidad del árbol. Para este caso se parte en 10 hasta 110 avanzando de 11.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "4.- Min_Samples_split: es el número mínimo de muestras requeridas para la división interna del nodo. Se prueba con 2, 5 y 10.",
+      "en": "4.- Min_Samples_split: is the minimum number of samples required for the internal division of the node. It is tested with 2, 5 and 10.",
+      "es": "4.- Min_Samples_split: es el número mínimo de muestras requeridas para la división interna del nodo. Se prueba con 2, 5 y 10.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "5.- Min_samples_leaf: el número mínimo de muestras requeridas para ser una hoja de nodo. Se considera 1, 2 y 4 para realizar la búsqueda de grilla.",
+      "en": "5.- Min_samples_leaf: the minimum number of samples required to be a node leaf. 1, 2 and 4 are considered to perform the grid search.",
+      "es": "5.- Min_samples_leaf: el número mínimo de muestras requeridas para ser una hoja de nodo. Se considera 1, 2 y 4 para realizar la búsqueda de grilla.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "6.- Bootstrap: Si es Verdadero, usará bottstrap en la construcción de los árboles. Si es falso no se utilizará. Se probará con ambas.",
+      "en": "6.- Bootstrap: If True, it will use bottstrap in the construction of the trees. If it is false it will not be used. Will try both.",
+      "es": "6.- Bootstrap: Si es Verdadero, usará bottstrap en la construcción de los árboles. Si es falso no se utilizará. Se probará con ambas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "**Gradient Boosting Classifier",
+      "en": "**Gradient Boosting Classifier",
+      "es": "**Gradient Boosting Classifier",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "1.- Loss: se usa desviance para evaluar como regresión logística la función de pérdida",
+      "en": "1.- Loss: deviation is used to evaluate the loss function as logistic regression",
+      "es": "1.- Loss: se usa desviance para evaluar como regresión logística la función de pérdida",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "2.- Learning:rate: es la medición que mide la contribución de cada árbol.",
+      "en": "2.- Learning:rate: is the measurement that measures the contribution of each tree.",
+      "es": "2.- Learning:rate: es la medición que mide la contribución de cada árbol.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "3.- Max_Features: es el número de atributos a considerar para la mejor división. Se prueba con “sqrt” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos, en el caso de “log2” se usa el logaritmo del número de atributos.",
+      "en": "3.- Max_Features: is the number of attributes to consider for the best division. It is tested with “sqrt” which means that the maximum number of attributes will be the square root of the number of attributes, in the case of “log2” the logarithm of the number of attributes is used.",
+      "es": "3.- Max_Features: es el número de atributos a considerar para la mejor división. Se prueba con “sqrt” que se refiere a que el máximo de atributos será la raíz cuadrada del número de atributos, en el caso de “log2” se usa el logaritmo del número de atributos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "4.- Max_depth: esto se refiere a la máxima profundidad del árbol. Para este caso se usa 3, 5 y 8.",
+      "en": "4.- Max_depth: this refers to the maximum depth of the tree. In this case 3, 5 and 8 are used.",
+      "es": "4.- Max_depth: esto se refiere a la máxima profundidad del árbol. Para este caso se usa 3, 5 y 8.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "5.- Min_Samples_split: es el número mínimo de muestras requeridas para la división interna del nodo. Se prueba con un linspace de 0.1, 0.5 y 12.",
+      "en": "5.- Min_Samples_split: is the minimum number of samples required for the internal division of the node. It is tested with a linspace of 0.1, 0.5 and 12.",
+      "es": "5.- Min_Samples_split: es el número mínimo de muestras requeridas para la división interna del nodo. Se prueba con un linspace de 0.1, 0.5 y 12.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "6.- Min_samples_leaf: el número mínimo de muestras requeridas para ser una hoja de nodo. Se prueba con un linspace de 0.1, 0.5 y 12.",
+      "en": "6.- Min_samples_leaf: the minimum number of samples required to be a node leaf. It is tested with a linspace of 0.1, 0.5 and 12.",
+      "es": "6.- Min_samples_leaf: el número mínimo de muestras requeridas para ser una hoja de nodo. Se prueba con un linspace de 0.1, 0.5 y 12.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "7.- Numero de Estimadores: número de árboles utilizados en el bosque. Este valor empezará en 200 e irá de 10 en 10 hasta llegar a 2000.",
+      "en": "7.- Number of Estimators: number of trees used in the forest. This value will start at 200 and go from 10 by 10 until it reaches 2000.",
+      "es": "7.- Numero de Estimadores: número de árboles utilizados en el bosque. Este valor empezará en 200 e irá de 10 en 10 hasta llegar a 2000.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El modelo generado con mayor eficacia fue el de Random Forest, ya que es capaz de reconocer si un tweet contiene o no estrés con una precisión de 88%, lo cual es una métrica muy buena, ya que la velocidad con la que se puede evaluar un conjunto masivo de tweets con esta exactitud ayuda enormemente en una tarea que un humano tardaría mucho más tiempo, y de esta manera es posible encontrar o tratar posibles casos que requieran asistencia sin necesidad de esperar a que esto lleve a un problema mayor como lo es la depresión.",
+      "en": "The most effectively generated model was Random Forest, since it is capable of recognizing whether or not a tweet contains stress with an accuracy of 88%, which is a very good metric, since the speed with which a massive set of tweets can be evaluated with this accuracy helps enormously in a task that would take a human much longer, and in this way it is possible to find or treat possible cases that require assistance without having to wait for this to lead to a major problem such as depression.",
+      "es": "El modelo generado con mayor eficacia fue el de Random Forest, ya que es capaz de reconocer si un tweet contiene o no estrés con una precisión de 88%, lo cual es una métrica muy buena, ya que la velocidad con la que se puede evaluar un conjunto masivo de tweets con esta exactitud ayuda enormemente en una tarea que un humano tardaría mucho más tiempo, y de esta manera es posible encontrar o tratar posibles casos que requieran asistencia sin necesidad de esperar a que esto lleve a un problema mayor como lo es la depresión.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para poder adentrarnos más en por qué el modelo se comporta de la manera que lo hace, hicimos uso de SHAP, una técnica de teoría de juegos utilizada para explicar los modelos. El modelo utilizado fue un Random Forest con 100 estimadores.",
+      "en": "In order to delve deeper into why the model behaves the way it does, we made use of SHAP, a game theory technique used to explain models. The model used was a Random Forest with 100 estimators.",
+      "es": "Para poder adentrarnos más en por qué el modelo se comporta de la manera que lo hace, hicimos uso de SHAP, una técnica de teoría de juegos utilizada para explicar los modelos. El modelo utilizado fue un Random Forest con 100 estimadores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En este caso utilizamos un TreeExplainer de la librería shap. Para calcular estos valores se tuvo que usar solamente el 5% de los datos de entrenamiento y 10,000 features, de otro modo, el tiempo de ejecución sobrepasa la hora y media en Google Colab.",
+      "en": "In this case we use a TreeExplainer from the shap library. To calculate these values, only 5% of the training data and 10,000 features had to be used, otherwise the execution time exceeds an hour and a half in Google Colab.",
+      "es": "En este caso utilizamos un TreeExplainer de la librería shap. Para calcular estos valores se tuvo que usar solamente el 5% de los datos de entrenamiento y 10,000 features, de otro modo, el tiempo de ejecución sobrepasa la hora y media en Google Colab.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Resultados para tweets que NO tienen estrés:",
+      "en": "Results for tweets that have NO stress:",
+      "es": "Resultados para tweets que NO tienen estrés:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Resultados para tweets que SÍ tienen estrés:",
+      "en": "Results for tweets that DO have stress:",
+      "es": "Resultados para tweets que SÍ tienen estrés:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Instituciones públicas, gubernamentales o privadas que estén interesadas en conocer o monitorear el estado anímico de una población, o conjunto de personas por zona geográfica, para evaluar el nivel de estrés.",
+      "en": "Public, governmental or private institutions that are interested in knowing or monitoring the emotional state of a population, or group of people by geographic area, to evaluate the level of stress.",
+      "es": "Instituciones públicas, gubernamentales o privadas que estén interesadas en conocer o monitorear el estado anímico de una población, o conjunto de personas por zona geográfica, para evaluar el nivel de estrés.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Personal que labore en el área médica enfocada en la salud mental, para lograr identificar las condiciones sobre la estabilidad emocional de algún sector de la población.",
+      "en": "Personnel who work in the medical area focused on mental health, to identify the conditions on the emotional stability of some sector of the population.",
+      "es": "Personal que labore en el área médica enfocada en la salud mental, para lograr identificar las condiciones sobre la estabilidad emocional de algún sector de la población.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Empresas privadas que puedan ofrecer servicios de consultoría para el bienestar emocional y que ofrezcan análisis o proyección de campañas de salud mental en la sociedad.",
+      "en": "Private companies that can offer consulting services for emotional well-being and that offer analysis or projection of mental health campaigns in society.",
+      "es": "Empresas privadas que puedan ofrecer servicios de consultoría para el bienestar emocional y que ofrezcan análisis o proyección de campañas de salud mental en la sociedad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para alojar nuestro modelo de Machine Learning usamos el framework Flask. Este es usado por su facilidad de uso, ser muy escalable y además, está desarrollado para Python. Lo cual permite en un lenguaje realizar todo el desarrollo. Hay que tener claro que una aplicación web tiene dos partes fundamentales.",
+      "en": "To host our Machine Learning model we use the Flask framework. This is used for its ease of use, being very scalable and is also developed for Python. Which allows all development to be carried out in one language. It must be clear that a web application has two fundamental parts.",
+      "es": "Para alojar nuestro modelo de Machine Learning usamos el framework Flask. Este es usado por su facilidad de uso, ser muy escalable y además, está desarrollado para Python. Lo cual permite en un lenguaje realizar todo el desarrollo. Hay que tener claro que una aplicación web tiene dos partes fundamentales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Partes de una App Web:",
+      "en": "Parts of a Web App:",
+      "es": "Partes de una App Web:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El Front-end el cual es una página desarrollada con Html y Css. Sin ninguna parte de JavaScript ya que es una app sencilla de utilizar.",
+      "en": "The Front-end which is a page developed with Html and CSS. Without any part of JavaScript since it is a simple app to use.",
+      "es": "El Front-end el cual es una página desarrollada con Html y Css. Sin ninguna parte de JavaScript ya que es una app sencilla de utilizar.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El Back-end será desarrollado con Flask, donde permite crear la integración con el Front-end y además correr el modelo ya entrenado.",
+      "en": "The Back-end will be developed with Flask, where it allows creating the integration with the Front-end and also running the already trained model.",
+      "es": "El Back-end será desarrollado con Flask, donde permite crear la integración con el Front-end y además correr el modelo ya entrenado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Desarrollo de la interfaz de usuario",
+      "en": "User interface development",
+      "es": "Desarrollo de la interfaz de usuario",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "En esta parte fueron utilizadas dos herramientas en línea bastante útiles que son Flask y Heroku.",
+      "en": "In this part, two very useful online tools were used: Flask and Heroku.",
+      "es": "En esta parte fueron utilizadas dos herramientas en línea bastante útiles que son Flask y Heroku.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Flask es un framework para desarrollo web con gran interacción con Python; Heroku es usado como un servidor para el despliegue y disponibilidad pública de la aplicación.",
+      "en": "Flask is a framework for web development with great interaction with Python; Heroku is used as a server for the deployment and public availability of the application.",
+      "es": "Flask es un framework para desarrollo web con gran interacción con Python; Heroku es usado como un servidor para el despliegue y disponibilidad pública de la aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La aplicación se encuentra disponible en:",
+      "en": "The application is available at:",
+      "es": "La aplicación se encuentra disponible en:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ANXIE-TWEET Heroku",
+      "en": "ANXIE-TWEET Heroku",
+      "es": "ANXIE-TWEET Heroku",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Elías Garcés (Ing. Civil)",
+      "en": "Elías Garcés (Civil Eng.)",
+      "es": "Elías Garcés (Ing. Civil)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Daniela Gómez (Ing. Industrial y de Sistemas )",
+      "en": "Daniela Gómez (Industrial and Systems Engineer)",
+      "es": "Daniela Gómez (Ing. Industrial y de Sistemas )",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Enrique Ramos García(Lic. en Matemáticas )",
+      "en": "Enrique Ramos García (Lic. in Mathematics)",
+      "es": "Enrique Ramos García(Lic. en Matemáticas )",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Fernando Vizcarra Salva( Ing. Mecatrónico )",
+      "en": "Fernando Vizcarra Salva (Mechatronic Engineer)",
+      "es": "Fernando Vizcarra Salva( Ing. Mecatrónico )",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Jonathan Chávez(Desarrollador Web)",
+      "en": "Jonathan Chávez (Web Developer)",
+      "es": "Jonathan Chávez(Desarrollador Web)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "En el siguiente repositorio de encuentra el código usado par desarrollar esta aplicación:",
+      "en": "In the following repository you can find the code used to develop this application:",
+      "es": "En el siguiente repositorio de encuentra el código usado par desarrollar esta aplicación:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "KNN",
+      "en": "KNN",
+      "es": "KNN",
+      "reviewed": false,
+      "translationVersion": 2
+    }
+  ]
+}

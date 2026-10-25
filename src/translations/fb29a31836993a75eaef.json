@@ -1,0 +1,1027 @@
+{
+  "title": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
+  "route": "/2026/03/18/de-proyecto-existente-a-producto-digital-como-construi-la-web-app-de-energia-en-accion/",
+  "segments": [
+    {
+      "source": "Cómo el proyecto Energía en Acción encontró su espacio digital: una plataforma para conectar estudiantes, mentores y organizaciones alrededor de proyectos compartidos.",
+      "en": "How the Energy in Action project found its digital space: a platform to connect students, mentors and organizations around shared projects.",
+      "es": "Cómo el proyecto Energía en Acción encontró su espacio digital: una plataforma para conectar estudiantes, mentores y organizaciones alrededor de proyectos compartidos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "18 mar 2026",
+      "en": "18 Mar 2026",
+      "es": "18 mar 2026",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "EL PUNTO DE PARTIDA",
+      "en": "THE POINT OF PARTICIPATION",
+      "es": "EL PUNTO DE PARTIDA",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿ QUÉ HACE LA APP ?",
+      "en": "What's the APP doing?",
+      "es": "¿ QUÉ HACE LA APP ?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "LAS HERRAMIENTAS QUE UTILICÉ",
+      "en": "THE HERRAMIENTS YOU USED",
+      "es": "LAS HERRAMIENTAS QUE UTILICÉ",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CÓMO PLANTEÉ LA ARQUITECTURA",
+      "en": "HOW THE ARCHITECTURE",
+      "es": "CÓMO PLANTEÉ LA ARQUITECTURA",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "AUTENTICACIÓN, SESIÓN Y ROLES",
+      "en": "AUTENTIFICATION, MEETING AND ROLES",
+      "es": "AUTENTICACIÓN, SESIÓN Y ROLES",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "LO IMPORTANTE: LOS FLUJOS REALES",
+      "en": "THE IMPORTANT: THE REAL FLUITS",
+      "es": "LO IMPORTANTE: LOS FLUJOS REALES",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "MENSAJERÍA Y COMUNICACIÓN EN LA APP",
+      "en": "MESSAGE AND COMMUNICATION IN THE APP",
+      "es": "MENSAJERÍA Y COMUNICACIÓN EN LA APP",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "EL ONBOARDING ES PARTE DEL PRODUCTO",
+      "en": "THE ONBOARDING IS PART OF THE PRODUCT",
+      "es": "EL ONBOARDING ES PARTE DEL PRODUCTO",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "LOS PROBLEMAS REALES QUE APARECIERON",
+      "en": "THE REAL PROBLEMS WHICH THEY APARECIERATE",
+      "es": "LOS PROBLEMAS REALES QUE APARECIERON",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CÓMO ME AYUDÓ CODEX DURANTE EL DESARROLLO",
+      "en": "HOW CODEX HELP ME DURING DEVELOPMENT",
+      "es": "CÓMO ME AYUDÓ CODEX DURANTE EL DESARROLLO",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "QUÉ VALIDÉ ANTES DE DARLO POR BUENO",
+      "en": "WHAT I VALID BEFORE I DARL FOR GOOD",
+      "es": "QUÉ VALIDÉ ANTES DE DARLO POR BUENO",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "LO MEJOR DEL PROYECTO",
+      "en": "THE IMPROVING OF THE PROJECT",
+      "es": "LO MEJOR DEL PROYECTO",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Demo de la App de Energianaccion",
+      "en": "Energianaction App Demo",
+      "es": "Demo de la App de Energianaccion",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En este caso, la idea no nació de cero.",
+      "en": "In this case, the idea was not born from scratch.",
+      "es": "En este caso, la idea no nació de cero.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Energía en Acción",
+      "en": "Energy in Action",
+      "es": "Energía en Acción",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ya existía como proyecto y lo que faltaba era una",
+      "en": "it already existed as a project and what was missing was a",
+      "es": "ya existía como proyecto y lo que faltaba era una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "capa digital",
+      "en": "digital layer",
+      "es": "capa digital",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que ayudara a ordenar mejor su funcionamiento.",
+      "en": "to help better order its operation.",
+      "es": "que ayudara a ordenar mejor su funcionamiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahí es donde entró la web app: no como una simple página de apoyo, sino como una",
+      "en": "That's where the app entered: not as a simple support page, but as a",
+      "es": "Ahí es donde entró la web app: no como una simple página de apoyo, sino como una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "herramienta útil para el día a día",
+      "en": "useful tool for day to day",
+      "es": "herramienta útil para el día a día",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", pensada para dar más claridad a estudiantes, mentores y organizaciones.",
+      "en": ", designed to give more clarity to students, mentors and organizations.",
+      "es": ", pensada para dar más claridad a estudiantes, mentores y organizaciones.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desde el principio lo tenía claro: no quería una web que solo explicara el proyecto hacia fuera, sino una herramienta que también sirviera hacia dentro.",
+      "en": "From the beginning I had it clear: I did not want a web that would only explain the project out, but a tool that would also serve in.",
+      "es": "Desde el principio lo tenía claro: no quería una web que solo explicara el proyecto hacia fuera, sino una herramienta que también sirviera hacia dentro.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si una estudiante descubre un proyecto y empieza a participar, esa experiencia debía continuar dentro del mismo sistema. En otras palabras, el proyecto ya existía; lo que faltaba era una web app capaz de darle estructura operativa.",
+      "en": "If a student discovers a project and begins to participate, that experience should continue within the same system. In other words, the project already existed; what was missing was a web app capable of giving it operational structure.",
+      "es": "Si una estudiante descubre un proyecto y empieza a participar, esa experiencia debía continuar dentro del mismo sistema. En otras palabras, el proyecto ya existía; lo que faltaba era una web app capaz de darle estructura operativa.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "home",
+      "en": "home",
+      "es": "casa",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La web app está pensada para conectar",
+      "en": "The web app is designed to connect",
+      "es": "La web app está pensada para conectar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "estudiantes",
+      "en": "students",
+      "es": "estudiantes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "organizaciones",
+      "en": "organizations",
+      "es": "organizaciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Desde el principio tenía claro que no todos debían recorrer la plataforma de la misma manera, porque cada uno llega con una necesidad distinta.",
+      "en": "From the beginning it was clear that not all should go through the platform in the same way, because each one comes with a different need.",
+      "es": ". Desde el principio tenía claro que no todos debían recorrer la plataforma de la misma manera, porque cada uno llega con una necesidad distinta.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el caso de las estudiantes, el recorrido va del registro al perfil y de ahí a la exploración de proyectos. Cuando una estudiante aplica, la app deja de ser solo un catálogo y empieza a funcionar como un espacio de seguimiento.",
+      "en": "In the case of students, the tour goes from registration to profile and from there to project exploration. When a student applies, the app ceases to be just a catalogue and starts to function as a follow-up space.",
+      "es": "En el caso de las estudiantes, el recorrido va del registro al perfil y de ahí a la exploración de proyectos. Cuando una estudiante aplica, la app deja de ser solo un catálogo y empieza a funcionar como un espacio de seguimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el caso de los mentores, la lógica es otra. No entran tanto para descubrir como para acompañar, ver en qué proyectos participan, detectar interés y compartir actualizaciones sin depender de canales externos.",
+      "en": "In the case of mentors, logic is another. They do not go in so much to discover as to accompany, see which projects participate in, detect interest and share updates without relying on external channels.",
+      "es": "En el caso de los mentores, la lógica es otra. No entran tanto para descubrir como para acompañar, ver en qué proyectos participan, detectar interés y compartir actualizaciones sin depender de canales externos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La plataforma también contempla el papel de las organizaciones, aunque en esta primera versión la experiencia principal esté más centrada en estudiantes y mentores.",
+      "en": "The platform also includes the role of organizations, although in this first version the main experience is more focused on students and mentors.",
+      "es": "La plataforma también contempla el papel de las organizaciones, aunque en esta primera versión la experiencia principal esté más centrada en estudiantes y mentores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "catalogo",
+      "en": "catalogue",
+      "es": "catalogo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para construir la web app trabajé con",
+      "en": "To build the web app I worked with",
+      "es": "Para construir la web app trabajé con",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Next.js",
+      "en": "Next.js",
+      "es": "Siguiente.js",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "React",
+      "en": "React",
+      "es": "Reacción",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TypeScript",
+      "en": "TypeScript",
+      "es": "TypeScript",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prisma",
+      "en": "Prisma",
+      "es": "Prisma",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "MySQL",
+      "en": "MySQL",
+      "es": "MySQL",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Además, utilicé",
+      "en": ". Besides, I used",
+      "es": ". Además, utilicé",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Zod",
+      "en": "Zod",
+      "es": "Zod",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para validaciones,",
+      "en": "for validation,",
+      "es": "para validaciones,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "JWT",
+      "en": "JWT",
+      "es": "JWT",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para la sesión y",
+      "en": "for the meeting and",
+      "es": "para la sesión y",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tailwind CSS",
+      "en": "Tallwind CSS",
+      "es": "Tailwind CSS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para la interfaz.",
+      "en": "for the interface.",
+      "es": "para la interfaz.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Más que acumular herramientas, lo que buscaba era una base técnica estable para poder trabajar con",
+      "en": "More than accumulating tools, what I was looking for was a stable technical basis for working with",
+      "es": "Más que acumular herramientas, lo que buscaba era una base técnica estable para poder trabajar con",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "roles",
+      "en": "roles",
+      "es": "Funciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "datos",
+      "en": "data",
+      "es": "datos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mensajería",
+      "en": "courier",
+      "es": "mensajería",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y distintos recorridos dentro de la misma aplicación.",
+      "en": "and different routes within the same application.",
+      "es": "y distintos recorridos dentro de la misma aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desde el principio intenté que el proyecto estuviera",
+      "en": "From the beginning I tried to make the project",
+      "es": "Desde el principio intenté que el proyecto estuviera",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ordenado",
+      "en": "ordered",
+      "es": "ordenado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Quería evitar una app donde todo acabara mezclado y cada nueva funcionalidad complicara más la anterior.",
+      "en": ". I wanted to avoid an app where everything would end up mixed and each new functionality would complicate the previous one.",
+      "es": ". Quería evitar una app donde todo acabara mezclado y cada nueva funcionalidad complicara más la anterior.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por eso mantuve una separación clara entre la",
+      "en": "That's why I kept a clear separation between the",
+      "es": "Por eso mantuve una separación clara entre la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "parte visual",
+      "en": "visual part",
+      "es": "parte visual",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", la",
+      "en": ",",
+      "es": ", la",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "lógica de la aplicación",
+      "en": "logic of application",
+      "es": "lógica de la aplicación",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "API",
+      "en": "API",
+      "es": "API",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "modelo de datos",
+      "en": "data model",
+      "es": "modelo de datos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Eso me permitió avanzar con más control y construir un MVP pequeño, pero bien estructurado.",
+      "en": "That allowed me to move forward with more control and build a small, but well structured MVP.",
+      "es": ". Eso me permitió avanzar con más control y construir un MVP pequeño, pero bien estructurado.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En una aplicación como esta, iniciar sesión no era lo más importante. El verdadero reto estaba en decidir bien qué puede hacer cada persona y en qué contexto.",
+      "en": "In an application like this, login was not the most important thing. The real challenge was to decide what each person can do and in what context.",
+      "es": "En una aplicación como esta, iniciar sesión no era lo más importante. El verdadero reto estaba en decidir bien qué puede hacer cada persona y en qué contexto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La sesión se resuelve con",
+      "en": "The session is resolved with",
+      "es": "La sesión se resuelve con",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "guardado en una cookie httpOnly, lo que permite validar accesos y proteger rutas según el rol.",
+      "en": "stored in a httpOnly cookie, which allows you to validate access and protect routes according to the role.",
+      "es": "guardado en una cookie httpOnly, lo que permite validar accesos y proteger rutas según el rol.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles este tipo de control es lo que hace que la experiencia se sienta coherente de verdad.",
+      "en": "It may seem a small detail, but on a platform with several profiles this type of control is what makes the experience feel really coherent.",
+      "es": "Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles este tipo de control es lo que hace que la experiencia se sienta coherente de verdad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.",
+      "en": "One of the most important parts was to protect the routes well according to the profile. This fragment summarizes how the app checks the session and redirects each user to its correct space.",
+      "es": "Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.",
+      "en": "It may seem a small logic, but this type of control is just what prevents inconsistent routes when there are several roles in the same product.",
+      "es": "Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Más allá de la parte técnica, lo que me interesaba era que la app contara una historia de uso clara.",
+      "en": "Beyond the technical part, what I was interested in was that the app told a story of clear use.",
+      "es": "Más allá de la parte técnica, lo que me interesaba era que la app contara una historia de uso clara.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el caso de las estudiantes, el recorrido va del acceso al perfil, del perfil al catálogo y de ahí al dashboard. La idea era evitar esa sensación de “he aplicado y ya no sé qué pasa”. Por eso el panel no funciona solo como resumen, sino como un espacio donde se recupera contexto.",
+      "en": "In the case of the students, the tour goes from access to the profile, from profile to catalogue and from there to the dashboard. The idea was to avoid that feeling of \"I have applied and no longer know what happens.\" Therefore the panel does not work only as a summary, but as a space where context is recovered.",
+      "es": "En el caso de las estudiantes, el recorrido va del acceso al perfil, del perfil al catálogo y de ahí al dashboard. La idea era evitar esa sensación de “he aplicado y ya no sé qué pasa”. Por eso el panel no funciona solo como resumen, sino como un espacio donde se recupera contexto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "inicio",
+      "en": "start",
+      "es": "inicio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el caso de los mentores, el flujo está más orientado al",
+      "en": "In the case of mentors, the flow is more oriented to",
+      "es": "En el caso de los mentores, el flujo está más orientado al",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "acompañamiento",
+      "en": "accompanying",
+      "es": "acompañamiento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Entran para ver proyectos, detectar interés, abrir conversaciones y mantener el seguimiento desde un mismo lugar.",
+      "en": ". They enter to see projects, detect interest, open conversations and keep track of the same place.",
+      "es": ". Entran para ver proyectos, detectar interés, abrir conversaciones y mantener el seguimiento desde un mismo lugar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Su dashboard está pensado más como una",
+      "en": "Your dashboard is thought more like a",
+      "es": "Su dashboard está pensado más como una",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "superficie de trabajo",
+      "en": "work area",
+      "es": "superficie de trabajo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que como una página informativa.",
+      "en": "that as an information page.",
+      "es": "que como una página informativa.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mentor",
+      "en": "mentor",
+      "es": "mentor",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Luego está la propia",
+      "en": "Then there's your own.",
+      "es": "Luego está la propia",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ficha de proyecto",
+      "en": "Project document",
+      "es": "ficha de proyecto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", que actúa como unidad central dentro de la plataforma. Ahí se concentra el contexto del trabajo: descripción, estado, skills y acciones disponibles según el rol.",
+      "en": "It acts as a central unit within the platform. There the context of the work is concentrated: description, state, skills and actions available according to the role.",
+      "es": ", que actúa como unidad central dentro de la plataforma. Ahí se concentra el contexto del trabajo: descripción, estado, skills y acciones disponibles según el rol.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "project",
+      "en": "project",
+      "es": "proyecto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otra parte importante era evitar que la colaboración se rompiera justo después de empezar. Si todo acababa dependiendo de mensajes fuera de la plataforma, la app perdía parte de su valor.",
+      "en": "Another important part was to prevent the collaboration from breaking right after it started. If it all ended up depending on messages outside the platform, the app lost part of its value.",
+      "es": "Otra parte importante era evitar que la colaboración se rompiera justo después de empezar. Si todo acababa dependiendo de mensajes fuera de la plataforma, la app perdía parte de su valor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por eso integré un sistema de",
+      "en": "So I integrated a system of",
+      "es": "Por eso integré un sistema de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mensajería interna",
+      "en": "internal messaging",
+      "es": "mensajería interna",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", pero conectado al contexto real del proyecto y no a una lógica genérica de contacto entre usuarios.",
+      "en": "but connected to the actual context of the project and not to a generic logic of contact between users.",
+      "es": ", pero conectado al contexto real del proyecto y no a una lógica genérica de contacto entre usuarios.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, la parte de",
+      "en": "In addition, the",
+      "es": "Además, la parte de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "comunicados",
+      "en": "Communications",
+      "es": "comunicados",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "la resolví reutilizando esa misma base de mensajería, con una distinción interna para tratar ciertas actualizaciones como mensajes de proyecto. Era una solución simple, pero muy útil para esta fase.",
+      "en": "I resolved it by reusing that same messaging base, with an internal distinction to treat certain updates as project messages. It was a simple, but very useful solution for this phase.",
+      "es": "la resolví reutilizando esa misma base de mensajería, con una distinción interna para tratar ciertas actualizaciones como mensajes de proyecto. Era una solución simple, pero muy útil para esta fase.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "chat",
+      "en": "chat",
+      "es": "chat",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.",
+      "en": "In the messaging part I chose a rather pragmatic solution: to reuse the message infrastructure to send communications linked to a specific project.",
+      "es": "En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.",
+      "en": "That allowed me to solve a real need for MVP without lifting a parallel system just for internal updates.",
+      "es": "Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En un proyecto con varios roles, no quería que la gente tuviera que deducir por intuición cómo usar la plataforma.",
+      "en": "In a multi-role project, I didn't want people to have to figure out by intuition how to use the platform.",
+      "es": "En un proyecto con varios roles, no quería que la gente tuviera que deducir por intuición cómo usar la plataforma.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por eso añadí recorridos de",
+      "en": "That's why I added tours of",
+      "es": "Por eso añadí recorridos de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "onboarding",
+      "en": "onboarding",
+      "es": "a bordo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en pantallas clave como los dashboards y el catálogo de proyectos. No lo veía como un extra estético, sino como una parte importante de la experiencia.",
+      "en": "on key screens such as dashboards and the project catalogue. I did not see it as an extra aesthetic, but as an important part of the experience.",
+      "es": "en pantallas clave como los dashboards y el catálogo de proyectos. No lo veía como un extra estético, sino como una parte importante de la experiencia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como suele pasar, la parte más interesante no estuvo solo en construir pantallas, sino en conseguir que la aplicación respondiera bien cuando empezó a comportarse como un sistema real.",
+      "en": "As usual, the most interesting part was not only in building screens, but in getting the application to respond well when it began to behave like a real system.",
+      "es": "Como suele pasar, la parte más interesante no estuvo solo en construir pantallas, sino en conseguir que la aplicación respondiera bien cuando empezó a comportarse como un sistema real.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Uno de los focos fue la",
+      "en": "One of the focal points was the",
+      "es": "Uno de los focos fue la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "robustez general",
+      "en": "General strength",
+      "es": "robustez general",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": autenticación, sesiones, protección por rol y respuesta de endpoints sensibles. No me interesaba solo que la app se viera bien, sino que también fuera fiable al ejecutarla.",
+      "en": ": authentication, sessions, role protection and response of sensitive endpoints. I was not only interested that the app looked good, but that it was also reliable when executing it.",
+      "es": ": autenticación, sesiones, protección por rol y respuesta de endpoints sensibles. No me interesaba solo que la app se viera bien, sino que también fuera fiable al ejecutarla.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "También aparecieron ajustes más concretos, como el comportamiento del sistema cuando la base de datos no estaba disponible. Ahí me interesaba que la app degradara bien y que el diagnóstico fuera claro.",
+      "en": "More concrete adjustments also appeared, such as the system's behavior when the database was not available. I was interested in the well-degraded app and the diagnosis being clear.",
+      "es": "También aparecieron ajustes más concretos, como el comportamiento del sistema cuando la base de datos no estaba disponible. Ahí me interesaba que la app degradara bien y que el diagnóstico fuera claro.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.",
+      "en": "Another important adjustment appeared when thinking of the system actually working, not only in local with everything perfect. The healthcheck went on to respond clearly when the database is not available.",
+      "es": "Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No es una funcionalidad visible para el usuario final, pero sí una de esas decisiones que marcan la diferencia cuando toca diagnosticar, desplegar y mantener una aplicación.",
+      "en": "It is not a functionality visible to the end user, but it is one of those decisions that make the difference when it comes to diagnosing, deploying and maintaining an application.",
+      "es": "No es una funcionalidad visible para el usuario final, pero sí una de esas decisiones que marcan la diferencia cuando toca diagnosticar, desplegar y mantener una aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Codex fue una ayuda real en varias fases del proyecto. Me sirvió para revisar la estructura de la app con más perspectiva, mapear rutas, componentes y lógica compartida, y detectar ajustes con más claridad.",
+      "en": "Codex was a real help in several phases of the project. It served me to review the app structure with more perspective, map routes, components and shared logic, and detect adjustments more clearly.",
+      "es": "Codex fue una ayuda real en varias fases del proyecto. Me sirvió para revisar la estructura de la app con más perspectiva, mapear rutas, componentes y lógica compartida, y detectar ajustes con más claridad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "También me ayudó en la parte más práctica del desarrollo, generando fragmentos de implementación y desbloqueando enfoques de código que me permitieron avanzar más rápido.",
+      "en": "It also helped me in the most practical part of development, generating implementation fragments and unblocking code approaches that allowed me to move forward faster.",
+      "es": "También me ayudó en la parte más práctica del desarrollo, generando fragmentos de implementación y desbloqueando enfoques de código que me permitieron avanzar más rápido.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y además tuvo un papel importante al final: revisar, validar y transformar parte de la base técnica del proyecto en documentación y explicaciones más fáciles de comunicar.",
+      "en": "It also had an important role in the end: to review, validate and transform part of the technical basis of the project into easier documentation and explanations to communicate.",
+      "es": "Y además tuvo un papel importante al final: revisar, validar y transformar parte de la base técnica del proyecto en documentación y explicaciones más fáciles de comunicar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y para quien quiera ir un paso más allá y montarlo por su cuenta, también dejaré enlazado",
+      "en": "And for anyone who wants to go one step further and ride it on their own, I'll also leave it linked.",
+      "es": "Y para quien quiera ir un paso más allá y montarlo por su cuenta, también dejaré enlazado",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "un artículo donde explico cómo instalar la aplicación paso a paso.",
+      "en": "an article where I explain how to install the step-by-step application.",
+      "es": "un artículo donde explico cómo instalar la aplicación paso a paso.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Antes de cerrar esta fase del proyecto, revisé la aplicación como si fuera a entregarla para una validación real. Pasé",
+      "en": "Before closing this phase of the project, I reviewed the application as if it were to be delivered for real validation.",
+      "es": "Antes de cerrar esta fase del proyecto, revisé la aplicación como si fuera a entregarla para una validación real. Pasé",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "lint",
+      "en": "lint",
+      "es": "linaje",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", revisé el",
+      "en": "I checked the",
+      "es": ", revisé el",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "build",
+      "en": "build",
+      "es": "construcción",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de producción y comprobé el comportamiento de los endpoints más importantes.",
+      "en": "I checked the behavior of the most important endpoints.",
+      "es": "de producción y comprobé el comportamiento de los endpoints más importantes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El resultado fue bueno a nivel de aplicación: compila, responde y mantiene bien su estructura principal. Para tener funcionalidad completa de extremo a extremo, eso sí, el entorno de datos tenía que estar correctamente levantado.",
+      "en": "The result was good at the application level: it compiles, responds and maintains its main structure well. To have complete end-to-end functionality, yes, the data environment had to be properly raised.",
+      "es": "El resultado fue bueno a nivel de aplicación: compila, responde y mantiene bien su estructura principal. Para tener funcionalidad completa de extremo a extremo, eso sí, el entorno de datos tenía que estar correctamente levantado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lo que más me gusta de la web app de Energía en Acción es que no se siente como una suma de pantallas desconectadas.",
+      "en": "What I like most about the Energy in Action app is that it doesn't feel like a sum of disconnected screens.",
+      "es": "Lo que más me gusta de la web app de Energía en Acción es que no se siente como una suma de pantallas desconectadas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tiene una narrativa clara: entras, descubres proyectos, participas, hablas con otras personas y sigues el contexto desde un mismo lugar.",
+      "en": "It has a clear narrative: you enter, discover projects, participate, talk to other people and follow the context from the same place.",
+      "es": "Tiene una narrativa clara: entras, descubres proyectos, participas, hablas con otras personas y sigues el contexto desde un mismo lugar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Construir esta web app fue una forma de dar estructura digital a un proyecto que ya tenía una base real.",
+      "en": "Building this web app was a way to give digital structure to a project that already had a real base.",
+      "es": "Construir esta web app fue una forma de dar estructura digital a un proyecto que ya tenía una base real.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Más que crear una web bonita, se trataba de construir una herramienta útil para que estudiantes, mentores y organizaciones pudieran moverse con más claridad y menos fricción.",
+      "en": "Rather than creating a beautiful web, it was a question of building a useful tool for students, mentors and organizations to move more clearly and less friction.",
+      "es": "Más que crear una web bonita, se trataba de construir una herramienta útil para que estudiantes, mentores y organizaciones pudieran moverse con más claridad y menos fricción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "App web",
+      "en": "Web app",
+      "es": "App web",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 mar 2026.",
+      "en": "A history of the Saturdays.AI. community originally published on the 18 Mar 2026.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 mar 2026.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

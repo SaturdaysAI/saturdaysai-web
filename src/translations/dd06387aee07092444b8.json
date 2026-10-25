@@ -1,0 +1,445 @@
+{
+  "title": "Machine Learning aplicado a la compactación de suelo.",
+  "route": "/2021/11/12/machine-learning-compactacion-de-suelo/",
+  "segments": [
+    {
+      "source": "Machine Learning aplicado a la compactación de suelo.",
+      "en": "Machine Learning applied to soil compaction.",
+      "es": "Machine Learning aplicado a la compactación de suelo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "4 min de lectura",
+      "en": "4 min reading",
+      "es": "4 min de lectura",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo. El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años…",
+      "en": "In this article, we will use Machine Learning techniques to optimize soil compaction. The soil is a material composed of a solid, liquid and gaseous part, which was formed for hundreds of millions of years...",
+      "es": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo. El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años…",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "12 nov 2021",
+      "en": "12 Nov 2021",
+      "es": "12 nov 2021",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mauricio Ramirez Salamanca",
+      "en": "Mauricio Ramirez Salamanca",
+      "es": "Mauricio Ramirez Salamanca",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo.",
+      "en": "In this article, we will use Machine Learning techniques to optimize soil compaction.",
+      "es": "En este artículo, utilizaremos técnicas de Machine Learning para optimizar la compactación del suelo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años de meteorización y sedimentación. Entendemos por compactación el eliminar la mayor cantidad de masa gaseosa (comúnmente aire) del suelo mediante carga.",
+      "en": "The soil is a material composed of a solid, liquid and gaseous part, which was formed for hundreds of millions of years of meteorization and sedimentation. We understand by compaction the elimination of the most gaseous mass (commonly air) from the soil by charge.",
+      "es": "El suelo es un material compuesto por una parte sólida, líquida y gaseosa, que se formó durante cientos de millones de años de meteorización y sedimentación. Entendemos por compactación el eliminar la mayor cantidad de masa gaseosa (comúnmente aire) del suelo mediante carga.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
+      "en": "The compaction curve consists of a curve that is built after marking the dry density and moisture points of the sample. With a minimum of 5 points a curve is hand-drawn that can correlate all these points and the maximum dry density and the optimal humidity to which this soil can be compacted.",
+      "es": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estos parámetros son linealmente independientes y no existe una relación entre el ensayo de compactación y la clasificación de suelos, por lo que se realizan dos ensayos diferentes para la obtención del mismo.",
+      "en": "These parameters are linearly independent and there is no relationship between the compaction test and the classification of soils, so two different tests are performed for the purpose of obtaining it.",
+      "es": "Estos parámetros son linealmente independientes y no existe una relación entre el ensayo de compactación y la clasificación de suelos, por lo que se realizan dos ensayos diferentes para la obtención del mismo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Descripción del problema",
+      "en": "Description of the problem",
+      "es": "Descripción del problema",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para cada kilómetro de carretera se requieren 5 pozos de ensayo de los cuales es requisito presentar dos ensayos:",
+      "en": "For each kilometre of road, 5 test wells are required, of which two tests are required:",
+      "es": "Para cada kilómetro de carretera se requieren 5 pozos de ensayo de los cuales es requisito presentar dos ensayos:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Clasificación de suelos",
+      "en": "Soil classification",
+      "es": "Clasificación de suelos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Compactación",
+      "en": "Compaction",
+      "es": "Compactación",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la práctica, debido a los recursos económicos y la logística que representa solo se realizan 5 ensayos de clasificación y 2 de compactación y los resultados se interpolan.",
+      "en": "In practice, due to the economic resources and logistics it represents, only 5 classification and 2 compaction tests are performed and the results are interpolated.",
+      "es": "En la práctica, debido a los recursos económicos y la logística que representa solo se realizan 5 ensayos de clasificación y 2 de compactación y los resultados se interpolan.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objetivo",
+      "en": "Objective",
+      "es": "Objetivo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Determinar usando técnicas de Machine Learning una correlación entre la clasificación de suelos y la compactación de suelos, refiriéndose al valor de densidad seca máxima y humedad óptima, para calcular la humedad a la que se compactará un determinado tramo de carretera.",
+      "en": "Determine using Machine Learning techniques a correlation between soil classification and soil compaction, referring to the maximum dry density and optimal humidity value, to calculate the humidity at which a certain section of road will be compacted.",
+      "es": "Determinar usando técnicas de Machine Learning una correlación entre la clasificación de suelos y la compactación de suelos, refiriéndose al valor de densidad seca máxima y humedad óptima, para calcular la humedad a la que se compactará un determinado tramo de carretera.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Selección del modelo",
+      "en": "Model selection",
+      "es": "Selección del modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Debido a que se conoce el resultado y el problema es numérico, los modelos que se usaron fueron:",
+      "en": "Because the result is known and the problem is numerical, the models used were:",
+      "es": "Debido a que se conoce el resultado y el problema es numérico, los modelos que se usaron fueron:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión multi-lineal",
+      "en": "Multilinear regression",
+      "es": "Regresión multi-lineal",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión polinómica",
+      "en": "Polynomic regression",
+      "es": "Regresión polinómica",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Técnicas implementadas",
+      "en": "Techniques implemented",
+      "es": "Técnicas implementadas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Reducción de dimensiones",
+      "en": "Dimension reduction",
+      "es": "Reducción de dimensiones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se redujeron todas las columnas que no aportan una información relevante: ‘Pozo’, ‘Lado’, ‘Prf o (m)’, ‘Prf f (m)’, ‘% Hum’, ‘ST >3’, ‘3’, ‘AASTHO’, ‘#’, ‘SUCS’, ‘100%’, ‘97%’, ‘95%’, ‘100%.1’, ‘97%.1’, ‘95%.1’",
+      "en": "All columns that do not provide relevant information were reduced: 'Pozo', 'Lado', 'Prf or (m)', 'Prf f (m)', '% Hum', 'ST > 3', '3', 'AASTHO', '#', 'SUCS', '100%', '97%', '95%', '100% 1', '97% 1', '95%'",
+      "es": "Se redujeron todas las columnas que no aportan una información relevante: ‘Pozo’, ‘Lado’, ‘Prf o (m)’, ‘Prf f (m)’, ‘% Hum’, ‘ST >3’, ‘3’, ‘AASTHO’, ‘#’, ‘SUCS’, ‘100%’, ‘97%’, ‘95%’, ‘100%.1’, ‘97%.1’, ‘95%.1’",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Valores faltantes",
+      "en": "Missing values",
+      "es": "Valores faltantes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la columna de LL se encontró que faltaban 30 datos, se utilizó un histograma y se determinó que la curva normal que describe a sus datos estaba desfasada del medio, por lo que se rellenó los datos faltantes con la mediana, que es 32.2",
+      "en": "In the LL column, 30 data were found missing, a histogram was used and the normal curve describing its data was determined to be outdated from the medium, so the missing data was filled with the median, which is 32.2.",
+      "es": "En la columna de LL se encontró que faltaban 30 datos, se utilizó un histograma y se determinó que la curva normal que describe a sus datos estaba desfasada del medio, por lo que se rellenó los datos faltantes con la mediana, que es 32.2",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gráficas",
+      "en": "Graphics",
+      "es": "Gráficas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se realizaron todas las gráficas necesarias para entender e interpretar el problema.",
+      "en": "All the necessary graphics were made to understand and interpret the problem.",
+      "es": "Se realizaron todas las gráficas necesarias para entender e interpretar el problema.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Relación lineal (con sklearn)",
+      "en": "Linear ratio (with sklearn)",
+      "es": "Relación lineal (con sklearn)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Relación polinómica de 2do grado (con numpy)",
+      "en": "2nd degree polynomic ratio (with numpy)",
+      "es": "Relación polinómica de 2do grado (con numpy)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Relación polinómica de 3er grado (con numpy)",
+      "en": "3rd degree polynomic ratio (with numpy)",
+      "es": "Relación polinómica de 3er grado (con numpy)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Relación multi-lineal (con sklearn)",
+      "en": "Multilinear ratio (with sklearn)",
+      "es": "Relación multi-lineal (con sklearn)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Relación multi-lineal (con sns) donde se relacionan los 14 parámetros entre sí y su relación con la Humedad óptima.",
+      "en": "Multi-linear ratio (with sns) where the 14 parameters are related to each other and their relationship to the optimal Humidity.",
+      "es": "Relación multi-lineal (con sns) donde se relacionan los 14 parámetros entre sí y su relación con la Humedad óptima.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Evaluación del modelo",
+      "en": "Model evaluation",
+      "es": "Evaluación del modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "D max vs H opt",
+      "en": "D max vs H opt",
+      "es": "D max vs H opt",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión lineal:",
+      "en": "Linear regression:",
+      "es": "Regresión lineal:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión polinómica de 2do grado:",
+      "en": "2nd grade polynomic regression:",
+      "es": "Regresión polinómica de 2do grado:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión polinómica de 3er grado:",
+      "en": "3rd grade polynomic regression:",
+      "es": "Regresión polinómica de 3er grado:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Feature vs H opt",
+      "en": "Feature vs H opt",
+      "es": "Feature vs H opt",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis de resultados",
+      "en": "Results analysis",
+      "es": "Análisis de resultados",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se puede observar que es la regresión polinómica la que tiene un coeficiente de correlación más cercano a 1 y en gráfica la que mejor se ajusta por lo que será la regresión adoptada",
+      "en": "It can be observed that it is the polynomic regression that has a correlation coefficient closer to 1 and in graph that best fits so it will be the adopted regression",
+      "es": "Se puede observar que es la regresión polinómica la que tiene un coeficiente de correlación más cercano a 1 y en gráfica la que mejor se ajusta por lo que será la regresión adoptada",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se puede observar un valor de coeficiente de correlación cercano a 1 y en las gráficas de sns la gran mayoría son relaciones lineales por lo que se acepta el modelo multi-lineal conseguido.",
+      "en": "A correlation coefficient value close to 1 can be observed and in the sns graphics the vast majority are linear relationships so the multi-linear model achieved is accepted.",
+      "es": "Se puede observar un valor de coeficiente de correlación cercano a 1 y en las gráficas de sns la gran mayoría son relaciones lineales por lo que se acepta el modelo multi-lineal conseguido.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Conclusión",
+      "en": "Conclusion",
+      "es": "Conclusión",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se determinó una correlación entre la clasificación de suelos y la compactación de suelos, para calcular la humedad a la que se compactará un determinado tramo de carretera:",
+      "en": "A correlation between soil classification and soil compaction was established to calculate the humidity at which a certain section of road will be compacted:",
+      "es": "Se determinó una correlación entre la clasificación de suelos y la compactación de suelos, para calcular la humedad a la que se compactará un determinado tramo de carretera:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "H opt = 0.117*(LL) + 0.0212*(LP) — 0.007*(2) + 0.010*(1 ½) — 0.004*(1) — 0.001*(¾) + 0.017*(⅜) — 0.001*(no 4) — 0.052*(no 10) +",
+      "en": "H opt = 0.117*(LL) + 0.0212*(LP) — 0.007*(2) + 0.010*(1 ½) — 0.004*(1) — 0.001*(¾) + 0.017*(⅜) — 0.001*(no 4) — 0.052*(no 10) +",
+      "es": "H opt = 0.117*(LL) + 0,0212*(LP) — 0,007*(2) + 0,010*(1 1⁄2) — 0,004*(1) — 0,001*(3⁄4) + 0,017*(3⁄8) — 0,001*(no 4) — 0,052*(no 10) +",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "+ 0.054*(no 40) + 0.036*(no 200) — 0.043*(% Grava) + 0.007*(% Arena) + 0.036*(% Finos) + 3.779",
+      "en": "+ 0.054*(no 40) + 0.036*(no 200) — 0.043*(% Grava) + 0.007*(% Arena) + 0.036*(% Finos) + 3.779",
+      "es": "+ 0,054*(no 40) + 0,036*(no 200) — 0,043*(% Grava) + 0,007*(% Arena) + 0,036*(% Finos) + 3.779",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "D max = 4.110*10^(-4)*(H opt)² — 4.256*10^(-2)*(H opt) + 2.394",
+      "en": "D max = 4.110*10^(-4)*(H opt)² — 4.256*10^(-2)*(H opt) + 2.394",
+      "es": "D max = 4.110*10^(-4)*(H opt)2 — 4.256*10^(-2)*(H opt) + 2.394",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Follow",
+      "en": "Follow",
+      "es": "Seguir",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Agua Industria Innovación e Infraestructura",
+      "en": "Water Industry Innovation and Infrastructure",
+      "es": "Agua Industria Innovación e Infraestructura",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión",
+      "en": "Return",
+      "es": "Regresión",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 12 nov 2021.",
+      "en": "A story of the Saturdays.AI. community originally published on 12 November 2021.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 12 nov 2021.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3 min read",
+      "en": "3 min read",
+      "es": "3 min leer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Machine Learning aplicado a la Industria textil",
+      "en": "Machine Learning aplicado a la Industria textil",
+      "es": "Machine Learning aplicado a la Industria textil",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

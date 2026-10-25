@@ -1,0 +1,312 @@
+{
+  "title": "Uso de inteligencia artificial de soporte de diagnóstico presuntivo del glaucoma humano",
+  "route": "/2022/05/02/inteligencia-artificial-diagnostico-glaucoma/",
+  "segments": [
+    {
+      "source": "Uso de inteligencia artificial de soporte de diagnóstico presuntivo del glaucoma humano",
+      "en": "Use of artificial intelligence to support presumptive diagnosis of human glaucoma",
+      "es": "Uso de inteligencia artificial de soporte de diagnóstico presuntivo del glaucoma humano",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El glaucoma es una enfermedad que afecta al nervio óptico. Si este no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada año, el glaucoma es la causa que millones de personas pierdan la vista. En el…",
+      "en": "Glaucoma is a disease that affects the optic nerve. If this is not treated early it can cause blindness. According to the WHO, every year, glaucoma is the cause of millions of people losing their sight. In the…",
+      "es": "El glaucoma es una enfermedad que afecta al nervio óptico. Si este no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada año, el glaucoma es la causa que millones de personas pierdan la vista. En el…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "2 may 2022",
+      "en": "May 2, 2022",
+      "es": "2 may 2022",
+      "reviewed": false
+    },
+    {
+      "source": "¿Cómo se llevaría a cabo el procesamiento de imágenes y software?",
+      "en": "How would image and software processing be carried out?",
+      "es": "¿Cómo se llevaría a cabo el procesamiento de imágenes y software?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Jupyter Notebook",
+      "en": "Jupyter Notebook",
+      "es": "Jupyter Notebook",
+      "reviewed": false
+    },
+    {
+      "source": "Búsqueda de soluciones óptimas",
+      "en": "Search for optimal solutions",
+      "es": "Búsqueda de soluciones óptimas",
+      "reviewed": false
+    },
+    {
+      "source": "El glaucoma es una enfermedad que afecta al nervio óptico. Si este no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada año, el glaucoma es la causa que millones de personas pierdan la vista. En el mundo, 2,2 billones de personas padecen discapacidad visual y de estas,",
+      "en": "Glaucoma is a disease that affects the optic nerve. If this is not treated early it can cause blindness. According to the WHO, every year, glaucoma is the cause of millions of people losing their sight. In the world, 2.2 billion people suffer from visual disabilities and of these,",
+      "es": "El glaucoma es una enfermedad que afecta al nervio óptico. Si este no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada año, el glaucoma es la causa que millones de personas pierdan la vista. En el mundo, 2,2 billones de personas padecen discapacidad visual y de estas,",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "un total de 1 billones hubieran podido controlar esta enfermedad a partir de un diagnóstico previo.",
+      "en": "a total of 1 billion would have been able to control this disease from a previous diagnosis.",
+      "es": "un total de 1 billones hubieran podido controlar esta enfermedad a partir de un diagnóstico previo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El uso de la",
+      "en": "The use of the",
+      "es": "El uso de la",
+      "reviewed": false
+    },
+    {
+      "source": "en este campo, nos podría",
+      "en": "in this field, we could",
+      "es": "en este campo, nos podría",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ayudar",
+      "en": "help",
+      "es": "ayudar",
+      "reviewed": false
+    },
+    {
+      "source": "enormemente a",
+      "en": "greatly to",
+      "es": "enormemente a",
+      "reviewed": false
+    },
+    {
+      "source": "diagnosticar a los pacientes de manera preventiva",
+      "en": "diagnose patients preventively",
+      "es": "diagnosticar a los pacientes de manera preventiva",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". Para su uso, a través de imágenes de fondo de ojo tomadas a partir de bases de datos públicos, todas ellas catalogadas por especialistas en el campo de la medicina y tomadas por un tomógrafo de coherencia óptica.",
+      "en": ". For use, through fundus images taken from public databases, all of them cataloged by specialists in the field of medicine and taken by an optical coherence tomograph.",
+      "es": ". Para su uso, a través de imágenes de fondo de ojo tomadas a partir de bases de datos públicos, todas ellas catalogadas por especialistas en el campo de la medicina y tomadas por un tomógrafo de coherencia óptica.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez adquirimos las distintas imágenes de fondo de ojo, estas serán destinadas para el entrenamiento del desarrollo de la",
+      "en": "Once we acquire the different fundus images, these will be used for training the development of the eye.",
+      "es": "Una vez adquirimos las distintas imágenes de fondo de ojo, estas serán destinadas para el entrenamiento del desarrollo de la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "red neuronal",
+      "en": "neural network",
+      "es": "red neuronal",
+      "reviewed": false
+    },
+    {
+      "source": ". La totalidad de éstas, teniendo en cuenta que previamente han sido debidamente analizadas por especialistas y obtenidas de varios centros médicos, se clasifican en:",
+      "en": ". All of these, taking into account that they have previously been duly analyzed by specialists and obtained from various medical centers, are classified as:",
+      "es": ". La totalidad de éstas, teniendo en cuenta que previamente han sido debidamente analizadas por especialistas y obtenidas de varios centros médicos, se clasifican en:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "-Sospecha de enfermedad de glaucoma",
+      "en": "-Suspected glaucoma disease",
+      "es": "-Sospecha de enfermedad de glaucoma",
+      "reviewed": false
+    },
+    {
+      "source": "-Paciente sano",
+      "en": "-Healthy patient",
+      "es": "-Paciente sano",
+      "reviewed": false
+    },
+    {
+      "source": "-Suma total de todas estas",
+      "en": "-Total sum of all these",
+      "es": "-Suma total de todas estas",
+      "reviewed": false
+    },
+    {
+      "source": "(Descartando previamente por otro lado todas aquellas que habían salido defectuosas)",
+      "en": "(Previously discarding on the other hand all those that had been defective)",
+      "es": "(Descartando previamente por otro lado todas aquellas que habían salido defectuosas)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En el caso del estudio llevado a cabo en la Universidad Politécnica Salesiana, se utilizó",
+      "en": "In the case of the study carried out at the Salesian Polytechnic University, it was used",
+      "es": "En el caso del estudio llevado a cabo en la Universidad Politécnica Salesiana, se utilizó",
+      "reviewed": false
+    },
+    {
+      "source": "con el interpretador de",
+      "en": "with the interpreter",
+      "es": "con el interpretador de",
+      "reviewed": false
+    },
+    {
+      "source": "que al ser una extensión de",
+      "en": "that being an extension of",
+      "es": "que al ser una extensión de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no necesitaba de otras descargas de programas adicionales en el PC y tampoco de ningún tipo de licencia. Por tanto, una vez conseguido este procedimiento, las imágenes proporcionadas por parte de diversos centros de medicina que conformaron la base de datos fueron separadas en distintas carpetas siendo estas mismas separadas de nuevo en otras dos: una con la clasificación de los",
+      "en": "It did not require additional downloads of additional programs on the PC or any type of license. Therefore, once this procedure was achieved, the images provided by various medical centers that made up the database were separated into different folders, these being separated again into two others: one with the classification of the",
+      "es": "no necesitaba de otras descargas de programas adicionales en el PC y tampoco de ningún tipo de licencia. Por tanto, una vez conseguido este procedimiento, las imágenes proporcionadas por parte de diversos centros de medicina que conformaron la base de datos fueron separadas en distintas carpetas siendo estas mismas separadas de nuevo en otras dos: una con la clasificación de los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "pacientes sanos",
+      "en": "healthy patients",
+      "es": "pacientes sanos",
+      "reviewed": false
+    },
+    {
+      "source": "y otros con",
+      "en": "and others with",
+      "es": "y otros con",
+      "reviewed": false
+    },
+    {
+      "source": "sospecha de glaucoma",
+      "en": "suspected glaucoma",
+      "es": "sospecha de glaucoma",
+      "reviewed": false
+    },
+    {
+      "source": "Las imágenes, extraídas a partir de un tomógrafo de coherencia óptica, fueron debidamente recortadas hasta conseguir aislar el disco óptico ya que esta es la región de interés para el diagnóstico. Para ello se creó un algoritmo con dos objetivos muy marcados: primeramente, que la imagen fuera",
+      "en": "The images, extracted from an optical coherence tomograph, were duly cropped until the optic disc was isolated since this is the region of interest for the diagnosis. To do this, an algorithm was created with two very clear objectives: first, that the image was",
+      "es": "Las imágenes, extraídas a partir de un tomógrafo de coherencia óptica, fueron debidamente recortadas hasta conseguir aislar el disco óptico ya que esta es la región de interés para el diagnóstico. Para ello se creó un algoritmo con dos objetivos muy marcados: primeramente, que la imagen fuera",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "normalizada a dimensiones parecidas a las de un cuadrado",
+      "en": "normalized to dimensions similar to those of a square",
+      "es": "normalizada a dimensiones parecidas a las de un cuadrado",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "y segundo, que estas también tuvieran",
+      "en": "and second, that these also had",
+      "es": "y segundo, que estas también tuvieran",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "centradas la ubicación de región de interés.",
+      "en": "centered the location of region of interest.",
+      "es": "centradas la ubicación de región de interés.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Algoritmo utilizado para recortar las imágenes",
+      "en": "Algorithm used to crop images",
+      "es": "Algoritmo utilizado para recortar las imágenes",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Posteriormente, a fin de poder procesar estas imágenes correctamente se trató que todas fueran del mismo tamaño para agilizar el proceso. Seguidamente, fueron clasificadas en dos carpetas distintas (sospecha y sano) para entrenar correctamente a la red convolucional y reservando por otra parte las que serían usadas para la prueba de la matriz de confusión.",
+      "en": "Subsequently, in order to process these images correctly, they were all the same size to speed up the process. Next, they were classified into two different folders (suspect and healthy) to correctly train the convolutional network and reserving those that would be used for the confusion matrix test.",
+      "es": "Posteriormente, a fin de poder procesar estas imágenes correctamente se trató que todas fueran del mismo tamaño para agilizar el proceso. Seguidamente, fueron clasificadas en dos carpetas distintas (sospecha y sano) para entrenar correctamente a la red convolucional y reservando por otra parte las que serían usadas para la prueba de la matriz de confusión.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convulsionales… entre otros siendo necesario el entrenamiento de nuestro modelo.",
+      "en": "In conclusion, this glaucoma detection proposal is one of the many that we can find today for the diagnosis of this disease. Unfortunately, there is no optimal solution, but we know that if we diagnose it at an early stage we can treat it to alleviate some of the symptoms. On the other hand, we also know that the neural network depends on the database we have. Therefore, the precision of the results achieved will depend on the size of the batch, dimensions of the images, number of seizure layers... among others, with the training of our model being necessary.",
+      "es": "En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convulsionales… entre otros siendo necesario el entrenamiento de nuestro modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si quieres formar parte de la búsqueda de soluciones óptimas, no dudes en comenzar o continuar tu formación en Inteligencia Artificial con nosotros. Consulta los cursos de Saturdays.AI y elige el que más te guste en nuestra",
+      "en": "If you want to be part of the search for optimal solutions, do not hesitate to start or continue your training in Artificial Intelligence with us. Check out the Saturdays.AI courses and choose the one you like the most in our",
+      "es": "Si quieres formar parte de la búsqueda de soluciones óptimas, no dudes en comenzar o continuar tu formación en Inteligencia Artificial con nosotros. Consulta los cursos de Saturdays.AI y elige el que más te guste en nuestra",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "1.-Buri Abad, Edison Arturo.",
+      "en": "1.-Buri Abad, Edison Arturo.",
+      "es": "1.-Buri Abad, Edison Arturo.",
+      "reviewed": false
+    },
+    {
+      "source": "Procesamiento de imágenes digitales del fondo de ojo con el uso de inteligencia artificial para brindar una herramienta de soporte de diagnóstico presuntivo del glaucoma humano.",
+      "en": "Processing digital images of the fundus with the use of artificial intelligence to provide a support tool for the presumptive diagnosis of human glaucoma.",
+      "es": "Procesamiento de imágenes digitales del fondo de ojo con el uso de inteligencia artificial para brindar una herramienta de soporte de diagnóstico presuntivo del glaucoma humano.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Feb-2022.",
+      "en": "Feb-2022.",
+      "es": "Feb-2022.",
+      "reviewed": false
+    },
+    {
+      "source": "2.-Mayo Clinic. Glaucoma. Consultar en:",
+      "en": "2.-Mayo Clinic. Glaucoma. Consult at:",
+      "es": "2.-Mayo Clinic. Glaucoma. Consultar en:",
+      "reviewed": false
+    },
+    {
+      "source": "https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc 20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.",
+      "en": "https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc 20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20majores%20de%2060%20a%C3%B1os.",
+      "es": "https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc 20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.",
+      "reviewed": false
+    },
+    {
+      "source": "Glaucoma",
+      "en": "Glaucoma",
+      "es": "Glaucoma",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 may 2022.",
+      "en": "A history of the Saturdays.AI community. Originally published on May 2, 2022.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 may 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Regulación de la Inteligencia Artificial: Desafíos, Enfoques y Cooperación Internacional",
+      "en": "Regulation of Artificial Intelligence: Challenges, Approaches and International Cooperation",
+      "es": "Regulación de la Inteligencia Artificial: Desafíos, Enfoques y Cooperación Internacional",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "May 8, 2023",
+      "en": "May 8, 2023",
+      "es": "May 8, 2023",
+      "reviewed": false
+    },
+    {
+      "source": "IA en la Medicina: Un caso digno de milagro.",
+      "en": "AI in Medicine: A case worthy of a miracle.",
+      "es": "IA en la Medicina: Un caso digno de milagro.",
+      "reviewed": false
+    },
+    {
+      "source": "Jun 1, 2023",
+      "en": "Jun 1, 2023",
+      "es": "Jun 1, 2023",
+      "reviewed": false
+    }
+  ]
+}

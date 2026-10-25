@@ -1,0 +1,3531 @@
+{
+  "title": "HaPyness: Análisis de sentimientos en la población de Aragón",
+  "route": "/2022/04/07/hapyness-analisis-de-sentimientos-en-la-poblacion-de-aragon/",
+  "segments": [
+    {
+      "source": "22 min de lectura",
+      "en": "22 min reading",
+      "es": "22 min de lectura",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El equipo Aragón Feliz explora el análisis de sentimientos para estudiar cómo se expresa el bienestar emocional de la población de Aragón.",
+      "en": "The Happy Aragon team explores the analysis of feelings to study how the emotional well-being of the population of Aragon is expressed.",
+      "es": "El equipo Aragón Feliz explora el análisis de sentimientos para estudiar cómo se expresa el bienestar emocional de la población de Aragón.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "7 abr 2022",
+      "en": "7 abr 2022",
+      "es": "7 abr 2022",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cuál es el problema a resolver?",
+      "en": "What's the problem to solve?",
+      "es": "¿Cuál es el problema a resolver?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cuál es nuestro objetivo?",
+      "en": "What's our goal?",
+      "es": "¿Cuál es nuestro objetivo?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Manos a la obra. Desarrollo del Proyecto",
+      "en": "Let's get to work.",
+      "es": "Manos a la obra. Desarrollo del Proyecto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase I. COMPRENSIÓN DEL PROBLEMA",
+      "en": "Phase I. COMPRENSION OF THE PROBLEM",
+      "es": "Fase I. COMPRENSIÓN DEL PROBLEMA",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase II. COMPRENSIÓN DE LOS DATOS",
+      "en": "Phase II. COMPRENSION OF DATA",
+      "es": "Fase II. COMPRENSIÓN DE LOS DATOS",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A. Fuentes de datos y problemáticas en su obtención",
+      "en": "A. Data sources and problems in their collection",
+      "es": "A. Fuentes de datos y problemáticas en su obtención",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Características que nos interesaría considerar",
+      "en": "B. Characteristics that would interest us to consider",
+      "es": "B. Características que nos interesaría considerar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase III. PREPARACIÓN DE LOS DATOS",
+      "en": "Phase III. DATA PREPARATION",
+      "es": "Fase III. PREPARACIÓN DE LOS DATOS",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase IV. MODELADO",
+      "en": "Phase IV. MODELADO",
+      "es": "Fase IV. MODELADO",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A. Modelo de valoración basado en el diccionario (clasificación semi-supervisada)",
+      "en": "A. Dictionary-based valuation model (semi-supervised classification)",
+      "es": "A. Modelo de valoración basado en el diccionario (clasificación semi-supervisada)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Creación de un diccionario",
+      "en": "Creation of a dictionary",
+      "es": "Creación de un diccionario",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Creamos un modelo que ejecuta el siguiente algoritmo:",
+      "en": "We create a model that runs the following algorithm:",
+      "es": "Creamos un modelo que ejecuta el siguiente algoritmo:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Modelos tradicionales de Machine Learning (clasificación supervisada)",
+      "en": "B. Traditional Machine Learning models (supervised classification)",
+      "es": "B. Modelos tradicionales de Machine Learning (clasificación supervisada)",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "C. Agrupamiento…",
+      "en": "C. Group...",
+      "es": "C. Agrupamiento…",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "D. Aplicación sobre datos de TEST (no etiquetados)",
+      "en": "D. Application on TEST data (unlabelled)",
+      "es": "D. Aplicación sobre datos de TEST (no etiquetados)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase V. EVALUACIÓN DE RESULTADOS",
+      "en": "Phase V. ASSESSMENT OF RESULTS",
+      "es": "Fase V. EVALUACIÓN DE RESULTADOS",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A. Comparación de modelos de ML",
+      "en": "A. Comparison of ML models",
+      "es": "A. Comparación de modelos de ML",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Comparación de modelos de ML vs Valoración",
+      "en": "B. Comparison of ML vs Valuation models",
+      "es": "B. Comparación de modelos de ML vs Valoración",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "C. Evaluación sobre tweet directamente obtenidos",
+      "en": "C. Assessment of tweet directly obtained",
+      "es": "C. Evaluación sobre tweet directamente obtenidos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "D. Análisis de la variación de la percepción Felicidad/Tristeza",
+      "en": "D. Analysis of the variation of perception",
+      "es": "D. Análisis de la variación de la percepción Felicidad/Tristeza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase VI. Despliegue",
+      "en": "Phase VI. Deployment",
+      "es": "Fase VI. Despliegue",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mejoras y Evolución",
+      "en": "Improvements and Evolution",
+      "es": "Mejoras y Evolución",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Datos estadísticas encuestas",
+      "en": "Statistical data surveys",
+      "es": "Datos estadísticas encuestas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cómo nos ha cambiado la vida en los últimos años!",
+      "en": "How our lives have changed in recent years!",
+      "es": "Cómo nos ha cambiado la vida en los últimos años!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una pandemia mundial, un asalto a la Casa Blanca, una Filomena, una erupción de un volcán, hasta el comienzo de un conflicto entre naciones ? ¡… y un",
+      "en": "A global pandemic, an assault on the White House, a Philomena, a volcano eruption, until the beginning of a conflict between nations?... and a",
+      "es": "Una pandemia mundial, un asalto a la Casa Blanca, una Filomena, una erupción de un volcán, hasta el comienzo de un conflicto entre naciones ? ¡… y un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "curso de IA en Zaragoza",
+      "en": "IA course in Zaragoza",
+      "es": "curso de IA en Zaragoza",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una ventosa tarde de viernes, tres intrépidos zaragozanos comenzamos nuestra andadura en este ámbito.",
+      "en": "One evening of Friday, three intrepid zaragozans began our journey in this area.",
+      "es": "Una ventosa tarde de viernes, tres intrépidos zaragozanos comenzamos nuestra andadura en este ámbito.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Somos el equipo",
+      "en": "We're the team.",
+      "es": "Somos el equipo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aragón Feliz",
+      "en": "Happy Aragon",
+      "es": "Aragón Feliz",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", venimos de diferentes mundos, pero compartimos un interés común por la Inteligencia Artificial, y buscamos ampliar y aplicar los conocimientos adquiridos durante el programa de",
+      "en": "we come from different worlds, but we share a common interest in Artificial Intelligence, and we seek to expand and apply the knowledge acquired during the program of",
+      "es": ", venimos de diferentes mundos, pero compartimos un interés común por la Inteligencia Artificial, y buscamos ampliar y aplicar los conocimientos adquiridos durante el programa de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays AI.",
+      "en": "Saturdays AI.",
+      "es": "Saturdays.AI.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El equipo está conformado por:",
+      "en": "The team is composed of:",
+      "es": "El equipo está conformado por:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fernando Jiménez",
+      "en": "Fernando Jiménez",
+      "es": "Fernando Jiménez",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Héctor Soria",
+      "en": "Hector Soria",
+      "es": "Héctor Soria",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Virginia Navarro",
+      "en": "Virginia Navarro",
+      "es": "Virginia Navarro",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y gracias a la ayuda de nuestros",
+      "en": "And thanks to our help",
+      "es": "Y gracias a la ayuda de nuestros",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mentores",
+      "en": "mentors",
+      "es": "mentores",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "del programa",
+      "en": "of the programme",
+      "es": "del programa",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays IA,",
+      "en": "Saturdays IA,",
+      "es": "Sábados IA,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que nos han dado la base, hemos podido acometer este proyecto.",
+      "en": "We have been able to carry out this project.",
+      "es": "que nos han dado la base, hemos podido acometer este proyecto.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cuando desde Saturdays AI-Zaragoza nos plantearon desarrollar un proyecto basado en IA, nos planteamos varias preguntas.",
+      "en": "When we were asked to develop an IA-based project from Saturdays A- Zaragoza, we asked a number of questions.",
+      "es": "Cuando desde Saturdays AI-Zaragoza nos plantearon desarrollar un proyecto basado en IA, nos planteamos varias preguntas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y es que la contingencia sanitaria Covid-19 ha ocasionado circunstancias excepcionales con alto impacto en la sociedad, confinamiento masivo, soledad, incertidumbre, crisis económica, sanitaria y social, lo cual ha generado diferentes tipos de reacciones en la población, incrementando las patologías presentes tanto físicas como psíquicas, problemas económicos, entre otros.",
+      "en": "And that is that the health contingence Covida-19 has caused exceptional circumstances with a high impact on society, mass confinement, loneliness, uncertainty, economic, health and social crisis, which has generated different types of reactions in the population, increasing the present pathologies both physical and psychological, economic problems, among others.",
+      "es": "Y es que la contingencia sanitaria Covid-19 ha ocasionado circunstancias excepcionales con alto impacto en la sociedad, confinamiento masivo, soledad, incertidumbre, crisis económica, sanitaria y social, lo cual ha generado diferentes tipos de reacciones en la población, incrementando las patologías presentes tanto físicas como psíquicas, problemas económicos, entre otros.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Algunos datos",
+      "en": "Some data",
+      "es": "Algunos datos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Según la Confederación de Salud Mental España en el estudio #saludmentalvscovid19 (",
+      "en": "According to the Confederation of Mental Health in Spain in the study # salumentalvscovid19 (",
+      "es": "Según la Confederación de Salud Mental España en el estudio #saludmentalvscovid19 (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fuente",
+      "en": "Source",
+      "es": "Fuente",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Connsaludmental.org",
+      "en": "Connsalumental.org",
+      "es": "Connsaludmental.org",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los datos están claros, toda esta situación ha tenido un alto impacto ya en la sociedad y probablemente se irá manifestando todavía más a lo largo de los próximos años.",
+      "en": "The data are clear, this whole situation has already had a high impact on society and will probably be further manifested over the coming years.",
+      "es": "Los datos están claros, toda esta situación ha tenido un alto impacto ya en la sociedad y probablemente se irá manifestando todavía más a lo largo de los próximos años.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A nosotros personalmente nos preocupa, pero**… ¿es algo que preocupa?**",
+      "en": "We personally worry, but * *... is it something that worries? *",
+      "es": "A nosotros personalmente nos preocupa, pero**… ¿es algo que preocupa?**",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Diferentes fuentes muestran que sí, que es un tema que preocupa en todos los rangos de edades, veamos por ejemplo esta encuesta realizada a un perfil más joven.",
+      "en": "Different sources show that yes, which is a matter of concern in all age ranges, let's see for example this survey carried out to a younger profile.",
+      "es": "Diferentes fuentes muestran que sí, que es un tema que preocupa en todos los rangos de edades, veamos por ejemplo esta encuesta realizada a un perfil más joven.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "statista",
+      "en": "statist",
+      "es": "statista",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pero ¿qué podríamos hacer nosotros?, ¿cómo podríamos revertir este efecto?, ¿cómo podríamos hacer que la balanza se inclinara hacia el otro polo opuesto: la Felicidad?",
+      "en": "But what could we do? How could we reverse this effect? How could we make the balance bow to the other opposite pole: Happiness?",
+      "es": "Pero ¿qué podríamos hacer nosotros?, ¿cómo podríamos revertir este efecto?, ¿cómo podríamos hacer que la balanza se inclinara hacia el otro polo opuesto: la Felicidad?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para empezar, ¿qué es la Felicidad y cómo concretamos esa Felicidad? ¿Qué es lo que a cada uno de nosotros nos hace felices?",
+      "en": "To begin with, what is Happiness and how do we realize that Happiness? What is it that makes each of us happy?",
+      "es": "Para empezar, ¿qué es la Felicidad y cómo concretamos esa Felicidad? ¿Qué es lo que a cada uno de nosotros nos hace felices?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Según esta encuesta podemos ver qué aspectos concretos se valoran cuando se piensa en Felicidad.",
+      "en": "According to this survey we can see what specific aspects are valued when thinking of Happiness.",
+      "es": "Según esta encuesta podemos ver qué aspectos concretos se valoran cuando se piensa en Felicidad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y las",
+      "en": "And the",
+      "es": "Y las",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "siguientes preguntas",
+      "en": "next questions",
+      "es": "siguientes preguntas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que nos surgieron entonces fueron:",
+      "en": "that we were born then were:",
+      "es": "que nos surgieron entonces fueron:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo estábamos antes?",
+      "en": "How were we before?",
+      "es": "¿Cómo estábamos antes?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo estuvimos durante los picos más altos de la pandemia?",
+      "en": "How were we during the highest peaks of the pandemic?",
+      "es": "¿Cómo estuvimos durante los picos más altos de la pandemia?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo se fue modulando ese estado conforme íbamos navegando en las olas y en las diferentes curvas?",
+      "en": "How did you modulate that state as we were sailing in the waves and in the different curves?",
+      "es": "¿Cómo se fue modulando ese estado conforme íbamos navegando en las olas y en las diferentes curvas?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo estamos ahora realmente?",
+      "en": "How are we really now?",
+      "es": "¿Cómo estamos ahora realmente?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En definitiva …",
+      "en": "Ultimately…",
+      "es": "En definitiva…",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": "¿Cómo tomamos consciencia del viaje emocional que hemos sufrido?",
+      "en": "How do we become aware of the emotional journey we have suffered?",
+      "es": "¿Cómo tomamos consciencia del viaje emocional que hemos sufrido?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo lo hemos ido concretando en el lenguaje?",
+      "en": "How have we been concreting it in language?",
+      "es": "¿Cómo lo hemos ido concretando en el lenguaje?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pero sobre todo…",
+      "en": "But most of all...",
+      "es": "Pero sobre todo…",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo lo traducimos a algo medible que poder analizar?",
+      "en": "How do we translate it into something measurable to be able to analyze?",
+      "es": "¿Cómo lo traducimos a algo medible que poder analizar?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Somos capaces de anticiparnos y a través de las palabras, detectar estados y lanzar posibles alertas que con las debidas herramientas faciliten el cambio?",
+      "en": "Are we able to anticipate and through words, detect states and launch possible alerts that with the right tools facilitate change?",
+      "es": "¿Somos capaces de anticiparnos y a través de las palabras, detectar estados y lanzar posibles alertas que con las debidas herramientas faciliten el cambio?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nuestros primeros planteamientos",
+      "en": "Our first approaches",
+      "es": "Nuestros primeros planteamientos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con todas las preguntas anteriores fuimos conscientes de la magnitud del problema que estábamos considerando.",
+      "en": "With all the above questions we were aware of the magnitude of the problem we were considering.",
+      "es": "Con todas las preguntas anteriores fuimos conscientes de la magnitud del problema que estábamos considerando.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para empezar, ¿cómo íbamos a poder medir todo esto? ¿Es posible generar algún",
+      "en": "For starters, how could we measure all this? Is it possible to generate any",
+      "es": "Para empezar, ¿cómo íbamos a poder medir todo esto? ¿Es posible generar algún",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "indicador",
+      "en": "indicator",
+      "es": "indicador",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "e información oportuna acerca del impacto emocional en las personas y de cómo éstas, consciente o inconscientemente, lo reflejan a través de su lenguaje?",
+      "en": "and timely information about the emotional impact on people and how they, consciously or unconsciously, reflect it through their language?",
+      "es": "e información oportuna acerca del impacto emocional en las personas y de cómo éstas, consciente o inconscientemente, lo reflejan a través de su lenguaje?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Es posible a través de",
+      "en": "Is it possible through",
+      "es": "¿Es posible a través de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "algoritmos de análisis de sentimientos y tópicos",
+      "en": "feelings and topic analysis algorithms",
+      "es": "algoritmos de análisis de sentimientos y tópicos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", detectar preocupaciones relacionadas con la contingencia sanitaria, así como otras situaciones a nivel general que le pueden afectar a cada individuo?",
+      "en": ", to detect concerns related to the health contingency, as well as other situations at the general level that may affect each individual?",
+      "es": ", detectar preocupaciones relacionadas con la contingencia sanitaria, así como otras situaciones a nivel general que le pueden afectar a cada individuo?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Uno de los principales handicaps al que nos enfrentamos es la correcta interpretación del lenguaje, para lo que existen numerosas técnicas y recursos dentro del PLN (Procesado del Lenguaje Natural). En nuestro caso, nos enfocamos en el español, un idioma en el que, aunque ampliamente usado, todavía se están desarrollando y mejorando algoritmos y modelos de IA verdaderamente eficientes que den resultados precisos, a diferencia del Inglés.",
+      "en": "One of the main handicaps we face is the correct interpretation of language, for which there are numerous techniques and resources within the PLN (Natural Language Processing). In our case, we focus on Spanish, a language in which, although widely used, truly efficient algorithms and IA models are still being developed and improved that give precise results, unlike English.",
+      "es": "Uno de los principales handicaps al que nos enfrentamos es la correcta interpretación del lenguaje, para lo que existen numerosas técnicas y recursos dentro del PLN (Procesado del Lenguaje Natural). En nuestro caso, nos enfocamos en el español, un idioma en el que, aunque ampliamente usado, todavía se están desarrollando y mejorando algoritmos y modelos de IA verdaderamente eficientes que den resultados precisos, a diferencia del Inglés.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Bien, después de toda esta reflexión, éste iba a ser entonces nuestro reto inicial.",
+      "en": "Well, after all this reflection, this was then to be our initial challenge.",
+      "es": "Bien, después de toda esta reflexión, éste iba a ser entonces nuestro reto inicial.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Dada la situación de",
+      "en": "Given the situation of",
+      "es": "Dada la situación de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "pandemia",
+      "en": "pandemic",
+      "es": "pandemia",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "vivida a lo largo del último año queremos analizar cómo esta situación ha podido",
+      "en": "we want to analyse how this situation has been able to",
+      "es": "vivida a lo largo del último año queremos analizar cómo esta situación ha podido",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "afectar a la percepción",
+      "en": "affect perception",
+      "es": "afectar a la percepción",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "general a",
+      "en": "General",
+      "es": "General a",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nivel psicológico de los ciudadanos de Aragón",
+      "en": "psychological level of Aragon citizens",
+      "es": "nivel psicológico de los ciudadanos de Aragón",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", y",
+      "en": "and",
+      "es": ", y",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "cómo ha podido influir",
+      "en": "how it could have influenced",
+      "es": "cómo ha podido influir",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "este estado respecto a diferentes temáticas (inferidas o prefijadas)",
+      "en": "this state with respect to different themes (inferred or predetermined)",
+      "es": "este estado respecto a diferentes temáticas (inferidas o prefijadas)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en sus comentarios",
+      "en": "in your comments",
+      "es": "en sus comentarios",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en diferentes medios, redes sociales, prensa, etc.",
+      "en": "in different media, social media, press, etc.",
+      "es": "en diferentes medios, redes sociales, prensa, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Quizá, ¿demasiado ambicioso?…",
+      "en": "Maybe, too ambitious...",
+      "es": "Quizá, ¿demasiado ambicioso?…",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Quizá sí, por lo que intentamos acotar nuestro alcance y a partir de ahí evaluar si era viable realizarlo, por lo que nos centramos en el siguiente problema.",
+      "en": "Perhaps, so we try to narrow our scope and from there assess whether it was feasible to do so, so we focus on the next problem.",
+      "es": "Quizá sí, por lo que intentamos acotar nuestro alcance y a partir de ahí evaluar si era viable realizarlo, por lo que nos centramos en el siguiente problema.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Problema acotado",
+      "en": "Tied problem",
+      "es": "Problema acotado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "alta complejidad",
+      "en": "high complexity",
+      "es": "alta complejidad",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a la hora de realizar un",
+      "en": "when performing a",
+      "es": "a la hora de realizar un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "análisis de sentimientos",
+      "en": "feeling analysis",
+      "es": "análisis de sentimientos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(necesidad de datasets etiquetados manualmente por parte de expertos, tiempo para realizar esta anotación manual, la ambigüedad del lenguaje y subjetividad de las emociones, impacto del idioma con el que vamos a trabajar y alto riesgo de errores). Siendo conscientes de esta complejidad, desarrollamos nuestros objetivos principales.",
+      "en": "(need for manually labelled datasets by experts, time to perform this manual notation, the ambiguity of language and subjectivity of emotions, impact of the language with which we will work and high risk of errors). Being aware of this complexity, we develop our main objectives.",
+      "es": "(necesidad de datasets etiquetados manualmente por parte de expertos, tiempo para realizar esta anotación manual, la ambigüedad del lenguaje y subjetividad de las emociones, impacto del idioma con el que vamos a trabajar y alto riesgo de errores). Siendo conscientes de esta complejidad, desarrollamos nuestros objetivos principales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objetivo realista",
+      "en": "Realistic objective",
+      "es": "Objetivo realista",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Brindar a la sociedad una herramienta",
+      "en": "Providing society with a tool",
+      "es": "Brindar a la sociedad una herramienta",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que dé una clasificación o",
+      "en": "giving a classification or",
+      "es": "que dé una clasificación o",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "etiquetado automático",
+      "en": "automatic labelling",
+      "es": "etiquetado automático",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de la Felicidad y subsane la complejidad de una evaluación manual,",
+      "en": "of Happiness and remedy the complexity of a manual evaluation,",
+      "es": "de la Felicidad y subsane la complejidad de una evaluación manual,",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "facilite",
+      "en": "facilitate",
+      "es": "facilite",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "esta labor y",
+      "en": "this work and",
+      "es": "esta labor y",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "reduzca la ambigüedad y el error",
+      "en": "reduce ambiguity and error",
+      "es": "reduzca la ambigüedad y el error",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Demostrar que la",
+      "en": "Prove that the",
+      "es": "Demostrar que la",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "herramienta",
+      "en": "tool",
+      "es": "herramienta",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "es",
+      "en": "is",
+      "es": "es",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "viable",
+      "en": "viable",
+      "es": "viables",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "desarrollar",
+      "en": "develop",
+      "es": "Desarrollo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "toda la",
+      "en": "all the",
+      "es": "toda la",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "metodología",
+      "en": "methodology",
+      "es": "metodología",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "necesaria para llegar a ese etiquetado automático.",
+      "en": "necessary to reach such automatic labelling.",
+      "es": "necesaria para llegar a ese etiquetado automático.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objetivo WOW",
+      "en": "Objetivo WOW",
+      "es": "Objetivo WOW",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desarrollar un modelo",
+      "en": "Develop a model",
+      "es": "Desarrollar un modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que analice la evolución del sentimiento de los ciudadanos en Aragón",
+      "en": "that analyzes the evolution of the people's feeling in Aragon",
+      "es": "que analice la evolución del sentimiento de los ciudadanos en Aragón",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "respecto a diferentes temáticas (extraídas del propio contexto o predefinidas en base a una categorización estándar), teniendo en cuenta diferentes fuentes como redes sociales, prensa, etc.",
+      "en": "on different topics (drawn from the context itself or predefined on the basis of a standard categorization), taking into account different sources such as social networks, the press, etc.",
+      "es": "respecto a diferentes temáticas (extraídas del propio contexto o predefinidas en base a una categorización estándar), teniendo en cuenta diferentes fuentes como redes sociales, prensa, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y en función del análisis",
+      "en": "And depending on the analysis",
+      "es": "Y en función del análisis",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "llevado a cabo, que",
+      "en": "carried out, that",
+      "es": "llevado a cabo, que",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "realice recomendaciones",
+      "en": "make recommendations",
+      "es": "realice recomendaciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y proporcione herramientas",
+      "en": "and provide tools",
+      "es": "y proporcione herramientas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "con el objeto de mitigar el impacto negativo en su estado emocional.",
+      "en": "in order to mitigate the negative impact on your emotional state.",
+      "es": "con el objeto de mitigar el impacto negativo en su estado emocional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Disponible para público general, organismos públicos y medios de comunicación.",
+      "en": "Available to the general public, public bodies and the media.",
+      "es": "Disponible para público general, organismos públicos y medios de comunicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objetivo con Impacto Social",
+      "en": "Objective with Social Impact",
+      "es": "Objetivo con Impacto Social",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nuestro eje rector está englobado dentro de los",
+      "en": "Our guiding axis is within the",
+      "es": "Nuestro eje rector está englobado dentro de los",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", en concreto en el 3. Salud y bienestar, aunque al ser tan amplio tiene repercusión en muchos más objetivos.",
+      "en": "in particular in 3. Health and well-being, although being so broad has an impact on many more objectives.",
+      "es": ", en concreto en el 3. Salud y bienestar, aunque al ser tan amplio tiene repercusión en muchos más objetivos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fuente ODS",
+      "en": "Source ODS",
+      "es": "Fuente ODS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para la ejecución del proyecto hemos seguido la siguiente",
+      "en": "For the implementation of the project we have followed the following",
+      "es": "Para la ejecución del proyecto hemos seguido la siguiente",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "metodología iterativa",
+      "en": "iterative methodology",
+      "es": "metodología iterativa",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "**basada en el estándar CRISP-DM (**Cross Industry Standard Process for",
+      "en": "* * based on the CRISP-DM standard (* * Cross Industry Standard Process for",
+      "es": "**basada en el estándar CRISP-DM (**Cross Industry Standard Process for",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Data Mining",
+      "en": "Data Mining",
+      "es": "Data Mining",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En este momento del proyecto, trabajamos en la identificación de recursos, restricciones, problemáticas y procesos involucrados.",
+      "en": "At this time of the project, we work on identifying resources, restrictions, problems and processes involved.",
+      "es": "En este momento del proyecto, trabajamos en la identificación de recursos, restricciones, problemáticas y procesos involucrados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como hemos ido comentando, sin duda el periodo de pandemia ha sido una etapa de alto impacto emocional, pero en este concepto tan global, ¿entendemos todos de la misma forma estas emociones?",
+      "en": "As we have been commenting, the pandemic period has certainly been a stage of high emotional impact, but in this so global concept, do we all understand these emotions in the same way?",
+      "es": "Como hemos ido comentando, sin duda el periodo de pandemia ha sido una etapa de alto impacto emocional, pero en este concepto tan global, ¿entendemos todos de la misma forma estas emociones?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Empezamos por las emociones",
+      "en": "We start with emotions",
+      "es": "Empezamos por las emociones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Universo de las emociones",
+      "en": "Universe of emotions",
+      "es": "Universo de las emociones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Problemas del lenguaje",
+      "en": "Language problems",
+      "es": "Problemas del lenguaje",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Trabajaremos sobre textos escritos, por lo que comenzamos a plantearnos qué posibles problemas nos podíamos encontrar a la hora de gestionar y analizar este tipo de información.",
+      "en": "We will work on written texts, so we start to think about what possible problems we could encounter when it comes to managing and analysing this type of information.",
+      "es": "Trabajaremos sobre textos escritos, por lo que comenzamos a plantearnos qué posibles problemas nos podíamos encontrar a la hora de gestionar y analizar este tipo de información.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, nuestro modelo, en la medida de lo posible, debería reconocer y considerar diferentes fenómenos lingüísticos relevantes para interpretar de forma autónoma la opinión de los usuarios. Así, en la práctica, debería tener en cuenta y poder reconocer la ironía, la negación y las emociones, entre otras cuestiones.",
+      "en": "In addition, our model should, as far as possible, recognize and consider different relevant linguistic phenomena to interpret the opinion of users autonomously. Thus, in practice, it should take into account and be able to recognize irony, denial and emotions, among other issues.",
+      "es": "Además, nuestro modelo, en la medida de lo posible, debería reconocer y considerar diferentes fenómenos lingüísticos relevantes para interpretar de forma autónoma la opinión de los usuarios. Así, en la práctica, debería tener en cuenta y poder reconocer la ironía, la negación y las emociones, entre otras cuestiones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como reflexión final, por todo lo anterior, vimos clara la",
+      "en": "As a final reflection, we saw the",
+      "es": "Como reflexión final, por todo lo anterior, vimos clara la",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "dificultad de extraer las emociones de los textos",
+      "en": "difficulty of removing emotions from texts",
+      "es": "dificultad de extraer las emociones de los textos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", lo cual nos llevó a plantearnos construir un diccionario propio y como primera aproximación plantearnos un algoritmo de clasificación semi-automático.",
+      "en": ", which led us to consider building a dictionary of our own and as a first approach to a semi-automatic classification algorithm.",
+      "es": ", lo cual nos llevó a plantearnos construir un diccionario propio y como primera aproximación plantearnos un algoritmo de clasificación semi-automático.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y continuamos con los datos, el caballo de batalla de todos los proyectos.",
+      "en": "And we continue with the data, the battle horse of all the projects.",
+      "es": "Y continuamos con los datos, el caballo de batalla de todos los proyectos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No contábamos con un dataset etiquetado específico de Aragón y sobre la pandemia y nos planteamos cómo resolver el problema sin utilizar textos de otros ámbitos y épocas. Pero, aun así, se han utilizado los disponibles para hacer una comparación cualitativa de nuestra solución.",
+      "en": "We did not have an Aragon-specific and pandemic-specific dataset and we thought about how to solve the problem without using texts from other fields and times. But, still, those available have been used to make a qualitative comparison of our solution.",
+      "es": "No contábamos con un dataset etiquetado específico de Aragón y sobre la pandemia y nos planteamos cómo resolver el problema sin utilizar textos de otros ámbitos y épocas. Pero, aun así, se han utilizado los disponibles para hacer una comparación cualitativa de nuestra solución.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Encontramos diferentes fuentes de datos que podrían sernos útiles y estuvimos navegando en ellas para ver cuál podría sernos más valiosa, ya que necesitábamos un dataset previamente categorizado.",
+      "en": "We found different sources of data that could be useful to us and we were browsing them to see which one could be most valuable, as we needed a previously categorized dataset.",
+      "es": "Encontramos diferentes fuentes de datos que podrían sernos útiles y estuvimos navegando en ellas para ver cuál podría sernos más valiosa, ya que necesitábamos un dataset previamente categorizado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TASS Corpus",
+      "en": "TASS Corpus",
+      "es": "TASS Corpus",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Datos etiquetados",
+      "en": "Data tagged",
+      "es": "Datos etiquetados",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inicialmente utilizamos el corpus de",
+      "en": "We initially use the corpus of",
+      "es": "Inicialmente utilizamos el corpus de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TASS",
+      "en": "TASS",
+      "es": "TASS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", por lo que acudimos a la",
+      "en": ", so we went to the",
+      "es": ", por lo que acudimos a la",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sociedad Española de Procesamiento del Lenguaje Natural",
+      "en": "Spanish Society of Natural Language Processing",
+      "es": "Sociedad Española de Procesamiento del Lenguaje Natural",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(SEPLN), a través de la cual se creó el",
+      "en": "(SEPLN), through which the",
+      "es": "(SEPLN), a través de la cual se creó el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TASS,",
+      "en": "TASS,",
+      "es": "TASS,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que es un Taller de Análisis de Sentimiento en español organizado cada año",
+      "en": "which is a Spanish language Feeling Analysis Workshop organized every year",
+      "es": "que es un Taller de Análisis de Sentimiento en español organizado cada año",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La carpeta con los datos fue solicitada a la organización y se nos concedió el permiso para usarla.",
+      "en": "The folder with the data was requested from the organization and we were granted permission to use it.",
+      "es": "La carpeta con los datos fue solicitada a la organización y se nos concedió el permiso para usarla.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Revisando la data nos encontramos con diferentes archivos de tweets, agrupados por países y años. No todos tienen la misma categorización, diversos archivos tienen diferentes esquemas dependiendo de que edición del",
+      "en": "By reviewing the data we find different tweets files, grouped by countries and years. Not all have the same categorization, different files have different schemes depending on which edition of the",
+      "es": "Revisando la data nos encontramos con diferentes archivos de tweets, agrupados por países y años. No todos tienen la misma categorización, diversos archivos tienen diferentes esquemas dependiendo de que edición del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "sean, algunos de ellos están etiquetados con su sentimiento (polaridad — positivo/negativo/neutro-, o con emociones como feliz/triste).",
+      "en": "some of them are labeled with their feeling (polarity - positive / negative / neutral - or with emotions like happy / sad).",
+      "es": "sean, algunos de ellos están etiquetados con su sentimiento (polaridad — positivo/negativo/neutro-, o con emociones como feliz/triste).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los archivos del corpus están en formato XML, que hemos procesado y adaptado para que nuestro modelo lo comprenda, transformando los datos a un formato .csv, “Comma Separated Values”, para poder proceder con la siguiente fase.",
+      "en": "The corpus files are in XML format, which we have processed and adapted for our model to understand, transforming the data to a .csv format, \"Comma Separated Values,\" in order to proceed with the next phase.",
+      "es": "Los archivos del corpus están en formato XML, que hemos procesado y adaptado para que nuestro modelo lo comprenda, transformando los datos a un formato .csv, “Comma Separated Values”, para poder proceder con la siguiente fase.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Datos no etiquetados",
+      "en": "Unlabelled data",
+      "es": "Datos no etiquetados",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En cuanto a los datos para evaluar el modelo seguimos dos vías:",
+      "en": "As for the data to evaluate the model, we follow two ways:",
+      "es": "En cuanto a los datos para evaluar el modelo seguimos dos vías:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por un lado volvimos a utilizar los datos de test del",
+      "en": "On the one hand, we used the test data of the",
+      "es": "Por un lado volvimos a utilizar los datos de test del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Corpus TASS,",
+      "en": "Corpus TASS,",
+      "es": "Corpus TASS,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "cuya estructura de los archivos es similar a esta:",
+      "en": "whose structure of the files is similar to this:",
+      "es": "cuya estructura de los archivos es similar a esta:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y por otro recopilamos",
+      "en": "and on the other hand we collect",
+      "es": "y por otro recopilamos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "datos directamente desde Twitter",
+      "en": "data directly from Twitter",
+      "es": "datos directamente desde Twitter",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "gracias a la herramienta",
+      "en": "thanks to the tool",
+      "es": "gracias a la herramienta",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que nos permitió realizar la búsqueda de publicaciones de usuarios en esta red social a través de su API, durante el periodo de pandemia. La selección de publicaciones se realizó con los siguientes criterios: Aragón, covid, fecha, geolocalización,…",
+      "en": "that allowed us to search for user publications on this social network through its API, during the pandemic period. The selection of publications was made with the following criteria: Aragon, covid, date, geolocation,...",
+      "es": "que nos permitió realizar la búsqueda de publicaciones de usuarios en esta red social a través de su API, durante el periodo de pandemia. La selección de publicaciones se realizó con los siguientes criterios: Aragón, covid, fecha, geolocalización,…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para poder hacer este proceso, creamos una cuenta en Twitter/desarrollador para poder empezar a descargar los tweets.",
+      "en": "In order to do this process, we create a Twitter / developer account to start downloading the tweets.",
+      "es": "Para poder hacer este proceso, creamos una cuenta en Twitter/desarrollador para poder empezar a descargar los tweets.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizamos como referencia este artículo:",
+      "en": "We use this article as a reference:",
+      "es": "Utilizamos como referencia este artículo:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tardaron un poco en darnos acceso, pero finalmente lo conseguimos y pudimos seguir avanzando en esta parte.",
+      "en": "It took a little while to give us access, but we finally got it and we could keep moving on in this part.",
+      "es": "Tardaron un poco en darnos acceso, pero finalmente lo conseguimos y pudimos seguir avanzando en esta parte.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La estructura de los archivos es similar a esta:",
+      "en": "The structure of the files is similar to this:",
+      "es": "La estructura de los archivos es similar a esta:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Características",
+      "en": "B. Características",
+      "es": "B. Características",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que nos interesaría considerar",
+      "en": "that we would be interested in considering",
+      "es": "que nos interesaría considerar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y empezamos a considerar qué variables podrían ser relevantes en nuestro estudio para ayudarnos a conseguir nuestro objetivo (aunque probablemente no dispongamos de todas ellas).",
+      "en": "And we start to consider which variables might be relevant in our study to help us achieve our goal (although we probably don't have all of them).",
+      "es": "Y empezamos a considerar qué variables podrían ser relevantes en nuestro estudio para ayudarnos a conseguir nuestro objetivo (aunque probablemente no dispongamos de todas ellas).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis exploratorio de los datos (EDA)",
+      "en": "Exploratory analysis of data (EDA)",
+      "es": "Análisis exploratorio de los datos (EDA)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para nuestro análisis, el dataset inicial cuenta con la siguiente descripción:",
+      "en": "For our analysis, the initial dataset has the following description:",
+      "es": "Para nuestro análisis, el dataset inicial cuenta con la siguiente descripción:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como hemos mencionado, el corpus contiene múltiples niveles de polaridad. No obstante, hay diferencias entre diferentes archivos, por ejemplo, algunos archivos sólo tienen los niveles",
+      "en": "As we have mentioned, the corpus contains multiple levels of polarity. However, there are differences between different files, for example, some files only have levels",
+      "es": "Como hemos mencionado, el corpus contiene múltiples niveles de polaridad. No obstante, hay diferencias entre diferentes archivos, por ejemplo, algunos archivos sólo tienen los niveles",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Positivo, Negativo y Neutral,",
+      "en": "Positive, Negative and Neutral,",
+      "es": "Positivo, Negativo y Neutral,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mientras que otros incluyen un nivel adicional denominado",
+      "en": "while others include an additional level called",
+      "es": "mientras que otros incluyen un nivel adicional denominado",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "None",
+      "en": "None",
+      "es": "Ninguno",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ".Por lo tanto, si quisiéramos trabajar con todos los archivos conjuntamente, deberíamos convertir la polaridad en una variable dicotómica (binaria) con los valores",
+      "en": ".Therefore, if we wanted to work with all the files together, we should turn polarity into a dichotomal (binary) variable with the values",
+      "es": ".Por lo tanto, si quisiéramos trabajar con todos los archivos conjuntamente, deberíamos convertir la polaridad en una variable dicotómica (binaria) con los valores",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(Positivo=1, Negativo=0)",
+      "en": "(Positive = 1, Negative = 0)",
+      "es": "(Positivo=1, Negativo=0)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En nuestro caso, partimos de los que partían de positivo-negativo para pasar después a Feliz-Triste, que se adecuaba más a la categorización que podríamos conseguir de nuestro diccionario que está asociado a los términos Felicidad/Tristeza",
+      "en": "In our case, we started from those who left positivent--negative to move later to Happ--Sad, which was more in line with the categorization we could get from our dictionary that is associated with the terms Happiness / Sadness",
+      "es": "En nuestro caso, partimos de los que partían de positivo-negativo para pasar después a Feliz-Triste, que se adecuaba más a la categorización que podríamos conseguir de nuestro diccionario que está asociado a los términos Felicidad/Tristeza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pretratamiento y limpieza de los datos",
+      "en": "Data pre-processing and cleaning",
+      "es": "Pretratamiento y limpieza de los datos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Previo al análisis y modelado necesitamos hacer un proceso de eliminación de ruido y normalización.",
+      "en": "Before the analysis and modeling we need to do a process of noise elimination and normalization.",
+      "es": "Previo al análisis y modelado necesitamos hacer un proceso de eliminación de ruido y normalización.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Creamos la funcion",
+      "en": "We created the function.",
+      "es": "Creamos la funcion",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "limpia_tweet()",
+      "en": "limpia_tweet()",
+      "es": "limpia_tweet()",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que va a eliminar",
+      "en": "that will eliminate",
+      "es": "que va a eliminar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "stopwords",
+      "en": "stopwords",
+      "es": "Palabras de stop",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y algunos caracteres peculiares de Twitter, posteriormente fuimos ajustando esta limpieza debido al ruido de la data y a los problemas que nos iba planteando el código.",
+      "en": "and some peculiar characters of Twitter, we were later adjusting this cleaning due to the noise of the data and the problems that the code was putting at us.",
+      "es": "y algunos caracteres peculiares de Twitter, posteriormente fuimos ajustando esta limpieza debido al ruido de la data y a los problemas que nos iba planteando el código.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "1. Se eliminaron las stopwords como: de, con, por, …entre otras.",
+      "en": "1. Stopwords were removed as: from, with, by, among others.",
+      "es": "1. Se eliminaron las stopwords como: de, con, por, …entre otras.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. Se eliminó cualquier tipo de mención, RTs, #, links, URLs.",
+      "en": "2. Any type of mention, RTs, #, links, URLs was deleted.",
+      "es": "2. Se eliminó cualquier tipo de mención, RTs, #, links, URLs.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3. Se eliminó cualquier tipo de puntuación.",
+      "en": "3. Any type of score was removed.",
+      "es": "3. Se eliminó cualquier tipo de puntuación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "4. Se buscaron abreviaturas y textos con jergas cibernéticas como: “u” para “you”, “ur” para “your”, “k” para “que”, entre otras.",
+      "en": "4. Abbreviations and texts were sought with cyber jargon such as: \"u\" for \"you,\" \"ur\" for \"your,\" \"k\" for \"that,\" among others.",
+      "es": "4. Se buscaron abreviaturas y textos con jergas cibernéticas como: “u” para “you”, “ur” para “your”, “k” para “que”, entre otras.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "5. Se eliminaron emojis, y cualquier tipo de valor alfanumérico, caracteres numéricos, vinculados a monedas, porcentajes, etc…",
+      "en": "5. Emojis, and any type of alphanumeric value, numerical characters, linked to coins, percentages, etc., were removed.",
+      "es": "5. Se eliminaron emojis, y cualquier tipo de valor alfanumérico, caracteres numéricos, vinculados a monedas, porcentajes, etc…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "6. Se exploraron los datos, analizando las palabras más comunes en los Tweets.",
+      "en": "6. The data were explored, analysing the most common words in the Tweets.",
+      "es": "6. Se exploraron los datos, analizando las palabras más comunes en los Tweets.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez que se ha realizado el proceso, el texto limpio se almacena en una nueva columna ‘tweets_transform’:",
+      "en": "Once the process has been done, the clean text is stored in a new 'tweets _ transform' column:",
+      "es": "Una vez que se ha realizado el proceso, el texto limpio se almacena en una nueva columna ‘tweets_transform’:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Procesamiento del texto",
+      "en": "Text processing",
+      "es": "Procesamiento del texto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para poder tratar matemáticamente los tweets preprocesados, tenemos que extraer y estructurar la información contenida en el texto. Para ello, usaremos la clase",
+      "en": "To be able to mathematically treat the pre-processed tweets, we have to extract and structure the information contained in the text. To do so, we will use the class",
+      "es": "Para poder tratar matemáticamente los tweets preprocesados, tenemos que extraer y estructurar la información contenida en el texto. Para ello, usaremos la clase",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "sklearn.feature_extraction.CountVectorizer",
+      "en": "sklearn.feature_extraction.CountVectorizer",
+      "es": "sklearn.feature_extract.CountVectorizer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CountVectorizer",
+      "en": "CountVectorizer",
+      "es": "CountVectorizer",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "convierte la columna de texto en una matriz en la que cada palabra es una columna cuyo valor es el número de veces que dicha palabra aparece en cada tweet.",
+      "en": "turns the text column into a matrix in which each word is a column whose value is the number of times that word appears on each tweet.",
+      "es": "convierte la columna de texto en una matriz en la que cada palabra es una columna cuyo valor es el número de veces que dicha palabra aparece en cada tweet.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "De esta forma podemos trabajar con estos vectores en vez de con texto plano.",
+      "en": "This way we can work with these vectors rather than with flat text.",
+      "es": "De esta forma podemos trabajar con estos vectores en vez de con texto plano.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para cada tweet realizaremos el siguiente proceso:",
+      "en": "For each tweet we will perform the following process:",
+      "es": "Para cada tweet realizaremos el siguiente proceso:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tokenización",
+      "en": "Tokenization",
+      "es": "Tokenización",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": este paso convierte una cadena de texto en una lista de palabras (tokens)",
+      "en": ": this step turns a text chain into a list of words (tokens)",
+      "es": ": este paso convierte una cadena de texto en una lista de palabras (tokens)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. Conversión a",
+      "en": "2. Conversion to",
+      "es": "2. Conversión a",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "minúsculas",
+      "en": "low",
+      "es": "minúsculas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3. Eliminar",
+      "en": "3. Remove",
+      "es": "3. Eliminar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "stopwords.",
+      "en": "stopwords.",
+      "es": "Para las palabras.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se llama stopwords a las palabras que son muy frecuentes pero que no aportan gran valor sintáctico. Ejemplos de stopwords en español serían: de, por, con…",
+      "en": "It is called stopwords to words that are very frequent but do not bring great syntactic value. Examples of stopwords in Spanish would be: from, by, with...",
+      "es": "Se llama stopwords a las palabras que son muy frecuentes pero que no aportan gran valor sintáctico. Ejemplos de stopwords en español serían: de, por, con…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Filtros semánticos",
+      "en": "Semantic filters",
+      "es": "Filtros semánticos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(Stemming/lematización) es el proceso por el cual transformamos cada palabra en su raíz. Por ejemplo, las palabras maravilloso, maravilla o maravillarse comparten la misma raíz y se consideran la misma palabra tras el stemming.",
+      "en": "(Stemming / lematization) is the process by which we transform each word into its root. For example, wonderful, wonderful or wonderful words share the same root and are considered the same word after the stemming.",
+      "es": "(Stemming/lematización) es el proceso por el cual transformamos cada palabra en su raíz. Por ejemplo, las palabras maravilloso, maravilla o maravillarse comparten la misma raíz y se consideran la misma palabra tras el stemming.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "5. Creación de una",
+      "en": "5. Creation of a",
+      "es": "5. Creación de una",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "bolsa de palabras",
+      "en": "word bag",
+      "es": "bolsa de palabras",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con",
+      "en": "With",
+      "es": "Con",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "WordCloud",
+      "en": "WordCloud",
+      "es": "WordCloud",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "visualizamos las palabras más utilizadas en el dataset:",
+      "en": "We view the most used words on the dataset:",
+      "es": "visualizamos las palabras más utilizadas en el dataset:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Verificación de la calidad de los datos",
+      "en": "Data quality verification",
+      "es": "Verificación de la calidad de los datos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Comprobamos si con estos datos nos es suficiente o es necesario tratar algún dato más (data, geolocalización, etc..) o construir nuevos datos a partir de la información existente (valoración).",
+      "en": "We check whether this data is sufficient for us or needs to treat some more data (data, geolocation, etc.) or to build new data from existing information (valuation).",
+      "es": "Comprobamos si con estos datos nos es suficiente o es necesario tratar algún dato más (data, geolocalización, etc..) o construir nuevos datos a partir de la información existente (valoración).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Construcción de una estructura de datos para el posterior entrenamiento y evaluación del modelo",
+      "en": "Construction of a data structure for subsequent training and evaluation of the model",
+      "es": "Construcción de una estructura de datos para el posterior entrenamiento y evaluación del modelo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A. Datos de geolocalización",
+      "en": "A. Geolocation data",
+      "es": "A. Datos de geolocalización",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Datos Fecha. Transformación para adecuarlos al formato necesario para la gráfica de evolución.",
+      "en": "B. Data Date. Transformation to fit the format required for the evolution chart.",
+      "es": "B. Datos Fecha. Transformación para adecuarlos al formato necesario para la gráfica de evolución.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo lo podemos abordar?",
+      "en": "How can we approach it?",
+      "es": "¿Cómo lo podemos abordar?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Variante 1:",
+      "en": "Option 1:",
+      "es": "Variante 1:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Resolver el problema con técnicas de clasificación, específicamente “análisis de sentimiento”, que tiene como clases o etiquetas de sentimiento: “positivo”, “negativo” o “neutral”. Para ello, será necesario conseguir un data set con dichas etiquetas que estén relacionadas con Aragón (por ejemplo, data sets de Twitter) o buscar información textual (por ejemplo, periódicos regionales, etc.) y previamente clasificarlos usando etiquetas de sentimiento (a través de un proceso manual, o bien automatizado usando diccionarios).",
+      "en": "To solve the problem with classification techniques, specifically \"feeling analysis,\" which has as classes or feeling labels: \"positive,\" \"negative\" or \"neutral.\" To do this, it will be necessary to get a set data with such labels that are related to Aragon (e.g., Twitter data sets) or to search for textual information (e.g. regional newspapers, etc.) and previously classify them using feeling labels (through a manual process, or automated using dictionaries).",
+      "es": "Resolver el problema con técnicas de clasificación, específicamente “análisis de sentimiento”, que tiene como clases o etiquetas de sentimiento: “positivo”, “negativo” o “neutral”. Para ello, será necesario conseguir un data set con dichas etiquetas que estén relacionadas con Aragón (por ejemplo, data sets de Twitter) o buscar información textual (por ejemplo, periódicos regionales, etc.) y previamente clasificarlos usando etiquetas de sentimiento (a través de un proceso manual, o bien automatizado usando diccionarios).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Variante 2:",
+      "en": "Option 2:",
+      "es": "Variante 2:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Resolver el problema aplicando técnicas de agrupamiento. En este caso, sería necesario recopilar información textual (por ejemplo, periódicos regionales, Twitter, etc.) y agrupar la información, y analizar estos grupos.",
+      "en": "To solve the problem by applying grouping techniques. In this case, it would be necessary to collect textual information (e.g. regional newspapers, Twitter, etc.) and to group the information, and to analyse these groups.",
+      "es": "Resolver el problema aplicando técnicas de agrupamiento. En este caso, sería necesario recopilar información textual (por ejemplo, periódicos regionales, Twitter, etc.) y agrupar la información, y analizar estos grupos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todo el",
+      "en": "All the",
+      "es": "Todo el",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "código y los datos utilizados",
+      "en": "code and the data used",
+      "es": "código y los datos utilizados",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", por si quieres consultarlo en mayor detalle, los tienes disponibles en nuestro respositorio de Github:",
+      "en": ", in case you want to consult it in more detail, you have them available in our Github repository:",
+      "es": ", por si quieres consultarlo en mayor detalle, los tienes disponibles en nuestro respositorio de Github:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con el objetivo de poder hacer este proceso de clasificación semi-automática necesitábamos disponer de un diccionario con el que poder comparar y clasificar. Ante la dificultad de encontrar uno especialmente válido en castellano, decidimos crear nuestro propio diccionario, y estos fueron los pasos que fuimos siguiendo:",
+      "en": "In order to be able to do this semi-automatic classification process we needed to have a dictionary with which to compare and classify. In the face of the difficulty of finding one especially valid in Spanish, we decided to create our own dictionary, and these were the steps we followed:",
+      "es": "Con el objetivo de poder hacer este proceso de clasificación semi-automática necesitábamos disponer de un diccionario con el que poder comparar y clasificar. Ante la dificultad de encontrar uno especialmente válido en castellano, decidimos crear nuestro propio diccionario, y estos fueron los pasos que fuimos siguiendo:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Creación Diccionario",
+      "en": "Creation Dictionary",
+      "es": "Creación Diccionario",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "inicial que nos permite detectar los valores",
+      "en": "initial that allows us to detect the values",
+      "es": "inicial que nos permite detectar los valores",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Feliz (+1) y Triste (-1),",
+      "en": "Happy (+ 1) and Sad (-1),",
+      "es": "Feliz (+1) y Triste (-1),",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y con ello hacer una valoración automática. Fuente:",
+      "en": "and thus make an automatic assessment. Source:",
+      "es": "y con ello hacer una valoración automática. Fuente:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Realizamos un análisis del sesgo",
+      "en": "We did a bias analysis.",
+      "es": "Realizamos un análisis del sesgo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "palabras (30% Positivas 70% Negativas).",
+      "en": "words (30% Positive 70% Negative).",
+      "es": "palabras (30% Positivas 70% Negativas).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Realizamos una valoración del",
+      "en": "We have made an assessment of the",
+      "es": "Realizamos una valoración del",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "volumen de palabras 3000",
+      "en": "word volume 3000",
+      "es": "volumen de palabras 3000",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(ya que podría influirnos después en el procesamiento y ejecución del código)",
+      "en": "(as it could then influence us in the processing and execution of the code)",
+      "es": "(ya que podría influirnos después en el procesamiento y ejecución del código)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Búsqueda de alternativas. Valoración posibilidad de utilizar un diccionario reducido.",
+      "en": "Search for alternatives. Assessment of the possibility of using a reduced dictionary.",
+      "es": "Búsqueda de alternativas. Valoración posibilidad de utilizar un diccionario reducido.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Decisión sobre el diccionario final.",
+      "en": "Decision on the final dictionary.",
+      "es": "Decisión sobre el diccionario final.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El diccionario está incialmente basado en",
+      "en": "The dictionary is incitably based on",
+      "es": "El diccionario está incialmente basado en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3000 palabras",
+      "en": "3000 words",
+      "es": "3000 palabras",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "relacionadas con",
+      "en": "related to",
+      "es": "relacionadas con",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "‘felicidad’ y ‘tristeza’.",
+      "en": "'happiness' and 'sadness'.",
+      "es": "‘felicidad’ y ‘tristeza’.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tras el post procesado intensivo de las mismas y formateado, se ha ajustado el vocabulario a las 2600 palabras con la menor ambigüedad posible.",
+      "en": "After the intensive post-processing of these and formatted, the vocabulary has been adjusted to 2600 words with the least ambiguity possible.",
+      "es": "Tras el post procesado intensivo de las mismas y formateado, se ha ajustado el vocabulario a las 2600 palabras con la menor ambigüedad posible.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las 3000 palabras han sido revisadas manualmente, para eliminar ambigüedades y errores de valoración.",
+      "en": "The 3000 words have been manually revised to remove ambiguities and valuation errors.",
+      "es": "Las 3000 palabras han sido revisadas manualmente, para eliminar ambigüedades y errores de valoración.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la generación de este diccionario, siguiendo este documento de referencia, que explica cómo extraer características relevantes de un corpus textual:",
+      "en": "In the generation of this dictionary, following this reference document, it explains how to extract relevant characteristics from a textual corpus:",
+      "es": "En la generación de este diccionario, siguiendo este documento de referencia, que explica cómo extraer características relevantes de un corpus textual:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizamos",
+      "en": "We use",
+      "es": "Utilizamos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "countvectorizer",
+      "en": "CountVectorizer",
+      "es": "CountVectorizer",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": ": convierte textos (= tweets procesados) en filas, los pasa a minúsculas (pero conserva los acentos), y en cada columna aparecen las palabras utilizadas (su frecuencia en la frase), en orden alfabético. El ejemplo que se muestra aquí es muy sencillo.",
+      "en": ": converts texts (= processed tweets) into rows, passes them to tiny (but keeps accents), and in each column the words used (their frequency in the phrase) appear in alphabetical order. The example shown here is very simple.",
+      "es": ": convierte textos (= tweets procesados) en filas, los pasa a minúsculas (pero conserva los acentos), y en cada columna aparecen las palabras utilizadas (su frecuencia en la frase), en orden alfabético. El ejemplo que se muestra aquí es muy sencillo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Del objeto resultante podemos extraer:",
+      "en": "From the resulting object we can extract:",
+      "es": "Del objeto resultante podemos extraer:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– un diccionario con las palabras encontradas (se obtiene directamente mediante ‘vectorizer. vocabulary’)",
+      "en": "- a dictionary with the words found (it is obtained directly by 'vectorizer. vocabulary')",
+      "es": "– un diccionario con las palabras encontradas (se obtiene directamente mediante ‘vectorizer. vocabulary’)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– la matriz para analizar, con las frecuencias (en unos pasos sencillos)",
+      "en": "- the matrix to analyze, with frequencies (in simple steps)",
+      "es": "– la matriz para analizar, con las frecuencias (en unos pasos sencillos)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Había miles de palabras y llevó mucho tiempo, por lo que, del resultado inicial, decidimos acotarlo a las pestañas más útiles (son las amarillas), suficientes para valoración “Feliz/Triste”, ya que trabajar con más valores (Muy feliz, feliz, triste, muy triste) nos implicaría mucho más tiempo de desarrollo y queríamos avanzar en el resto de la metodología y evaluación de nuestra solución. Los datos de entrada a este proceso se muestran a continuación, donde junto con el diccionario elaborado manualmente se analiza el corpus etiquetado y mapeado a las etiquetas de Felicidad/Tristeza para completar el vocabulario de valoración.",
+      "en": "There were thousands of words and it took a lot of time, so, from the initial result, we decided to link it to the most useful tabs (are the yellow ones), enough for \"Happy / Sad\" valuation, as working with more values (Very happy, happy, sad, very sad) would involve much more development time and we wanted to move forward in the rest of the methodology and evaluation of our solution. The input data to this process are shown below, where together with the dictionary developed manually we analyze the body labelling and mapping to the labels of Happiness / Sadness to complete the vocabulary of valuation.",
+      "es": "Había miles de palabras y llevó mucho tiempo, por lo que, del resultado inicial, decidimos acotarlo a las pestañas más útiles (son las amarillas), suficientes para valoración “Feliz/Triste”, ya que trabajar con más valores (Muy feliz, feliz, triste, muy triste) nos implicaría mucho más tiempo de desarrollo y queríamos avanzar en el resto de la metodología y evaluación de nuestra solución. Los datos de entrada a este proceso se muestran a continuación, donde junto con el diccionario elaborado manualmente se analiza el corpus etiquetado y mapeado a las etiquetas de Felicidad/Tristeza para completar el vocabulario de valoración.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Creamos un modelo",
+      "en": "We created a model",
+      "es": "Creamos un modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que ejecuta el siguiente algoritmo:",
+      "en": "which runs the following algorithm:",
+      "es": "que ejecuta el siguiente algoritmo:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a. Importa el vocabulario",
+      "en": "a. It matters the vocabulary",
+      "es": "a. Importa el vocabulario",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prepara stopwords españolas del vocabulario",
+      "en": "Prepare Spanish vocabulary stopwords",
+      "es": "Prepara stopwords españolas del vocabulario",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplica funciones steemer",
+      "en": "Apply steemer functions",
+      "es": "Aplica funciones steemer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "b. Prepara el vocabulario stemmed",
+      "en": "b. Prepare the stemmed vocabulary",
+      "es": "b. Preparar el vocabulario talado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "c. Lee los tweets",
+      "en": "c. Read the tweets",
+      "es": "c. Lee los tweets",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "d. Aplica filtros limpieza",
+      "en": "d. Apply cleaning filters",
+      "es": "d. Aplica filtros limpieza",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "e. Valora sentimientos sobre los textos con el vocabulario steemed, creando un nuevo campo valoración calculada.",
+      "en": "e. Appreciates feelings about texts with the steemed vocabulary, creating a new calculated field of assessment.",
+      "es": "e. Valora sentimientos sobre los textos con el vocabulario steemed, creando un nuevo campo valoración calculada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "f. Guarda los tweets valorados en ficheros distintos según el resultado comparativo frente a los textos etiquetados (Ok, errores, sospechosas)",
+      "en": "f. Save tweets valued in different files according to the comparative result against the labelled texts (OK, errors, suspects)",
+      "es": "f. Guarda los tweets valorados en ficheros distintos según el resultado comparativo frente a los textos etiquetados (Ok, errores, sospechosas)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ejemplo de comparación entre valoración semi-automática y manual",
+      "en": "Example of comparison between semi-automatic and manual valuation",
+      "es": "Ejemplo de comparación entre valoración semi-automática y manual",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con respecto al fichero con las palabras sospechosas, realizamos un análisis del mismo para comprobar si nuestro proceso estaba funcionando correctamente.",
+      "en": "With regard to the file with the suspicious words, we conducted an analysis of it to check if our process was working properly.",
+      "es": "Con respecto al fichero con las palabras sospechosas, realizamos un análisis del mismo para comprobar si nuestro proceso estaba funcionando correctamente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Palabras sospechosas",
+      "en": "Suspicious words",
+      "es": "Palabras sospechosas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nos dimos cuenta de que las que salían tenían cierto sentido, si se quitaban parece que podría empeorar, por lo que haría falta tener otra lista “palabras interesantes”, donde mirar antes de quitarlas, lo cual suponía un esfuerzo adicional considerable, por lo que decidimos abordarlo posteriomente si nos daba tiempo.",
+      "en": "We realized that those who came out made some sense, if they were removed it seems that it could get worse, so it would be necessary to have another list \"interesting words,\" where to look before they were removed, which was a considerable additional effort, so we decided to address it later if we were to have time.",
+      "es": "Nos dimos cuenta de que las que salían tenían cierto sentido, si se quitaban parece que podría empeorar, por lo que haría falta tener otra lista “palabras interesantes”, donde mirar antes de quitarlas, lo cual suponía un esfuerzo adicional considerable, por lo que decidimos abordarlo posteriomente si nos daba tiempo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como causa considerábamos que sin contexto las palabras son muchas veces ambiguas, por lo que como con lo que habíamos obtenido hasta ese momento, obteníamos un 60% acierto, y no parece fácil de aumentar cuantitativamente, decidimos continuar con el fichero OUT_es con las dos columnas (Valoracion_corpus y Valoracion_calculada) con el que podríamos alimentar la parte de IA.",
+      "en": "As a cause we considered that without context the words are often ambiguous, so as with what we had obtained so far, we obtained a 60% correct, and it does not seem easy to increase quantitatively, we decided to continue with the OUT _ file is with the two columns (Valoracion _ corpus and Valoracion _ calculado) with which we could feed the part of IA.",
+      "es": "Como causa considerábamos que sin contexto las palabras son muchas veces ambiguas, por lo que como con lo que habíamos obtenido hasta ese momento, obteníamos un 60% acierto, y no parece fácil de aumentar cuantitativamente, decidimos continuar con el fichero OUT_es con las dos columnas (Valoracion_corpus y Valoracion_calculada) con el que podríamos alimentar la parte de IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El objetivo de este problema de Machine Learning es predecir el sentimiento de los tweets incluidos en nuestro fichero usando el corpus de TASS como training data (datos para entrenar al modelo predictivo).",
+      "en": "The objective of this Machine Learning problem is to predict the feeling of the tweets included in our file using the TASS corpus as training data (data to train the predictive model).",
+      "es": "El objetivo de este problema de Machine Learning es predecir el sentimiento de los tweets incluidos en nuestro fichero usando el corpus de TASS como training data (datos para entrenar al modelo predictivo).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Hay que puntualizar que el dataset se ha divido en TRAIN y EVAL/DEV",
+      "en": "It should be noted that the dataset has been divided into TRAIN and EVAL / DEV",
+      "es": "Hay que puntualizar que el dataset se ha divido en TRAIN y EVAL/DEV",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las 15 palabras más utilizadas antes del stemming",
+      "en": "The 15 most used words before the stemming",
+      "es": "Las 15 palabras más utilizadas antes del stemming",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Representación Numérica",
+      "en": "Number representation",
+      "es": "Representación Numérica",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Después del stemming, creamos una",
+      "en": "After the stemming, we created a",
+      "es": "Después del stemming, creamos una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(Bag of Words, BoW), que es una representación de cada documento en base a las palabras únicas que aparecen entre todos los documentos disponibles, a partir de la unión de todas las frases junto con la cantidad de veces que aparece cada palabra.",
+      "en": "(Bag of Words, Bow), which is a representation of each document based on the unique words that appear among all available documents, starting from the union of all phrases along with the number of times that each word appears.",
+      "es": "(Bag of Words, BoW), que es una representación de cada documento en base a las palabras únicas que aparecen entre todos los documentos disponibles, a partir de la unión de todas las frases junto con la cantidad de veces que aparece cada palabra.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con la idea de compensar aquellas de mayor frecuencia, aplicamos",
+      "en": "With the idea of compensating those of the most frequency, we apply",
+      "es": "Con la idea de compensar aquellas de mayor frecuencia, aplicamos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TF-IDF",
+      "en": "TF-IDF",
+      "es": "TF-IDF",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(TermFrequency–Inverse DocumentFrequency), que nos indica la relevancia de un término en el documento, teniendo en cuenta el ámbito en el que se suele usar (corpus).",
+      "en": "(TermFrequency-Inverse DocumentFrequency), which tells us the relevance of a term in the document, taking into account the area in which it is used (corpus).",
+      "es": "(TermFrequency–Inverse DocumentFrequency), que nos indica la relevancia de un término en el documento, teniendo en cuenta el ámbito en el que se suele usar (corpus).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Selección Algoritmos ML",
+      "en": "Selection ML Algorithms",
+      "es": "Selección Algoritmos ML",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A continuación listamos el conjunto de algoritmos de aprendizaje automático que hemos considerado en esta fase (se ha utilizado el etiquetado manual original como clases verdaderas):",
+      "en": "Below we list the set of automatic learning algorithms we have considered at this stage (the original manual labelling has been used as true classes):",
+      "es": "A continuación listamos el conjunto de algoritmos de aprendizaje automático que hemos considerado en esta fase (se ha utilizado el etiquetado manual original como clases verdaderas):",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Random Forest Classifier",
+      "en": "Random Forest Classifier",
+      "es": "Clasificación forestal aleatoria",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "XGBoost",
+      "en": "XGBoost",
+      "es": "XGBoost",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplicación teniendo en cuenta el módulo Valoración",
+      "en": "Application taking into account the Valuation module",
+      "es": "Aplicación teniendo en cuenta el módulo Valoración",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Dado que RF es el que mejor resultado da con la valoración humana, en términos de clasificación, quisimos mejorar el modelo de RF para la valoración algorítmica. Para ello empleamos un GridSearchCV en los dos tipos de valoración, humana y algoritmia. En el caso de la valoración humana parece que no se mejora el resultado, parece que estamos en el máximo valor alcanzable aunque también es probable, que sea un máximo local y no global.",
+      "en": "Since RF is the best result with human valuation, in terms of classification, we wanted to improve the RF model for the algoritmic valuation. For this we use a GridSearchCV in the two types of assessment, human and algorithm. In the case of human valuation it seems that the result is not improved, it seems that we are at the maximum attainable value although it is also likely that it is a local and not a global maximum.",
+      "es": "Dado que RF es el que mejor resultado da con la valoración humana, en términos de clasificación, quisimos mejorar el modelo de RF para la valoración algorítmica. Para ello empleamos un GridSearchCV en los dos tipos de valoración, humana y algoritmia. En el caso de la valoración humana parece que no se mejora el resultado, parece que estamos en el máximo valor alcanzable aunque también es probable, que sea un máximo local y no global.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por otro lado, en la valoración algorítmica conseguimos mejorar el resultado del modelo, usando los mismos parámetros de calidad: Accuracy, Recall, Precision y F1.",
+      "en": "On the other hand, in the algoritmic assessment we manage to improve the model's outcome, using the same quality parameters: Accuracy, Recall, Precision and F1.",
+      "es": "Por otro lado, en la valoración algorítmica conseguimos mejorar el resultado del modelo, usando los mismos parámetros de calidad: Accuracy, Recall, Precision y F1.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "☝ ¡eh! ¡que mejoramos de forma significativa! Vamos a guardar el modelo, por si las moscas ?",
+      "en": "We'll save the model, in case you fly them?",
+      "es": "☝ ¡eh! ¡que mejoramos de forma significativa! Vamos a guardar el modelo, por si las moscas ?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplicamos el modelo Kmeans, pero lo cierto es que no nos resultó demasiado útil, no conseguimos conclusiones demasiado claras ni obtuvimos conjuntos de términos muy claros, quizá podríamos conseguir mejores resultados realizando una labor adicional de limpieza de datos o quizá tener más volumen de tweets como para poder sacar conclusiones.",
+      "en": "We applied the Kmeans model, but the fact is that it was not too useful for us, we did not get too clear conclusions, nor did we get very clear sets of terms, maybe we could get better results by doing additional data cleaning work or perhaps having more tweets to get conclusions.",
+      "es": "Aplicamos el modelo Kmeans, pero lo cierto es que no nos resultó demasiado útil, no conseguimos conclusiones demasiado claras ni obtuvimos conjuntos de términos muy claros, quizá podríamos conseguir mejores resultados realizando una labor adicional de limpieza de datos o quizá tener más volumen de tweets como para poder sacar conclusiones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "TSNE",
+      "en": "TSNE",
+      "es": "TSNE",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "t-DistributedStochasticNeighborEmbedding",
+      "en": "t-DistributedStochasticNeighbboEmbedding",
+      "es": "t-DistribuidoStochasticNeighborEmbedding",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para poder visualizar palabras en 2D vamos modificando diferentes parámetros de la función word2vec. Las que más influencia tienen en nuestro sistema son el número máximo de palabras consideradas y el número de veces que una palabra tiene que estar repetida en el texto para ser considerada representativa. Como podemos ver en la representación de tsne, es difícil sacar conclusiones. Se debería limpiar mejor el texto para evitar la dependencia de los acentos o terminar de eliminar caracteres que solo añaden ruido como ‘ji’ o ‘san’.",
+      "en": "To be able to visualize words in 2D we are modifying different parameters of the word2vec function. The most influential in our system are the maximum number of words considered and the number of times that a word has to be repeated in the text to be considered representative. As we can see in the tsne representation, it is difficult to draw conclusions. The text should be better cleaned to avoid the dependence of accents or finish removing characters that only add noise like 'ji' or 'san'.",
+      "es": "Para poder visualizar palabras en 2D vamos modificando diferentes parámetros de la función word2vec. Las que más influencia tienen en nuestro sistema son el número máximo de palabras consideradas y el número de veces que una palabra tiene que estar repetida en el texto para ser considerada representativa. Como podemos ver en la representación de tsne, es difícil sacar conclusiones. Se debería limpiar mejor el texto para evitar la dependencia de los acentos o terminar de eliminar caracteres que solo añaden ruido como ‘ji’ o ‘san’.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Seguimos los mismos pasos sobre los tweets obtenidos y no etiquetados previamente para evaluar la potencia de los modelos ante textos no vistos previamente y de otros dominios. A continuación vemos los resultados.",
+      "en": "We follow the same steps on previously obtained and not labelled tweets to assess the power of models to previously unseen texts and other domains. Here are the results.",
+      "es": "Seguimos los mismos pasos sobre los tweets obtenidos y no etiquetados previamente para evaluar la potencia de los modelos ante textos no vistos previamente y de otros dominios. A continuación vemos los resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Partimos de un análisis exploratorio de los datos y pretratamiento de los mismos.",
+      "en": "We start from an exploratory analysis of the data and pre-treatment of them.",
+      "es": "Partimos de un análisis exploratorio de los datos y pretratamiento de los mismos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Vemos cuáles son las palabras más comunes",
+      "en": "We see what the most common words are.",
+      "es": "Vemos cuáles son las palabras más comunes",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplicamos el módulo de valoración para obtener la valoración calculada:",
+      "en": "We apply the valuation module to obtain the calculated valuation:",
+      "es": "Aplicamos el módulo de valoración para obtener la valoración calculada:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplicamos ahora modelos de Machine Learning y analizamos resultados (tomando como referencia la valoración calculada):",
+      "en": "We now apply Machine Learning models and analyze results (using the calculated valuation as a reference):",
+      "es": "Aplicamos ahora modelos de Machine Learning y analizamos resultados (tomando como referencia la valoración calculada):",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El modelo de RF, de nuevo, es el más prometedor, por lo que volvemos a usar GridSearchCV para ver si podemos mejorar la clasificación.",
+      "en": "The RF model, again, is the most promising, so we use GridSearchCV again to see if we can improve the classification.",
+      "es": "El modelo de RF, de nuevo, es el más prometedor, por lo que volvemos a usar GridSearchCV para ver si podemos mejorar la clasificación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "? no hay mucha mejora que digamos, parece que no es muy bueno generalizando…",
+      "en": "♪ there's not much improvement we say, it seems like it's not very good to generalize...",
+      "es": "? no hay mucha mejora que digamos, parece que no es muy bueno generalizando…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todo el código y los datos utilizados, por si quieres consultarlo en mayor detalle, los tienes disponibles en",
+      "en": "All the code and the data used, in case you want to consult it in more detail, you have them available in",
+      "es": "Todo el código y los datos utilizados, por si quieres consultarlo en mayor detalle, los tienes disponibles en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Entre los diferentes modelo de ML utilizando directamente las clases etiquetadas manualmente, el SVM es el que arroja unos resultados ligeramente superiores.",
+      "en": "Among the different ML models using the manually labelled classes directly, the SVM is the one that delivers slightly higher results.",
+      "es": "Entre los diferentes modelo de ML utilizando directamente las clases etiquetadas manualmente, el SVM es el que arroja unos resultados ligeramente superiores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se puede observar que el modelo de valoración tiene un desempeño próximo a los modelos automáticos tradicionales de ML.",
+      "en": "It can be observed that the valuation model has a performance close to traditional automatic ML models.",
+      "es": "Se puede observar que el modelo de valoración tiene un desempeño próximo a los modelos automáticos tradicionales de ML.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Evaluación de los resultados de los modelos en relación con la evaluación de tweets no etiquetados previamente",
+      "en": "Assessment of the results of the models in relation to the evaluation of previously unlabelled tweets",
+      "es": "Evaluación de los resultados de los modelos en relación con la evaluación de tweets no etiquetados previamente",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizando los mejores modelos previamente entrenados y guardados (",
+      "en": "Using the best previously trained and saved models (",
+      "es": "Utilizando los mejores modelos previamente entrenados y guardados (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "model.pkl),",
+      "en": "model.pkl),",
+      "es": "model.pkl),",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "se observan algunas diferencias:",
+      "en": "There are some differences:",
+      "es": "se observan algunas diferencias:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por tanto: comparando los modelos en distintos escenarios",
+      "en": "Therefore: by comparing the models in different scenarios",
+      "es": "Por tanto: comparando los modelos en distintos escenarios",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como se puede ver en la imagen, el valorado automático en una muestra",
+      "en": "As you can see in the image, the automatic value in a sample",
+      "es": "Como se puede ver en la imagen, el valorado automático en una muestra",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de novo",
+      "en": "of novo",
+      "es": "de novo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "tiene una menor capacidad de clasificación que en la muestra original. La heterogeneidad de la muestra y una limpieza menos eficaz conlleva una menor potencia.",
+      "en": "It has a lower classification capacity than in the original sample. The heterogeneity of the sample and a less effective cleaning result in less power.",
+      "es": "tiene una menor capacidad de clasificación que en la muestra original. La heterogeneidad de la muestra y una limpieza menos eficaz conlleva una menor potencia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Transformamos el campo fecha, y clasificamos aquellos tweets que pertenecen a una fase precovid o que corresponden a la etapa covid",
+      "en": "We transform the date field, and we classify those tweets that belong to an early phase or that correspond to the covid stage.",
+      "es": "Transformamos el campo fecha, y clasificamos aquellos tweets que pertenecen a una fase precovid o que corresponden a la etapa covid",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se observa un mayor desequilibrio en la etapa covid, con comentarios más cercanos a la tristeza que en el periodo precovid, donde a pesar de predominar la tristeza los resultados eran mucho más cercanos",
+      "en": "There is a greater imbalance in the covid stage, with comments closer to the sadness than in the early period, where despite the predominance of sadness the results were much closer",
+      "es": "Se observa un mayor desequilibrio en la etapa covid, con comentarios más cercanos a la tristeza que en el periodo precovid, donde a pesar de predominar la tristeza los resultados eran mucho más cercanos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Visualización de la evolución",
+      "en": "Visualization of evolution",
+      "es": "Visualización de la evolución",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Vemos que aplicando Machine Learning el resultado predice tweets más negativos, en general.",
+      "en": "We see that using Machine Learning the result predicts more negative tweets, in general.",
+      "es": "Vemos que aplicando Machine Learning el resultado predice tweets más negativos, en general.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para la puesta en producción de los modelos finales y los resultados obtenidos, utilizamos",
+      "en": "For the production of the final models and the results obtained, we use",
+      "es": "Para la puesta en producción de los modelos finales y los resultados obtenidos, utilizamos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que es una librería de Python de código abierto que facilita la creación y el uso compartido de aplicaciones web personalizadas para el aprendizaje automático y la ciencia de datos.",
+      "en": "which is an open source Python bookstore that facilitates the creation and sharing of custom web applications for automatic learning and data science.",
+      "es": "que es una librería de Python de código abierto que facilita la creación y el uso compartido de aplicaciones web personalizadas para el aprendizaje automático y la ciencia de datos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nuestra",
+      "en": "Our",
+      "es": "Nuestra",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "aplicación en streamlit",
+      "en": "Streamlit application",
+      "es": "aplicación en streamlit",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "es un",
+      "en": "is a",
+      "es": "es un",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Valorador de felicidad",
+      "en": "Happiness",
+      "es": "Valorador de felicidad",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que te permite realizar el análisis del texto que introduzcas, dando como resultado la valoración del mismo, así como las palabras que han determinado esa valoración.",
+      "en": "that allows you to perform the analysis of the text you introduce, resulting in the evaluation of the text, as well as the words that have determined that evaluation.",
+      "es": "que te permite realizar el análisis del texto que introduzcas, dando como resultado la valoración del mismo, así como las palabras que han determinado esa valoración.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por otro lado, permite la visualización de la evolución de los sentimientos en cuanto a Felicidad/Tristeza en la muestra seleccionada.",
+      "en": "On the other hand, it allows the visualization of the evolution of feelings in terms of Happiness / Sadness in the selected sample.",
+      "es": "Por otro lado, permite la visualización de la evolución de los sentimientos en cuanto a Felicidad/Tristeza en la muestra seleccionada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con respecto a las",
+      "en": "With regard to the",
+      "es": "Con respecto a las",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "vinculadas con nuestros objetivos",
+      "en": "linked to our objectives",
+      "es": "vinculadas con nuestros objetivos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Hemos conseguido desarrollar una",
+      "en": "We have managed to develop a",
+      "es": "Hemos conseguido desarrollar una",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para Felicidad y tristeza con un porcentaje de acierto satisfactorio (63% respecto al corpus y de un 53,2% con respecto al modelo de Machine Learning respecto al etiquetado automático), que puede facilitar la labor y evitar la complejidad de un etiquetado manual.",
+      "en": "for Happiness and sadness with a satisfactory success rate (63% for corpus and 53.2% for Machine Learning model for automatic labelling), which can facilitate work and avoid the complexity of manual labelling.",
+      "es": "para Felicidad y tristeza con un porcentaje de acierto satisfactorio (63% respecto al corpus y de un 53,2% con respecto al modelo de Machine Learning respecto al etiquetado automático), que puede facilitar la labor y evitar la complejidad de un etiquetado manual.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, hemos desarrollado un",
+      "en": "In addition, we have developed a",
+      "es": "Además, hemos desarrollado un",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "modelo",
+      "en": "model",
+      "es": "modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que analiza la evolución del sentimiento",
+      "en": "that analyzes the evolution of the feeling",
+      "es": "que analiza la evolución del sentimiento",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en este caso de los ciudadanos en Aragón respecto a las emociones felicidad y tristeza inferidas de sus comentarios en rrss, que nos permite ver claramente el impacto que la pandemia u otros acontecimientos significativos han tenido en su percepción y bienestar.",
+      "en": "in this case of the citizens in Aragon regarding the emotions happiness and sadness inferred from their comments in rrss, which allows us to see clearly the impact that the pandemic or other significant events have had on their perception and well-being.",
+      "es": "en este caso de los ciudadanos en Aragón respecto a las emociones felicidad y tristeza inferidas de sus comentarios en rrss, que nos permite ver claramente el impacto que la pandemia u otros acontecimientos significativos han tenido en su percepción y bienestar.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A nivel general",
+      "en": "At the general level",
+      "es": "A nivel general",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", las principales conclusiones que hemos obtenido son:",
+      "en": "The main conclusions we have reached are:",
+      "es": ", las principales conclusiones que hemos obtenido son:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El concepto de Felicidad y Tristeza",
+      "en": "The concept of Happiness and Sadness",
+      "es": "El concepto de Felicidad y Tristeza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "no es común",
+      "en": "Not common.",
+      "es": "no es común",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a todas las personas tanto en la expresión como en la evaluación, por lo que esto puede afectar en la valoración por la dificultad de estandarizar la expresión de un sentimiento.",
+      "en": "to all people in both expression and evaluation, so this can affect the assessment by the difficulty of standardizing the expression of a feeling.",
+      "es": "a todas las personas tanto en la expresión como en la evaluación, por lo que esto puede afectar en la valoración por la dificultad de estandarizar la expresión de un sentimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– La complejidad de interpretación de los tweets es tan grande que puede tener un gran impacto tanto la",
+      "en": "- The complexity of interpretation of tweets is so great that it can have a great impact both the",
+      "es": "– La complejidad de interpretación de los tweets es tan grande que puede tener un gran impacto tanto la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "subjetividad",
+      "en": "subjectivity",
+      "es": "subjetividad",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de la persona como la del momento de la evaluación. Para solucionar este se podría realizar una votación entre varias personas a nivel de vocabulario y a nivel de tweets.",
+      "en": "of the person as the time of the evaluation. To solve this one could make a vote between several people at the level of vocabulary and at the level of tweets.",
+      "es": "de la persona como la del momento de la evaluación. Para solucionar este se podría realizar una votación entre varias personas a nivel de vocabulario y a nivel de tweets.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Riesgo de",
+      "en": "- Risk of",
+      "es": "– Riesgo de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "confusión entre positividad-negatividad y felicidad -tristeza",
+      "en": "confusion between positivity - negativity and happiness - sadness",
+      "es": "confusión entre positividad-negatividad y felicidad -tristeza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a la hora de valorar las palabras.",
+      "en": "when it comes to valuing words.",
+      "es": "a la hora de valorar las palabras.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sesgo de la fuente",
+      "en": "Source bias",
+      "es": "Sesgo de la fuente",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "elegida Twitter (redes sociales más tendenciosas que otras, mensaje de 280 caracteres puede limitar la expresión de la emoción, ¿accesible a toda la tipología de la población?).",
+      "en": "chosen Twitter (social networks more biased than others, message of 280 characters can limit the expression of emotion, accessible to the whole type of population?).",
+      "es": "elegida Twitter (redes sociales más tendenciosas que otras, mensaje de 280 caracteres puede limitar la expresión de la emoción, ¿accesible a toda la tipología de la población?).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sesgo en el lenguaje",
+      "en": "Sesgo in language",
+      "es": "Sesgo en el lenguaje",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", que se traslada a nuestro diccionario. Ponderación de las palabras felices y tristes (30 -70).",
+      "en": ", that it is moved to our dictionary. Paying the happy and sad words (30-70).",
+      "es": ", que se traslada a nuestro diccionario. Ponderación de las palabras felices y tristes (30 -70).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Riesgo de pérdida de información en el pretratamiento",
+      "en": "Risk of loss of information in pre-treatment",
+      "es": "Riesgo de pérdida de información en el pretratamiento",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": En el proceso de pretratamiento de los tweets con objeto de facilitar el proceso, hemos eliminado elementos que nos podrían ampliar el análisis, por ejemplo, emoticonos o hahtags (#), con lo que puede que se haya desvirtuado la valoración final (fase evolución 20.0).",
+      "en": ": In the process of pre-treatment of tweets in order to facilitate the process, we have removed elements that could extend the analysis, for example emoticons or hahtags (#), which may have devirtuated the final assessment (phase evolution 20.0).",
+      "es": ": En el proceso de pretratamiento de los tweets con objeto de facilitar el proceso, hemos eliminado elementos que nos podrían ampliar el análisis, por ejemplo, emoticonos o hahtags (#), con lo que puede que se haya desvirtuado la valoración final (fase evolución 20.0).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Importancia del contexto",
+      "en": "Importance of the context",
+      "es": "Importancia del contexto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en el análisis y la valoración.",
+      "en": "in analysis and valuation.",
+      "es": "en el análisis y la valoración.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– El resultado de los tres modelos que hemos utilizado han sido muy parecidos, aunque el",
+      "en": "- The result of the three models we have used has been very similar, although the",
+      "es": "– El resultado de los tres modelos que hemos utilizado han sido muy parecidos, aunque el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "modelo Random Forest",
+      "en": "modelo Random Forest",
+      "es": "modelo Random Forest",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "parece que es el que mejor se adapta a la clasificación y dominio bajo estudio, a tenor de los resultados, puede deberse al volumen de la muestra, aunque se podría evolucionar buscando mejores parámetros en SVM y XGboost o probar redes neuronales.",
+      "en": "it seems that it is the best to adapt to the classification and domain under study, according to the results, may be due to the volume of the sample, although it could evolve by looking for better parameters in SVM and XGboost or testing neural networks.",
+      "es": "parece que es el que mejor se adapta a la clasificación y dominio bajo estudio, a tenor de los resultados, puede deberse al volumen de la muestra, aunque se podría evolucionar buscando mejores parámetros en SVM y XGboost o probar redes neuronales.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Existen numerosas técnicas y recursos dentro del PLN (Procesado del Lenguaje Natural) en inglés, pero no están tan desarrolladas en",
+      "en": "- There are numerous techniques and resources within the PLN (Natural Language Processing) in English, but they are not so developed in",
+      "es": "– Existen numerosas técnicas y recursos dentro del PLN (Procesado del Lenguaje Natural) en inglés, pero no están tan desarrolladas en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "español,",
+      "en": "Spanish,",
+      "es": "español,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "lo cual dificultaba en nuestro caso la aplicación.",
+      "en": "which made implementation difficult in our case.",
+      "es": "lo cual dificultaba en nuestro caso la aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como posibles propuestas de evolución de la herramienta",
+      "en": "As possible proposals for the evolution of the tool",
+      "es": "Como posibles propuestas de evolución de la herramienta",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ML Funcionalidades del análisis:",
+      "en": "ML Analytical functions:",
+      "es": "ML Funcionalidades del análisis:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Explorar y analizar más en profundidad los resultados de Kmeans",
+      "en": "Explore and analyze more in-depth Kmeans results",
+      "es": "Explorar y analizar más en profundidad los resultados de Kmeans",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Explorar y analizar las opciones que brindan los Word Embeddings",
+      "en": "Explore and analyze the options provided by the Word Embeddings",
+      "es": "Explorar y analizar las opciones que brindan los Word Embeddings",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mejorar resultados de los modelos con hiper parámetros",
+      "en": "Improve the results of hyper-parameter models",
+      "es": "Mejorar resultados de los modelos con hiper parámetros",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizando técnicas de NLP realizar búsquedas semánticas (agrupación-clusters, tópicos, similitud de perfiles, predicción de tendencias)",
+      "en": "Using NLP techniques conduct semantic searches (group-clusters, topic, profile similarity, trend prediction)",
+      "es": "Utilizando técnicas de NLP realizar búsquedas semánticas (agrupación-clusters, tópicos, similitud de perfiles, predicción de tendencias)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Explorar redes neuronales",
+      "en": "Explore neural networks",
+      "es": "Explorar redes neuronales",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fuentes:",
+      "en": "Sources:",
+      "es": "Fuentes:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Extender el análisis a mayor volumen de tweets",
+      "en": "Extend the analysis to the highest volume of tweets",
+      "es": "Extender el análisis a mayor volumen de tweets",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aplicar nuestro modelo a otra tipología de fuentes (redes sociales, prensa,…)",
+      "en": "Apply our model to another type of source (social media, press,...)",
+      "es": "Aplicar nuestro modelo a otra tipología de fuentes (redes sociales, prensa,…)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis de las cuentas que generan los tweets",
+      "en": "Analysis of the accounts generated by tweets",
+      "es": "Análisis de las cuentas que generan los tweets",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis de emociones:",
+      "en": "Emotional analysis:",
+      "es": "Análisis de emociones:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ampliar el diccionario a más categorías de emociones",
+      "en": "Expand the dictionary to more categories of emotions",
+      "es": "Ampliar el diccionario a más categorías de emociones",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incorporar análisis emoticonos, hashtag en la valoración",
+      "en": "Incorporate emoticons analysis, hashtag in the valuation",
+      "es": "Incorporar análisis emoticonos, hashtag en la valoración",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incorporar análisis del sarcasmo y la negación en la valoración",
+      "en": "Incorporate sarcasm and denial analysis in valuation",
+      "es": "Incorporar análisis del sarcasmo y la negación en la valoración",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incorporar análisis del contexto (del mismo tweet y del contexto del propio tweet)",
+      "en": "Incorporate context analysis (of the same tweet and the context of the tweet itself)",
+      "es": "Incorporar análisis del contexto (del mismo tweet y del contexto del propio tweet)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incorporar análisis emocional",
+      "en": "Incorporate emotional analysis",
+      "es": "Incorporar análisis emocional",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis personalizado tweets vinculados a una persona para la valoración de su estado emocional",
+      "en": "Custom analysis tweets linked to a person for the assessment of his emotional state",
+      "es": "Análisis personalizado tweets vinculados a una persona para la valoración de su estado emocional",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Visualización:",
+      "en": "Visualization:",
+      "es": "Visualización:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incorporar mapas de geolocalización de los tweets para análisis de valoraciones por zonas.",
+      "en": "Incorporate geolocation maps of tweets for area assessment analysis.",
+      "es": "Incorporar mapas de geolocalización de los tweets para análisis de valoraciones por zonas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gráfico radial de análisis emociones personalizado",
+      "en": "Radial chart of analysis personalized emotions",
+      "es": "Gráfico radial de análisis emociones personalizado",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Alertas y recomendaciones:",
+      "en": "alerts and recommendations:",
+      "es": "Alertas y recomendaciones:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sistema de alertas en función del estado emocional.",
+      "en": "Alert system based on emotional state.",
+      "es": "Sistema de alertas en función del estado emocional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Recomendación temáticas concretas adaptadas a ese análisis personalizado.",
+      "en": "Specific thematic recommendation adapted to this personalized analysis.",
+      "es": "Recomendación temáticas concretas adaptadas a ese análisis personalizado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Recomendaciones genéricas accesibles a todos los perfiles",
+      "en": "Generic recommendations accessible to all profiles",
+      "es": "Recomendaciones genéricas accesibles a todos los perfiles",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Identificación perfiles críticos y alertas asociadas (prevención del suicidio, índices depresión…)",
+      "en": "Identification of critical profiles and associated alerts (suicide prevention, depression rates...)",
+      "es": "Identificación perfiles críticos y alertas asociadas (prevención del suicidio, índices depresión…)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A todo el equipo de Saturdays AI",
+      "en": "To the entire Saturdays AI team",
+      "es": "A todo el equipo de Saturdays AI",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", y sobre todo al equipo de",
+      "en": "and especially to the",
+      "es": ", y sobre todo al equipo de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays AI Zaragoza",
+      "en": "Saturdays AI Zaragoza",
+      "es": "Saturdays.AI Zaragoza",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", en especial a",
+      "en": "in particular a",
+      "es": ", en especial a",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Rosa Montañés, Mª del Carmen Rodríguez, Rocío Aznar y Rafael del Hoyo",
+      "en": "Rosa Montañés, Mª del Carmen Rodríguez, Rocío Aznar and Rafael del Hoyo",
+      "es": "Rosa Montañés, Mª del Carmen Rodríguez, Rocío Aznar y Rafael del Hoyo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ya que sin ellos no habría sido posible.",
+      "en": "because without them it would not have been possible.",
+      "es": "ya que sin ellos no habría sido posible.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La experiencia ha sido muy agradable y recomendable, con una",
+      "en": "The experience has been very nice and recommended, with a",
+      "es": "La experiencia ha sido muy agradable y recomendable, con una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "metodología de aprendizaje muy efectiva",
+      "en": "very effective learning methodology",
+      "es": "metodología de aprendizaje muy efectiva",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "basada en la práctica, ¡",
+      "en": "basada en la práctica, ¡",
+      "es": "basada en la práctica, ¡",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gracias por todo vuestro apoyo, paciencia y dedicación!",
+      "en": "Thank you for all your support, patience and dedication!",
+      "es": "Gracias por todo vuestro apoyo, paciencia y dedicación!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a ti",
+      "en": "to you",
+      "es": "a ti",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", por haber llegado hasta aquí en la lectura del artículo.",
+      "en": ", for having come this far in reading the article.",
+      "es": ", por haber llegado hasta aquí en la lectura del artículo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Github",
+      "en": "Github",
+      "es": "Github",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todo el código y los datos utilizados los tienes disponibles en",
+      "en": "All the code and the data used are available at",
+      "es": "Todo el código y los datos utilizados los tienes disponibles en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Vocabulario",
+      "en": "Vocabulary",
+      "es": "Vocabulario",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "relacionado con felicidad y tristeza",
+      "en": "related to happiness and sadness",
+      "es": "relacionado con felicidad y tristeza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tass Corpus:",
+      "en": "Tass Corpus:",
+      "es": "Tass Corpus:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Acceso personalizado al Corpus de TASS",
+      "en": "Custom access to the TASS Corpus",
+      "es": "Acceso personalizado al Corpus de TASS",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis del Sentimientos",
+      "en": "Analysis of Feelings",
+      "es": "Análisis del Sentimientos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "NRC Word-Emotion Association Lexicon (aka EmoLex)",
+      "en": "NRC Word-Emotion Association Lexicon (aka EmoLex)",
+      "es": "NRC Word-Emotion Association Lexicon (aka EmoLex)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sentiment Analysis in Python",
+      "en": "Sentiment Analysis in Python",
+      "es": "Sentiment Analysis in Python",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desarrollos",
+      "en": "Development",
+      "es": "Desarrollos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ejemplo sentimental Analysis en español",
+      "en": "Sentimental example Analysis in Spanish",
+      "es": "Ejemplo sentimental Analysis en español",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análsis de tweets",
+      "en": "Análsis de tweets",
+      "es": "Análsis de tweets",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Información de interés",
+      "en": "Information of interest",
+      "es": "Información de interés",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Herramienta para realizar la Demo.",
+      "en": "Tool to perform the Demo.",
+      "es": "Herramienta para realizar la Demo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Streamlit:",
+      "en": "Streamlit:",
+      "es": "Streamlit:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Información Covid",
+      "en": "Information Covid",
+      "es": "Información Covid",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Datos salud Mental afectación coronavirus",
+      "en": "Health data Mental involvement coronavirus",
+      "es": "Datos salud Mental afectación coronavirus",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ver vídeo",
+      "en": "Watch video",
+      "es": "Ver vídeo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se puede encontrar el código de este proyecto en",
+      "en": "You can find the code of this project in",
+      "es": "Se puede encontrar el código de este proyecto en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 abr 2022.",
+      "en": "A story of the Saturdays.AI. community originally published on 7 abr 2022.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 abr 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "title": "Machine Learning aplicado a la Industria textil",
+  "route": "/2022/01/02/machine-learning-aplicado-a-la-industria-textil/",
+  "segments": [
+    {
+      "source": "3 min de lectura",
+      "en": "3 min read",
+      "es": "3 min de lectura",
+      "reviewed": false
+    },
+    {
+      "source": "La Paz. 2021 El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y…",
+      "en": "Peace. 2021 The project began with this question: Will it be possible to improve decision making in the textile industry with Machine Learning? After deciding that we wanted to answer the question, we decided on the industry and…",
+      "es": "La Paz. 2021 El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Jhonpoolcastro Jcs",
+      "en": "Jhonpoolcastro Jcs",
+      "es": "Jhonpoolcastro Jcs",
+      "reviewed": false
+    },
+    {
+      "source": "El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y como sabemos en Bolivia y encontramos a la industria textilera que hasta el 2015, tuvo una contribución de la industria textil boliviana al Producto Interno Bruto (PIB) era del 0,9%, equivalente a 451 millones de dólares,sin embargo este sector se ve severamente afectado por varios problemas tales como:",
+      "en": "The project began with this question: Will it be possible to improve decision making in the textile industry with Machine Learning? After deciding that we wanted to answer the unknown, we decided on the industry and as we know in Bolivia and we found the textile industry that until 2015, the contribution of the Bolivian textile industry to the Gross Domestic Product (GDP) was 0.9%, equivalent to 451 million dollars, however this sector is severely affected by several problems such as:",
+      "es": "El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y como sabemos en Bolivia y encontramos a la industria textilera que hasta el 2015, tuvo una contribución de la industria textil boliviana al Producto Interno Bruto (PIB) era del 0,9%, equivalente a 451 millones de dólares,sin embargo este sector se ve severamente afectado por varios problemas tales como:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Mercadería Ilegal que ingresa al País",
+      "en": "Illegal merchandise entering the country",
+      "es": "Mercadería Ilegal que ingresa al País",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ropa usada",
+      "en": "Used clothes",
+      "es": "Ropa usada",
+      "reviewed": false
+    },
+    {
+      "source": "Prendas chinas",
+      "en": "Chinese garments",
+      "es": "Prendas chinas",
+      "reviewed": false
+    },
+    {
+      "source": "Porque vimos estos problemas y creemos que Bolivia puede mejorar su competitividad escogimos al sector de la industria textil para aplicarle Machine Learning.",
+      "en": "Because we saw these problems and believe that Bolivia can improve its competitiveness, we chose the textile industry sector to apply Machine Learning.",
+      "es": "Porque vimos estos problemas y creemos que Bolivia puede mejorar su competitividad escogimos al sector de la industria textil para aplicarle Machine Learning.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "DESARROLLO",
+      "en": "DEVELOPMENT",
+      "es": "DESARROLLO",
+      "reviewed": false
+    },
+    {
+      "source": "Encontramos el dataset en Kaggle, este tenía las siguientes variables (están traducidas al español al lado):",
+      "en": "We found the dataset on Kaggle, it had the following variables (they are translated into Spanish next to it):",
+      "es": "Encontramos el dataset en Kaggle, este tenía las siguientes variables (están traducidas al español al lado):",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "– Fecha ()",
+      "en": "– Date()",
+      "es": "– Fecha ()",
+      "reviewed": false
+    },
+    {
+      "source": "smv – valor promedio por trabajo",
+      "en": "smv – average value per job",
+      "es": "smv – valor promedio por trabajo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "day",
+      "en": "day",
+      "es": "day",
+      "reviewed": false
+    },
+    {
+      "source": "– Dia (Lun-Dom)",
+      "en": "– Day (Mon-Sun)",
+      "es": "– Dia (Lun-Dom)",
+      "reviewed": false
+    },
+    {
+      "source": "wip – trabajos en cola",
+      "en": "wip – queued jobs",
+      "es": "wip – trabajos en cola",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "quarter",
+      "en": "quarter",
+      "es": "quarter",
+      "reviewed": false
+    },
+    {
+      "source": "– 5 periodos / mes",
+      "en": "– 5 periods / month",
+      "es": "– 5 periodos / mes",
+      "reviewed": false
+    },
+    {
+      "source": "over time – sobrehora",
+      "en": "over time",
+      "es": "over time – sobrehora",
+      "reviewed": false
+    },
+    {
+      "source": "department –",
+      "en": "department –",
+      "es": "department –",
+      "reviewed": false
+    },
+    {
+      "source": "departamento",
+      "en": "department",
+      "es": "departamento",
+      "reviewed": false
+    },
+    {
+      "source": "incentive – incentivo",
+      "en": "incentive – incentive",
+      "es": "incentive – incentivo",
+      "reviewed": false
+    },
+    {
+      "source": "teamno",
+      "en": "teamno",
+      "es": "teamno",
+      "reviewed": false
+    },
+    {
+      "source": "– # de equipo",
+      "en": "– Team #",
+      "es": "– # de equipo",
+      "reviewed": false
+    },
+    {
+      "source": "idle time – tiempos ociosos",
+      "en": "idle time – idle times",
+      "es": "idle time – tiempos ociosos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no of workers",
+      "en": "no of workers",
+      "es": "no of workers",
+      "reviewed": false
+    },
+    {
+      "source": "– # de trabajadores",
+      "en": "– # of workers",
+      "es": "– # de trabajadores",
+      "reviewed": false
+    },
+    {
+      "source": "idleman",
+      "en": "idleman",
+      "es": "idleman",
+      "reviewed": false
+    },
+    {
+      "source": "– # de trabajadores ociosos",
+      "en": "– # of idle workers",
+      "es": "– # de trabajadores ociosos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no of style change",
+      "en": "no of style change",
+      "es": "no of style change",
+      "reviewed": false
+    },
+    {
+      "source": "– # de cambios",
+      "en": "– # of changes",
+      "es": "– # de cambios",
+      "reviewed": false
+    },
+    {
+      "source": "actual productivity – productividad actual",
+      "en": "current productivity – current productivity",
+      "es": "actual productivity – productividad actual",
+      "reviewed": false
+    },
+    {
+      "source": "targeted_productivity",
+      "en": "targeted_productivity",
+      "es": "targeted_productivity",
+      "reviewed": false
+    },
+    {
+      "source": "– productividad esperada",
+      "en": "– expected productivity",
+      "es": "– productividad esperada",
+      "reviewed": false
+    },
+    {
+      "source": "Nuestro dataset obtenido de Kaggle tenía esas características, después de ver las variables vimos que la variable SMV valor (promedio de trabajo) tenía algunos huecos,por lo que viendo su distribución decidimos rellenarla con la tendencia de la media y así ya obtuvimos todos los datos listos para trabajar.",
+      "en": "Our dataset obtained from Kaggle had these characteristics, after seeing the variables we saw that the variable SMV value (working average) had some gaps, so seeing its distribution we decided to fill it with the trend of the average and thus we obtained all the data ready to work.",
+      "es": "Nuestro dataset obtenido de Kaggle tenía esas características, después de ver las variables vimos que la variable SMV valor (promedio de trabajo) tenía algunos huecos,por lo que viendo su distribución decidimos rellenarla con la tendencia de la media y así ya obtuvimos todos los datos listos para trabajar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Comenzamos con la idea de regresión pero los métodos parecían no servir o nos daban unos resultados muy bajos por lo cual tuvimos que cambiar de aproach, después se procedió a un problema de clasificación, realizamos una normalización de los datos y ya con los datos trabajados comenzamos a trabajar,acá un ejemplo de la matriz de correlación que logramos obtener una vez pasamos a la parte de clasificación de datos con datos ya normalizados.",
+      "en": "We started with the idea of regression but the methods seemed not to work or gave us very low results so we had to change our approach, then we proceeded to a classification problem, we carried out a normalization of the data and with the data worked on we began to work, here is an example of the correlation matrix that we managed to obtain once we moved on to the data classification part with already normalized data.",
+      "es": "Comenzamos con la idea de regresión pero los métodos parecían no servir o nos daban unos resultados muy bajos por lo cual tuvimos que cambiar de aproach, después se procedió a un problema de clasificación, realizamos una normalización de los datos y ya con los datos trabajados comenzamos a trabajar,acá un ejemplo de la matriz de correlación que logramos obtener una vez pasamos a la parte de clasificación de datos con datos ya normalizados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Después se comenzó a probar modelos,el con mejores resultados predictivos fue ADAboost(insertamos imagen referencial)",
+      "en": "Afterwards, models began to be tested, the one with the best predictive results was ADAboost (we insert reference image)",
+      "es": "Después se comenzó a probar modelos,el con mejores resultados predictivos fue ADAboost(insertamos imagen referencial)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Logramos un 0.82 de accuracy lo cual fue simplemente increible despues de ver como otros métodos no llegaban ni al 0.50, decidimos probar con varios modelos adicionales como Random Forest, pero la precisión era menor (no por mucho)",
+      "en": "We achieved an accuracy of 0.82 which was simply incredible. After seeing how other methods did not even reach 0.50, we decided to try several additional models such as Random Forest, but the precision was lower (not by much).",
+      "es": "Logramos un 0.82 de accuracy lo cual fue simplemente increible despues de ver como otros métodos no llegaban ni al 0.50, decidimos probar con varios modelos adicionales como Random Forest, pero la precisión era menor (no por mucho)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Al final nos quedamos con Adaboost y logramos un trabajo excelente.",
+      "en": "In the end we stayed with Adaboost and did an excellent job.",
+      "es": "Al final nos quedamos con Adaboost y logramos un trabajo excelente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con los modelos de regresión de acuerdo al rendimiento (scores de 0.5) calculado, no se acomodan al dataset propuesto, se realizó un tratamiento al target para volver un problema de clasificación.",
+      "en": "With the regression models according to the performance (scores of 0.5) calculated, they do not fit the proposed dataset, a treatment was carried out on the target to become a classification problem.",
+      "es": "Con los modelos de regresión de acuerdo al rendimiento (scores de 0.5) calculado, no se acomodan al dataset propuesto, se realizó un tratamiento al target para volver un problema de clasificación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los modelos de clasificación aplicados al dataset dieron resultados favorables en especial Adaboost con un score de 0.82",
+      "en": "The classification models applied to the dataset gave favorable results, especially Adaboost with a score of 0.82.",
+      "es": "Los modelos de clasificación aplicados al dataset dieron resultados favorables en especial Adaboost con un score de 0.82",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los mecanismos y procesos de machine learning permitieron en el problema reutilizar el modelo como uno de clasificación.",
+      "en": "The machine learning mechanisms and processes allowed the problem to reuse the model as one of the classification.",
+      "es": "Los mecanismos y procesos de machine learning permitieron en el problema reutilizar el modelo como uno de clasificación.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Adaboost",
+      "en": "Adaboost",
+      "es": "Adaboost",
+      "reviewed": false
+    },
+    {
+      "source": "AdaBoost",
+      "en": "AdaBoost",
+      "es": "AdaBoost",
+      "reviewed": false
+    }
+  ]
+}

@@ -1,9 +1,6 @@
 ---
 title: Learn AI, build projects
-description: AI4All is AI4Good Learn Artificial Intelligence; Build social
-  impact projects; together with passionate people like you. START LEARNING AI
-  (free) OSS PROJECTS What do we do? Fostering diversity At Saturdays.AI we
-  believe that…
+description: Learn artificial intelligence and build projects with social impact alongside a global community.
 image: /media/0ef120ccb4ffe457.webp
 legacyPath: /
 sourceUrl: https://saturdays.ai/
@@ -18,7 +15,7 @@ AI4All is AI4Good
 
 **Learn** Artificial Intelligence; **Build** social impact projects; **together** with passionate people like you.
 
-[START LEARNING AI (free)](https://saturdays.ai/online/)
+[START LEARNING AI](https://saturdays.ai/online/)
 
 [OSS PROJECTS](https://saturdays.ai/proyectos/)
 
@@ -74,7 +71,7 @@ You can use AI to solve social problems, such as climate change, education, dise
 
 We connect individuals and organizations through communities to create social impact. Our flagship programme, **AI Saturdays,**  is suitable for anyone that wants to start in AI, learning by doing AI projects with social impact in their community. 
 
-We also have many free online courses to get you started in AI, in addition to news, scientific papers, tutorials and code to deep dive in any part of the Artificial Intelligence stack.
+We also have many online courses to get you started in AI, in addition to news, scientific papers, tutorials and code to deep dive in any part of the Artificial Intelligence stack.
 
 Altogether with the support of an awesome community of people who, like you, love to learn AI and apply it for the betterment of our world.
 
@@ -152,7 +149,7 @@ Reproducir
 
 #### Start your AI journey
 
-Saturdays.AI offers free online courses with a roadmap to get yourself started in the world of AI.
+Saturdays.AI offers online courses with a roadmap to get yourself started in the world of AI.
 
 #### Python 4 AI
 
@@ -182,7 +179,7 @@ Saturdays.AI offers free online courses with a roadmap to get yourself started 
 
 [MORE INFO](https://saturdays.ai/master-ia-online/)
 
-You can access the Master directly by buying it.
+
 
 **Some social impact projects powered by AI**
 

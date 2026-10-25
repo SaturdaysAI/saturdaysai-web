@@ -3,7 +3,11 @@ import assert from 'node:assert/strict';
 import sharp from 'sharp';
 
 const cards = JSON.parse(await fs.readFile('public/social/manifest.json', 'utf8'));
-for (const source of new Set(Object.values(cards))) {
+const sources = [
+  ...Object.values(cards).filter((x) => typeof x === 'string'),
+  ...Object.values(cards.english || {}),
+];
+for (const source of new Set(sources)) {
   const buffer = await fs.readFile(`dist${source}`);
   const meta = await sharp(buffer).metadata();
   assert.equal(meta.width, 1200, source);
@@ -27,5 +31,5 @@ for (const source of new Set(Object.values(cards))) {
   assert.ok(textPixels > 1500, `${source}: missing visible title`);
 }
 console.log(
-  `Social card raster verification passed: ${Object.keys(cards).length} cards, visible brand and title.`,
+  `Social card raster verification passed: ${new Set(sources).size} cards, visible brand and title.`,
 );

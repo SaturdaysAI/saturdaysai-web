@@ -1,0 +1,420 @@
+{
+  "title": "Transformación de Imágenes de Angiotomografía por medio del uso de Inteligencia Artificial.",
+  "route": "/2022/03/09/angiop-ai-transformacion-imagenes-angiotomografia-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "Latam online. Segunda Edición. 2021 Angiotomografías con contraste ¿Cuál es el problema? El reto Los medios de contraste vía endovenosa que se usan en las angiotomografias contrastadas pueden tener incidencia en la salud…",
+      "en": "Latam online. Second Edition. 2021 Contrast angiotomography What is the problem? The challenge Intravenous contrast media used in contrast angiotomography can have an impact on health...",
+      "es": "Latam online. Segunda Edición. 2021 Angiotomografías con contraste ¿Cuál es el problema? El reto Los medios de contraste vía endovenosa que se usan en las angiotomografias contrastadas pueden tener incidencia en la salud…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "9 mar 2022",
+      "en": "Mar 9, 2022",
+      "es": "9 mar 2022",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Angiotomografías con contraste ¿Cuál es el problema?",
+      "en": "Contrast angiotomography What is the problem?",
+      "es": "Angiotomografías con contraste ¿Cuál es el problema?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El reto",
+      "en": "The challenge",
+      "es": "El reto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Por qué escogimos Angiotomografías?",
+      "en": "Why did we choose Angiotomography?",
+      "es": "Por qué escogimos Angiotomografías?",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "La oportunidad ¿Cómo proponemos solucionarlo?",
+      "en": "The opportunity. How do we propose to solve it?",
+      "es": "La oportunidad ¿Cómo proponemos solucionarlo?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Cuáles son los beneficios?",
+      "en": "What are the benefits?",
+      "es": "¿Cuáles son los beneficios?",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Lo explicamos paso a paso: metodología, modelo usado y datasets",
+      "en": "We explain it step by step: methodology, model used and datasets",
+      "es": "Lo explicamos paso a paso: metodología, modelo usado y datasets",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Lecciones aprendidas",
+      "en": "Lessons learned",
+      "es": "Lecciones aprendidas",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Lo que se viene: Futuro de ANGIOP.AI",
+      "en": "What's coming: Future of ANGIOP.AI",
+      "es": "Lo que se viene: Futuro de ANGIOP.AI",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Los medios de contraste vía endovenosa que se usan en las angiotomografias contrastadas pueden tener incidencia en la salud nefrológica de los pacientes, sobre todo en aquellos que tienen antecedentes de hipertensión arterial, hipercolesterolemia, antecedentes genéticos, en edad adulta mayor (60 años en adelante) y un riesgo cardiovascular aumentado (1), es decir, son más propensos a:",
+      "en": "The intravenous contrast media used in contrast-enhanced angiotomography can have an impact on the nephrological health of patients, especially in those who have a history of high blood pressure, hypercholesterolemia, genetic history, older adults (60 years and older) and an increased cardiovascular risk (1), that is, they are more prone to:",
+      "es": "Los medios de contraste vía endovenosa que se usan en las angiotomografias contrastadas pueden tener incidencia en la salud nefrológica de los pacientes, sobre todo en aquellos que tienen antecedentes de hipertensión arterial, hipercolesterolemia, antecedentes genéticos, en edad adulta mayor (60 años en adelante) y un riesgo cardiovascular aumentado (1), es decir, son más propensos a:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "tener accidentes cerebrovasculares,",
+      "en": "have strokes,",
+      "es": "tener accidentes cerebrovasculares,",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "infarto agudo de miocardio,",
+      "en": "acute myocardial infarction,",
+      "es": "infarto agudo de miocardio,",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "enfermedad arterial periférica y,",
+      "en": "peripheral arterial disease and,",
+      "es": "enfermedad arterial periférica y,",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "enfermedades de la aorta en general",
+      "en": "Aorta diseases in general",
+      "es": "enfermedades de la aorta en general",
+      "reviewed": false,
+      "sourceLanguage": "pt",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Existe la posibilidad de realizar angiotomografias simples que no requieren el uso de medios de contraste y que tienen un costo menor (alrededor de $200,00 de diferencia), pero estas no permiten una visualización completa de las estructuras aórticas con claridad (2), por lo que no son útiles en muchos casos, como en el de Jesús.",
+      "en": "There is the possibility of performing simple angiotomography that does not require the use of contrast media and has a lower cost (around $200.00 difference), but these do not allow complete visualization of the aortic structures clearly (2), so they are not useful in many cases, such as that of Jesús.",
+      "es": "Existe la posibilidad de realizar angiotomografias simples que no requieren el uso de medios de contraste y que tienen un costo menor (alrededor de $200,00 de diferencia), pero estas no permiten una visualización completa de las estructuras aórticas con claridad (2), por lo que no son útiles en muchos casos, como en el de Jesús.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ANGIOP.AI (Sistema de Transformación de Imágenes de Angiotomografía) genera avances significativos en el análisis de imágenes médicas mediante modelos de análisis de inteligencia artificial para angiotomografias, brindando una alternativa que signifique un menor impacto para la salud de los pacientes que, por su diagnóstico y estado general, requieren realizarse este tipo de análisis de manera recurrente.",
+      "en": "ANGIOP.AI (Angiotomography Image Transformation System) generates significant advances in the analysis of medical images through artificial intelligence analysis models for angiotomography, providing an alternative that means less impact on the health of patients who, due to their diagnosis and general condition, require this type of analysis to be performed on a recurring basis.",
+      "es": "ANGIOP.AI (Sistema de Transformación de Imágenes de Angiotomografía) genera avances significativos en el análisis de imágenes médicas mediante modelos de análisis de inteligencia artificial para angiotomografias, brindando una alternativa que signifique un menor impacto para la salud de los pacientes que, por su diagnóstico y estado general, requieren realizarse este tipo de análisis de manera recurrente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Figura 1. Estructura del modelo GAN aplicado a la transformación de imágenes de Angiotomografía",
+      "en": "Figure 1. Structure of the GAN model applied to the transformation of Angiotomography images",
+      "es": "Figura 1. Estructura del modelo GAN aplicado a la transformación de imágenes de Angiotomografía",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ANGIOP.AI basa su funcionamiento en el entrenamiento, validación y evaluación de un modelo CycleGAN para procesar imágenes de angiotomografias sin contraste y transformarlas en imágenes similares a las que se obtendrían usando métodos de contraste; se entrena un CycleGan para leer una imagen de un dataset X (imágenes sin contraste) y transformarlo para que parezca como si perteneciera a un dataset Y (imágenes con contraste).",
+      "en": "ANGIOP.AI bases its operation on the training, validation and evaluation of a CycleGAN model to process non-contrast CT angiography images and transform them into images similar to those that would be obtained using contrast methods; A CycleGan is trained to read an image from dataset",
+      "es": "ANGIOP.AI basa su funcionamiento en el entrenamiento, validación y evaluación de un modelo CycleGAN para procesar imágenes de angiotomografias sin contraste y transformarlas en imágenes similares a las que se obtendrían usando métodos de contraste; se entrena un CycleGan para leer una imagen de un dataset X (imágenes sin contraste) y transformarlo para que parezca como si perteneciera a un dataset Y (imágenes con contraste).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ANGIOP.AI está alineada al cumplimiento de los objetivos de desarrollo sostenible de las Naciones Unidas al 2030.",
+      "en": "ANGIOP.AI is aligned with the fulfillment of the United Nations sustainable development goals for 2030.",
+      "es": "ANGIOP.AI está alineada al cumplimiento de los objetivos de desarrollo sostenible de las Naciones Unidas al 2030.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Los datasets utilizados corresponden a los provistos por el Dr. Gonzalo Pullas, director de la carrera de Medicina en la Universidad de las Fuerzas Armadas; quien facilitó las imágenes de angiotomografias con contraste y angiotomografias simples (sin contraste) de 10 pacientes anónimos.",
+      "en": "The datasets used correspond to those provided by Dr. Gonzalo Pullas, director of the Medicine degree at the University of the Armed Forces; who provided the images of angiotomography with contrast and simple angiotomography (without contrast) of 10 anonymous patients.",
+      "es": "Los datasets utilizados corresponden a los provistos por el Dr. Gonzalo Pullas, director de la carrera de Medicina en la Universidad de las Fuerzas Armadas; quien facilitó las imágenes de angiotomografias con contraste y angiotomografias simples (sin contraste) de 10 pacientes anónimos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El total de imágenes facilitadas fueron de 5.144, de tamaño 512 x 512, en escala de grises, a las que se les aplicó una exploración de los datos — análisis estadístico para descartar imágenes a color y en 3D, sin datos atípicos y con Diferencias en distribución de pixeles (zonas / cortes). Es importante mencionar que las angiotomografías fueron tomadas en la misma zona anatómica, pero en diferentes oportunidades, es decir, las imágenes no corresponden a una paridad 1:1.",
+      "en": "The total number of images provided was 5,144, size 512 x 512, in gray scale, to which a data exploration was applied - statistical analysis to rule out color and 3D images, without atypical data and with differences in pixel distribution (zones / sections). It is important to mention that the angiotomograms were taken in the same anatomical area, but on different occasions, that is, the images do not correspond to 1:1 parity.",
+      "es": "El total de imágenes facilitadas fueron de 5.144, de tamaño 512 x 512, en escala de grises, a las que se les aplicó una exploración de los datos — análisis estadístico para descartar imágenes a color y en 3D, sin datos atípicos y con Diferencias en distribución de pixeles (zonas / cortes). Es importante mencionar que las angiotomografías fueron tomadas en la misma zona anatómica, pero en diferentes oportunidades, es decir, las imágenes no corresponden a una paridad 1:1.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El modelo utilizado es CycleGan con pre-procesamiento de imágenes de escala -1 a 1 para la entrada del modelo. Los discriminadores son redes convolucionales con 5 capas que receptan imágenes de 256×256. Las 4 capas son de definición de patrones y una capa de clasificación. El generador utiliza tres capas convolucionales y seis bloques residuales. Para el cálculo de las funciones de costos, tanto para las imágenes reales como falsas, se está utilizando el proceso del error cuadrático medio (mean squared error).",
+      "en": "The model used is CycleGan with -1 to 1 scale image pre-processing for model input. The discriminators are convolutional networks with 5 layers that receive 256x256 images. The 4 layers are pattern definition and a classification layer. The generator uses three convolutional layers and six residual blocks. To calculate the cost functions, both for real and fake images, the mean squared error process is being used.",
+      "es": "El modelo utilizado es CycleGan con pre-procesamiento de imágenes de escala -1 a 1 para la entrada del modelo. Los discriminadores son redes convolucionales con 5 capas que receptan imágenes de 256×256. Las 4 capas son de definición de patrones y una capa de clasificación. El generador utiliza tres capas convolucionales y seis bloques residuales. Para el cálculo de las funciones de costos, tanto para las imágenes reales como falsas, se está utilizando el proceso del error cuadrático medio (mean squared error).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El modelo utiliza los siguientes parámetros:",
+      "en": "The model uses the following parameters:",
+      "es": "El modelo utiliza los siguientes parámetros:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "20000 épocas",
+      "en": "20000 epochs",
+      "es": "20000 épocas",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Tasa de aprendizaje del 0,0001",
+      "en": "Learning rate of 0.0001",
+      "es": "Tasa de aprendizaje del 0,0001",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para el entrenamiento se aplicaron los siguientes pasos:",
+      "en": "The following steps were applied for training:",
+      "es": "Para el entrenamiento se aplicaron los siguientes pasos:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Seleccionar una cantidad de imágenes reales",
+      "en": "Select a number of real images",
+      "es": "Seleccionar una cantidad de imágenes reales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El generador toma las imágenes reales y les agrega ruido para crear una cantidad de imágenes falsas",
+      "en": "The generator takes the real images and adds noise to them to create a number of fake images",
+      "es": "El generador toma las imágenes reales y les agrega ruido para crear una cantidad de imágenes falsas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Entrenar al discriminador, haciendo que clasifique las imágenes como falsas o verdaderas un cierto número de veces o épocas",
+      "en": "Train the discriminator, making it classify the images as false or true a certain number of times or epochs",
+      "es": "Entrenar al discriminador, haciendo que clasifique las imágenes como falsas o verdaderas un cierto número de veces o épocas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Generar otra cantidad de imágenes falsas para entrenar el generador",
+      "en": "Generate another number of fake images to train the generator",
+      "es": "Generar otra cantidad de imágenes falsas para entrenar el generador",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Se entrena al modelo",
+      "en": "The model is trained",
+      "es": "Se entrena al modelo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para finalizar el modelo, se debe revisar la veracidad de la ejecución, revisando el gráfico de pérdidas a través del tiempo y revisando las muestras generadas por el modelo.",
+      "en": "To finalize the model, the veracity of the execution must be reviewed, reviewing the loss graph over time and reviewing the samples generated by the model.",
+      "es": "Para finalizar el modelo, se debe revisar la veracidad de la ejecución, revisando el gráfico de pérdidas a través del tiempo y revisando las muestras generadas por el modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Veamos los resultados:",
+      "en": "Let's see the results:",
+      "es": "Veamos los resultados:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Enseñar al modelo a validar las imágenes de entrada si corresponde a la zona angio toráxica.",
+      "en": "Teach the model to validate the input images if they correspond to the angiothoracic area.",
+      "es": "Enseñar al modelo a validar las imágenes de entrada si corresponde a la zona angio toráxica.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Aumentar el Dataset para futuros entrenamientos.",
+      "en": "Increase the Dataset for future training.",
+      "es": "Aumentar el Dataset para futuros entrenamientos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Se requiere una validación de las imágenes generadas con un panel de expertos médicos.",
+      "en": "Validation of the generated images with a panel of medical experts is required.",
+      "es": "Se requiere una validación de las imágenes generadas con un panel de expertos médicos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Usar la data generada para medir el impacto del uso del sistema en reducción de incidencia de enfermedades renales.",
+      "en": "Use the data generated to measure the impact of the use of the system on reducing the incidence of kidney diseases.",
+      "es": "Usar la data generada para medir el impacto del uso del sistema en reducción de incidencia de enfermedades renales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Desarrollar una aplicación Web.",
+      "en": "Develop a Web application.",
+      "es": "Desarrollar una aplicación Web.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "(1) Cueva Torres, Dr., F. (2021).",
+      "en": "(1) Cueva Torres, Dr., F. (2021).",
+      "es": "(1) Cueva Torres, Dr., F. (2021).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Epidemiología y Manejo de las Enfermedades de la Aorta — SIAC.",
+      "en": "Epidemiology and Management of Aortic Diseases — SIAC.",
+      "es": "Epidemiología y Manejo de las Enfermedades de la Aorta — SIAC.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Sociedad Interamericana de Cardiología.",
+      "en": "Inter-American Society of Cardiology.",
+      "es": "Sociedad Interamericana de Cardiología.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "(2) RadiologyInfo para pacientes (2020).",
+      "en": "(2) RadiologyInfo for patients (2020).",
+      "es": "(2) RadiologyInfo para pacientes (2020).",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Materiales de Contraste.",
+      "en": "Contrast Materials.",
+      "es": "Materiales de Contraste.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "World Heart Federation (2016) World Congress of cardiology & Cardiovascular Health",
+      "en": "World Heart Federation (2016) World Congress of cardiology & Cardiovascular Health",
+      "es": "World Heart Federation (2016) World Congress of cardiology &quot; Cardiovascular Health",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(4) Ferreira, J (2017)",
+      "en": "(4) Ferreira, J (2017)",
+      "es": "(4) Ferreira, J (2017)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Actualidad en nefropatía por medio de contraste",
+      "en": "News in contrast nephropathy",
+      "es": "Actualidad en nefropatía por medio de contraste",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". Universidad Pontificia Bolivariana, Medellín — Colombia. ELSEVIER Volumen 14 Número 2",
+      "en": ". Pontifical Bolivarian University, Medellín—Colombia. ELSEVIER Volume 14 Number 2",
+      "es": ". Universidad Pontificia Bolivariana, Medellín — Colombia. ELSEVIER Volumen 14 Número 2",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Diego Chiza, Ana Gayosso, Gabriela Jiménez, Paola Peralta,",
+      "en": "Diego Chiza, Ana Gayosso, Gabriela Jiménez, Paola Peralta,",
+      "es": "Diego Chiza, Ana Gayosso, Gabriela Jiménez, Paola Peralta,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Patricia Román",
+      "en": "Patricia Roman",
+      "es": "Patricia Román",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "José Daniel Sacoto, María Teresa Vergara, Hilario Villamar, David Medrano.",
+      "en": "José Daniel Sacoto, María Teresa Vergara, Hilario Villamar, David Medrano.",
+      "es": "José Daniel Sacoto, María Teresa Vergara, Hilario Villamar, David Medrano.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El código fuente de este proyecto se puede encontrar en:",
+      "en": "The source code for this project can be found at:",
+      "es": "El código fuente de este proyecto se puede encontrar en:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "CycleGan",
+      "en": "CycleGan",
+      "es": "CycleGan",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 9 mar 2022.",
+      "en": "A history of the Saturdays.AI community. Originally published on March 9, 2022.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 9 mar 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    }
+  ]
+}

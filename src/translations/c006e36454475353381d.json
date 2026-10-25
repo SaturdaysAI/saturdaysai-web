@@ -1,0 +1,329 @@
+{
+  "title": "Lovable vs. Bolt: ¿Cuál es la mejor opción para desarrollar una web app con Supabase?",
+  "route": "/2025/01/22/lovable-vs-bolt-cual-es-la-mejor-opcion-para-desarrollar-una-web-app-con-supabase/",
+  "segments": [
+    {
+      "source": "Lovable vs. Bolt: ¿Cuál es la mejor opción para desarrollar una web app con Supabase?",
+      "en": "Lovable vs. Bolt: What is the best option to develop a web app with Supabase?",
+      "es": "Lovable vs. Bolt: ¿Cuál es la mejor opción para desarrollar una web app con Supabase?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Lovable o Bolt? Descubre cuál de estas herramientas impulsadas por IA es la ideal para desarrollar tu próxima web app con Supabase. En este artículo, comparo ambas opciones mientras construyo una app para el manejo de…",
+      "en": "Lovable or Bolt? Discover which of these AI-powered tools is ideal for developing your next web app with Supabase. In this article, I compare both options while building an app for managing…",
+      "es": "¿Lovable o Bolt? Descubre cuál de estas herramientas impulsadas por IA es la ideal para desarrollar tu próxima web app con Supabase. En este artículo, comparo ambas opciones mientras construyo una app para el manejo de…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "22 ene 2025",
+      "en": "Jan 22, 2025",
+      "es": "22 ene 2025",
+      "reviewed": false
+    },
+    {
+      "source": "El Desafío: Crear una app de manejo de medicamentos",
+      "en": "The Challenge: Create a medication management app",
+      "es": "El Desafío: Crear una app de manejo de medicamentos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Primera Diferencia: Cómo generan las aplicaciones",
+      "en": "First Difference: How applications generate",
+      "es": "Primera Diferencia: Cómo generan las aplicaciones",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Conectando con Supabase",
+      "en": "Connecting with Supabase",
+      "es": "Conectando con Supabase",
+      "reviewed": false
+    },
+    {
+      "source": "¿Cuál es más fácil de usar?",
+      "en": "Which is easier to use?",
+      "es": "¿Cuál es más fácil de usar?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Personalización y Escalabilidad",
+      "en": "Customization and Scalability",
+      "es": "Personalización y Escalabilidad",
+      "reviewed": false
+    },
+    {
+      "source": "Mi Elección",
+      "en": "My Choice",
+      "es": "Mi Elección",
+      "reviewed": false
+    },
+    {
+      "source": "En un mundo donde la inteligencia artificial simplifica el desarrollo de aplicaciones, dos herramientas destacan:",
+      "en": "In a world where artificial intelligence simplifies application development, two tools stand out:",
+      "es": "En un mundo donde la inteligencia artificial simplifica el desarrollo de aplicaciones, dos herramientas destacan:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". Ambas prometen ayudarte a construir aplicaciones web en minutos, con integración directa con",
+      "en": ". Both promise to help you build web applications in minutes, with direct integration with",
+      "es": ". Ambas prometen ayudarte a construir aplicaciones web en minutos, con integración directa con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Supabase",
+      "en": "Supabase",
+      "es": "Supabase",
+      "reviewed": false
+    },
+    {
+      "source": ". Pero, ¿cuál elegir? En este artículo, compartiré mi experiencia usando ambas para desarrollar una aplicación de manejo de medicamentos y destacaré las diferencias clave.",
+      "en": ". But which one to choose? In this article, I will share my experience using both to develop a medication management app and highlight the key differences.",
+      "es": ". Pero, ¿cuál elegir? En este artículo, compartiré mi experiencia usando ambas para desarrollar una aplicación de manejo de medicamentos y destacaré las diferencias clave.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La meta era clara: desarrollar una aplicación web para registrar medicamentos, programar recordatorios y gestionar información médica, todo con una base de datos alojada en",
+      "en": "The goal was clear: develop a web application to record medications, schedule reminders and manage medical information, all with a database hosted on",
+      "es": "La meta era clara: desarrollar una aplicación web para registrar medicamentos, programar recordatorios y gestionar información médica, todo con una base de datos alojada en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". Como alguien que no es desarrollador profesional pero tiene curiosidad por herramientas de inteligencia artificial, quise comparar",
+      "en": ". As someone who is not a professional developer but is curious about AI tools, I wanted to compare",
+      "es": ". Como alguien que no es desarrollador profesional pero tiene curiosidad por herramientas de inteligencia artificial, quise comparar",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para ver cuál simplificaba más el proceso.",
+      "en": "to see which one simplified the process the most.",
+      "es": "para ver cuál simplificaba más el proceso.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": Genera la aplicación",
+      "en": ": Generate the application",
+      "es": ": Genera la aplicación",
+      "reviewed": false
+    },
+    {
+      "source": "por partes",
+      "en": "by parts",
+      "es": "por partes",
+      "reviewed": false
+    },
+    {
+      "source": ". Esto significa que trabajas página por página, dándole instrucciones específicas para cada sección. Por ejemplo, al crear una página para añadir medicamentos, tuve que definir los campos y configuraciones manualmente. Este enfoque te da más control, pero también requiere que estés más involucrado en cada paso del diseño y desarrollo. Ideal si quieres una experiencia",
+      "en": ". This means you work page by page, giving you specific instructions for each section. For example, when creating a page to add medications, I had to define the fields and settings manually. This approach gives you more control, but also requires you to be more involved in each step of design and development. Ideal if you want an experience",
+      "es": ". Esto significa que trabajas página por página, dándole instrucciones específicas para cada sección. Por ejemplo, al crear una página para añadir medicamentos, tuve que definir los campos y configuraciones manualmente. Este enfoque te da más control, pero también requiere que estés más involucrado en cada paso del diseño y desarrollo. Ideal si quieres una experiencia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "«hands-on»",
+      "en": "\"hands-on\"",
+      "es": "«hands-on»",
+      "reviewed": false
+    },
+    {
+      "source": ": Bolt toma un camino distinto: genera toda la aplicación",
+      "en": ": Bolt takes a different path: it generates the entire application",
+      "es": ": Bolt toma un camino distinto: genera toda la aplicación",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "de corrido",
+      "en": "in a row",
+      "es": "de corrido",
+      "reviewed": false
+    },
+    {
+      "source": ". En minutos, obtienes una web app completamente funcional, con las páginas principales ya conectadas entre sí. Aunque esto ahorra tiempo, implica que tienes menos flexibilidad para ajustar detalles específicos durante la generación inicial.",
+      "en": ". In minutes, you get a fully functional web app, with the main pages already connected to each other. While this saves time, it means you have less flexibility to fine-tune specific details during initial generation.",
+      "es": ". En minutos, obtienes una web app completamente funcional, con las páginas principales ya conectadas entre sí. Aunque esto ahorra tiempo, implica que tienes menos flexibilidad para ajustar detalles específicos durante la generación inicial.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Captura de pantalla del desarrollo con Lovable",
+      "en": "Screenshot of development with Lovable",
+      "es": "Captura de pantalla del desarrollo con Lovable",
+      "reviewed": false
+    },
+    {
+      "source": "Captura de pantalla del desarrollo con Bolt",
+      "en": "Screenshot of development with Bolt",
+      "es": "Captura de pantalla del desarrollo con Bolt",
+      "reviewed": false
+    },
+    {
+      "source": "Aquí es donde las diferencias se hacen más evidentes:",
+      "en": "This is where the differences become more evident:",
+      "es": "Aquí es donde las diferencias se hacen más evidentes:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": Permite conectar fácilmente con",
+      "en": ": Allows you to easily connect with",
+      "es": ": Permite conectar fácilmente con",
+      "reviewed": false
+    },
+    {
+      "source": "proyectos existentes",
+      "en": "existing projects",
+      "es": "proyectos existentes",
+      "reviewed": false
+    },
+    {
+      "source": "en Supabase. Solo necesitas tus credenciales de Supabase (URL y clave API), y Lovable configura las conexiones. Esto fue ideal para mi caso, ya que había configurado previamente una base de datos para manejar información de medicamentos. Además, la interfaz te guía paso a paso, lo que hace que sea sencillo interactuar con tablas ya creadas.",
+      "en": "on Supabase. You just need your Supabase credentials (URL and API key), and Lovable sets up the connections. This was ideal for my case, as I had previously set up a database to handle medication information. Plus, the interface guides you step by step, making it easy to interact with already created tables.",
+      "es": "en Supabase. Solo necesitas tus credenciales de Supabase (URL y clave API), y Lovable configura las conexiones. Esto fue ideal para mi caso, ya que había configurado previamente una base de datos para manejar información de medicamentos. Además, la interfaz te guía paso a paso, lo que hace que sea sencillo interactuar con tablas ya creadas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": Al conectar con Supabase, genera",
+      "en": ": When connecting with Supabase, it generates",
+      "es": ": Al conectar con Supabase, genera",
+      "reviewed": false
+    },
+    {
+      "source": "un proyecto nuevo",
+      "en": "a new project",
+      "es": "un proyecto nuevo",
+      "reviewed": false
+    },
+    {
+      "source": "en la plataforma. Esto puede ser útil si estás empezando desde cero, pero no es ideal si ya tienes datos o configuraciones existentes. Aunque la integración es rápida, me resultó menos flexible al intentar reutilizar bases de datos previamente configuradas.",
+      "en": "on the platform. This can be useful if you're starting from scratch, but it's not ideal if you already have existing data or configurations. Although the integration is quick, I found it less flexible when trying to reuse previously configured databases.",
+      "es": "en la plataforma. Esto puede ser útil si estás empezando desde cero, pero no es ideal si ya tienes datos o configuraciones existentes. Aunque la integración es rápida, me resultó menos flexible al intentar reutilizar bases de datos previamente configuradas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": Su enfoque por partes es más intuitivo si te gusta tener control sobre cada detalle. Sin embargo, puede ser un poco más laborioso si buscas rapidez.",
+      "en": ": Its piecemeal approach is more intuitive if you like to have control over every detail. However, it can be a little more laborious if you are looking for speed.",
+      "es": ": Su enfoque por partes es más intuitivo si te gusta tener control sobre cada detalle. Sin embargo, puede ser un poco más laborioso si buscas rapidez.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": Es extremadamente fácil para quienes quieren un producto funcional de inmediato. Pero si necesitas personalizar detalles durante el proceso inicial, puede quedarse corto.",
+      "en": ": It is extremely easy for those who want a functional product right away. But if you need to customize details during the initial process, it may fall short.",
+      "es": ": Es extremadamente fácil para quienes quieren un producto funcional de inmediato. Pero si necesitas personalizar detalles durante el proceso inicial, puede quedarse corto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "te permite construir cada componente de forma personalizada, lo que facilita adaptar la app a necesidades específicas. Es ideal para proyectos donde cada página tiene funcionalidades únicas.",
+      "en": "It allows you to build each component in a personalized way, making it easy to adapt the app to specific needs. It is ideal for projects where each page has unique functionalities.",
+      "es": "te permite construir cada componente de forma personalizada, lo que facilita adaptar la app a necesidades específicas. Es ideal para proyectos donde cada página tiene funcionalidades únicas.",
+      "reviewed": false
+    },
+    {
+      "source": "prioriza la velocidad, generando un esquema estándar que puede requerir ajustes posteriores si tu proyecto es más complejo.",
+      "en": "prioritizes speed, generating a standard outline that may require later adjustments if your project is more complex.",
+      "es": "prioriza la velocidad, generando un esquema estándar que puede requerir ajustes posteriores si tu proyecto es más complejo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para el desarrollo de mi app de manejo de medicamentos, comencé con",
+      "en": "To develop my medication management app, I started with",
+      "es": "Para el desarrollo de mi app de manejo de medicamentos, comencé con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". Su flexibilidad al trabajar con bases de datos existentes en Supabase fue crucial para mi proyecto. Sin embargo, exploré",
+      "en": ". Their flexibility in working with existing databases in Supabase was crucial for my project. However, I explored",
+      "es": ". Su flexibilidad al trabajar con bases de datos existentes en Supabase fue crucial para mi proyecto. Sin embargo, exploré",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "cuando necesitaba generar rápidamente una versión funcional para probar ideas.",
+      "en": "when I needed to quickly generate a working version to test ideas.",
+      "es": "cuando necesitaba generar rápidamente una versión funcional para probar ideas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ambas herramientas son útiles dependiendo del caso de uso:",
+      "en": "Both tools are useful depending on the use case:",
+      "es": "Ambas herramientas son útiles dependiendo del caso de uso:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si valoras el control y la personalización,",
+      "en": "If you value control and customization,",
+      "es": "Si valoras el control y la personalización,",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "es la mejor opción.",
+      "en": "It is the best option.",
+      "es": "es la mejor opción.",
+      "reviewed": false
+    },
+    {
+      "source": "Si necesitas rapidez y estás iniciando desde cero,",
+      "en": "If you need speed and are starting from scratch,",
+      "es": "Si necesitas rapidez y estás iniciando desde cero,",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "te ahorrará tiempo.",
+      "en": "it will save you time.",
+      "es": "te ahorrará tiempo.",
+      "reviewed": false
+    },
+    {
+      "source": "En conclusión, las herramientas como Lovable y Bolt están democratizando el desarrollo de aplicaciones, permitiendo que personas sin formación en programación creen soluciones funcionales. Sin embargo, la elección entre ambas depende de tus necesidades específicas y de cómo quieras interactuar con tu base de datos en Supabase.",
+      "en": "In conclusion, tools like Lovable and Bolt are democratizing application development, allowing people without programming training to create functional solutions. However, choosing between the two depends on your specific needs and how you want to interact with your database in Supabase.",
+      "es": "En conclusión, las herramientas como Lovable y Bolt están democratizando el desarrollo de aplicaciones, permitiendo que personas sin formación en programación creen soluciones funcionales. Sin embargo, la elección entre ambas depende de tus necesidades específicas y de cómo quieras interactuar con tu base de datos en Supabase.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Te invito a revisar dos versiones de la misma idea una usando Lovable y la otra usando Bolt.",
+      "en": "I invite you to review two versions of the same idea, one using Lovable and the other using Bolt.",
+      "es": "Te invito a revisar dos versiones de la misma idea una usando Lovable y la otra usando Bolt.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MediManage en Lovable:",
+      "en": "MediManage on Lovable:",
+      "es": "MediManage en Lovable:",
+      "reviewed": false
+    },
+    {
+      "source": "MediManage en Bolt:",
+      "en": "MediManage in Bolt:",
+      "es": "MediManage en Bolt:",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 ene 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on Jan 22, 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 ene 2025.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

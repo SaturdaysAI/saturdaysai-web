@@ -1,0 +1,580 @@
+{
+  "title": "Clasificación de idiomas originarios de Bolivia con Machine Learning",
+  "route": "/2021/11/19/clasificacion-idiomas-machine-learning/",
+  "segments": [
+    {
+      "source": "Clasificación de idiomas originarios de Bolivia con Machine Learning",
+      "en": "Classification of languages originating from Bolivia with Machine Learning",
+      "es": "Clasificación de idiomas originarios de Bolivia con Machine Learning",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La Paz. 2021 Usamos técnicas de Machine Learning para la clasificación de idiomas. Bolivia lucha para que no desaparezcan los idiomas indígenas, sin embargo, es aún muy complicado acceder a recursos que ayuden la asimilación y…",
+      "en": "Peace. 2021 We use Machine Learning techniques for language classification. Bolivia fights to ensure that indigenous languages do not disappear, however, it is still very difficult to access resources that help assimilation and...",
+      "es": "La Paz. 2021 Usamos técnicas de Machine Learning para la clasificación de idiomas. Bolivia lucha para que no desaparezcan los idiomas indígenas, sin embargo, es aún muy complicado acceder a recursos que ayuden la asimilación y…",
+      "reviewed": false
+    },
+    {
+      "source": "19 nov 2021",
+      "en": "Nov 19, 2021",
+      "es": "19 nov 2021",
+      "reviewed": false
+    },
+    {
+      "source": "EVELYN CUSI LOPEZ",
+      "en": "EVELYN CUSI LOPEZ",
+      "es": "EVELYN CUSI LOPEZ",
+      "reviewed": false
+    },
+    {
+      "source": "¡Más Inteligencia artificial!",
+      "en": "More Artificial Intelligence!",
+      "es": "¡Más Inteligencia artificial!",
+      "reviewed": false
+    },
+    {
+      "source": "Usamos técnicas de Machine Learning para la clasificación de idiomas.",
+      "en": "We use Machine Learning techniques for language classification.",
+      "es": "Usamos técnicas de Machine Learning para la clasificación de idiomas.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Bolivia lucha para que no desaparezcan los idiomas indígenas, sin embargo, es aún muy complicado acceder a recursos que ayuden la asimilación y aprendizaje de los mismos. Es por ello que planteamos crear una herramienta con Machine Learning para la clasificación de idiomas, que si bien es una tarea sencilla es elemental para realizar tareas más complejas como la traducción automática, el análisis de sentimientos, conversión de habla a texto, texto a habla, etc. Este modelo de clasificación se creó usando herramientas de NLP (procesamiento de lenguaje natural) y ML (aprendizaje automático), obteniendo una precisión superior al 99%.",
+      "en": "Bolivia fights to ensure that indigenous languages do not disappear, however, it is still very difficult to access resources that help their assimilation and learning. That is why we propose to create a tool with Machine Learning for language classification, which, although it is a simple task, is essential to perform more complex tasks such as automatic translation, sentiment analysis, speech-to-text conversion, text-to-speech, etc. This classification model was created using NLP (natural language processing) and ML (machine learning) tools, obtaining an accuracy of over 99%.",
+      "es": "Bolivia lucha para que no desaparezcan los idiomas indígenas, sin embargo, es aún muy complicado acceder a recursos que ayuden la asimilación y aprendizaje de los mismos. Es por ello que planteamos crear una herramienta con Machine Learning para la clasificación de idiomas, que si bien es una tarea sencilla es elemental para realizar tareas más complejas como la traducción automática, el análisis de sentimientos, conversión de habla a texto, texto a habla, etc. Este modelo de clasificación se creó usando herramientas de NLP (procesamiento de lenguaje natural) y ML (aprendizaje automático), obteniendo una precisión superior al 99%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Desde 2006 Bolivia es líder en la defensa y reivindicación de los pueblos y las culturas indígenas en su territorio y en el mundo.",
+      "en": "Since 2006, Bolivia has been a leader in the defense and vindication of indigenous peoples and cultures in its territory and in the world.",
+      "es": "Desde 2006 Bolivia es líder en la defensa y reivindicación de los pueblos y las culturas indígenas en su territorio y en el mundo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "“Hoy en día, las 36 lenguas originarias en Bolivia son idiomas oficiales. En Bolivia se tiene que hablar y enseñar inicialmente un idioma originario» [1].",
+      "en": "\"Today, the 36 native languages in Bolivia are official languages. In Bolivia, an indigenous language must initially be spoken and taught\" [1].",
+      "es": "“Hoy en día, las 36 lenguas originarias en Bolivia son idiomas oficiales. En Bolivia se tiene que hablar y enseñar inicialmente un idioma originario» [1].",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero todo esté trabajo ¿realmente tiene resultados positivos en la asimilación y aprendizaje de las lenguas originarias en Bolivia?.",
+      "en": "But does all this work really have positive results in the assimilation and learning of the native languages in Bolivia?",
+      "es": "Pero todo esté trabajo ¿realmente tiene resultados positivos en la asimilación y aprendizaje de las lenguas originarias en Bolivia?.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si bien en nuestro país se lucha porque no desaparezcan estos idiomas indígenas es aún muy complicado acceder a recursos que ayuden la asimilación y aprendizaje de los mismos.",
+      "en": "Although in our country we fight to ensure that these indigenous languages do not disappear, it is still very difficult to access resources that help their assimilation and learning.",
+      "es": "Si bien en nuestro país se lucha porque no desaparezcan estos idiomas indígenas es aún muy complicado acceder a recursos que ayuden la asimilación y aprendizaje de los mismos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sin embargo, actualmente se puede usar la tecnología como un aliado para solucionar este problema y la detección de idiomas es un punto inicial y primordial para crear herramientas de traducción automática de texto, de conversión de texto a voz, voz a texto, voz a voz, entre muchas otras aplicaciones.",
+      "en": "However, technology can currently be used as an ally to solve this problem and language detection is an initial and essential point to create tools for automatic text translation, text-to-speech conversion, voice-to-text, voice-to-speech, among many other applications.",
+      "es": "Sin embargo, actualmente se puede usar la tecnología como un aliado para solucionar este problema y la detección de idiomas es un punto inicial y primordial para crear herramientas de traducción automática de texto, de conversión de texto a voz, voz a texto, voz a voz, entre muchas otras aplicaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Crear una herramienta con Machine Learning capaz de identificar y clasificar idiomas originarios de Bolivia, para agilizar tareas relacionadas como la traducción, recuperación de la información, etc.",
+      "en": "Create a tool with Machine Learning capable of identifying and classifying languages originating from Bolivia, to speed up related tasks such as translation, information retrieval, etc.",
+      "es": "Crear una herramienta con Machine Learning capaz de identificar y clasificar idiomas originarios de Bolivia, para agilizar tareas relacionadas como la traducción, recuperación de la información, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Límites y alcances",
+      "en": "Limits and scope",
+      "es": "Límites y alcances",
+      "reviewed": false
+    },
+    {
+      "source": "LÍMITES",
+      "en": "LIMITS",
+      "es": "LÍMITES",
+      "reviewed": false
+    },
+    {
+      "source": ": Debido a la dificultad de conseguir un conjunto de datos suficientemente grande de los idiomas más hablados en Bolivia (quechua, guaraní, aymara), solo nos centramos en el idioma quechua.",
+      "en": ": Due to the difficulty of obtaining a sufficiently large data set of the most spoken languages in Bolivia (Quechua, Guaraní, Aymara), we only focus on the Quechua language.",
+      "es": ": Debido a la dificultad de conseguir un conjunto de datos suficientemente grande de los idiomas más hablados en Bolivia (quechua, guaraní, aymara), solo nos centramos en el idioma quechua.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ALCANCES",
+      "en": "SCOPES",
+      "es": "ALCANCES",
+      "reviewed": false
+    },
+    {
+      "source": ": La herramienta de identificación, en una primera etapa, será capaz de clasificar el idioma de frases ya sea como quechua o español.",
+      "en": ": The identification tool, in a first stage, will be able to classify the language of phrases as either Quechua or Spanish.",
+      "es": ": La herramienta de identificación, en una primera etapa, será capaz de clasificar el idioma de frases ya sea como quechua o español.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Metodología",
+      "en": "Methodology",
+      "es": "Metodología",
+      "reviewed": false
+    },
+    {
+      "source": "Para la clasificación de idiomas mediante Machine Learning se utilizó una metodología iterativa incremental, que conlleva las siguientes fases:",
+      "en": "For language classification using Machine Learning, an incremental iterative methodology was used, which involves the following phases:",
+      "es": "Para la clasificación de idiomas mediante Machine Learning se utilizó una metodología iterativa incremental, que conlleva las siguientes fases:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 1. Metodología (Dataiku)",
+      "en": "Figure 1. Methodology (Dataiku)",
+      "es": "Figura 1. Metodología (Dataiku)",
+      "reviewed": false
+    },
+    {
+      "source": "Captura de datos",
+      "en": "Data capture",
+      "es": "Captura de datos",
+      "reviewed": false
+    },
+    {
+      "source": "Posterior a la creación del dataset nos dimos cuenta que éste estaba desbalanceado porque el número de frases en quechua duplicaban el de español, por esa razón decidimos balancear los datos agregando frases de español obtenidos de un dataset de Kaggle.",
+      "en": "After creating the dataset, we realized that it was unbalanced because the number of phrases in Quechua doubled that of Spanish, for that reason we decided to balance the data by adding Spanish phrases obtained from a Kaggle dataset.",
+      "es": "Posterior a la creación del dataset nos dimos cuenta que éste estaba desbalanceado porque el número de frases en quechua duplicaban el de español, por esa razón decidimos balancear los datos agregando frases de español obtenidos de un dataset de Kaggle.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 2. Captura de datos (Imagen extraída de un",
+      "en": "Figure 2. Data capture (Image extracted from a",
+      "es": "Figura 2. Captura de datos (Imagen extraída de un",
+      "reviewed": false
+    },
+    {
+      "source": "sitio web",
+      "en": "website",
+      "es": "sitio web",
+      "reviewed": false
+    },
+    {
+      "source": "Pre-procesamiento",
+      "en": "Pre-processing",
+      "es": "Pre-procesamiento",
+      "reviewed": false
+    },
+    {
+      "source": "En esta etapa se realizaron diversas formas de pre-procesamiento, desde la ingeniería de características (feature engineering) hasta la vectorización. Las cuales se describen a continuación.",
+      "en": "At this stage, various forms of pre-processing were carried out, from feature engineering to vectorization. Which are described below.",
+      "es": "En esta etapa se realizaron diversas formas de pre-procesamiento, desde la ingeniería de características (feature engineering) hasta la vectorización. Las cuales se describen a continuación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Limpieza de caracteres irrelevantes",
+      "en": "Cleaning irrelevant characters",
+      "es": "Limpieza de caracteres irrelevantes",
+      "reviewed": false
+    },
+    {
+      "source": "Las frases en español de Kaggle tenían caracteres de otros idiomas e irrelevantes para la clasificación, es por ello que antes de unir con el dataset que se tenía se pasó a realizar una limpieza de todos esos caracteres de las frases de Kaggle. Una vez unido el dataset aún se tenían caracteres que no aportaban información como: dígitos, signos de puntuación, etc. y por tanto se realizó una limpieza de estos caracteres.",
+      "en": "The Spanish phrases from Kaggle had characters from other languages and irrelevant for the classification, which is why before joining with the dataset that was available, all those characters from the Kaggle phrases were cleaned. Once the dataset was joined, there were still characters that did not provide information such as: digits, punctuation marks, etc. and therefore a cleaning of these characters was carried out.",
+      "es": "Las frases en español de Kaggle tenían caracteres de otros idiomas e irrelevantes para la clasificación, es por ello que antes de unir con el dataset que se tenía se pasó a realizar una limpieza de todos esos caracteres de las frases de Kaggle. Una vez unido el dataset aún se tenían caracteres que no aportaban información como: dígitos, signos de puntuación, etc. y por tanto se realizó una limpieza de estos caracteres.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En base a la información del dataset se pudo notar que había un dato mal tabulado y se realizó la imputación de datos por valores nulos. Por otro lado, como el dataset cuenta con solo un feature y el target, no se tuvo la necesidad de reducir las dimensiones.",
+      "en": "Based on the information in the dataset, it was noted that there was incorrectly tabulated data and data imputation was carried out using null values. On the other hand, since the dataset has only one feature and the target, there was no need to reduce the dimensions.",
+      "es": "En base a la información del dataset se pudo notar que había un dato mal tabulado y se realizó la imputación de datos por valores nulos. Por otro lado, como el dataset cuenta con solo un feature y el target, no se tuvo la necesidad de reducir las dimensiones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Análisis de los features",
+      "en": "Analysis of the features",
+      "es": "Análisis de los features",
+      "reviewed": false
+    },
+    {
+      "source": "Cada idioma tiene sus propias reglas gramaticales y el idioma Quechua no es ajeno a eso, por ende se investigó las reglas de este idioma y se pudo notar ciertas características interesantes que lo diferencian de otros idiomas, por mencionar algunas:",
+      "en": "Each language has its own grammatical rules and the Quechua language is no stranger to that, therefore the rules of this language were investigated and certain interesting characteristics were noticed that differentiate it from other languages, to mention a few:",
+      "es": "Cada idioma tiene sus propias reglas gramaticales y el idioma Quechua no es ajeno a eso, por ende se investigó las reglas de este idioma y se pudo notar ciertas características interesantes que lo diferencian de otros idiomas, por mencionar algunas:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El alfabeto quechua cuenta con 28 consonantes (algunas consonantes son diferentes al de español como: ch’, chh, qh, p’) y 3 vocales (a, i, u)",
+      "en": "The Quechua alphabet has 28 consonants (some consonants are different from Spanish, such as: ch', chh, qh, p') and 3 vowels (a, i, u)",
+      "es": "El alfabeto quechua cuenta con 28 consonantes (algunas consonantes son diferentes al de español como: ch’, chh, qh, p’) y 3 vocales (a, i, u)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las consonantes del quechua se clasifican según el modo de articulación, algunas de estas son:",
+      "en": "Quechua consonants are classified according to the mode of articulation, some of these are:",
+      "es": "Las consonantes del quechua se clasifican según el modo de articulación, algunas de estas son:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "O_clusivas (p, t, k, q)_",
+      "en": "Plosives (p, t, k, q)",
+      "es": "O_clusivas (p, t, k, q)_",
+      "reviewed": false
+    },
+    {
+      "source": "Aspiradas (ph, th, chh, kh, qh)",
+      "en": "Aspirated (ph, th, chh, kh, qh)",
+      "es": "Aspiradas (ph, th, chh, kh, qh)",
+      "reviewed": false
+    },
+    {
+      "source": "Glotalizadas (p’, t’, ch’, k’, q’)",
+      "en": "Glottalized (p', t', ch', k', q')",
+      "es": "Glotalizadas (p’, t’, ch’, k’, q’)",
+      "reviewed": false
+    },
+    {
+      "source": "Semiconsonantes (w, y)",
+      "en": "Semiconsonants (w, y)",
+      "es": "Semiconsonantes (w, y)",
+      "reviewed": false
+    },
+    {
+      "source": "3. Para diferenciar el género de una persona se usan las palabras: warmi y qhari",
+      "en": "3. To differentiate the gender of a person, the words are used: warmi and qhari",
+      "es": "3. Para diferenciar el género de una persona se usan las palabras: warmi y qhari",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "4. La interrogación en el quechua se realiza agregando a la palabra el sufijo -chu.",
+      "en": "4. The interrogation in Quechua is made by adding the suffix -chu to the word.",
+      "es": "4. La interrogación en el quechua se realiza agregando a la palabra el sufijo -chu.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Estas y muchas más características de la gramática Quechua, así como la gramática del Español fueron tomadas en cuenta para realizar las gráficas, las cuales nos permiten corroborar estas diferencias entre las reglas gramaticales en el dataset.",
+      "en": "These and many more characteristics of Quechua grammar, as well as Spanish grammar, were taken into account to create the graphs, which allow us to corroborate these differences between the grammatical rules in the dataset.",
+      "es": "Estas y muchas más características de la gramática Quechua, así como la gramática del Español fueron tomadas en cuenta para realizar las gráficas, las cuales nos permiten corroborar estas diferencias entre las reglas gramaticales en el dataset.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Uno de los gráficos que realizamos fue la frecuencia de las vocales por idioma en el dataset (Figura 3). La frecuencia de las vocales fueron calculadas según el número de caracteres de cada frase.",
+      "en": "One of the graphs we made was the frequency of vowels by language in the dataset (Figure 3). The frequencies of the vowels were calculated according to the number of characters in each sentence.",
+      "es": "Uno de los gráficos que realizamos fue la frecuencia de las vocales por idioma en el dataset (Figura 3). La frecuencia de las vocales fueron calculadas según el número de caracteres de cada frase.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 3. Frecuencia de vocales (Elaboración propia)",
+      "en": "Figure 3. Vowel frequency (Own elaboration)",
+      "es": "Figura 3. Frecuencia de vocales (Elaboración propia)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Otras gráficas que realizamos fueron la frecuencia de las consonantes como:",
+      "en": "Other graphs we made were the frequency of consonants such as:",
+      "es": "Otras gráficas que realizamos fueron la frecuencia de las consonantes como:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "K, H, M, R",
+      "en": "K, H, M, R",
+      "es": "K, H, M, R",
+      "reviewed": false
+    },
+    {
+      "source": "(Figura 4) y caracteres especiales como:",
+      "en": "(Figure 4) and special characters such as:",
+      "es": "(Figura 4) y caracteres especiales como:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "á, é, í, ó, ú, ä, ü, ‘",
+      "en": "á, é, í, ó, ú, ä, ü, '",
+      "es": "á, é, í, ó, ú, ä, ü, ‘",
+      "reviewed": false
+    },
+    {
+      "source": "(Figura 4), según el idioma.",
+      "en": "(Figure 4), depending on the language.",
+      "es": "(Figura 4), según el idioma.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 4. Histograma de caracteres (Elaboración propia)",
+      "en": "Figure 4. Character histogram (Own creation)",
+      "es": "Figura 4. Histograma de caracteres (Elaboración propia)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Estas gráficas nos permitieron aclarar algunas dudas sobre las diferencias gramaticales entre el idioma Español y Quechua, y representaron un punto clave para realizar el pre-procesamiento de los datos.",
+      "en": "These graphs allowed us to clarify some doubts about the grammatical differences between the Spanish and Quechua languages, and represented a key point to carry out the pre-processing of the data.",
+      "es": "Estas gráficas nos permitieron aclarar algunas dudas sobre las diferencias gramaticales entre el idioma Español y Quechua, y representaron un punto clave para realizar el pre-procesamiento de los datos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por las diferencias de algunas letras y caracteres utilizados para cada idioma, además de ciertos sufijos o prefijos propios, numeración y demás características, decidimos vectorizar las frases según el modelo n-gram de caracteres. Para capturar características importantes en ambos idiomas delimitamos el modelo n-gram de 1 a 5, esto por temas de rendimiento y también porque consideramos que este número nos permite abstraer aquellas características gramaticales que citamos anteriormente.",
+      "en": "Due to the differences in some letters and characters used for each language, in addition to certain suffixes or prefixes, numbering and other characteristics, we decided to vectorize the phrases according to the n-gram character model. To capture important characteristics in both languages, we delimit the n-gram model from 1 to 5, this for performance reasons and also because we consider that this number allows us to abstract those grammatical characteristics that we mentioned above.",
+      "es": "Por las diferencias de algunas letras y caracteres utilizados para cada idioma, además de ciertos sufijos o prefijos propios, numeración y demás características, decidimos vectorizar las frases según el modelo n-gram de caracteres. Para capturar características importantes en ambos idiomas delimitamos el modelo n-gram de 1 a 5, esto por temas de rendimiento y también porque consideramos que este número nos permite abstraer aquellas características gramaticales que citamos anteriormente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 5: Pre-procesamiento y vectorización de los features (Elaboración propia)",
+      "en": "Figure 5: Pre-processing and vectorization of the features (Own creation)",
+      "es": "Figura 5: Pre-procesamiento y vectorización de los features (Elaboración propia)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Además de vectorizar las frases según la frecuencia de caracteres únicos que tiene cada frase se aplicó la frecuencia TF-IDF, medida estadística que evalúa cuán relevante es un término para un documento en una colección. En este caso cada término es representado por cada carácter y el documento es representado por la frase del idioma en el dataset (colección de frases).",
+      "en": "In addition to vectorizing the phrases according to the frequency of unique characters that each phrase has, the TF-IDF frequency was applied, a statistical measure that evaluates how relevant a term is for a document in a collection. In this case each term is represented by each character and the document is represented by the language phrase in the dataset (collection of phrases).",
+      "es": "Además de vectorizar las frases según la frecuencia de caracteres únicos que tiene cada frase se aplicó la frecuencia TF-IDF, medida estadística que evalúa cuán relevante es un término para un documento en una colección. En este caso cada término es representado por cada carácter y el documento es representado por la frase del idioma en el dataset (colección de frases).",
+      "reviewed": false
+    },
+    {
+      "source": "Selección y evaluación de modelos",
+      "en": "Model selection and evaluation",
+      "es": "Selección y evaluación de modelos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con los datos listos se procedió a construir los modelos de predicción. Se utilizaron modelos de clasificación debido a que tenemos un problema de clasificación binaria, sólo se tienen dos posibles etiquetas,",
+      "en": "With the data ready, the prediction models were built. Classification models were used because we have a binary classification problem, there are only two possible labels,",
+      "es": "Con los datos listos se procedió a construir los modelos de predicción. Se utilizaron modelos de clasificación debido a que tenemos un problema de clasificación binaria, sólo se tienen dos posibles etiquetas,",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "“Quechua” y “Español”.",
+      "en": "“Quechua” and “Spanish”.",
+      "es": "“Quechua” y “Español”.",
+      "reviewed": false
+    },
+    {
+      "source": "Por lo tanto, se utilizaron los siguientes algoritmos de aprendizaje supervisado:",
+      "en": "Therefore, the following supervised learning algorithms were used:",
+      "es": "Por lo tanto, se utilizaron los siguientes algoritmos de aprendizaje supervisado:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Naive Bayes",
+      "en": "Naïve Bayes",
+      "es": "Naive Bayes",
+      "reviewed": false
+    },
+    {
+      "source": "Support vector Machine",
+      "en": "Support vector Machine",
+      "es": "Support vector Machine",
+      "reviewed": false
+    },
+    {
+      "source": "Logistic regression",
+      "en": "Logistic regression",
+      "es": "Logistic regression",
+      "reviewed": false
+    },
+    {
+      "source": "Para encontrar la mejor combinación de hiperparámetros se utilizo GridSearch de la biblioteca Sklearn.",
+      "en": "To find the best combination of hyperparameters, GridSearch from the Sklearn library was used.",
+      "es": "Para encontrar la mejor combinación de hiperparámetros se utilizo GridSearch de la biblioteca Sklearn.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las matrices de confusión para los 3 modelos son:",
+      "en": "The confusion matrices for the 3 models are:",
+      "es": "Las matrices de confusión para los 3 modelos son:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 6. Matrices de confusión, balanced accuracy y tiempo de ejecución de los 3 modelos (Elaboración propia)",
+      "en": "Figure 6. Confusion matrices, balanced accuracy and execution time of the 3 models (Own elaboration)",
+      "es": "Figura 6. Matrices de confusión, balanced accuracy y tiempo de ejecución de los 3 modelos (Elaboración propia)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Clasificación de nuevos datos",
+      "en": "Classification of new data",
+      "es": "Clasificación de nuevos datos",
+      "reviewed": false
+    },
+    {
+      "source": "Una vez seleccionado nuestro mejor modelo, es necesario probarlo con algunas frases nunca antes vistas, por ello probamos frases que solo contienen palabras de un idioma, frases que contienen palabras de ambos idiomas que es usual en el habla coloquial de los quechua hablantes y por último una frase sin sentido. Nuestro modelo seleccionado se comporta bien con los dos primeros tipos de frases, sin embargo, al ingresar frases sin sentido que no pertenece ni al español o al quechua, estas frases son clasificadas directamente como quechua, esto se debe a que como manejamos un modelo binario el texto ingresado sea cual sea debe etiquetarlos con una etiqueta u otra.",
+      "en": "Once we have selected our best model, it is necessary to test it with some phrases never seen before, so we test phrases that only contain words from one language, phrases that contain words from both languages that is common in the colloquial speech of Quechua speakers and finally a meaningless phrase. Our selected model behaves well with the first two types of phrases, however, when entering meaningless phrases that do not belong to either Spanish or Quechua, these phrases are directly classified as Quechua, this is because as we handle a binary model, the entered text must be tagged with one label or another.",
+      "es": "Una vez seleccionado nuestro mejor modelo, es necesario probarlo con algunas frases nunca antes vistas, por ello probamos frases que solo contienen palabras de un idioma, frases que contienen palabras de ambos idiomas que es usual en el habla coloquial de los quechua hablantes y por último una frase sin sentido. Nuestro modelo seleccionado se comporta bien con los dos primeros tipos de frases, sin embargo, al ingresar frases sin sentido que no pertenece ni al español o al quechua, estas frases son clasificadas directamente como quechua, esto se debe a que como manejamos un modelo binario el texto ingresado sea cual sea debe etiquetarlos con una etiqueta u otra.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 7. Resultados del modelos (Elaboración propia)",
+      "en": "Figure 7. Model results (own elaboration)",
+      "es": "Figura 7. Resultados del modelos (Elaboración propia)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En general, el modelo de Machine Learning para la clasificación de idiomas basado en Support Vector Machine ofrece el mejor resultado predictivo con una puntuación de precisión balanceada superior al 99%.",
+      "en": "Overall, the Machine Learning model for language classification based on Support Vector Machine offers the best predictive result with a balanced accuracy score of over 99%.",
+      "es": "En general, el modelo de Machine Learning para la clasificación de idiomas basado en Support Vector Machine ofrece el mejor resultado predictivo con una puntuación de precisión balanceada superior al 99%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Específicamente, el modelo funciona bien para clasificar Español y Quechua dada la alta precisión, y puntajes f1 para estos dos idiomas.",
+      "en": "Specifically, the model works well for classifying Spanish and Quechua given the high precision, and f1 scores for these two languages.",
+      "es": "Específicamente, el modelo funciona bien para clasificar Español y Quechua dada la alta precisión, y puntajes f1 para estos dos idiomas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si bien la mejor precisión se obtuvo con SVM, considerando las variables precisión y rendimiento el mejor modelo sería el basado en Regresión Logística, ya que ofrece un tiempo de ejecución menor al de SVM y tiene una precisión superior al 99%, lo cual es un factor importante en aplicaciones en real time.",
+      "en": "Although the best precision was obtained with SVM, considering the precision and performance variables, the best model would be the one based on Logistic Regression, since it offers a shorter execution time than SVM and has an accuracy greater than 99%, which is an important factor in real-time applications.",
+      "es": "Si bien la mejor precisión se obtuvo con SVM, considerando las variables precisión y rendimiento el mejor modelo sería el basado en Regresión Logística, ya que ofrece un tiempo de ejecución menor al de SVM y tiene una precisión superior al 99%, lo cual es un factor importante en aplicaciones en real time.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se logró abstraer algunas características del idioma quechua, por lo que es posible realizar el mismo análisis con otros idiomas originarios de Bolivia",
+      "en": "It was possible to abstract some characteristics of the Quechua language, making it possible to carry out the same analysis with other languages originating from Bolivia.",
+      "es": "Se logró abstraer algunas características del idioma quechua, por lo que es posible realizar el mismo análisis con otros idiomas originarios de Bolivia",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Trabajos futuros",
+      "en": "Future jobs",
+      "es": "Trabajos futuros",
+      "reviewed": false
+    },
+    {
+      "source": "Si bien este problema aparenta ser sencillo es un paso necesario para:",
+      "en": "Although this problem appears to be simple, it is a necessary step to:",
+      "es": "Si bien este problema aparenta ser sencillo es un paso necesario para:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Traducción automática",
+      "en": "Automatic translation",
+      "es": "Traducción automática",
+      "reviewed": false
+    },
+    {
+      "source": "Detección de idioma para el uso de boots",
+      "en": "Language detection for the use of boots",
+      "es": "Detección de idioma para el uso de boots",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Análisis de sentimientos, etc.",
+      "en": "Sentiment analysis, etc.",
+      "es": "Análisis de sentimientos, etc.",
+      "reviewed": false
+    },
+    {
+      "source": "El codigo fuente de este proyecto se puede encontrar en:",
+      "en": "The source code for this project can be found at:",
+      "es": "El codigo fuente de este proyecto se puede encontrar en:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "github",
+      "en": "github",
+      "es": "github",
+      "reviewed": false
+    },
+    {
+      "source": "Referencias",
+      "en": "References",
+      "es": "Referencias",
+      "reviewed": false
+    },
+    {
+      "source": "ONU – Bolivia, a la vanguardia en la protección y promoción de las lenguas indígenas",
+      "en": "UN – Bolivia, at the forefront in the protection and promotion of indigenous languages",
+      "es": "ONU – Bolivia, a la vanguardia en la protección y promoción de las lenguas indígenas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Supervised Learning",
+      "en": "Supervised Learning",
+      "es": "Supervised Learning",
+      "reviewed": false
+    },
+    {
+      "source": "Tf Idf",
+      "en": "Tf Idf",
+      "es": "Tf Idf",
+      "reviewed": false
+    },
+    {
+      "source": "En el siguiente repositorio se encuentra el código usado para desarrollar esa aplicación:",
+      "en": "In the following repository you will find the code used to develop that application:",
+      "es": "En el siguiente repositorio se encuentra el código usado para desarrollar esa aplicación:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 19 nov 2021.",
+      "en": "A history of the Saturdays.AI community. Originally published on Nov 19, 2021.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 19 nov 2021.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Identificar violencia en la música con Inteligencia Artificial. ¿Oímos o escuchamos música?",
+      "en": "Identify violence in music with Artificial Intelligence. Do we hear or listen to music?",
+      "es": "Identificar violencia en la música con Inteligencia Artificial. ¿Oímos o escuchamos música?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "23 min read",
+      "en": "23 min read",
+      "es": "23 min read",
+      "reviewed": false
+    },
+    {
+      "source": "Procesamiento del Leguaje Natural (PLN) para el Análisis de Ofertas de Trabajo",
+      "en": "Natural Language Processing (PLN) for the Analysis of Job Offers",
+      "es": "Procesamiento del Leguaje Natural (PLN) para el Análisis de Ofertas de Trabajo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Apr 6, 2022",
+      "en": "Apr 6, 2022",
+      "es": "Apr 6, 2022",
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "title": "La Paz, Machine Learning",
+  "route": "/la-paz/ml/",
+  "segments": [
+    {
+      "source": "Neighborhood-Based",
+      "en": "Neighborhood-Based",
+      "es": "Barrio-Basado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tree-Based",
+      "en": "Tree-Based",
+      "es": "Base de árboles",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ensemble",
+      "en": "Ensemble",
+      "es": "Ensemble",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Linear and Non-linear",
+      "en": "Linear and Non-linear",
+      "es": "Linear y no lineal",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Dimensionality",
+      "en": "Dimensionality",
+      "es": "Dimensión",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Federico dos Reis 🇦🇷",
+      "en": "Federico dos Reis",
+      "es": "Federico dos Reis 🇦 Desnudez",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "**Stanley",
+      "en": "* * Stanley",
+      "es": "¡Stanley!",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "AI Saturdays La Paz Machine Learning",
+      "en": "AI Saturdays La Paz Machine Learning",
+      "es": "AI Saturdays La Paz Machine Learning",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": 06 de Julio",
+      "en": ": July 06",
+      "es": ": 06 de Julio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": Machine Learning 3º edición",
+      "en": ": Machine Learning 3rd edition",
+      "es": ": Machine Learning 3º edición",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": 150 USD / Bs. 1050",
+      "en": ": 150 USD / Bs. 1050",
+      "es": ": 150 USD / Bs. 1050",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "113 USD / Bs. 791 (Promo válida hasta el 27/06)",
+      "en": "USD 113 / Bs. 791 (Proof valid until 27 / 06)",
+      "es": "113 USD / Bs. 791 (Promo válida hasta el 27/06)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "105 USD / Bs. 735",
+      "en": "105 USD / Bs. 735",
+      "es": "105 USD / Bs. 735",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inscripciones",
+      "en": "Registration",
+      "es": "Inscripciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Methods",
+      "en": "Methods",
+      "es": "Métodos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
+      "en": "We will start with basic concepts with Machine Learning. Then we will start with Machine Learning supervised by viewing the first methods of Machine Learning: K Nearest Neighbors, K-D trees. We will also review the Netflix case.",
+      "es": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
+      "en": "We will continue with the different methods based on decision trees: Decision Trees, Return Trees, Classification Trees. We will review CHAID, CART.",
+      "es": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
+      "en": "We will use Ensemble Methods to combine models and produce better results. We will review Boosting (Adaboost, Stochastic Gradient Boosting), Bagging (Random Forest).",
+      "es": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Culminaremos la etapa de Machine Learning supervisado revisando Linear Regression, Logistic Regression, Shrinkage Methods y Support Vector Machines",
+      "en": "We will complete the supervised Machine Learning phase by reviewing Linear Return, Logistic Return, Shrinkage Methods and Support Vector Machines",
+      "es": "Culminaremos la etapa de Machine Learning supervisado revisando Linear Regression, Logistic Regression, Shrinkage Methods y Support Vector Machines",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Reduction​",
+      "en": "Reduction",
+      "es": "Reducción",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
+      "en": "We will start the Unsupervised Machine Learning phase with the reduction of dimensionality. We will see Principal Component Analysis, Linear Discrimination Analysis and t-SNE.",
+      "es": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Concretaremos la etapa de Machine Learning no supervisado con los métodos de clustering. Veremos K-Means Clustering, Hierarchical Clustering, DBSCAN.",
+      "en": "We will set the stage of Machine Learning unsupervised with the methods of clustering. We will see K-Means Clustering, Hierarchical Clustering, DBSCAN.",
+      "es": "Concretaremos la etapa de Machine Learning no supervisado con los métodos de clustering. Veremos K-Means Clustering, Hierarchical Clustering, DBSCAN.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
+      "en": "We will review the introduction to Deep Learning and the Natural Language Processing.",
+      "es": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fundamentos de cloud y uso de Amazon Web Services para el deploy de modelos de Machine Learning.",
+      "en": "Cloud foundations and use of Amazon Web Services for the deployment of Machine Learning models.",
+      "es": "Fundamentos de cloud y uso de Amazon Web Services para el deploy de modelos de Machine Learning.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Federico dos Reis",
+      "en": "Federico dos Reis",
+      "es": "Federico dos Reis",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Data Scientist, Physicist",
+      "en": "Data Scientist, Physicist",
+      "es": "Científicos de datos, físicos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Físico en ciencia de datos. Machine learning engineer en Mercado Ads (Mercado Libre Publicidad). Fuí docente en la Universidad de Buenos Aires, doctorando CONICET.",
+      "en": "Physical in data science. Machine learning engineer in market Ads. I was a teacher at the University of Buenos Aires, doctoring CONICET.",
+      "es": "Físico en ciencia de datos. Machine learning engineer en Mercado Ads (Mercado Libre Publicidad). Fuí docente en la Universidad de Buenos Aires, doctorando CONICET.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Salvatierra Berrios** 🇧🇴",
+      "en": "Salvatierra Berrios * *",
+      "es": "Salvatierra Berrios** 🇧🇴",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Data Engineering, Data Science",
+      "en": "Data Engineering, Data Science",
+      "es": "Ingeniería de datos, Ciencia de datos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
+      "en": "Stanley Salvatierra studied electrical engineering, currently CTO and co-founder of the startup deepmicrosystems.com. Where he works on solving problems of artificial vision and natural language processing. In 2019 he was chosen innovator less than 35 by the MIT tech review for his work in artificial vision within his startup.",
+      "es": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inscripciones del 14 de junio al 04 de julio",
+      "en": "Registration from 14 June to 04 July",
+      "es": "Inscripciones del 14 de junio al 04 de julio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Duración del curso: 06 de julio – 21 de agosto",
+      "en": "Course duration: July 06 - August 21",
+      "es": "Duración del curso: 06 de julio – 21 de agosto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lunes, Martes y Sábado",
+      "en": "Monday, Tuesday and Saturday",
+      "es": "Lunes, Martes y Sábado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
+      "en": "Hours: Monday (21: 00 - 22: 00), Tuesday (18: 00 - 21: 00), Saturday (09: 00 - 12: 00) UTC - 4 (Bolivian time)",
+      "es": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "113 USD / Bs. 791",
+      "en": "113 USD / Bs. 791",
+      "es": "113 USD / Bs. 791",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
+      "en": "Download our brochure for more detailed information from our Machine Learning program.",
+      "es": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays AILa Paz ¡Aprende Inteligencia Artificial junto a nosotros! Cuando: 06 de JulioDonde: OnlinePrograma: Machine Learning 3º edición: 150 USD / Bs. 1050120 USD / Bs. 840113 USD / Bs. 791 (Promo válida hasta el 27/06)105…",
+      "en": "Saturdays Aila Paz Learn Artificial Intelligence next to us! When: 06 from JulioWhere: OnlineProgram: Machine Learning 3rd edition: 150 USD / Bs. 1050120 USD / Bs. 840113 USD / Bs. 791 (Proof valid until 27 / 06) 105...",
+      "es": "Saturdays AILa Paz ¡Aprende Inteligencia Artificial junto a nosotros! Cuando: 06 de JulioDonde: OnlinePrograma: Machine Learning 3º edición: 150 USD / Bs. 1050120 USD / Bs. 840113 USD / Bs. 791 (Promo válida hasta el 27/06)105…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

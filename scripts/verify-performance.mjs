@@ -19,12 +19,13 @@ for (const image of Object.values(manifest))
     assert.ok(candidate.bytes < image.bytes, 'A derivative must save bytes');
     assert.equal((await fs.stat(path.join('dist', candidate.src))).size, candidate.bytes);
   }
-const pages = [
+const originalPages = [
   '/',
   '/blog-y-noticias/',
   '/podcast/',
   '/2025/01/20/podcast-t5-e01-davidleirado-filosofia/',
 ];
+const pages = [...originalPages, ...originalPages.map((route) => '/en' + route)];
 const html = [];
 for (const route of pages) {
   const text = await fs.readFile(`dist${route}index.html`, 'utf8');

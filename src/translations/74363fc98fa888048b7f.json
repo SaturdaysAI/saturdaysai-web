@@ -1,0 +1,20 @@
+{
+  "title": "Salud",
+  "route": "/tag/salud/",
+  "segments": [
+    {
+      "source": "Salud",
+      "en": "Health",
+      "es": "Salud",
+      "reviewed": false
+    },
+    {
+      "source": "Stories, projects and conversations from Saturdays.AI about Salud.",
+      "en": "Stories, projects and conversations from Saturdays.AI about Salud.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre Salud.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

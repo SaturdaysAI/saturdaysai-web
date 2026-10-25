@@ -119,7 +119,7 @@ for (const file of htmlFiles) {
       ? '/'
       : rel === '404.html'
         ? '/404/'
-        : '/' + rel.replace(/index\.html$/, '');
+        : '/' + rel.replace(/index\.html$/, '').replace(/404\.html$/, '404/');
   if ($('link[rel=canonical]').attr('href') !== siteOrigin.replace(/\/$/, '') + base + route)
     errors.push(`${rel}: incorrect canonical URL`);
   if (
@@ -134,12 +134,16 @@ for (const file of htmlFiles) {
   )
     errors.push(`${rel}: excluded content leaked`);
   if (text.includes('\u00b7')) errors.push(`${rel}: forbidden formatting character`);
-  if (!/^(20\d\d\/|blog-y-noticias\/|podcast\/|proyectos\/|category\/|tag\/)/.test(rel)) {
+  if (
+    !/^(20\d\d\/|blog-y-noticias\/|podcast\/|proyectos\/|category\/|tag\/)/.test(
+      rel.replace(/^en\//, ''),
+    )
+  ) {
     const visibleBody = $('body').clone();
     visibleBody.find('script,style').remove();
     const body = visibleBody.text();
     if (
-      /[€$£]|\b(pricing|prices?|discounts?|donat\w*|fees?|earlybird|financial aid|precio|descuento)\b/i.test(
+      /[€$£]|\b(pricing|prices?|discounts?|donat\w*|fees?|earlybird|financial aid|precio|descuento|dto\.|free of charge)\b/i.test(
         body,
       )
     )

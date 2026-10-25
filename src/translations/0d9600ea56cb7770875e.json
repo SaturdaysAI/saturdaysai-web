@@ -1,0 +1,989 @@
+{
+  "title": "LATAM Online",
+  "route": "/latam-online/",
+  "segments": [
+    {
+      "source": "Edición Latam",
+      "en": "Latam Edition",
+      "es": "Edición Latam",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Agenda",
+      "en": "Agenda",
+      "es": "Agenda",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Nuestros Speakers",
+      "en": "Our Speakers",
+      "es": "Nuestros Speakers",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**PhD [Victor Larios",
+      "en": "**PhD [Victor Larios",
+      "es": "**PhD [Victor Larios",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Margarita Sordo",
+      "en": "**[Margarita Sordo",
+      "es": "**[Margarita Sordo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Carlos Astengo",
+      "en": "**[Carlos Astengo",
+      "es": "**[Carlos Astengo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Victor Larios",
+      "en": "**[Victor Larios",
+      "es": "**[Victor Larios",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Evento de lanzamiento marzo 2022",
+      "en": "March 2022 launch event",
+      "es": "Evento de lanzamiento marzo 2022",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Sofia Trejo",
+      "en": "**[Sofia Trejo",
+      "es": "**[Sofia Trejo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Dina Medina",
+      "en": "**[Dina Medina",
+      "es": "**[Dina Medina",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Angelina Alarcón",
+      "en": "**[Angelina Alarcón",
+      "es": "**[Angelina Alarcón",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Christian Tutivén",
+      "en": "**[Christian Tutiven",
+      "es": "**[Christian Tutivén",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Nayelhi de Anda",
+      "en": "**[Nayelhi de Anda",
+      "es": "**[Nayelhi de Anda",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Eduardo Ramírez",
+      "en": "**[Eduardo Ramírez",
+      "es": "**[Eduardo Ramírez",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Francisco Mena",
+      "en": "**[Francisco Mena",
+      "es": "**[Francisco Mena",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Cecilia Hurtado",
+      "en": "**[Cecilia Hurtado",
+      "es": "**[Cecilia Hurtado",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Alexander Saravia",
+      "en": "**[Alexander Saravia",
+      "es": "**[Alexander Saravia",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Rosa Sunum",
+      "en": "**[Sunum Rose",
+      "es": "**[Rosa Sunum",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Daniel Hernandez",
+      "en": "**[Daniel Hernandez",
+      "es": "**[Daniel Hernandez",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Rodrigo Herrera",
+      "en": "**[Rodrigo Herrera",
+      "es": "**[Rodrigo Herrera",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Fernando Silva",
+      "en": "**[Fernando Silva",
+      "es": "**[Fernando Silva",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Gibran Félix",
+      "en": "**[Gibran Felix",
+      "es": "**[Gibran Félix",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Ivan Fretes",
+      "en": "**[Ivan Fretes",
+      "es": "**[Ivan Fretes",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Ángel Encalada",
+      "en": "**[Angel Encalada",
+      "es": "**[Ángel Encalada",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "**[Naren Castellon",
+      "en": "**[Naren Castellon",
+      "es": "**[Naren Castellon",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Edición LATAM",
+      "en": "LATAM Edition",
+      "es": "Edición LATAM",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Siguiente edición",
+      "en": "Next edition",
+      "es": "Siguiente edición",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Septiembre, 2022",
+      "en": "September, 2022",
+      "es": "Septiembre, 2022",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Prerequisitos",
+      "en": "Prerequisites",
+      "es": "Prerequisitos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Python & estadística y matemáticas básicas",
+      "en": "Python & statistics and basic mathematics",
+      "es": "Python & estadística y matemáticas básicas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "AI Saturdays LATAM Edición otoño 2022",
+      "en": "AI Saturdays LATAM Fall 2022 Edition",
+      "es": "AI Saturdays LATAM Edición otoño 2022",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Conoce la comunidad de I.A. en LATAM",
+      "en": "Meet the A.I. community in LATAM",
+      "es": "Conoce la comunidad de I.A. en LATAM",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Contactar LATAM City Lead",
+      "en": "Contact LATAM City Lead",
+      "es": "Contactar LATAM City Lead",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "AI Saturdays LATAM - Online",
+      "en": "AI Saturdays LATAM - Online",
+      "es": "AI Saturdays LATAM - Online",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "12 de febrero, 9:30 hrs GMT-6",
+      "en": "February 12, 9:30 hrs GMT-6",
+      "es": "12 de febrero, 9:30 hrs GMT-6",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Conoce a nuestros alumnos graduados de los cursos de machine learning y deep learning de la 2da Edición de Latam.",
+      "en": "Meet our graduate students from the machine learning and deep learning courses of the 2nd Edition of Latam.",
+      "es": "Conoce a nuestros alumnos graduados de los cursos de machine learning y deep learning de la 2da Edición de Latam.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Conéctate con nosotros y conoce los",
+      "en": "Connect with us and learn about",
+      "es": "Conéctate con nosotros y conoce los",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "7 proyectos",
+      "en": "7 projects",
+      "es": "7 proyectos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "con inteligencia artificial aplicada que nuestros",
+      "en": "with applied artificial intelligence that our",
+      "es": "con inteligencia artificial aplicada que nuestros",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "aifellows",
+      "en": "aifellows",
+      "es": "aifellows",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "de esta edición implementaron en equipo.",
+      "en": "of this edition they implemented as a team.",
+      "es": "de esta edición implementaron en equipo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Conoce en qué consiste cada proyecto y a quienes integran el equipo de desarrollo.",
+      "en": "Learn what each project consists of and who makes up the development team.",
+      "es": "Conoce en qué consiste cada proyecto y a quienes integran el equipo de desarrollo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "dar click en el proyecto de interés",
+      "en": "click on the project of interest",
+      "es": "dar click en el proyecto de interés",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Te invitamos a conocer más sobre los",
+      "en": "We invite you to learn more about the",
+      "es": "Te invitamos a conocer más sobre los",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "proyectos",
+      "en": "projects",
+      "es": "proyectos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "implementados, lee su artículo!",
+      "en": "implemented, read his article!",
+      "es": "implementados, lee su artículo!",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Angiop.",
+      "en": "Angiop.",
+      "es": "Angiop.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ecológica",
+      "en": "Ecological",
+      "es": "Ecológica",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ciudad",
+      "en": "City",
+      "es": "Ciudad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Limp",
+      "en": "Clean",
+      "es": "Limp",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Guard",
+      "en": "guard",
+      "es": "Guard",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Tótem",
+      "en": "totem",
+      "es": "Tótem",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ciclope",
+      "en": "Cyclops",
+      "es": "Ciclope",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "V",
+      "en": "V",
+      "es": "V",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Segura",
+      "en": "Safe",
+      "es": "Segura",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Te invitamos a ver el video de nuestro DEMODAY de 2da. Edición, puedes sintonizar la grandiosa charla de Smart Cities y oportunidades con IA para mejores lugares donde vivir, conocer a nuestros jueces y los pitches de los equipos!",
+      "en": "We invite you to watch the video of our 2nd DEMODAY. Edition, you can tune in to the great talk of Smart Cities and opportunities with AI for better places to live, meet our judges and the teams' pitches!",
+      "es": "Te invitamos a ver el video de nuestro DEMODAY de 2da. Edición, puedes sintonizar la grandiosa charla de Smart Cities y oportunidades con IA para mejores lugares donde vivir, conocer a nuestros jueces y los pitches de los equipos!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "MX",
+      "en": "MX",
+      "es": "MX",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Speaker",
+      "en": "Speaker",
+      "es": "Speaker",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Smart Cities y oportunidades con IA para mejores lugares donde vivir",
+      "en": "Smart Cities and opportunities with AI for better places to live",
+      "es": "Smart Cities y oportunidades con IA para mejores lugares donde vivir",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las Smart Cities se convirtieron en un campo multidisciplinario donde la tecnología apoya a mejorar la calidad de vida en las ciudades. Las ciudades se han tornado muy complejas en servicios y procesos que requieren de soporte. Por otro lado, la tecnología se a convertido en un habilitador que apoya a gestionar y mejorar estos servicios de ciudades. La infraestructura en las Smart Cities permite gestionar ciclos de generación y extracción de datos, creación de datos abiertos basados en registros históricos colectados, y generar analítica de datos para ayudar a que todos los que vienen en una ciudad puedan hacer mejores decisiones sobre como mejorar sus vidas. Así mismo, la Inteligencia Artificial puede ayudar a optimizar y democratizar el acceso a los servicios de ciudades, si esta es bien aplicada. En esta plática, tenderemos una visión general de los problemas, retos y oportunidades que podemos encontrar cuando se implementan proyectos de IA en Smart Cities.",
+      "en": "Smart Cities have become a multidisciplinary field where technology helps improve the quality of life in cities. Cities have become very complex in services and processes that require support. On the other hand, technology has become an enabler that helps manage and improve these city services. The infrastructure in Smart Cities allows managing cycles of data generation and extraction, creation of open data based on collected historical records, and generating data analytics to help everyone who comes to a city make better decisions about how to improve their lives. Likewise, Artificial Intelligence can help optimize and democratize access to city services, if it is well applied. In this talk, we will provide an overview of the problems, challenges and opportunities that we can encounter when implementing AI projects in Smart Cities.",
+      "es": "Las Smart Cities se convirtieron en un campo multidisciplinario donde la tecnología apoya a mejorar la calidad de vida en las ciudades. Las ciudades se han tornado muy complejas en servicios y procesos que requieren de soporte. Por otro lado, la tecnología se a convertido en un habilitador que apoya a gestionar y mejorar estos servicios de ciudades. La infraestructura en las Smart Cities permite gestionar ciclos de generación y extracción de datos, creación de datos abiertos basados en registros históricos colectados, y generar analítica de datos para ayudar a que todos los que vienen en una ciudad puedan hacer mejores decisiones sobre como mejorar sus vidas. Así mismo, la Inteligencia Artificial puede ayudar a optimizar y democratizar el acceso a los servicios de ciudades, si esta es bien aplicada. En esta plática, tenderemos una visión general de los problemas, retos y oportunidades que podemos encontrar cuando se implementan proyectos de IA en Smart Cities.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Juez",
+      "en": "Judge",
+      "es": "Juez",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Margarita es Doctora en Ciencias de la Computación e Inteligencia Artificial de la Universidad de Sussex, Reino Unido con maestría en Inteligencia Artificial de la Universidad de Edimburgo. Sus intereses de investigación incluyen la aplicación de técnicas de obtención y representación de conocimiento en biomedicina y atención médica; ontologías biomédicas; técnicas de inteligencia artificial y aprendizaje automático para el descubrimiento de conocimiento y apoyo a la decisión clínica.",
+      "en": "Margarita has a PhD in Computer Science and Artificial Intelligence from the University of Sussex, United Kingdom with a master's degree in Artificial Intelligence from the University of Edinburgh. His research interests include the application of knowledge elicitation and representation techniques in biomedicine and healthcare; biomedical ontologies; artificial intelligence and machine learning techniques for knowledge discovery and clinical decision support.",
+      "es": "Margarita es Doctora en Ciencias de la Computación e Inteligencia Artificial de la Universidad de Sussex, Reino Unido con maestría en Inteligencia Artificial de la Universidad de Edimburgo. Sus intereses de investigación incluyen la aplicación de técnicas de obtención y representación de conocimiento en biomedicina y atención médica; ontologías biomédicas; técnicas de inteligencia artificial y aprendizaje automático para el descubrimiento de conocimiento y apoyo a la decisión clínica.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El trabajo actual se centra en la aplicación de sistemas adaptativos complejos para modelar las características y preferencias de los pacientes para evaluar el impacto de los determinantes de la salud y las políticas de salud pública en la salud individual.",
+      "en": "Current work focuses on the application of complex adaptive systems to model patient characteristics and preferences to assess the impact of health determinants and public health policies on individual health.",
+      "es": "El trabajo actual se centra en la aplicación de sistemas adaptativos complejos para modelar las características y preferencias de los pacientes para evaluar el impacto de los determinantes de la salud y las políticas de salud pública en la salud individual.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Carlos Astengo es Doctor en Inteligencia Artificial por el ITESM campus Monterrey con maestría en Matemáticas Aplicadas por el Centro Universitario de Ciencias Exactas e Ingeniería de la Universidad de Guadalajara en la que estudío la carrera de Matemáticas en la Facultad de Ciencias Físico-Matemáticas.",
+      "en": "Carlos Astengo has a Doctor in Artificial Intelligence from the ITESM Monterrey campus with a master's degree in Applied Mathematics from the University Center of Exact Sciences and Engineering of the University of Guadalajara where he studied Mathematics at the Faculty of Physical-Mathematical Sciences.",
+      "es": "Carlos Astengo es Doctor en Inteligencia Artificial por el ITESM campus Monterrey con maestría en Matemáticas Aplicadas por el Centro Universitario de Ciencias Exactas e Ingeniería de la Universidad de Guadalajara en la que estudío la carrera de Matemáticas en la Facultad de Ciencias Físico-Matemáticas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Dentro del Tecnológico de Monterrey ha desempeñado diversos cargos. Cuenta con estudios de especialidad en Telecomunicaciones por parte del ITESM Campus Guadalajara. Colaboró en el Center for Numerical Analysis en UT Austin. Se capacitó en las técnicas de POL en las universidades de Twente, Holanda y Aalborg, Dinamarca; en PBL en Wheeling University, en el Método de Casos en Harvard y en Aprendizaje Colaborativo en UT-Austin. Esta certificado como Facilitador Acreditado de POL y PBL.Director Nacional de los Centros de Desarrollo Docente e Innovación Educativa (CEDDIEs). Director de Innovación de Profesional (Undergraduate Studies Chief Innovation Officer).",
+      "en": "Within Tecnológico de Monterrey he has held various positions. He has specialized studies in Telecommunications from the ITESM Campus Guadalajara. He collaborated at the Center for Numerical Analysis at UT Austin. He trained in POL techniques at the universities of Twente, Netherlands and Aalborg, Denmark; in PBL at Wheeling University, in the Case Method at Harvard, and in Collaborative Learning at UT-Austin. He is certified as an Accredited Facilitator of POL and PBL. National Director of the Centers for Teaching Development and Educational Innovation (CEDDIEs). Director of Professional Innovation (Undergraduate Studies Chief Innovation Officer).",
+      "es": "Dentro del Tecnológico de Monterrey ha desempeñado diversos cargos. Cuenta con estudios de especialidad en Telecomunicaciones por parte del ITESM Campus Guadalajara. Colaboró en el Center for Numerical Analysis en UT Austin. Se capacitó en las técnicas de POL en las universidades de Twente, Holanda y Aalborg, Dinamarca; en PBL en Wheeling University, en el Método de Casos en Harvard y en Aprendizaje Colaborativo en UT-Austin. Esta certificado como Facilitador Acreditado de POL y PBL.Director Nacional de los Centros de Desarrollo Docente e Innovación Educativa (CEDDIEs). Director de Innovación de Profesional (Undergraduate Studies Chief Innovation Officer).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El Doctor Victor M. Larios es Ingeniero en electrónica del Instituto Tecnológico de Estudios Superiores de Occidente titulado en 1996.Posteriormente en 1997 obtuvo su grado de Maestría y en 2001 su Doctorado en Ciencias Computacionales en de la Universidad de Tecnológica de Compiègne en Francia. Actualmente, es profesor investigador titular de la Universidad de Guadalajara (UDG) y desde abril de 2014, Director del Centro de Innovación en Ciudades Inteligentes del CUCEA UDG.",
+      "en": "Doctor Victor M. Larios is an Electronics Engineer from the Technological Institute of Higher Studies of the West, graduating in 1996. Later in 1997 he obtained his Master's degree and in 2001 his Doctorate in Computer Science from the Compiègne University of Technology in France. Currently, he is a tenured research professor at the University of Guadalajara (UDG) and since April 2014, Director of the Center for Innovation in Smart Cities at CUCEA UDG.",
+      "es": "El Doctor Victor M. Larios es Ingeniero en electrónica del Instituto Tecnológico de Estudios Superiores de Occidente titulado en 1996.Posteriormente en 1997 obtuvo su grado de Maestría y en 2001 su Doctorado en Ciencias Computacionales en de la Universidad de Tecnológica de Compiègne en Francia. Actualmente, es profesor investigador titular de la Universidad de Guadalajara (UDG) y desde abril de 2014, Director del Centro de Innovación en Ciudades Inteligentes del CUCEA UDG.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El Dr. Larios ha publicado más de 70 artículo internacionales reverenciados en revistas, conferencias y publicó un libro en juegos serios. Como una actividad continua, el Dr. Larios colabora en proyectos con la industria de alta tecnología y el gobierno para la innovación de las Smart Cities.",
+      "en": "Dr. Larios has published more than 70 revered international articles in journals, conferences and published a book on serious games. As an ongoing activity, Dr. Larios collaborates on projects with the high-tech industry and the government for the innovation of Smart Cities.",
+      "es": "El Dr. Larios ha publicado más de 70 artículo internacionales reverenciados en revistas, conferencias y publicó un libro en juegos serios. Como una actividad continua, el Dr. Larios colabora en proyectos con la industria de alta tecnología y el gobierno para la innovación de las Smart Cities.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Investigadora y profesora especializada en Ética de la Inteligencia Artificial (IA). Interesada estudiar las intersecciones entre la IA y los derechos humanos y en promover el entendimiento crítico de la tecnología. Es Licenciada en Matemáticas por la UNAM y Doctora en Matemáticas por la Universidad de Warwick. Ha trabajado como investigadora en la Universidad de São Paulo y en Imperial College London.",
+      "en": "Researcher and professor specialized in Ethics of Artificial Intelligence (AI). Interested in studying the intersections between AI and human rights and in promoting critical understanding of technology. She has a degree in Mathematics from UNAM and a PhD in Mathematics from the University of Warwick. She has worked as a researcher at the University of São Paulo and at Imperial College London.",
+      "es": "Investigadora y profesora especializada en Ética de la Inteligencia Artificial (IA). Interesada estudiar las intersecciones entre la IA y los derechos humanos y en promover el entendimiento crítico de la tecnología. Es Licenciada en Matemáticas por la UNAM y Doctora en Matemáticas por la Universidad de Warwick. Ha trabajado como investigadora en la Universidad de São Paulo y en Imperial College London.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Actualmente, es profesora en la Maestría de Ciencia de Datos del Instituto Tecnológico Autónomo de México y miembro del Consejo Consultivo del Instituto Federal de Telecomunicaciones (México).",
+      "en": "Currently, she is a professor in the Master of Data Science at the Autonomous Technological Institute of Mexico and a member of the Advisory Council of the Federal Institute of Telecommunications (Mexico).",
+      "es": "Actualmente, es profesora en la Maestría de Ciencia de Datos del Instituto Tecnológico Autónomo de México y miembro del Consejo Consultivo del Instituto Federal de Telecomunicaciones (México).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniero en Sistemas, Universidad Autónoma de Nuevo León. PM, CMMi, TSP/PSP, ITIL, Agile, Scrum, Design Thinking.",
+      "en": "Systems Engineer, Autonomous University of Nuevo León. PM, CMMi, TSP/PSP, ITIL, Agile, Scrum, Design Thinking.",
+      "es": "Ingeniero en Sistemas, Universidad Autónoma de Nuevo León. PM, CMMi, TSP/PSP, ITIL, Agile, Scrum, Design Thinking.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Más de 25 años de experiencia en áreas de Diseño y Desarrollo de Sistemas, Oficina de Proyectos, implantación de metodologías y reingeniería de Procesos.",
+      "en": "More than 25 years of experience in areas of Systems Design and Development, Project Office, implementation of methodologies and Process reengineering.",
+      "es": "Más de 25 años de experiencia en áreas de Diseño y Desarrollo de Sistemas, Oficina de Proyectos, implantación de metodologías y reingeniería de Procesos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Liderazgo y participación en iniciativas para implementar CMMi, TSP/PSP, ITIL, Agile y Scrum. Entusiasta de disciplinas de innovación y pensamiento creativo como Design Thinking, Human Centered Design y Creative Problem Solving.",
+      "en": "Leadership and participation in initiatives to implement CMMi, TSP/PSP, ITIL, Agile and Scrum. Enthusiast of innovation and creative thinking disciplines such as Design Thinking, Human Centered Design and Creative Problem Solving.",
+      "es": "Liderazgo y participación en iniciativas para implementar CMMi, TSP/PSP, ITIL, Agile y Scrum. Entusiasta de disciplinas de innovación y pensamiento creativo como Design Thinking, Human Centered Design y Creative Problem Solving.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Actualmente es Senior Manager en la Oficina de Planificación Estratégica en Infrastructure & IT Operations, BBVA Holding y Mentor de jóvenes universitarios. #LifeLongLearner",
+      "en": "He is currently Senior Manager in the Strategic Planning Office at Infrastructure & IT Operations, BBVA Holding and Mentor for young university students. #LifeLongLearner",
+      "es": "Actualmente es Senior Manager en la Oficina de Planificación Estratégica en Infrastructure & IT Operations, BBVA Holding y Mentor de jóvenes universitarios. #LifeLongLearner",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Nuestro equipo está compuesto de gente apasionada por la IA y el progreso humano. Creemos firmemente que la combinación de la comunidad con la tecnología es la mejor manera de catalizar el cambio que nos permitirá hacer del mundo un lugar mejor.",
+      "en": "Our team is made up of people passionate about AI and human progress. We firmly believe that combining community with technology is the best way to catalyze the change that will allow us to make the world a better place.",
+      "es": "Nuestro equipo está compuesto de gente apasionada por la IA y el progreso humano. Creemos firmemente que la combinación de la comunidad con la tecnología es la mejor manera de catalizar el cambio que nos permitirá hacer del mundo un lugar mejor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Líder & Mentora</h5<",
+      "en": "Leader & Mentor</h5<",
+      "es": "Líder & Mentora</h5<",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniera en Computación con Maestría en Administración de Empresas y otra en Ciencia de Datos y Big Data. Actualmente estudiante del Doctorado de Tecnologías de la Información por la Universidad de Guadalajara. Tiene más de 25 años de experiencia profesional en TI y en los últimos años ha implementando proyectos de Machine Learning en el Sector Público. Es miembro de la Asociación en materia de Gestión de Datos e Información, en DAMA México y Co-Fundadora de Women in Data Science, Power and Engineering AC además de ser Gerente Regional en Latam para esta comunidad.",
+      "en": "Computer Engineer with a Master's degree in Business Administration and another in Data Science and Big Data. Currently a PhD student in Information Technology at the University of Guadalajara. He has more than 25 years of professional experience in IT and in recent years has implemented Machine Learning projects in the Public Sector. She is a member of the Association on Data and Information Management, in DAMA México and Co-Founder of Women in Data Science, Power and Engineering AC in addition to being Regional Manager in Latam for this community.",
+      "es": "Ingeniera en Computación con Maestría en Administración de Empresas y otra en Ciencia de Datos y Big Data. Actualmente estudiante del Doctorado de Tecnologías de la Información por la Universidad de Guadalajara. Tiene más de 25 años de experiencia profesional en TI y en los últimos años ha implementando proyectos de Machine Learning en el Sector Público. Es miembro de la Asociación en materia de Gestión de Datos e Información, en DAMA México y Co-Fundadora de Women in Data Science, Power and Engineering AC además de ser Gerente Regional en Latam para esta comunidad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "EC",
+      "en": "E.C.",
+      "es": "EC",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Doctorado en Automática, Robótica y Visión de la Universidad Politécnica de Cataluña (UPC). Maestría en Administración de Empresas de la Universidad Santa María de Chile. Maestría en Telecomunicaciones de la Universidad Católica Santiago de Guayaquil. Ingeniería en Telecomunicaciones de la Universidad Católica Santiago de Guayaquil. Miembro del grupo de investigación CoDAlab (Control, Modeling, Identification and Applications) de la Universidad Politécnica de Cataluña.",
+      "en": "PhD in Automation, Robotics and Vision from the Polytechnic University of Catalonia (UPC). Master in Business Administration from the Santa María University of Chile. Master's Degree in Telecommunications from the Universidad Católica Santiago de Guayaquil. Telecommunications Engineering from the Universidad Católica Santiago de Guayaquil. Member of the CoDAlab (Control, Modeling, Identification and Applications) research group at the Polytechnic University of Catalonia.",
+      "es": "Doctorado en Automática, Robótica y Visión de la Universidad Politécnica de Cataluña (UPC). Maestría en Administración de Empresas de la Universidad Santa María de Chile. Maestría en Telecomunicaciones de la Universidad Católica Santiago de Guayaquil. Ingeniería en Telecomunicaciones de la Universidad Católica Santiago de Guayaquil. Miembro del grupo de investigación CoDAlab (Control, Modeling, Identification and Applications) de la Universidad Politécnica de Cataluña.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Catedrático e investigador Escuela superior Politécnica del Litoral (ESPOL), Univ. De Nariño y Sociedad Estadística Ecuatoriana. Fundador de Steam Center (Proyectos basados en datos).",
+      "en": "Professor and researcher at Escuela Superior Politécnica del Litoral (ESPOL), Univ. De Nariño and Ecuadorian Statistical Society. Founder of Steam Center (Data-Driven Projects).",
+      "es": "Catedrático e investigador Escuela superior Politécnica del Litoral (ESPOL), Univ. De Nariño y Sociedad Estadística Ecuatoriana. Fundador de Steam Center (Proyectos basados en datos).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Mentora</h5<",
+      "en": "Mentor</h5<",
+      "es": "Mentora</h5<",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Licenciada en Marketing por la Universidad de Guadalajara y Maestra en Ciencia de Datos y Procesamiento de Datos Masivos (Big Data). CoFundadora de la empresa Vitruvio, agencia de Marketing Digital e Inteligencia Artificial. Cuenta con más de 6 años de experiencia implementando proyectos de Ciencia de Datos, Marketing Digital e Inteligencia de Negocios en grandes y medianas empresas de distintas industrias.",
+      "en": "Graduate in Marketing from the University of Guadalajara and Master in Data Science and Mass Data Processing (Big Data). Co-Founder of the company Vitruvio, a Digital Marketing and Artificial Intelligence agency. He has more than 6 years of experience implementing Data Science, Digital Marketing and Business Intelligence projects in large and medium-sized companies in different industries.",
+      "es": "Licenciada en Marketing por la Universidad de Guadalajara y Maestra en Ciencia de Datos y Procesamiento de Datos Masivos (Big Data). CoFundadora de la empresa Vitruvio, agencia de Marketing Digital e Inteligencia Artificial. Cuenta con más de 6 años de experiencia implementando proyectos de Ciencia de Datos, Marketing Digital e Inteligencia de Negocios en grandes y medianas empresas de distintas industrias.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Emprendedor y científico de datos fundo y dirige el Monterrey Data Science Meetup. Escribe y habla sobre datos y análisis y, como investigador o consultor, ha estado involucrado en pronósticos, aprendizaje automático y optimización desde mediados de la década de 2000 trabajando para nuevas empresas y grandes corporaciones como Microsoft y Yahoo. Es cofundador Ensitech, una empresa de software que ahora cuenta con más de 50 empleados en la que es director de Inteligencia Artificial. Actualmente participa en proyectos sociales como AirHubNL, una red independiente de monitoreo de la calidad del aire para el área de Monterrey y es líder de en la Ciudad de Monterrey para esta comunidad.",
+      "en": "Entrepreneur and data scientist founded and directs the Monterrey Data Science Meetup. He writes and speaks about data and analytics and, as a researcher or consultant, has been involved in forecasting, machine learning and optimization since the mid-2000s working for startups and large corporations such as Microsoft and Yahoo. He is co-founder of Ensitech, a software company that now has more than 50 employees where he is director of Artificial Intelligence. He currently participates in social projects such as AirHubNL, an independent air quality monitoring network for the Monterrey area and is a leader in the City of Monterrey for this community.",
+      "es": "Emprendedor y científico de datos fundo y dirige el Monterrey Data Science Meetup. Escribe y habla sobre datos y análisis y, como investigador o consultor, ha estado involucrado en pronósticos, aprendizaje automático y optimización desde mediados de la década de 2000 trabajando para nuevas empresas y grandes corporaciones como Microsoft y Yahoo. Es cofundador Ensitech, una empresa de software que ahora cuenta con más de 50 empleados en la que es director de Inteligencia Artificial. Actualmente participa en proyectos sociales como AirHubNL, una red independiente de monitoreo de la calidad del aire para el área de Monterrey y es líder de en la Ciudad de Monterrey para esta comunidad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "CL",
+      "en": "CL",
+      "es": "CL",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Como Científico de Datos, Francisco ha trabajado con modelos de machine learning para asistir en diagnósticos en medicina, y diseñando modelos de business intelligence. Como Ingeniero Ambiental ha conducido investigación en calidad del aire, emisión de contaminantes y aerosoles, procesos atmosféricos, además de diversos problemas de ingeniería ambiental y sustentabilidad.",
+      "en": "As a Data Scientist, Francisco has worked with machine learning models to assist in diagnoses in medicine, and designing business intelligence models. As an Environmental Engineer he has conducted research on air quality, emissions of pollutants and aerosols, atmospheric processes, as well as various environmental engineering and sustainability problems.",
+      "es": "Como Científico de Datos, Francisco ha trabajado con modelos de machine learning para asistir en diagnósticos en medicina, y diseñando modelos de business intelligence. Como Ingeniero Ambiental ha conducido investigación en calidad del aire, emisión de contaminantes y aerosoles, procesos atmosféricos, además de diversos problemas de ingeniería ambiental y sustentabilidad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniera Industrial y Maestra en Economía por la Universidad de Guadalajara. Se ha desempeñado como gestora y coordinadora de proyectos de desarrollo de software, así como de recolección y procesamiento de datos para análisis de beneficios de diversos programas sociales e iniciativas gubernamentales en entidades públicas estatales y federales. Ha participado como mentora, juez y promotora de diversos retos y hackathones con enfoque social, fomentando la diversidad y participación de jóvenes y niñas para acortar la brecha de género en tecnología.",
+      "en": "Industrial Engineer and Master in Economics from the University of Guadalajara. She has worked as a manager and coordinator of software development projects, as well as data collection and processing for benefit analysis of various social programs and government initiatives in state and federal public entities. She has participated as a mentor, judge and promoter of various challenges and hackathons with a social focus, promoting diversity and participation of young people and girls to bridge the gender gap in technology.",
+      "es": "Ingeniera Industrial y Maestra en Economía por la Universidad de Guadalajara. Se ha desempeñado como gestora y coordinadora de proyectos de desarrollo de software, así como de recolección y procesamiento de datos para análisis de beneficios de diversos programas sociales e iniciativas gubernamentales en entidades públicas estatales y federales. Ha participado como mentora, juez y promotora de diversos retos y hackathones con enfoque social, fomentando la diversidad y participación de jóvenes y niñas para acortar la brecha de género en tecnología.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniero en Electrónica, Automatización y Control; Maestrante en Inteligencia Computacional por la Universidad Federal de Rio de Janeiro; City Lead & Coordinador de Internet of Things en la comunidad Saturdays AI Quito (ai6uio.org); Actualmente de desarrolla como consultor en investigación de Internet of Things e Inteligencia Artificial para diferentes universidades del Ecuador, además es Cofundador de SunPlena Tech donde realiza soluciones de inteligencia de Inteligencia Artificial más Internet of Things.",
+      "en": "Electronics, Automation and Control Engineer; Master in Computational Intelligence from the Federal University of Rio de Janeiro; City Lead & Internet of Things Coordinator in the Saturdays AI Quito community (ai6uio.org); He is currently working as a consultant in Internet of Things and Artificial Intelligence research for different universities in Ecuador, and is also Co-Founder of SunPlena Tech where he develops Artificial Intelligence plus Internet of Things intelligence solutions.",
+      "es": "Ingeniero en Electrónica, Automatización y Control; Maestrante en Inteligencia Computacional por la Universidad Federal de Rio de Janeiro; City Lead & Coordinador de Internet of Things en la comunidad Saturdays AI Quito (ai6uio.org); Actualmente de desarrolla como consultor en investigación de Internet of Things e Inteligencia Artificial para diferentes universidades del Ecuador, además es Cofundador de SunPlena Tech donde realiza soluciones de inteligencia de Inteligencia Artificial más Internet of Things.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "GT",
+      "en": "G.T.",
+      "es": "GT",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniero en nanotecnología con experiencia en simulación de modelos físicos cuánticos, análisis de datos y visualización en Python. Tiene gran interés en la Inteligencia Artificial y Machine Learning. Participó en proyectos de investigación enfocados a la computación cuántica, y métodos de optimización.",
+      "en": "Nanotechnology engineer with experience in simulation of quantum physics models, data analysis and visualization in Python. He has great interest in Artificial Intelligence and Machine Learning. He participated in research projects focused on quantum computing and optimization methods.",
+      "es": "Ingeniero en nanotecnología con experiencia en simulación de modelos físicos cuánticos, análisis de datos y visualización en Python. Tiene gran interés en la Inteligencia Artificial y Machine Learning. Participó en proyectos de investigación enfocados a la computación cuántica, y métodos de optimización.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "CR",
+      "en": "C.R.",
+      "es": "CR",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Co-Fundador y Chief Technology Officer (CTO) de Ainnovatech. Ingeniero en Sistemas, Master en Big Data & Business Intelligence en la Universidad NEXTIBS y Universidad de LLeida en Madrid. Certificado en Redes de Broadcom en Minnesota, Estados Unidos y Administrador de Servidores Linux por la Universidad Nacional de Costa Rica, Científico de Datos en UPS, Estados Unidos. Líder país en la non-profit global",
+      "en": "Co-Founder and Chief Technology Officer (CTO) of Ainnovatech. Systems Engineer, Master in Big Data & Business Intelligence at NEXTIBS University and LLeida University in Madrid. Certificate in Broadcom Networks in Minnesota, United States and Linux Server Manager at the National University of Costa Rica, Data Scientist at UPS, United States. Leader country in global non- profit",
+      "es": "Co-Fundador y Chief Technology Officer (CTO) de Ainnovatech. Ingeniero en Sistemas, Master en Big Data & Business Intelligence en la Universidad NEXTIBS y Universidad de LLeida en Madrid. Certificado en Redes de Broadcom en Minnesota, Estados Unidos y Administrador de Servidores Linux por la Universidad Nacional de Costa Rica, Científico de Datos en UPS, Estados Unidos. Líder país en la non-profit global",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Costa Rica, profesor y director de la Especialidad de Inteligencia Artificial de Lead University. Es amante de la física, la ciencia y de cómo hacer la tecnología más accesible para todas y todos",
+      "en": "Costa Rica, professor and director of the Artificial Intelligence Specialty at Lead University. He is a lover of physics, science and how to make technology more accessible to everyone.",
+      "es": "Costa Rica, profesor y director de la Especialidad de Inteligencia Artificial de Lead University. Es amante de la física, la ciencia y de cómo hacer la tecnología más accesible para todas y todos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "BO",
+      "en": "B.O.",
+      "es": "BO",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingenierio de Sistemas con postgrado en Inteligencia Artificial de la Universidad de Chile, lleva desde el 2019 en el área de Inteligencia Artificial. Inició como mentor de Python y Machine Learning bajo la coordinación del Centro Cultural de España. Trabajó en la banca como Machine Learning Engineer, donde realizaba implementación de modelos. Actualmente realiza investigación en la Universidad Católica de Bolivia en el área de Reinforcement Learning. Ha participado y ganado en varios concursos, siendo el más destacado el primer lugar en una de las categorías de la hackathon de Facebook F8 en Silicon Valley el 2019. A su vez ha sido lider de comunidades con el objetivo de democratizar la inteligencia Artificial, entre estas comunidades: GDG Android Bolivia, Data Science Bolivia, PyData La Paz, Kaggle Days La Paz. Actualmente tiene una startup de Computer Vision y se desempeña como embajador de deeplearning.ai de Andrew Ng con su programa de Pie & AI.",
+      "en": "Systems Engineer with a postgraduate degree in Artificial Intelligence from the University of Chile, he has been in the area of Artificial Intelligence since 2019. He started as a Python and Machine Learning mentor under the coordination of the Cultural Center of Spain. He worked in banking as a Machine Learning Engineer, where he implemented models. Currently conducting research at the Catholic University of Bolivia in the area of ​​Reinforcement Learning. He has participated and won in several contests, the most notable being first place in one of the categories of the Facebook F8 hackathon in Silicon Valley in 2019. At the same time, he has been a leader of communities with the aim of democratizing Artificial Intelligence, among these communities: GDG Android Bolivia, Data Science Bolivia, PyData La Paz, Kaggle Days La Paz. He currently has a Computer Vision startup and serves as Andrew Ng's deeplearning.ai ambassador with his Pie & AI program.",
+      "es": "Ingenierio de Sistemas con postgrado en Inteligencia Artificial de la Universidad de Chile, lleva desde el 2019 en el área de Inteligencia Artificial. Inició como mentor de Python y Machine Learning bajo la coordinación del Centro Cultural de España. Trabajó en la banca como Machine Learning Engineer, donde realizaba implementación de modelos. Actualmente realiza investigación en la Universidad Católica de Bolivia en el área de Reinforcement Learning. Ha participado y ganado en varios concursos, siendo el más destacado el primer lugar en una de las categorías de la hackathon de Facebook F8 en Silicon Valley el 2019. A su vez ha sido lider de comunidades con el objetivo de democratizar la inteligencia Artificial, entre estas comunidades: GDG Android Bolivia, Data Science Bolivia, PyData La Paz, Kaggle Days La Paz. Actualmente tiene una startup de Computer Vision y se desempeña como embajador de deeplearning.ai de Andrew Ng con su programa de Pie & AI.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Licenciado en Informática por la UAS, Maestría en Ciencias de la Computación en el CINVESTAV, Campus Guadalajara. Desde 2012 ha estado involucrado en múltiples emprendimientos relacionados con datos. Actualmente, se desempeña como Co-fundador de Spreaad, empresa de analítica enfocada en entender la conversión de los usuarios.",
+      "en": "Graduate in Computer Science from the UAS, Master in Computer Science from CINVESTAV, Guadalajara Campus. Since 2012 he has been involved in multiple data-related ventures. Currently, he works as Co-founder of Spreaad, an analytics company focused on understanding user conversion.",
+      "es": "Licenciado en Informática por la UAS, Maestría en Ciencias de la Computación en el CINVESTAV, Campus Guadalajara. Desde 2012 ha estado involucrado en múltiples emprendimientos relacionados con datos. Actualmente, se desempeña como Co-fundador de Spreaad, empresa de analítica enfocada en entender la conversión de los usuarios.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "PY",
+      "en": "P.Y.",
+      "es": "PY",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Senior Software Developer, con más de 10 años en el ámbito. He trabajado en diversos sectores (Universidades, Inmobiliarias, etc). Amplia experiencia como freelance y consultor externo.",
+      "en": "Senior Software Developer, with more than 10 years in the field. I have worked in various sectors (Universities, Real Estate, etc.). Extensive experience as a freelancer and external consultant.",
+      "es": "Senior Software Developer, con más de 10 años en el ámbito. He trabajado en diversos sectores (Universidades, Inmobiliarias, etc). Amplia experiencia como freelance y consultor externo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Soy aficionado y entusiasta a emprendimientos (startups), inbound marketing, desarrollo de software, Data Science y otros etcéteras.",
+      "en": "I am a fan and enthusiast of startups, inbound marketing, software development, Data Science and other etcetera.",
+      "es": "Soy aficionado y entusiasta a emprendimientos (startups), inbound marketing, desarrollo de software, Data Science y otros etcéteras.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ingeniero en Mecatrónica, graduado en la ESPOL (Guayaquil). Actualmente se desempeña como Ingeniero de Software en una importante empresa dedicada a la administración de Cajeros Automáticos en algunos Bancos del Ecuador. Por otro lado, trabaja como Investigador Externo en el grupo CoDAlab de la UPC (Barcelona) desarrollando modelos de Deep Learning para la detección y prognóstico de fallos en aerogeneradores. En la línea del Deep Learning también investiga en un Laboratorio de Energías Renovables de ESPOL sobre modelos para la identificación y clasificación de daños en Celdas de Combustible. Desde el 2019 registra varias publicaciones científicas en congresos y revistas internacionales. Finalmente, su interés por la investigación también lo ha llevado a impartir diferentes workshops sobre Modelamiento Computacional, Simulación de Vuelo de Drones, etc",
+      "en": "Mechatronics Engineer, graduated from ESPOL (Guayaquil). He currently works as a Software Engineer in an important company dedicated to the administration of ATMs in some Banks in Ecuador. On the other hand, he works as an External Researcher in the CoDAlab group at the UPC (Barcelona) developing Deep Learning models for the detection and prognosis of failures in wind turbines. Along the lines of Deep Learning, he also researches in an ESPOL Renewable Energy Laboratory on models for the identification and classification of damage in Fuel Cells. Since 2019, he has registered several scientific publications in international conferences and magazines. Finally, his interest in research has also led him to teach different workshops on Computational Modeling, Drone Flight Simulation, etc.",
+      "es": "Ingeniero en Mecatrónica, graduado en la ESPOL (Guayaquil). Actualmente se desempeña como Ingeniero de Software en una importante empresa dedicada a la administración de Cajeros Automáticos en algunos Bancos del Ecuador. Por otro lado, trabaja como Investigador Externo en el grupo CoDAlab de la UPC (Barcelona) desarrollando modelos de Deep Learning para la detección y prognóstico de fallos en aerogeneradores. En la línea del Deep Learning también investiga en un Laboratorio de Energías Renovables de ESPOL sobre modelos para la identificación y clasificación de daños en Celdas de Combustible. Desde el 2019 registra varias publicaciones científicas en congresos y revistas internacionales. Finalmente, su interés por la investigación también lo ha llevado a impartir diferentes workshops sobre Modelamiento Computacional, Simulación de Vuelo de Drones, etc",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "PA",
+      "en": "PA",
+      "es": "PA",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Licenciado en Matemática con una Maestría en cálculo y técnica actuarial y otra en Finanzas, ha sido profesor de la Universidad Nacional Autónoma de Nicaragua y de la Universidad ADEN Campus Panamá. Se ha destacado como instructor de diversos talleres de Machine Learning en universidades de America Latina (Panamá, Ecuador, Perú, Bolivia, Honduras).",
+      "en": "Graduated in Mathematics with a Master's degree in calculation and actuarial technique and another in Finance, he has been a professor at the National Autonomous University of Nicaragua and the ADEN Campus Panama University. He has stood out as an instructor of various Machine Learning workshops at universities in Latin America (Panama, Ecuador, Peru, Bolivia, Honduras).",
+      "es": "Licenciado en Matemática con una Maestría en cálculo y técnica actuarial y otra en Finanzas, ha sido profesor de la Universidad Nacional Autónoma de Nicaragua y de la Universidad ADEN Campus Panamá. Se ha destacado como instructor de diversos talleres de Machine Learning en universidades de America Latina (Panamá, Ecuador, Perú, Bolivia, Honduras).",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ya sea global o local, agradecemos el apoyo de nuestros socios para que nos ayuden a llegar a todos la posibilidad de aprender IA.",
+      "en": "Whether global or local, we appreciate the support of our partners to help us reach everyone the possibility of learning AI.",
+      "es": "Ya sea global o local, agradecemos el apoyo de nuestros socios para que nos ayuden a llegar a todos la posibilidad de aprender IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Próximamente",
+      "en": "Coming soon",
+      "es": "Próximamente",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "3ra. Edición",
+      "en": "3rd. Edition",
+      "es": "3ra. Edición",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "AI Saturdays ahora llega a todos los rincones de Latinoamérica. Aprende con la comunidad más rica y el programa más práctico junto a otros AI fellows durante 4 meses de forma intensa.",
+      "en": "AI Saturdays now reaches all corners of Latin America. Learn with the richest community and the most practical program alongside other AI fellows for 4 intense months.",
+      "es": "AI Saturdays ahora llega a todos los rincones de Latinoamérica. Aprende con la comunidad más rica y el programa más práctico junto a otros AI fellows durante 4 meses de forma intensa.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ": III Edición – Otoño 2022",
+      "en": ": III Edition – Fall 2022",
+      "es": ": III Edición – Otoño 2022",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ": Machine Learning y Deep Learning",
+      "en": ": Machine Learning y Deep Learning",
+      "es": ": Aprendizaje de la máquina y Aprendizaje profundo",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "* 25% de dto. usando el código",
+      "en": "* 25% discount using the code",
+      "es": "* 25% de dto. usando el código",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "“Welcome2LATAM”",
+      "en": "“Welcome2LATAM”",
+      "es": "“Welcome2LATAM”",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* 50 % de dto. a nuestros #aifellows usando el código",
+      "en": "* 50% discount to our #aifellows using the code",
+      "es": "* 50 % de dto. a nuestros #aifellows usando el código",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "«Welcome2LATAM-fellows»",
+      "en": "«Welcome2LATAM-fellows»",
+      "es": "«Welcome2LATAM-fellows»",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Válidos hasta el 23 de septiembre 2021",
+      "en": "Valid until September 23, 2021",
+      "es": "Válidos hasta el 23 de septiembre 2021",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Unete ahora (Registro)",
+      "en": "Join now (Register)",
+      "es": "Unete ahora (Registro)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Esto supone 4 horas los sábados en grupo + 6 horas estimadas durante la semana de estudio y práctica.",
+      "en": "This means 4 hours on Saturdays in a group + 6 hours estimated during the week of study and practice.",
+      "es": "Esto supone 4 horas los sábados en grupo + 6 horas estimadas durante la semana de estudio y práctica.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Sábado de inicio por definir.",
+      "en": "Start Saturday to be defined.",
+      "es": "Sábado de inicio por definir.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Únete, aprende y disfruta con nosotros!",
+      "en": "Join, learn and enjoy with us!",
+      "es": "Únete, aprende y disfruta con nosotros!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Hemos preparado para ayudarte antes del curso.",
+      "en": "We have prepared to help you before the course.",
+      "es": "Hemos preparado para ayudarte antes del curso.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Nuestros grupos de estudio tienen lugar los sábados de 9:30 a 13:30 para que todos podamos tener la oportunidad de aprender.",
+      "en": "Our study groups take place on Saturdays from 9:30 a.m. to 1:30 p.m. so that we can all have the opportunity to learn.",
+      "es": "Nuestros grupos de estudio tienen lugar los sábados de 9:30 a 13:30 para que todos podamos tener la oportunidad de aprender.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El programa consta de 2 semanas en las que fortalecerás tus habilidades básicas de IA (Python, Estadística y Matemáticas Básicas), 7 Semanas de ejercicios prácticos y otras 6 de creación de proyectos y finalizas con el DemoDay, todas ellas de la mano de nuestros mentores.",
+      "en": "The program consists of 2 weeks in which you will strengthen your basic AI skills (Python, Statistics and Basic Mathematics), 7 weeks of practical exercises and another 6 weeks of project creation and ends with DemoDay, all of them led by our mentors.",
+      "es": "El programa consta de 2 semanas en las que fortalecerás tus habilidades básicas de IA (Python, Estadística y Matemáticas Básicas), 7 Semanas de ejercicios prácticos y otras 6 de creación de proyectos y finalizas con el DemoDay, todas ellas de la mano de nuestros mentores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Utilizaremos herramientas como Zoom, Mural o Miro para las dinámicas. Cada sábado tendrás varios mentores y compañeros para ayudarte.",
+      "en": "We will use tools such as Zoom, Mural or Miro for the dynamics. Every Saturday you will have several mentors and companions to help you.",
+      "es": "Utilizaremos herramientas como Zoom, Mural o Miro para las dinámicas. Cada sábado tendrás varios mentores y compañeros para ayudarte.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "*El curso es en español, pero hay recursos didácticos en inglés.",
+      "en": "*The course is in Spanish, but there are teaching resources in English.",
+      "es": "*El curso es en español, pero hay recursos didácticos en inglés.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Descargar folleto",
+      "en": "Download brochure",
+      "es": "Descargar folleto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Comparte(lo) con tu amig@s!",
+      "en": "Share (it) with your friends!",
+      "es": "Comparte(lo) con tu amig@s!",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Conoce los alumnos de la 1ª edición",
+      "en": "Meet the students of the first edition",
+      "es": "Conoce los alumnos de la 1ª edición",
+      "reviewed": false,
+      "sourceLanguage": "pt",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con la crisis del covid-19 desde Saturdays.AI aprendimos a crear la mejor expeirencia online posible con networking, mentores y ejercicios prácticos. El video representa la experiencia de AI Saturdays Madrid.",
+      "en": "With the covid-19 crisis, at Saturdays.AI we learned to create the best possible online experience with networking, mentors and practical exercises. The video represents the experience of AI Saturdays Madrid.",
+      "es": "Con la crisis del covid-19 desde Saturdays.AI aprendimos a crear la mejor expeirencia online posible con networking, mentores y ejercicios prácticos. El video representa la experiencia de AI Saturdays Madrid.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Puedes ver el Demoday de la I Edición",
+      "en": "You can see the Demoday of the I Edition",
+      "es": "Puedes ver el Demoday de la I Edición",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "AI Saturdays en Latam es una experiencia única! contamos con presencia en los siguientes países; México ( Guadalajara, Hermosillo, Monterrey, Mérida), Guatemala, Costa Rica, Ecuador (Quito, Guayaquil), Perú (Lima) Chile (Santiago), Panamá, Paraguay (Asunción), Bolivia (La Paz y Cochabamba), y seguimos creciendo . Actualmente es una de las comunidades más expandidas y activas, el lugar perfecto para iniciar tu camino en el mundo de la I.A. y aprender creando proyectos de impacto social.",
+      "en": "AI Saturdays in Latam is a unique experience! We have presence in the following countries; Mexico (Guadalajara, Hermosillo, Monterrey, Mérida), Guatemala, Costa Rica, Ecuador (Quito, Guayaquil), Peru (Lima) Chile (Santiago), Panama, Paraguay (Asunción), Bolivia (La Paz and Cochabamba), and we continue to grow. It is currently one of the most expanded and active communities, the perfect place to start your path in the world of A.I. and learn by creating social impact projects.",
+      "es": "AI Saturdays en Latam es una experiencia única! contamos con presencia en los siguientes países; México ( Guadalajara, Hermosillo, Monterrey, Mérida), Guatemala, Costa Rica, Ecuador (Quito, Guayaquil), Perú (Lima) Chile (Santiago), Panamá, Paraguay (Asunción), Bolivia (La Paz y Cochabamba), y seguimos creciendo . Actualmente es una de las comunidades más expandidas y activas, el lugar perfecto para iniciar tu camino en el mundo de la I.A. y aprender creando proyectos de impacto social.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La experiencia online está preparada como un reto intenso para aprender, a la vez que conoces a otras personas durante un poco más de 3 meses.",
+      "en": "The online experience is prepared as an intense challenge to learn, while you get to know other people for a little more than 3 months.",
+      "es": "La experiencia online está preparada como un reto intenso para aprender, a la vez que conoces a otras personas durante un poco más de 3 meses.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Únete como partner",
+      "en": "Join as a partner",
+      "es": "Únete como partner",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Siéntete libre de contarnos cualquier cosa, nos encantaría saber más sobre ti 😉",
+      "en": "Feel free to tell us anything, we'd love to know more about you 😉",
+      "es": "Siéntete libre de contarnos cualquier cosa, nos encantaría saber más sobre ti 😉",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Programa en detalle",
+      "en": "Program in detail",
+      "es": "Programa en detalle",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Edición Latam AI Saturdays Online 12 de febrero, 9:30 hrs GMT-6 LIVE Saturdays.AI Conoce a nuestros alumnos graduados de los cursos de machine learning y deep learning de la 2da Edición de Latam. Conéctate con nosotros y…",
+      "en": "Latam Edition AI Saturdays Online February 12, 9:30 hrs GMT-6 LIVE Saturdays.AI Meet our graduate students from the machine learning and deep learning courses of the 2nd Edition of Latam. Connect with us and…",
+      "es": "Edición Latam AI Saturdays Online 12 de febrero, 9:30 hrs GMT-6 LIVE Saturdays.AI Conoce a nuestros alumnos graduados de los cursos de machine learning y deep learning de la 2da Edición de Latam. Conéctate con nosotros y…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    }
+  ]
+}

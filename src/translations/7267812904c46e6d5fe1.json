@@ -1,0 +1,1999 @@
+{
+  "title": "Focus On Driving: Redes Neuronales aplicadas a la Seguridad Vial",
+  "route": "/2022/03/16/focus-on-driving-redes-neuronales-aplicadas-a-la-seguridad-vial/",
+  "segments": [
+    {
+      "source": "Redes Neuronales aplicadas a la seguridad vial, proyecto «Focus on Driving» – inteligencia artificial para conducir mejor",
+      "en": "Neural Networks applied to road safety, “Focus on Driving” project – artificial intelligence to drive better",
+      "es": "Redes Neuronales aplicadas a la seguridad vial, proyecto «Focus on Driving» – inteligencia artificial para conducir mejor",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "focus on driving",
+      "en": "focus on driving",
+      "es": "focus on driving",
+      "reviewed": false
+    },
+    {
+      "source": "Conjunto de Imágenes",
+      "en": "Image Set",
+      "es": "Conjunto de Imágenes",
+      "reviewed": false
+    },
+    {
+      "source": "Exploratory Data Analysis",
+      "en": "Exploratory Data Analysis",
+      "es": "Exploratory Data Analysis",
+      "reviewed": false
+    },
+    {
+      "source": "Implementación",
+      "en": "Implementation",
+      "es": "Implementación",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 1: VGG16 + 3 Capas",
+      "en": "Model 1: VGG16 + 3 Layers",
+      "es": "Modelo 1: VGG16 + 3 Capas",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 2: VGG16 + 3 Capas + Data Augmentation",
+      "en": "Model 2: VGG16 + 3 Layers + Data Augmentation",
+      "es": "Modelo 2: VGG16 + 3 Capas + Data Augmentation",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 3: VGG16 + 5 Capas + Data Augmentation",
+      "en": "Model 3: VGG16 + 5 Layers + Data Augmentation",
+      "es": "Modelo 3: VGG16 + 5 Capas + Data Augmentation",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 4: VGG19 + 5 Capas + Data Augmentation",
+      "en": "Model 4: VGG19 + 5 Layers + Data Augmentation",
+      "es": "Modelo 4: VGG19 + 5 Capas + Data Augmentation",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 5: VGG16 + 9 Capas + Data Augmentation",
+      "en": "Model 5: VGG16 + 9 Layers + Data Augmentation",
+      "es": "Modelo 5: VGG16 + 9 Capas + Data Augmentation",
+      "reviewed": false
+    },
+    {
+      "source": "Tabla Resumen",
+      "en": "Summary Table",
+      "es": "Tabla Resumen",
+      "reviewed": false
+    },
+    {
+      "source": "Matriz de Confusión: Modelo 3",
+      "en": "Confusion Matrix: Model 3",
+      "es": "Matriz de Confusión: Modelo 3",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Próximos Pasos",
+      "en": "Next Steps",
+      "es": "Próximos Pasos",
+      "reviewed": false
+    },
+    {
+      "source": "Equipo de Trabajo",
+      "en": "Work Team",
+      "es": "Equipo de Trabajo",
+      "reviewed": false
+    },
+    {
+      "source": "Según la Dirección General de Tráfico (DGT), la",
+      "en": "According to the General Directorate of Traffic (DGT), the",
+      "es": "Según la Dirección General de Tráfico (DGT), la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "distracción en la conducción",
+      "en": "distracted driving",
+      "es": "distracción en la conducción",
+      "reviewed": false
+    },
+    {
+      "source": "es una de las principales causas de los accidentes de tráfico, siendo la causa de",
+      "en": "It is one of the main causes of traffic accidents, being the cause of",
+      "es": "es una de las principales causas de los accidentes de tráfico, siendo la causa de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "1 de cada 3 accidentes mortales",
+      "en": "1 in 3 fatal accidents",
+      "es": "1 de cada 3 accidentes mortales",
+      "reviewed": false
+    },
+    {
+      "source": "(33%), por delante de la velocidad (29%) y del alcohol (26%).",
+      "en": "(33%), ahead of speed (29%) and alcohol (26%).",
+      "es": "(33%), por delante de la velocidad (29%) y del alcohol (26%).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tras un minuto y medio de hablar por el móvil (incluso con manos libres), el conductor no percibe el 40% de las señales, su velocidad media baja un 12%, el ritmo cardíaco se acelera bruscamente durante la llamada y se tarda más en reaccionar.",
+      "en": "After a minute and a half of talking on the cell phone (even hands-free), the driver does not perceive 40% of the signals, his average speed drops by 12%, his heart rate accelerates sharply during the call and it takes longer to react.",
+      "es": "Tras un minuto y medio de hablar por el móvil (incluso con manos libres), el conductor no percibe el 40% de las señales, su velocidad media baja un 12%, el ritmo cardíaco se acelera bruscamente durante la llamada y se tarda más en reaccionar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La peligrosidad por un uso inadecuado del móvil puede llegar a ser equiparable a la conducción con exceso de alcohol.",
+      "en": "The danger caused by improper use of a mobile phone can be comparable to driving with excess alcohol.",
+      "es": "La peligrosidad por un uso inadecuado del móvil puede llegar a ser equiparable a la conducción con exceso de alcohol.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Más de 1 de cada 3 españoles reconoce haber hablado por teléfono, leído o escrito mensajes durante la conducción en los últimos años.",
+      "en": "More than 1 in 3 Spaniards admit to having spoken on the phone, read or written messages while driving in recent years.",
+      "es": "Más de 1 de cada 3 españoles reconoce haber hablado por teléfono, leído o escrito mensajes durante la conducción en los últimos años.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Un conductor que habla mientras conduce:",
+      "en": "A driver who talks while driving:",
+      "es": "Un conductor que habla mientras conduce:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pierde la capacidad de mantener una velocidad constante.",
+      "en": "Loses the ability to maintain a constant speed.",
+      "es": "Pierde la capacidad de mantener una velocidad constante.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "No guarda la distancia de seguridad suficiente con el vehículo que circula delante.",
+      "en": "It does not maintain sufficient safety distance from the vehicle in front.",
+      "es": "No guarda la distancia de seguridad suficiente con el vehículo que circula delante.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El tiempo de reacción aumenta considerablemente: entre medio a dos segundos, dependiendo de los reflejos de cada conductor.",
+      "en": "The reaction time increases considerably: between half and two seconds, depending on the reflexes of each driver.",
+      "es": "El tiempo de reacción aumenta considerablemente: entre medio a dos segundos, dependiendo de los reflejos de cada conductor.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes de distracciones comunes al conducir.",
+      "en": "Images of common distractions while driving.",
+      "es": "Imágenes de distracciones comunes al conducir.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Esto hace que la detección de estas distracciones sea esencial para mejorar la",
+      "en": "This makes the detection of these distractions essential to improve the",
+      "es": "Esto hace que la detección de estas distracciones sea esencial para mejorar la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "seguridad vial",
+      "en": "road safety",
+      "es": "seguridad vial",
+      "reviewed": false
+    },
+    {
+      "source": ". Si se pudiera “detectarlas” con el fin de avisar al conductor de que algo va mal, el número de accidentes podría",
+      "en": ". If they could be “detected” in order to warn the driver that something is wrong, the number of accidents could",
+      "es": ". Si se pudiera “detectarlas” con el fin de avisar al conductor de que algo va mal, el número de accidentes podría",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "disminuirse radicalmente",
+      "en": "be radically reduced",
+      "es": "disminuirse radicalmente",
+      "reviewed": false
+    },
+    {
+      "source": "En este proyecto estaremos enfocados en detectar algunas distracciones más comunes, como utilizar el móvil, mirarse al espejo o beber algo mientras conducimos, bien como identificarlas.",
+      "en": "In this project we will be focused on detecting some of the most common distractions, such as using a cell phone, looking in the mirror or drinking something while driving, as well as identifying them.",
+      "es": "En este proyecto estaremos enfocados en detectar algunas distracciones más comunes, como utilizar el móvil, mirarse al espejo o beber algo mientras conducimos, bien como identificarlas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El objetivo de este proyecto es ajustar un modelo de",
+      "en": "The objective of this project is to adjust a model of",
+      "es": "El objetivo de este proyecto es ajustar un modelo de",
+      "reviewed": false
+    },
+    {
+      "source": "capaz de",
+      "en": "capable of",
+      "es": "capaz de",
+      "reviewed": false
+    },
+    {
+      "source": "identificar y clasificar las diferentes distracciones",
+      "en": "Identify and classify different distractions",
+      "es": "identificar y clasificar las diferentes distracciones",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "a que estamos expuestos siempre que conducimos.",
+      "en": "to which we are exposed whenever we drive.",
+      "es": "a que estamos expuestos siempre que conducimos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para ello, trabajaremos con una técnica de",
+      "en": "To do this, we will work with a technique of",
+      "es": "Para ello, trabajaremos con una técnica de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "conocida como “",
+      "en": "known as “",
+      "es": "conocida como “",
+      "reviewed": false
+    },
+    {
+      "source": "Redes Neuronales Convolucionales",
+      "en": "Convolutional Neural Networks",
+      "es": "Redes Neuronales Convolucionales",
+      "reviewed": false
+    },
+    {
+      "source": "” (CNN o “",
+      "en": "” (CNN or “",
+      "es": "” (CNN o “",
+      "reviewed": false
+    },
+    {
+      "source": "Convolutional Neural Network",
+      "en": "Convolutional Neural Network",
+      "es": "Convolutional Neural Network",
+      "reviewed": false
+    },
+    {
+      "source": "Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con redes pre-entrenadas para la clasificación de imágenes (",
+      "en": "We will test some neural network architectures, all of them enhanced with pre-trained networks for image classification (",
+      "es": "Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con redes pre-entrenadas para la clasificación de imágenes (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "transfer learning",
+      "en": "transfer learning",
+      "es": "transfer learning",
+      "reviewed": false
+    },
+    {
+      "source": "El conjunto de imágenes que hemos utilizado en el marco de este proyecto proviene de un concurso lanzado en la plataforma",
+      "en": "The set of images that we have used in the framework of this project comes from a contest launched on the platform",
+      "es": "El conjunto de imágenes que hemos utilizado en el marco de este proyecto proviene de un concurso lanzado en la plataforma",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "hace aproximadamente 5 años (pulse",
+      "en": "about 5 years ago (press",
+      "es": "hace aproximadamente 5 años (pulse",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para verlo).",
+      "en": "to see it).",
+      "es": "para verlo).",
+      "reviewed": false
+    },
+    {
+      "source": "Todas las imágenes han sido obtenidas por medio de una cámara instalada dentro del coche, siempre con un conductor dentro y en diversas situaciones cotidianas.",
+      "en": "All images have been obtained through a camera installed inside the car, always with a driver inside and in various everyday situations.",
+      "es": "Todas las imágenes han sido obtenidas por medio de una cámara instalada dentro del coche, siempre con un conductor dentro y en diversas situaciones cotidianas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las fotos han sido tomadas en un ambiente controlado: un camión arrastraba el coche por las calles, de tal manera que los conductores no tuviesen que conducir de verdad.",
+      "en": "The photos have been taken in a controlled environment: a truck dragged the car through the streets, so that the drivers did not have to really drive.",
+      "es": "Las fotos han sido tomadas en un ambiente controlado: un camión arrastraba el coche por las calles, de tal manera que los conductores no tuviesen que conducir de verdad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para el entrenamiento de los modelos, hemos contado con un total de",
+      "en": "To train the models, we have had a total of",
+      "es": "Para el entrenamiento de los modelos, hemos contado con un total de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "22.424 imágenes",
+      "en": "22,424 images",
+      "es": "22.424 imágenes",
+      "reviewed": false
+    },
+    {
+      "source": ", clasificadas en",
+      "en": ", classified into",
+      "es": ", clasificadas en",
+      "reviewed": false
+    },
+    {
+      "source": "10 categorías",
+      "en": "10 categories",
+      "es": "10 categorías",
+      "reviewed": false
+    },
+    {
+      "source": "Descripción de las 10 categorías del experimento.",
+      "en": "Description of the 10 categories of the experiment.",
+      "es": "Descripción de las 10 categorías del experimento.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como parte de la etapa de “",
+      "en": "As part of the stage of “",
+      "es": "Como parte de la etapa de “",
+      "reviewed": false
+    },
+    {
+      "source": "”, hemos comprobado que todas las imágenes tenían la misma dimensión:",
+      "en": "”, we have verified that all the images had the same dimension:",
+      "es": "”, hemos comprobado que todas las imágenes tenían la misma dimensión:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tras un muestreo aleatorio, podríamos afirmar que las imágenes estaban",
+      "en": "After random sampling, we could affirm that the images were",
+      "es": "Tras un muestreo aleatorio, podríamos afirmar que las imágenes estaban",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "bien clasificadas",
+      "en": "well classified",
+      "es": "bien clasificadas",
+      "reviewed": false
+    },
+    {
+      "source": "a lo largo de las 10 categorías del experimento. Esto se debe seguramente por tratarse de un conjunto de imágenes proveniente de un experimento controlado y que fue a concurso en la plataforma",
+      "en": "throughout the 10 categories of the experiment. This is surely due to the fact that it is a set of images from a controlled experiment that was entered into a contest on the platform.",
+      "es": "a lo largo de las 10 categorías del experimento. Esto se debe seguramente por tratarse de un conjunto de imágenes proveniente de un experimento controlado y que fue a concurso en la plataforma",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Además, las imágenes estaban distribuidas de una forma razonablemente",
+      "en": "Furthermore, the images were distributed in a reasonable way.",
+      "es": "Además, las imágenes estaban distribuidas de una forma razonablemente",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "equilibrada entre las 10 categorías",
+      "en": "balanced between the 10 categories",
+      "es": "equilibrada entre las 10 categorías",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", por lo que prácticamente hemos podido “saltarnos” a la etapa de “EDA” para irnos directamente a la fase de entrenamiento de los modelos de",
+      "en": ", so we have practically been able to “jump” to the “EDA” stage to go directly to the training phase of the models.",
+      "es": ", por lo que prácticamente hemos podido “saltarnos” a la etapa de “EDA” para irnos directamente a la fase de entrenamiento de los modelos de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Distribución del número de imágenes entre las 10 categorías del experimento.",
+      "en": "Distribution of the number of images among the 10 categories of the experiment.",
+      "es": "Distribución del número de imágenes entre las 10 categorías del experimento.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "También estaban disponibles en la plataforma",
+      "en": "They were also available on the platform",
+      "es": "También estaban disponibles en la plataforma",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "79.725 imágenes",
+      "en": "79,725 images",
+      "es": "79.725 imágenes",
+      "reviewed": false
+    },
+    {
+      "source": "para testeo, sin ningún tipo de clasificación o etiqueta.",
+      "en": "for testing, without any type of classification or label.",
+      "es": "para testeo, sin ningún tipo de clasificación o etiqueta.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Es importante mencionar que las imágenes de entrenamiento y testeo estaban divididas en",
+      "en": "It is important to mention that the training and testing images were divided into",
+      "es": "Es importante mencionar que las imágenes de entrenamiento y testeo estaban divididas en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "de tal manera que",
+      "en": "in such a way that",
+      "es": "de tal manera que",
+      "reviewed": false
+    },
+    {
+      "source": "un mismo conductor no podría aparecer en los 2 grupos",
+      "en": "The same driver could not appear in both groups.",
+      "es": "un mismo conductor no podría aparecer en los 2 grupos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "(entrenamiento y testeo).",
+      "en": "(training and testing).",
+      "es": "(entrenamiento y testeo).",
+      "reviewed": false
+    },
+    {
+      "source": "En general, las 10 categorías podrían ser consideradas “",
+      "en": "In general, the 10 categories could be considered “",
+      "es": "En general, las 10 categorías podrían ser consideradas “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "excluyentes",
+      "en": "exclusive",
+      "es": "excluyentes",
+      "reviewed": false
+    },
+    {
+      "source": "”, a excepción de las categorías “",
+      "en": "\", except for the categories \"",
+      "es": "”, a excepción de las categorías “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "c0",
+      "en": "c0",
+      "es": "c0",
+      "reviewed": false
+    },
+    {
+      "source": "” (conduciendo de forma segura) y “",
+      "en": "” (driving safely) and “",
+      "es": "” (conduciendo de forma segura) y “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "c9",
+      "en": "c9",
+      "es": "c9",
+      "reviewed": false
+    },
+    {
+      "source": "” (hablando con pasajero), que se parecen más entre ellas y podrían ser consideradas “",
+      "en": "” (talking to passenger), which are more similar to each other and could be considered “",
+      "es": "” (hablando con pasajero), que se parecen más entre ellas y podrían ser consideradas “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no excluyentes",
+      "en": "not exclusive",
+      "es": "no excluyentes",
+      "reviewed": false
+    },
+    {
+      "source": "”, ya que, en algunas situaciones, tienen en común las 2 manos colocadas en el volante.",
+      "en": "”, since, in some situations, they have in common the 2 hands placed on the steering wheel.",
+      "es": "”, ya que, en algunas situaciones, tienen en común las 2 manos colocadas en el volante.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imágenes de 2 conductores, la primera de la categoría “c0”, y la segunda, de la categoría “c9”.",
+      "en": "Images of 2 drivers, the first from the “c0” category, and the second, from the “c9” category.",
+      "es": "Imágenes de 2 conductores, la primera de la categoría “c0”, y la segunda, de la categoría “c9”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En líneas generales, hemos seguido los siguientes pasos para el ajuste de las",
+      "en": "In general terms, we have followed the following steps to adjust the",
+      "es": "En líneas generales, hemos seguido los siguientes pasos para el ajuste de las",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "presentadas en este proyecto:",
+      "en": "presented in this project:",
+      "es": "presentadas en este proyecto:",
+      "reviewed": false
+    },
+    {
+      "source": "Bajar y pre-procesar las imágenes de los conductores.",
+      "en": "Download and pre-process driver images.",
+      "es": "Bajar y pre-procesar las imágenes de los conductores.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Construir y entrenar un modelo para clasificar las imágenes de los conductores.",
+      "en": "Build and train a model to classify driver images.",
+      "es": "Construir y entrenar un modelo para clasificar las imágenes de los conductores.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Chequear el ajuste del modelo y mejorarlo usando diferentes técnicas.",
+      "en": "Check the fit of the model and improve it using different techniques.",
+      "es": "Chequear el ajuste del modelo y mejorarlo usando diferentes técnicas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Transfer Learning",
+      "en": "Transfer Learning",
+      "es": "Transfer Learning",
+      "reviewed": false
+    },
+    {
+      "source": "Normalmente, no hace falta entrenar una Red Neuronal Convolucional empezando de cero.",
+      "en": "Normally, there is no need to train a Convolutional Neural Network from scratch.",
+      "es": "Normalmente, no hace falta entrenar una Red Neuronal Convolucional empezando de cero.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Redes Convolucionales modernas, entrenadas con enormes conjuntos de datos como",
+      "en": "Modern Convolutional Networks, trained with huge data sets like",
+      "es": "Redes Convolucionales modernas, entrenadas con enormes conjuntos de datos como",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ImageNet",
+      "en": "ImageNet",
+      "es": "ImageNet",
+      "reviewed": false
+    },
+    {
+      "source": ", pueden tardar semanas en múltiples GPU’s.",
+      "en": ", it can take weeks on multiple GPUs.",
+      "es": ", pueden tardar semanas en múltiples GPU’s.",
+      "reviewed": false
+    },
+    {
+      "source": "En cambio, una práctica cada vez más habitual es el uso de",
+      "en": "On the other hand, an increasingly common practice is the use of",
+      "es": "En cambio, una práctica cada vez más habitual es el uso de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "redes pre-entrenadas",
+      "en": "pre-trained networks",
+      "es": "redes pre-entrenadas",
+      "reviewed": false
+    },
+    {
+      "source": "como un extractor de características fijas, o como una red inicial para ajustes más finos.",
+      "en": "as a fixed feature extractor, or as an initial network for finer adjustments.",
+      "es": "como un extractor de características fijas, o como una red inicial para ajustes más finos.",
+      "reviewed": false
+    },
+    {
+      "source": "La red pre-entrenada",
+      "en": "The pre-trained network",
+      "es": "La red pre-entrenada",
+      "reviewed": false
+    },
+    {
+      "source": "VGG",
+      "en": "VGG",
+      "es": "VGG",
+      "reviewed": false
+    },
+    {
+      "source": "es interesante para el objetivo de este proyecto porque, aparte de su sencillez, genera excelentes resultados. La idea es mantener todas las capas de la red VGG, conectando su capa final a nuestro propio clasificador.",
+      "en": "It is interesting for the objective of this project because, apart from its simplicity, it generates excellent results. The idea is to maintain all the layers of the VGG network, connecting its final layer to our own classifier.",
+      "es": "es interesante para el objetivo de este proyecto porque, aparte de su sencillez, genera excelentes resultados. La idea es mantener todas las capas de la red VGG, conectando su capa final a nuestro propio clasificador.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De esta forma, podríamos usar la red VGG como un extractor de características fijas para nuestras imágenes, quedando pendiente el entrenamiento de un clasificador más sencillo al final de todo (",
+      "en": "In this way, we could use the VGG network as a fixed feature extractor for our images, leaving the training of a simpler classifier pending at the end of everything (",
+      "es": "De esta forma, podríamos usar la red VGG como un extractor de características fijas para nuestras imágenes, quedando pendiente el entrenamiento de un clasificador más sencillo al final de todo (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "top model",
+      "en": "top model",
+      "es": "top model",
+      "reviewed": false
+    },
+    {
+      "source": "En este proyecto, utilizaremos la red pre-entrenada “",
+      "en": "In this project, we will use the pre-trained network “",
+      "es": "En este proyecto, utilizaremos la red pre-entrenada “",
+      "reviewed": false
+    },
+    {
+      "source": "VGG16",
+      "en": "VGG16",
+      "es": "VGG16",
+      "reviewed": false
+    },
+    {
+      "source": "”, como punto de partida. Para el ajuste más fino, utilizaremos",
+      "en": "\", as a starting point. For the most fine tuning, we will use",
+      "es": "”, como punto de partida. Para el ajuste más fino, utilizaremos",
+      "reviewed": false
+    },
+    {
+      "source": "3 capas finales",
+      "en": "3 final coats",
+      "es": "3 capas finales",
+      "reviewed": false
+    },
+    {
+      "source": ", propuestas en este",
+      "en": ", proposed in this",
+      "es": ", propuestas en este",
+      "reviewed": false
+    },
+    {
+      "source": "Hands-on Transfer Learning with Keras and the VGG16 Model",
+      "en": "Hands-on Transfer Learning with Keras and the VGG16 Model",
+      "es": "Aprendizaje de transferencia manual con Keras y el modelo VGG16",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A partir del resultado de este primer ajuste, construiremos nuevos modelos,",
+      "en": "From the result of this first adjustment, we will build new models,",
+      "es": "A partir del resultado de este primer ajuste, construiremos nuevos modelos,",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "con más capas",
+      "en": "with more layers",
+      "es": "con más capas",
+      "reviewed": false
+    },
+    {
+      "source": ". También utilizaremos el recurso de",
+      "en": ". We will also use the resource of",
+      "es": ". También utilizaremos el recurso de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", e incluso nos atreveremos a cambiar la “",
+      "en": ", and we will even dare to change the “",
+      "es": ", e incluso nos atreveremos a cambiar la “",
+      "reviewed": false
+    },
+    {
+      "source": "” por la “",
+      "en": "” for the “",
+      "es": "” por la “",
+      "reviewed": false
+    },
+    {
+      "source": "VGG19",
+      "en": "VGG19",
+      "es": "VGG19",
+      "reviewed": false
+    },
+    {
+      "source": "”, red neuronal pre-entrenada más compleja, ya que cuenta con 3 capas más que la “",
+      "en": "\", more complex pre-trained neural network, since it has 3 more layers than the \"",
+      "es": "”, red neuronal pre-entrenada más compleja, ya que cuenta con 3 capas más que la “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Amazon Web Services",
+      "en": "Amazon Web Services",
+      "es": "Amazon Web Services",
+      "reviewed": false
+    },
+    {
+      "source": "Los ajustes de este primer modelo y de todos los demás presentados en este artículo han sido realizados en",
+      "en": "The adjustments of this first model and all the others presented in this article have been made in",
+      "es": "Los ajustes de este primer modelo y de todos los demás presentados en este artículo han sido realizados en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "SageMaker",
+      "en": "SageMaker",
+      "es": "SageMaker",
+      "reviewed": false
+    },
+    {
+      "source": ". Para ello, hemos contado con el crédito de",
+      "en": ". For this, we have had the credit of",
+      "es": ". Para ello, hemos contado con el crédito de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "que",
+      "en": "that",
+      "es": "que",
+      "reviewed": false
+    },
+    {
+      "source": "Amazon",
+      "en": "amazon",
+      "es": "Amazon",
+      "reviewed": false
+    },
+    {
+      "source": "nos concedió por formar parte de la familia",
+      "en": "granted us for being part of the family",
+      "es": "nos concedió por formar parte de la familia",
+      "reviewed": false
+    },
+    {
+      "source": "Saturdays.AI.",
+      "en": "Saturdays.AI.",
+      "es": "Saturdays.AI.",
+      "reviewed": false
+    },
+    {
+      "source": "Hemos elegido el centro computacional ubicado en ‘",
+      "en": "We have chosen the computing center located in '",
+      "es": "Hemos elegido el centro computacional ubicado en ‘",
+      "reviewed": false
+    },
+    {
+      "source": "EE.UU. Este (Ohio)us-east-2",
+      "en": "US East (Ohio)us-east-2",
+      "es": "EE.UU. Este (Ohio)us-east-2",
+      "reviewed": false
+    },
+    {
+      "source": "’, ya que este centro disponía de",
+      "en": "', since this center had",
+      "es": "’, ya que este centro disponía de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "máquinas con GPU",
+      "en": "GPU machines",
+      "es": "máquinas con GPU",
+      "reviewed": false
+    },
+    {
+      "source": ". La máquina elegida para abrir la instancia de nuestro notebook en",
+      "en": ". The machine chosen to open the instance of our notebook in",
+      "es": ". La máquina elegida para abrir la instancia de nuestro notebook en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ha sido: ‘",
+      "en": "has been: '",
+      "es": "ha sido: ‘",
+      "reviewed": false
+    },
+    {
+      "source": "ml.p3.2xlarge",
+      "en": "ml.p3.2xlarge",
+      "es": "ml.p3.2xlarge",
+      "reviewed": false
+    },
+    {
+      "source": "Parámetros y Evaluación de los Modelos",
+      "en": "Parameters and Evaluation of Models",
+      "es": "Parámetros y Evaluación de los Modelos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Un resumen de los parámetros de los modelos ajustados será presentado a continuación en modo de tabla.",
+      "en": "A summary of the parameters of the fitted models will be presented below in table mode.",
+      "es": "Un resumen de los parámetros de los modelos ajustados será presentado a continuación en modo de tabla.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De todas formas, no está de más comentar que, en todos los modelos, hemos fijado",
+      "en": "In any case, it is worth mentioning that, in all models, we have set",
+      "es": "De todas formas, no está de más comentar que, en todos los modelos, hemos fijado",
+      "reviewed": false
+    },
+    {
+      "source": "Batch",
+      "en": "batch",
+      "es": "Batch",
+      "reviewed": false
+    },
+    {
+      "source": "Epochs",
+      "en": "Epochs",
+      "es": "Epochs",
+      "reviewed": false
+    },
+    {
+      "source": ", para que hubiese una base de comparabilidad entre los ajustes de los modelos.",
+      "en": ", so that there was a basis of comparability between the model fits.",
+      "es": ", para que hubiese una base de comparabilidad entre los ajustes de los modelos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para hacer la evaluación de los modelos ajustados, además de las gráficas de",
+      "en": "To evaluate the fitted models, in addition to the graphs of",
+      "es": "Para hacer la evaluación de los modelos ajustados, además de las gráficas de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "accuracy",
+      "en": "accuracy",
+      "es": "accuracy",
+      "reviewed": false
+    },
+    {
+      "source": "y de",
+      "en": "and of",
+      "es": "y de",
+      "reviewed": false
+    },
+    {
+      "source": "loss",
+      "en": "loss",
+      "es": "loss",
+      "reviewed": false
+    },
+    {
+      "source": "generadas por el algoritmo, hemos clasificado",
+      "en": "generated by the algorithm, we have classified",
+      "es": "generadas por el algoritmo, hemos clasificado",
+      "reviewed": false
+    },
+    {
+      "source": "1.002 imágenes",
+      "en": "1,002 images",
+      "es": "1.002 imágenes",
+      "reviewed": false
+    },
+    {
+      "source": ", que a partir de ahora llamaremos ‘",
+      "en": ", which from now on we will call '",
+      "es": ", que a partir de ahora llamaremos ‘",
+      "reviewed": false
+    },
+    {
+      "source": "Test Data",
+      "en": "Test Data",
+      "es": "Test Data",
+      "reviewed": false
+    },
+    {
+      "source": "Esta imágenes han sido elegidas aleatoriamente de las",
+      "en": "These images have been chosen randomly from the",
+      "es": "Esta imágenes han sido elegidas aleatoriamente de las",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "79.725 imágenes no clasificadas para testeo",
+      "en": "79,725 images not classified for testing",
+      "es": "79.725 imágenes no clasificadas para testeo",
+      "reviewed": false
+    },
+    {
+      "source": ", con el objetivo de tener una",
+      "en": ", with the aim of having a",
+      "es": ", con el objetivo de tener una",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "medida de",
+      "en": "measure of",
+      "es": "medida de",
+      "reviewed": false
+    },
+    {
+      "source": "en un conjunto de imágenes totalmente ajeno a los datos utilizados para los entrenamientos (‘",
+      "en": "on a set of images totally unrelated to the data used for training ('",
+      "es": "en un conjunto de imágenes totalmente ajeno a los datos utilizados para los entrenamientos (‘",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Accuracy",
+      "en": "Accuracy",
+      "es": "Accuracy",
+      "reviewed": false
+    },
+    {
+      "source": "También hemos preparado un código en",
+      "en": "We have also prepared a code in",
+      "es": "También hemos preparado un código en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Google Colab",
+      "en": "Google Colab",
+      "es": "Google Colab",
+      "reviewed": false
+    },
+    {
+      "source": "(“model_test.ipynb”), para poder",
+      "en": "(“model_test.ipynb”), in order to",
+      "es": "(“model_test.ipynb”), para poder",
+      "reviewed": false
+    },
+    {
+      "source": "visualizar el resultado del modelo en cada imagen",
+      "en": "visualize the result of the model in each image",
+      "es": "visualizar el resultado del modelo en cada imagen",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", como se puede ver en el GIF de abajo.",
+      "en": ", as you can see in the GIF below.",
+      "es": ", como se puede ver en el GIF de abajo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Output de “model_test.ipynb”.",
+      "en": "Output of “model_test.ipynb”.",
+      "es": "Output de “model_test.ipynb”.",
+      "reviewed": false
+    },
+    {
+      "source": "Como comentado anteriormente, para el primer modelo (“base”) hemos utilizado la red pre-entrenada “",
+      "en": "As mentioned above, for the first model (“base”) we have used the pre-trained network “",
+      "es": "Como comentado anteriormente, para el primer modelo (“base”) hemos utilizado la red pre-entrenada “",
+      "reviewed": false
+    },
+    {
+      "source": "”, y para el ajuste más fino, hemos utilizado",
+      "en": "”, and for the finest adjustment, we have used",
+      "es": "”, y para el ajuste más fino, hemos utilizado",
+      "reviewed": false
+    },
+    {
+      "source": "El resultado del ajuste de este modelo podría ser considerado satisfactorio, teniendo en cuenta que este ha sido el primer intento de modelización del proyecto:",
+      "en": "The result of the adjustment of this model could be considered satisfactory, taking into account that this has been the first attempt at modeling the project:",
+      "es": "El resultado del ajuste de este modelo podría ser considerado satisfactorio, teniendo en cuenta que este ha sido el primer intento de modelización del proyecto:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Gráficas de A_ccuracy_ y",
+      "en": "A_ccuracy_ graphs and",
+      "es": "Gráficas de A_ccuracy_ y",
+      "reviewed": false
+    },
+    {
+      "source": "Loss",
+      "en": "loss",
+      "es": "Loss",
+      "reviewed": false
+    },
+    {
+      "source": "del Modelo 1.",
+      "en": "of Model 1.",
+      "es": "del Modelo 1.",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 2: VGG16 + 3 Capas +",
+      "en": "Model 2: VGG16 + 3 Layers +",
+      "es": "Modelo 2: VGG16 + 3 Capas +",
+      "reviewed": false
+    },
+    {
+      "source": "Para mejorar el modelo anterior, nos hemos planteado utilizar el recurso de “",
+      "en": "To improve the previous model, we have considered using the resource of “",
+      "es": "Para mejorar el modelo anterior, nos hemos planteado utilizar el recurso de “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En principio, no sabíamos a que se referían algunos de los diversos parámetros disponibles para hacer el",
+      "en": "At first, we did not know what some of the various parameters available to make the",
+      "es": "En principio, no sabíamos a que se referían algunos de los diversos parámetros disponibles para hacer el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", tampoco qué significaban sus rangos.",
+      "en": ", nor what their ranks meant.",
+      "es": ", tampoco qué significaban sus rangos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para solventarlo, hicimos una serie de pruebas, para poder decidir qué parámetros de",
+      "en": "To solve this, we did a series of tests, to be able to decide which parameters of",
+      "es": "Para solventarlo, hicimos una serie de pruebas, para poder decidir qué parámetros de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "queríamos emplear en nuestro conjunto de imágenes y sus respectivos rangos.",
+      "en": "we wanted to use in our set of images and their respective ranges.",
+      "es": "queríamos emplear en nuestro conjunto de imágenes y sus respectivos rangos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Al tratarse de un experimento controlado, el conjunto de imágenes utilizado requería un",
+      "en": "Being a controlled experiment, the set of images used required a",
+      "es": "Al tratarse de un experimento controlado, el conjunto de imágenes utilizado requería un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "controlado y discreto",
+      "en": "controlled and discreet",
+      "es": "controlado y discreto",
+      "reviewed": false
+    },
+    {
+      "source": ", teniendo en cuenta que cambios exagerados aplicados a las imágenes originales podrían ser contraproducentes.",
+      "en": ", taking into account that exaggerated changes applied to the original images could be counterproductive.",
+      "es": ", teniendo en cuenta que cambios exagerados aplicados a las imágenes originales podrían ser contraproducentes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por ejemplo, hemos decidido no hacer “rotaciones”, ya que corríamos el riesgo de generar imágenes “antinaturales”.",
+      "en": "For example, we have decided not to do “rotations”, since we ran the risk of generating “unnatural” images.",
+      "es": "Por ejemplo, hemos decidido no hacer “rotaciones”, ya que corríamos el riesgo de generar imágenes “antinaturales”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los parámetros de",
+      "en": "The parameters of",
+      "es": "Los parámetros de",
+      "reviewed": false
+    },
+    {
+      "source": "que hemos utilizado han sido: “",
+      "en": "that we have used have been: “",
+      "es": "que hemos utilizado han sido: “",
+      "reviewed": false
+    },
+    {
+      "source": "zoom",
+      "en": "zoom",
+      "es": "zoom",
+      "reviewed": false
+    },
+    {
+      "source": "width",
+      "en": "width",
+      "es": "width",
+      "reviewed": false
+    },
+    {
+      "source": "height",
+      "en": "height",
+      "es": "height",
+      "reviewed": false
+    },
+    {
+      "source": "brightness",
+      "en": "brightness",
+      "es": "brightness",
+      "reviewed": false
+    },
+    {
+      "source": "”. A continuación, algunos ejemplos.",
+      "en": "” Below are some examples.",
+      "es": "”. A continuación, algunos ejemplos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Zoom_range = [0.95, 1.05]",
+      "en": "Zoom_range = [0.95, 1.05]",
+      "es": "Zoom_range = [0.95, 1.05]",
+      "reviewed": false
+    },
+    {
+      "source": "Width_shift_range = 0.1",
+      "en": "width_shift_range = 0.1",
+      "es": "Width_shift_range = 0.1",
+      "reviewed": false
+    },
+    {
+      "source": "las imágenes tienen ese tono debido al preprocesamiento de RGB.",
+      "en": "The images have that tone due to RGB preprocessing.",
+      "es": "las imágenes tienen ese tono debido al preprocesamiento de RGB.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El resultado del ajuste de este modelo ha mejorado considerablemente con relación al anterior (Modelo 1), por lo que hemos decidido continuar utilizando",
+      "en": "The result of the adjustment of this model has improved considerably compared to the previous one (Model 1), so we have decided to continue using",
+      "es": "El resultado del ajuste de este modelo ha mejorado considerablemente con relación al anterior (Modelo 1), por lo que hemos decidido continuar utilizando",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "en los siguientes modelos ajustados en el marco de este proyecto.",
+      "en": "in the following models adjusted within the framework of this project.",
+      "es": "en los siguientes modelos ajustados en el marco de este proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del Modelo 2.",
+      "en": "of Model 2.",
+      "es": "del Modelo 2.",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 3: VGG16 + 5 Capas +",
+      "en": "Model 3: VGG16 + 5 Layers +",
+      "es": "Modelo 3: VGG16 + 5 Capas +",
+      "reviewed": false
+    },
+    {
+      "source": "De cara a seguir mejorando el ajuste anterior, hemos incrementado",
+      "en": "In order to continue improving the previous adjustment, we have increased",
+      "es": "De cara a seguir mejorando el ajuste anterior, hemos incrementado",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "2 capas",
+      "en": "2 layers",
+      "es": "2 capas",
+      "reviewed": false
+    },
+    {
+      "source": "a la red neuronal final (",
+      "en": "to the final neural network (",
+      "es": "a la red neuronal final (",
+      "reviewed": false
+    },
+    {
+      "source": "), manteniendo los mismos parámetros de",
+      "en": "), maintaining the same parameters of",
+      "es": "), manteniendo los mismos parámetros de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del modelo anterior.",
+      "en": "of the previous model.",
+      "es": "del modelo anterior.",
+      "reviewed": false
+    },
+    {
+      "source": "Se observa una mejora importante en el",
+      "en": "A significant improvement is observed in the",
+      "es": "Se observa una mejora importante en el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del modelo en ‘",
+      "en": "of the model in '",
+      "es": "del modelo en ‘",
+      "reviewed": false
+    },
+    {
+      "source": "del Modelo 3.",
+      "en": "of Model 3.",
+      "es": "del Modelo 3.",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 4: VGG19 + 5 Capas +",
+      "en": "Model 4: VGG19 + 5 Layers +",
+      "es": "Modelo 4: VGG19 + 5 Capas +",
+      "reviewed": false
+    },
+    {
+      "source": "A esta altura, ya que los resultados habían mejorado considerablemente, hemos decidido hacer algo diferente, como un",
+      "en": "At this point, since the results had improved considerably, we decided to do something different, such as a",
+      "es": "A esta altura, ya que los resultados habían mejorado considerablemente, hemos decidido hacer algo diferente, como un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "cambio de la red pre-entrenada",
+      "en": "changing the pre-trained network",
+      "es": "cambio de la red pre-entrenada",
+      "reviewed": false
+    },
+    {
+      "source": ", para seguir explorando nuevos caminos hacia la mejora.",
+      "en": ", to continue exploring new paths towards improvement.",
+      "es": ", para seguir explorando nuevos caminos hacia la mejora.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hemos utilizado la red “",
+      "en": "We have used the network “",
+      "es": "Hemos utilizado la red “",
+      "reviewed": false
+    },
+    {
+      "source": "”, que contiene",
+      "en": "\", which contains",
+      "es": "”, que contiene",
+      "reviewed": false
+    },
+    {
+      "source": "3 capas más",
+      "en": "3 more layers",
+      "es": "3 capas más",
+      "reviewed": false
+    },
+    {
+      "source": "que la red “",
+      "en": "that the network",
+      "es": "que la red “",
+      "reviewed": false
+    },
+    {
+      "source": "En este caso, los resultados de",
+      "en": "In this case, the results of",
+      "es": "En este caso, los resultados de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no han mejorado respecto al Modelo 3:",
+      "en": "They have not improved compared to Model 3:",
+      "es": "no han mejorado respecto al Modelo 3:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del Modelo 4.",
+      "en": "of Model 4.",
+      "es": "del Modelo 4.",
+      "reviewed": false
+    },
+    {
+      "source": "Por lo que hemos decidido volver a utilizar la red",
+      "en": "So we have decided to use the network again",
+      "es": "Por lo que hemos decidido volver a utilizar la red",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "“VGG16",
+      "en": "“VGG16",
+      "es": "“VGG16",
+      "reviewed": false
+    },
+    {
+      "source": "” para el ajuste del siguiente modelo.",
+      "en": "” for the adjustment of the following model.",
+      "es": "” para el ajuste del siguiente modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Modelo 5: VGG16 + 9 Capas +",
+      "en": "Model 5: VGG16 + 9 Layers +",
+      "es": "Modelo 5: VGG16 + 9 Capas +",
+      "reviewed": false
+    },
+    {
+      "source": "Para seguir explorando otras posibles mejoras en lo que concierne al",
+      "en": "To continue exploring other possible improvements regarding the",
+      "es": "Para seguir explorando otras posibles mejoras en lo que concierne al",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del modelo, hemos decidido",
+      "en": "of the model, we have decided",
+      "es": "del modelo, hemos decidido",
+      "reviewed": false
+    },
+    {
+      "source": "aumentar considerablemente el número de capas",
+      "en": "considerably increase the number of layers",
+      "es": "aumentar considerablemente el número de capas",
+      "reviewed": false
+    },
+    {
+      "source": ", de",
+      "en": ", from",
+      "es": ", de",
+      "reviewed": false
+    },
+    {
+      "source": ", manteniendo el",
+      "en": ", maintaining the",
+      "es": ", manteniendo el",
+      "reviewed": false
+    },
+    {
+      "source": "anterior.",
+      "en": "previous.",
+      "es": "anterior.",
+      "reviewed": false
+    },
+    {
+      "source": "En este caso, tampoco hemos mejorado el",
+      "en": "In this case, we have not improved the",
+      "es": "En este caso, tampoco hemos mejorado el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "respecto al",
+      "en": "regarding the",
+      "es": "respecto al",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 3",
+      "en": "Model 3",
+      "es": "Modelo 3",
+      "reviewed": false
+    },
+    {
+      "source": ", aunque el resultado haya sido bastante aceptable:",
+      "en": ", although the result has been quite acceptable:",
+      "es": ", aunque el resultado haya sido bastante aceptable:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "del Modelo 5.",
+      "en": "of Model 5.",
+      "es": "del Modelo 5.",
+      "reviewed": false
+    },
+    {
+      "source": "La tabla a continuación detalla los",
+      "en": "The table below details the",
+      "es": "La tabla a continuación detalla los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "5 modelos ajustados",
+      "en": "5 adjusted models",
+      "es": "5 modelos ajustados",
+      "reviewed": false
+    },
+    {
+      "source": "y la línea de razonamiento seguida para ir ajustándolos, paso a paso.",
+      "en": "and the line of reasoning followed to adjust them, step by step.",
+      "es": "y la línea de razonamiento seguida para ir ajustándolos, paso a paso.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En azul, los cambios implementados a partir del primer modelo (“base”), y los mejores resultados de",
+      "en": "In blue, the changes implemented from the first model (“base”), and the best results of",
+      "es": "En azul, los cambios implementados a partir del primer modelo (“base”), y los mejores resultados de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Parámetros y resultados de los 5 modelos ajustados.",
+      "en": "Parameters and results of the 5 adjusted models.",
+      "es": "Parámetros y resultados de los 5 modelos ajustados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los porcentajes de acierto por categoría provenientes del ajuste del",
+      "en": "The percentages of correctness by category from the adjustment of the",
+      "es": "Los porcentajes de acierto por categoría provenientes del ajuste del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "son en general bastante satisfactorios.",
+      "en": "They are generally quite satisfactory.",
+      "es": "son en general bastante satisfactorios.",
+      "reviewed": false
+    },
+    {
+      "source": "Esto se refleja en la",
+      "en": "This is reflected in the",
+      "es": "Esto se refleja en la",
+      "reviewed": false
+    },
+    {
+      "source": "Matriz de Confusión",
+      "en": "Confusion Matrix",
+      "es": "Matriz de Confusión",
+      "reviewed": false
+    },
+    {
+      "source": "del modelo.",
+      "en": "of the model.",
+      "es": "del modelo.",
+      "reviewed": false
+    },
+    {
+      "source": "Matriz de Confusión del Modelo 3.",
+      "en": "Model 3 Confusion Matrix.",
+      "es": "Matriz de Confusión del Modelo 3.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se destacan las siguientes categorías por su",
+      "en": "The following categories stand out for their",
+      "es": "Se destacan las siguientes categorías por su",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "alto porcentaje de acierto",
+      "en": "high success rate",
+      "es": "alto porcentaje de acierto",
+      "reviewed": false
+    },
+    {
+      "source": "c3",
+      "en": "c3",
+      "es": "c3",
+      "reviewed": false
+    },
+    {
+      "source": "” (tecleando el móvil -mano izquierda), “",
+      "en": "” (typing mobile phone - left hand), “",
+      "es": "” (tecleando el móvil -mano izquierda), “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "c5",
+      "en": "c5",
+      "es": "c5",
+      "reviewed": false
+    },
+    {
+      "source": "” (manipulando la radio) y “",
+      "en": "” (manipulating the radio) and “",
+      "es": "” (manipulando la radio) y “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "c7",
+      "en": "c7",
+      "es": "c7",
+      "reviewed": false
+    },
+    {
+      "source": "” (buscando en la parte trasera).",
+      "en": "” (looking in the back).",
+      "es": "” (buscando en la parte trasera).",
+      "reviewed": false
+    },
+    {
+      "source": "Porcentajes de acierto por categoría.",
+      "en": "Correct percentages by category.",
+      "es": "Porcentajes de acierto por categoría.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Es notable la disminución del porcentaje de acierto en la categoría “",
+      "en": "The decrease in the percentage of correct answers in the category “",
+      "es": "Es notable la disminución del porcentaje de acierto en la categoría “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” (hablando con pasajero). Esto pasa debido a que las categorías “",
+      "en": "” (talking to passenger). This happens because the categories “",
+      "es": "” (hablando con pasajero). Esto pasa debido a que las categorías “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” podrían ser consideradas las “",
+      "en": "” could be considered the “",
+      "es": "” podrían ser consideradas las “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "menos excluyentes",
+      "en": "less exclusive",
+      "es": "menos excluyentes",
+      "reviewed": false
+    },
+    {
+      "source": "”, según comentado anteriormente.",
+      "en": "”, as mentioned previously.",
+      "es": "”, según comentado anteriormente.",
+      "reviewed": false
+    },
+    {
+      "source": "Si tenemos en cuenta “",
+      "en": "If we take into account “",
+      "es": "Si tenemos en cuenta “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ambas como clasificaciones correctas",
+      "en": "both as correct classifications",
+      "es": "ambas como clasificaciones correctas",
+      "reviewed": false
+    },
+    {
+      "source": "para “",
+      "en": "for “",
+      "es": "para “",
+      "reviewed": false
+    },
+    {
+      "source": "”, este porcentaje de acierto para “",
+      "en": "”, this percentage of success for “",
+      "es": "”, este porcentaje de acierto para “",
+      "reviewed": false
+    },
+    {
+      "source": "” se incrementa un",
+      "en": "” increases by",
+      "es": "” se incrementa un",
+      "reviewed": false
+    },
+    {
+      "source": "(de 54,5% a 85,7%), acercándose a los porcentajes de acierto de las demás categorías.",
+      "en": "(from 54.5% to 85.7%), approaching the correct percentages of the other categories.",
+      "es": "(de 54,5% a 85,7%), acercándose a los porcentajes de acierto de las demás categorías.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hemos realizado este cálculo para intentar cuantificar el",
+      "en": "We have carried out this calculation to try to quantify the",
+      "es": "Hemos realizado este cálculo para intentar cuantificar el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "impacto en",
+      "en": "impact on",
+      "es": "impacto en",
+      "reviewed": false
+    },
+    {
+      "source": "por el hecho de haber trabajado con un par de categorías “",
+      "en": "for the fact of having worked with a couple of categories “",
+      "es": "por el hecho de haber trabajado con un par de categorías “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "algo menos excluyentes",
+      "en": "somewhat less exclusive",
+      "es": "algo menos excluyentes",
+      "reviewed": false
+    },
+    {
+      "source": "Si las categorías “",
+      "en": "If the categories “",
+      "es": "Si las categorías “",
+      "reviewed": false
+    },
+    {
+      "source": "” hubiesen sido definidas de una forma “",
+      "en": "\"would have been defined in a way\"",
+      "es": "” hubiesen sido definidas de una forma “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "más excluyente",
+      "en": "more exclusive",
+      "es": "más excluyente",
+      "reviewed": false
+    },
+    {
+      "source": "”, seguramente hubiésemos conseguido unos ajustes con",
+      "en": "”, surely we would have achieved some adjustments with",
+      "es": "”, seguramente hubiésemos conseguido unos ajustes con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "mejor",
+      "en": "better",
+      "es": "mejor",
+      "reviewed": false
+    },
+    {
+      "source": "desde el principio.",
+      "en": "from the beginning.",
+      "es": "desde el principio.",
+      "reviewed": false
+    },
+    {
+      "source": "Por otro lado, entendemos que el estudio tiene que reflejar situaciones cotidianas, ya que serán la realidad a ser afrontada en el momento de desplegar cualquier modelo en la vida real.",
+      "en": "On the other hand, we understand that the study has to reflect everyday situations, since they will be the reality to be faced when deploying any model in real life.",
+      "es": "Por otro lado, entendemos que el estudio tiene que reflejar situaciones cotidianas, ya que serán la realidad a ser afrontada en el momento de desplegar cualquier modelo en la vida real.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "gran capacidad computacional",
+      "en": "great computational capacity",
+      "es": "gran capacidad computacional",
+      "reviewed": false
+    },
+    {
+      "source": "que requiere este tipo de técnica ha hecho que tuviéramos que dedicar una parte importante del recurso del proyecto para solventar problemas de ejecución de los códigos utilizados.",
+      "en": "The fact that this type of technique requires has meant that we had to dedicate an important part of the project resource to solve execution problems of the codes used.",
+      "es": "que requiere este tipo de técnica ha hecho que tuviéramos que dedicar una parte importante del recurso del proyecto para solventar problemas de ejecución de los códigos utilizados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hemos tenido que aprender a utilizar los servicios de",
+      "en": "We have had to learn to use the services of",
+      "es": "Hemos tenido que aprender a utilizar los servicios de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para hacerlo viable, y los modelos de este proyecto han podido ser entrenados gracias a las",
+      "en": "to make it viable, and the models of this project have been able to be trained thanks to the",
+      "es": "para hacerlo viable, y los modelos de este proyecto han podido ser entrenados gracias a las",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "GPU’s",
+      "en": "GPUs",
+      "es": "GPU’s",
+      "reviewed": false
+    },
+    {
+      "source": "disponibles de esta plataforma.",
+      "en": "available from this platform.",
+      "es": "disponibles de esta plataforma.",
+      "reviewed": false
+    },
+    {
+      "source": "A continuación, se presentan algunas conclusiones y lecciones aprendidas tras desarrollar este proyecto:",
+      "en": "Below are some conclusions and lessons learned after developing this project:",
+      "es": "A continuación, se presentan algunas conclusiones y lecciones aprendidas tras desarrollar este proyecto:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "No siempre un incremento de capas",
+      "en": "Not always an increase in layers",
+      "es": "No siempre un incremento de capas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "a la Red Neuronal va a",
+      "en": "to the Neural Network is going to",
+      "es": "a la Red Neuronal va a",
+      "reviewed": false
+    },
+    {
+      "source": "mejorar el",
+      "en": "improve the",
+      "es": "mejorar el",
+      "reviewed": false
+    },
+    {
+      "source": "del ajuste del modelo",
+      "en": "model fit",
+      "es": "del ajuste del modelo",
+      "reviewed": false
+    },
+    {
+      "source": ". Este hecho se ha podido ver en los ajustes de los Modelos 3 y 5.",
+      "en": ". This fact has been seen in the adjustments of Models 3 and 5.",
+      "es": ". Este hecho se ha podido ver en los ajustes de los Modelos 3 y 5.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El recurso de",
+      "en": "The resource of",
+      "es": "El recurso de",
+      "reviewed": false
+    },
+    {
+      "source": "debe ser utilizado",
+      "en": "must be used",
+      "es": "debe ser utilizado",
+      "reviewed": false
+    },
+    {
+      "source": "con criterio",
+      "en": "with judgment",
+      "es": "con criterio",
+      "reviewed": false
+    },
+    {
+      "source": ", tras un análisis del conjunto de imágenes inicial, ya que su uso indiscriminado puede ser contraproducente.",
+      "en": ", after an analysis of the initial set of images, since its indiscriminate use can be counterproductive.",
+      "es": ", tras un análisis del conjunto de imágenes inicial, ya que su uso indiscriminado puede ser contraproducente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "trabajo en equipo",
+      "en": "teamwork",
+      "es": "trabajo en equipo",
+      "reviewed": false
+    },
+    {
+      "source": "ha sido fundamental para el éxito de este proyecto. Los perfiles diferentes entre los miembros del equipo del proyecto y del equipo coordinador de",
+      "en": "has been fundamental to the success of this project. The different profiles between the members of the project team and the project coordination team",
+      "es": "ha sido fundamental para el éxito de este proyecto. Los perfiles diferentes entre los miembros del equipo del proyecto y del equipo coordinador de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Saturdays.AI Donostia",
+      "en": "Saturdays.AI Donostia",
+      "es": "Saturdays.AI Donostia",
+      "reviewed": false
+    },
+    {
+      "source": "ha sido clave para sumar una",
+      "en": "has been key to adding a",
+      "es": "ha sido clave para sumar una",
+      "reviewed": false
+    },
+    {
+      "source": "visión amplia y enriquecedora",
+      "en": "broad and enriching vision",
+      "es": "visión amplia y enriquecedora",
+      "reviewed": false
+    },
+    {
+      "source": "El camino no ha sido fácil y ha requerido muchas horas de entrenamientos. Pero créenos: ¡",
+      "en": "The road has not been easy and has required many hours of training. But believe us:",
+      "es": "El camino no ha sido fácil y ha requerido muchas horas de entrenamientos. Pero créenos: ¡",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ha merecido la pena",
+      "en": "it has been worth it",
+      "es": "ha merecido la pena",
+      "reviewed": false
+    },
+    {
+      "source": "Como próximos pasos, nos planteamos lo siguiente:",
+      "en": "As next steps, we consider the following:",
+      "es": "Como próximos pasos, nos planteamos lo siguiente:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ajustar un segundo modelo más específico que aprenda a detectar las diferencias entre las categorías “",
+      "en": "“Adjust a second, more specific model that learns to detect differences between categories.”",
+      "es": "Ajustar un segundo modelo más específico que aprenda a detectar las diferencias entre las categorías “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Volver a entrenar el",
+      "en": "Retrain the",
+      "es": "Volver a entrenar el",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo 4",
+      "en": "Model 4",
+      "es": "Modelo 4",
+      "reviewed": false
+    },
+    {
+      "source": "(VGG19 + 5 capas +",
+      "en": "(VGG19 + 5 layers +",
+      "es": "(VGG19 + 5 capas +",
+      "reviewed": false
+    },
+    {
+      "source": "), pero ahora con más “",
+      "en": "), but now with more “",
+      "es": "), pero ahora con más “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "epochs",
+      "en": "epochs",
+      "es": "epochs",
+      "reviewed": false
+    },
+    {
+      "source": "”. La idea es observar si con más entrenamientos la red “",
+      "en": "\". The idea is to observe if with more training the network \"",
+      "es": "”. La idea es observar si con más entrenamientos la red “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” converge a los mismos resultados observados con la red “",
+      "en": "\"converges to the same results observed with the network\"",
+      "es": "” converge a los mismos resultados observados con la red “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ejecutar el",
+      "en": "Run the",
+      "es": "Ejecutar el",
+      "reviewed": false
+    },
+    {
+      "source": "en una",
+      "en": "in one",
+      "es": "en una",
+      "reviewed": false
+    },
+    {
+      "source": "Jetson Nano Nvidia",
+      "en": "Jetson Nano Nvidia",
+      "es": "Jetson Nano Nvidia",
+      "reviewed": false
+    },
+    {
+      "source": ", y por medio de una cámara instalada en el coche, comprobar la eficacia del modelo en la detección de comportamientos inadecuados.",
+      "en": ", and through a camera installed in the car, check the effectiveness of the model in detecting inappropriate behavior.",
+      "es": ", y por medio de una cámara instalada en el coche, comprobar la eficacia del modelo en la detección de comportamientos inadecuados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y para despedirnos, nos gustaría presentarnos.",
+      "en": "And to say goodbye, we would like to introduce ourselves.",
+      "es": "Y para despedirnos, nos gustaría presentarnos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hola. Me llamo",
+      "en": "Hello. my name is",
+      "es": "Hola. Me llamo",
+      "reviewed": false
+    },
+    {
+      "source": "Imanol Areizaga",
+      "en": "Imanol Areizaga",
+      "es": "Imanol Areizaga",
+      "reviewed": false
+    },
+    {
+      "source": "y soy Ingeniero Industrial. Desde mis primeras experiencias laborales estoy trabajando en procesos de digitalización en el ámbito industrial. En el camino de",
+      "en": "and I am an Industrial Engineer. Since my first work experiences I have been working on digitalization processes in the industrial field. On the way to",
+      "es": "y soy Ingeniero Industrial. Desde mis primeras experiencias laborales estoy trabajando en procesos de digitalización en el ámbito industrial. En el camino de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Data Science",
+      "en": "Data Science",
+      "es": "Data Science",
+      "reviewed": false
+    },
+    {
+      "source": "vas descubriendo paso a paso nuevos horizontes y en este paso que estoy dando junto a Saturdays.AI estoy interesado en cómo aplicar",
+      "en": "you discover new horizons step by step and in this step that I am taking together with Saturdays.AI I am interested in how to apply",
+      "es": "vas descubriendo paso a paso nuevos horizontes y en este paso que estoy dando junto a Saturdays.AI estoy interesado en cómo aplicar",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "en el ámbito Industrial. Un ámbito muy exigente, en el que la eficiencia de los modelos tiene que ser muy cercana al 100%.",
+      "en": "in the Industrial field. A very demanding area, in which the efficiency of the models has to be very close to 100%.",
+      "es": "en el ámbito Industrial. Un ámbito muy exigente, en el que la eficiencia de los modelos tiene que ser muy cercana al 100%.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hola a tod@s. Me llamo",
+      "en": "Hello everyone. my name is",
+      "es": "Hola a tod@s. Me llamo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Henry Corazza Sef",
+      "en": "Henry Corazza Sef",
+      "es": "Henry Corazza Sef",
+      "reviewed": false
+    },
+    {
+      "source": "y soy estadístico. Aunque me haya decantado por trabajar en la implementación de la Metodología 6 Sigma en el área industrial, sigo muy interesado en",
+      "en": "and I'm a statistician. Although I have chosen to work on the implementation of the 6 Sigma Methodology in the industrial area, I am still very interested in",
+      "es": "y soy estadístico. Aunque me haya decantado por trabajar en la implementación de la Metodología 6 Sigma en el área industrial, sigo muy interesado en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "en general. Tras este curso, he descubierto otra pasión: ¡el enigmático universo de las Redes Neuronales! ?",
+      "en": "in general. After this course, I have discovered another passion: the enigmatic universe of Neural Networks! ?",
+      "es": "en general. Tras este curso, he descubierto otra pasión: ¡el enigmático universo de las Redes Neuronales! ?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "e",
+      "en": "and",
+      "es": "e",
+      "reviewed": false
+    },
+    {
+      "source": "Imanol Echeverria",
+      "en": "Imanol Echeverria",
+      "es": "Imanol Echeverria",
+      "reviewed": false
+    },
+    {
+      "source": ", por su",
+      "en": ", for his",
+      "es": ", por su",
+      "reviewed": false
+    },
+    {
+      "source": "profesionalidad, dedicación y entusiasmo",
+      "en": "professionalism, dedication and enthusiasm",
+      "es": "profesionalidad, dedicación y entusiasmo",
+      "reviewed": false
+    },
+    {
+      "source": "Infórmate de nuestro master de inteligencia artificial en",
+      "en": "Find out about our artificial intelligence master's degree in",
+      "es": "Infórmate de nuestro master de inteligencia artificial en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

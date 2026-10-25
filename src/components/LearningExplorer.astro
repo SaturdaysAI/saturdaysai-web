@@ -58,7 +58,10 @@ const topics = [
       if (description) description.textContent = button.dataset.description || '';
       if (link) {
         link.href = button.dataset.path || '';
-        link.textContent = 'Explorar ' + button.dataset.name + ' →';
+        link.textContent =
+          (document.documentElement.lang === 'es' ? 'Explorar ' : 'Explore ') +
+          button.dataset.name +
+          ' →';
       }
     }),
   );

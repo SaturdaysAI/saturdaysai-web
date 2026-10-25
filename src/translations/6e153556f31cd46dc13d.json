@@ -1,0 +1,642 @@
+{
+  "title": "WomanLife: Deep Learning for the detection and classification of breast cancer",
+  "route": "/2021/12/31/womanlife-deep-learning-for-the-detection-and-classification-of-breast-cancer-2/",
+  "segments": [
+    {
+      "source": "La Paz. Deep Learning. 2021 Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification…",
+      "en": "La Paz. Deep Learning. 2021 Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification…",
+      "es": "La Paz. Aprendizaje profundo. 2021 Hoy en día, gracias a los algoritmos de aprendizaje profundo de la inteligencia artificial, tenemos la posibilidad de automatizar la clasificación de imágenes, por lo que esta herramienta puede ayudar al personal médico en la clasificación…",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Description of the problem",
+      "en": "Description of the problem",
+      "es": "Descripción del problema",
+      "reviewed": false
+    },
+    {
+      "source": "Objective",
+      "en": "Objective",
+      "es": "Objetivo",
+      "reviewed": false
+    },
+    {
+      "source": "Model selection",
+      "en": "Model selection",
+      "es": "Selección de modelo",
+      "reviewed": false
+    },
+    {
+      "source": "Implemented techniques",
+      "en": "Implemented techniques",
+      "es": "Técnicas implementadas",
+      "reviewed": false
+    },
+    {
+      "source": "Network definition",
+      "en": "Network definition",
+      "es": "Definición de red",
+      "reviewed": false
+    },
+    {
+      "source": "Training",
+      "en": "Training",
+      "es": "Entrenamiento",
+      "reviewed": false
+    },
+    {
+      "source": "Conclusions and future works",
+      "en": "Conclusions and future works",
+      "es": "Conclusiones y trabajos futuros.",
+      "reviewed": false
+    },
+    {
+      "source": "Sources",
+      "en": "Sources",
+      "es": "Fuentes",
+      "reviewed": false
+    },
+    {
+      "source": "About the authors",
+      "en": "About the authors",
+      "es": "Sobre los autores",
+      "reviewed": false
+    },
+    {
+      "source": "Erick Calderin Morales",
+      "en": "Erick Calderin Morales",
+      "es": "Erick Calderín Morales",
+      "reviewed": false
+    },
+    {
+      "source": "Sharon Maygua Mendiola",
+      "en": "Sharon Maygua Mendiola",
+      "es": "Sharon Maygua Mendiola",
+      "reviewed": false
+    },
+    {
+      "source": "References",
+      "en": "References",
+      "es": "Referencias",
+      "reviewed": false
+    },
+    {
+      "source": "Erick Calderin",
+      "en": "Erick Calderin",
+      "es": "Erick Calderín",
+      "reviewed": false
+    },
+    {
+      "source": "Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification and early detection of breast cancer. In this way, women suffering from this disease could be diagnosed automatically, in time to start treatment.",
+      "en": "Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification and early detection of breast cancer. In this way, women suffering from this disease could be diagnosed automatically, in time to start treatment.",
+      "es": "Hoy en día, gracias a los algoritmos de aprendizaje profundo de la inteligencia artificial, tenemos la posibilidad de automatizar la clasificación de imágenes, por lo que esta herramienta puede ayudar al personal médico en la clasificación y detección temprana del cáncer de mama. De esta forma, las mujeres que padecen esta enfermedad podrían ser diagnosticadas de forma automática, a tiempo para iniciar el tratamiento.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Breast cancer is the most common type of cancer in women and is also one of the main causes of death according to the WHO (WHO, 2020). Early detection is the single most important factor in lowering cancer treatment costs and mortality. To make it possible it is necessary to have medical ultrasound images and specialists who can explain them. However, the lack of these creates a gap in access to early treatment in countries with little or not enough access to specialized diagnostic services and whose population receives low and middle income.",
+      "en": "Breast cancer is the most common type of cancer in women and is also one of the main causes of death according to the WHO (WHO, 2020). Early detection is the single most important factor in lowering cancer treatment costs and mortality. To make it possible it is necessary to have medical ultrasound images and specialists who can explain them. However, the lack of these creates a gap in access to early treatment in countries with little or not enough access to specialized diagnostic services and whose population receives low and middle income.",
+      "es": "El cáncer de mama es el tipo de cáncer más común en las mujeres y también es una de las principales causas de muerte según la OMS (OMS, 2020). La detección temprana es el factor más importante para reducir los costos del tratamiento del cáncer y la mortalidad. Para que esto sea posible es necesario contar con imágenes ecográficas médicas y especialistas que puedan explicarlas. Sin embargo, la falta de estos crea una brecha en el acceso al tratamiento temprano en países con poco o insuficiente acceso a servicios de diagnóstico especializados y cuya población recibe ingresos bajos y medios.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Our project consists of the detection and classification of breast cancer in women between 25 and 75 years old. This is possible from the development of an deep learning model trained with images obtained using ultrasound scanners that result in the segmentation of the type of cancer that could be suffered.",
+      "en": "Our project consists of the detection and classification of breast cancer in women between 25 and 75 years old. This is possible from the development of an deep learning model trained with images obtained using ultrasound scanners that result in the segmentation of the type of cancer that could be suffered.",
+      "es": "Nuestro proyecto consiste en la detección y clasificación del cáncer de mama en mujeres entre 25 y 75 años. Esto es posible a partir del desarrollo de un modelo de aprendizaje profundo entrenado con imágenes obtenidas mediante ecógrafos que dan como resultado la segmentación del tipo de cáncer que se podría padecer.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Allow women suffering from breast cancer to be automatically diagnosed using a deep learning model so that they can start treatment early and safely, reducing costs and the mortality rate. To meet this objective, we have proposed a tool that uses artificial intelligence to provide greater agility to the process through self-diagnosis with ultrasound images.",
+      "en": "Allow women suffering from breast cancer to be automatically diagnosed using a deep learning model so that they can start treatment early and safely, reducing costs and the mortality rate. To meet this objective, we have proposed a tool that uses artificial intelligence to provide greater agility to the process through self-diagnosis with ultrasound images.",
+      "es": "Permitir que las mujeres que padecen cáncer de mama sean diagnosticadas automáticamente mediante un modelo de aprendizaje profundo para que puedan iniciar el tratamiento de forma temprana y segura, reduciendo costes y la tasa de mortalidad. Para cumplir con este objetivo hemos propuesto una herramienta que utiliza inteligencia artificial para dotar de mayor agilidad al proceso mediante el autodiagnóstico con imágenes ecográficas.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "The breast cancer detection and classification project works with ultrasound images of three types, labeled as",
+      "en": "The breast cancer detection and classification project works with ultrasound images of three types, labeled as",
+      "es": "El proyecto de detección y clasificación del cáncer de mama trabaja con imágenes ecográficas de tres tipos, etiquetadas como",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "benign",
+      "en": "benign",
+      "es": "benigno",
+      "reviewed": false
+    },
+    {
+      "source": "malignant",
+      "en": "malignant",
+      "es": "maligno",
+      "reviewed": false
+    },
+    {
+      "source": "neutral",
+      "en": "neutral",
+      "es": "neutral",
+      "reviewed": false
+    },
+    {
+      "source": ", so the deep learning model selected for its execution is convolutional networks with",
+      "en": ", so the deep learning model selected for its execution is convolutional networks with",
+      "es": ", por lo que el modelo de aprendizaje profundo seleccionado para su ejecución son redes convolucionales con",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "TensorFlow Keras",
+      "en": "TensorFlow Keras",
+      "es": "TensorFlow Keras",
+      "reviewed": false
+    },
+    {
+      "source": "The dataset was collected from Baheya Hospital for Early Detection and Treatment of Women’s Cancer, Cairo, Egypt. It contains",
+      "en": "The dataset was collected from Baheya Hospital for Early Detection and Treatment of Women’s Cancer, Cairo, Egypt. It contains",
+      "es": "El conjunto de datos se recopiló en el Hospital Baheya para la Detección Temprana y el Tratamiento del Cáncer de Mujeres, en El Cairo, Egipto. contiene",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "780 breast ultrasound images",
+      "en": "780 breast ultrasound images",
+      "es": "780 imágenes de ecografía mamaria",
+      "reviewed": false
+    },
+    {
+      "source": ", in women between 25 and 75 years old (133 normal, 437 benign and 210 malignant) with an average image size of 500 x 500 pixels, some of which are seen below,",
+      "en": ", in women between 25 and 75 years old (133 normal, 437 benign and 210 malignant) with an average image size of 500 x 500 pixels, some of which are seen below,",
+      "es": ", en mujeres de entre 25 y 75 años (133 normales, 437 benignas y 210 malignas) con un tamaño de imagen promedio de 500 x 500 píxeles, algunas de las cuales se ven a continuación,",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Fig. 1. Samples of images",
+      "en": "Fig. 1. Samples of images",
+      "es": "Fig. 1. Muestras de imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "The images from the original dataset contain mask images that do not provide meaningful information to the model we developed, for this reason Shell statements were used to remove them from the dataset we are using.",
+      "en": "The images from the original dataset contain mask images that do not provide meaningful information to the model we developed, for this reason Shell statements were used to remove them from the dataset we are using.",
+      "es": "Las imágenes del conjunto de datos original contienen imágenes de máscara que no brindan información significativa al modelo que desarrollamos, por esta razón se utilizaron declaraciones de Shell para eliminarlas del conjunto de datos que estamos usando.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "We must emphasize that until now there is a shortage of public data sets of breast cancer ultrasound images and it prevents the good performance of the algorithms. Because of this, the authors who made public the dataset we used, recommend augmenting data using",
+      "en": "We must emphasize that until now there is a shortage of public data sets of breast cancer ultrasound images and it prevents the good performance of the algorithms. Because of this, the authors who made public the dataset we used, recommend augmenting data using",
+      "es": "Hay que destacar que hasta el momento existe escasez de conjuntos de datos públicos de imágenes ecográficas de cáncer de mama y esto impide el buen funcionamiento de los algoritmos. Debido a esto, los autores que hicieron público el conjunto de datos que utilizamos recomiendan aumentar los datos utilizando",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "GANs",
+      "en": "GANs",
+      "es": "GAN",
+      "reviewed": false
+    },
+    {
+      "source": "Our project developed GAN networks for each class in order to obtain more accurate results and",
+      "en": "Our project developed GAN networks for each class in order to obtain more accurate results and",
+      "es": "Nuestro proyecto desarrolló redes GAN para cada clase con el fin de obtener resultados más precisos y",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "150 epochs",
+      "en": "150 epochs",
+      "es": "150 épocas",
+      "reviewed": false
+    },
+    {
+      "source": "were used.",
+      "en": "were used.",
+      "es": "fueron utilizados.",
+      "reviewed": false
+    },
+    {
+      "source": "However, it failed to create usable images, for this reason we declined the use of this technique. The challenge is to develop the GAN with a greater number of epochs and with a better neural network configuration to obtain more realistic images.",
+      "en": "However, it failed to create usable images, for this reason we declined the use of this technique. The challenge is to develop the GAN with a greater number of epochs and with a better neural network configuration to obtain more realistic images.",
+      "es": "Sin embargo, no logró crear imágenes utilizables, por esta razón rechazamos el uso de esta técnica. El desafío es desarrollar la GAN con mayor número de épocas y con una mejor configuración de red neuronal para obtener imágenes más realistas.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Fig. 2. MALIGNANT",
+      "en": "Fig. 2. MALIGNANT",
+      "es": "Figura 2. MALIGNO",
+      "reviewed": false
+    },
+    {
+      "source": "Source: Compiled by authors using Matplotlib",
+      "en": "Source: Compiled by authors using Matplotlib",
+      "es": "Fuente: Compilado por autores usando Matplotlib",
+      "reviewed": false
+    },
+    {
+      "source": "Fig. 3. BENIGN",
+      "en": "Fig. 3. BENIGN",
+      "es": "Figura 3. BENIGNO",
+      "reviewed": false
+    },
+    {
+      "source": "Fig.4. NORMAL",
+      "en": "Fig.4. NORMAL",
+      "es": "Fig.4. NORMALES",
+      "reviewed": false
+    },
+    {
+      "source": "Within the possible design patterns in Keras, subclassing has been implemented to use the low-level APIs of Keras. You can consult more information about this in the following article:",
+      "en": "Within the possible design patterns in Keras, subclassing has been implemented to use the low-level APIs of Keras. You can consult more information about this in the following article:",
+      "es": "Dentro de los posibles patrones de diseño en Keras, se han implementado subclases para utilizar las API de bajo nivel de Keras. Puedes consultar más información al respecto en el siguiente artículo:",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "The structure of the network consists of:",
+      "en": "The structure of the network consists of:",
+      "es": "La estructura de la red consta de:",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Preprocessing layer",
+      "en": "Preprocessing layer",
+      "es": "Capa de preprocesamiento",
+      "reviewed": false
+    },
+    {
+      "source": ": Resizing, Rescaling and Normalization",
+      "en": ": Resizing, Rescaling and Normalization",
+      "es": ": Cambio de tamaño, cambio de escala y normalización",
+      "reviewed": false
+    },
+    {
+      "source": "Conv2D",
+      "en": "Conv2D",
+      "es": "Conv2D",
+      "reviewed": false
+    },
+    {
+      "source": ": 32 filters, 4 strides, ‘same’ padding and ReLU activation",
+      "en": ": 32 filters, 4 strides, ‘same’ padding and ReLU activation",
+      "es": ": 32 filtros, 4 zancadas, \"mismo\" relleno y activación ReLU",
+      "reviewed": false
+    },
+    {
+      "source": "MaxPooling2D:",
+      "en": "MaxPooling2D:",
+      "es": "MaxPooling2D:",
+      "reviewed": false
+    },
+    {
+      "source": "pool_size of (3,3), ‘same’ padding and 2 strides",
+      "en": "pool_size of (3,3), ‘same’ padding and 2 strides",
+      "es": "pool_size de (3,3), 'mismo' relleno y 2 zancadas",
+      "reviewed": false
+    },
+    {
+      "source": "Flatten",
+      "en": "Flatten",
+      "es": "Aplanar",
+      "reviewed": false
+    },
+    {
+      "source": "Dense",
+      "en": "Dense",
+      "es": "Denso",
+      "reviewed": false
+    },
+    {
+      "source": ": 512 neurons and ReLU activation",
+      "en": ": 512 neurons and ReLU activation",
+      "es": ": 512 neuronas y activación ReLU",
+      "reviewed": false
+    },
+    {
+      "source": "Dropout",
+      "en": "Dropout",
+      "es": "Abandono",
+      "reviewed": false
+    },
+    {
+      "source": ": 3 neurons and SoftMax activation",
+      "en": ": 3 neurons and SoftMax activation",
+      "es": ": 3 neuronas y activación SoftMax",
+      "reviewed": false
+    },
+    {
+      "source": "We are based on",
+      "en": "We are based on",
+      "es": "Nos basamos en",
+      "reviewed": false
+    },
+    {
+      "source": "AlexNet",
+      "en": "AlexNet",
+      "es": "alexnet",
+      "reviewed": false
+    },
+    {
+      "source": "architecture, on which we made some adjustments like number of neurons, fully connected layers and dropout values.",
+      "en": "architecture, on which we made some adjustments like number of neurons, fully connected layers and dropout values.",
+      "es": "arquitectura, en la que hicimos algunos ajustes como número de neuronas, capas completamente conectadas y valores de abandono.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "We use",
+      "en": "We use",
+      "es": "Usamos",
+      "reviewed": false
+    },
+    {
+      "source": "Adam optimizer",
+      "en": "Adam optimizer",
+      "es": "optimizador de adán",
+      "reviewed": false
+    },
+    {
+      "source": "with learning rate of",
+      "en": "with learning rate of",
+      "es": "con una tasa de aprendizaje de",
+      "reviewed": false
+    },
+    {
+      "source": ", the",
+      "en": ", the",
+      "es": ", el",
+      "reviewed": false
+    },
+    {
+      "source": "Sparse Categorical Crossentropy",
+      "en": "Sparse Categorical Crossentropy",
+      "es": "Entropía cruzada categórica escasa",
+      "reviewed": false
+    },
+    {
+      "source": "loss function and",
+      "en": "loss function and",
+      "es": "función de pérdida y",
+      "reviewed": false
+    },
+    {
+      "source": "Sparse Categorical Accuracy",
+      "en": "Sparse Categorical Accuracy",
+      "es": "Precisión categórica escasa",
+      "reviewed": false
+    },
+    {
+      "source": "function.",
+      "en": "function.",
+      "es": "función.",
+      "reviewed": false
+    },
+    {
+      "source": "Fig. 5. Model summary — Source: Compiled by authors",
+      "en": "Fig. 5. Model summary — Source: Compiled by authors",
+      "es": "Fig. 5. Resumen del modelo. Fuente: Compilado por los autores.",
+      "reviewed": false
+    },
+    {
+      "source": "TensorBoard",
+      "en": "TensorBoard",
+      "es": "Tablero Tensor",
+      "reviewed": false
+    },
+    {
+      "source": "was used to observe the real-time behavior of the accuracy and loss values, which provides useful graphs to analyze results and many controls for their manipulation.",
+      "en": "was used to observe the real-time behavior of the accuracy and loss values, which provides useful graphs to analyze results and many controls for their manipulation.",
+      "es": "se utilizó para observar el comportamiento en tiempo real de los valores de precisión y pérdida, lo que proporciona gráficos útiles para analizar los resultados y muchos controles para su manipulación.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Fig. 6. Dashboard TensorBoard — Source: Compiled by authors",
+      "en": "Fig. 6. Dashboard TensorBoard — Source: Compiled by authors",
+      "es": "Fig. 6. Tablero TensorBoard - Fuente: Compilado por los autores",
+      "reviewed": false
+    },
+    {
+      "source": "Earlystopping",
+      "en": "Earlystopping",
+      "es": "Parada anticipada",
+      "reviewed": false
+    },
+    {
+      "source": "We use EarlyStopping as a form of regularization to avoid overfitting when training the model. For example, if the loss value stops decreasing, the training will stop even though all iterations have not been completed.",
+      "en": "We use EarlyStopping as a form of regularization to avoid overfitting when training the model. For example, if the loss value stops decreasing, the training will stop even though all iterations have not been completed.",
+      "es": "Usamos EarlyStopping como forma de regularización para evitar el sobreajuste al entrenar el modelo. Por ejemplo, si el valor de pérdida deja de disminuir, el entrenamiento se detendrá aunque no se hayan completado todas las iteraciones.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "WomanLife is intended to be an easy-to-access, low-cost medical diagnostic tool.",
+      "en": "WomanLife is intended to be an easy-to-access, low-cost medical diagnostic tool.",
+      "es": "WomanLife pretende ser una herramienta de diagnóstico médico de fácil acceso y bajo costo.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "This AI is not only beneficial for women who use it but also has the potential to become a medical assistant. We want to clarify that WomanLife does not intend to replace medical specialists but to provide a tool that facilitates their work.",
+      "en": "This AI is not only beneficial for women who use it but also has the potential to become a medical assistant. We want to clarify that WomanLife does not intend to replace medical specialists but to provide a tool that facilitates their work.",
+      "es": "Esta IA no sólo es beneficiosa para las mujeres que la utilizan, sino que también tiene el potencial de convertirse en asistente médico. Queremos aclarar que WomanLife no pretende sustituir a los médicos especialistas sino proporcionar una herramienta que facilite su trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "From now on we intend to optimize the model using a GAN network to obtain greater precision and use techniques that find the correct parameters for training the model",
+      "en": "From now on we intend to optimize the model using a GAN network to obtain greater precision and use techniques that find the correct parameters for training the model",
+      "es": "A partir de ahora pretendemos optimizar el modelo utilizando una red GAN para obtener mayor precisión y utilizar técnicas que encuentren los parámetros correctos para entrenar el modelo.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "(Hyperparameter tuning)",
+      "en": "(Hyperparameter tuning)",
+      "es": "(Ajuste de hiperparámetros)",
+      "reviewed": false
+    },
+    {
+      "source": "Our project also developed an application that, given an image scanned with the camera or selected from the gallery, goes through the developed network and returns a series of probabilities related to the type of cancer suffered.",
+      "en": "Our project also developed an application that, given an image scanned with the camera or selected from the gallery, goes through the developed network and returns a series of probabilities related to the type of cancer suffered.",
+      "es": "Nuestro proyecto también desarrolló una aplicación que, dada una imagen escaneada con la cámara o seleccionada de la galería, recorre la red desarrollada y devuelve una serie de probabilidades relacionadas con el tipo de cáncer sufrido.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "The model was developed in pure TensorFlow, converted, saved and exported to",
+      "en": "The model was developed in pure TensorFlow, converted, saved and exported to",
+      "es": "El modelo fue desarrollado en TensorFlow puro, convertido, guardado y exportado a",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "TensorFlow Lite",
+      "en": "TensorFlow Lite",
+      "es": "TensorFlow Lite",
+      "reviewed": false
+    },
+    {
+      "source": "Fig. 7. Sample of the operation of the application prototype — Source: Own elaboration",
+      "en": "Fig. 7. Sample of the operation of the application prototype — Source: Own elaboration",
+      "es": "Fig. 7. Muestra del funcionamiento del prototipo de aplicación — Fuente: Elaboración propia",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Fig. 8. Conversion from TensorFlow to TensorFlow Lite architecture — Source: Own elaboration",
+      "en": "Fig. 8. Conversion from TensorFlow to TensorFlow Lite architecture — Source: Own elaboration",
+      "es": "Fig. 8. Conversión de la arquitectura TensorFlow a TensorFlow Lite — Fuente: Elaboración propia",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "You can access to notebook and mobile application through my GitHub repositories bellow:",
+      "en": "You can access to notebook and mobile application through my GitHub repositories bellow:",
+      "es": "Puede acceder a la aplicación portátil y móvil a través de mis repositorios de GitHub a continuación:",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Here, you will can find more projects related to Data Science and Machine Learning. In summary, it contains all my work so far. Any reply or comment is always welcome.",
+      "en": "Here, you will can find more projects related to Data Science and Machine Learning. In summary, it contains all my work so far. Any reply or comment is always welcome.",
+      "es": "Aquí podrá encontrar más proyectos relacionados con la ciencia de datos y el aprendizaje automático. En resumen, contiene todo mi trabajo hasta el momento. Cualquier respuesta o comentario siempre será bienvenido.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Systems engineer with experience in software development, master’s student in systems engineering and master’s degree in data science with an affinity for artificial intelligence.",
+      "en": "Systems engineer with experience in software development, master’s student in systems engineering and master’s degree in data science with an affinity for artificial intelligence.",
+      "es": "Ingeniero de sistemas con experiencia en desarrollo de software, estudiante de maestría en ingeniería de sistemas y maestría en ciencia de datos con afinidad por la inteligencia artificial.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Linkedin:",
+      "en": "Linkedin:",
+      "es": "Linkedin:",
+      "reviewed": false
+    },
+    {
+      "source": "Mechatronics engineering student with a degree in physics.",
+      "en": "Mechatronics engineering student with a degree in physics.",
+      "es": "Estudiante de ingeniería mecatrónica con licenciatura en física.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Al-Dhabyani, W., Gomaa, M., Khaled, H., & Aly, F. (2019). Deep learning approaches for data augmentation and classification of breast masses using ultrasound images.",
+      "en": "Al-Dhabyani, W., Gomaa, M., Khaled, H., & Aly, F. (2019). Deep learning approaches for data augmentation and classification of breast masses using ultrasound images.",
+      "es": "Al-Dhabyani, W., Gomaa, M., Khaled, H. y Aly, F. (2019). Enfoques de aprendizaje profundo para el aumento de datos y la clasificación de masas mamarias mediante imágenes de ultrasonido.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Int. J. Adv. Comput. Sci. Appl",
+      "en": "Int. J. Adv. Comput. Sci. Appl",
+      "es": "Int. J. Adv. Computadora. Ciencia. Aplica",
+      "reviewed": false
+    },
+    {
+      "source": "Al-Dhabyani, W., Gomaa, M., Khaled, H., & Fahmy, A. (2020). Dataset of breast ultrasound images.",
+      "en": "Al-Dhabyani, W., Gomaa, M., Khaled, H., & Fahmy, A. (2020). Dataset of breast ultrasound images.",
+      "es": "Al-Dhabyani, W., Gomaa, M., Khaled, H. y Fahmy, A. (2020). Conjunto de datos de imágenes de ecografía mamaria.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Data in brief",
+      "en": "Data in brief",
+      "es": "Datos breves",
+      "reviewed": false
+    },
+    {
+      "source": "TensorFlow. 2021.",
+      "en": "TensorFlow. 2021.",
+      "es": "TensorFlow. 2021.",
+      "reviewed": false
+    },
+    {
+      "source": "Deep Convolutional Generative Adversarial Network | TensorFlow Core",
+      "en": "Deep Convolutional Generative Adversarial Network | TensorFlow Core",
+      "es": "Red adversaria generativa convolucional profunda | Núcleo TensorFlow",
+      "reviewed": false
+    },
+    {
+      "source": ". [online] Available at: <",
+      "en": ". [online] Available at: <",
+      "es": ". [en línea] Disponible en: <",
+      "reviewed": false
+    },
+    {
+      "source": "Gowda. R., 2019.",
+      "en": "Gowda. R., 2019.",
+      "es": "Gowda. R., 2019.",
+      "reviewed": false
+    },
+    {
+      "source": "DCGAN Implementation in Keras explained",
+      "en": "DCGAN Implementation in Keras explained",
+      "es": "Implementación de DCGAN en Keras explicada",
+      "reviewed": false
+    },
+    {
+      "source": ". [online] Medium. Available at: <",
+      "en": ". [online] Medium. Available at: <",
+      "es": ". [en línea] Medio. Disponible en: <",
+      "reviewed": false
+    },
+    {
+      "source": "Poulopoulos. D, 2021. 3 Keras Design Patterns Every ML Engineer Should Know. [online] Medium. Available at: <",
+      "en": "Poulopoulos. D, 2021. 3 Keras Design Patterns Every ML Engineer Should Know. [online] Medium. Available at: <",
+      "es": "Poulopoulos. D, 2021. Tres patrones de diseño de Keras que todo ingeniero de aprendizaje automático debería conocer. [en línea] Medio. Disponible en: <",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Convolutional Network",
+      "en": "Convolutional Network",
+      "es": "Red convolucional",
+      "reviewed": false
+    },
+    {
+      "source": "Breast Cancer",
+      "en": "Breast Cancer",
+      "es": "Cáncer de mama",
+      "reviewed": false
+    },
+    {
+      "source": "Keras",
+      "en": "Keras",
+      "es": "Keras",
+      "reviewed": false
+    },
+    {
+      "source": "Systems Engineer passionated to Deep Learning and Artificial Inteligence",
+      "en": "Systems Engineer passionated to Deep Learning and Artificial Inteligence",
+      "es": "Ingeniero de Sistemas apasionado por el Deep Learning y la Inteligencia Artificial",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of rogramas intensivos donde se realizan proyectos para el bien (",
+      "en": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of rogramas intensivos donde se realizan proyectos para el bien (",
+      "es": "Saturdays.AI es una organización centrada en el impacto con la misión de capacitar a diversas personas para que aprendan Inteligencia Artificial de una manera colaborativa y basada en proyectos, más allá del camino convencional de programas intensivos donde se realizan proyectos para el bien (",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    },
+    {
+      "source": "A story from the Saturdays.AI community. Originally published on Dec 31, 2021.",
+      "en": "A story from the Saturdays.AI community. Originally published on Dec 31, 2021.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicado originalmente el 31 de diciembre de 2021.",
+      "reviewed": false,
+      "sourceLanguage": "en"
+    }
+  ]
+}

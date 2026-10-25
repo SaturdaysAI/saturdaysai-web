@@ -4,6 +4,11 @@ import crypto from 'node:crypto';
 import sharp from 'sharp';
 import YAML from 'yaml';
 import { isPublished } from '../src/lib/content-rules.mjs';
+import { readCatalog, key } from './lib/localization.mjs';
+import overrides from '../src/i18n/overrides.json' with { type: 'json' };
+const translations = await readCatalog();
+const localized = (text, language) =>
+  overrides[text]?.[language] || translations.get(key(text))?.[language] || text;
 
 // Real raster text, using the bundled brand font. SVG foreignObject is not
 // supported by social crawlers or by Sharp's SVG renderer.
@@ -36,21 +41,30 @@ async function type(text, size, color, maxHeight, weight = 'Bold', width = 1010)
   }
   throw new Error('Social card title exceeds the layout budget');
 }
-async function card(data, general = false) {
+async function card(data, general = false, language = 'es') {
   let photo = site.communityImage;
   if (typeof data.image === 'string' && /^\/media\/[\w.-]+\.(webp|png|jpe?g)$/i.test(data.image))
     photo = data.image;
   const photoBytes = await fs.readFile(path.join('public', photo));
-  const title = general ? 'Aprende IA.\nCrea impacto real.' : data.title;
-  const description = general
-    ? 'Una comunidad global. Proyectos para el bien común.'
-    : 'Aprende, construye y comparte con nuestra comunidad.';
+  const title = general
+    ? language === 'en'
+      ? 'Learn AI.\nCreate real impact.'
+      : 'Aprende IA.\nCrea impacto real.'
+    : data.title;
+  const description =
+    language === 'en'
+      ? general
+        ? 'One global community. Projects for the common good.'
+        : 'Learn, build and share with our community.'
+      : general
+        ? 'Una comunidad global. Proyectos para el bien común.'
+        : 'Aprende, construye y comparte con nuestra comunidad.';
   const digest = crypto
     .createHash('sha256')
     .update(template)
     .update(logoFile)
     .update(photoBytes)
-    .update(JSON.stringify({ title, description, category: data.category }))
+    .update(JSON.stringify({ title, description, category: data.category, language }))
     .digest('hex')
     .slice(0, 16);
   const target = `${output}/${digest}.jpg`;
@@ -68,7 +82,13 @@ async function card(data, general = false) {
     'Bold',
   );
   const footerLayer = await type(
-    general ? 'APRENDE. CONSTRUYE. COMPARTE.' : 'INTELIGENCIA ARTIFICIAL CON IMPACTO SOCIAL',
+    language === 'en'
+      ? general
+        ? 'LEARN. BUILD. SHARE.'
+        : 'ARTIFICIAL INTELLIGENCE WITH SOCIAL IMPACT'
+      : general
+        ? 'APRENDE. CONSTRUYE. COMPARTE.'
+        : 'INTELIGENCIA ARTIFICIAL CON IMPACTO SOCIAL',
     20,
     '#FF9D5A',
     38,
@@ -106,14 +126,34 @@ async function card(data, general = false) {
   return target.replace(/^public/, '');
 }
 const manifest = { default: await card({}, true) };
+const englishCards = { default: await card({}, true, 'en') };
 for (const collection of ['posts', 'pages']) {
   for (const file of await fs.readdir(`src/content/${collection}`)) {
     if (!file.endsWith('.md')) continue;
     const text = await fs.readFile(`src/content/${collection}/${file}`, 'utf8');
     const data = YAML.parse(text.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] || '');
     if (!data || data.draft || (collection === 'posts' && !isPublished(data))) continue;
-    if (data.legacyPath && data.title) manifest[data.legacyPath] = await card(data);
+    if (data.legacyPath && data.title) {
+      manifest[data.legacyPath] = await card({
+        ...data,
+        title: localized(data.title, 'es'),
+        category: localized(data.category || 'Saturdays.AI', 'es'),
+      });
+      englishCards[data.legacyPath.replace(/^\/en(?=\/)/, '')] = await card(
+        {
+          ...data,
+          title: localized(data.title, 'en'),
+          category: localized(data.category || 'Saturdays.AI', 'en'),
+        },
+        false,
+        'en',
+      );
+    }
   }
 }
-await fs.writeFile(`${output}/manifest.json`, JSON.stringify(manifest));
+englishCards['/'] = englishCards.default;
+await fs.writeFile(
+  `${output}/manifest.json`,
+  JSON.stringify({ ...manifest, english: englishCards }),
+);
 console.log(`Branded social cards: ${Object.keys(manifest).length}, 1200 x 630 JPEG.`);

@@ -1,0 +1,775 @@
+{
+  "title": "Find your AI learning path",
+  "route": "/online/",
+  "segments": [
+    {
+      "source": "A LITTLE CURIOSITY GOES A LONG WAY",
+      "en": "A LITTLE CURIOSITY GOES A LONG WAY",
+      "es": "LA CURIOSIDAD TE LLEVA LEJOS",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Big possibilities.",
+      "en": "Big possibilities.",
+      "es": "Grandes posibilidades.",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "One first step.",
+      "en": "One first step.",
+      "es": "Un primer paso.",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Start with the basics or follow your next big question. Practical courses for people who learn by doing.",
+      "en": "Start with the basics or follow your next big question. Practical courses for people who learn by doing.",
+      "es": "Empieza por lo básico o sigue tu próxima gran pregunta. Cursos prácticos para quienes aprenden haciendo.",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Choose your learning level",
+      "en": "Choose your learning level",
+      "es": "Elige tu nivel de aprendizaje",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "All paths",
+      "en": "All paths",
+      "es": "Todos los itinerarios",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Starting out",
+      "en": "Starting out",
+      "es": "Para empezar",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Going deeper",
+      "en": "Going deeper",
+      "es": "Para profundizar",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Search courses",
+      "en": "Search courses",
+      "es": "Buscar cursos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Python, generative AI, data…",
+      "en": "Python, generative AI, data…",
+      "es": "Python, IA generativa, datos…",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "6 learning paths to explore.",
+      "en": "6 learning paths to explore.",
+      "es": "6 caminos de aprendizaje para explorar.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Python for AI",
+      "en": "Python for AI",
+      "es": "Python para IA",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Build your foundations. Go from your first line of Python to thinking in code.",
+      "en": "Build your foundations. Go from your first line of Python to thinking in code.",
+      "es": "Construye tus cimientos. Pase de su primera línea de Python a pensar en código.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Python for AI",
+      "en": "Explore Python for AI",
+      "es": "Explora Python para IA",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore course",
+      "en": "Explore course",
+      "es": "Explora el curso",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore language models, image generation and the creative possibilities of AI.",
+      "en": "Explore language models, image generation and the creative possibilities of AI.",
+      "es": "Explora modelos de lenguaje, generación de imágenes y las posibilidades creativas de la IA.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "English & Spanish",
+      "en": "English & Spanish",
+      "es": "Inglés y español",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Generative AI",
+      "en": "Explore Generative AI",
+      "es": "Explora la IA generativa",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "View programme",
+      "en": "View programme",
+      "es": "Ver programa",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Prompt engineering",
+      "en": "Prompt engineering",
+      "es": "Ingeniería rápida",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Work with context, RAG, agents and practical projects to take your prompts further.",
+      "en": "Work with context, RAG, agents and practical projects to take your prompts further.",
+      "es": "Trabaje con contexto, RAG, agentes y proyectos prácticos para llevar sus indicaciones más allá.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Prompt engineering",
+      "en": "Explore Prompt engineering",
+      "es": "Explorar la ingeniería rápida",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Data mining & Hugging Face",
+      "en": "Data mining & Hugging Face",
+      "es": "Minería de datos y cara de abrazo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Discover patterns in data and learn to deploy a model through a hands-on project.",
+      "en": "Discover patterns in data and learn to deploy a model through a hands-on project.",
+      "es": "Descubra patrones en los datos y aprenda a implementar un modelo a través de un proyecto práctico.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Data mining & Hugging Face",
+      "en": "Explore Data mining & Hugging Face",
+      "es": "Explora la minería de datos y abrazar la cara",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Pandas for data science",
+      "en": "Pandas for data science",
+      "es": "Pandas para la ciencia de datos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Learn to clean, explore and transform data with one of Python’s essential tools.",
+      "en": "Learn to clean, explore and transform data with one of Python’s essential tools.",
+      "es": "Aprenda a limpiar, explorar y transformar datos con una de las herramientas esenciales de Python.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Pandas for data science",
+      "en": "Explore Pandas for data science",
+      "es": "Explora Pandas para la ciencia de datos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Reinforcement learning",
+      "en": "Reinforcement learning",
+      "es": "Aprendizaje por refuerzo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
+      "en": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
+      "es": "Explore agentes que aprenden haciendo, desde Q-learning hasta aprendizaje por refuerzo profundo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore Reinforcement learning",
+      "en": "Explore Reinforcement learning",
+      "es": "Explorar el aprendizaje por refuerzo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Courses open on the Saturdays.AI learning platform. Programme details open here.",
+      "en": "Courses open on the Saturdays.AI learning platform. Programme details open here.",
+      "es": "Los cursos se abren en la plataforma de aprendizaje de Saturdays.AI. La información de los programas se consulta aquí.",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "No matching paths.",
+      "en": "No matching paths.",
+      "es": "No hay itinerarios que coincidan.",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Try another topic or explore all levels.",
+      "en": "Try another topic or explore all levels.",
+      "es": "Pruebe otro tema o explore todos los niveles.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Show all paths",
+      "en": "Show all paths",
+      "es": "Mostrar todos los caminos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "BETTER TOGETHER",
+      "en": "BETTER TOGETHER",
+      "es": "MEJOR JUNTOS",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Questions welcome.",
+      "en": "Questions welcome.",
+      "es": "Las preguntas son bienvenidas.",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "People even more.",
+      "en": "People even more.",
+      "es": "Y las personas, aún más.",
+      "reviewed": true,
+      "translationVersion": 2
+    },
+    {
+      "source": "Find other curious minds and share what you’re learning.",
+      "en": "Find other curious minds and share what you’re learning.",
+      "es": "Encuentra a otras personas curiosas y comparte lo que estás aprendiendo.",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Join the conversation",
+      "en": "Join the conversation",
+      "es": "Únete a la conversación",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "More learning paths and programme information",
+      "en": "More learning paths and programme information",
+      "es": "Más rutas de aprendizaje e información del programa",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Build AI skills online",
+      "en": "Build AI skills online",
+      "es": "Desarrolla habilidades de IA en línea",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Get the skills you need for the future of work!",
+      "en": "Get the skills you need for the future of work!",
+      "es": "¡Obtenga las habilidades que necesita para el futuro del trabajo!",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
+      "en": "Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.",
+      "es": "Aprenda sobre la IA desde 0, con cursos online sobre Python, ciencia de datos, ingeniería rápida, aprendizaje automático y nuevas tecnologías.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "What's great about our courses",
+      "en": "What's great about our courses",
+      "es": "¿Qué tienen de bueno nuestros cursos?",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Well-structured courses",
+      "en": "Well-structured courses",
+      "es": "Cursos bien estructurados",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Lectures are consistent, informative, and easy to follow.",
+      "en": "Lectures are consistent, informative, and easy to follow.",
+      "es": "Las conferencias son consistentes, informativas y fáciles de seguir.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Hands-on exercises",
+      "en": "Hands-on exercises",
+      "es": "ejercicios prácticos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Each module includes exercises that, in addition to summarizing the key concepts of each module, will guide you through the activities proposed in the lessons of that module.",
+      "en": "Each module includes exercises that, in addition to summarizing the key concepts of each module, will guide you through the activities proposed in the lessons of that module.",
+      "es": "Cada módulo incluye ejercicios que, además de resumir los conceptos clave de cada módulo, lo guiarán a través de las actividades propuestas en las lecciones de ese módulo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Peer feedback and community",
+      "en": "Peer feedback and community",
+      "es": "Comentarios de pares y comunidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "You can engage with other fellows and the community both in our Discord or in social networks, so you never learn alone",
+      "en": "You can engage with other fellows and the community both in our Discord or in social networks, so you never learn alone",
+      "es": "Puedes interactuar con otros compañeros y la comunidad tanto en nuestro Discord como en las redes sociales, para que nunca aprendas solo",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Unlimited access",
+      "en": "Unlimited access",
+      "es": "Acceso ilimitado",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "You will gain unrivaled knowledge in programming, stadistics, and machine learning– wherever you are.",
+      "en": "You will gain unrivaled knowledge in programming, stadistics, and machine learning– wherever you are.",
+      "es": "Obtendrá conocimientos inigualables en programación, estadística y aprendizaje automático, esté donde esté.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Additional materials",
+      "en": "Additional materials",
+      "es": "Materiales adicionales",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Mental maps in text to learn more effectively and additional info to keep learning",
+      "en": "Mental maps in text to learn more effectively and additional info to keep learning",
+      "es": "Mapas mentales en texto para aprender más eficazmente e información adicional para seguir aprendiendo",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Certificate",
+      "en": "Certificate",
+      "es": "Certificado",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Get a certificate confirming completion of an online lecture or a whole course.",
+      "en": "Get a certificate confirming completion of an online lecture or a whole course.",
+      "es": "Obtenga un certificado que confirme la finalización de una conferencia en línea o de un curso completo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Choose your learning path",
+      "en": "Choose your learning path",
+      "es": "Elige tu camino de aprendizaje",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "You can choose different study plans through the courses depending on your knowledge and interests in AI.",
+      "en": "You can choose different study plans through the courses depending on your knowledge and interests in AI.",
+      "es": "Puede elegir diferentes planes de estudio a través de los cursos según sus conocimientos e intereses en IA.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "Prompt Engineering Avanzado",
+      "en": "Prompt Engineering Avanzado",
+      "es": "Prompt Ingeniería Avanzada",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar",
+      "en": "* Propt engineering for already initiated, where you go beyond the foundations, to the most useful techniques to manage",
+      "es": "* Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "contexto",
+      "en": "contexto",
+      "es": "contexto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "caching",
+      "en": "caching",
+      "es": "almacenamiento en caché",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "planificación, RAG",
+      "en": "planificación, RAG",
+      "es": "planificación, RAG",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "agentes",
+      "en": "agentes",
+      "es": "agentes",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.",
+      "en": "* Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.",
+      "es": "* Aprenda a codificar en IA desde cero. Hemos preparado una hoja de ruta personalizada para potenciar tus habilidades con Python en poco tiempo, de una forma divertida y sin estrés.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "The program is organized in several modules where we will challenge you with practical exercises. You will have the opportunity to share with the community your progress, ask doubts and code with other people, building the foundations to further learning.",
+      "en": "The program is organized in several modules where we will challenge you with practical exercises. You will have the opportunity to share with the community your progress, ask doubts and code with other people, building the foundations to further learning.",
+      "es": "El programa está organizado en varios módulos donde te desafiaremos con ejercicios prácticos. Tendrás la oportunidad de compartir con la comunidad tu progreso, plantear dudas y codificar con otras personas, sentando las bases para seguir aprendiendo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2
+    },
+    {
+      "source": "IA Generativa y Multimodal",
+      "en": "Generative and Multimodal AI",
+      "es": "IA Generativa y Multimodal",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.",
+      "en": "* Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.",
+      "es": "* Mini-curso para aprender los cimientos de la IA Generativa y Multimodal en una diversión, desde cero, buena para los novatos totales y artistas de IA.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.",
+      "en": "We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.",
+      "es": "Cubrimos desde un tema caliente de la PV de pájaro como LLMs, Diffusion y por supuesto, qué herramientas y «tricks» podemos utilizar para generar lo que queremos.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "This particular field (",
+      "en": "This particular field (",
+      "es": "This particular field (",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "generative AI",
+      "en": "generative AI",
+      "es": "generative AI",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ") is changing superfast, so we are going to keep updating the content often.",
+      "en": ") is changing superfast, so we are going to keep updating the content often.",
+      "es": ") está cambiando superfast, por lo que vamos a seguir actualizando el contenido a menudo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Data Mining y Hugging Face",
+      "en": "Data Mining and Hugging Face",
+      "es": "Data Mining y Hugging Face",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!",
+      "en": "* Learn data mining by carrying out a project and deploying a model in Hugging Face, you will learn 2 of the most useful skills that you need today for data science and AI projects. We are waiting for you!",
+      "es": "* Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "* ¿Sabes que el Aprendizaje por Refuerzo (",
+      "en": "* Do you know that Reinforcement Learning (",
+      "es": "* ¿Sabes que el Aprendizaje por Refuerzo (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "RL",
+      "en": "R.L.",
+      "es": "RL",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ") es fundamental en el desarrollo de sistemas autónomos y en la toma de decisiones inteligentes?",
+      "en": ") is essential in the development of autonomous systems and in making intelligent decisions?",
+      "es": ") es fundamental en el desarrollo de sistemas autónomos y en la toma de decisiones inteligentes?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Descubre cómo modelar y resolver problemas complejos de inteligencia artificial. En este curso, aprenderás a implementar algoritmos como",
+      "en": "Discover how to model and solve complex artificial intelligence problems. In this course, you will learn how to implement algorithms like",
+      "es": "Descubre cómo modelar y resolver problemas complejos de inteligencia artificial. En este curso, aprenderás a implementar algoritmos como",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Q-learning y Deep RL",
+      "en": "Q-learning and Deep RL",
+      "es": "Q-learning y Deep RL",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "; entenderás cómo aplicarlos en escenarios reales como juegos inteligentes, robótica y sistemas de recomendación.",
+      "en": "; You will understand how to apply them in real scenarios such as intelligent games, robotics and recommendation systems.",
+      "es": "; entenderás cómo aplicarlos en escenarios reales como juegos inteligentes, robótica y sistemas de recomendación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "*Spoiler: Quizás la AGI se consiga gracias al RL",
+      "en": "*Spoiler: Maybe the AGI will be achieved thanks to the RL",
+      "es": "*Spoiler: Quizás la AGI se consiga gracias al RL",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "girl moving connecting to the future",
+      "en": "girl moving connecting to the future",
+      "es": "chica que se mueve conecta con el futuro",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "in English",
+      "en": "in English",
+      "es": "in English",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.",
+      "en": "* Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.",
+      "es": "* Aprende los cimientos de la ciencia de datos con este curso que incluye cortos videos explicativos de alrededor de 5 minutos cada uno junto con mapas mentales en texto para aprender más eficazmente, ejercicios prácticos y un proyecto para aprender haciendo. Obtendrás comentarios de compañeros y una comunidad para aprender en buena compañía.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lay the grounds to kick start your Data Science superpowers.",
+      "en": "Lay the grounds to kick start your Data Science superpowers.",
+      "es": "Coloca los terrenos para iniciar tus superpotencias de la Ciencia de Datos.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pandas Data Science",
+      "en": "Pandas Data Science",
+      "es": "Pandas Data Science",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.",
+      "en": "* Pandas was developed due to the need to have a flexible, high-performance tool for data analysis. Using this library we can achieve five typical steps in data processing and analysis, regardless of the data source: loading, preparing, manipulating, modeling and analyzing.",
+      "es": "* Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Numpy Data Science",
+      "en": "Numpy Data Science",
+      "es": "Numpy Data Science",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "* Curso de NumPy: Dominando la Manipulación de Datos Numéricos.",
+      "en": "* NumPy Course: Mastering Numerical Data Manipulation.",
+      "es": "* Curso de NumPy: Dominando la Manipulación de Datos Numéricos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Alguna vez te has preguntado cómo los científicos de datos y los ingenieros realizan cálculos complejos y manipulan grandes conjuntos de datos en Python? ¡Aquí es donde entra en juego NumPy! En este curso, vamos a sumergirnos en el fascinante mundo de NumPy y aprender a manejar datos numéricos de manera eficiente.",
+      "en": "Have you ever wondered how data scientists and engineers perform complex calculations and manipulate large data sets in Python? This is where NumPy comes in! In this course, we are going to dive into the fascinating world of NumPy and learn how to handle numerical data efficiently.",
+      "es": "¿Alguna vez te has preguntado cómo los científicos de datos y los ingenieros realizan cálculos complejos y manipulan grandes conjuntos de datos en Python? ¡Aquí es donde entra en juego NumPy! En este curso, vamos a sumergirnos en el fascinante mundo de NumPy y aprender a manejar datos numéricos de manera eficiente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Caratula Curso Numpy",
+      "en": "Numpy Course Cover",
+      "es": "Caratula Curso Numpy",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "SCIPY COURSE",
+      "en": "SCIPY COURSE",
+      "es": "SCIPY COURSE",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "SciPy Data Science",
+      "en": "SciPy Data Science",
+      "es": "SciPy Data Science",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "*S_panish_* SciPy es la librería de Python para realizar ciencia por excelencia, contiene módulos para optimización, álgebra lineal, integración, interpolación, funciones especiales, FFT, procesamiento de señales y de imagen, resolución de ODEs y otras tareas para la ciencia e ingeniería.",
+      "en": "*S_panish_* SciPy is the Python library for performing science par excellence, it contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing, resolution of ODEs and other tasks for science and engineering.",
+      "es": "*S_panish_* SciPy es la librería de Python para realizar ciencia por excelencia, contiene módulos para optimización, álgebra lineal, integración, interpolación, funciones especiales, FFT, procesamiento de señales y de imagen, resolución de ODEs y otras tareas para la ciencia e ingeniería.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "IA para Videojuegos",
+      "en": "AI for Video Games",
+      "es": "IA para Videojuegos",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI.",
+      "en": "Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI.",
+      "es": "Explore las trayectorias prácticas de aprendizaje en Python, IA generativa, ciencia de datos y aprendizaje automático. Aprenda a su propio ritmo con los Saturdays.AI.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Find your AI learning path",
+      "en": "Find your AI learning path",
+      "es": "Encuentre su camino de aprendizaje de IA",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "All learning paths are listed below. Search and level filters require JavaScript.",
+      "en": "All learning paths are listed below. Search and level filters require JavaScript.",
+      "es": "Todos los caminos de aprendizaje se enumeran a continuación. Los filtros de búsqueda y nivel requieren JavaScript.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Join now",
+      "en": "Join now",
+      "es": "Únete ahora",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "EN - Join now",
+      "en": "EN - Join now",
+      "es": "EN - Únete ahora",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Empieza",
+      "en": "Start",
+      "es": "Empieza",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

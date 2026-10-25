@@ -1,0 +1,499 @@
+{
+  "title": "Detección de datos de facturas manuales",
+  "route": "/2021/11/22/deteccion-de-datos-de-facturas-manuales/",
+  "segments": [
+    {
+      "source": "Detección de datos de facturas manuales",
+      "en": "Detection of manual invoice data",
+      "es": "Detección de datos de facturas manuales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La Paz. Deep Learning. 2021 Introducción La declaración de facturas es uno de los deberes que tienen un porcentaje de la población boliviana, ya sean contribuyentes dependientes o independientes. Si bien es posible importar…",
+      "en": "La Paz. Deep Learning. 2021 Introduction The statement of bills is one of the duties that have a percentage of the Bolivian population, whether dependent or independent taxpayers. While it is possible to import...",
+      "es": "La Paz. Deep Learning. 2021 Introducción La declaración de facturas es uno de los deberes que tienen un porcentaje de la población boliviana, ya sean contribuyentes dependientes o independientes. Si bien es posible importar…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CRAFT",
+      "en": "CRAFT",
+      "es": "CRAFT",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Evaluación de modelos",
+      "en": "Model evaluation",
+      "es": "Evaluación de modelos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Código",
+      "en": "Code",
+      "es": "Código",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Bibliografía",
+      "en": "Bibliography",
+      "es": "Bibliografía",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La declaración de facturas es uno de los deberes que tienen un porcentaje de la población boliviana, ya sean contribuyentes dependientes o independientes. Si bien es posible importar los datos de una factura electrónica por medio del escaneo de un código QR. El realizar dicha transcripción de una factura manual llega a ser más complicado, lento y moroso, a la hora de transcribir el número de NIT, el número de autorización y el número de factura de cada una. Especialmente para personas que no son muy familiarizadas con sistemas computacionales, siendo este una parte importante de la población adulta en Bolivia.",
+      "en": "The statement of invoices is one of the duties that have a percentage of the Bolivian population, whether dependent or independent taxpayers. While it is possible to import the data of an electronic invoice by scanning a QR code. The transcription of a manual invoice becomes more complicated, slow and late, when transcribing the number of NIT, the number of authorisation and the number of invoice of each. Especially for people who are not very familiar with computer systems, this is an important part of the adult population in Bolivia.",
+      "es": "La declaración de facturas es uno de los deberes que tienen un porcentaje de la población boliviana, ya sean contribuyentes dependientes o independientes. Si bien es posible importar los datos de una factura electrónica por medio del escaneo de un código QR. El realizar dicha transcripción de una factura manual llega a ser más complicado, lento y moroso, a la hora de transcribir el número de NIT, el número de autorización y el número de factura de cada una. Especialmente para personas que no son muy familiarizadas con sistemas computacionales, siendo este una parte importante de la población adulta en Bolivia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Imágenes de una Factura Manual",
+      "en": "Images of a Manual Invoice",
+      "es": "Imágenes de una Factura Manual",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "facturas",
+      "en": "facturas",
+      "es": "facturas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Imágenes de una Factura Manual y una Factura Digital",
+      "en": "Images of a Manual and Digital Invoice",
+      "es": "Imágenes de una Factura Manual y una Factura Digital",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Es por ello, que el presente proyecto es un prototipo de un sistema de reconocimiento óptico de caracteres que identifique los valores previamente mencionados. Y por consiguiente permita al usuario exportar dicha información en un archivo CSV o XLSX, para su fácil importación en la plataforma de declaración de facturas SIAT (Sistema Integrado de Administración Tributaria).",
+      "en": "This is why this project is a prototype of an optical character recognition system that identifies the above values. It therefore allows the user to export such information in a CSV or XLSX file, for easy import into the SIAT (Integrated Tax Management System) invoice declaration platform.",
+      "es": "Es por ello, que el presente proyecto es un prototipo de un sistema de reconocimiento óptico de caracteres que identifique los valores previamente mencionados. Y por consiguiente permita al usuario exportar dicha información en un archivo CSV o XLSX, para su fácil importación en la plataforma de declaración de facturas SIAT (Sistema Integrado de Administración Tributaria).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pantalla principal de la plataforma SIAT, para la importación de datos de facturación.",
+      "en": "Main screen of the SIAT platform, for the import of billing data.",
+      "es": "Pantalla principal de la plataforma SIAT, para la importación de datos de facturación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Botón de importación de archivos xls o xlsx.",
+      "en": "Import button of xls or xlsx files.",
+      "es": "Botón de importación de archivos xls o xlsx.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El problema identificado es la cantidad de tiempo que se invierte a la hora de transcribir la información de cada una de las facturas manuales; tanto a personas con tiempo limitado por múltiples actividades personales o profesionales, como a personas con poca habilidad computacional.",
+      "en": "The problem identified is the amount of time spent transcribing the information on each of the manual invoices; both people with time limited by multiple personal or professional activities, and people with little computer skills.",
+      "es": "El problema identificado es la cantidad de tiempo que se invierte a la hora de transcribir la información de cada una de las facturas manuales; tanto a personas con tiempo limitado por múltiples actividades personales o profesionales, como a personas con poca habilidad computacional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El proyecto busca facilitar la detección de los datos más largos de facturas manuales, siendo estos el número de NIT de la empresa, el número de autorización, y el número de factura. Para su posterior exportación en formatos CSV o XLSX para su posterior importación en la página de Mis Facturas del SIAT (Sistema Integrado de Administración Tributaria).",
+      "en": "The project aims to facilitate the detection of the longer data of manual invoices, such as the company's NIT number, the authorisation number, and the invoice number. For subsequent export in CSV or XLSX formats for subsequent import on the SIAT's My Inputs page.",
+      "es": "El proyecto busca facilitar la detección de los datos más largos de facturas manuales, siendo estos el número de NIT de la empresa, el número de autorización, y el número de factura. Para su posterior exportación en formatos CSV o XLSX para su posterior importación en la página de Mis Facturas del SIAT (Sistema Integrado de Administración Tributaria).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se utiliza CRAFT (",
+      "en": "CRAFT (",
+      "es": "Se utiliza CRAFT (CRAFT)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Character-Region Awareness For Text detection)",
+      "en": "Character-Region Awareness For Text detection)",
+      "es": "Sensibilidad de la sección de caracteres para la detección de texto)",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[1], esto debido a que nos permite localizar las regiones de caracteres individuales y vincular los caracteres detectados a una instancia de texto. Se podría haber utilizado Tesseract el cual es un módulo de ORC pero falla en textos con curvas y formas irregulares en ciertos tipos de fuentes.",
+      "en": "[1], this because it allows us to locate the individual character regions and link the detected characters to a text instance. Tesseract could have been used which is an ORC module but fails in texts with irregular curves and forms in certain types of sources.",
+      "es": "[1], esto debido a que nos permite localizar las regiones de caracteres individuales y vincular los caracteres detectados a una instancia de texto. Se podría haber utilizado Tesseract el cual es un módulo de ORC pero falla en textos con curvas y formas irregulares en ciertos tipos de fuentes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ilustración esquemática de la Arquitectura del modelo CRAFT",
+      "en": "Schematic Illustration of the Architecture of the CRAFT model",
+      "es": "Ilustración esquemática de la Arquitectura del modelo CRAFT",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La arquitectura se basa en la red neuronal convolucional CNN, VGG-16 [2], es esencialmente para la extracción de características que se utiliza para codificar la entrada de la red en una determinada representación de características y el segmento de decodificación de la red CRAFT.",
+      "en": "The architecture is based on the CNN, VGG-16 [2], convolutional neuronal network, is essentially for the extraction of features that is used to encode the network input in a given feature representation and the CRAFT network decoding segment.",
+      "es": "La arquitectura se basa en la red neuronal convolucional CNN, VGG-16 [2], es esencialmente para la extracción de características que se utiliza para codificar la entrada de la red en una determinada representación de características y el segmento de decodificación de la red CRAFT.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Modelo de la CNN VGG-16.",
+      "en": "Model of the CNN VGG-16.",
+      "es": "Modelo de la CNN VGG-16.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las técnicas implementadas por el modelo CRAFT son las básicas para la detección de caracteres, como ser: cortes, rotaciones y/o también variaciones de colores.",
+      "en": "The techniques implemented by the CRAFT model are the basic for character detection, such as: cuts, rotations and / or color variations.",
+      "es": "Las técnicas implementadas por el modelo CRAFT son las básicas para la detección de caracteres, como ser: cortes, rotaciones y/o también variaciones de colores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Procedimiento de división de caracteres para lograr anotaciones a nivel de caracteres a partir de anotaciones a nivel de palabra: 1) Se recorta la imagen a nivel de palabra; 2) Se predice la puntuación de la región; 3) Se aplica el algoritmo",
+      "en": "Character division procedure to achieve character level annotations from word level annotations: 1) The image is cut to word level; 2) the region score is predicted; 3) The algorithm is applied",
+      "es": "Procedimiento de división de caracteres para lograr anotaciones a nivel de caracteres a partir de anotaciones a nivel de palabra: 1) Se recorta la imagen a nivel de palabra; 2) Se predice la puntuación de la región; 3) Se aplica el algoritmo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "watershed",
+      "en": "watershed",
+      "es": "cuencas hidrográficas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "; 4) Se obtienen los cuadros delimitadores de caracteres; 5) Se desempaquetan los cuadros delimitadores de caracteres.",
+      "en": "; 4) The character-delimiting tables are obtained; 5) the character-delimiting tables are unpacked.",
+      "es": "; 4) Se obtienen los cuadros delimitadores de caracteres; 5) Se desempaquetan los cuadros delimitadores de caracteres.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Al ser un modelo pre-entrenado de KERAS-OCR, con el modelo de CRAFT [3]. Podemos ver su eficacia con respecto a otros modelos similares para la detección de caracteres:",
+      "en": "As a pre-trained model of KERAS-OCR, with the CRAFT model [3]. We can see its effectiveness with respect to other similar models for character detection:",
+      "es": "Al ser un modelo pre-entrenado de KERAS-OCR, con el modelo de CRAFT [3]. Podemos ver su eficacia con respecto a otros modelos similares para la detección de caracteres:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Comparativa de diferentes modelos, donde se utilizaron los dataset ICDAR y MSRA-TD500. Dónde: P es la Precisión, R es Recall, H es la H-mean y FPS los cuadros analizados por segundo [4].",
+      "en": "Comparative of different models, where the ICDAR and MSRA-TD500 dataset were used. Where: P is the Precision, R is Recall, H is the H-mean and FPS the tables analyzed per second [4].",
+      "es": "Comparativa de diferentes modelos, donde se utilizaron los dataset ICDAR y MSRA-TD500. Dónde: P es la Precisión, R es Recall, H es la H-mean y FPS los cuadros analizados por segundo [4].",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez importada la imagen de la factura, se obtienen todos los valores que son detectados en la misma. Por lo que cortamos la imagen en dos, para tener solamente la parte derecha; donde se encuentran los datos que intentamos recopilar. Ya que como se ve en la Figura 9, la cantidad de datos es excesiva.",
+      "en": "Once the image of the invoice is imported, all the values that are detected on it are obtained. So we cut the image in two, to have only the right part; where the data we try to collect are found. Since as seen in Figure 9, the amount of data is excessive.",
+      "es": "Una vez importada la imagen de la factura, se obtienen todos los valores que son detectados en la misma. Por lo que cortamos la imagen en dos, para tener solamente la parte derecha; donde se encuentran los datos que intentamos recopilar. Ya que como se ve en la Figura 9, la cantidad de datos es excesiva.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Detección de caracteres de una factura manual.",
+      "en": "Detection of characters from a manual invoice.",
+      "es": "Detección de caracteres de una factura manual.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez tenemos todos los datos detectados y convertidos en tipo STRING, en un dataframe creado con Pandas. Comparamos cada una de las columnas, buscando el texto deseado. Por tal motivo, comparamos la cantidad de caracteres que tiene el NIT del proveedor (de 8 a 10 caracteres), el Número de autorización (14 a 16 caracteres) y el Número de factura (4 a 6 caracteres). Por lo que, hallamos tras la búsqueda de columnas el valor deseado.",
+      "en": "Once we have all the data detected and converted to the type STRING, in a dataframe created with Pandas. We compare each of the columns, looking for the desired text. Therefore, we compare the amount of characters that the supplier's NIT has (from 8 to 10 characters), the Authorisation Number (14 to 16 characters) and the invoice number (4 to 6 characters). So, we find after the search for columns the desired value.",
+      "es": "Una vez tenemos todos los datos detectados y convertidos en tipo STRING, en un dataframe creado con Pandas. Comparamos cada una de las columnas, buscando el texto deseado. Por tal motivo, comparamos la cantidad de caracteres que tiene el NIT del proveedor (de 8 a 10 caracteres), el Número de autorización (14 a 16 caracteres) y el Número de factura (4 a 6 caracteres). Por lo que, hallamos tras la búsqueda de columnas el valor deseado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Detección de valores deseados, transformación a un dataframe con Pandas y conversión de los datos a STRING para su posterior comparación.",
+      "en": "Detection of desired values, transformation to a Panda dataframe and conversion of data to STRING for subsequent comparison.",
+      "es": "Detección de valores deseados, transformación a un dataframe con Pandas y conversión de los datos a STRING para su posterior comparación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Finalmente, guardamos estos valores en un",
+      "en": "Finally, we keep these values in a",
+      "es": "Finalmente, guardamos estos valores en un",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "dataframe",
+      "en": "dataframe",
+      "es": "dataframe",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "creado, con la misma distribución que pide el sistema de mis facturas de la plataforma SIAT. Y exportamos en CSV, o XLSX. Y como se ve en la figura 11.",
+      "en": "created, with the same distribution as the system of my invoices from the SIAT platform. And we export on CSV, or XLSX. And as seen in Figure 11.",
+      "es": "creado, con la misma distribución que pide el sistema de mis facturas de la plataforma SIAT. Y exportamos en CSV, o XLSX. Y como se ve en la figura 11.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Exportación de datos generados a los archivos CSV y XLSX.",
+      "en": "Export of generated data to CSV and XLSX files.",
+      "es": "Exportación de datos generados a los archivos CSV y XLSX.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por medio de este prototipo, se puede identificar los valores más relevantes y complicados de transcribir para la mayoría de las personas que realizan su declaración de facturas. Además, que el importarlos desde una foto o imagen escaneada reduce drásticamente el tiempo de transcripción de datos. Lo que sería de mucha ayuda para personas no muy familiarizadas con las computadoras, como un buen porcentaje de adultos mayores en el país.",
+      "en": "By means of this prototype, you can identify the most relevant and complicated values to transcribe for most people who make their bill statement. Furthermore, importing them from a scanned photo or image drastically reduces the time of data transcription. This would be very helpful for people not very familiar with computers, as a good percentage of older adults in the country.",
+      "es": "Por medio de este prototipo, se puede identificar los valores más relevantes y complicados de transcribir para la mayoría de las personas que realizan su declaración de facturas. Además, que el importarlos desde una foto o imagen escaneada reduce drásticamente el tiempo de transcripción de datos. Lo que sería de mucha ayuda para personas no muy familiarizadas con las computadoras, como un buen porcentaje de adultos mayores en el país.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si bien, muchos datos son identificados. El mayor problema reside en la calidad de la imagen tomada, ya que si esta no tiene una buena nitidez o tamaño llega a tener problemas con la identificación de algunos caracteres. Y que para trabajos futuros se podría intentar solventar con un entrenamiento más personalizado y no basándose en uno pre entrenado.",
+      "en": "While many data are identified, the biggest problem lies in the quality of the image taken, as if it does not have a good nithness or size it will have problems with the identification of some characters. And for future work it could be tried to solve with more personalized training and not based on a pre-trained one.",
+      "es": "Si bien, muchos datos son identificados. El mayor problema reside en la calidad de la imagen tomada, ya que si esta no tiene una buena nitidez o tamaño llega a tener problemas con la identificación de algunos caracteres. Y que para trabajos futuros se podría intentar solventar con un entrenamiento más personalizado y no basándose en uno pre entrenado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A su vez, el realizar una GUI (Interfaz gráfica de usuario), ayudaría bastante en poder llevar a este prototipo a ser más amigable con el usuario. Y por ende, facilita la importación de imágenes o facturas escaneadas para su reconocimiento de caracteres y exportación final.",
+      "en": "In turn, performing a GUI (User Graphic Interface) would help a lot to make this prototype more user-friendly. And therefore, it facilitates the import of scanned images or invoices for character recognition and final export.",
+      "es": "A su vez, el realizar una GUI (Interfaz gráfica de usuario), ayudaría bastante en poder llevar a este prototipo a ser más amigable con el usuario. Y por ende, facilita la importación de imágenes o facturas escaneadas para su reconocimiento de caracteres y exportación final.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[1] “PyTorch: Scene Text Detection and Recognition by CRAFT and a Four-Stage Network | by Nikita Saxena | Towards Data Science.”",
+      "en": "[1] “PyTorch: Scene Text Detection and Recognition by CRAFT and a Four-Stage Network | by Nikita Saxena | Towards Data Science.”",
+      "es": "[1] “PyTorch: Detección y Reconocimiento de Textos de Escena por CRAFT y una Red de cuatro etapas que vive Nikita Saxena ANTE Hacia la Ciencia de Datos”.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(accessed Jul. 13, 2021).",
+      "en": "(accessed Jul. 13, 2021).",
+      "es": "(Accesado 13 de julio de 2021).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[2] M. ul Hassan, “VGG16-Convolutional Network for Classification and Detection,”",
+      "en": "[2] M. ul Hassan, “VGG16-Convolutional Network for Classification and Detection,”",
+      "es": "[2] M. ul Hassan, “VG16-Convolutional Network for Classification and Detection”,",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en l{\\’\\i}nea].[consulta 10 abril 2019]. Dispon. en https//neurohive. io/en/popular-networks/vgg16",
+      "en": "in l {\\ '\\ i} nea.] [consultation 10 April 2019].",
+      "es": "en l{\\’\\i}nea].[consulta 10 abril 2019]. Dispon. en https//neurohive. io/en/popular-networks/vgg16",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[3] F. Morales, “keras-ocr — keras_ocr documentation,” 2021, Accessed: 13-Jul-2021. [Online]. Available:",
+      "en": "[3] F. Morales, “keras-ocr — keras_ocr documentation,” 2021, Accessed: 13-Jul-2021. [Online]. Available:",
+      "es": "[3] F. Morales, “keras-ocr — keras_ocr documentation,” 2021, Accedido: 13-Jul-2021. [Online]. Disponible:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[4] Y. Baek, B. Lee, D. Han, S. Yun, and H. Lee, “Character region awareness for text detection,” in",
+      "en": "[4] Y. Baek, B. Lee, D. Han, S. Yun, and H. Lee, “Character region awareness for text detection,” in",
+      "es": "[4] Y. Baek, B. Lee, D. Han, S. Yun, y H. Lee, “La conciencia de la región del personaje para la detección de texto”, en",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "en": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "es": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", 2019, pp. 9365–9374.",
+      "en": ", 2019, pp. 9365-9374.",
+      "es": ", 2019, págs. 9365 a 9374.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Este proyecto fue elaborado por:",
+      "en": "This project was developed by:",
+      "es": "Este proyecto fue elaborado por:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Albert Martínez Alegría",
+      "en": "Albert Martínez Alegría",
+      "es": "Albert Martínez Alegría",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Alvaro Alanoca Huaycho",
+      "en": "Alvaro Alanoca Huaycho",
+      "es": "Alvaro Alanoca Huaycho",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Belinda Alcón Sullcani",
+      "en": "Belinda Alcón Sullcani",
+      "es": "Belinda Alcón Sullcani",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Rodrigo Aliaga",
+      "en": "Rodrigo Aliaga",
+      "es": "Rodrigo Aliaga",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para el programa",
+      "en": "For the programme",
+      "es": "Para el programa",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays.AI La Paz",
+      "en": "Saturdays.AI La Paz",
+      "es": "Saturdays.AI La Paz",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si quieres aprender más sobre este proyecto (y otros) únete a nuestra",
+      "en": "If you want to learn more about this project (and others) join us",
+      "es": "Si quieres aprender más sobre este proyecto (y otros) únete a nuestra",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Albert Mario Martínez Alegría",
+      "en": "Albert Mario Martínez Alegría",
+      "es": "Albert Mario Martínez Alegría",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Craft",
+      "en": "Craft",
+      "es": "Artesanía",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Keras Ocr",
+      "en": "Keras Ocr",
+      "es": "Keras Ocr",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ocr",
+      "en": "Ocr",
+      "es": "Ocr",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

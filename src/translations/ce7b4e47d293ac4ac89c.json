@@ -1,0 +1,313 @@
+{
+  "title": "Inteligencia artificial para la predicción de cosechas",
+  "route": "/2022/03/09/inteligencia-artificial-para-la-prediccion-de-cosechas/",
+  "segments": [
+    {
+      "source": "Inteligencia artificial para la predicción de cosechas",
+      "en": "Artificial intelligence for crop prediction",
+      "es": "Inteligencia artificial para la predicción de cosechas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Máster Online. Primera Edición. 2021 Los rendimientos de los cultivos no están exentos de sufrir los múltiples efectos nocivos de los que es responsable el cambio climático. El clima extremo es más común ahora que hace siglos,…",
+      "en": "Master Online. First Edition. 2021 Crop yields are not exempt from the multiple harmful effects that climate change is responsible for. The extreme climate is more common now than it was centuries ago,...",
+      "es": "Máster Online. Primera Edición. 2021 Los rendimientos de los cultivos no están exentos de sufrir los múltiples efectos nocivos de los que es responsable el cambio climático. El clima extremo es más común ahora que hace siglos,…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pasos del proyecto",
+      "en": "Project steps",
+      "es": "Pasos del proyecto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tendencia de la producción del 1940 al 2020",
+      "en": "Production trend from 1940 to 2020",
+      "es": "Tendencia de la producción del 1940 al 2020",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Máster Online",
+      "en": "Máster Online",
+      "es": "Máster Online",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Primera Edición. 2021",
+      "en": ". First Edition. 2021",
+      "es": ". Primera Edición. 2021",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los rendimientos de los cultivos no están exentos de sufrir los múltiples efectos nocivos de los que es responsable el cambio climático. El clima extremo es más común ahora que hace siglos, razón por la cual, sequías, inundaciones, altas y bajas temperaturas, entre otros, se requiere modelar dicho comportamiento.",
+      "en": "Crop yields are not exempt from the multiple harmful effects on which climate change is responsible. The extreme climate is more common now than it was centuries ago, which is why, droughts, floods, high and low temperatures, among others, it is necessary to model such behaviour.",
+      "es": "Los rendimientos de los cultivos no están exentos de sufrir los múltiples efectos nocivos de los que es responsable el cambio climático. El clima extremo es más común ahora que hace siglos, razón por la cual, sequías, inundaciones, altas y bajas temperaturas, entre otros, se requiere modelar dicho comportamiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La hipótesis inicial del proyecto se centraba en la predicción de cosechas sobre una región dentro de España, después de cerciorarnos de la poca información sobre las cosechas que hay actualmente disponible y la inexistente normalización en el formato de los datos se decidió elegir Illinois como la localización para nuestro proyecto.",
+      "en": "The initial project hypothesis focused on the prediction of crops over a region within Spain, after ensuring that there is little information about the crops currently available and the lack of standardization in the data format it was decided to choose Illinois as the location for our project.",
+      "es": "La hipótesis inicial del proyecto se centraba en la predicción de cosechas sobre una región dentro de España, después de cerciorarnos de la poca información sobre las cosechas que hay actualmente disponible y la inexistente normalización en el formato de los datos se decidió elegir Illinois como la localización para nuestro proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para poner en contexto el proyecto es imprescindible conocer antes varios aspectos sobre el estado de Illinois: Este estado se caracteriza por su terreno poco accidentado en general, y por su clima inestable así como por varias catástrofes climáticas acontecidas en los últimos años. La agricultura es una importante fuente de ingresos de Illinois especialmente en la producción del maíz y la soja.",
+      "en": "In order to put the project in context, it is essential to know a number of aspects about the state of Illinois first: this state is characterized by its undamaged terrain in general, and by its unstable climate as well as by several climate disasters in recent years. Agriculture is an important source of Illinois's income especially in the production of maize and soya.",
+      "es": "Para poner en contexto el proyecto es imprescindible conocer antes varios aspectos sobre el estado de Illinois: Este estado se caracteriza por su terreno poco accidentado en general, y por su clima inestable así como por varias catástrofes climáticas acontecidas en los últimos años. La agricultura es una importante fuente de ingresos de Illinois especialmente en la producción del maíz y la soja.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se puede observar en el gráfico mostrado que el rendimiento de la producción del maíz se ha visto incrementado a lo largo de los años, al mismo tiempo podemos constatar que han habido bajadas en la producción provocadas por eventos climáticos extremos.",
+      "en": "It can be seen in the graph shown that the yield of maize production has increased over the years, at the same time we can see that there have been reductions in production caused by extreme weather events.",
+      "es": "Se puede observar en el gráfico mostrado que el rendimiento de la producción del maíz se ha visto incrementado a lo largo de los años, al mismo tiempo podemos constatar que han habido bajadas en la producción provocadas por eventos climáticos extremos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Este contexto tan particular de la tendencia de la producción en Illinois nos ayudó a comprender que realizando un proyecto basándonos en la comprensión y categorización de los datos así como el posterior tratado de los mismos con un modelo de predicción nos daría como resultado la posibilidad de predecir la distribución de la producción en Illinois a futuro y con ello se podría ayudar a todo el territorio a prevenir y contrarrestar los picos de baja producción causados por las catástrofes climáticas u otros factores climáticos.",
+      "en": "This particular context of the Illinois production trend helped us understand that by implementing a project based on the understanding and categorization of the data as well as the subsequent treatment of the data with a prediction model would result in the possibility of predicting the distribution of production in Illinois in the future and could thus help the entire territory to prevent and counter the low-production peaks caused by climate disasters or other climate factors.",
+      "es": "Este contexto tan particular de la tendencia de la producción en Illinois nos ayudó a comprender que realizando un proyecto basándonos en la comprensión y categorización de los datos así como el posterior tratado de los mismos con un modelo de predicción nos daría como resultado la posibilidad de predecir la distribución de la producción en Illinois a futuro y con ello se podría ayudar a todo el territorio a prevenir y contrarrestar los picos de baja producción causados por las catástrofes climáticas u otros factores climáticos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para conseguir la predicción del rendimiento de las cosechas hemos priorizado la limpieza y gestión de los datos más óptima. Las dos series de datos históricos principales con los que hemos trabajado han sido : la temperatura a 2m del suelo y el Índice de vegetación EVI. El siguiente paso para analizar la serie temporal de yield es necesario aislar el componente aleatorio, aplicando la diferenciación regular para obtener una nueva serie, con un dato menos que la original, en la que se ha eliminado la tendencia.",
+      "en": "To achieve the prediction of crop performance we have prioritized the cleaning and management of the most optimal data. The two main historical data series with which we have worked have been: the temperature at 2m of the soil and the EVI vegetation index. The next step to analyze the time series of jield is to isolate the random component, applying regular differentiation to obtain a new series, with a data less than the original, in which the trend has been removed.",
+      "es": "Para conseguir la predicción del rendimiento de las cosechas hemos priorizado la limpieza y gestión de los datos más óptima. Las dos series de datos históricos principales con los que hemos trabajado han sido : la temperatura a 2m del suelo y el Índice de vegetación EVI. El siguiente paso para analizar la serie temporal de yield es necesario aislar el componente aleatorio, aplicando la diferenciación regular para obtener una nueva serie, con un dato menos que la original, en la que se ha eliminado la tendencia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El siguiente paso es el alineamiento de las muestras ya que las muestras de temperatura y de índice de vegetación no se realizaron en el mismo día. Para alinear ambas capturas de información interpolamos la serie de EVI de esta forma generamos un nuevo set de capturas para que ambas series coincidan.",
+      "en": "The next step is the alignment of the samples as the temperature and vegetation index samples were not carried out on the same day. To align both catches of information we interpolate the EVI series in this way we generate a new set of catches for both series to match.",
+      "es": "El siguiente paso es el alineamiento de las muestras ya que las muestras de temperatura y de índice de vegetación no se realizaron en el mismo día. Para alinear ambas capturas de información interpolamos la serie de EVI de esta forma generamos un nuevo set de capturas para que ambas series coincidan.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Después de realizar todos estos pasos, indispensables para poder realizar el modelo de predicción, hemos conseguido tener los datos ya limpios para proceder con el mismo. Llegados a este punto hemos explorado varios modelos lineales (",
+      "en": "After all these steps, essential to be able to perform the prediction model, we have managed to have the data already clean to proceed with it. At this point we have explored several linear models (",
+      "es": "Después de realizar todos estos pasos, indispensables para poder realizar el modelo de predicción, hemos conseguido tener los datos ya limpios para proceder con el mismo. Llegados a este punto hemos explorado varios modelos lineales (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "LinearRegression",
+      "en": "LinearReturn",
+      "es": "Regreso lineal",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lasso,",
+      "en": "Lasso,",
+      "es": "Lasso,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ridge",
+      "en": "Ridge",
+      "es": "Ridge",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ") y el resultado no ha sido el esperado ya que nos hemos encontrado con mucho overfitting. Al final hemos seleccionado un",
+      "en": ") and the result has not been the expected one since we have met with a lot of overfitting.",
+      "es": ") y el resultado no ha sido el esperado ya que nos hemos encontrado con mucho overfitting. Al final hemos seleccionado un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "RandomForestRegressor",
+      "en": "RandomForest",
+      "es": "AzarForestRegressor",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "porque consideramos que era el modelo más adecuado para este caso, finalmente para la selección de los",
+      "en": "because we considered that it was the most appropriate model for this case, finally for the selection of",
+      "es": "porque consideramos que era el modelo más adecuado para este caso, finalmente para la selección de los",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "hiperparámetros",
+      "en": "hyperparameters",
+      "es": "hiperparámetros",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "utilizamos el",
+      "en": "We use the",
+      "es": "utilizamos el",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "RandomizedSearchCV",
+      "en": "RandomizedSearchCV",
+      "es": "RandomizedSearchCV",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Este proyecto es un punto de partida para el seguimiento, evolución y mejora del rendimiento de producción de cosechas de maíz en Illinois. Nos complace haber encontrado algunas ideas interesantes de los conjuntos de datos proporcionados: una relación entre el rendimiento del cultivo y el tiempo, la temperatura y el valor EVI.",
+      "en": "This project is a starting point for the monitoring, evolution and improvement of the production performance of maize crops in Illinois. We are pleased to have found some interesting ideas of the data sets provided: a relationship between crop performance and time, temperature and EVI value.",
+      "es": "Este proyecto es un punto de partida para el seguimiento, evolución y mejora del rendimiento de producción de cosechas de maíz en Illinois. Nos complace haber encontrado algunas ideas interesantes de los conjuntos de datos proporcionados: una relación entre el rendimiento del cultivo y el tiempo, la temperatura y el valor EVI.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como resultado del modelo predictivo podemos observar que un error de modelo (varianza) independiente de la magnitud de la producción y que cuanto mayor es la producción menos se nota el error de la predicción del modelo. Según este resultado comprendemos que añadiendo más variables como las precipitaciones, composición del terreno, grado de heladas o catástrofes climáticas podríamos conseguir un porcentaje de error menor.",
+      "en": "As a result of the predictive model we can see that a model error (variance) independent of the magnitude of production and that the greater the production is, the less the error of the model prediction is seen. According to this result we understand that adding more variables such as precipitation, land composition, level of frost or climate disasters could achieve a lower error percentage.",
+      "es": "Como resultado del modelo predictivo podemos observar que un error de modelo (varianza) independiente de la magnitud de la producción y que cuanto mayor es la producción menos se nota el error de la predicción del modelo. Según este resultado comprendemos que añadiendo más variables como las precipitaciones, composición del terreno, grado de heladas o catástrofes climáticas podríamos conseguir un porcentaje de error menor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como punto de mejora del proyecto podríamos destacar la optimización en el cálculo de interpolación para mejorar la velocidad de procesamiento del código. Es un ejemplo de que con unos datos y variables óptimas se pueden desarrollar modelos de predicción útiles para localizaciones geográficamente equivalentes.",
+      "en": "As a point of improvement of the project we could highlight the optimization in the calculation of interpolation to improve the processing speed of the code. It is an example that with optimal data and variables you can develop useful prediction models for geographically equivalent locations.",
+      "es": "Como punto de mejora del proyecto podríamos destacar la optimización en el cálculo de interpolación para mejorar la velocidad de procesamiento del código. Es un ejemplo de que con unos datos y variables óptimas se pueden desarrollar modelos de predicción útiles para localizaciones geográficamente equivalentes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Finalmente, nos gustaría agradecer a Saturdays AI por brindarnos la oportunidad de realizar este proyecto y conocer a otras personas involucradas en el campo de la",
+      "en": "Finally, we would like to thank Saturdays AI for giving us the opportunity to carry out this project and meet other people involved in the field of",
+      "es": "Finalmente, nos gustaría agradecer a Saturdays AI por brindarnos la oportunidad de realizar este proyecto y conocer a otras personas involucradas en el campo de la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", así como probar nuestras habilidades en",
+      "en": "as well as testing our skills in",
+      "es": ", así como probar nuestras habilidades en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ML",
+      "en": "ML",
+      "es": "ML",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y ampliar nuestros horizontes en nuevos temas previamente desconocidos para nosotros.",
+      "en": "and expand our horizons on new issues previously unknown to us.",
+      "es": "y ampliar nuestros horizontes en nuevos temas previamente desconocidos para nosotros.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Paco Murcia",
+      "en": "Paco Murcia",
+      "es": "Paco Murcia",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Luis Muñoz",
+      "en": "Luis Muñoz",
+      "es": "Luis Muñoz",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fernando Romera",
+      "en": "Fernando Romera",
+      "es": "Fernando Romera",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Marta Mateu",
+      "en": "Marta Mateu",
+      "es": "Marta Mateu",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cambio Climático",
+      "en": "Climate Change",
+      "es": "Cambio Climático",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Random Forest Regressor",
+      "en": "Random Forest Return",
+      "es": "Regresor forestal aleatorio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

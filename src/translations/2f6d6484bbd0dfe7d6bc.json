@@ -1,0 +1,2156 @@
+{
+  "title": "Análisis de Depresión en Redes Sociales: Una aplicación en Bioestadística",
+  "route": "/2022/03/16/analisis-de-depresion-en-redes-sociales-mediante-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "15 min de lectura",
+      "en": "15 min reading",
+      "es": "15 min de lectura",
+      "reviewed": false
+    },
+    {
+      "source": "ANÁLISIS DE DEPRESIÓN EN REDES SOCIALES: UNA APLICACIÓN EN BIOESTADÍSTICA",
+      "en": "ANALYSIS OF DEPRESSION IN SOCIAL NETWORKS: AN APPLICATION IN BIOSTATISTICS",
+      "es": "ANÁLISIS DE DEPRESIÓN EN REDES SOCIALES: UNA APLICACIÓN EN BIOESTADÍSTICA",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "16 mar 2022",
+      "en": "Mar 16, 2022",
+      "es": "16 mar 2022",
+      "reviewed": false
+    },
+    {
+      "source": "¿Quiénes somos?",
+      "en": "Who are we?",
+      "es": "¿Quiénes somos?",
+      "reviewed": false
+    },
+    {
+      "source": "1. EDA (Exploratory Data Analysis)",
+      "en": "1. EDA (Exploratory Data Analysis)",
+      "es": "1. EDA (Exploratory Data Analysis)",
+      "reviewed": false
+    },
+    {
+      "source": "2. Cluster Analysis",
+      "en": "2. Cluster Analysis",
+      "es": "2. Cluster Analysis",
+      "reviewed": false
+    },
+    {
+      "source": "3. ANOVA de Medidas Repetidas",
+      "en": "3. ANOVA of Repeated Measures",
+      "es": "3. ANOVA de Medidas Repetidas",
+      "reviewed": false
+    },
+    {
+      "source": "4. Análisis de Regresión",
+      "en": "4. Regression Analysis",
+      "es": "4. Análisis de Regresión",
+      "reviewed": false
+    },
+    {
+      "source": "Conclusiones Finales",
+      "en": "Final Conclusions",
+      "es": "Conclusiones Finales",
+      "reviewed": false
+    },
+    {
+      "source": "Pasos Futuros",
+      "en": "Future Steps",
+      "es": "Pasos Futuros",
+      "reviewed": false
+    },
+    {
+      "source": ". Primera Edición. 2020",
+      "en": ". First Edition. 2020",
+      "es": ". Primera Edición. 2020",
+      "reviewed": false
+    },
+    {
+      "source": "¿Te has preguntado alguna vez si tanto usar las redes sociales podría afectar a tu estado de ánimo? Hay quien relaciona un mal uso de las redes sociales a problemas psicológicos como la depresión, pero ¿qué hay de cierto en esta idea? ¿Existe evidencia científica que nos alerte sobre peligros reales de las redes sociales, o se trata de temores infundados?",
+      "en": "Have you ever wondered if using social media so much could affect your mood? There are those who relate misuse of social networks to psychological problems such as depression, but what is true in this idea? Is there scientific evidence that alerts us to real dangers of social networks, or are these fears unfounded?",
+      "es": "¿Te has preguntado alguna vez si tanto usar las redes sociales podría afectar a tu estado de ánimo? Hay quien relaciona un mal uso de las redes sociales a problemas psicológicos como la depresión, pero ¿qué hay de cierto en esta idea? ¿Existe evidencia científica que nos alerte sobre peligros reales de las redes sociales, o se trata de temores infundados?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Durante la primera edición del programa Saturdays AI en Euskadi, el grupo",
+      "en": "During the first edition of the Saturdays AI program in Euskadi, the group",
+      "es": "Durante la primera edición del programa Saturdays AI en Euskadi, el grupo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Facemood",
+      "en": "facemood",
+      "es": "Facemood",
+      "reviewed": false
+    },
+    {
+      "source": "nos embarcamos en el reto de analizar si podemos predecir una serie de síntomas relacionados con la depresión en base al uso que hacemos de las redes sociales. Para ello, usamos un abanico de herramientas estadísticas y de",
+      "en": "We embarked on the challenge of analyzing whether we can predict a series of symptoms related to depression based on our use of social networks. To do this, we use a range of statistical tools and",
+      "es": "nos embarcamos en el reto de analizar si podemos predecir una serie de síntomas relacionados con la depresión en base al uso que hacemos de las redes sociales. Para ello, usamos un abanico de herramientas estadísticas y de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "que nos ayudaron a entender la relación entre estas variables.",
+      "en": "that helped us understand the relationship between these variables.",
+      "es": "que nos ayudaron a entender la relación entre estas variables.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La",
+      "en": "The",
+      "es": "La",
+      "reviewed": false
+    },
+    {
+      "source": "depresión",
+      "en": "depression",
+      "es": "depresión",
+      "reviewed": false
+    },
+    {
+      "source": "constituye un problema importante de salud pública, ya que es un gran factor de riesgo para el suicidio, que reclama cientos de miles de vidas cada año.",
+      "en": "It constitutes a major public health problem, as it is a major risk factor for suicide, which claims hundreds of thousands of lives each year.",
+      "es": "constituye un problema importante de salud pública, ya que es un gran factor de riesgo para el suicidio, que reclama cientos de miles de vidas cada año.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por ello, entendemos que conocer a fondo los aspectos que podrían estar asociados a un cuadro de depresión es la única forma de poder ayudar a proyectar políticas públicas eficientes de cara a mejorar este problema, y definitivamente, ¡",
+      "en": "Therefore, we understand that knowing in depth the aspects that could be associated with depression is the only way to help design efficient public policies to improve this problem, and definitely,",
+      "es": "Por ello, entendemos que conocer a fondo los aspectos que podrían estar asociados a un cuadro de depresión es la única forma de poder ayudar a proyectar políticas públicas eficientes de cara a mejorar este problema, y definitivamente, ¡",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "salvar vidas",
+      "en": "save lives",
+      "es": "salvar vidas",
+      "reviewed": false
+    },
+    {
+      "source": "Como si se tratara de un partido de fútbol sala, os presentamos nuestro quinteto inicial:",
+      "en": "As if it were a futsal match, we present our starting quintet:",
+      "es": "Como si se tratara de un partido de fútbol sala, os presentamos nuestro quinteto inicial:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hola!!! Yo soy Ana Patricia Bautista García, Ingeniera Industrial y de Sistemas y máster en",
+      "en": "Hello!!! I am Ana Patricia Bautista García, Industrial and Systems Engineer and master in",
+      "es": "Hola!!! Yo soy Ana Patricia Bautista García, Ingeniera Industrial y de Sistemas y máster en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Business Analytics",
+      "en": "Business Analytics",
+      "es": "Business Analytics",
+      "reviewed": false
+    },
+    {
+      "source": "Big Data",
+      "en": "Big Data",
+      "es": "Big Data",
+      "reviewed": false
+    },
+    {
+      "source": ". Este proyecto me motiva porque combina varias disciplinas como la Ciencia de Datos, la Estadística y la Psicología. Lo cual desde un principio me parecía un ejercicio muy completo e interesante para aplicar los conocimientos adquiridos en",
+      "en": ". This project motivates me because it combines several disciplines such as Data Science, Statistics and Psychology. Which from the beginning seemed to me to be a very complete and interesting exercise to apply the knowledge acquired in",
+      "es": ". Este proyecto me motiva porque combina varias disciplinas como la Ciencia de Datos, la Estadística y la Psicología. Lo cual desde un principio me parecía un ejercicio muy completo e interesante para aplicar los conocimientos adquiridos en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hola a tod@s. Me llamo Henry Corazza Sef y soy estadístico. Empecé mi carrera profesional trabajando en un hospital universitario como bioestadístico. Aunque me haya decantado por trabajar en la implementación de la",
+      "en": "Hello everyone. My name is Henry Corazza Sef and I am a statistician. I began my professional career working in a university hospital as a biostatistician. Although I have chosen to work on the implementation of the",
+      "es": "Hola a tod@s. Me llamo Henry Corazza Sef y soy estadístico. Empecé mi carrera profesional trabajando en un hospital universitario como bioestadístico. Aunque me haya decantado por trabajar en la implementación de la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Metodología 6 Sigma",
+      "en": "6 Sigma Methodology",
+      "es": "Metodología 6 Sigma",
+      "reviewed": false
+    },
+    {
+      "source": "en el área industrial, sigo interesado en la Bioestadística.",
+      "en": "In the industrial area, I am still interested in Biostatistics.",
+      "es": "en el área industrial, sigo interesado en la Bioestadística.",
+      "reviewed": false
+    },
+    {
+      "source": "¡Hola! Yo soy Dani, psicólogo y neurocientífico. He dedicado los últimos años a la investigación del cerebro. También me interesa la",
+      "en": "Hello! I am Dani, psychologist and neuroscientist. I have dedicated the last few years to brain research. I am also interested in",
+      "es": "¡Hola! Yo soy Dani, psicólogo y neurocientífico. He dedicado los últimos años a la investigación del cerebro. También me interesa la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Open Science",
+      "en": "Open Science",
+      "es": "Open Science",
+      "reviewed": false
+    },
+    {
+      "source": ", e intento formarme en gestión de datos en abierto y flujos de trabajo reproducibles.",
+      "en": ", and I try to train myself in open data management and reproducible workflows.",
+      "es": ", e intento formarme en gestión de datos en abierto y flujos de trabajo reproducibles.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hola internauta! Mi nombre es Sergio Navarro, ingeniero de",
+      "en": "Hello Internet user! My name is Sergio Navarro, engineer",
+      "es": "Hola internauta! Mi nombre es Sergio Navarro, ingeniero de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "software",
+      "en": "software",
+      "es": "software",
+      "reviewed": false
+    },
+    {
+      "source": ". Trabajo en una pequeña",
+      "en": ". I work in a small",
+      "es": ". Trabajo en una pequeña",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "startup",
+      "en": "startup",
+      "es": "startup",
+      "reviewed": false
+    },
+    {
+      "source": "alavesa como",
+      "en": "alavesa like",
+      "es": "alavesa como",
+      "reviewed": false
+    },
+    {
+      "source": "full stack developer",
+      "en": "full stack developer",
+      "es": "full stack developer",
+      "reviewed": false
+    },
+    {
+      "source": "y paso mi tiempo entre líneas de código, bases de datos y preguntas de",
+      "en": "and I spend my time between lines of code, databases and questions of",
+      "es": "y paso mi tiempo entre líneas de código, bases de datos y preguntas de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "stackoverflow",
+      "en": "stackoverflow",
+      "es": "stackoverflow",
+      "reviewed": false
+    },
+    {
+      "source": "que puedan solucionar ese",
+      "en": "that can solve that",
+      "es": "que puedan solucionar ese",
+      "reviewed": false
+    },
+    {
+      "source": "bug",
+      "en": "bug",
+      "es": "bug",
+      "reviewed": false
+    },
+    {
+      "source": "que no me deja dormir.",
+      "en": "that doesn't let me sleep.",
+      "es": "que no me deja dormir.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Buenas, yo soy Sergio Hernando, graduado en Ingeniería Informática y recién iniciado en el mundo laboral como arquitecto digital formándome en",
+      "en": "Hello, I am Sergio Hernando, graduated in Computer Engineering and recently started in the world of work as a digital architect training in",
+      "es": "Buenas, yo soy Sergio Hernando, graduado en Ingeniería Informática y recién iniciado en el mundo laboral como arquitecto digital formándome en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cloud Computing",
+      "en": "Cloud Computing",
+      "es": "Cloud Computing",
+      "reviewed": false
+    },
+    {
+      "source": ". Suelo estar en las nubes, pero en este caso son",
+      "en": ". I'm usually in the clouds, but in this case they are",
+      "es": ". Suelo estar en las nubes, pero en este caso son",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "AWS",
+      "en": "AWS",
+      "es": "AWS",
+      "reviewed": false
+    },
+    {
+      "source": "Azure",
+      "en": "Azure",
+      "es": "Azure",
+      "reviewed": false
+    },
+    {
+      "source": "Como punto de partida, nos basamos en el trabajo realizado por un grupo de investigadores neerlandeses y estadounidenses titulado:",
+      "en": "As a starting point, we rely on the work carried out by a group of Dutch and American researchers titled:",
+      "es": "Como punto de partida, nos basamos en el trabajo realizado por un grupo de investigadores neerlandeses y estadounidenses titulado:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "‘Social Media and Depression Symptoms: A Network Perspective’",
+      "en": "‘Social Media and Depression Symptoms: A Network Perspective’",
+      "es": "‘Simpuestos de Medios Sociales y Depresión: Una Perspectiva de Red’",
+      "reviewed": false,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "DOI:10.1037/xge0000528",
+      "en": "DOI:10.1037/xge0000528",
+      "es": "DOI:10.1037/xge0000528",
+      "reviewed": false
+    },
+    {
+      "source": "; accesible también",
+      "en": "; accessible too",
+      "es": "; accesible también",
+      "reviewed": false
+    },
+    {
+      "source": "en abierto",
+      "en": "in open",
+      "es": "en abierto",
+      "reviewed": false
+    },
+    {
+      "source": "). En este estudio, los investigadores analizaron si el uso pasivo de las redes sociales (es decir, hacer",
+      "en": "). In this study, the researchers examined whether passive social media use (i.e., doing",
+      "es": "). En este estudio, los investigadores analizaron si el uso pasivo de las redes sociales (es decir, hacer",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "scrolling",
+      "en": "scrolling",
+      "es": "scrolling",
+      "reviewed": false
+    },
+    {
+      "source": "en el",
+      "en": "in the",
+      "es": "en el",
+      "reviewed": false
+    },
+    {
+      "source": "feed",
+      "en": "feed",
+      "es": "feed",
+      "reviewed": false
+    },
+    {
+      "source": "de noticias o fotografías de nuestros amigos y contactos) provoca síntomas depresivos, o viceversa.",
+      "en": "news or photographs of our friends and contacts) causes depressive symptoms, or vice versa.",
+      "es": "de noticias o fotografías de nuestros amigos y contactos) provoca síntomas depresivos, o viceversa.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para la obtención de los datos, cada uno de los participantes en el estudio recibía en su teléfono móvil un cuestionario en el que debía responder de 0 a 100 como se sentía en referencia a cada uno de los posibles síntomas de depresión: falta de energía (",
+      "en": "To obtain the data, each of the participants in the study received a questionnaire on their mobile phone in which they had to answer from 0 to 100 how they felt in reference to each of the possible symptoms of depression: lack of energy (",
+      "es": "Para la obtención de los datos, cada uno de los participantes en el estudio recibía en su teléfono móvil un cuestionario en el que debía responder de 0 a 100 como se sentía en referencia a cada uno de los posibles síntomas de depresión: falta de energía (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fatigue",
+      "en": "Fatigue",
+      "es": "Fatigue",
+      "reviewed": false
+    },
+    {
+      "source": "), estado de ánimo bajo (",
+      "en": "), low mood (",
+      "es": "), estado de ánimo bajo (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "LowMood",
+      "en": "LowMood",
+      "es": "LowMood",
+      "reviewed": false
+    },
+    {
+      "source": "), soledad (",
+      "en": "), loneliness (",
+      "es": "), soledad (",
+      "reviewed": false
+    },
+    {
+      "source": "Loneliness",
+      "en": "Loneliness",
+      "es": "Loneliness",
+      "reviewed": false
+    },
+    {
+      "source": "), problemas de concentración (",
+      "en": "), concentration problems (",
+      "es": "), problemas de concentración (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Concentration",
+      "en": "Concentration",
+      "es": "Concentration",
+      "reviewed": false
+    },
+    {
+      "source": "), pérdida de interés (",
+      "en": "), loss of interest (",
+      "es": "), pérdida de interés (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Loss of Interest",
+      "en": "Loss of Interest",
+      "es": "Loss of Interest",
+      "reviewed": false
+    },
+    {
+      "source": "), sentimiento de inferioridad (",
+      "en": "), feeling of inferiority (",
+      "es": "), sentimiento de inferioridad (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Inferiority",
+      "en": "Inferiority",
+      "es": "Inferiority",
+      "reviewed": false
+    },
+    {
+      "source": "), desesperanza (",
+      "en": "), hopelessness (",
+      "es": "), desesperanza (",
+      "reviewed": false
+    },
+    {
+      "source": "Hopeless",
+      "en": "Hopeless",
+      "es": "Hopeless",
+      "reviewed": false
+    },
+    {
+      "source": "), y estrés (",
+      "en": "), and stress (",
+      "es": "), y estrés (",
+      "reviewed": false
+    },
+    {
+      "source": "Stress",
+      "en": "Stress",
+      "es": "Stress",
+      "reviewed": false
+    },
+    {
+      "source": "). También tuvieron que responder de 0 a 100 a tres preguntas relacionadas con el uso de las Redes Sociales: uso pasivo (",
+      "en": "). They also had to answer from 0 to 100 to three questions related to the use of Social Networks: passive use (",
+      "es": "). También tuvieron que responder de 0 a 100 a tres preguntas relacionadas con el uso de las Redes Sociales: uso pasivo (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "PSMU",
+      "en": "PSMU",
+      "es": "PSMU",
+      "reviewed": false
+    },
+    {
+      "source": "), activo (",
+      "en": "), active (",
+      "es": "), activo (",
+      "reviewed": false
+    },
+    {
+      "source": "ASMU",
+      "en": "ASMU",
+      "es": "ASMU",
+      "reviewed": false
+    },
+    {
+      "source": "), y consulta de noticias (",
+      "en": "), and news consultation (",
+      "es": "), y consulta de noticias (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "News:",
+      "en": "News:",
+      "es": "News:",
+      "reviewed": false
+    },
+    {
+      "source": "acceder a información de carácter político o de interés público). Los participantes rellenaron este cuestionario siete veces al día durante 14 días.",
+      "en": "access information of a political nature or public interest). Participants filled out this questionnaire seven times a day for 14 days.",
+      "es": "acceder a información de carácter político o de interés público). Los participantes rellenaron este cuestionario siete veces al día durante 14 días.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A continuación, una breve descripción de las",
+      "en": "Below is a brief description of the",
+      "es": "A continuación, una breve descripción de las",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "11 variables del estudio",
+      "en": "11 study variables",
+      "es": "11 variables del estudio",
+      "reviewed": false
+    },
+    {
+      "source": "Para llevar a cabo este proyecto, hemos planificado una estrategia de análisis según el esquema de abajo, en el que hemos utilizado distintas metodologías y herramientas:",
+      "en": "To carry out this project, we have planned an analysis strategy according to the scheme below, in which we have used different methodologies and tools:",
+      "es": "Para llevar a cabo este proyecto, hemos planificado una estrategia de análisis según el esquema de abajo, en el que hemos utilizado distintas metodologías y herramientas:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "EDA (Exploratory Data Analysis)",
+      "en": "EDA (Exploratory Data Analysis)",
+      "es": "EDA (Exploratory Data Analysis)",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 1. Estrategia de Análisis.",
+      "en": "Figure 1. Analysis Strategy.",
+      "es": "Figura 1. Estrategia de Análisis.",
+      "reviewed": false
+    },
+    {
+      "source": "Al tratarse de un conjunto de datos proveniente de una publicación científica y haber pasado por un análisis previo durante dicha investigación, podríamos decir que cuenta con una mayor validez en comparación a un",
+      "en": "As it is a set of data from a scientific publication and having gone through a prior analysis during said research, we could say that it has greater validity compared to a",
+      "es": "Al tratarse de un conjunto de datos proveniente de una publicación científica y haber pasado por un análisis previo durante dicha investigación, podríamos decir que cuenta con una mayor validez en comparación a un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "que obtengamos a través de una plataforma",
+      "en": "that we obtain through a platform",
+      "es": "que obtengamos a través de una plataforma",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "como",
+      "en": "like",
+      "es": "como",
+      "reviewed": false
+    },
+    {
+      "source": "Kaggle",
+      "en": "kaggle",
+      "es": "Kaggle",
+      "reviewed": false
+    },
+    {
+      "source": ". No obstante, esto no significa que no debamos llevar a cabo un análisis de los datos por nuestra parte, con el fin de encontrar patrones y preparar los datos para las tareas de",
+      "en": ". However, this does not mean that we should not carry out data analysis on our part, in order to find patterns and prepare the data for analysis tasks.",
+      "es": ". No obstante, esto no significa que no debamos llevar a cabo un análisis de los datos por nuestra parte, con el fin de encontrar patrones y preparar los datos para las tareas de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La primera fase consistió en identificar aquellas mediciones que consideramos válidas. Lógicamente muchos de los participantes olvidaron llevar a cabo algunas de las mismas (realizar 7 mediciones al día durante 14 días no es tarea fácil",
+      "en": "The first phase consisted of identifying those measurements that we consider valid. Logically, many of the participants forgot to carry out some of them (carrying out 7 measurements a day for 14 days is not an easy task.",
+      "es": "La primera fase consistió en identificar aquellas mediciones que consideramos válidas. Lógicamente muchos de los participantes olvidaron llevar a cabo algunas de las mismas (realizar 7 mediciones al día durante 14 días no es tarea fácil",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "), o no supieron responder a algunos de los síntomas (cuantificar tu estado de ánimo de 0 a 100 tampoco lo es…). Todas estas mediciones fueron eliminadas.",
+      "en": "), or they didn't know how to respond to some of the symptoms (quantifying your mood from 0 to 100 isn't either...). All these measurements were eliminated.",
+      "es": "), o no supieron responder a algunos de los síntomas (cuantificar tu estado de ánimo de 0 a 100 tampoco lo es…). Todas estas mediciones fueron eliminadas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En una segunda fase, nos fijamos en si las mediciones restantes eran coherentes: no poseen el mismo valor en todos los síntomas, no son respuestas recurrentes, fueron realizadas en el plazo de tiempo definido, etc.",
+      "en": "In a second phase, we looked at whether the remaining measurements were coherent: they do not have the same value in all symptoms, they are not recurrent responses, they were carried out within the defined time period, etc.",
+      "es": "En una segunda fase, nos fijamos en si las mediciones restantes eran coherentes: no poseen el mismo valor en todos los síntomas, no son respuestas recurrentes, fueron realizadas en el plazo de tiempo definido, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De esta forma, ¡ya estamos listos para pasar a la acción!",
+      "en": "In this way, we are ready to take action!",
+      "es": "De esta forma, ¡ya estamos listos para pasar a la acción!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La siguiente fase consistió en llevar a cabo un",
+      "en": "The next phase consisted of carrying out a",
+      "es": "La siguiente fase consistió en llevar a cabo un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cluster Analysis",
+      "en": "Cluster Analysis",
+      "es": "Cluster Analysis",
+      "reviewed": false
+    },
+    {
+      "source": ", una de las técnicas de",
+      "en": ", one of the techniques of",
+      "es": ", una de las técnicas de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para identificar grupos en el",
+      "en": "to identify groups in the",
+      "es": "para identificar grupos en el",
+      "reviewed": false
+    },
+    {
+      "source": ". Utilizamos los métodos",
+      "en": ". We use the methods",
+      "es": ". Utilizamos los métodos",
+      "reviewed": false
+    },
+    {
+      "source": "Elbow",
+      "en": "Elbow",
+      "es": "Elbow",
+      "reviewed": false
+    },
+    {
+      "source": "Silhouette",
+      "en": "Silhouette",
+      "es": "Silhouette",
+      "reviewed": false
+    },
+    {
+      "source": "para obtener el",
+      "en": "to get the",
+      "es": "para obtener el",
+      "reviewed": false
+    },
+    {
+      "source": "número de",
+      "en": "number of",
+      "es": "número de",
+      "reviewed": false
+    },
+    {
+      "source": "clusters",
+      "en": "clusters",
+      "es": "clusters",
+      "reviewed": false
+    },
+    {
+      "source": "óptimo",
+      "en": "optimal",
+      "es": "óptimo",
+      "reviewed": false
+    },
+    {
+      "source": "y el algoritmo",
+      "en": "and the algorithm",
+      "es": "y el algoritmo",
+      "reviewed": false
+    },
+    {
+      "source": "K-means",
+      "en": "K-means",
+      "es": "K-means",
+      "reviewed": false
+    },
+    {
+      "source": ", técnica de",
+      "en": ", technique",
+      "es": ", técnica de",
+      "reviewed": false
+    },
+    {
+      "source": "unsupervised learning",
+      "en": "unsupervised learning",
+      "es": "unsupervised learning",
+      "reviewed": false
+    },
+    {
+      "source": "para hacer",
+      "en": "to do",
+      "es": "para hacer",
+      "reviewed": false
+    },
+    {
+      "source": "clustering",
+      "en": "clustering",
+      "es": "clustering",
+      "reviewed": false
+    },
+    {
+      "source": "Identificación del número óptimo de",
+      "en": "Identification of the optimal number of",
+      "es": "Identificación del número óptimo de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Método",
+      "en": "Method",
+      "es": "Método",
+      "reviewed": false
+    },
+    {
+      "source": ": en este se calcula la distorsión promedio de los",
+      "en": ": in this the average distortion of the",
+      "es": ": en este se calcula la distorsión promedio de los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", es decir, la distancia promedio del centroide a todos los puntos del",
+      "en": ", that is, the average distance of the centroid to all points on the",
+      "es": ", es decir, la distancia promedio del centroide a todos los puntos del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "cluster",
+      "en": "cluster",
+      "es": "cluster",
+      "reviewed": false
+    },
+    {
+      "source": ". Esta se obtiene con el algoritmo de",
+      "en": ". This is obtained with the algorithm",
+      "es": ". Esta se obtiene con el algoritmo de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "en función del número de",
+      "en": "depending on the number of",
+      "es": "en función del número de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". Para resolver este ejercicio, hemos creado la función",
+      "en": ". To solve this exercise, we have created the function",
+      "es": ". Para resolver este ejercicio, hemos creado la función",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "plot_elbow",
+      "en": "plot_elbow",
+      "es": "plot_elbow",
+      "reviewed": false
+    },
+    {
+      "source": ", que recibe un conjunto de datos y un título de gráfico. Fijamos los valores de los parámetros",
+      "en": ", which receives a data set and a chart title. We set the values of the parameters",
+      "es": ", que recibe un conjunto de datos y un título de gráfico. Fijamos los valores de los parámetros",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "max_k",
+      "en": "max_k",
+      "es": "max_k",
+      "reviewed": false
+    },
+    {
+      "source": "en 10. Lo que hace la función es probar con cada valor del 1 al 9 y graficar el resultado.",
+      "en": "in 10. What the function does is try each value from 1 to 9 and graph the result.",
+      "es": "en 10. Lo que hace la función es probar con cada valor del 1 al 9 y graficar el resultado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Gráfica que representa el método Elbow.",
+      "en": "Graph representing the Elbow method.",
+      "es": "Gráfica que representa el método Elbow.",
+      "reviewed": false
+    },
+    {
+      "source": "El gráfico nos muestra que, a partir del valor 3, la dispersión se empieza a reducir drásticamente. Por lo tanto, podemos tomar el 3 como valor óptimo.",
+      "en": "The graph shows us that, starting at value 3, the dispersion begins to reduce drastically. Therefore, we can take 3 as the optimal value.",
+      "es": "El gráfico nos muestra que, a partir del valor 3, la dispersión se empieza a reducir drásticamente. Por lo tanto, podemos tomar el 3 como valor óptimo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": El coeficiente de",
+      "en": ": The coefficient of",
+      "es": ": El coeficiente de",
+      "reviewed": false
+    },
+    {
+      "source": "se define como la diferencia entre la distancia promedio a los elementos del",
+      "en": "It is defined as the difference between the average distance to the elements of the",
+      "es": "se define como la diferencia entre la distancia promedio a los elementos del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "más cercano (",
+      "en": "nearest (",
+      "es": "más cercano (",
+      "reviewed": false
+    },
+    {
+      "source": "b",
+      "en": "b",
+      "es": "b",
+      "reviewed": false
+    },
+    {
+      "source": ") y la distancia intra-",
+      "en": ") and the intra-distance",
+      "es": ") y la distancia intra-",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "promedio de los elementos de un",
+      "en": "average of the elements of a",
+      "es": "promedio de los elementos de un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "a",
+      "en": "to",
+      "es": "a",
+      "reviewed": false
+    },
+    {
+      "source": ") dividido por el máximo de los dos, solo pudiendo tomar valores entre -1 y 1.",
+      "en": ") divided by the maximum of the two, only being able to take values between -1 and 1.",
+      "es": ") dividido por el máximo de los dos, solo pudiendo tomar valores entre -1 y 1.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Gráfica que representa el método Silhouette.",
+      "en": "Graphic representing the Silhouette method.",
+      "es": "Gráfica que representa el método Silhouette.",
+      "reviewed": false
+    },
+    {
+      "source": "Con este método comprobamos que el 3 puede ser un buen valor para probar nuestro",
+      "en": "With this method we verify that 3 can be a good value to test our",
+      "es": "Con este método comprobamos que el 3 puede ser un buen valor para probar nuestro",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "cluster analysis",
+      "en": "cluster analysis",
+      "es": "cluster analysis",
+      "reviewed": false
+    },
+    {
+      "source": "Implementación del algoritmo",
+      "en": "Algorithm implementation",
+      "es": "Implementación del algoritmo",
+      "reviewed": false
+    },
+    {
+      "source": "k-means",
+      "en": "k-means",
+      "es": "k-means",
+      "reviewed": false
+    },
+    {
+      "source": "y visualización de los grupos en un gráfico 3D",
+      "en": "and visualization of the groups in a 3D graph",
+      "es": "y visualización de los grupos en un gráfico 3D",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El algoritmo recibe un conjunto de datos para entrenarlo y un número de",
+      "en": "The algorithm receives a set of data to train it and a number of",
+      "es": "El algoritmo recibe un conjunto de datos para entrenarlo y un número de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para dividirlo. Mediante el método",
+      "en": "to divide it. Through the method",
+      "es": "para dividirlo. Mediante el método",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "predict",
+      "en": "predict",
+      "es": "predict",
+      "reviewed": false
+    },
+    {
+      "source": "se obtiene la clase del objeto entrenado en el",
+      "en": "the class of the trained object is obtained in the",
+      "es": "se obtiene la clase del objeto entrenado en el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", y finalmente se representa cada dato con un color distinto en función del",
+      "en": ", and finally each data is represented with a different color depending on the",
+      "es": ", y finalmente se representa cada dato con un color distinto en función del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "al que ha sido asignado. Podemos apreciar el resultado en la",
+      "en": "to which it has been assigned. We can see the result in the",
+      "es": "al que ha sido asignado. Podemos apreciar el resultado en la",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 4",
+      "en": "Figure 4",
+      "es": "Figura 4",
+      "reviewed": false
+    },
+    {
+      "source": "y la distribución de participantes en la",
+      "en": "and the distribution of participants in the",
+      "es": "y la distribución de participantes en la",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 5",
+      "en": "Figure 5",
+      "es": "Figura 5",
+      "reviewed": false
+    },
+    {
+      "source": "Visualización de los grupos en un gráfico 3D.",
+      "en": "Visualization of the groups in a 3D graph.",
+      "es": "Visualización de los grupos en un gráfico 3D.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Distribución de los participantes por",
+      "en": "Distribution of participants by",
+      "es": "Distribución de los participantes por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Finalmente, para concluir con el",
+      "en": "Finally, to conclude with the",
+      "es": "Finalmente, para concluir con el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cluster Analysis,",
+      "en": "Cluster Analysis,",
+      "es": "Cluster Analysis,",
+      "reviewed": false
+    },
+    {
+      "source": "hemos elaborado una serie de gráficos (histogramas solapados), para identificar de un vistazo las diferencias en cada variable entre los miembros de cada",
+      "en": "We have created a series of graphs (overlapping histograms) to identify at a glance the differences in each variable between the members of each",
+      "es": "hemos elaborado una serie de gráficos (histogramas solapados), para identificar de un vistazo las diferencias en cada variable entre los miembros de cada",
+      "reviewed": false
+    },
+    {
+      "source": "Variables de RR.SS. por",
+      "en": "RR.SS variables. by",
+      "es": "Variables de RR.SS. por",
+      "reviewed": false
+    },
+    {
+      "source": "Variables relacionadas a la depresión, por",
+      "en": "Variables related to depression, for",
+      "es": "Variables relacionadas a la depresión, por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se observa que los 3",
+      "en": "It is observed that the 3",
+      "es": "Se observa que los 3",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "son diferentes en lo que concierne a los síntomas relacionados con la depresión, siendo el",
+      "en": "are different when it comes to symptoms related to depression, being the",
+      "es": "son diferentes en lo que concierne a los síntomas relacionados con la depresión, siendo el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cluster 1",
+      "en": "Cluster 1",
+      "es": "Cluster 1",
+      "reviewed": false
+    },
+    {
+      "source": "el que contiene las",
+      "en": "the one that contains the",
+      "es": "el que contiene las",
+      "reviewed": false
+    },
+    {
+      "source": "mayores puntuaciones medias",
+      "en": "higher average scores",
+      "es": "mayores puntuaciones medias",
+      "reviewed": false
+    },
+    {
+      "source": "en relación a los 8 síntomas del estudio, por lo que se podría afirmar que es el grupo con mayor propensión a presentar un posible cuadro de depresión.",
+      "en": "in relation to the 8 symptoms of the study, so it could be stated that it is the group with the greatest propensity to present a possible depression.",
+      "es": "en relación a los 8 síntomas del estudio, por lo que se podría afirmar que es el grupo con mayor propensión a presentar un posible cuadro de depresión.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sin embargo, como podemos observar en la",
+      "en": "However, as we can see in the",
+      "es": "Sin embargo, como podemos observar en la",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 6",
+      "en": "Figure 6",
+      "es": "Figura 6",
+      "reviewed": false
+    },
+    {
+      "source": "Variables de RR.SS. por Cluster",
+      "en": "RR.SS variables. by Cluster",
+      "es": "Variables de RR.SS. por Cluster",
+      "reviewed": false
+    },
+    {
+      "source": "), en el caso de las variables relacionadas con RR.SS. no encontramos grandes diferencias entre",
+      "en": "), in the case of variables related to RR.SS. We did not find major differences between",
+      "es": "), en el caso de las variables relacionadas con RR.SS. no encontramos grandes diferencias entre",
+      "reviewed": false
+    },
+    {
+      "source": "Tabla de medias por",
+      "en": "Table of averages by",
+      "es": "Tabla de medias por",
+      "reviewed": false
+    },
+    {
+      "source": "Hay dos aspectos de este",
+      "en": "There are two aspects to this",
+      "es": "Hay dos aspectos de este",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "que nos llamaron especialmente la atención. Por un lado, el hecho de haber tomado mediciones durante dos semanas nos ofrece la posibilidad de explorar si dichas mediciones varían con el tiempo. Mediante un gráfico de líneas o",
+      "en": "that especially caught our attention. On the one hand, the fact of having taken measurements for two weeks offers us the possibility of exploring whether these measurements vary over time. Using a line graph or",
+      "es": "que nos llamaron especialmente la atención. Por un lado, el hecho de haber tomado mediciones durante dos semanas nos ofrece la posibilidad de explorar si dichas mediciones varían con el tiempo. Mediante un gráfico de líneas o",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "lineplot",
+      "en": "lineplot",
+      "es": "lineplot",
+      "reviewed": false
+    },
+    {
+      "source": "podemos hacernos una idea de cómo ha variado, de media, cada uno de los síntomas relacionados con la depresión que se han medido.",
+      "en": "We can get an idea of how each of the depression-related symptoms that have been measured has varied, on average.",
+      "es": "podemos hacernos una idea de cómo ha variado, de media, cada uno de los síntomas relacionados con la depresión que se han medido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Medias de cada variable agrupadas por día de la semana.",
+      "en": "Means of each variable grouped by day of the week.",
+      "es": "Medias de cada variable agrupadas por día de la semana.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aunque parece haber cierta variación a lo largo del tiempo en alguna de las variables, no podemos estar seguros a simple vista de si cabría esperar que los datos varíen así por puro azar o porque no hemos usado un instrumento de medida muy bueno.",
+      "en": "Although there appears to be some variation over time in some of the variables, we cannot be sure at a glance whether the data would be expected to vary this way by pure chance or because we have not used a very good measuring instrument.",
+      "es": "Aunque parece haber cierta variación a lo largo del tiempo en alguna de las variables, no podemos estar seguros a simple vista de si cabría esperar que los datos varíen así por puro azar o porque no hemos usado un instrumento de medida muy bueno.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por otro lado, sabemos que se realizaron un gran número de mediciones a cada participante. Como explicamos arriba, se hizo un seguimiento de sintomatología relacionada con la depresión durante 14 días a 125 sujetos. Además, cada día se pidió a los participantes que rellenaran la escala cada 2h desde las 10:00 a las 22:00. Por tanto, con siete mediciones diarias durante dos semanas en 125 sujetos, tenemos un total de 12.250 observaciones en el",
+      "en": "On the other hand, we know that a large number of measurements were carried out on each participant. As we explained above, 125 subjects were monitored for depression-related symptoms for 14 days. Furthermore, each day the participants were asked to fill out the scale every 2 hours from 10:00 to 22:00. Therefore, with seven daily measurements for two weeks in 125 subjects, we have a total of 12,250 observations in the",
+      "es": "Por otro lado, sabemos que se realizaron un gran número de mediciones a cada participante. Como explicamos arriba, se hizo un seguimiento de sintomatología relacionada con la depresión durante 14 días a 125 sujetos. Además, cada día se pidió a los participantes que rellenaran la escala cada 2h desde las 10:00 a las 22:00. Por tanto, con siete mediciones diarias durante dos semanas en 125 sujetos, tenemos un total de 12.250 observaciones en el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡Pero cuidado! Estas observaciones no son independientes entre sí. No podemos utilizar un modelo estadístico que tome cada una de esas observaciones como si proviniera de distintas personas, porque la variabilidad que obtenemos al medir repetidamente a un mismo individuo será distinta a la variabilidad obtenida al medir a distintos individuos (al menos si la medición es mínimamente fiable).",
+      "en": "But be careful! These observations are not independent of each other. We cannot use a statistical model that takes each of these observations as if they came from different people, because the variability we obtain by repeatedly measuring the same individual will be different from the variability obtained by measuring different individuals (at least if the measurement is minimally reliable).",
+      "es": "¡Pero cuidado! Estas observaciones no son independientes entre sí. No podemos utilizar un modelo estadístico que tome cada una de esas observaciones como si proviniera de distintas personas, porque la variabilidad que obtenemos al medir repetidamente a un mismo individuo será distinta a la variabilidad obtenida al medir a distintos individuos (al menos si la medición es mínimamente fiable).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Existe un modelo estadístico que sí nos permite analizar la influencia del tiempo en nuestros datos, pero respetando el hecho de que no todas las observaciones son independientes, sino que tenemos grupos de 98 observaciones a lo largo del tiempo para 125 sujetos. Este modelo se llama",
+      "en": "There is a statistical model that does allow us to analyze the influence of time on our data, but respecting the fact that not all observations are independent, but rather we have groups of 98 observations over time for 125 subjects. This model is called",
+      "es": "Existe un modelo estadístico que sí nos permite analizar la influencia del tiempo en nuestros datos, pero respetando el hecho de que no todas las observaciones son independientes, sino que tenemos grupos de 98 observaciones a lo largo del tiempo para 125 sujetos. Este modelo se llama",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Análisis de la Varianza (o ANOVA) de Medidas Repetidas",
+      "en": "Analysis of Variance (or ANOVA) of Repeated Measures",
+      "es": "Análisis de la Varianza (o ANOVA) de Medidas Repetidas",
+      "reviewed": false
+    },
+    {
+      "source": "Como el tamaño de nuestra muestra no es excesivamente grande (125 participantes) y contamos con 8 variables de síntomas relacionados con la depresión, decidimos no incorporar al modelo estadístico todas las variables y estimar un modelo simplificado para la variable ‘estado de ánimo bajo’ (",
+      "en": "As our sample size is not excessively large (125 participants) and we have 8 variables of symptoms related to depression, we decided not to incorporate all the variables into the statistical model and estimate a simplified model for the 'low mood' variable (",
+      "es": "Como el tamaño de nuestra muestra no es excesivamente grande (125 participantes) y contamos con 8 variables de síntomas relacionados con la depresión, decidimos no incorporar al modelo estadístico todas las variables y estimar un modelo simplificado para la variable ‘estado de ánimo bajo’ (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "). Por tanto, se trataría de un ANOVA de medidas repetidas con dos factores: (i)",
+      "en": "). Therefore, it would be a repeated measures ANOVA with two factors: (i)",
+      "es": "). Por tanto, se trataría de un ANOVA de medidas repetidas con dos factores: (i)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "tiempo",
+      "en": "time",
+      "es": "tiempo",
+      "reviewed": false
+    },
+    {
+      "source": ", donde se incluyen las puntuaciones medias de cada día en esta variable; y (ii)",
+      "en": ", where the average scores for each day on this variable are included; and (ii)",
+      "es": ", donde se incluyen las puntuaciones medias de cada día en esta variable; y (ii)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", donde se recoge la pertenencia de cada sujeto a los",
+      "en": ", where the belonging of each subject to the",
+      "es": ", donde se recoge la pertenencia de cada sujeto a los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "calculados anteriormente. La hipótesis nula de este modelo establece que todas las medias del",
+      "en": "calculated previously. The null hypothesis of this model states that all means of the",
+      "es": "calculados anteriormente. La hipótesis nula de este modelo establece que todas las medias del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "son iguales a lo largo de los 14 días de encuestas.",
+      "en": "They are the same throughout the 14 days of surveys.",
+      "es": "son iguales a lo largo de los 14 días de encuestas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Promedio de cada variable del cuestionario por día y",
+      "en": "Average of each questionnaire variable per day and",
+      "es": "Promedio de cada variable del cuestionario por día y",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como podemos ver en la",
+      "en": "As we can see in the",
+      "es": "Como podemos ver en la",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 11",
+      "en": "Figure 11",
+      "es": "Figura 11",
+      "reviewed": false
+    },
+    {
+      "source": "(variable",
+      "en": "(variable",
+      "es": "(variable",
+      "reviewed": false
+    },
+    {
+      "source": "), la variabilidad de los datos a lo largo del tiempo es mínima y, de hecho, aunque el resultado del test estadístico es estadísticamente significativo (",
+      "en": "), the variability of the data over time is minimal and, in fact, although the result of the statistical test is statistically significant (",
+      "es": "), la variabilidad de los datos a lo largo del tiempo es mínima y, de hecho, aunque el resultado del test estadístico es estadísticamente significativo (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "F",
+      "en": "f",
+      "es": "F",
+      "reviewed": false
+    },
+    {
+      "source": "= 0.018), el tamaño de efecto es prácticamente despreciable (",
+      "en": "= 0.018), the effect size is practically negligible (",
+      "es": "= 0.018), el tamaño de efecto es prácticamente despreciable (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "η2",
+      "en": "η2",
+      "es": "η2",
+      "reviewed": false
+    },
+    {
+      "source": "Por tanto, el modelo estadístico de ANOVA de Medidas Repetidas nos ha informado que, a pesar de tener un",
+      "en": "Therefore, the repeated measures ANOVA statistical model has informed us that, despite having a",
+      "es": "Por tanto, el modelo estadístico de ANOVA de Medidas Repetidas nos ha informado que, a pesar de tener un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "relativamente rico en detalles en la dimensión temporal, los síntomas relacionados con la depresión asociados al uso de redes sociales no parecen variar demasiado a lo largo del tiempo.",
+      "en": "Relatively rich in details in the temporal dimension, depression-related symptoms associated with social media use do not seem to vary much over time.",
+      "es": "relativamente rico en detalles en la dimensión temporal, los síntomas relacionados con la depresión asociados al uso de redes sociales no parecen variar demasiado a lo largo del tiempo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El primer paso que dimos para ajustar las regresiones lineales fue calcular las medias de todas las mediciones por",
+      "en": "The first step we took to fit the linear regressions was to calculate the means of all the measurements by",
+      "es": "El primer paso que dimos para ajustar las regresiones lineales fue calcular las medias de todas las mediciones por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "participante",
+      "en": "participant",
+      "es": "participante",
+      "reviewed": false
+    },
+    {
+      "source": "variable",
+      "en": "variable",
+      "es": "variable",
+      "reviewed": false
+    },
+    {
+      "source": ". Esto nos permitió “eliminar” el aspecto temporal de las “medidas repetidas” del estudio.",
+      "en": ". This allowed us to “remove” the temporal “repeated measures” aspect of the study.",
+      "es": ". Esto nos permitió “eliminar” el aspecto temporal de las “medidas repetidas” del estudio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A continuación, construimos",
+      "en": "Next, we build",
+      "es": "A continuación, construimos",
+      "reviewed": false
+    },
+    {
+      "source": "gráficas de dispersión",
+      "en": "scatter plots",
+      "es": "gráficas de dispersión",
+      "reviewed": false
+    },
+    {
+      "source": "entre todas las variables del estudio, y calculamos los",
+      "en": "between all the study variables, and we calculate the",
+      "es": "entre todas las variables del estudio, y calculamos los",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "coeficientes de correlación lineal de Pearson",
+      "en": "Pearson linear correlation coefficients",
+      "es": "coeficientes de correlación lineal de Pearson",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "r2",
+      "en": "r2",
+      "es": "r2",
+      "reviewed": false
+    },
+    {
+      "source": ") para todas las combinaciones de variables, con el objetivo de identificar los diversos tipos de correlación y alguna posible “multicolinealidad” entre variables (",
+      "en": ") for all combinations of variables, with the objective of identifying the various types of correlation and some possible “multicollinearity” between variables (",
+      "es": ") para todas las combinaciones de variables, con el objetivo de identificar los diversos tipos de correlación y alguna posible “multicolinealidad” entre variables (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Observamos que algunas variables estaban",
+      "en": "We observed that some variables were",
+      "es": "Observamos que algunas variables estaban",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "muy correlacionadas linealmente",
+      "en": "highly linearly correlated",
+      "es": "muy correlacionadas linealmente",
+      "reviewed": false
+    },
+    {
+      "source": ", como se puede observar en la gráfica de abajo:",
+      "en": ", as can be seen in the graph below:",
+      "es": ", como se puede observar en la gráfica de abajo:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 12.",
+      "en": "Figure 12.",
+      "es": "Figura 12.",
+      "reviewed": false
+    },
+    {
+      "source": "Diagrama de matriz de las gráficas de dispersión de las 11 variables del estudio.",
+      "en": "Matrix diagram of the scatter plots of the 11 study variables.",
+      "es": "Diagrama de matriz de las gráficas de dispersión de las 11 variables del estudio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para ajustar un modelo inicial, tuvimos que definir una variable “respuesta” o “",
+      "en": "To fit an initial model, we had to define a variable “response” or “",
+      "es": "Para ajustar un modelo inicial, tuvimos que definir una variable “respuesta” o “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y",
+      "en": "and",
+      "es": "Y",
+      "reviewed": false
+    },
+    {
+      "source": "”. Elegimos “",
+      "en": "\". We choose \"",
+      "es": "”. Elegimos “",
+      "reviewed": false
+    },
+    {
+      "source": "”, por tratarse en principio de una de las variables más importantes del estudio.",
+      "en": "”, because it is in principle one of the most important variables of the study.",
+      "es": "”, por tratarse en principio de una de las variables más importantes del estudio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En el mapa de calor de correlaciones lineales de Pearson, se observa multicolinealidad entre “",
+      "en": "In the heat map of Pearson linear correlations, multicollinearity is observed between “",
+      "es": "En el mapa de calor de correlaciones lineales de Pearson, se observa multicolinealidad entre “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "”, y “",
+      "en": "\", and \"",
+      "es": "”, y “",
+      "reviewed": false
+    },
+    {
+      "source": "Inferior",
+      "en": "Lower",
+      "es": "Inferior",
+      "reviewed": false
+    },
+    {
+      "source": "”, por lo que decidimos no utilizar en un primer momento “",
+      "en": "”, so we decided not to use “",
+      "es": "”, por lo que decidimos no utilizar en un primer momento “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 13.",
+      "en": "Figure 13.",
+      "es": "Figura 13.",
+      "reviewed": false
+    },
+    {
+      "source": "Mapa de calor de los coeficientes de correlación de Pearson",
+      "en": "Pearson correlation coefficients heat map",
+      "es": "Mapa de calor de los coeficientes de correlación de Pearson",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "de las 11 variables del estudio.",
+      "en": "of the 11 variables of the study.",
+      "es": "de las 11 variables del estudio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para el ajuste del",
+      "en": "For adjustment of the",
+      "es": "Para el ajuste del",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo de Regresión",
+      "en": "Regression Model",
+      "es": "Modelo de Regresión",
+      "reviewed": false
+    },
+    {
+      "source": ", utilizamos el método “",
+      "en": ", we use the method “",
+      "es": ", utilizamos el método “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "backward",
+      "en": "backward",
+      "es": "backward",
+      "reviewed": false
+    },
+    {
+      "source": "”: a partir del modelo saturado con todas las variables independientes disponibles, el método iba eliminando, una a una, dichas variables cuyo",
+      "en": "”: from the model saturated with all the available independent variables, the method eliminated, one by one, said variables whose",
+      "es": "”: a partir del modelo saturado con todas las variables independientes disponibles, el método iba eliminando, una a una, dichas variables cuyo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "p-value",
+      "en": "p-value",
+      "es": "p-value",
+      "reviewed": false
+    },
+    {
+      "source": "alpha",
+      "en": "alpha",
+      "es": "alpha",
+      "reviewed": false
+    },
+    {
+      "source": ", siendo",
+      "en": ", being",
+      "es": ", siendo",
+      "reviewed": false
+    },
+    {
+      "source": "= probabilidad del “",
+      "en": "= probability of “",
+      "es": "= probabilidad del “",
+      "reviewed": false
+    },
+    {
+      "source": "error tipo 1",
+      "en": "type 1 error",
+      "es": "error tipo 1",
+      "reviewed": false
+    },
+    {
+      "source": "Para ello, creamos una función recurrente llamada “",
+      "en": "To do this, we create a recurring function called “",
+      "es": "Para ello, creamos una función recurrente llamada “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "calculateRegression",
+      "en": "calculateRegression",
+      "es": "calculateRegression",
+      "reviewed": false
+    },
+    {
+      "source": "”, que utiliza un 80% de los datos para los ajustes, y reserva un 20% de los datos para los testeos.",
+      "en": "”, which uses 80% of the data for adjustments, and reserves 20% of the data for testing.",
+      "es": "”, que utiliza un 80% de los datos para los ajustes, y reserva un 20% de los datos para los testeos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Además, la función calcula el “",
+      "en": "Additionally, the function calculates the “",
+      "es": "Además, la función calcula el “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "RootMeanSquareError",
+      "en": "RootMeanSquareError",
+      "es": "RootMeanSquareError",
+      "reviewed": false
+    },
+    {
+      "source": "RMSE",
+      "en": "RMSE",
+      "es": "RMSE",
+      "reviewed": false
+    },
+    {
+      "source": ") y el “Coeficiente de Determinación” (",
+      "en": ") and the “Coefficient of Determination” (",
+      "es": ") y el “Coeficiente de Determinación” (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "R2",
+      "en": "R2",
+      "es": "R2",
+      "reviewed": false
+    },
+    {
+      "source": ") para todos los ajustes.",
+      "en": ") for all settings.",
+      "es": ") para todos los ajustes.",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 14.",
+      "en": "Figure 14.",
+      "es": "Figura 14.",
+      "reviewed": false
+    },
+    {
+      "source": "Output",
+      "en": "Output",
+      "es": "Output",
+      "reviewed": false
+    },
+    {
+      "source": "del método “",
+      "en": "of the method",
+      "es": "del método “",
+      "reviewed": false
+    },
+    {
+      "source": "” de eliminación de variables",
+      "en": "” variable elimination",
+      "es": "” de eliminación de variables",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "con poca capacidad explicativa.",
+      "en": "with little explanatory capacity.",
+      "es": "con poca capacidad explicativa.",
+      "reviewed": false
+    },
+    {
+      "source": "El",
+      "en": "The",
+      "es": "El",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo Final",
+      "en": "Final Model",
+      "es": "Modelo Final",
+      "reviewed": false
+    },
+    {
+      "source": "ajustado involucra 3 variables, siendo “",
+      "en": "adjusted involves 3 variables, being “",
+      "es": "ajustado involucra 3 variables, siendo “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "News",
+      "en": "News",
+      "es": "News",
+      "reviewed": false
+    },
+    {
+      "source": "” una de ellas.",
+      "en": "” one of them.",
+      "es": "” una de ellas.",
+      "reviewed": false
+    },
+    {
+      "source": "Es importante resaltar que el coeficiente de determinación (",
+      "en": "It is important to highlight that the coefficient of determination (",
+      "es": "Es importante resaltar que el coeficiente de determinación (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ") del modelo ajustado es “alto” (93,1%).",
+      "en": ") of the adjusted model is “high” (93.1%).",
+      "es": ") del modelo ajustado es “alto” (93,1%).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para validar definitivamente el modelo, realizamos un “",
+      "en": "To definitively validate the model, we performed a “",
+      "es": "Para validar definitivamente el modelo, realizamos un “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Análisis de Residuos",
+      "en": "Residue Analysis",
+      "es": "Análisis de Residuos",
+      "reviewed": false
+    },
+    {
+      "source": "”, también recogido en una función llamada “",
+      "en": "”, also collected in a function called “",
+      "es": "”, también recogido en una función llamada “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "residualAnalysis",
+      "en": "residualAnalysis",
+      "es": "residualAnalysis",
+      "reviewed": false
+    },
+    {
+      "source": "”. Esta función realiza el “test de normalidad” (",
+      "en": "”. This function performs the “normality test” (",
+      "es": "”. Esta función realiza el “test de normalidad” (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Kolmogorov-Smirnov",
+      "en": "Kolmogorov-Smirnov",
+      "es": "Kolmogorov-Smirnov",
+      "reviewed": false
+    },
+    {
+      "source": ") de los residuos estandarizados e imprime 3 gráficas: Gráfica de Dispersión entre “Predicción” y “Residuos Estandarizados”, Histograma de los Residuos Estandarizados, y “Normal Q-Q Plot” de los Residuos Estandarizados.",
+      "en": ") of the standardized residuals and prints 3 graphs: Scatter Plot between “Prediction” and “Standardized Residuals”, Histogram of the Standardized Residuals, and “Normal Q-Q Plot” of the Standardized Residuals.",
+      "es": ") de los residuos estandarizados e imprime 3 gráficas: Gráfica de Dispersión entre “Predicción” y “Residuos Estandarizados”, Histograma de los Residuos Estandarizados, y “Normal Q-Q Plot” de los Residuos Estandarizados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como el Análisis de Residuos también fue considerado satisfactorio, se valida el modelo estadísticamente.",
+      "en": "Since the Residual Analysis was also considered satisfactory, the model is statistically validated.",
+      "es": "Como el Análisis de Residuos también fue considerado satisfactorio, se valida el modelo estadísticamente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 15.",
+      "en": "Figure 15.",
+      "es": "Figura 15.",
+      "reviewed": false
+    },
+    {
+      "source": "de la función “",
+      "en": "of the function “",
+      "es": "de la función “",
+      "reviewed": false
+    },
+    {
+      "source": "Es importante observar que el peso de “",
+      "en": "It is important to note that the weight of “",
+      "es": "Es importante observar que el peso de “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” (0,04) es muy inferior a los pesos de “",
+      "en": "” (0.04) is much lower than the weights of “",
+      "es": "” (0,04) es muy inferior a los pesos de “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” (0,78) y “",
+      "en": "” (0.78) and “",
+      "es": "” (0,78) y “",
+      "reviewed": false
+    },
+    {
+      "source": "” (0,18), y que, si hubiésemos definido un “",
+      "en": "” (0.18), and that, if we had defined a “",
+      "es": "” (0,18), y que, si hubiésemos definido un “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” más exigente, “",
+      "en": "\"more demanding,\"",
+      "es": "” más exigente, “",
+      "reviewed": false
+    },
+    {
+      "source": "” no se mantendría en el modelo final.",
+      "en": "” would not be maintained in the final model.",
+      "es": "” no se mantendría en el modelo final.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por otro lado, dada la complejidad para diagnosticar una persona con depresión, construimos un “",
+      "en": "On the other hand, given the complexity of diagnosing a person with depression, we built a “",
+      "es": "Por otro lado, dada la complejidad para diagnosticar una persona con depresión, construimos un “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "índice de depresión",
+      "en": "depression index",
+      "es": "índice de depresión",
+      "reviewed": false
+    },
+    {
+      "source": "”, para ser utilizado como variable respuesta de un segundo modelo. La idea era comparar los 2 modelos, de cara a corroborar las conclusiones anteriores.",
+      "en": "\", to be used as a response variable of a second model. The idea was to compare the 2 models, in order to corroborate the previous conclusions.",
+      "es": "”, para ser utilizado como variable respuesta de un segundo modelo. La idea era comparar los 2 modelos, de cara a corroborar las conclusiones anteriores.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El índice de depresión, a partir de ahora “",
+      "en": "The depression index, from now on",
+      "es": "El índice de depresión, a partir de ahora “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "DeprRate",
+      "en": "DeprRate",
+      "es": "DeprRate",
+      "reviewed": false
+    },
+    {
+      "source": "”, fue calculado como el promedio simple entre “",
+      "en": "\", was calculated as the simple average between \"",
+      "es": "”, fue calculado como el promedio simple entre “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "LostOfInt",
+      "en": "LostOfInt",
+      "es": "LostOfInt",
+      "reviewed": false
+    },
+    {
+      "source": "” y “",
+      "en": "” and “",
+      "es": "” y “",
+      "reviewed": false
+    },
+    {
+      "source": "”, ya que estas variables podrían contener indicios importantes de una posible depresión, según la literatura.",
+      "en": "”, since these variables could contain important indications of possible depression, according to the literature.",
+      "es": "”, ya que estas variables podrían contener indicios importantes de una posible depresión, según la literatura.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Seguimos los mismos pasos expuestos anteriormente. El modelo final contiene ahora",
+      "en": "We follow the same steps outlined above. The final model now contains",
+      "es": "Seguimos los mismos pasos expuestos anteriormente. El modelo final contiene ahora",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "5 variables",
+      "en": "5 variables",
+      "es": "5 variables",
+      "reviewed": false
+    },
+    {
+      "source": "y no involucra ninguna variable relacionada al uso de Redes Sociales.",
+      "en": "and does not involve any variable related to the use of Social Networks.",
+      "es": "y no involucra ninguna variable relacionada al uso de Redes Sociales.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Concentrat",
+      "en": "Concentrate",
+      "es": "Concentrat",
+      "reviewed": false
+    },
+    {
+      "source": "El coeficiente de determinación (R2) del modelo ajustado siguió siendo alto (90,8%), y como el Análisis de Residuos también fue considerado satisfactorio, se valida el modelo bajo un punto de vista estadístico.",
+      "en": "The coefficient of determination (R2) of the adjusted model remained high (90.8%), and since the Residual Analysis was also considered satisfactory, the model was validated from a statistical point of view.",
+      "es": "El coeficiente de determinación (R2) del modelo ajustado siguió siendo alto (90,8%), y como el Análisis de Residuos también fue considerado satisfactorio, se valida el modelo bajo un punto de vista estadístico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Es interesante constatar que “",
+      "en": "It is interesting to note that “",
+      "es": "Es interesante constatar que “",
+      "reviewed": false
+    },
+    {
+      "source": "” de nuevo aparece como la variable de mayor peso para “",
+      "en": "” again appears as the variable with the greatest weight for “",
+      "es": "” de nuevo aparece como la variable de mayor peso para “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "”, y que “",
+      "en": "\", and that \"",
+      "es": "”, y que “",
+      "reviewed": false
+    },
+    {
+      "source": "” sigue en este segundo modelo, con un peso parecido.",
+      "en": "” continues in this second model, with a similar weight.",
+      "es": "” sigue en este segundo modelo, con un peso parecido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las 2 funciones comentadas anteriormente están definidas en “",
+      "en": "The 2 functions discussed above are defined in “",
+      "es": "Las 2 funciones comentadas anteriormente están definidas en “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "regresion_functions.py",
+      "en": "regression_functions.py",
+      "es": "regresion_functions.py",
+      "reviewed": false
+    },
+    {
+      "source": "”. En este archivo también se pueden encontrar otras funciones utilizadas en este análisis, como:",
+      "en": "Other functions used in this analysis can also be found in this file, such as:",
+      "es": "”. En este archivo también se pueden encontrar otras funciones utilizadas en este análisis, como:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "printMatrixDiagram",
+      "en": "printMatrixDiagram",
+      "es": "printMatrixDiagram",
+      "reviewed": false
+    },
+    {
+      "source": ": función que genera gráficas de dispersión (2 a 2), involucrando todos los indicadores del estudio. Útil para ver de forma gráfica, en un único vistazo, los indicadores que están más correlacionados entre ellos.",
+      "en": ": function that generates scatter plots (2 to 2), involving all the study indicators. Useful to see graphically, at a single glance, the indicators that are most correlated with each other.",
+      "es": ": función que genera gráficas de dispersión (2 a 2), involucrando todos los indicadores del estudio. Útil para ver de forma gráfica, en un único vistazo, los indicadores que están más correlacionados entre ellos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "printPearsonCorrelations",
+      "en": "printPearsonCorrelations",
+      "es": "printPearsonCorrelations",
+      "reviewed": false
+    },
+    {
+      "source": ": genera un mapa de calor de las correlaciones de Pearson entre todos los indicadores del estudio. Útil para ver, en un único vistazo, los indicadores que están más correlacionados entre ellos y si hay multicolinealidad.",
+      "en": "- Generates a heat map of Pearson correlations between all indicators in the study. Useful to see, at a single glance, the indicators that are most correlated with each other and if there is multicollinearity.",
+      "es": ": genera un mapa de calor de las correlaciones de Pearson entre todos los indicadores del estudio. Útil para ver, en un único vistazo, los indicadores que están más correlacionados entre ellos y si hay multicolinealidad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "eliminateOutliers",
+      "en": "eliminateOutliers",
+      "es": "eliminateOutliers",
+      "reviewed": false
+    },
+    {
+      "source": ": elimina los residuos estandarizados considerados “altos” (menores que -3 y mayores que +3), de cara a realizar posteriormente nuevos ajustes sin estos datos que muchas veces distorsionan los resultados. La función imprime los datos eliminados, posibilitando un control de lo que se está eliminando.",
+      "en": ": eliminates the standardized residuals considered “high” (less than -3 and greater than +3), in order to subsequently make new adjustments without this data, which often distorts the results. The function prints the deleted data, allowing control of what is being deleted.",
+      "es": ": elimina los residuos estandarizados considerados “altos” (menores que -3 y mayores que +3), de cara a realizar posteriormente nuevos ajustes sin estos datos que muchas veces distorsionan los resultados. La función imprime los datos eliminados, posibilitando un control de lo que se está eliminando.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "repeatRegression",
+      "en": "repeatRegression",
+      "es": "repeatRegression",
+      "reviewed": false
+    },
+    {
+      "source": ": vuelve a ajustar el modelo de regresión lineal final ajustado en “calculateRegression”, ahora para los datos libres de “",
+      "en": ": refits the final linear regression model fitted in “calculateRegression”, now for the data free of “",
+      "es": ": vuelve a ajustar el modelo de regresión lineal final ajustado en “calculateRegression”, ahora para los datos libres de “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "outliers",
+      "en": "outliers",
+      "es": "outliers",
+      "reviewed": false
+    },
+    {
+      "source": "”. Además, vuelve a calcular el “",
+      "en": "\". Also, recalculate the \"",
+      "es": "”. Además, vuelve a calcular el “",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "” (RMSE) y el “Coeficiente de Determinación” (R2).",
+      "en": "” (RMSE) and the “Coefficient of Determination” (R2).",
+      "es": "” (RMSE) y el “Coeficiente de Determinación” (R2).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con relación al",
+      "en": "In relation to",
+      "es": "Con relación al",
+      "reviewed": false
+    },
+    {
+      "source": ", se observa que los 3",
+      "en": ", it is observed that the 3",
+      "es": ", se observa que los 3",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "formados son diferentes en lo que concierne a los “síntomas de depresión”, siendo el",
+      "en": "formed are different as far as “depression symptoms” are concerned, the",
+      "es": "formados son diferentes en lo que concierne a los “síntomas de depresión”, siendo el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "el que contiene las mayores medias en relación a los 8 síntomas del estudio. Sin embargo, lo mismo no pasa con las variables de Redes Sociales, ya que los histogramas solapados por",
+      "en": "the one that contains the highest means in relation to the 8 symptoms of the study. However, the same does not happen with the Social Networks variables, since the histograms overlapped by",
+      "es": "el que contiene las mayores medias en relación a los 8 síntomas del estudio. Sin embargo, lo mismo no pasa con las variables de Redes Sociales, ya que los histogramas solapados por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "no muestran grandes diferencias para las variables",
+      "en": "they do not show great differences for the variables",
+      "es": "no muestran grandes diferencias para las variables",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por otro lado, el",
+      "en": "On the other hand, the",
+      "es": "Por otro lado, el",
+      "reviewed": false
+    },
+    {
+      "source": "ANOVA de Medidas Repetidas",
+      "en": "Repeated Measures ANOVA",
+      "es": "ANOVA de Medidas Repetidas",
+      "reviewed": false
+    },
+    {
+      "source": "sugiere que no hay diferencias significativas a lo largo de los 14 días de encuestas realizadas para cada individuo.",
+      "en": "suggests that there are no significant differences throughout the 14 days of surveys conducted for each individual.",
+      "es": "sugiere que no hay diferencias significativas a lo largo de los 14 días de encuestas realizadas para cada individuo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los",
+      "en": "The",
+      "es": "Los",
+      "reviewed": false
+    },
+    {
+      "source": "Modelos de Regresión",
+      "en": "Regression Models",
+      "es": "Modelos de Regresión",
+      "reviewed": false
+    },
+    {
+      "source": "ajustados indican que el uso de las Redes Sociales tiene un peso mucho menor que las demás variables utilizadas en el estudio para explicar un posible cuadro de depresión.",
+      "en": "Adjusted results indicate that the use of Social Networks has a much lower weight than the other variables used in the study to explain a possible depression.",
+      "es": "ajustados indican que el uso de las Redes Sociales tiene un peso mucho menor que las demás variables utilizadas en el estudio para explicar un posible cuadro de depresión.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Soledad",
+      "en": "Loneliness",
+      "es": "Soledad",
+      "reviewed": false
+    },
+    {
+      "source": ", el sentimiento de",
+      "en": ", the feeling of",
+      "es": ", el sentimiento de",
+      "reviewed": false
+    },
+    {
+      "source": "Inferioridad",
+      "en": "inferiority",
+      "es": "Inferioridad",
+      "reviewed": false
+    },
+    {
+      "source": ", la pérdida de",
+      "en": ", the loss of",
+      "es": ", la pérdida de",
+      "reviewed": false
+    },
+    {
+      "source": "Concentración",
+      "en": "Concentration",
+      "es": "Concentración",
+      "reviewed": false
+    },
+    {
+      "source": "y el",
+      "en": "and the",
+      "es": "y el",
+      "reviewed": false
+    },
+    {
+      "source": "Estrés",
+      "en": "stress",
+      "es": "Estrés",
+      "reviewed": false
+    },
+    {
+      "source": "tienen un",
+      "en": "they have a",
+      "es": "tienen un",
+      "reviewed": false
+    },
+    {
+      "source": "peso notablemente mayor",
+      "en": "noticeably higher weight",
+      "es": "peso notablemente mayor",
+      "reviewed": false
+    },
+    {
+      "source": "para este conjunto de datos.",
+      "en": "for this data set.",
+      "es": "para este conjunto de datos.",
+      "reviewed": false
+    },
+    {
+      "source": "Esta constatación coincide con los resultados del",
+      "en": "This finding coincides with the results of the",
+      "es": "Esta constatación coincide con los resultados del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "presentados anteriormente.",
+      "en": "presented previously.",
+      "es": "presentados anteriormente.",
+      "reviewed": false
+    },
+    {
+      "source": "Todas las conclusiones presentadas aquí son referentes única y exclusivamente al conjunto de datos utilizado en este proyecto. Para hacer inferencias más concluyentes, habría que ampliar el estudio utilizando un muestreo mayor, entre otras cosas.",
+      "en": "All conclusions presented here refer solely and exclusively to the data set used in this project. To make more conclusive inferences, the study would have to be expanded using a larger sample, among other things.",
+      "es": "Todas las conclusiones presentadas aquí son referentes única y exclusivamente al conjunto de datos utilizado en este proyecto. Para hacer inferencias más concluyentes, habría que ampliar el estudio utilizando un muestreo mayor, entre otras cosas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El estudio que hemos realizado nos muestra que el perfil de uso de las redes sociales no parece ser un buen predictor de síntomas relacionados con la depresión. Sin embargo, los sentimientos de soledad e inferioridad, los problemas de concentración, el estrés y la fatiga sí resultan predictoras de un posible riesgo de sufrir depresión.",
+      "en": "The study we have carried out shows us that the profile of social media use does not seem to be a good predictor of symptoms related to depression. However, feelings of loneliness and inferiority, concentration problems, stress and fatigue do predict a possible risk of suffering from depression.",
+      "es": "El estudio que hemos realizado nos muestra que el perfil de uso de las redes sociales no parece ser un buen predictor de síntomas relacionados con la depresión. Sin embargo, los sentimientos de soledad e inferioridad, los problemas de concentración, el estrés y la fatiga sí resultan predictoras de un posible riesgo de sufrir depresión.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo que hemos aprendido con este modelo predictivo nos permitiría un siguiente paso: construir una herramienta de procesamiento natural del lenguaje que detecte usuarios en riesgo de sufrir depresión en base a la identificación de contenido emocional relacionado con las variables detectadas en nuestro estudio.",
+      "en": "What we have learned with this predictive model would allow us to take a next step: build a natural language processing tool that detects users at risk of suffering from depression based on the identification of emotional content related to the variables detected in our study.",
+      "es": "Lo que hemos aprendido con este modelo predictivo nos permitiría un siguiente paso: construir una herramienta de procesamiento natural del lenguaje que detecte usuarios en riesgo de sufrir depresión en base a la identificación de contenido emocional relacionado con las variables detectadas en nuestro estudio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Agradecemos a los mentores y organizadores de",
+      "en": "We thank the mentors and organizers of",
+      "es": "Agradecemos a los mentores y organizadores de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", especialmente a",
+      "en": ", especially to",
+      "es": ", especialmente a",
+      "reviewed": false
+    },
+    {
+      "source": "Beñat Galdós",
+      "en": "Beñat Galdós",
+      "es": "Beñat Galdós",
+      "reviewed": false
+    },
+    {
+      "source": "Joxemari Gallastegi",
+      "en": "Joxemari Gallastegi",
+      "es": "Joxemari Gallastegi",
+      "reviewed": false
+    },
+    {
+      "source": ", por su profesionalidad, dedicación y entusiasmo.",
+      "en": ", for their professionalism, dedication and enthusiasm.",
+      "es": ", por su profesionalidad, dedicación y entusiasmo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "depresion",
+      "en": "depression",
+      "es": "depresion",
+      "reviewed": false
+    },
+    {
+      "source": "K-Means",
+      "en": "K-Means",
+      "es": "K-Means",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 16 mar 2022.",
+      "en": "A history of the Saturdays.AI community. Originally published on March 16, 2022.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 16 mar 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

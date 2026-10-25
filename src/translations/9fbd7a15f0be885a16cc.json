@@ -1,0 +1,560 @@
+{
+  "title": "BasketTracker.AI: Inteligencia artificial para la bolsa de la compra",
+  "route": "/2022/03/16/baskettracker-inteligencia-artificial-bolsa-de-la-compra/",
+  "segments": [
+    {
+      "source": "Latam online. Primera Edición. 2020 Lo que no se mide, no se puede mejorar… Las altas y bajas en los precios son un fenómeno que todos vivimos a diario. Es tan cotidiano que muchos damos por hecho que se trata de una situación…",
+      "en": "Latam online. First Edition. 2020 What is not measured cannot be improved... The ups and downs in prices are a phenomenon that we all experience daily. It is so everyday that many of us take it for granted that it is a situation...",
+      "es": "Latam online. Primera Edición. 2020 Lo que no se mide, no se puede mejorar… Las altas y bajas en los precios son un fenómeno que todos vivimos a diario. Es tan cotidiano que muchos damos por hecho que se trata de una situación…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo que no se mide, no se puede mejorar…",
+      "en": "What is not measured cannot be improved...",
+      "es": "Lo que no se mide, no se puede mejorar…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Y dónde están los precios?",
+      "en": "And where are the prices?",
+      "es": "¿Y dónde están los precios?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Integración de datos con AI",
+      "en": "Data integration with AI",
+      "es": "Integración de datos con AI",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Precios como series de tiempo",
+      "en": "Prices as time series",
+      "es": "Precios como series de tiempo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "BasketTracker.AI: Monitor de precios",
+      "en": "BasketTracker.AI: Price Monitor",
+      "es": "BasketTracker.AI: Monitor de precios",
+      "reviewed": false
+    },
+    {
+      "source": "Las altas y bajas en los precios son un fenómeno que todos vivimos a diario. Es tan cotidiano que muchos damos por hecho que se trata de una situación que no podemos cambiar y que sólo nos queda ajustar nuestro presupuesto ante los incrementos que suceden.",
+      "en": "The ups and downs in prices are a phenomenon that we all experience daily. It is so everyday that many of us take for granted that it is a situation that we cannot change and that we only have to adjust our budget to the increases that occur.",
+      "es": "Las altas y bajas en los precios son un fenómeno que todos vivimos a diario. Es tan cotidiano que muchos damos por hecho que se trata de una situación que no podemos cambiar y que sólo nos queda ajustar nuestro presupuesto ante los incrementos que suceden.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Será posible crear herramientas que nos ayuden a adaptarnos mejor al cambio en los precios? Nosotros creemos que sí.",
+      "en": "Will it be possible to create tools that help us better adapt to the change in prices? We believe so.",
+      "es": "¿Será posible crear herramientas que nos ayuden a adaptarnos mejor al cambio en los precios? Nosotros creemos que sí.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En este artículo les mostraremos cómo fué que mientras aprendíamos un poco de Inteligencia Artificial también implementamos un prototipo para monitorear precios de tiendas en línea.",
+      "en": "In this article we will show you how while we were learning a little about Artificial Intelligence we also implemented a prototype to monitor prices in online stores.",
+      "es": "En este artículo les mostraremos cómo fué que mientras aprendíamos un poco de Inteligencia Artificial también implementamos un prototipo para monitorear precios de tiendas en línea.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Muchas veces sin saber compramos bienes cuyo precio está en aumento y según la ley de oferta y demanda, solo reforzamos su tendencia alcista cuando consumimos estos productos. Si por el contrario, supiéramos cómo sustituir estos artículos caros con “equivalentes” de menor costo, a largo plazo ayudaríamos a generar un nivel de precios más bajo.",
+      "en": "Many times without knowing we buy goods whose price is increasing and according to the law of supply and demand, we only reinforce their upward trend when we consume these products. If, on the other hand, we knew how to replace these expensive items with lower-cost “equivalents,” in the long run we would help generate a lower price level.",
+      "es": "Muchas veces sin saber compramos bienes cuyo precio está en aumento y según la ley de oferta y demanda, solo reforzamos su tendencia alcista cuando consumimos estos productos. Si por el contrario, supiéramos cómo sustituir estos artículos caros con “equivalentes” de menor costo, a largo plazo ayudaríamos a generar un nivel de precios más bajo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Así que nos propusimos hacer un prototipo para monitorear dichos precios. Desde los primeros intercambios de ideas que tuvimos nos dimos cuenta que eran varios los desafíos que debíamos superar para lograr nuestro propósito.",
+      "en": "So we set out to make a prototype to monitor these prices. From the first exchanges of ideas we had, we realized that there were several challenges that we had to overcome to achieve our purpose.",
+      "es": "Así que nos propusimos hacer un prototipo para monitorear dichos precios. Desde los primeros intercambios de ideas que tuvimos nos dimos cuenta que eran varios los desafíos que debíamos superar para lograr nuestro propósito.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La primera pregunta que planteamos fue cuáles serían los precios que nos interesaba recabar. Decidimos iniciar con algunos artículos de consumo básico: (a) huevo, (b) frijol, (c) papel higiénico, (d) café y (e) tortillas.",
+      "en": "The first question we asked was what prices we were interested in collecting. We decided to start with some basic consumer items: (a) egg, (b) beans, (c) toilet paper, (d) coffee, and (e) tortillas.",
+      "es": "La primera pregunta que planteamos fue cuáles serían los precios que nos interesaba recabar. Decidimos iniciar con algunos artículos de consumo básico: (a) huevo, (b) frijol, (c) papel higiénico, (d) café y (e) tortillas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo más sorprendente de todo es que la mayoría de la información de precios se encontraba a nuestro alcance. Existe una gran cantidad de supermercados que publican catálogos de sus productos en línea. Para la fase inicial decidimos extraer los precios de los artículos de dos supermercados mexicanos:",
+      "en": "Most surprising of all, most of the pricing information was within our reach. There are a large number of supermarkets that publish catalogs of their products online. For the initial phase we decided to extract the prices of items from two Mexican supermarkets:",
+      "es": "Lo más sorprendente de todo es que la mayoría de la información de precios se encontraba a nuestro alcance. Existe una gran cantidad de supermercados que publican catálogos de sus productos en línea. Para la fase inicial decidimos extraer los precios de los artículos de dos supermercados mexicanos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Soriana",
+      "en": "Soriana",
+      "es": "Soriana",
+      "reviewed": false
+    },
+    {
+      "source": "Superama",
+      "en": "Superama",
+      "es": "Superama",
+      "reviewed": false
+    },
+    {
+      "source": "Nuestros compañeros Gabriela y Gustavo trabajaron en la extracción de precios, utilizando",
+      "en": "Our colleagues Gabriela and Gustavo worked on price extraction, using",
+      "es": "Nuestros compañeros Gabriela y Gustavo trabajaron en la extracción de precios, utilizando",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "web scraping",
+      "en": "web scraping",
+      "es": "web scraping",
+      "reviewed": false
+    },
+    {
+      "source": ". El web scraping es una técnica que permite automatizar la extracción de datos alojados en páginas web. En la siguiente imagen mostramos la información que deseamos extraer desde el sitio web:",
+      "en": ". Web scraping is a technique that allows you to automate the extraction of data hosted on web pages. In the following image we show the information that we want to extract from the website:",
+      "es": ". El web scraping es una técnica que permite automatizar la extracción de datos alojados en páginas web. En la siguiente imagen mostramos la información que deseamos extraer desde el sitio web:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Captura de pantalla del sitio Soriana para el producto “huevo”",
+      "en": "Screenshot of the Soriana site for the product “egg”",
+      "es": "Captura de pantalla del sitio Soriana para el producto “huevo”",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con sus habilidades de Ingeniería de Datos, nuestros",
+      "en": "With your Data Engineering skills, our",
+      "es": "Con sus habilidades de Ingeniería de Datos, nuestros",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "AI fellows",
+      "en": "AI Fellows",
+      "es": "AI fellows",
+      "reviewed": false
+    },
+    {
+      "source": "desarrollaron una serie de scripts con Python, Selenium, entre otras herramientas. Como resultado de esta etapa de extracción, consiguieron generar nuestros primeros conjuntos de datos en bruto (",
+      "en": "They developed a series of scripts with Python, Selenium, among other tools. As a result of this extraction stage, we managed to generate our first raw data sets (",
+      "es": "desarrollaron una serie de scripts con Python, Selenium, entre otras herramientas. Como resultado de esta etapa de extracción, consiguieron generar nuestros primeros conjuntos de datos en bruto (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Raw Datasets",
+      "en": "Raw Datasets",
+      "es": "Raw Datasets",
+      "reviewed": false
+    },
+    {
+      "source": "Precio de los huevos",
+      "en": "Egg price",
+      "es": "Precio de los huevos",
+      "reviewed": false
+    },
+    {
+      "source": "Raw Dataset Superama",
+      "en": "Raw Dataset Superama",
+      "es": "Raw Dataset Superama",
+      "reviewed": false
+    },
+    {
+      "source": "Precio de los huevos II",
+      "en": "Price of eggs II",
+      "es": "Precio de los huevos II",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Raw Dataset Soriana",
+      "en": "Raw Dataset Soriana",
+      "es": "Raw Dataset Soriana",
+      "reviewed": false
+    },
+    {
+      "source": "Entre los principales retos enfrentados fueron: (a) Simular el comportamiento de una persona. Si la velocidad de generación de consultas al sitio web es mayor que la que un usuario corriente haría, normalmente los sitios bloquean a los scripts. Por ello fue necesario considerar retrasos en las consultas para evitar ser bloqueados. (b) La estructura de los sitios web, aunque similar, es diferente. Fue necesario hacer pequeñas adecuaciones para cada uno de los sitios.",
+      "en": "Among the main challenges faced were: (a) Simulate the behavior of a person. If the speed of generating queries to the website is faster than what an average user would do, sites usually block the scripts. Therefore, it was necessary to consider delays in consultations to avoid being blocked. (b) The structure of the websites, although similar, is different. It was necessary to make small adjustments for each of the sites.",
+      "es": "Entre los principales retos enfrentados fueron: (a) Simular el comportamiento de una persona. Si la velocidad de generación de consultas al sitio web es mayor que la que un usuario corriente haría, normalmente los sitios bloquean a los scripts. Por ello fue necesario considerar retrasos en las consultas para evitar ser bloqueados. (b) La estructura de los sitios web, aunque similar, es diferente. Fue necesario hacer pequeñas adecuaciones para cada uno de los sitios.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuando revisamos los primeros",
+      "en": "When we review the first",
+      "es": "Cuando revisamos los primeros",
+      "reviewed": false
+    },
+    {
+      "source": "Raw Data sets",
+      "en": "Raw Data sets",
+      "es": "Raw Data sets",
+      "reviewed": false
+    },
+    {
+      "source": "generados, observamos que era necesario trabajar en homologar criterios de nomenclatura entre las fuentes Soriana y Superama, sobre todo en el campo “descripción”.",
+      "en": "generated, we observed that it was necessary to work on standardizing nomenclature criteria between the Soriana and Superama sources, especially in the “description” field.",
+      "es": "generados, observamos que era necesario trabajar en homologar criterios de nomenclatura entre las fuentes Soriana y Superama, sobre todo en el campo “descripción”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ramón y Juan Esteban tomaron la iniciativa para aplicar técnicas de",
+      "en": "Ramón and Juan Esteban took the initiative to apply techniques of",
+      "es": "Ramón y Juan Esteban tomaron la iniciativa para aplicar técnicas de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para integrar los Raw Data sets obtenidos de Soriana y Superama.",
+      "en": "to integrate the Raw Data sets obtained from Soriana and Superama.",
+      "es": "para integrar los Raw Data sets obtenidos de Soriana y Superama.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nuestros colegas propusieron enriquecer el Raw Dataset con las siguientes columnas:",
+      "en": "Our colleagues proposed to enrich the Raw Dataset with the following columns:",
+      "es": "Nuestros colegas propusieron enriquecer el Raw Dataset con las siguientes columnas:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tipo: Es el tipo principal de producto. Por ejemplo, “huevo” puede ser un descriptor para cualquier marca de huevo.",
+      "en": "Type: It is the main type of product. For example, “egg” can be a descriptor for any brand of egg.",
+      "es": "Tipo: Es el tipo principal de producto. Por ejemplo, “huevo” puede ser un descriptor para cualquier marca de huevo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tipo_2 : Es el segundo descriptor, útil para construir una subcategoría al Tipo. Por ejemplo, huevo blanco y huevo rojo son dos tipos de huevo que se necesita diferenciar.",
+      "en": "Type_2: It is the second descriptor, useful to build a subcategory to the Type. For example, white egg and red egg are two types of eggs that need to be differentiated.",
+      "es": "Tipo_2 : Es el segundo descriptor, útil para construir una subcategoría al Tipo. Por ejemplo, huevo blanco y huevo rojo son dos tipos de huevo que se necesita diferenciar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Marca: Información sobre marca y submarca de cada Tipo.",
+      "en": "Brand: Information about the brand and sub-brand of each Type.",
+      "es": "Marca: Información sobre marca y submarca de cada Tipo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Empaque: Empaque de cada Tipo.",
+      "en": "Packaging: Packaging of each type.",
+      "es": "Empaque: Empaque de cada Tipo.",
+      "reviewed": false
+    },
+    {
+      "source": "Contenido: Cantidad de cada Tipo en un Empaque.",
+      "en": "Content: Quantity of each Type in a Package.",
+      "es": "Contenido: Cantidad de cada Tipo en un Empaque.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Unidad de medida: Corresponde a cada cantidad en Contenido.",
+      "en": "Unit of measurement: Corresponds to each quantity in Content.",
+      "es": "Unidad de medida: Corresponde a cada cantidad en Contenido.",
+      "reviewed": false
+    },
+    {
+      "source": "Los scripts que desarrollaron emplearon las siguientes bibliotecas de Python:",
+      "en": "The scripts they developed used the following Python libraries:",
+      "es": "Los scripts que desarrollaron emplearon las siguientes bibliotecas de Python:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nltk",
+      "en": "Nltk",
+      "es": "Nltk",
+      "reviewed": false
+    },
+    {
+      "source": "Sklearn",
+      "en": "Sklearn",
+      "es": "Sklearn",
+      "reviewed": false
+    },
+    {
+      "source": "Fancyimpute",
+      "en": "Fancyimpute",
+      "es": "Fancyimpute",
+      "reviewed": false
+    },
+    {
+      "source": "Pandas",
+      "en": "pandas",
+      "es": "Pandas",
+      "reviewed": false
+    },
+    {
+      "source": "Numpy",
+      "en": "Numpy",
+      "es": "Numpy",
+      "reviewed": false
+    },
+    {
+      "source": "Unidecode",
+      "en": "Unidecode",
+      "es": "Unidecode",
+      "reviewed": false
+    },
+    {
+      "source": "Re",
+      "en": "Re",
+      "es": "Re",
+      "reviewed": false
+    },
+    {
+      "source": "Este diagrama describe los pasos para unificar los datos de Soriana y Superama:",
+      "en": "This diagram describes the steps to unify Soriana and Superama data:",
+      "es": "Este diagrama describe los pasos para unificar los datos de Soriana y Superama:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Diagrama de flujo para limpieza de datos",
+      "en": "Flowchart for data cleaning",
+      "es": "Diagrama de flujo para limpieza de datos",
+      "reviewed": false
+    },
+    {
+      "source": "Adicional de las técnicas de lenguaje natural descritas en el diagrama, realizaron la simplificación del diccionario de categorías de forma manual, con la que evitaron considerar palabras derivadas o aquellas que no aportan información valiosa.",
+      "en": "In addition to the natural language techniques described in the diagram, they simplified the category dictionary manually, with which they avoided considering derived words or those that do not provide valuable information.",
+      "es": "Adicional de las técnicas de lenguaje natural descritas en el diagrama, realizaron la simplificación del diccionario de categorías de forma manual, con la que evitaron considerar palabras derivadas o aquellas que no aportan información valiosa.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "También realizaron la imputación de valores faltantes aplicando una técnica condicional con la que la inferencia de valores imputados se realiza utilizando una secuencia lógica. Por ejemplo, si conocemos que comúnmente la unidad de medida de la leche es por L o ml, la categorización sigue una secuencia lógica para imputar este valor.",
+      "en": "They also performed the imputation of missing values by applying a conditional technique with which the inference of imputed values is carried out using a logical sequence. For example, if we know that the common unit of measurement for milk is L or ml, the categorization follows a logical sequence to impute this value.",
+      "es": "También realizaron la imputación de valores faltantes aplicando una técnica condicional con la que la inferencia de valores imputados se realiza utilizando una secuencia lógica. Por ejemplo, si conocemos que comúnmente la unidad de medida de la leche es por L o ml, la categorización sigue una secuencia lógica para imputar este valor.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aplicando las técnicas de lenguaje natural más la imputación descrita, generaron el siguiente conjunto de datos enriquecido.",
+      "en": "Applying natural language techniques plus the imputation described, they generated the following enriched data set.",
+      "es": "Aplicando las técnicas de lenguaje natural más la imputación descrita, generaron el siguiente conjunto de datos enriquecido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Conjunto de datos depurado",
+      "en": "Cleaned data set",
+      "es": "Conjunto de datos depurado",
+      "reviewed": false
+    },
+    {
+      "source": "Los principales retos de la metodología empleada se exponen a continuación: (1) La creación manual de los diccionarios de palabras para poder categorizar en las columnas de interés correspondientes. Por ejemplo, la categorización del tipo de alimento que se describe. (2) Procesar palabras nunca antes vistas por el diccionario. Los anglicismos juegan un papel importante en el léxico hispano por lo que un reto importante es la traducción de los anglicismos o en su defecto incluirlos en el diccionario de categorías.",
+      "en": "The main challenges of the methodology used are set out below: (1) The manual creation of word dictionaries to be able to categorize them in the corresponding columns of interest. For example, the categorization of the type of food being described. (2) Process words never seen before by the dictionary. Anglicisms play an important role in the Hispanic lexicon, so an important challenge is the translation of the Anglicisms or, failing that, including them in the category dictionary.",
+      "es": "Los principales retos de la metodología empleada se exponen a continuación: (1) La creación manual de los diccionarios de palabras para poder categorizar en las columnas de interés correspondientes. Por ejemplo, la categorización del tipo de alimento que se describe. (2) Procesar palabras nunca antes vistas por el diccionario. Los anglicismos juegan un papel importante en el léxico hispano por lo que un reto importante es la traducción de los anglicismos o en su defecto incluirlos en el diccionario de categorías.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con un Data set depurado de precios, pareciera que tendríamos los elementos necesarios para hacer análisis más detallados como pronósticos de precios. Pero debido a que la dinámica de precios presenta cambios significativos en espacios de tiempo de una semana, para el tiempo que escribimos este artículo solo contábamos con unos cuantos puntos recolectados semanalmente.",
+      "en": "With a refined price data set, it seems that we would have the necessary elements to make more detailed analyzes such as price forecasts. But because price dynamics present significant changes in time frames of a week, at the time of writing this article we only had a few points collected weekly.",
+      "es": "Con un Data set depurado de precios, pareciera que tendríamos los elementos necesarios para hacer análisis más detallados como pronósticos de precios. Pero debido a que la dinámica de precios presenta cambios significativos en espacios de tiempo de una semana, para el tiempo que escribimos este artículo solo contábamos con unos cuantos puntos recolectados semanalmente.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De acuerdo con un artículo escrito por Box y Jenkins en 1976, se recomienda al menos 50 observaciones para realizar pronósticos confiables y en trabajos más actuales, como el de Otero y Trujillo en 1998, se han obtenido buenos resultados con 30 observaciones.",
+      "en": "According to an article written by Box and Jenkins in 1976, at least 50 observations are recommended to make reliable forecasts and in more current works, such as that of Otero and Trujillo in 1998, good results have been obtained with 30 observations.",
+      "es": "De acuerdo con un artículo escrito por Box y Jenkins en 1976, se recomienda al menos 50 observaciones para realizar pronósticos confiables y en trabajos más actuales, como el de Otero y Trujillo en 1998, se han obtenido buenos resultados con 30 observaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A pesar de esta situación adversa, dos miembros del equipo, John y Mario, quisimos iniciar el análisis de series de tiempo con un conjunto de datos independiente que si contara con dicha cantidad de observaciones, para simular el pronóstico de los precios futuros con el criterio de que el",
+      "en": "Despite this adverse situation, two members of the team, John and Mario, wanted to start the time series analysis with an independent data set that did have that amount of observations, to simulate the forecast of future prices with the criterion that the",
+      "es": "A pesar de esta situación adversa, dos miembros del equipo, John y Mario, quisimos iniciar el análisis de series de tiempo con un conjunto de datos independiente que si contara con dicha cantidad de observaciones, para simular el pronóstico de los precios futuros con el criterio de que el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "modelado sea automático,",
+      "en": "modeling is automatic,",
+      "es": "modelado sea automático,",
+      "reviewed": false
+    },
+    {
+      "source": "es decir, que se seleccione el modelo con mejor MAPE (Mean Absolute Percentage Error). Analizamos los siguientes algoritmos:(1) Auto Arima, (2) Suavizado Exponencial triple, (3) Facebook Prophet.",
+      "en": "That is, the model with the best MAPE (Mean Absolute Percentage Error) is selected. We analyze the following algorithms:(1) Auto Arima, (2) Triple Exponential Smoothing, (3) Facebook Prophet.",
+      "es": "es decir, que se seleccione el modelo con mejor MAPE (Mean Absolute Percentage Error). Analizamos los siguientes algoritmos:(1) Auto Arima, (2) Suavizado Exponencial triple, (3) Facebook Prophet.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A continuación mostramos los resultados que obtuvimos al modelar cuatro acciones (spx, dax, ftse, nikkei) que se cotizan en diferentes bolsas, con el algoritmo que obtuvo el mejor desempeño:",
+      "en": "Below we show the results we obtained by modeling four stocks (spx, dax, ftse, nikkei) that are listed on different exchanges, with the algorithm that obtained the best performance:",
+      "es": "A continuación mostramos los resultados que obtuvimos al modelar cuatro acciones (spx, dax, ftse, nikkei) que se cotizan en diferentes bolsas, con el algoritmo que obtuvo el mejor desempeño:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Finalmente, coronamos el esfuerzo descrito anteriormente con una herramienta de visualización que nos permitiera sacar provecho de nuestro Dataset depurado y enriquecido, para ayudar a la toma de decisiones en precios.",
+      "en": "Finally, we crowned the effort described above with a visualization tool that allowed us to take advantage of our refined and enriched Dataset, to help make pricing decisions.",
+      "es": "Finalmente, coronamos el esfuerzo descrito anteriormente con una herramienta de visualización que nos permitiera sacar provecho de nuestro Dataset depurado y enriquecido, para ayudar a la toma de decisiones en precios.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nuestro compañero Juan Manuel y nuestro mentor David, tomaron el liderazgo de la comunicación visual, así como del despliegue del monitor BasketTracker.AI en una aplicación web.",
+      "en": "Our colleague Juan Manuel and our mentor David took the lead in the visual communication, as well as the deployment of the BasketTracker.AI monitor in a web application.",
+      "es": "Nuestro compañero Juan Manuel y nuestro mentor David, tomaron el liderazgo de la comunicación visual, así como del despliegue del monitor BasketTracker.AI en una aplicación web.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A continuación presentamos los elementos que elegimos comunicar visualmente: (1) Series de tiempo y predicción, (2) Cálculo de inflación de productos, (3) Comparativa entre marcas y tiendas, (4) Top 3 de artículos con mayor/menor costo y algunos KPIs",
+      "en": "Below we present the elements that we choose to communicate visually: (1) Time series and prediction, (2) Product inflation calculation, (3) Comparison between brands and stores, (4) Top 3 items with the highest/lowest cost and some KPIs",
+      "es": "A continuación presentamos los elementos que elegimos comunicar visualmente: (1) Series de tiempo y predicción, (2) Cálculo de inflación de productos, (3) Comparativa entre marcas y tiendas, (4) Top 3 de artículos con mayor/menor costo y algunos KPIs",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Consideramos que todo lo anterior debíamos consolidarlo en un solo punto. Debería ser algo de fácil acceso que reuniera todos los elementos que definimos desarrollar en un inicio y presentarlos de manera sencilla hacia el usuario final. Por esto decidimos que la mejor manera de lograrlo sería con un dashboard general de resultados.",
+      "en": "We considered that we should consolidate all of the above into a single point. It should be something easily accessible that brings together all the elements that we defined to develop at the beginning and presents them in a simple way to the end user. For this reason, we decided that the best way to achieve this would be with a general results dashboard.",
+      "es": "Consideramos que todo lo anterior debíamos consolidarlo en un solo punto. Debería ser algo de fácil acceso que reuniera todos los elementos que definimos desarrollar en un inicio y presentarlos de manera sencilla hacia el usuario final. Por esto decidimos que la mejor manera de lograrlo sería con un dashboard general de resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se crearon dos dashboards interactivos, el primero usando el software Tableau y el segundo la herramienta QuickSight de Amazon.",
+      "en": "Two interactive dashboards were created, the first using Tableau software and the second using Amazon's QuickSight tool.",
+      "es": "Se crearon dos dashboards interactivos, el primero usando el software Tableau y el segundo la herramienta QuickSight de Amazon.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A continuación mostramos algunos screenshots de los dashboards:",
+      "en": "Below we show some screenshots of the dashboards:",
+      "es": "A continuación mostramos algunos screenshots de los dashboards:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Dashboard QuickSight",
+      "en": "QuickSight Dashboard",
+      "es": "Dashboard QuickSight",
+      "reviewed": false
+    },
+    {
+      "source": "Dashboard Tableau",
+      "en": "Tableau Dashboard",
+      "es": "Dashboard Tableau",
+      "reviewed": false
+    },
+    {
+      "source": "En este artículo compartimos nuestra experiencia desarrollando un monitor de precios como proyecto de equipo en la primera edición de",
+      "en": "In this article we share our experience developing a price monitor as a team project in the first edition of",
+      "es": "En este artículo compartimos nuestra experiencia desarrollando un monitor de precios como proyecto de equipo en la primera edición de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Saturdays AI",
+      "en": "Saturdays AI",
+      "es": "Saturdays AI",
+      "reviewed": false
+    },
+    {
+      "source": "Latinoamérica. Nos sentimos satisfechos de haber acoplado diferentes disciplinas dentro de la Inteligencia Artificial, como son NLP y pronóstico de series de tiempo, con aspectos de integración de datos y desarrollo web y de Business Intelligence para construir una prueba de concepto para monitorear precios.",
+      "en": "Latin America. We are satisfied to have coupled different disciplines within Artificial Intelligence, such as NLP and time series forecasting, with aspects of data integration and web development and Business Intelligence to build a proof of concept to monitor prices.",
+      "es": "Latinoamérica. Nos sentimos satisfechos de haber acoplado diferentes disciplinas dentro de la Inteligencia Artificial, como son NLP y pronóstico de series de tiempo, con aspectos de integración de datos y desarrollo web y de Business Intelligence para construir una prueba de concepto para monitorear precios.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Desde luego que hay todavía muchas mejoras que realizar y probablemente las desarrollaremos en futuras versiones de nuestro trabajo.",
+      "en": "Of course there are still many improvements to be made and we will probably develop them in future versions of our work.",
+      "es": "Desde luego que hay todavía muchas mejoras que realizar y probablemente las desarrollaremos en futuras versiones de nuestro trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Esperamos que este artículo los motive a fortalecer sus habilidades en Inteligencia Artificial, poniendo en práctica sus conocimientos para aprender haciendo. Hasta la próxima.",
+      "en": "We hope that this article motivates you to strengthen your skills in Artificial Intelligence, putting your knowledge into practice to learn by doing. Until next time.",
+      "es": "Esperamos que este artículo los motive a fortalecer sus habilidades en Inteligencia Artificial, poniendo en práctica sus conocimientos para aprender haciendo. Hasta la próxima.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Box, G. E. P., and G. M. Jenkins. 1976: Time Series Analysis: Forecasting and Control. Ed. Holden-day. San Francisco.",
+      "en": "Box, G. E. P., and G. M. Jenkins. 1976: Time Series Analysis: Forecasting and Control. Ed. Holden-day. San Francisco.",
+      "es": "Box, G. E. P. y G. M. Jenkins. 1976: Análisis de la serie de tiempo: pronóstico y control. Ed. Holden-day. San Francisco.",
+      "reviewed": false,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otero, J; Trujillo, F. 1998: “Forecasting Tourism Demand in the Short Term: The Case of Andalusian Hotel Establishments”, 4th International Forum on Tourism Statistics. Copenhague",
+      "en": "Otero, J; Trujillo, F. 1998: “Forecasting Tourism Demand in the Short Term: The Case of Andalusian Hotel Establishments”, 4th International Forum on Tourism Statistics. Copenhague",
+      "es": "Otero, J; Trujillo, F. 1998: “La demanda de turismo en el corto plazo: El caso de los establecimientos hoteleros andaluz”, 4o Foro Internacional sobre Estadísticas del Turismo. Copenhague",
+      "reviewed": false,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gabriela Vega",
+      "en": "Gabriela Vega",
+      "es": "Gabriela Vega",
+      "reviewed": false
+    },
+    {
+      "source": "Gustavo Leyva",
+      "en": "Gustavo Leyva",
+      "es": "Gustavo Leyva",
+      "reviewed": false
+    },
+    {
+      "source": "Juan Esteban Zurita",
+      "en": "Juan Esteban Zurita",
+      "es": "Juan Esteban Zurita",
+      "reviewed": false
+    },
+    {
+      "source": "Juan Manuel Ahumada",
+      "en": "Juan Manuel Ahumada",
+      "es": "Juan Manuel Ahumada",
+      "reviewed": false
+    },
+    {
+      "source": "John Jacho",
+      "en": "John Jacho",
+      "es": "John Jacho",
+      "reviewed": false
+    },
+    {
+      "source": "Ramón Díaz",
+      "en": "Ramon Diaz",
+      "es": "Ramón Díaz",
+      "reviewed": false
+    },
+    {
+      "source": "Mario Fonseca",
+      "en": "Mario Fonseca",
+      "es": "Mario Fonseca",
+      "reviewed": false
+    },
+    {
+      "source": "Fin de la pobreza",
+      "en": "End of poverty",
+      "es": "Fin de la pobreza",
+      "reviewed": false
+    }
+  ]
+}

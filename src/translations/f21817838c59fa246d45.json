@@ -1,0 +1,395 @@
+{
+  "title": "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia Artificial",
+  "route": "/2022/03/16/cardiosight-machine-learning-para-calcular-riesgo-cardiovascular/",
+  "segments": [
+    {
+      "source": "Guadalajara. Segunda Edición 2020 ¿Sabias que las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo? En México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades…",
+      "en": "Guadalajara. Second Edition 2020 Did you know that cardiovascular diseases (ECV) are the main cause of death worldwide? In Mexico, 19% of women and men aged 30 to 69 die from diseases...",
+      "es": "Guadalajara. Segunda Edición 2020 ¿Sabias que las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo? En México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Qué es CARDIOSIGHT?",
+      "en": "What is CARDIOSIGHT?",
+      "es": "¿Qué es CARDIOSIGHT?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¡Experimentando con los datos!",
+      "en": "Experimenting with the data!",
+      "es": "¡Experimentando con los datos!",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Esto es todo?",
+      "en": "This is it?",
+      "es": "¿Esto es todo?",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Segunda Edición 2020",
+      "en": ". Second Edition 2020",
+      "es": ". Segunda Edición 2020",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Sabias que las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo?",
+      "en": "Did you know that cardiovascular diseases (VMS) are the main cause of death worldwide?",
+      "es": "¿Sabias que las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades cardiovasculares, y se estima que el 70.3% de la población adulta vive con al menos un factor de riesgo cardiovascular.",
+      "en": "In Mexico, 19 per cent of women and men aged 30 to 69 die from cardiovascular diseases, and an estimated 70.3 per cent of the adult population lives with at least one cardiovascular risk factor.",
+      "es": "En México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades cardiovasculares, y se estima que el 70.3% de la población adulta vive con al menos un factor de riesgo cardiovascular.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las enfermedades cardiovasculares son un grupo de desórdenes que afectan al corazón y/o los vasos sanguíneos , las cuales representan un problema de salud pública en México .",
+      "en": "Cardiovascular diseases are a group of disorders that affect the heart and / or blood vessels, which represent a public health problem in Mexico.",
+      "es": "Las enfermedades cardiovasculares son un grupo de desórdenes que afectan al corazón y/o los vasos sanguíneos , las cuales representan un problema de salud pública en México .",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estudios epidemiológicos han permitido identificar un conjunto de variables denominadas factores de riesgo de tipo cardiovascular (FRCV), que son todas aquellas características biológicas no modificables y características conductuales modificables (estilos de vida), cuya presencia se relaciona con una mayor probabilidad de sufrir una enfermedad cardiovascular en el futuro.",
+      "en": "Epidemiological studies have identified a set of variables called cardiovascular-type risk factors (FRCV), which are all those non-modifiable biological characteristics and modifiable behavioral characteristics (lifestyles), whose presence is related to a higher likelihood of having cardiovascular disease in the future.",
+      "es": "Estudios epidemiológicos han permitido identificar un conjunto de variables denominadas factores de riesgo de tipo cardiovascular (FRCV), que son todas aquellas características biológicas no modificables y características conductuales modificables (estilos de vida), cuya presencia se relaciona con una mayor probabilidad de sufrir una enfermedad cardiovascular en el futuro.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Su identificación temprana es fundamental para implementar cambios en los hábitos de los pacientes con el objetivo de prevenir un evento de enfermedad cardiovascular primario",
+      "en": "Early identification is essential to implement changes in patients' habits with the aim of preventing an event of primary cardiovascular disease",
+      "es": "Su identificación temprana es fundamental para implementar cambios en los hábitos de los pacientes con el objetivo de prevenir un evento de enfermedad cardiovascular primario",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En los últimos años México ha implementado varias estrategias enfocadas en el sector salud que prometen buenos resultados. A pesar de esto, se han encontrado inconsistencias en los procesos de atención primaria, práctica clínica e instrumentos de vigilancia que limitan la monitorización cardiovascular de la población.",
+      "en": "In recent years, Mexico has implemented a number of health-sector-focused strategies that promise good results. Despite this, inconsistencies have been found in primary care processes, clinical practice and monitoring tools that limit cardiovascular monitoring of the population.",
+      "es": "En los últimos años México ha implementado varias estrategias enfocadas en el sector salud que prometen buenos resultados. A pesar de esto, se han encontrado inconsistencias en los procesos de atención primaria, práctica clínica e instrumentos de vigilancia que limitan la monitorización cardiovascular de la población.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El proyecto de",
+      "en": "The draft",
+      "es": "El proyecto de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CARDIOSIGHT",
+      "en": "CARDIOSIGHT",
+      "es": "CARDIOSIGHT",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nace debido a la presente necesidad en nuestro país de crear métodos y herramientas de identificación temprana para los individuos con alto riesgo de sufrir enfermedades cardiovasculares. Con el fin de prevenir eventos cardíacos primarios y ayudar a disminuir la incidencia de nuevos casos, por medio de hábitos de prevención. Este método de detección será diseñado con ayuda de la",
+      "en": "is born due to the present need in our country to create early identification methods and tools for individuals at high risk of cardiovascular disease. In order to prevent primary heart events and help to reduce the incidence of new cases, through prevention habits. This detection method will be designed with the help of",
+      "es": "nace debido a la presente necesidad en nuestro país de crear métodos y herramientas de identificación temprana para los individuos con alto riesgo de sufrir enfermedades cardiovasculares. Con el fin de prevenir eventos cardíacos primarios y ayudar a disminuir la incidencia de nuevos casos, por medio de hábitos de prevención. Este método de detección será diseñado con ayuda de la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "inteligencia artificial",
+      "en": "Artificial intelligence",
+      "es": "inteligencia artificial",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ventajas de la aplicación:",
+      "en": "Advantages of the application:",
+      "es": "Ventajas de la aplicación:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "● La población tendrá la facilidad de conocer su nivel de riesgo sin la necesidad de asistir a una unidad médica de salud. Acelerando de esta manera la identificación de los individuos con un riesgo alto antes de que se desarrolle un evento cardiovascular primario.",
+      "en": "● The population will have the ease to know their level of risk without the need to attend a medical health unit. In this way, accelerating the identification of individuals at high risk before a primary cardiovascular event takes place.",
+      "es": "● La población tendrá la facilidad de conocer su nivel de riesgo sin la necesidad de asistir a una unidad médica de salud. Acelerando de esta manera la identificación de los individuos con un riesgo alto antes de que se desarrolle un evento cardiovascular primario.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "● Posterior a la identificación, dependiendo del resultado, se le sugerirá al usuario visitar las páginas disponibles del Instituto Mexicano del seguro social que brindan la información sobre las campañas preventivas actuales relacionadas a este tipo de enfermedades, en las cuales encontrarán la información necesaria para educarse sobre la problemática, además de la posibilidad de encontrar su clínica más cercana para realizar su primer chequeo médico.",
+      "en": "● After identification, depending on the result, the user will be suggested to visit the available pages of the Mexican Social Insurance Institute that provide information on the current preventive campaigns related to this type of disease, in which they will find the information necessary to educate themselves about the problem, as well as the possibility to find their nearest clinic to perform their first medical check.",
+      "es": "● Posterior a la identificación, dependiendo del resultado, se le sugerirá al usuario visitar las páginas disponibles del Instituto Mexicano del seguro social que brindan la información sobre las campañas preventivas actuales relacionadas a este tipo de enfermedades, en las cuales encontrarán la información necesaria para educarse sobre la problemática, además de la posibilidad de encontrar su clínica más cercana para realizar su primer chequeo médico.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se decidió trabajar con el",
+      "en": "It was decided to work with",
+      "es": "Se decidió trabajar con el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cardiovascular Disease",
+      "en": "Cardiovascular Disease",
+      "es": "Enfermedad cardiovascular",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "encontrado en la página Kaggle. El cual consiste en 70,000 datos recabados de pacientes, contiene 11 características y una variable objetivo, información recabada por medio de resultados médicos, compartida por el paciente o de forma factual.",
+      "en": "found on the Kaggle page. Which consists of 70,000 data collected from patients, contains 11 characteristics and an objective variable, information collected through medical results, shared by the patient or factual.",
+      "es": "encontrado en la página Kaggle. El cual consiste en 70,000 datos recabados de pacientes, contiene 11 características y una variable objetivo, información recabada por medio de resultados médicos, compartida por el paciente o de forma factual.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Figura 1. Relación entre BMI (Indice de masa corporal) y la presencia o no de ECV.",
+      "en": "Figure 1. Relationship between BMI (Body mass index) and the presence or non-presence of ECV.",
+      "es": "Figura 1. Relación entre BMI (Indice de masa corporal) y la presencia o no de ECV.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tras realizar el análisis exploratorio y transformación de nuestros datos se decidió experimentar con el modelo de",
+      "en": "After the exploratory analysis and transformation of our data it was decided to experiment with the model of",
+      "es": "Tras realizar el análisis exploratorio y transformación de nuestros datos se decidió experimentar con el modelo de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "debido a su excelente capacidad de clasificación.",
+      "en": "due to its excellent classification capacity.",
+      "es": "debido a su excelente capacidad de clasificación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Figura 2. Modelo Random Forest",
+      "en": "Figura 2. Modelo Random Forest",
+      "es": "Figura 2. Modelo Bosque aleatorio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tras realizar varias pruebas y tuneo de hiperparámetros se encontró el modelo ideal para nuestra aplicación.",
+      "en": "After several tests and hyper-parameter tuning, the ideal model for our application was found.",
+      "es": "Tras realizar varias pruebas y tuneo de hiperparámetros se encontró el modelo ideal para nuestra aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con un accuracy de 0.73 y una curva ROC de 0.8, se decidió obtener gráficas complementarias del modelo para entender de una forma más profunda su comportamiento probabilístico.",
+      "en": "With an accuracy of 0.73 and a ROC curve of 0.8, it was decided to obtain complementary graphics of the model to understand in a deeper way its probabilistic behavior.",
+      "es": "Con un accuracy de 0.73 y una curva ROC de 0.8, se decidió obtener gráficas complementarias del modelo para entender de una forma más profunda su comportamiento probabilístico.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Figura 3. Curva ROC Y AUC",
+      "en": "Figure 3. ROC and AUC curve",
+      "es": "Figura 3. Curva ROC Y AUC",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Uno de los retos más grandes en el desarrollo de este proyecto fue encontrar un punto de corte para decidir si una persona tenia una alto o bajo riesgo de sufrir de una enfermedad cardiovascular. Es aquí donde la confianza probabilística entra en juego, y también poner en la balanza cuál situación es mejor: Decirle a los pacientes que tendrán una enfermedad cardiovascular cuando no la tienen, o decirles que no, cuando sí la tienen. En mi caso preferí que mi modelo identificara al mayor numero de personas de sufrir de una enfermedad cardiovascular, con la premisa de que los falsos positivos pueden ser detectados al realizar pruebas clínicas complementarias.",
+      "en": "One of the greatest challenges in the development of this project was to find a cut-off point to decide whether a person had a high or low risk of suffering from a cardiovascular disease. This is where probabilistic confidence comes into play, and also to put on the balance which situation is best: Tell patients that they will have a cardiovascular disease when they do not have it, or tell them not, when they do. In my case, I preferred my model to identify the largest number of people suffering from a cardiovascular disease, with the premise that false positive can be detected by conducting complementary clinical tests.",
+      "es": "Uno de los retos más grandes en el desarrollo de este proyecto fue encontrar un punto de corte para decidir si una persona tenia una alto o bajo riesgo de sufrir de una enfermedad cardiovascular. Es aquí donde la confianza probabilística entra en juego, y también poner en la balanza cuál situación es mejor: Decirle a los pacientes que tendrán una enfermedad cardiovascular cuando no la tienen, o decirles que no, cuando sí la tienen. En mi caso preferí que mi modelo identificara al mayor numero de personas de sufrir de una enfermedad cardiovascular, con la premisa de que los falsos positivos pueden ser detectados al realizar pruebas clínicas complementarias.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Figura 4. Relación entre probabilidad y punto de corte",
+      "en": "Figure 4. Relationship between probability and cutting point",
+      "es": "Figura 4. Relación entre probabilidad y punto de corte",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como apoyo para la selección de este punto de corte nos basamos en el modulo de Youden, gráficas de calibración y los valores de predicción obtenidos.",
+      "en": "In support of the selection of this cutting point, we are based on the Youden module, calibration charts and the prediction values obtained.",
+      "es": "Como apoyo para la selección de este punto de corte nos basamos en el modulo de Youden, gráficas de calibración y los valores de predicción obtenidos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Figura 5. Curva de calibración obtenida",
+      "en": "Figure 5. Calibration curve obtained",
+      "es": "Figura 5. Curva de calibración obtenida",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Debido a que se deseaba que la población pudiera hacer uso de este recurso, se decidió implementar una aplicación web usando la plataforma",
+      "en": "Because it was desired that the population could make use of this resource, it was decided to implement a web application using the platform",
+      "es": "Debido a que se deseaba que la población pudiera hacer uso de este recurso, se decidió implementar una aplicación web usando la plataforma",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "streamlit",
+      "en": "streamlit",
+      "es": "streamlit",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". En la cual el usuario podría consultar su indicador de riesgo por medio del llenado de sus FRC. En caso de que su resultado fuera “Alto” se le redireccionaría a la pagina oficial del IMSS.",
+      "en": ". In which the user could consult his risk indicator by filling out his FRC. In case his result was \"High\" he would be redirected to the official IMSS page.",
+      "es": ". En la cual el usuario podría consultar su indicador de riesgo por medio del llenado de sus FRC. En caso de que su resultado fuera “Alto” se le redireccionaría a la pagina oficial del IMSS.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se logró obtener un algoritmo capaz de indicar si un individuo tiene alto riesgo de sufrir una enfermedad cardiovascular o no, con resultados comparables a los mencionados en la bibliografía consultada.",
+      "en": "An algorithm was obtained to indicate whether an individual is at high risk for cardiovascular disease or not, with results comparable to those mentioned in the literature.",
+      "es": "Se logró obtener un algoritmo capaz de indicar si un individuo tiene alto riesgo de sufrir una enfermedad cardiovascular o no, con resultados comparables a los mencionados en la bibliografía consultada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tras un análisis del poder predictivo de los datos se encontró que tener un grado de hipertensión y ser mayor de 50 años, puede influir a que seas un individuo con alto riesgo. El colesterol y el índice de masa corporal también son características a considerar, ya que, si sus niveles son más altos de lo normal, también pueden influir a un riesgo mayor. Una identificación temprana de estas variables de riesgo es fundamental para poder prevenir un episodio de enfermedad cardiovascular primario.",
+      "en": "After an analysis of the predictive power of the data it was found that having a degree of hypertension and being more than 50 years old, may influence you to be an individual at high risk. Cholesterol and body mass index are also characteristic to consider, as, if their levels are higher than normal, they may also influence a higher risk. An early identification of these risk variables is essential to be able to prevent an episode of primary cardiovascular disease.",
+      "es": "Tras un análisis del poder predictivo de los datos se encontró que tener un grado de hipertensión y ser mayor de 50 años, puede influir a que seas un individuo con alto riesgo. El colesterol y el índice de masa corporal también son características a considerar, ya que, si sus niveles son más altos de lo normal, también pueden influir a un riesgo mayor. Una identificación temprana de estas variables de riesgo es fundamental para poder prevenir un episodio de enfermedad cardiovascular primario.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No, este proyecto sirve como precedente para saber si la metodología utilizada es útil y qué tipo de recursos son necesarios para realizar una investigación más elaborada enfocada a la población mexicana.",
+      "en": "No, this project serves as a precedent for knowing whether the methodology used is useful and what kind of resources are needed to conduct a more elaborate research focused on the Mexican population.",
+      "es": "No, este proyecto sirve como precedente para saber si la metodología utilizada es útil y qué tipo de recursos son necesarios para realizar una investigación más elaborada enfocada a la población mexicana.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cómo siguientes pasos, es indispensable trabajar con un dataset enfocado en la población mexicana, con él se podría hacer un análisis más profundo respecto a cómo las variables de alimentación, sociales, económicas y educacionales afectan a las predicciones. Además de que se podría crear un algoritmo de cálculo de factor de riesgo, enfocado a esta población.",
+      "en": "How next steps, it is essential to work with a dataset focused on the Mexican population, with it a deeper analysis could be made of how food, social, economic and educational variables affect predictions. In addition to that it could create a risk factor calculation algorithm, focused on this population.",
+      "es": "Cómo siguientes pasos, es indispensable trabajar con un dataset enfocado en la población mexicana, con él se podría hacer un análisis más profundo respecto a cómo las variables de alimentación, sociales, económicas y educacionales afectan a las predicciones. Además de que se podría crear un algoritmo de cálculo de factor de riesgo, enfocado a esta población.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se desea trabajar más con el algoritmo creado, para mejorar su desempeño de clasificación aplicando",
+      "en": "You want to work more with the created algorithm, to improve your classification performance by applying",
+      "es": "Se desea trabajar más con el algoritmo creado, para mejorar su desempeño de clasificación aplicando",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "feature selection",
+      "en": "feature selection",
+      "es": "Selección de características",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y otros algoritmos de",
+      "en": "and other algorithms",
+      "es": "y otros algoritmos de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "machine learning.",
+      "en": "machine learning.",
+      "es": "aprendizaje automático.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todavía queda mucho por hacer, pero definitivamente esta experimentación le da dirección a los próximos esfuerzos, te invito a que me sigas, para que puedas seguir leyendo sobre este proyecto.",
+      "en": "Much remains to be done, but this experimentation definitely gives direction to the next efforts, I invite you to follow me, so that you can continue reading about this project.",
+      "es": "Todavía queda mucho por hacer, pero definitivamente esta experimentación le da dirección a los próximos esfuerzos, te invito a que me sigas, para que puedas seguir leyendo sobre este proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Rebeca Sarai Nuñez Ramirez",
+      "en": "Rebeca Sarai Nuñez Ramirez",
+      "es": "Rebeca Sarai Nuñez Ramirez",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

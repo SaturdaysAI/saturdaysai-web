@@ -1,0 +1,680 @@
+{
+  "title": "Creando un Cuento Infantil con IA -Una Guía Paso a Paso-",
+  "route": "/2023/10/31/guiapasoapaso_creandouncuentoinfantilconia/",
+  "segments": [
+    {
+      "source": "Creando un Cuento Infantil con IA -Una Guía Paso a Paso-",
+      "en": "Creating a Children's Story with AI -A Step by Step Guide-",
+      "es": "Creando un Cuento Infantil con IA -Una Guía Paso a Paso-",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "31 oct 2023",
+      "en": "Oct 31, 2023",
+      "es": "31 oct 2023",
+      "reviewed": false
+    },
+    {
+      "source": "**¡De algoritmos y aventuras!",
+      "en": "**About algorithms and adventures!",
+      "es": "**¡De algoritmos y aventuras!",
+      "reviewed": false
+    },
+    {
+      "source": "-Un cuento de IA, ¡hecho por IA!-",
+      "en": "-An AI story, made by AI!-",
+      "es": "-Un cuento de IA, ¡hecho por IA!-",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "1º parte: Ideando con ChatGPT",
+      "en": "Part 1: Ideating with ChatGPT",
+      "es": "1º parte: Ideando con ChatGPT",
+      "reviewed": false
+    },
+    {
+      "source": "2º parte: Visualización con MidJourney",
+      "en": "2nd part: Visualization with MidJourney",
+      "es": "2º parte: Visualización con MidJourney",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "3º parte: ¡Diseño, diseño, diseño con Canva!",
+      "en": "Part 3: Design, design, design with Canva!",
+      "es": "3º parte: ¡Diseño, diseño, diseño con Canva!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "4º parte: ¡Dándole voz a la historia con Genny!",
+      "en": "Part 4: Giving voice to the story with Genny!",
+      "es": "4º parte: ¡Dándole voz a la historia con Genny!",
+      "reviewed": false
+    },
+    {
+      "source": "¡Por fin tenemos nuestro cuento creado!",
+      "en": "We finally have our story created!",
+      "es": "¡Por fin tenemos nuestro cuento creado!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ada y el Secreto de la IA",
+      "en": "Ada and the Secret of AI",
+      "es": "Ada y el Secreto de la IA",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "AIoT en la agricultura y ganadería: cuando los campos empiezan a tomar decisiones",
+      "en": "AIoT in agriculture and livestock: when the fields begin to make decisions",
+      "es": "AIoT en la agricultura y ganadería: cuando los campos empiezan a tomar decisiones",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
+      "en": "From existing project to digital product: How did I build the Energía en Acción web app?",
+      "es": "De proyecto existente a producto digital: ¿Cómo construí la web app de Energía en Acción?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Codex vs. MiniMax M2.1: replicando FoodCheck con dos IAs distintas",
+      "en": "Codex vs. MiniMax M2.1: replicating FoodCheck with two different AIs",
+      "es": "Codex vs. MiniMax M2.1: replicando FoodCheck con dos IAs distintas",
+      "reviewed": false
+    },
+    {
+      "source": "Escrito por Rocío Mateos | Octubre 2023",
+      "en": "Written by Rocío Mateos | October 2023",
+      "es": "Escrito por Rocío Mateos | Octubre 2023",
+      "reviewed": false
+    },
+    {
+      "source": "En esta era de clics y teclados, las herramientas de inteligencia artificial están cambiando el juego de la creación de contenido. La IA no solo está metiendo sus circuitos en la industria y la ciencia, sino que también está dando un giro al mundo creativo.",
+      "en": "In this era of clicks and keyboards, AI tools are changing the game of content creation. AI is not only putting its circuits into industry and science, but it is also turning the creative world on its head.",
+      "es": "En esta era de clics y teclados, las herramientas de inteligencia artificial están cambiando el juego de la creación de contenido. La IA no solo está metiendo sus circuitos en la industria y la ciencia, sino que también está dando un giro al mundo creativo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En este artículo, te llevaré de la mano (¡virtualmente, claro!) por el proceso de crear un cuento infantil sobre IA, usando herramientas como ChatGPT, MidJourney , Canva Y Genny.",
+      "en": "In this article, I'll take you by the hand (virtually, of course!) through the process of creating a children's story about AI, using tools like ChatGPT, MidJourney, Canva AND Genny.",
+      "es": "En este artículo, te llevaré de la mano (¡virtualmente, claro!) por el proceso de crear un cuento infantil sobre IA, usando herramientas como ChatGPT, MidJourney , Canva Y Genny.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuando la IA decide contarnos cuentos",
+      "en": "When AI decides to tell us stories",
+      "es": "Cuando la IA decide contarnos cuentos",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Antes de que te lances al vacío, párate un momento. ¿Qué quieres hacer? ¿A quién te diriges? ¿Dónde lo mostrarás? Y, lo más importante, ¿ya le preguntaste a ChatGPT? Porque, vamos, no tienes que hacer todo el trabajo tú solo.",
+      "en": "Before you jump into the void, stop for a moment. What do you want to do? Who are you addressing? Where will you show it? And, most importantly, have you asked ChatGPT yet? Because, come on, you don't have to do all the work yourself.",
+      "es": "Antes de que te lances al vacío, párate un momento. ¿Qué quieres hacer? ¿A quién te diriges? ¿Dónde lo mostrarás? Y, lo más importante, ¿ya le preguntaste a ChatGPT? Porque, vamos, no tienes que hacer todo el trabajo tú solo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nuestro primer consejo es que te armes de paciencia, ChatGPT es un compañero genial, pero no es adivino (¡aunque casi!). Una buena charla inicial es esencial.",
+      "en": "Our first piece of advice is to arm yourself with patience, ChatGPT is a great companion, but it is not a fortune teller (although almost!). A good initial talk is essential.",
+      "es": "Nuestro primer consejo es que te armes de paciencia, ChatGPT es un compañero genial, pero no es adivino (¡aunque casi!). Una buena charla inicial es esencial.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Ya tienes la chispa de tu idea? ¡Genial! ¿Qué tan formada está? En nuestro caso, lo teníamos clarísimo: queríamos un cuento que desenredara la historia de la IA para los peques. Pero, entre tú y yo, no teníamos ni idea de cómo empezar. Así que pensamos: ¿Quién mejor para contarnos la historia de la IA que la propia IA?",
+      "en": "Do you already have the spark of your idea? Brilliant! How formed is it? In our case, we were very clear: we wanted a story that unravels the history of AI for the little ones. But, between you and me, we had no idea how to start. So we thought: Who better to tell us the story of AI than AI itself?",
+      "es": "¿Ya tienes la chispa de tu idea? ¡Genial! ¿Qué tan formada está? En nuestro caso, lo teníamos clarísimo: queríamos un cuento que desenredara la historia de la IA para los peques. Pero, entre tú y yo, no teníamos ni idea de cómo empezar. Así que pensamos: ¿Quién mejor para contarnos la historia de la IA que la propia IA?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Manos a la obra. Lo primero fue darle contexto a ChatGPT. Le pedimos que nos diera un resumen de la historia de la IA. Y, bueno, ¡la magia comenzó!",
+      "en": "Let's get to work. The first thing was to give context to ChatGPT. We asked him to give us a summary of the history of AI. And, well, the magic began!",
+      "es": "Manos a la obra. Lo primero fue darle contexto a ChatGPT. Le pedimos que nos diera un resumen de la historia de la IA. Y, bueno, ¡la magia comenzó!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez que ChatGPT sabe que estamos en modo «historia de IA para niños», empieza la magia. Pero, ¡ojo! No esperes que te cuente un cuento de hadas con dragones y princesas (a menos que quieras mezclar IA con dragones, lo cual suena épico).",
+      "en": "Once ChatGPT knows that we are in “AI story for kids” mode, the magic begins. But be careful! Don't expect me to tell you a fairy tale with dragons and princesses (unless you want to mix AI with dragons, which sounds epic).",
+      "es": "Una vez que ChatGPT sabe que estamos en modo «historia de IA para niños», empieza la magia. Pero, ¡ojo! No esperes que te cuente un cuento de hadas con dragones y princesas (a menos que quieras mezclar IA con dragones, lo cual suena épico).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Le pedimos personajes y, ¡bam!, nos presenta a Ada, una niña curiosa, y a Turing, un robot con forma de tetera. Sí, has leído bien, ¡una tetera! ¿Quién hubiera pensado que una tetera podría ser tan carismática?",
+      "en": "We ask him for characters and, bam!, he introduces us to Ada, a curious girl, and Turing, a robot shaped like a teapot. Yes, you read that right, a teapot! Who would have thought a teapot could be so charismatic?",
+      "es": "Le pedimos personajes y, ¡bam!, nos presenta a Ada, una niña curiosa, y a Turing, un robot con forma de tetera. Sí, has leído bien, ¡una tetera! ¿Quién hubiera pensado que una tetera podría ser tan carismática?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero todo artista que se considere bueno, no se queda con la 1º idea, asique seguimos la conversación y es que Cuando le das a ChatGPT una misión clara, se pone las pilas. Imagina que es como un guionista de Hollywood, pero sin el café y las noches en vela.",
+      "en": "But every artist who considers himself good doesn't stick with the first idea, so we continue the conversation and that's when you give ChatGPT a clear mission, it gets going. Imagine it's like a Hollywood screenwriter, but without the coffee and the sleepless nights.",
+      "es": "Pero todo artista que se considere bueno, no se queda con la 1º idea, asique seguimos la conversación y es que Cuando le das a ChatGPT una misión clara, se pone las pilas. Imagina que es como un guionista de Hollywood, pero sin el café y las noches en vela.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con varias indicaciones mas, ChatGPT creo la historia entera, nos dio escenarios, situaciones y hasta diálogos, ¡ Todo sepa-rado en escenas ! Era como tener un equipo de escritores en una sola herra-mienta, todos trabajando al unísono para dar vida a esta historia.",
+      "en": "With several more indications, ChatGPT created the entire story, gave us scenarios, situations and even dialogues, all separated into scenes! It was like having a team of writers in one tool, all working in unison to bring this story to life.",
+      "es": "Con varias indicaciones mas, ChatGPT creo la historia entera, nos dio escenarios, situaciones y hasta diálogos, ¡ Todo sepa-rado en escenas ! Era como tener un equipo de escritores en una sola herra-mienta, todos trabajando al unísono para dar vida a esta historia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con la trama en mano, nos dimos cuenta de que una historia sin imágenes es como una pizza sin queso, ¡simplemente no es lo mismo!",
+      "en": "With the plot in hand, we realized that a story without pictures is like a pizza without cheese, it's just not the same!",
+      "es": "Con la trama en mano, nos dimos cuenta de que una historia sin imágenes es como una pizza sin queso, ¡simplemente no es lo mismo!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y aquí es donde MidJourney se convierte en nuestro superhéroe visual.",
+      "en": "And this is where MidJourney becomes our visual superhero.",
+      "es": "Y aquí es donde MidJourney se convierte en nuestro superhéroe visual.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Piensa en MidJourney como ese amigo que tiene una colección infinita de álbumes de fotos y siempre encuentra la imagen perfecta para cualquier situa-ción. No, no es un ejército de robots buscando fotos (aunque admito que esa imagen es bastante genial), pero es una herramienta poderosa que utiliza la IA para encontrar las imágenes que mejor se adaptan a tus descripciones..",
+      "en": "Think of MidJourney as that friend who has an endless collection of photo albums and always finds the perfect image for any situation. No, it's not an army of robots searching for photos (although I admit that image is pretty cool), but it is a powerful tool that uses AI to find the images that best fit your descriptions.",
+      "es": "Piensa en MidJourney como ese amigo que tiene una colección infinita de álbumes de fotos y siempre encuentra la imagen perfecta para cualquier situa-ción. No, no es un ejército de robots buscando fotos (aunque admito que esa imagen es bastante genial), pero es una herramienta poderosa que utiliza la IA para encontrar las imágenes que mejor se adaptan a tus descripciones..",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero ¡ojo! Aunque MidJourney no es ChatGPT, podríamos decir que son como uña y mugre. No basta con decirle vagamente lo que quieres. Tienes que describirlo con detalle, sumergirte en las emociones que quieres transmitir y jugar un poco con la herramienta. Es como un tango: lleva tiempo aprender los pasos, pero una vez que lo haces, es una danza hermosa.",
+      "en": "But be careful! Although MidJourney is not ChatGPT, we could say that they are like dirt. It's not enough to vaguely tell him what you want. You have to describe it in detail, immerse yourself in the emotions you want to convey and play a little with the tool. It's like a tango: it takes time to learn the steps, but once you do, it's a beautiful dance.",
+      "es": "Pero ¡ojo! Aunque MidJourney no es ChatGPT, podríamos decir que son como uña y mugre. No basta con decirle vagamente lo que quieres. Tienes que describirlo con detalle, sumergirte en las emociones que quieres transmitir y jugar un poco con la herramienta. Es como un tango: lleva tiempo aprender los pasos, pero una vez que lo haces, es una danza hermosa.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero te preguntarás.. ¿ Y como se que indicaciones le tengo que dar? , pues ¡sencillo! Para eso tenemos a ChatGPT. Pídele que te proporciono prompts detallados para guiarte en tu búsqueda de imágenes.",
+      "en": "But you may wonder... And how do I know what instructions I have to give him? Well, simple! For that we have ChatGPT. Ask me to provide you with detailed prompts to guide you in your image search.",
+      "es": "Pero te preguntarás.. ¿ Y como se que indicaciones le tengo que dar? , pues ¡sencillo! Para eso tenemos a ChatGPT. Pídele que te proporciono prompts detallados para guiarte en tu búsqueda de imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para acceder a su galería debemos de hacerlo por Discord.",
+      "en": "To access your gallery we must do so through Discord.",
+      "es": "Para acceder a su galería debemos de hacerlo por Discord.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "No te estreses es mucho mas fácil de lo que piensas. Primero accedemos a su web .",
+      "en": "Don't stress, it's much easier than you think. First we access their website.",
+      "es": "No te estreses es mucho mas fácil de lo que piensas. Primero accedemos a su web .",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Después, clicamos en la opción probar su opción beta y te redirigirá a Discord. Aquí solo tienes que unirte a sus salas iniciando sesión en tu cuenta. ¡Ojo esta opción es de pago! solo podrás unirte si anteriormente pagaste una suscripción con el mismo email.",
+      "en": "Then, click on the option to try its beta option and it will redirect you to Discord. Here you just have to join their rooms by logging into your account. Be careful, this option is paid! You will only be able to join if you previously paid for a subscription with the same email.",
+      "es": "Después, clicamos en la opción probar su opción beta y te redirigirá a Discord. Aquí solo tienes que unirte a sus salas iniciando sesión en tu cuenta. ¡Ojo esta opción es de pago! solo podrás unirte si anteriormente pagaste una suscripción con el mismo email.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero bueno dando por hecho que eres el número fan de IA, seguro que ya estás registrado.",
+      "en": "But well, assuming that you are the number one AI fan, you are surely already registered.",
+      "es": "Pero bueno dando por hecho que eres el número fan de IA, seguro que ya estás registrado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez dentro de la sala, ya solo nos queda crear.",
+      "en": "Once inside the room, all we have to do is create.",
+      "es": "Una vez dentro de la sala, ya solo nos queda crear.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Escribimos »",
+      "en": "We write »",
+      "es": "Escribimos »",
+      "reviewed": false
+    },
+    {
+      "source": "/imagine.prompt »",
+      "en": "/imagine.prompt »",
+      "es": "/imagine.prompt »",
+      "reviewed": false
+    },
+    {
+      "source": "y la definición que nos ha dado ChatGPT (si es inglés Midjurney funcionará mucho mejor)",
+      "en": "and the definition that ChatGPT has given us (if it is English Midjurney will work much better)",
+      "es": "y la definición que nos ha dado ChatGPT (si es inglés Midjurney funcionará mucho mejor)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En solo unos segundos Midjurney ya nos da cuatro opciones. (Un consejo. Estás en una sala abierta donde mucha más gente como tú , está usando esta maravilla, ten cuidado o perderás tus imágenes entre tanta gente).",
+      "en": "In just a few seconds Midjurney already gives us four options. (A tip. You are in an open room where many more people like you are using this wonder, be careful or you will lose your images among so many people).",
+      "es": "En solo unos segundos Midjurney ya nos da cuatro opciones. (Un consejo. Estás en una sala abierta donde mucha más gente como tú , está usando esta maravilla, ten cuidado o perderás tus imágenes entre tanta gente).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con nuestras cuatro opciones, ya solo nos queda decidir cuál nos gusta o si queremos una versión de alguna en específico, o que…… Midjurney vuelva a presentar cuatro opciones más.",
+      "en": "With our four options, we only have to decide which one we like or if we want a version of a specific one, or that... Midjurney presents four more options again.",
+      "es": "Con nuestras cuatro opciones, ya solo nos queda decidir cuál nos gusta o si queremos una versión de alguna en específico, o que…… Midjurney vuelva a presentar cuatro opciones más.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nosotros, en nuestro caso, lo teníamos claro, nos quedamos con la opción U4.",
+      "en": "In our case, we were clear, we stayed with the U4 option.",
+      "es": "Nosotros, en nuestro caso, lo teníamos claro, nos quedamos con la opción U4.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y, como el fiel compañero que nunca te deja colgado, MidJourney, nos deja modificar la imagen con varias opciones. ¡Es solo probar todas a ver cual te gusta más!",
+      "en": "And, like the faithful companion that never leaves you hanging, MidJourney allows us to modify the image with several options. Just try them all to see which one you like best!",
+      "es": "Y, como el fiel compañero que nunca te deja colgado, MidJourney, nos deja modificar la imagen con varias opciones. ¡Es solo probar todas a ver cual te gusta más!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con las imágenes y el texto en nuestro arsenal, era hora de que todo cobrara vida y forma. Y aquí es donde Canva entra en escena, como ese superhéroe del diseño que aparece justo cuando lo necesitas. Imagina tener a un diseñador gráfico de renombre en tu bolsillo, siempre listo para ayudarte, pero sin las charlas interminables sobre «la esencia del arte».",
+      "en": "With images and text in our arsenal, it was time for everything to come to life and shape. And this is where Canva comes into the picture, like that design superhero that appears just when you need it. Imagine having a renowned graphic designer in your pocket, always ready to help you, but without the endless talks about \"the essence of art.\"",
+      "es": "Con las imágenes y el texto en nuestro arsenal, era hora de que todo cobrara vida y forma. Y aquí es donde Canva entra en escena, como ese superhéroe del diseño que aparece justo cuando lo necesitas. Imagina tener a un diseñador gráfico de renombre en tu bolsillo, siempre listo para ayudarte, pero sin las charlas interminables sobre «la esencia del arte».",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo primero que hicimos fue sumergirnos en el vasto mundo de plantillas que Canva ofrece. Desde diseños minimalistas hasta los más coloridos y extravagantes, ¡hay algo para todos los gustos! Elegimos una que se adecuara al tono y estilo de nuestro cuento.",
+      "en": "The first thing we did was dive into the vast world of templates that Canva offers. From minimalist designs to the most colorful and extravagant, there is something for everyone! We chose one that suited the tone and style of our story.",
+      "es": "Lo primero que hicimos fue sumergirnos en el vasto mundo de plantillas que Canva ofrece. Desde diseños minimalistas hasta los más coloridos y extravagantes, ¡hay algo para todos los gustos! Elegimos una que se adecuara al tono y estilo de nuestro cuento.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Luego, con un simple arrastrar y soltar, colocamos las imágenes en su lugar. Añadimos el texto, jugamos con dife-rentes tipografías hasta encontrar la que gritaba «¡este es un cuento sobre IA!» y ajustamos los colores para que todo armonizara.",
+      "en": "Then, with a simple drag and drop, we put the images into place. We added the text, played with different fonts until we found the one that screamed “this is a story about AI!” and we adjusted the colors so that everything harmonized.",
+      "es": "Luego, con un simple arrastrar y soltar, colocamos las imágenes en su lugar. Añadimos el texto, jugamos con dife-rentes tipografías hasta encontrar la que gritaba «¡este es un cuento sobre IA!» y ajustamos los colores para que todo armonizara.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pero Canva no se trata solo de arrastrar y soltar.",
+      "en": "But Canva isn't just about drag and drop.",
+      "es": "Pero Canva no se trata solo de arrastrar y soltar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Nos permitió experimentar con efectos, sombras, y hasta añadir pequeños deta-lles que hicieron que nuestro cuento resplandeciera.",
+      "en": "It allowed us to experiment with effects, shadows, and even add small details that made our story shine.",
+      "es": "Nos permitió experimentar con efectos, sombras, y hasta añadir pequeños deta-lles que hicieron que nuestro cuento resplandeciera.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y así, después de algunos ajustes y retoques (y tal vez un par de cafés), teníamos en nuestras manos un cuento visualmente atractivo, listo para capturar la imaginación de niños y, sí, confesé-moslo, también de los no tan niños.",
+      "en": "And so, after some adjustments and tweaks (and maybe a couple of coffees), we had on our hands a visually attractive story, ready to capture the imagination of children and, yes, let's face it, the not-so-children too.",
+      "es": "Y así, después de algunos ajustes y retoques (y tal vez un par de cafés), teníamos en nuestras manos un cuento visualmente atractivo, listo para capturar la imaginación de niños y, sí, confesé-moslo, también de los no tan niños.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Canva te brinda una gran variedad opcio-nes para editar tu contenido a tu manera, usa una interfaz muy amigable con el usuario, ¡Sin saber nada, en 5 minutos aprendes! Y si por las moscas.. te ofrece ayuda guiada con su incorporación de su propia IA.",
+      "en": "Canva gives you a wide variety of options to edit your content your way, it uses a very user-friendly interface. Without knowing anything, you learn in 5 minutes! And if by chance... it offers you guided help with its incorporation of its own AI.",
+      "es": "Canva te brinda una gran variedad opcio-nes para editar tu contenido a tu manera, usa una interfaz muy amigable con el usuario, ¡Sin saber nada, en 5 minutos aprendes! Y si por las moscas.. te ofrece ayuda guiada con su incorporación de su propia IA.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez que tuvimos nuestro cuento visualmente listo, nos dimos cuenta de que algo faltaba: ¡el sonido! Y no cualquier sonido, sino las voces de nuestros queridos personajes. Aquí es donde Genny, la maravillosa herramienta de generación de voz, entra en acción.",
+      "en": "Once we had our story visually ready, we realized that something was missing: the sound! And not just any sound, but the voices of our beloved characters. This is where Genny, the wonderful voice generation tool, comes into action.",
+      "es": "Una vez que tuvimos nuestro cuento visualmente listo, nos dimos cuenta de que algo faltaba: ¡el sonido! Y no cualquier sonido, sino las voces de nuestros queridos personajes. Aquí es donde Genny, la maravillosa herramienta de generación de voz, entra en acción.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Imagina tener un elenco completo de actores de voz a tu disposición, listos para darle vida a tus personajes. Eso es Genny. Con su avanzada tecnología de IA, pudimos seleccionar diferentes tonos, acentos y estilos de voz que se adecuaran a la personalidad de cada personaje.",
+      "en": "Imagine having an entire cast of voice actors at your disposal, ready to bring your characters to life. That's Genny. With its advanced AI technology, we were able to select different tones, accents, and voice styles that suited each character's personality.",
+      "es": "Imagina tener un elenco completo de actores de voz a tu disposición, listos para darle vida a tus personajes. Eso es Genny. Con su avanzada tecnología de IA, pudimos seleccionar diferentes tonos, acentos y estilos de voz que se adecuaran a la personalidad de cada personaje.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y tengo un notición, que se que te va a encantar, Genny ofrece diferentes planes, ¡ofreciendo uno totalmente gratuito! una maravilla ¿verdad?.",
+      "en": "And I have news, which I know you're going to love, Genny offers different plans, offering one completely free! a wonder, right?",
+      "es": "Y tengo un notición, que se que te va a encantar, Genny ofrece diferentes planes, ¡ofreciendo uno totalmente gratuito! una maravilla ¿verdad?.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo primero que hicimos fue seleccionar el tono y estilo de voz para cada personaje. Lo mejor de todo, es que Gunny te permite buscar por idioma, sexo, por tipo de proyecto, incluso por estilo de voz.",
+      "en": "The first thing we did was select the tone and style of voice for each character. Best of all, Gunny allows you to search by language, gender, project type, even voice style.",
+      "es": "Lo primero que hicimos fue seleccionar el tono y estilo de voz para cada personaje. Lo mejor de todo, es que Gunny te permite buscar por idioma, sexo, por tipo de proyecto, incluso por estilo de voz.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Quieres que suene enfadado? ¿Curioso?",
+      "en": "Do you want me to sound angry? Curious?",
+      "es": "¿Quieres que suene enfadado? ¿Curioso?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pues solo tienes que buscar la opción que más se adapte a lo que buscas.",
+      "en": "Well, you just have to look for the option that best suits what you are looking for.",
+      "es": "Pues solo tienes que buscar la opción que más se adapte a lo que buscas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En nuestro caso, buscábamos primero una voz para Ada. Nuestro personaje es joven y curioso así que necesitaba una voz suave y llena de asombro. Turing, el robot con forma de tetera, requería algo más mecánico pero aún cálido y amigable.",
+      "en": "In our case, we were first looking for a voice for Ada. Our character is young and curious so he needed a soft voice full of wonder. Turing, the teapot-shaped robot, required something more mechanical but still warm and friendly.",
+      "es": "En nuestro caso, buscábamos primero una voz para Ada. Nuestro personaje es joven y curioso así que necesitaba una voz suave y llena de asombro. Turing, el robot con forma de tetera, requería algo más mecánico pero aún cálido y amigable.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con las voces seleccionadas, introdu-jimos el texto de nuestro cuento en Genny. Y, como por arte de magia, Genny nos devolvió un archivo de audio con nuestro cuento narrado, con cada perso-naje hablando con su voz única.",
+      "en": "With the voices selected, we introduced the text of our story into Genny. And, as if by magic, Genny returned us an audio file with our narrated story, with each character speaking in their unique voice.",
+      "es": "Con las voces seleccionadas, introdu-jimos el texto de nuestro cuento en Genny. Y, como por arte de magia, Genny nos devolvió un archivo de audio con nuestro cuento narrado, con cada perso-naje hablando con su voz única.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Al final, con Genny, no solo teníamos un cuento, sino una experiencia inmersiva que podía ser tanto leída como escuchada. Una verdadera joya multimedia que nos hizo pensar: «¡Vaya, la IA realmente puede hacer magia!»",
+      "en": "In the end, with Genny, we not only had a story, but an immersive experience that could be both read and listened to. A true multimedia gem that made us think: “Wow, AI can really do magic!”",
+      "es": "Al final, con Genny, no solo teníamos un cuento, sino una experiencia inmersiva que podía ser tanto leída como escuchada. Una verdadera joya multimedia que nos hizo pensar: «¡Vaya, la IA realmente puede hacer magia!»",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez descargados los audios solo quedaba introducirlos a Canva.",
+      "en": "Once the audios were downloaded, the only thing left to do was enter them into Canva.",
+      "es": "Una vez descargados los audios solo quedaba introducirlos a Canva.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para ello, simplemente le das a la opción de subir tu audio, y cuando cargue el archivo lo arrastras hasta la diapositiva y se crea la linea de tiempo con tu audio.",
+      "en": "To do this, you simply click on the option to upload your audio, and when the file loads, you drag it to the slide and the timeline with your audio is created.",
+      "es": "Para ello, simplemente le das a la opción de subir tu audio, y cuando cargue el archivo lo arrastras hasta la diapositiva y se crea la linea de tiempo con tu audio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ya es solo cuestión de ajustar voces, pero tranquilo, se que a estas alturas ya estamos cansados, asique un poco de ayuda no vendría mal.. y para ello tenemos a IA de Canva. Con clic derecho sobre el audio nos aparecen varias opciones de edición, tan solo tenemos que darle a sincronizar el ritmo, activar la casilla y listo! Fácil ¿no?",
+      "en": "It's just a matter of adjusting voices, but don't worry, I know we're tired at this point, so a little help wouldn't hurt... and for that we have Canva's AI. By right clicking on the audio, several editing options appear, we just have to click on synchronize the rhythm, activate the box and that's it! Easy right?",
+      "es": "Ya es solo cuestión de ajustar voces, pero tranquilo, se que a estas alturas ya estamos cansados, asique un poco de ayuda no vendría mal.. y para ello tenemos a IA de Canva. Con clic derecho sobre el audio nos aparecen varias opciones de edición, tan solo tenemos que darle a sincronizar el ritmo, activar la casilla y listo! Fácil ¿no?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sé que hemos recorrido un camino lleno de detalles y herramientas mágicas de IA. Pero, si eres de los que prefieren tener una visión panorámica antes de sumergirse en las profundidades, ¡tengo algo para ti! A continuación, te presento un esquema simplificado que resume los pasos esenciales para crear un cuento infantil con la ayuda de la inteligencia artificial:",
+      "en": "I know we have traveled a path full of details and magical AI tools. But, if you are one of those who prefer to have a panoramic view before diving into the depths, I have something for you! Below, I present a simplified diagram that summarizes the essential steps to create a children's story with the help of artificial intelligence:",
+      "es": "Sé que hemos recorrido un camino lleno de detalles y herramientas mágicas de IA. Pero, si eres de los que prefieren tener una visión panorámica antes de sumergirse en las profundidades, ¡tengo algo para ti! A continuación, te presento un esquema simplificado que resume los pasos esenciales para crear un cuento infantil con la ayuda de la inteligencia artificial:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡Por supuesto! Aquí te dejo un esquema simplificado de los pasos a seguir:",
+      "en": "Of course! Here is a simplified diagram of the steps to follow:",
+      "es": "¡Por supuesto! Aquí te dejo un esquema simplificado de los pasos a seguir:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "1º Conceptualización con ChatGPT",
+      "en": "1st Conceptualization with ChatGPT",
+      "es": "1º Conceptualización con ChatGPT",
+      "reviewed": false
+    },
+    {
+      "source": "Antes de nada define tu idea principal. Después contextualiza y pregunta a ChatGPT sobre la trama y personajes.",
+      "en": "First of all, define your main idea. Then contextualize and ask ChatGPT about the plot and characters.",
+      "es": "Antes de nada define tu idea principal. Después contextualiza y pregunta a ChatGPT sobre la trama y personajes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Haz clic aquí",
+      "en": "click here",
+      "es": "Haz clic aquí",
+      "reviewed": false
+    },
+    {
+      "source": "2º Detalla con ChatGPT",
+      "en": "2º Detail with ChatGPT",
+      "es": "2º Detalla con ChatGPT",
+      "reviewed": false
+    },
+    {
+      "source": "A llegado el momento de solicitar personajes, escenarios y diálogos a chatGPT. Termina refinando la trama y estructura del cuento.",
+      "en": "The time has come to request characters, settings and dialogues from chatGPT. Finish by refining the plot and structure of the story.",
+      "es": "A llegado el momento de solicitar personajes, escenarios y diálogos a chatGPT. Termina refinando la trama y estructura del cuento.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "3º Visualización con MidJourney",
+      "en": "3rd Visualization with MidJourney",
+      "es": "3º Visualización con MidJourney",
+      "reviewed": false
+    },
+    {
+      "source": "Usa MidJourney para buscar y seleccionar imágenes basadas en los prompts. ¡No elvides pedirle a chatGPT los prompts!",
+      "en": "Use MidJourney to search and select images based on prompts. Don't forget to ask chatGPT for prompts!",
+      "es": "Usa MidJourney para buscar y seleccionar imágenes basadas en los prompts. ¡No elvides pedirle a chatGPT los prompts!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "4º Diseño con Canva",
+      "en": "4th Design with Canva",
+      "es": "4º Diseño con Canva",
+      "reviewed": false
+    },
+    {
+      "source": "Primero escoge una una plantilla adecuada y añade las imágenes y el texto. ¡Personaliza con tipografías, colores y efectos.!",
+      "en": "First choose a suitable template and add the images and text. Customize with fonts, colors and effects!",
+      "es": "Primero escoge una una plantilla adecuada y añade las imágenes y el texto. ¡Personaliza con tipografías, colores y efectos.!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "5º Sonorización con Genny",
+      "en": "5th Sounding with Genny",
+      "es": "5º Sonorización con Genny",
+      "reviewed": false
+    },
+    {
+      "source": "Selecciona el tono y estilo de voz para cada personaje. Y después tan solo introduce el texto y Genny lo hará todo ¡Añade efectos sonoros si es necesario!",
+      "en": "Select the tone and style of voice for each character. And then just enter the text and Genny will do it all. Add sound effects if necessary!",
+      "es": "Selecciona el tono y estilo de voz para cada personaje. Y después tan solo introduce el texto y Genny lo hará todo ¡Añade efectos sonoros si es necesario!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡Publica y comparte!",
+      "en": "Publish and share!",
+      "es": "¡Publica y comparte!",
+      "reviewed": false
+    },
+    {
+      "source": "Una vez que tu cuento esté completo, ¡está listo para ser compartido con el mundo!.",
+      "en": "Once your story is complete, it's ready to be shared with the world!",
+      "es": "Una vez que tu cuento esté completo, ¡está listo para ser compartido con el mundo!.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hemos navegado juntos por un viaje que combina la magia de la narrativa con la precisión de la tecnología. A través de este proceso, hemos visto cómo la inteligencia artificial puede ser una aliada invaluable en la creación de contenido, transformando una simple idea en una historia vibrante y visualmente cautivadora.",
+      "en": "We have navigated together a journey that combines the magic of narrative with the precision of technology. Through this process, we have seen how artificial intelligence can be an invaluable ally in content creation, transforming a simple idea into a vibrant and visually captivating story.",
+      "es": "Hemos navegado juntos por un viaje que combina la magia de la narrativa con la precisión de la tecnología. A través de este proceso, hemos visto cómo la inteligencia artificial puede ser una aliada invaluable en la creación de contenido, transformando una simple idea en una historia vibrante y visualmente cautivadora.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El esquema que te presenté es una hoja de ruta, un camino que puedes seguir y adaptar según tus necesidades. Pero más allá de los pasos y las herramientas, lo que realmente importa es la pasión y la creatividad que aportas. La IA es solo una herramienta; el corazón de la historia siempre vendrá de ti.",
+      "en": "The scheme I presented to you is a roadmap, a path that you can follow and adapt according to your needs. But beyond the steps and tools, what really matters is the passion and creativity you bring. AI is just a tool; the heart of the story will always come from you.",
+      "es": "El esquema que te presenté es una hoja de ruta, un camino que puedes seguir y adaptar según tus necesidades. Pero más allá de los pasos y las herramientas, lo que realmente importa es la pasión y la creatividad que aportas. La IA es solo una herramienta; el corazón de la historia siempre vendrá de ti.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Así que, ya sea que estés buscando crear un cuento, una novela gráfica o cualquier otro proyecto creativo, recuerda que en esta era digital, las posibilidades son infinitas. ¡Así que adelante, da el salto, experimenta y deja que la IA te acompañe en tu próxima aventura creativa!",
+      "en": "So whether you're looking to create a short story, a graphic novel, or any other creative project, remember that in this digital age, the possibilities are endless. So go ahead, take the leap, experiment, and let AI be with you on your next creative adventure!",
+      "es": "Así que, ya sea que estés buscando crear un cuento, una novela gráfica o cualquier otro proyecto creativo, recuerda que en esta era digital, las posibilidades son infinitas. ¡Así que adelante, da el salto, experimenta y deja que la IA te acompañe en tu próxima aventura creativa!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡Anímate a probar estas herramientas y comparte tus resultados con nosotros!",
+      "en": "Dare to try these tools and share your results with us!",
+      "es": "¡Anímate a probar estas herramientas y comparte tus resultados con nosotros!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡Te recomendamos ver nuestro cuento finalizado y publicado en shorts de youtube!",
+      "en": "We recommend you see our finished story published in YouTube shorts!",
+      "es": "¡Te recomendamos ver nuestro cuento finalizado y publicado en shorts de youtube!",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para ayudarte en tu inspiración te dejamos ojeando nuestras publicaciones.",
+      "en": "To help you with your inspiration we leave you browsing our publications.",
+      "es": "Para ayudarte en tu inspiración te dejamos ojeando nuestras publicaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "9 junio, 2026 No hay comentarios",
+      "en": "June 9, 2026 No comments",
+      "es": "9 junio, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los eventos tech no tienen por qué tener lugar siempre dentro de una sala de conferencias. Durante cuatro días, PyCamp España 2026 llevó Python a plena naturaleza: un campamento donde programar, debatir, compartir proyectos, convivir y hacer comunidad formaron parte de una misma experiencia. En un entorno rural, la tecnología también se vivió alrededor de una mesa, una conversación y un paseo por el monte.",
+      "en": "Tech events don't always have to take place inside a conference room. For four days, PyCamp Spain 2026 took Python into the wild: a camp where programming, debating, sharing projects, living together and building a community were part of the same experience. In a rural environment, technology was also experienced around a table, a conversation and a walk through the mountains.",
+      "es": "Los eventos tech no tienen por qué tener lugar siempre dentro de una sala de conferencias. Durante cuatro días, PyCamp España 2026 llevó Python a plena naturaleza: un campamento donde programar, debatir, compartir proyectos, convivir y hacer comunidad formaron parte de una misma experiencia. En un entorno rural, la tecnología también se vivió alrededor de una mesa, una conversación y un paseo por el monte.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Leer más »",
+      "en": "Read more »",
+      "es": "Leer más »",
+      "reviewed": false
+    },
+    {
+      "source": "18 mayo, 2026 No hay comentarios",
+      "en": "May 18, 2026 No comments",
+      "es": "18 mayo, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "AgroClaw es un agente AgTech experimental aplicado al olivar que ha evolucionado hacia una memoria técnica visual-documental asistida por IA. A través de OpenClaw, una arquitectura por capas, skills especializadas, knowledge en Markdown y referencias visuales documentadas, el proyecto explora cómo recuperar conocimiento agrario, orientar diagnósticos y conservar experiencia de campo en una estructura reutilizable.",
+      "en": "AgroClaw is an experimental AgTech agent applied to olive groves that has evolved into a visual-documentary technical memory assisted by AI. Through OpenClaw, a layered architecture, specialized skills, knowledge in Markdown and documented visual references, the project explores how to recover agricultural knowledge, guide diagnoses and preserve field experience in a reusable structure.",
+      "es": "AgroClaw es un agente AgTech experimental aplicado al olivar que ha evolucionado hacia una memoria técnica visual-documental asistida por IA. A través de OpenClaw, una arquitectura por capas, skills especializadas, knowledge en Markdown y referencias visuales documentadas, el proyecto explora cómo recuperar conocimiento agrario, orientar diagnósticos y conservar experiencia de campo en una estructura reutilizable.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "15 abril, 2026 No hay comentarios",
+      "en": "April 15, 2026 No comments",
+      "es": "15 abril, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero",
+      "en": "It all started the way many Minecraft obsessions start: on a SkyBlock island, alone, with limited resources and a constant feeling that the real",
+      "es": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "2 abril, 2026 No hay comentarios",
+      "en": "April 2, 2026 No comments",
+      "es": "2 abril, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En una explotación agrícola, una decisión tan antigua como regar ya no depende solo del calendario, del tacto de la tierra o de mirar al cielo. En algunos campos, esa decisión empieza en una pantalla. Múltiples sensores captan datos relevantes para la explotación, y se toman decisiones potenciadas con IA, que van a llegar desde la tierra al plato.",
+      "en": "On an agricultural farm, a decision as old as watering no longer depends only on the calendar, the feel of the earth or looking at the sky. In some fields, that decision starts on a screen. Multiple sensors capture data relevant to exploitation, and AI-powered decisions are made, which will reach from the ground to the plate.",
+      "es": "En una explotación agrícola, una decisión tan antigua como regar ya no depende solo del calendario, del tacto de la tierra o de mirar al cielo. En algunos campos, esa decisión empieza en una pantalla. Múltiples sensores captan datos relevantes para la explotación, y se toman decisiones potenciadas con IA, que van a llegar desde la tierra al plato.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "18 marzo, 2026 No hay comentarios",
+      "en": "March 18, 2026 No comments",
+      "es": "18 marzo, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La web app de Energía en Acción nace para dar una estructura digital a un proyecto que ya existía y necesitaba un espacio propio para organizar mejor su funcionamiento. La plataforma conecta estudiantes, mentores y organizaciones en un mismo entorno, facilitando la exploración de proyectos, la participación, el seguimiento y la comunicación desde un solo lugar.",
+      "en": "The Energía en Acción web app was created to give a digital structure to a project that already existed and needed its own space to better organize its operation. The platform connects students, mentors and organizations in the same environment, facilitating project exploration, participation, monitoring and communication from a single place.",
+      "es": "La web app de Energía en Acción nace para dar una estructura digital a un proyecto que ya existía y necesitaba un espacio propio para organizar mejor su funcionamiento. La plataforma conecta estudiantes, mentores y organizaciones en un mismo entorno, facilitando la exploración de proyectos, la participación, el seguimiento y la comunicación desde un solo lugar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "foodcheck app with minimax2.1",
+      "en": "foodcheck app with minimax2.1",
+      "es": "foodcheck app with minimax2.1",
+      "reviewed": false
+    },
+    {
+      "source": "6 febrero, 2026 No hay comentarios",
+      "en": "February 6, 2026 No comments",
+      "es": "6 febrero, 2026 No hay comentarios",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Comparar dos IAs programando no consiste solo en ver quién escribe mejor código. En la práctica, la diferencia más relevante aparece en cómo entienden una",
+      "en": "Comparing two AIs programming is not just about seeing who writes better code. In practice, the most relevant difference appears in how they understand a",
+      "es": "Comparar dos IAs programando no consiste solo en ver quién escribe mejor código. En la práctica, la diferencia más relevante aparece en cómo entienden una",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Más de Inteligencia Artificial",
+      "en": "More about Artificial Intelligence",
+      "es": "Más de Inteligencia Artificial",
+      "reviewed": false
+    },
+    {
+      "source": "ia generativa",
+      "en": "generative AI",
+      "es": "ia generativa",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 31 oct 2023.",
+      "en": "A history of the Saturdays.AI community. Originally published on Oct 31, 2023.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 31 oct 2023.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

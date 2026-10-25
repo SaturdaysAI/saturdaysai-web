@@ -1,0 +1,38 @@
+{
+  "title": "Contact",
+  "route": "/contact/",
+  "segments": [
+    {
+      "source": "Contact",
+      "en": "Contact",
+      "es": "Contacto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Contact us at info@saturdays.ai",
+      "en": "Contact us at info@saturdays.ai",
+      "es": "Contáctenos a info@saturdays.ai",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Contact us at",
+      "en": "Contact us at",
+      "es": "Contacta con nosotros",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Contact the community team →",
+      "en": "Contact the community team →",
+      "es": "Contactar con el equipo comunitario →",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

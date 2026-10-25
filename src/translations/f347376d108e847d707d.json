@@ -1,0 +1,265 @@
+{
+  "title": "Machine Learning para predecir la severidad de siniestros viales.",
+  "route": "/2022/03/09/predecir-severidad-accidentes-trafico/",
+  "segments": [
+    {
+      "source": "Machine Learning para predecir la severidad de siniestros viales.",
+      "en": "Machine Learning to predict the severity of road accidents.",
+      "es": "Machine Learning para predecir la severidad de siniestros viales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Latam online. Segunda Edición. 2021 Los accidentes de tránsito constituyen una de las causas de fatalidad y gravedad más importantes en distintos lugares del mundo, a causa de esto es indispensable disponer de una manera de…",
+      "en": "Latin online. Second Edition. 2021 Traffic accidents are one of the most important causes of fatality and gravity in different parts of the world, because of this it is essential to have a way of...",
+      "es": "Latam online. Segunda Edición. 2021 Los accidentes de tránsito constituyen una de las causas de fatalidad y gravedad más importantes en distintos lugares del mundo, a causa de esto es indispensable disponer de una manera de…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SVM (Máquina de soporte vectorial)",
+      "en": "SVM (Vector support machine)",
+      "es": "SVM (Máquina de soporte vectorial)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regular Gradient Boosting",
+      "en": "Regular Gradient Boosting",
+      "es": "Boosting de gradiente regular",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Precisiones finales",
+      "en": "Final details",
+      "es": "Precisiones finales",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Presentación del proyecto: Demoday",
+      "en": "Project presentation: Demoday",
+      "es": "Presentación del proyecto: Demoday",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los accidentes de tránsito constituyen una de las causas de fatalidad y gravedad más importantes en distintos lugares del mundo, a causa de esto es indispensable disponer de una manera de reducirlos en la medida de lo posible a fin de evitar tragedias y pérdidas de vidas humanas dentro de un determinado territorio.",
+      "en": "Road accidents are one of the most important causes of fatality and gravity in different parts of the world, because of this it is essential to have a way of reducing them to the extent possible in order to avoid tragedies and loss of human life within a given territory.",
+      "es": "Los accidentes de tránsito constituyen una de las causas de fatalidad y gravedad más importantes en distintos lugares del mundo, a causa de esto es indispensable disponer de una manera de reducirlos en la medida de lo posible a fin de evitar tragedias y pérdidas de vidas humanas dentro de un determinado territorio.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La Organización Mundial de la Salud (OMS) señala que cada año fallecen más de 1,35 millones de personas en todo el mundo a causa de los siniestros de tránsito, es decir una muerte cada 25 segundos, lo que los convierte en la causa más frecuente de decesos entre las personas de 15 a 29 años y en la novena más común en la población general. Los países de ingresos bajos y medianos tienen la mayor carga y las tasas más altas de mortalidad por siniestros de tránsito.",
+      "en": "The World Health Organization (WHO) notes that more than 1.35 million people die every year from transit casualties, that is, one death every 25 seconds, making them the most frequent cause of deaths among people aged 15-29 and the ninth most common in the general population. Low and middle-income countries have the highest burden and the highest rates of mortality from transit casualties.",
+      "es": "La Organización Mundial de la Salud (OMS) señala que cada año fallecen más de 1,35 millones de personas en todo el mundo a causa de los siniestros de tránsito, es decir una muerte cada 25 segundos, lo que los convierte en la causa más frecuente de decesos entre las personas de 15 a 29 años y en la novena más común en la población general. Los países de ingresos bajos y medianos tienen la mayor carga y las tasas más altas de mortalidad por siniestros de tránsito.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los accidentes de tránsito en Ecuador tienen una ocurrencia bastante común, solo en la ciudad de Guayaquil entre el 2018 y el 2021 se registraron 17 671 accidentes con al menos un fallecido y 17 681 accidentes con al menos una persona lesionada de gravedad según fuentes oficiales de la Agencia de Tránsito y Movilidad (ATM); institución encargada de la seguridad vial en dicha ciudad.",
+      "en": "The traffic accidents in Ecuador have a fairly common occurrence, only in the city of Guayaquil between 2018 and 2021 there were 17 671 accidents with at least one deceased and 17 681 accidents with at least one seriously injured person according to official sources of the Transit and Mobility Agency (ATM); the institution responsible for road safety in that city.",
+      "es": "Los accidentes de tránsito en Ecuador tienen una ocurrencia bastante común, solo en la ciudad de Guayaquil entre el 2018 y el 2021 se registraron 17 671 accidentes con al menos un fallecido y 17 681 accidentes con al menos una persona lesionada de gravedad según fuentes oficiales de la Agencia de Tránsito y Movilidad (ATM); institución encargada de la seguridad vial en dicha ciudad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Se puede crear un sistema web que optimice los recursos de la agencia de tránsito y permita prevenir accidentes graves y/o fatales en la ciudad de Guayaquil?",
+      "en": "Can a web system be created that optimizes the resources of the transit agency and allows for the prevention of serious and / or fatal accidents in the city of Guayaquil?",
+      "es": "¿Se puede crear un sistema web que optimice los recursos de la agencia de tránsito y permita prevenir accidentes graves y/o fatales en la ciudad de Guayaquil?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se plantea como objetivo general implementar un modelo de Machine Learning para la estimación temprana de accidentes de tránsito graves o fatales mediante el análisis de datos previos relacionados a accidentes de tránsito en la ciudad de Guayaquil.",
+      "en": "The general objective is to implement a Machine Learning model for the early estimation of serious or fatal traffic accidents by analysing previous data related to traffic accidents in the city of Guayaquil.",
+      "es": "Se plantea como objetivo general implementar un modelo de Machine Learning para la estimación temprana de accidentes de tránsito graves o fatales mediante el análisis de datos previos relacionados a accidentes de tránsito en la ciudad de Guayaquil.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La fuente principal de información es el dataset estructurado de la ATM que incluye ciertas condiciones suscitadas durante un siniestro. Luego de un análisis exhaustivo de las diferentes variables obtenidas, se procedió a descartar algunas de ellas debido a que no tenían dependencia significante con los siniestros, esta selección fue basada en artículos científicos relacionados con el tema.",
+      "en": "The main source of information is the structured database of the ATM which includes certain conditions raised during a sinister. After a thorough analysis of the different variables obtained, some of them were discarded because they had no significant dependence on the sinister, this selection was based on scientific articles related to the subject.",
+      "es": "La fuente principal de información es el dataset estructurado de la ATM que incluye ciertas condiciones suscitadas durante un siniestro. Luego de un análisis exhaustivo de las diferentes variables obtenidas, se procedió a descartar algunas de ellas debido a que no tenían dependencia significante con los siniestros, esta selección fue basada en artículos científicos relacionados con el tema.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por motivos de privacidad de la ATM no podemos mostrar imágenes del dataset utilizado, sin embargo daremos información sobre las variables utilizadas:",
+      "en": "For reasons of ATM privacy we cannot show images of the used dataset, however we will provide information on the variables used:",
+      "es": "Por motivos de privacidad de la ATM no podemos mostrar imágenes del dataset utilizado, sin embargo daremos información sobre las variables utilizadas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La selección de los modelos parte de las siguientes dos consideraciones:",
+      "en": "The selection of models is based on the following two considerations:",
+      "es": "La selección de los modelos parte de las siguientes dos consideraciones:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los modelos a desarrollarse son:",
+      "en": "The models to be developed are:",
+      "es": "Los modelos a desarrollarse son:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SVM (Máquina de Soporte Vectorial)",
+      "en": "SVM (Vectorial Support Machine)",
+      "es": "SVM (Máquina de Soporte Vectorial)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las principales técnicas utilizadas para trabajar con el Dataset fueron la codificación de las variables categóricas a través del One-Hot-Encoding y la estandarización de las variables continuas.",
+      "en": "The main techniques used to work with the Dataset were the coding of categorical variables through the One-Hot-Encoding and the standardization of continuous variables.",
+      "es": "Las principales técnicas utilizadas para trabajar con el Dataset fueron la codificación de las variables categóricas a través del One-Hot-Encoding y la estandarización de las variables continuas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A continuación se muestran los resultados y precisión de los modelos SVM, Random Forest y Regular Gradient Boosting.",
+      "en": "The results and accuracy of the SVM, Random Forest and Regular Gradient Boosting models are shown below.",
+      "es": "A continuación se muestran los resultados y precisión de los modelos SVM, Random Forest y Regular Gradient Boosting.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El sistema se mostrará como una perfecta alternativa para la detección de accidentes graves y/o fatales, ya que permite visualizarlos durante cada hora en un mapa interactivo incrustado en una interfaz web.",
+      "en": "The system will be shown as a perfect alternative for the detection of serious and / or fatal accidents, as it allows them to be visualized for each hour on an interactive map embedded in a web interface.",
+      "es": "El sistema se mostrará como una perfecta alternativa para la detección de accidentes graves y/o fatales, ya que permite visualizarlos durante cada hora en un mapa interactivo incrustado en una interfaz web.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, los modelos utilizados se encuentran entre los mejores para poder realizar clasificaciones multiclase, lo cual era el meollo del problema desde el inicio del mismo.",
+      "en": "In addition, the models used are among the best to be able to perform multiclase classifications, which was at the heart of the problem from the beginning.",
+      "es": "Además, los modelos utilizados se encuentran entre los mejores para poder realizar clasificaciones multiclase, lo cual era el meollo del problema desde el inicio del mismo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El presente proyecto tiene la intención de ser llevado las siguientes agencias e instituciones:",
+      "en": "The following agencies and institutions are intended to be carried out:",
+      "es": "El presente proyecto tiene la intención de ser llevado las siguientes agencias e instituciones:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Agencia de Tránsito y Movilidad (ATM)",
+      "en": "Transit and Mobility Agency (ATM)",
+      "es": "Agencia de Tránsito y Movilidad (ATM)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Comisión de Tránsito del Ecuador (CTE)",
+      "en": "Ecuador Transit Commission (CTE)",
+      "es": "Comisión de Tránsito del Ecuador (CTE)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Agencias e instituciones destinadas al control del tránsito de los GAD y municipios que se encuentren en categoría A.",
+      "en": "Agencies and institutions for the transit control of the DGs and municipalities in category A.",
+      "es": "Agencias e instituciones destinadas al control del tránsito de los GAD y municipios que se encuentren en categoría A.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Miguel Angel Murillo Arteaga",
+      "en": "Miguel Angel Murillo Arteaga",
+      "es": "Miguel Angel Murillo Arteaga",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ing. Christopher Vaccaro (chris_94_",
+      "en": "Ing. Christopher Vaccaro (chris _ 94 _",
+      "es": "Ing. Christopher Vaccaro (chris_94_",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ing. Stefany Uguña (",
+      "en": "Ing. Stefan Uguña (",
+      "es": "Ing. Stefany Uguña (",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Grace Reyes (",
+      "en": "Grace Reyes (",
+      "es": "Grace Reyes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Wladimir Robles (",
+      "en": "Wladimir Robles (",
+      "es": "Wladimir Robles (",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si quieres aprender más inteligencia artificial, únete a nuestra comunidad en",
+      "en": "If you want to learn more artificial intelligence, join our community in",
+      "es": "Si quieres aprender más inteligencia artificial, únete a nuestra comunidad en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

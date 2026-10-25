@@ -12,11 +12,13 @@
     "precheck": "npm run assets",
     "prebuild": "npm run assets",
     "dev": "astro dev --host 127.0.0.1",
-    "build": "astro build",
+    "build": "astro build && node scripts/localize-build.mjs",
+    "translations:collect": "astro build && node scripts/collect-translations.mjs",
+    "translations:translate": "node scripts/translate-catalog.mjs",
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
     "test": "node --test tests/*.test.mjs",
-    "verify": "npm run check && npm test && npm run build && node scripts/verify-build.mjs && node scripts/verify-performance.mjs && node scripts/verify-social-cards.mjs",
+    "verify": "npm run check && npm test && npm run build && node scripts/verify-build.mjs && node scripts/verify-performance.mjs && node scripts/verify-social-cards.mjs && node scripts/verify-localization.mjs",
     "import:pilot": "node scripts/import-pilot.mjs"
   },
   "dependencies": {

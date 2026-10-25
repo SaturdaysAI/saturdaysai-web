@@ -21,7 +21,6 @@ From boosting your productivity to free your creativity, Generative AI only limi
 
 -   **When**: Always
 -   **Where**:  online
--   : **Free**
 
 [Start!](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course)
 

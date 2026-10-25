@@ -1,0 +1,471 @@
+{
+  "title": "De foto a información nutricional: creando una app basada en Inteligencia Artificial",
+  "route": "/2025/11/26/de-foto-a-informacion-nutricional-creando-una-app-basada-en-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "En este tutorial aprenderás a crear una app web que analiza fotos de comida usando IA con el modelo LLaVA 1.5 de Cloudflare Workers AI. Montarás un frontend estático en GitHub Pages, un Worker sin servidor como backend y…",
+      "en": "In this tutorial you will learn to create a web app that analyzes food photos using IA with the LLaVA 1.5 model by Cloudflare Workers AI. You will set up a static front in GitHub Pages, a Worker without server like backend and...",
+      "es": "En este tutorial aprenderás a crear una app web que analiza fotos de comida usando IA con el modelo LLaVA 1.5 de Cloudflare Workers AI. Montarás un frontend estático en GitHub Pages, un Worker sin servidor como backend y…",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "26 nov 2025",
+      "en": "Nov 26, 2025",
+      "es": "26 nov 2025",
+      "reviewed": false
+    },
+    {
+      "source": "Plato de comida con datos nutricionales",
+      "en": "Food plate with nutritional data",
+      "es": "Plato de comida con datos nutricionales",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La idea detrás de FoodCheck",
+      "en": "The idea behind FoodCheck",
+      "es": "La idea detrás de FoodCheck",
+      "reviewed": false
+    },
+    {
+      "source": "Herramientas",
+      "en": "Tools",
+      "es": "Herramientas",
+      "reviewed": false
+    },
+    {
+      "source": "Un frontend minimalista",
+      "en": "A minimalist frontend",
+      "es": "Un frontend minimalista",
+      "reviewed": false
+    },
+    {
+      "source": "Qué hay detrás de la foto (el pipeline real)",
+      "en": "What's behind the photo (the real pipeline)",
+      "es": "Qué hay detrás de la foto (el pipeline real)",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "1. Detección del alimento",
+      "en": "1. Food detection",
+      "es": "1. Detección del alimento",
+      "reviewed": false
+    },
+    {
+      "source": "2. Estimación de la porción",
+      "en": "2. Portion estimation",
+      "es": "2. Estimación de la porción",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "3. De nombres a nutrientes",
+      "en": "3. From names to nutrients",
+      "es": "3. De nombres a nutrientes",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "3. Visualización y registro local",
+      "en": "3. Viewing and local registration",
+      "es": "3. Visualización y registro local",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Desplegando en GitHub Pages y Cloudflare",
+      "en": "Deploying to GitHub Pages and Cloudflare",
+      "es": "Desplegando en GitHub Pages y Cloudflare",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Problemas reales y cómo los resolví",
+      "en": "Real problems and how I solved them",
+      "es": "Problemas reales y cómo los resolví",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Reflexión final",
+      "en": "Final reflection",
+      "es": "Reflexión final",
+      "reviewed": false
+    },
+    {
+      "source": "Registrar lo que comemos es útil, pero aburrido. Abrir una app, buscar “arroz”, comparar marcas, ajustar gramos… ¿Y si hiciéramos una foto y la IA reconociera el plato para darnos una estimación nutricional? Sin cuentas, sin subir nuestros datos a servidores misteriosos.",
+      "en": "Recording what we eat is useful, but boring. Open an app, search for “rice”, compare brands, adjust grams… What if we took a photo and the AI ​​recognized the dish to give us a nutritional estimate? Without accounts, without uploading our data to mysterious servers.",
+      "es": "Registrar lo que comemos es útil, pero aburrido. Abrir una app, buscar “arroz”, comparar marcas, ajustar gramos… ¿Y si hiciéramos una foto y la IA reconociera el plato para darnos una estimación nutricional? Sin cuentas, sin subir nuestros datos a servidores misteriosos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Así nace",
+      "en": "This is how it is born",
+      "es": "Así nace",
+      "reviewed": false
+    },
+    {
+      "source": "FoodCheck",
+      "en": "FoodCheck",
+      "es": "FoodCheck",
+      "reviewed": false
+    },
+    {
+      "source": ", una web app estática desplegada en GitHub Pages que detecta alimentos en fotos, estima porciones y calcula nutrientes usando",
+      "en": ", a static web app deployed on GitHub Pages that detects foods in photos, estimates portions, and calculates nutrients using",
+      "es": ", una web app estática desplegada en GitHub Pages que detecta alimentos en fotos, estima porciones y calcula nutrientes usando",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "OpenFoodFacts",
+      "en": "OpenFoodFacts",
+      "es": "OpenFoodFacts",
+      "reviewed": false
+    },
+    {
+      "source": ". La “magia” de visión no va en el navegador ni en un backend tradicional, sino que la delegamos a un Cloudflare Worker que usa Workers AI (modelo LLaVA).",
+      "en": ". The vision “magic” does not go into the browser or a traditional backend, but rather we delegate it to a Cloudflare Worker that uses Workers AI (LLaVA model).",
+      "es": ". La “magia” de visión no va en el navegador ni en un backend tradicional, sino que la delegamos a un Cloudflare Worker que usa Workers AI (modelo LLaVA).",
+      "reviewed": false
+    },
+    {
+      "source": "El usuario abre la app, selecciona si tiene alguna enfermedad y arrastra una foto de la comida que quiere analizar. La aplicación detecta entonces los alimentos, estima cantidades y muestra la información nutricional. Luego puede ajustar gramos, añadir nuevos alimentos y guardar la comida del día.",
+      "en": "The user opens the app, selects if they have a disease and drags a photo of the food they want to analyze. The application then detects the foods, estimates quantities and displays nutritional information. You can then adjust grams, add new foods, and save the day's food.",
+      "es": "El usuario abre la app, selecciona si tiene alguna enfermedad y arrastra una foto de la comida que quiere analizar. La aplicación detecta entonces los alimentos, estima cantidades y muestra la información nutricional. Luego puede ajustar gramos, añadir nuevos alimentos y guardar la comida del día.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Todo se almacena en local, sin servidores externos.",
+      "en": "Everything is stored locally, without external servers.",
+      "es": "Todo se almacena en local, sin servidores externos.",
+      "reviewed": false
+    },
+    {
+      "source": "Página principal de Foodcheck",
+      "en": "Foodcheck home page",
+      "es": "Página principal de Foodcheck",
+      "reviewed": false
+    },
+    {
+      "source": "HTML, Tailwind CSS y Javascript",
+      "en": "HTML, Tailwind CSS and Javascript",
+      "es": "HTML, Tailwind CSS y Javascript",
+      "reviewed": false
+    },
+    {
+      "source": "Google Fonts (Montserrat)",
+      "en": "Google Fonts (Montserrat)",
+      "es": "Google Fonts (Montserrat)",
+      "reviewed": false
+    },
+    {
+      "source": "OpenFoodFacts (API pública, sin API key)",
+      "en": "OpenFoodFacts (Public API, no API key)",
+      "es": "OpenFoodFacts (API pública, sin API key)",
+      "reviewed": false
+    },
+    {
+      "source": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
+      "en": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
+      "es": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
+      "en": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
+      "es": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cuando queremos prototipar una idea rápidamente, a menudo menos es más. En el caso de FoodCheck, el frontend puede ser tan simple como un único archivo index.html. No necesitas frameworks pesados ni configuraciones complejas para empezar a experimentar.",
+      "en": "When we want to prototype an idea quickly, less is often more. In the case of FoodCheck, the frontend can be as simple as a single index.html file. You don't need heavy frameworks or complex configurations to start experimenting.",
+      "es": "Cuando queremos prototipar una idea rápidamente, a menudo menos es más. En el caso de FoodCheck, el frontend puede ser tan simple como un único archivo index.html. No necesitas frameworks pesados ni configuraciones complejas para empezar a experimentar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para conseguir una interfaz simple pero funcional que permita al usuario subir una imagen y obtener resultados de análisis visual, usamos:",
+      "en": "To achieve a simple but functional interface that allows the user to upload an image and obtain visual analysis results, we use:",
+      "es": "Para conseguir una interfaz simple pero funcional que permita al usuario subir una imagen y obtener resultados de análisis visual, usamos:",
+      "reviewed": false
+    },
+    {
+      "source": "Tailwind CSS para estilos rápidos.",
+      "en": "Tailwind CSS for quick styling.",
+      "es": "Tailwind CSS para estilos rápidos.",
+      "reviewed": false
+    },
+    {
+      "source": "Montserrat, una fuente elegante que mejora la estética general.",
+      "en": "Montserrat, an elegant font that enhances the overall aesthetic.",
+      "es": "Montserrat, una fuente elegante que mejora la estética general.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Un pequeño script que gestiona el flujo de interacción con el backend (en este caso, un Worker de Cloudflare).",
+      "en": "A small script that manages the flow of interaction with the backend (in this case, a Cloudflare Worker).",
+      "es": "Un pequeño script que gestiona el flujo de interacción con el backend (en este caso, un Worker de Cloudflare).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como guía, esta podría ser la estructura de tu index.html:",
+      "en": "As a guide, this could be the structure of your index.html:",
+      "es": "Como guía, esta podría ser la estructura de tu index.html:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuando el usuario arrastra una foto al frontend de FoodCheck, el proceso real es el que es muestra en el siguiente diagrama:",
+      "en": "When the user drags a photo to the FoodCheck frontend, the actual process is shown in the following diagram:",
+      "es": "Cuando el usuario arrastra una foto al frontend de FoodCheck, el proceso real es el que es muestra en el siguiente diagrama:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pipeline de Foodcheck",
+      "en": "Foodcheck Pipeline",
+      "es": "Pipeline de Foodcheck",
+      "reviewed": false
+    },
+    {
+      "source": "El frontend obtiene la URL del Worker desde el bloque de configuración JSON que ya incluimos en el del index.html y que hace de puente entre el navegador y el backend en Cloudflare Workers.",
+      "en": "The frontend obtains the URL of the Worker from the JSON configuration block that we already included in the index.html and that acts as a bridge between the browser and the backend in Cloudflare Workers.",
+      "es": "El frontend obtiene la URL del Worker desde el bloque de configuración JSON que ya incluimos en el del index.html y que hace de puente entre el navegador y el backend en Cloudflare Workers.",
+      "reviewed": false
+    },
+    {
+      "source": "Cuando el usuario añade una imagen, la convertimos en Data URL con FileReader.readAsDataURL (formato data:image/…;base64,…):",
+      "en": "When the user adds an image, we convert it to Data URL with FileReader.readAsDataURL (format data:image/…;base64,…):",
+      "es": "Cuando el usuario añade una imagen, la convertimos en Data URL con FileReader.readAsDataURL (formato data:image/…;base64,…):",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Enviamos ese string como JSON al Worker mediante POST, junto con un prompt, y el Worker responde con un JSON que incluye las detecciones. Esas detecciones serán un JSON estructurado, ya que el Worker prepara previamente un prompt en español que le indica al modelo cómo responder, por ejemplo:",
+      "en": "We send that string as JSON to the Worker via POST, along with a prompt, and the Worker responds with a JSON that includes the detections. These detections will be a structured JSON, since the Worker previously prepares a prompt in Spanish that tells the model how to respond, for example:",
+      "es": "Enviamos ese string como JSON al Worker mediante POST, junto con un prompt, y el Worker responde con un JSON que incluye las detecciones. Esas detecciones serán un JSON estructurado, ya que el Worker prepara previamente un prompt en español que le indica al modelo cómo responder, por ejemplo:",
+      "reviewed": false
+    },
+    {
+      "source": "Así garantizamos que la respuesta sea estructurada, fácil de interpretar y lista para ser usada por el frontend.",
+      "en": "This way we guarantee that the response is structured, easy to interpret and ready to be used by the frontend.",
+      "es": "Así garantizamos que la respuesta sea estructurada, fácil de interpretar y lista para ser usada por el frontend.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A su vez, la llamada al modelo es directa:",
+      "en": "In turn, the call to the model is direct:",
+      "es": "A su vez, la llamada al modelo es directa:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y LLaVA devuelve texto en result.description, de donde hay que extraer el bloque JSON aplicando, por ejemplo:",
+      "en": "And LLaVA returns text in result.description, from which the JSON block must be extracted by applying, for example:",
+      "es": "Y LLaVA devuelve texto en result.description, de donde hay que extraer el bloque JSON aplicando, por ejemplo:",
+      "reviewed": false
+    },
+    {
+      "source": "El frontend recibe entonces la respuesta limpia con {detections»:[…]}.",
+      "en": "The frontend then receives the clean response with {detections»:[…]}.",
+      "es": "El frontend recibe entonces la respuesta limpia con {detections»:[…]}.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Antes de usar los resultados, se validan nombres y se normaliza la confianza (0–1). Si el modelo de visión no devuelve una cantidad de porción, se asigna un valor por defecto:",
+      "en": "Before using the results, names are validated and confidence is normalized (0–1). If the vision model does not return a slice quantity, a default value is assigned:",
+      "es": "Antes de usar los resultados, se validan nombres y se normaliza la confianza (0–1). Si el modelo de visión no devuelve una cantidad de porción, se asigna un valor por defecto:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Además, el usuario puede editar la cantidad y unidad (gramos, ml, pieza, taza) con conversiones predefinidas en el código (por ejemplo, 1 pieza ≈ 80 g, 1 taza ≈ 150 g):",
+      "en": "Additionally, the user can edit the quantity and unit (grams, ml, piece, cup) with predefined conversions in the code (e.g. 1 piece ≈ 80 g, 1 cup ≈ 150 g):",
+      "es": "Además, el usuario puede editar la cantidad y unidad (gramos, ml, pieza, taza) con conversiones predefinidas en el código (por ejemplo, 1 pieza ≈ 80 g, 1 taza ≈ 150 g):",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cada alimento detectado se consulta en OpenFoodFacts para saber su composición nutricional. Se busca por nombre y nos quedamos únicamente con productos que tienen información completa sobre sus nutrientes. Para evitar problemas de CORS y tener un único punto de control, la app no llama a OpenFoodFacts directamente, sino a nuestro Worker (Cloudflare).",
+      "en": "Each detected food is consulted in OpenFoodFacts to find out its nutritional composition. We search by name and we are only left with products that have complete information about their nutrients. To avoid CORS problems and have a single point of control, the app does not call OpenFoodFacts directly, but rather our Worker (Cloudflare).",
+      "es": "Cada alimento detectado se consulta en OpenFoodFacts para saber su composición nutricional. Se busca por nombre y nos quedamos únicamente con productos que tienen información completa sobre sus nutrientes. Para evitar problemas de CORS y tener un único punto de control, la app no llama a OpenFoodFacts directamente, sino a nuestro Worker (Cloudflare).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para llamar al Worker y hacer así las consultas, primero construimos una URL con parámetros de interés (texto que escribe el usuario, número de resultados…). Esta URL la llamamos a través del endpoint configurado en el (id foodcheck-config), reutilizando el mismo dominio del Worker de visión:",
+      "en": "To call the Worker and make the queries, we first build a URL with parameters of interest (text that the user writes, number of results...). We call this URL through the endpoint configured in (id foodcheck-config), reusing the same domain of the Vision Worker:",
+      "es": "Para llamar al Worker y hacer así las consultas, primero construimos una URL con parámetros de interés (texto que escribe el usuario, número de resultados…). Esta URL la llamamos a través del endpoint configurado en el (id foodcheck-config), reutilizando el mismo dominio del Worker de visión:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El Worker recibe así los parámetros de búsqueda y hace la petición servidor a servidor a OpenFoodFacts:",
+      "en": "The Worker thus receives the search parameters and makes the server-to-server request to OpenFoodFacts:",
+      "es": "El Worker recibe así los parámetros de búsqueda y hace la petición servidor a servidor a OpenFoodFacts:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La respuesta devuelta al navegador es un producto con nutrientes por 100 gramos. La app ajusta los valores nutricionales a la porción estimada previamente calculada siguiendo esta fórmula:",
+      "en": "The response returned to the browser is a product with nutrients per 100 grams. The app adjusts the nutritional values ​​to the estimated portion previously calculated following this formula:",
+      "es": "La respuesta devuelta al navegador es un producto con nutrientes por 100 gramos. La app ajusta los valores nutricionales a la porción estimada previamente calculada siguiendo esta fórmula:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los valores obtenidos en el paso anterior se muestran al usuario en un anillo de macronutrientes (kcal y % de energía) y en una tabla de nutrientes. Además, la interfaz muestra también la lista editable de alimentos detectados junto con su cantidad y un mensaje tipo “dietista virtual” con observaciones simples basadas en umbrales fijados:",
+      "en": "The values obtained in the previous step are shown to the user in a macronutrient ring (kcal and % energy) and in a nutrient table. In addition, the interface also shows the editable list of detected foods along with their quantity and a “virtual dietician” type message with simple observations based on set thresholds:",
+      "es": "Los valores obtenidos en el paso anterior se muestran al usuario en un anillo de macronutrientes (kcal y % de energía) y en una tabla de nutrientes. Además, la interfaz muestra también la lista editable de alimentos detectados junto con su cantidad y un mensaje tipo “dietista virtual” con observaciones simples basadas en umbrales fijados:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El usuario puede guardar cada comida. El registro diario suma automáticamente las comidas y muestra la información nutricional completa, y esto se logra mediante un guardado persistente de datos como el que mostramos aquí:",
+      "en": "User can save each meal. The daily log automatically adds up meals and displays full nutritional information, and this is achieved through persistent data saving like the one we show here:",
+      "es": "El usuario puede guardar cada comida. El registro diario suma automáticamente las comidas y muestra la información nutricional completa, y esto se logra mediante un guardado persistente de datos como el que mostramos aquí:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El despliegue es doble:",
+      "en": "The deployment is twofold:",
+      "es": "El despliegue es doble:",
+      "reviewed": false
+    },
+    {
+      "source": "Frontend: repositorio estático en GitHub Pages.",
+      "en": "Frontend: static repository on GitHub Pages.",
+      "es": "Frontend: repositorio estático en GitHub Pages.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Worker: publicado en Cloudflare con binding env.AI. La URL generada al desplegar es la que usamos en el bloque de Javascript del HTML.",
+      "en": "Worker: Published on Cloudflare with env.AI binding. The URL generated when deploying is the one we use in the Javascript block of the HTML.",
+      "es": "Worker: publicado en Cloudflare con binding env.AI. La URL generada al desplegar es la que usamos en el bloque de Javascript del HTML.",
+      "reviewed": false
+    },
+    {
+      "source": "Al principio, intenté conectar FoodCheck con OpenRouter para usar modelos de visión gratuitos. Sobre el papel sonaba bien, pero en la práctica no detectaba alimentos o devolvía respuestas vacías.",
+      "en": "At first, I tried to connect FoodCheck with OpenRouter to use free vision models. On paper it sounded good, but in practice it didn't detect food or returned empty responses.",
+      "es": "Al principio, intenté conectar FoodCheck con OpenRouter para usar modelos de visión gratuitos. Sobre el papel sonaba bien, pero en la práctica no detectaba alimentos o devolvía respuestas vacías.",
+      "reviewed": false
+    },
+    {
+      "source": "Fui intentando solucionar los principales problemas que surgían:",
+      "en": "I was trying to solve the main problems that arose:",
+      "es": "Fui intentando solucionar los principales problemas que surgían:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo no veía la imagen, así que hice que le llegaran mensajes multimodales (texto e imagen).",
+      "en": "The model did not see the image, so I made it receive multimodal messages (text and image).",
+      "es": "El modelo no veía la imagen, así que hice que le llegaran mensajes multimodales (texto e imagen).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Errores de CORS, por lo que creé un Worker como proxy para gestionarlo.",
+      "en": "CORS errors, so I created a Worker as proxy to manage it.",
+      "es": "Errores de CORS, por lo que creé un Worker como proxy para gestionarlo.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "JSON mal formado, teniendo que implementar un parseo defensivo en el frontend (limpiar el texto, extraer las llaves {} y reintentar JSON.parse()).",
+      "en": "Malformed JSON, having to implement defensive parsing on the frontend (clean up the text, extract the braces {} and retry JSON.parse()).",
+      "es": "JSON mal formado, teniendo que implementar un parseo defensivo en el frontend (limpiar el texto, extraer las llaves {} y reintentar JSON.parse()).",
+      "reviewed": false
+    },
+    {
+      "source": "Imágenes grandes o HEIC, así que las formateé a JPEG y limité su tamaño (ej.: .toDataURL(‘image/jpeg’, 0.85)).",
+      "en": "Large or HEIC images, so I formatted them to JPEG and limited their size (ex: .toDataURL('image/jpeg', 0.85)).",
+      "es": "Imágenes grandes o HEIC, así que las formateé a JPEG y limité su tamaño (ej.: .toDataURL(‘image/jpeg’, 0.85)).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A pesar de esos ajustes, el sistema seguía sin funcionar. El motivo probable es que los modelos gratuitos de baja prioridad quedaran en cola o expiraran sin respuesta si la red estaba saturada, especialmente sin cuenta de facturación asociada.",
+      "en": "Despite these adjustments, the system still did not work. The likely reason is that low-priority free models were queued or timed out without a response if the network was saturated, especially without an associated billing account.",
+      "es": "A pesar de esos ajustes, el sistema seguía sin funcionar. El motivo probable es que los modelos gratuitos de baja prioridad quedaran en cola o expiraran sin respuesta si la red estaba saturada, especialmente sin cuenta de facturación asociada.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Así que busqué otra alternativa que no implicara pagos ni registro sensible, y la encontré justo en Cloudflare Workers AI. Como ya tenía el proyecto desplegado en Workers, probé el modelo LLaVA de Workers AI y funcionó a la primera.",
+      "en": "So I looked for another alternative that didn't involve payments or sensitive registration, and I found it right in Cloudflare Workers AI. Since I already had the project deployed in Workers, I tried Workers AI's LLaVA model and it worked first time.",
+      "es": "Así que busqué otra alternativa que no implicara pagos ni registro sensible, y la encontré justo en Cloudflare Workers AI. Como ya tenía el proyecto desplegado en Workers, probé el modelo LLaVA de Workers AI y funcionó a la primera.",
+      "reviewed": false
+    },
+    {
+      "source": "Y es aquí donde Codex juega un papel importante. Lo utilicé como asistente para generar funciones, depurar errores y ajustar prompts. Fue un gran compañero de aprendizaje por su gran precisión y rapidez. Pero con él también aprendí una lección clave, y es que si no defines tú bien la arquitectura de la aplicación, la IA lo va a hacer por ti y es posible que no acierte.",
+      "en": "And this is where Codex plays an important role. I used it as a wizard to generate functions, debug errors and adjust prompts. He was a great learning partner due to his great precision and speed. But with it I also learned a key lesson, and that is that if you don't define the architecture of the application well, the AI ​​is going to do it for you and it may not get it right.",
+      "es": "Y es aquí donde Codex juega un papel importante. Lo utilicé como asistente para generar funciones, depurar errores y ajustar prompts. Fue un gran compañero de aprendizaje por su gran precisión y rapidez. Pero con él también aprendí una lección clave, y es que si no defines tú bien la arquitectura de la aplicación, la IA lo va a hacer por ti y es posible que no acierte.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En mi caso, necesitaba una app 100% estática para GitHub Pages y, aunque le di las condiciones exactas, en algún momento propuso crear un servidor Node o usar variables de entorno (.env), lo cual no es posible ahí.",
+      "en": "In my case, I needed a 100% static app for GitHub Pages and, although I gave him the exact conditions, at some point he proposed creating a Node server or using environment variables (.env), which is not possible there.",
+      "es": "En mi caso, necesitaba una app 100% estática para GitHub Pages y, aunque le di las condiciones exactas, en algún momento propuso crear un servidor Node o usar variables de entorno (.env), lo cual no es posible ahí.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ahí comprendí que la clave es decidir primero la arquitectura y mantener los prompts coherentes con esa decisión para así usar la IA dentro de ese marco. Por tanto, mejor utiliza la IA para acelerar el trabajo, no para que decida por ti.",
+      "en": "There I understood that the key is to first decide the architecture and keep the prompts consistent with that decision in order to use AI within that framework. Therefore, it is better to use AI to speed up the work, not to decide for you.",
+      "es": "Ahí comprendí que la clave es decidir primero la arquitectura y mantener los prompts coherentes con esa decisión para así usar la IA dentro de ese marco. Por tanto, mejor utiliza la IA para acelerar el trabajo, no para que decida por ti.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas útiles, privadas y educativas.",
+      "en": "FoodCheck is not intended to replace a dietitian, but it demonstrates something important: with a little code and well-used AI, we can create useful, private and educational tools.",
+      "es": "FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas útiles, privadas y educativas.",
+      "reviewed": false
+    },
+    {
+      "source": "Por tanto, el futuro de la IA aplicada a la salud quizás no esté en los grandes servidores, sino en las manos de los desarrolladores curiosos.",
+      "en": "Therefore, the future of AI applied to health may not lie in large servers, but in the hands of curious developers.",
+      "es": "Por tanto, el futuro de la IA aplicada a la salud quizás no esté en los grandes servidores, sino en las manos de los desarrolladores curiosos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "comida",
+      "en": "food",
+      "es": "comida",
+      "reviewed": false
+    },
+    {
+      "source": "vibe coding",
+      "en": "vibe coding",
+      "es": "vibe coding",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 nov 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on Nov 26, 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 nov 2025.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

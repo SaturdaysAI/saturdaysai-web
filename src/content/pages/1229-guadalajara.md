@@ -441,10 +441,6 @@ Responde el examen de evaluación
 
 Toma la entrevista con tu mentor asignado
 
-#### ¿Cuál es el ?
-
-**10****30** del 25%
-
 #### Sobre el examen
 
 Respóndelo cuando tengas el tiempo suficiente para realizarlo en su totalidad (duración estimada: 1 hora aproximadamente).

@@ -11,6 +11,7 @@ export function setupFilters({
   pageSize?: number;
 }) {
   const items = [...document.querySelectorAll<HTMLElement>(item)];
+  const spanish = document.documentElement.lang === 'es';
   const search = document.querySelector<HTMLInputElement>('[data-search-input]');
   const buttons = [...document.querySelectorAll<HTMLButtonElement>('[data-filter]')];
   const counter = document.querySelector('[data-result-count]');
@@ -46,11 +47,22 @@ export function setupFilters({
       episodes: 'episode',
       resources: 'resource',
     };
+    const esNouns: Record<string, [string, string]> = {
+      stories: ['historia', 'historias'],
+      communities: ['comunidad', 'comunidades'],
+      'learning paths': ['itinerario', 'itinerarios'],
+      projects: ['proyecto', 'proyectos'],
+      episodes: ['episodio', 'episodios'],
+      resources: ['recurso', 'recursos'],
+    };
     if (counter)
-      counter.textContent = `${matches.length} ${matches.length === 1 ? singular[noun] || noun : noun}${active ? ' found' : ' to explore'}.${more && matches.length > visible.size ? ` Showing ${visible.size}.` : ''}${suffix ? ` ${suffix}` : ''}`;
+      counter.textContent = spanish
+        ? `${matches.length} ${esNouns[noun]?.[matches.length === 1 ? 0 : 1] || noun}${active ? ' en los resultados' : ' para explorar'}.${more && matches.length > visible.size ? ` Mostrando ${visible.size}.` : ''}`
+        : `${matches.length} ${matches.length === 1 ? singular[noun] || noun : noun}${active ? ' found' : ' to explore'}.${more && matches.length > visible.size ? ` Showing ${visible.size}.` : ''}${suffix ? ` ${suffix}` : ''}`;
     if (more) {
       more.hidden = matches.length <= state.limit;
-      more.textContent = `Show ${Math.min(pageSize, Math.max(0, matches.length - state.limit))} more`;
+      const remaining = Math.min(pageSize, Math.max(0, matches.length - state.limit));
+      more.textContent = spanish ? `Ver ${remaining} más` : `Show ${remaining} more`;
     }
     if (empty) empty.hidden = matches.length > 0;
     document.querySelectorAll<HTMLElement>('[data-clear-filters]').forEach((el) => {

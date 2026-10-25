@@ -1,0 +1,20 @@
+{
+  "title": "Noticias",
+  "route": "/category/noticias/",
+  "segments": [
+    {
+      "source": "Noticias",
+      "en": "News",
+      "es": "Noticias",
+      "reviewed": false
+    },
+    {
+      "source": "Stories, projects and conversations from Saturdays.AI about Noticias.",
+      "en": "Stories, projects and conversations from Saturdays.AI about Noticias.",
+      "es": "Historias, proyectos y conversaciones de Saturdays.AI sobre Noticias.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

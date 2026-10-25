@@ -1,0 +1,442 @@
+{
+  "title": "Haz un Juego de Pokemon con Python, Google Colab y IA, paso a paso",
+  "route": "/2025/02/28/haz-un-juego-de-pokemon-con-python-google-colab-y-ia-paso-a-paso/",
+  "segments": [
+    {
+      "source": "Haz un Juego de Pokemon con Python, Google Colab y IA, paso a paso",
+      "en": "Make a Pokemon Game with Python, Google Colab and AI, step by step",
+      "es": "Haz un Juego de Pokemon con Python, Google Colab y IA, paso a paso",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "He creado un minijuego interactivo llamado Pokémon Quiz. La idea surge para combinar mi afición por los clásicos Pokémon con un poco de programación en Python, y lo he hecho todo en Google Colab. No es nada del otro mundo,…",
+      "en": "I've created an interactive mini-game called Pokémon Quiz. The idea arose to combine my love for the classic Pokémon with a bit of Python programming, and I have done it all in Google Colab. It's nothing out of this world...",
+      "es": "He creado un minijuego interactivo llamado Pokémon Quiz. La idea surge para combinar mi afición por los clásicos Pokémon con un poco de programación en Python, y lo he hecho todo en Google Colab. No es nada del otro mundo,…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "28 feb 2025",
+      "en": "Feb 28, 2025",
+      "es": "28 feb 2025",
+      "reviewed": false
+    },
+    {
+      "source": "Create your own videogame",
+      "en": "Create your own videogame",
+      "es": "Create your own videogame",
+      "reviewed": false
+    },
+    {
+      "source": "🔧 Herramientas Utilizadas",
+      "en": "🔧 Tools Used",
+      "es": "🔧 Herramientas Utilizadas",
+      "reviewed": false
+    },
+    {
+      "source": "🎨Diseño y Estilo visual",
+      "en": "🎨Design and visual style",
+      "es": "🎨Diseño y Estilo visual",
+      "reviewed": false
+    },
+    {
+      "source": "🏗️ ¿Cómo Lo Hice?",
+      "en": "🏗️ How did I do it?",
+      "es": "🏗️ ¿Cómo Lo Hice?",
+      "reviewed": false
+    },
+    {
+      "source": "🎯 Conclusión",
+      "en": "🎯 Conclusion",
+      "es": "🎯 Conclusión",
+      "reviewed": false
+    },
+    {
+      "source": "🚀¡Pruébalo tú mismo!",
+      "en": "🚀Try it yourself!",
+      "es": "🚀¡Pruébalo tú mismo!",
+      "reviewed": false
+    },
+    {
+      "source": "He creado un minijuego interactivo llamado",
+      "en": "I have created an interactive minigame called",
+      "es": "He creado un minijuego interactivo llamado",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pokémon Quiz",
+      "en": "Pokémon Quiz",
+      "es": "Pokémon Quiz",
+      "reviewed": false
+    },
+    {
+      "source": ". La idea surge para combinar mi afición por los clásicos Pokémon con un poco de programación en",
+      "en": ". The idea arose to combine my love for classic Pokémon with a bit of programming in",
+      "es": ". La idea surge para combinar mi afición por los clásicos Pokémon con un poco de programación en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", y lo he hecho todo en",
+      "en": ", and I have done it all in",
+      "es": ", y lo he hecho todo en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ". No es nada del otro mundo, pero es una excelente oportunidad para experimentar y aprender. Además, contar con la ayuda de",
+      "en": ". It's nothing special, but it's an excellent opportunity to experiment and learn. Furthermore, having the help of",
+      "es": ". No es nada del otro mundo, pero es una excelente oportunidad para experimentar y aprender. Además, contar con la ayuda de",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "facilita la organización de ideas y la estructuración del código, permitiéndome concentrarme en lo divertido.",
+      "en": "It makes it easy to organize ideas and structure code, allowing me to focus on the fun.",
+      "es": "facilita la organización de ideas y la estructuración del código, permitiéndome concentrarme en lo divertido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para armar Pokémon Quiz, me apoyé en varias herramientas y bibliotecas que me ayudaron a que todo funcionara:",
+      "en": "To put together Pokémon Quiz, I relied on several tools and libraries that helped me make everything work:",
+      "es": "Para armar Pokémon Quiz, me apoyé en varias herramientas y bibliotecas que me ayudaron a que todo funcionara:",
+      "reviewed": false
+    },
+    {
+      "source": "Python🐍:",
+      "en": "Python🐍:",
+      "es": "Python🐍:",
+      "reviewed": false
+    },
+    {
+      "source": "El lenguaje de programación que utilicé para escribir el código del juego.",
+      "en": "The programming language I used to write the game code.",
+      "es": "El lenguaje de programación que utilicé para escribir el código del juego.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Google Colab💻:",
+      "en": "Google Colab💻:",
+      "es": "Google Colab💻:",
+      "reviewed": false
+    },
+    {
+      "source": "El entorno en línea donde probé y compartí mi cuaderno interactivo.",
+      "en": "The online environment where I tested and shared my interactive notebook.",
+      "es": "El entorno en línea donde probé y compartí mi cuaderno interactivo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "ipywidgets🎛️:",
+      "en": "ipywidgets🎛️:",
+      "es": "ipywidgets🎛️:",
+      "reviewed": false
+    },
+    {
+      "source": "Estos widgets hicieron posible crear una interfaz gráfica sencilla y divertida.",
+      "en": "These widgets made it possible to create a simple and fun graphical interface.",
+      "es": "Estos widgets hicieron posible crear una interfaz gráfica sencilla y divertida.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Matplotlib📊:",
+      "en": "Matplotlib📊:",
+      "es": "Matplotlib📊:",
+      "reviewed": false
+    },
+    {
+      "source": "Me permitió mostrar imágenes y gráficos, como la silueta de los Pokémon.",
+      "en": "It allowed me to show images and graphics, such as the silhouette of Pokémon.",
+      "es": "Me permitió mostrar imágenes y gráficos, como la silueta de los Pokémon.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pillow (PIL)🖼️:",
+      "en": "Pillow (PIL)🖼️:",
+      "es": "Pillow (PIL)🖼️:",
+      "reviewed": false
+    },
+    {
+      "source": "Con esta biblioteca, pude procesar las imágenes, descargarlas y generar las famosas siluetas.",
+      "en": "With this library, I was able to process the images, download them and generate the famous silhouettes.",
+      "es": "Con esta biblioteca, pude procesar las imágenes, descargarlas y generar las famosas siluetas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "PokeAPI🔗:",
+      "en": "PokeAPI🔗:",
+      "es": "PokeAPI🔗:",
+      "reviewed": false
+    },
+    {
+      "source": "La fuente de los sprites oficiales de Pokémon, para que el juego tuviera ese toque auténtico.",
+      "en": "The source of the official Pokémon sprites, so that the game had that authentic touch.",
+      "es": "La fuente de los sprites oficiales de Pokémon, para que el juego tuviera ese toque auténtico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Quería que el juego no solo funcionara bien, sino que también se sintiera auténtico y evocador de esos viejos tiempos. Por eso, me decidí por:",
+      "en": "I wanted the game to not only work well, but also feel authentic and reminiscent of those old days. Therefore, I decided on:",
+      "es": "Quería que el juego no solo funcionara bien, sino que también se sintiera auténtico y evocador de esos viejos tiempos. Por eso, me decidí por:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tipografía Retro:",
+      "en": "Retro Typography:",
+      "es": "Tipografía Retro:",
+      "reviewed": false
+    },
+    {
+      "source": "Usé la fuente",
+      "en": "I used the source",
+      "es": "Usé la fuente",
+      "reviewed": false
+    },
+    {
+      "source": "Press Start 2P",
+      "en": "Press Start 2P",
+      "es": "Press Start 2P",
+      "reviewed": false
+    },
+    {
+      "source": "de Google Fonts, perfecta para darle ese aire clásico.",
+      "en": "from Google Fonts, perfect to give it that classic look.",
+      "es": "de Google Fonts, perfecta para darle ese aire clásico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Fondos y Colores:",
+      "en": "Backgrounds and Colors:",
+      "es": "Fondos y Colores:",
+      "reviewed": false
+    },
+    {
+      "source": "Elegí un fondo degradado en tonos amarillos y azules, muy en la onda de Pokémon, y añadí contenedores semitransparentes para que los elementos destacaran.",
+      "en": "I chose a gradient background in yellow and blue tones, very much in the style of Pokémon, and added semi-transparent containers so that the elements stood out.",
+      "es": "Elegí un fondo degradado en tonos amarillos y azules, muy en la onda de Pokémon, y añadí contenedores semitransparentes para que los elementos destacaran.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Interfaz Amigable:",
+      "en": "Friendly Interface:",
+      "es": "Interfaz Amigable:",
+      "reviewed": false
+    },
+    {
+      "source": "Desde la pantalla de inicio con el botón “PLAY” hasta la selección de la generación de Pokémon, cada parte fue diseñada para que el usuario se sienta cómodo y, sobre todo, se divierta.",
+      "en": "From the home screen with the “PLAY” button to the selection of the Pokémon generation, each part was designed to make the user feel comfortable and, above all, have fun.",
+      "es": "Desde la pantalla de inicio con el botón “PLAY” hasta la selección de la generación de Pokémon, cada parte fue diseñada para que el usuario se sienta cómodo y, sobre todo, se divierta.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El proceso de desarrollo se fue armando paso a paso, y aquí te lo cuento de forma sencilla:",
+      "en": "The development process was put together step by step, and here I will tell you about it in a simple way:",
+      "es": "El proceso de desarrollo se fue armando paso a paso, y aquí te lo cuento de forma sencilla:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Organización del Proyecto:",
+      "en": "Project Organization:",
+      "es": "Organización del Proyecto:",
+      "reviewed": false
+    },
+    {
+      "source": "Empecé creando un cuaderno en Google Colab, donde separé el código en secciones: una para importar las bibliotecas, otra para definir los estilos CSS, y otras para las funciones y la lógica principal del juego. Esto me ayudó a mantener todo ordenado.",
+      "en": "I started by creating a notebook in Google Colab, where I separated the code into sections: one to import the libraries, another to define the CSS styles, and others for the functions and main logic of the game. This helped me keep everything organized.",
+      "es": "Empecé creando un cuaderno en Google Colab, donde separé el código en secciones: una para importar las bibliotecas, otra para definir los estilos CSS, y otras para las funciones y la lógica principal del juego. Esto me ayudó a mantener todo ordenado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Preparación de Funciones y Datos:",
+      "en": "Preparation of Functions and Data:",
+      "es": "Preparación de Funciones y Datos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Desarrollé funciones para descargar imágenes, convertirlas al formato adecuado para los widgets y generar las siluetas de los Pokémon. También definí diccionarios con las URLs de sprites de las diferentes generaciones (Gen 1 a Gen 5), lo que hizo que agregar nuevos Pokémon fuera muy sencillo.",
+      "en": "I developed functions to download images, convert them to the appropriate format for the widgets and generate the silhouettes of the Pokémon. I also defined dictionaries with the sprite URLs of the different generations (Gen 1 to Gen 5), which made adding new Pokémon very easy.",
+      "es": "Desarrollé funciones para descargar imágenes, convertirlas al formato adecuado para los widgets y generar las siluetas de los Pokémon. También definí diccionarios con las URLs de sprites de las diferentes generaciones (Gen 1 a Gen 5), lo que hizo que agregar nuevos Pokémon fuera muy sencillo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Creación de la Interfaz:",
+      "en": "Creation of the Interface:",
+      "es": "Creación de la Interfaz:",
+      "reviewed": false
+    },
+    {
+      "source": "Utilicé ipywidgets para montar cada pantalla del juego:",
+      "en": "I used ipywidgets to assemble each screen of the game:",
+      "es": "Utilicé ipywidgets para montar cada pantalla del juego:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una",
+      "en": "one",
+      "es": "Una",
+      "reviewed": false
+    },
+    {
+      "source": "pantalla splash",
+      "en": "splash screen",
+      "es": "pantalla splash",
+      "reviewed": false
+    },
+    {
+      "source": "con el título y un botón “PLAY”.",
+      "en": "with the title and a “PLAY” button.",
+      "es": "con el título y un botón “PLAY”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "pantalla de selección de generación",
+      "en": "generation selection screen",
+      "es": "pantalla de selección de generación",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "para elegir el grupo de Pokémon.",
+      "en": "to choose the group of Pokémon.",
+      "es": "para elegir el grupo de Pokémon.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "pantalla del juego",
+      "en": "game screen",
+      "es": "pantalla del juego",
+      "reviewed": false
+    },
+    {
+      "source": ", donde se muestra la silueta y se ofrecen opciones de respuesta.",
+      "en": ", where the silhouette is shown and response options are offered.",
+      "es": ", donde se muestra la silueta y se ofrecen opciones de respuesta.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y una",
+      "en": "and one",
+      "es": "Y una",
+      "reviewed": false
+    },
+    {
+      "source": "pantalla de resumen",
+      "en": "summary screen",
+      "es": "pantalla de resumen",
+      "reviewed": false
+    },
+    {
+      "source": "que muestra tu puntaje y detalles de cada ronda.",
+      "en": "which shows your score and details of each round.",
+      "es": "que muestra tu puntaje y detalles de cada ronda.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ajustes y Pruebas:",
+      "en": "Adjustments and Tests:",
+      "es": "Ajustes y Pruebas:",
+      "reviewed": false
+    },
+    {
+      "source": "No todo salió perfecto a la primera. Hubo momentos en que los botones no se comportaban como esperaba o las opciones no se actualizaban bien. Con varias pruebas en Colab y algunos consejos de ChatGPT, fui afinando cada detalle para que la experiencia fuera lo más fluida posible.",
+      "en": "Not everything went perfectly the first time. There were times when buttons didn't behave as I expected or options didn't update well. With several tests in Colab and some advice from ChatGPT, I fine-tuned every detail to make the experience as fluid as possible.",
+      "es": "No todo salió perfecto a la primera. Hubo momentos en que los botones no se comportaban como esperaba o las opciones no se actualizaban bien. Con varias pruebas en Colab y algunos consejos de ChatGPT, fui afinando cada detalle para que la experiencia fuera lo más fluida posible.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ejemplo de Prompt a ChatGPT:",
+      "en": "Prompt to ChatGPT example:",
+      "es": "Ejemplo de Prompt a ChatGPT:",
+      "reviewed": false
+    },
+    {
+      "source": "Como resultado,",
+      "en": "As a result,",
+      "es": "Como resultado,",
+      "reviewed": false
+    },
+    {
+      "source": "me devolvió este código donde se crean para que el juego se vea como se muestran en las capturas anteriores asegurando un estilo coherente y atractivo:",
+      "en": "He returned me this code where they are created so that the game looks as shown in the previous screenshots ensuring a coherent and attractive style:",
+      "es": "me devolvió este código donde se crean para que el juego se vea como se muestran en las capturas anteriores asegurando un estilo coherente y atractivo:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "display(HTML('''",
+      "en": "display(HTML('''",
+      "es": "display(HTML('''",
+      "reviewed": false
+    },
+    {
+      "source": "Pokémon Quiz es el resultado de poner en práctica ideas y herramientas que, aunque sencillas, se combinaron para crear algo entretenido y nostálgico. No se trata solo de código, sino de disfrutar el proceso, aprender de los errores y experimentar con la creatividad.",
+      "en": "Pokémon Quiz is the result of putting into practice ideas and tools that, although simple, were combined to create something entertaining and nostalgic. It's not just about code, it's about enjoying the process, learning from mistakes, and experimenting with creativity.",
+      "es": "Pokémon Quiz es el resultado de poner en práctica ideas y herramientas que, aunque sencillas, se combinaron para crear algo entretenido y nostálgico. No se trata solo de código, sino de disfrutar el proceso, aprender de los errores y experimentar con la creatividad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si te animas a darle un vistazo o incluso a probar y modificar el código, ¡adelante! Cada cambio es una oportunidad para aprender y divertirse.",
+      "en": "If you feel like taking a look or even trying and modifying the code, go ahead! Every change is an opportunity to learn and have fun.",
+      "es": "Si te animas a darle un vistazo o incluso a probar y modificar el código, ¡adelante! Cada cambio es una oportunidad para aprender y divertirse.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿Te gustaría experimentar con el código?",
+      "en": "Would you like to experiment with the code?",
+      "es": "¿Te gustaría experimentar con el código?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "👉Haz clic",
+      "en": "👉Click",
+      "es": "👉Haz clic",
+      "reviewed": false
+    },
+    {
+      "source": "para abrir el cuaderno en",
+      "en": "to open the notebook in",
+      "es": "para abrir el cuaderno en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "y probar el juego",
+      "en": "and try the game",
+      "es": "y probar el juego",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 feb 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on February 28, 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 feb 2025.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

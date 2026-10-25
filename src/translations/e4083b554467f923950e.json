@@ -1,0 +1,1657 @@
+{
+  "title": "Construí una app de Barranquismo sin escribir código: mi experiencia creando una PWA con IA",
+  "route": "/2025/10/28/construi-una-app-completa-sin-escribir-codigo-mi-experiencia-creando-una-pwa-de-barranquismo-con-ia/",
+  "segments": [
+    {
+      "source": "Descubre paso a paso cómo desarrollé la webapp de Barranquismo que no encontraba, con ChatGPT, Codex e IA. Código, guía, ejemplos y consejos de este aprendizaje para que tú lo puedas aplicar.",
+      "en": "Find out step by step how I developed the Barranquismo webapp that I did not find, with ChatGPT, Codex and IA. Code, guide, examples and tips of this learning for you to apply.",
+      "es": "Descubre paso a paso cómo desarrollé la webapp de Barranquismo que no encontraba, con ChatGPT, Codex e IA. Código, guía, ejemplos y consejos de este aprendizaje para que tú lo puedas aplicar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "28 oct 2025",
+      "en": "28 oct 2025",
+      "es": "28 oct 2025",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 1. Planificación y elección del stack",
+      "en": "Phase 1. Planning and choice of track",
+      "es": "Fase 1. Planificación y elección del stack",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 2. Inicialización del proyecto en Visual Studio Code",
+      "en": "Phase 2. Project initialization in Visual Studio Code",
+      "es": "Fase 2. Inicialización del proyecto en Visual Studio Code",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 3. Diseño de la estructura base",
+      "en": "Phase 3. Design of the base structure",
+      "es": "Fase 3. Diseño de la estructura base",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 4. Subir la app a GitHub Pages",
+      "en": "Phase 4. Up to GitHub Pages",
+      "es": "Fase 4. Subir la app a GitHub Pages",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 5 : Recopilación de datos e importar a JSON",
+      "en": "Phase 5: Data collection and import to JSON",
+      "es": "Fase 5 : Recopilación de datos e importar a JSON",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 6. Normalización de datos con IA",
+      "en": "Phase 6. Standardization of data with IA",
+      "es": "Fase 6. Normalización de datos con IA",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 7. Creación de la interfaz React",
+      "en": "Phase 7. Creation of the React interface",
+      "es": "Fase 7. Creación de la interfaz React",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 8. Añadir La «memoria» offline",
+      "en": "Phase 8. Add \"memory\" offline",
+      "es": "Fase 8. Añadir La «memoria» offline",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
+      "en": "Phase 9. UX / IU design improvement with ChatGPT",
+      "es": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase 10. Despliegue final y pruebas",
+      "en": "Phase 10. Final deployment and testing",
+      "es": "Fase 10. Despliegue final y pruebas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Conclusiones y aprendizajes",
+      "en": "Conclusions and lessons learned",
+      "es": "Conclusiones y aprendizajes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Recursos y enlaces",
+      "en": "Resources and links",
+      "es": "Recursos y enlaces",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sobre el autor",
+      "en": "The author",
+      "es": "Sobre el autor",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como muchos amantes de la montaña, me gustaría la posibilidad de tener una página minimalista, donde encontrar la información de los barrancos de manera sencilla y que me permitiera consultar la los tracks cuando no tuviera cobertura en lugar de saltar entre diez webs para encontrar información fiable de un barranco, además,",
+      "en": "Like many mountain lovers, I would like the possibility of having a minimalist page, where to find the information of the rails in a simple way and that would allow me to consult the tracks when I had no coverage rather than jumping between ten websites to find reliable information of a ravine, in addition,",
+      "es": "Como muchos amantes de la montaña, me gustaría la posibilidad de tener una página minimalista, donde encontrar la información de los barrancos de manera sencilla y que me permitiera consultar la los tracks cuando no tuviera cobertura en lugar de saltar entre diez webs para encontrar información fiable de un barranco, además,",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Wikiloc",
+      "en": "Wikiloc",
+      "es": "Wikiloc",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "me daba el GPS,",
+      "en": "the GPS gave me,",
+      "es": "me daba el GPS,",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": "Descente-Canyon",
+      "en": "Descente-Canyon",
+      "es": "Descente-Canyon",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "los datos técnicos, pero nada estaba unificado y, sobre todo, nada funcionaba bien sin cobertura en mitad de la nada.",
+      "en": "the technical data, but nothing was unified and, above all, nothing worked well without coverage in the middle of nowhere.",
+      "es": "los datos técnicos, pero nada estaba unificado y, sobre todo, nada funcionaba bien sin cobertura en mitad de la nada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
+      "en": "So I decided to build it myself, here's the link to the result:",
+      "es": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
+      "en": "I wanted a simple web: filters, maps and that works 100% offline. But this time, I decided not to do it alone. And not only that, but I wouldn't write a code line. So I looked for two partners to do it for me:",
+      "es": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", como consultor técnico y de UX.",
+      "en": "as a technical consultant and UX.",
+      "es": ", como consultor técnico y de UX.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(integrado en",
+      "en": "(integrated into",
+      "es": "(integrado en",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "), como programador ejecutor.",
+      "en": "), as a running programmer.",
+      "es": "), como programador eyecutor.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
+      "en": "My goal: to show that, with good planning and precise prompts, a single person can build a functional application, from scratch, using only IA.",
+      "es": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
+      "en": "Before writing a code line, I needed a solid plan. My first interaction was with ChatGPT, to define technological architecture.",
+      "es": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt clave a ChatGPT:",
+      "en": "Prompt clave a ChatGPT:",
+      "es": "Prompt clave a ChatGPT:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La IA recomendó Vite + React por su rapidez y facilidad para configurar Service Workers, esenciales para el modo offline. Con eso, ya tenía la brújula técnica del proyecto.",
+      "en": "The IA recommended Vite + React for its speed and ease to configure Service Workers, essential for offline mode. With that, it already had the technical compass of the project.",
+      "es": "La IA recomendó Vite + React por su rapidez y facilidad para configurar Service Workers, esenciales para el modo offline. Con eso, ya tenía la brújula técnica del proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Abrí una nueva carpeta (",
+      "en": "I opened a new folder (",
+      "es": "Abrí una nueva carpeta (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
+      "en": ") and, from Visual Studio Code, I launched Codex in agent mode. I selected the IA GPT-5 Codex Preview and asked you to start the project step by step. By introducing the prompt that ChatGPT had provided me by modifying the format a little bit so that it adapted to my needs, incorporating stops and that there would be feedback during the process.",
+      "es": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El siguiente paso fue definir la estructura de navegación antes de cargar datos o diseñar la interfaz.",
+      "en": "The next step was to define the navigation structure before loading data or designing the interface.",
+      "es": "El siguiente paso fue definir la estructura de navegación antes de cargar datos o diseñar la interfaz.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt de ChatGPT a Codex:",
+      "en": "Prompt de ChatGPT a Codex:",
+      "es": "Prompt de ChatGPT a Codex:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
+      "en": "We will develop a PWA-type static app with fact sheets for each ravine, necessary material and external links (Wikiloc for approach and return). I want you to help me step by step with this structured workflow:",
+      "es": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
+      "en": "It lands the idea (concept): it defines the purpose, the key functionalities, and the technological stop (React + Vite or pure JS).",
+      "es": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
+      "en": "It plans the architecture: folder structure, localStorage instead of database, without authentication, all -side clientele, suitable for deployment in GitHub Pages.",
+      "es": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
+      "en": "Build the project: create the base code with documentation in comments and guide me phase by phase (structure, main page, chips, map, local persistence, filters, design, PWA).",
+      "es": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
+      "en": "Document the process: each step should include brief explanations, code commented, and notes to be able to then write an article / tutorial.",
+      "es": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
+      "en": "Predeployment: shows how to configure vite.config.ts or index.html for GitHub Pages.Conditions:",
+      "es": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Toda la persistencia debe hacerse con localStorage.",
+      "en": "All persistence must be done with localStorage.",
+      "es": "Toda la persistencia debe hacerse con localStorage.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No usar ningún backend ni login.",
+      "en": "Do not use any backend or login.",
+      "es": "No usar ningún backend ni login.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Código modular, limpio y comentado.",
+      "en": "Modular code, clean and commented.",
+      "es": "Código modular, limpio y comentado.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Usa inglés en el código, pero español en las explicaciones.",
+      "en": "He uses English in the code, but Spanish in the explanations.",
+      "es": "Usa inglés en el código, pero español en las explicaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pide validación antes de avanzar a cada fase.",
+      "en": "It calls for validation before moving on to each phase.",
+      "es": "Pide validación antes de avanzar a cada fase.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
+      "en": "The app must be responsive and light. Start with phase 1 (concept) and wait for me before you move to the next phase. When I say 'follow', you move on to the next.",
+      "es": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
+      "en": "Generates the React component structure (per folder) and the code to manage this 5-tab navigation and the nested detail route \"",
+      "es": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
+      "en": "He then asked me a number of questions about what he had understood (codex) to follow, the execution:",
+      "es": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
+      "en": "In each of the answers I was giving, I consulted ChatGPT if Codex was doing it correctly, if so, he continued with the execution:",
+      "es": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
+      "en": "The result was a modular skeleton of components with routes, pages and a professional folder structure. Codex was responsible for creating the initial files, dependencies and project configuration automatically.",
+      "es": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
+      "en": "Now yes, Codex started working, generating folders and files, during the process he goes asking if you want to run some system and debugging instructions, to which you tell him if to make the modifications he has to do.",
+      "es": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
+      "en": "After a few minutes, Codex generated the entire structure of folders, dependencies and scripts.",
+      "es": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
+      "en": "The best of all is that the project compiled without any compilation or execution error, simply amazing... Once finished I tried to boot the server in local. But I didn't know how to lift the web app so I asked him:",
+      "es": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
+      "en": "There are now several options: either run it from an external console or in my case use the one that is already installed on VSC in the terminal intermediate tab:",
+      "es": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
+      "en": "Once the web app has been launched, I try to connect to the browser to check if it works:",
+      "es": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La página funcionaba.",
+      "en": "The page worked.",
+      "es": "La página funcionaba.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¡En menos de 30 min ya tenía una página lista!",
+      "en": "In less than 30 minutes I had a page ready!",
+      "es": "¡En menos de 30 min ya tenía una página lista!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
+      "en": "The initial idea was to take advantage of GitHub's service to host the web app, so I asked for help with codex how to do it correctly:",
+      "es": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Antes de empezar si no tenemos cuenta de",
+      "en": "Before we start if we don't have a",
+      "es": "Antes de empezar si no tenemos cuenta de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
+      "en": "Once created, we create the repository, it is very important that it be called your project folder, since if the units are not not working properly.",
+      "es": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
+      "en": "If we don't have Git, you can download it.",
+      "es": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Una vez",
+      "en": "Once.",
+      "es": ". Una vez",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "instalado",
+      "en": "installed",
+      "es": "instalado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "// Vincula tu repositorio con GitHub.",
+      "en": "/ / Link your repository to GitHub.",
+      "es": "// Vincula tu repositorio con GitHub.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
+      "en": "Now we have already uploaded the same repository that we have in local with GitHub, now every change we want to make we must start the steps from the 2 and very important to put the commons names of the modifications we are making, so then it is easier to return to an earlier state knowing what modifications we made at that time.",
+      "es": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
+      "en": "Once we have the repository we ask codex how to upload it to GitHub you pay correctly:",
+      "es": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "seguimos las instrucciones:",
+      "en": "We follow the instructions:",
+      "es": "seguimos las instrucciones:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y accedemos a la web app desde GitHub:",
+      "en": "and access the web app from GitHub:",
+      "es": "y accedemos a la web app desde GitHub:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
+      "en": "As we can see, the initial version is functional but data in JSON format and improve aesthetics are missing.",
+      "es": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
+      "en": "Collecting data from each of the rails is very tedious, and you risk wrong when extrapolating the data, so I ask Codex if it can help me:",
+      "es": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Su respuesta es un script",
+      "en": "Your answer is a script",
+      "es": "Su respuesta es un script",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
+      "en": "We go one step further, we tell him to generate a script itself and to run it himself and to keep it in the JSON file with the rails we put fictitious.",
+      "es": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El mayor desafío era la información. Los datos estaban en fuentes abiertas, en diferentes formatos y cada página tenía una descripción distinta de cada atributo y no mantienen una coherencia por lo que los datos que obtuve estaban totalmente desestructurados. Necesitaba un",
+      "en": "The greatest challenge was information. Data were in open sources, in different formats and each page had a different description of each attribute and do not maintain a consistency so the data I obtained was completely disstructured.",
+      "es": "El mayor desafío era la información. Los datos estaban en fuentes abiertas, en diferentes formatos y cada página tenía una descripción distinta de cada atributo y no mantienen una coherencia por lo que los datos que obtuve estaban totalmente desestructurados. Necesitaba un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "pipeline",
+      "en": "pipeline",
+      "es": "tubería",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de limpieza.",
+      "en": "cleaning.",
+      "es": "de limpieza.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como datos de los barrancos provenían de distintas fuentes (",
+      "en": "As data from the ravines came from different sources (",
+      "es": "Como datos de los barrancos provenían de distintas fuentes (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
+      "en": ", etc.), and were disordered and with different formats. I needed a script in Node.js to clean and unify them.",
+      "es": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt a Codex:",
+      "en": "Prompt a Codex:",
+      "es": "Provoca un Codex:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
+      "en": "Codex generated an automated cleaning script. The result: a file",
+      "es": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "consolidado, que serviría como base de datos local de la aplicación.",
+      "en": "consolidated, which would serve as a local implementation database.",
+      "es": "consolidado, que serviría como base de datos local de la aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
+      "en": "With the dataset ready, it was time to view the data. Instead of writing components manually, I asked them directly to Codex.",
+      "es": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt 1:",
+      "en": "Prompt 1:",
+      "es": "Pronuncio 1:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt 2:",
+      "en": "Prompt 2:",
+      "es": "Prompt 2:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Codex generó la estructura React completa y los componentes necesarios. Incluso añadió un mapa interactivo con",
+      "en": "Codex generated the complete React structure and the necessary components. He even added an interactive map with",
+      "es": "Codex generó la estructura React completa y los componentes necesarios. Incluso añadió un mapa interactivo con",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Leaflet",
+      "en": "Leaflet",
+      "es": "Principales",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "tras otro prompt específico.",
+      "en": "after another specific prompt.",
+      "es": "tras otro prompt específico.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
+      "en": "The app needed to \"remember\" user data, such as checklist and ratings.",
+      "es": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
+      "en": "Codex implemented local storage logic and automatic recovery. Then we set up the Service Worker to make the full-functional app offline: it was already a PWA that could be installed and usable without coverage.",
+      "es": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
+      "en": "The functionality was ready, but the interface needed a professional touch. I returned to ChatGPT, this time as a UX designer specializing in outdoor environments.",
+      "es": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Prompt clave:",
+      "en": "Prompt clave:",
+      "es": "Prompt clave:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# CONTEXTO DEL PROYECTO",
+      "en": "# PROJECT CONTEXT",
+      "es": "# CONTEXTO DEL PROYECTO",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
+      "en": "I'm developing a PWA in React + Vite called \"Barranquism,\" designed to be used in mountains and natural environments.",
+      "es": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los usuarios la consultarán en condiciones reales de campo: con luz solar intensa, reflejos, guantes, y conexión limitada.",
+      "en": "Users will consult it in real field conditions: with intense sunlight, reflections, gloves, and limited connection.",
+      "es": "Los usuarios la consultarán en condiciones reales de campo: con luz solar intensa, reflejos, guantes, y conexión limitada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
+      "en": "The app shows chips of rails with difficulty, material, times and links to Wikiloc.",
+      "es": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
+      "en": "No backend: everything works on the client (localStorage, local JSON) and will be deployed in GitHub Pages.",
+      "es": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# OBJETIVO",
+      "en": "# OBJECTIVE",
+      "es": "OBJETIVO",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
+      "en": "I want you to act as a * * professional UX / IU designer specializing in outdoor environments, accessibility and functional design * *.",
+      "es": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
+      "en": "Your task is to improve the visual design and experience of using the * * application to make it beautiful, legible and professional * *, without losing simplicity or performance.",
+      "es": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
+      "en": "Give me detailed design suggestions and, if possible, code fragments (JSX, CSS or Tailwind) ready to implement.",
+      "es": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# QUÉ QUIERO CONSEGUIR",
+      "en": "♪ What I want to get",
+      "es": "# QUÉ QUIERO CONSEGUIR",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
+      "en": "- A nice and coherent interface * *, worthy of a professional product.",
+      "es": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
+      "en": "- * * High legibility under the sun * *: large texts, clear sources and strong contrast.",
+      "es": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
+      "en": "- * * Visually attractive components * * but simple to render in React (without heavy dependencies).",
+      "es": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
+      "en": "- * * Clear visual hierarchy * * (well defined colors, sizes and spaces).",
+      "es": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
+      "en": "- * * Outdoor style * *, natural and modern (inspired by apps such as Komoot, AllTrails or Wikiloc).",
+      "es": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
+      "en": "- * * Comfortable touch interaction * * (wide buttons, immediate visual feedback).",
+      "es": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– **Adaptación móvil total** (mobile-first con breakpoints a tablet).",
+      "en": "- * * Total mobile adaptation * * (mobile-first with breakpoints to tablet).",
+      "es": "– **Adaptación móvil total** (mobile-first con breakpoints a tablet).",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
+      "en": "- That it respects good practices of accessibility (WCAG 2.1) * *.",
+      "es": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
+      "en": "- To propose a * * palette of colors and professional typography * *, ideal for direct sun and natural contexts.",
+      "es": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# PUNTOS CLAVE QUE DEBES CUBRIR",
+      "en": "# CLAVE POINTS YOU MUST CURRENT",
+      "es": "# PUNTOS CLAVE QUE DEBES CUBRIR",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "1. **Tipografía**",
+      "en": "1. * * Typography * *",
+      "es": "1. **Tipografía**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
+      "en": "- Use legible sans-serif sources (e.g. Inter, Poppins, Nunito, Flex Robot).",
+      "es": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
+      "en": "- Thread: minimum 16-18px for text, 22-28px for titles.",
+      "es": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
+      "en": "- Good spacing ('letter-spacing', 'linear-height') for reading under reflections.",
+      "es": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. **Colores y contraste**",
+      "en": "2. * * Colors and contrast * *",
+      "es": "2. **Colores y contraste**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Contraste alto (WCAG AAA) entre fondo y texto.",
+      "en": "- High contrast (WCAG AAA) between background and text.",
+      "es": "– Contraste alto (WCAG AAA) entre fondo y texto.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
+      "en": "- Propose a professional palette inspired by nature (blue, beige, dark green, warm grey).",
+      "es": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Incluye un modo alto contraste o “modo exterior”.",
+      "en": "- Includes a high contrast or \"external mode.\"",
+      "es": "– Incluye un modo alto contraste o “modo exterior”.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3. **Componentes y botones**",
+      "en": "3. * * Parts and buttons * *",
+      "es": "3. **Componentes y botones**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Áreas táctiles grandes (mínimo 44x44px).",
+      "en": "- Large touch areas (minimum 44x44px).",
+      "es": "– Áreas táctiles grandes (mínimo 44x44px).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Botones redondeados con sombra suave o borde definido.",
+      "en": "- Rounded buttons with soft shade or defined edge.",
+      "es": "– Botones redondeados con sombra suave o borde definido.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
+      "en": "- Visual feedback when pressing (change of color, opacity or elevation).",
+      "es": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Mantén consistencia en iconos, sombras y radios.",
+      "en": "- Maintain consistency in icons, shadows and radios.",
+      "es": "– Mantén consistencia en iconos, sombras y radios.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "4. **Diseño visual**",
+      "en": "4. * * Visual design * *",
+      "es": "4. **Diseño visual**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
+      "en": "- Functional minimalism: not recharged, but visually pleasant.",
+      "es": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
+      "en": "- Clear distribution: fixed header, list of well-separated cards and accessible details.",
+      "es": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
+      "en": "- Balanced use of color for hierarchy: titles, primary buttons, secondary actions.",
+      "es": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "5. **Estilo global**",
+      "en": "5. * * Global style * *",
+      "es": "5. **Estilo global**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Insp",
+      "en": "- Insp.",
+      "es": "– Insp",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "iración en Material Design y Fluent UI, adaptado al uso outdoor.",
+      "en": "iration in Material Design and Fluent UI, adapted to outdoor use.",
+      "es": "iración en Material Design y Fluent UI, adaptado al uso outdoor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
+      "en": "- Subtle animations (fade, scale) only if they do not affect performance.",
+      "es": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Bordes suaves, sombras naturales, espacios amplios.",
+      "en": "- Soft bordes, natural shadows, wide spaces.",
+      "es": "– Bordes suaves, sombras naturales, espacios amplios.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Consistencia entre Home, Detail y Checklist.",
+      "en": "- Consistency between Home, Detail and Checklist.",
+      "es": "– Consistencia entre Home, Detail y Checklist.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "6. **PWA y rendimiento**",
+      "en": "6. * * PWA and performance * *",
+      "es": "6. **PWA y rendimiento**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Fuentes y colores precargados.",
+      "en": "- Precharged sources and colors.",
+      "es": "– Fuentes y colores precargados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
+      "en": "- Do not use heavy images, use SVG or vector icons.",
+      "es": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Optimiza para modo offline (mínimo CSS y assets).",
+      "en": "- Optimize for offline mode (minimum CSS and assets).",
+      "es": "– Optimiza para modo offline (mínimo CSS y assets).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "7. **Accesibilidad**",
+      "en": "7. * * accessibility * *",
+      "es": "7. **Accesibilidad**",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Contraste mínimo 4.5:1 en todos los textos.",
+      "en": "- Minimum contrast 4.5: 1 in all texts.",
+      "es": "– Contraste mínimo 4.5:1 en todos los textos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Colores accesibles para daltónicos (usa color+forma).",
+      "en": "- Accessible colors for dalltonic (use color + shape).",
+      "es": "– Colores accesibles para daltónicos (usa color+forma).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Texto alternativo en iconos, roles ARIA en botones.",
+      "en": "- Alternative text in icons, ARIA roles in buttons.",
+      "es": "– Texto alternativo en iconos, roles ARIA en botones.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# FORMATO DE RESPUESTA ESPERADO",
+      "en": "# STARTED REPLY FORMATE",
+      "es": "# FORMATO DE RESPUESTA ESPERADO",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
+      "en": "- - List of UX / IU recommendations ordered by priority (high, medium, low).",
+      "es": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
+      "en": "- Proposal of * * colour palette and typography * * professional.",
+      "es": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
+      "en": "- - Specific examples of CSS or Tailwind to implement.",
+      "es": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
+      "en": "- The short justification for each suggestion (why it improves visibility, aesthetics or usability).",
+      "es": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
+      "en": "- Â Mockup textual or wireframe (optional) for the ideal structure of the main screen.",
+      "es": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# TECNOLOGÍAS",
+      "en": "# TECHNOLOGIES",
+      "es": "# TECNOLOGÍAS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– React + Vite",
+      "en": "– React + Vite",
+      "es": "– Reaccionar + Vite",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– Tailwind o CSS Modules",
+      "en": "- Tallwind or CSS Modules",
+      "es": "– Módulos Tailwind o CSS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– LocalStorage",
+      "en": "- LocalStorage",
+      "es": "– LocalStorage",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "– GitHub Pages (PWA estática)",
+      "en": "- GitHub Pages (static PWA)",
+      "es": "– GitHub Pages (PWA estática)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "# INSTRUCCIÓN FINAL",
+      "en": "# FINAL INSTRUCTION",
+      "es": "# INSTRUCCIÓN FINAL",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Actúa como un diseñador UX/UI profesional.",
+      "en": "It acts as a professional UX / IU designer.",
+      "es": "Actúa como un diseñador UX/UI profesional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
+      "en": "Do not give theory: * * give me proposals ready to apply * * with code or specific styles.",
+      "es": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
+      "en": "Balancing * * beauty, usability and outdoor functionality * *.",
+      "es": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
+      "en": "The result must seem to be made by an expert designer, but optimized for React and Light PWA.",
+      "es": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El resultado fue una guía completa: tipografías legibles (",
+      "en": "The result was a complete guide: legible typographs (",
+      "es": "El resultado fue una guía completa: tipografías legibles (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inter",
+      "en": "Inter",
+      "es": "Inter",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Poppins",
+      "en": "Poppins",
+      "es": "Poppins",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "), alto contraste, botones grandes, jerarquía visual clara y estilo",
+      "en": "), high contrast, large buttons, clear visual hierarchy and style",
+      "es": "), alto contraste, botones grandes, jerarquía visual clara y estilo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "outdoor",
+      "en": "outdoor",
+      "es": "al aire libre",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "inspirado en",
+      "en": "inspired by",
+      "es": "inspirador",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Komoot",
+      "en": "Komoot",
+      "es": "Komoot",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "AllTrails",
+      "en": "AllTrails",
+      "es": "AllTrails",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Codex aplicó las mejoras automáticamente y la interfaz ganó claridad, accesibilidad y coherencia.",
+      "en": ". Codex applied the improvements automatically and the interface gained clarity, accessibility and coherence.",
+      "es": ". Codex aplicó las mejoras automáticamente y la interfaz ganó claridad, accesibilidad y coherencia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
+      "en": "Once you asked for these changes to Codex, you changed what you considered necessary, after a few minutes (it is fascinating to see how you are changing the code in real time) a version as you needed was already ready:",
+      "es": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "volví a visualizar la página ejecutando en consola:",
+      "en": "I revisualized the page running in console:",
+      "es": "volví a visualizar la página ejecutando en consola:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "entro en el navegador y…",
+      "en": "I go into the browser and...",
+      "es": "entro en el navegador y…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
+      "en": "The page I had created was already ready and functional. After checking the changes, I ran a new",
+      "es": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
+      "en": "and I waited for the update of GitHub Pages. Sometimes the changes take time to be reflected by cache or localStorage, but after cleaning the browser, the new version worked perfectly.",
+      "es": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "View linked image or resource",
+      "en": "View linked image or resource",
+      "es": "Ver imagen vinculada o recurso",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ya tenía una app completa, funcional, ligera y 100% generada con IA**.**",
+      "en": "It already had a complete, functional, light and 100% IA-generated app. * * *",
+      "es": "Ya tenía una app completa, funcional, ligera y 100% generada con IA**.**",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
+      "en": "Developing this application was much more than programming: it was learning to communicate with an IA. The role of the developer changes: it is no longer about writing code, but about",
+      "es": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "formular problemas, guiar al sistema y validar resultados.",
+      "en": "formulate problems, guide the system and validate results.",
+      "es": "formular problemas, guiar al sistema y validar resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La precisión de los prompts lo es todo**.** Un buen contexto genera código limpio y funcional.",
+      "en": "The accuracy of the prompts is everything * *. * * A good context generates clean and functional code.",
+      "es": "La precisión de los prompts lo es todo**.** Un buen contexto genera código limpio y funcional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La validación humana sigue siendo esencial**.** La IA propone, pero tú decides qué aceptar o ajustar.",
+      "en": "Human validation remains essential * *. * * The IA proposes, but you decide what to accept or adjust.",
+      "es": "La validación humana sigue siendo esencial**.** La IA propone, pero tú decides qué aceptar o ajustar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El flujo de trabajo híbrido (ChatGPT + Codex) es tremendamente eficiente para proyectos personales o prototipos.",
+      "en": "The hybrid workflow (ChatGPT + Codex) is tremendously efficient for personal projects or prototypes.",
+      "es": "El flujo de trabajo híbrido (ChatGPT + Codex) es tremendamente eficiente para proyectos personales o prototipos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
+      "en": "GitHub Pages and PWA are the perfect match for backend-free projects.",
+      "es": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Framework:",
+      "en": "Framework:",
+      "es": "Marco:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "React + Vite",
+      "en": "React + Vite",
+      "es": "React + Vite",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "IA utilizadas:",
+      "en": "IA used:",
+      "es": "IA utilizadas:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
+      "en": "ChatGPT (technical assistant and UX) and Codex (code generation)",
+      "es": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Librerías clave:",
+      "en": "Key bookstores:",
+      "es": "Librerías clave:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Leaflet, Workbox, TailwindCSS",
+      "en": "Leaflet, Workbox, TailwindCSS",
+      "es": "Folleto, Caja de trabajo, TailwindCSS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Despliegue:",
+      "en": "Deployment:",
+      "es": "Despliegue:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "GitHub Pages (PWA estática)",
+      "en": "GitHub Pages (static PWA)",
+      "es": "GitHub Pages (PWA estática)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Web",
+      "en": "Web",
+      "es": "Web",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "José Ramón García",
+      "en": "José Ramón García",
+      "es": "José Ramón García",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
+      "en": "Computer Engineering Student, passionate about nature technology. Combine your professional experience in the food industry with software projects and apps outside. Explore how",
+      "es": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "utiliza",
+      "en": "use",
+      "es": "Uso",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "la inteligencia artificial para potenciar la creatividad y la productividad humana",
+      "en": "artificial intelligence to enhance human creativity and productivity",
+      "es": "la inteligencia artificial para potenciar la creatividad y la productividad humana",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "en entornos reales.",
+      "en": "in real environments.",
+      "es": "en entornos reales.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
+      "en": "A story of the Saturdays.AI. community originally published on 28 Oct 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

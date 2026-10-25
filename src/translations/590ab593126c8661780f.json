@@ -1,0 +1,1384 @@
+{
+  "title": "Tómatelo a pecho: Detección de tumores malignos de cáncer de mama con Inteligencia Artificial",
+  "route": "/2022/03/16/deteccion-tumores-malignos-cancer-de-mama-con-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "La Paz. Machine Learning. Segunda edición. 2020 Introducción El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este…",
+      "en": "Peace. Machine Learning. Second edition. 2020 Introduction Breast cancer is the leading cause of death from malignant tumors in women worldwide. At least in 2019, around 688 thousand died due to this…",
+      "es": "La Paz. Machine Learning. Segunda edición. 2020 Introducción El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Proyecto",
+      "en": "Project",
+      "es": "Proyecto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Análisis exploratorio",
+      "en": "Exploratory analysis",
+      "es": "Análisis exploratorio",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Algoritmos no supervisados",
+      "en": "Unsupervised algorithms",
+      "es": "Algoritmos no supervisados",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Algoritmos Supervisados",
+      "en": "Supervised Algorithms",
+      "es": "Algoritmos Supervisados",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Regresión Logística paso por paso",
+      "en": "Logistic Regression step by step",
+      "es": "Regresión Logística paso por paso",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ". Machine Learning. Segunda edición. 2020",
+      "en": ". Machine Learning. Second edition. 2020",
+      "es": ". Machine Learning. Segunda edición. 2020",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este padecimiento, lo cual nos da una tasa de mortalidad para mujeres mayores de 20 años de 24.7 por cada 100 mil.",
+      "en": "Breast cancer is the leading cause of death from malignant tumors in women worldwide. At least in 2019, around 688 thousand died due to this condition, which gives us a mortality rate for women over 20 years of age of 24.7 per 100 thousand.",
+      "es": "El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este padecimiento, lo cual nos da una tasa de mortalidad para mujeres mayores de 20 años de 24.7 por cada 100 mil.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Existe una brecha de mortalidad por cáncer de mama entre países por nivel de ingresos, el 70%(483,000) de los fallecimientos ocurren en los países de ingresos medios y bajos. ¿A qué se deberá?, sucede que en los países de ingresos medios y bajos, hay una falta de acceso a servicios de diagnóstico y tratamiento de esta enfermedad.",
+      "en": "There is a breast cancer mortality gap between countries by income level, with 70% (483,000) of deaths occurring in low- and middle-income countries. Why? It happens that in low- and middle-income countries, there is a lack of access to diagnosis and treatment services for this disease.",
+      "es": "Existe una brecha de mortalidad por cáncer de mama entre países por nivel de ingresos, el 70%(483,000) de los fallecimientos ocurren en los países de ingresos medios y bajos. ¿A qué se deberá?, sucede que en los países de ingresos medios y bajos, hay una falta de acceso a servicios de diagnóstico y tratamiento de esta enfermedad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tasa de mortalidad e incidencia",
+      "en": "Mortality and incidence rate",
+      "es": "Tasa de mortalidad e incidencia",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Norteamérica 22%",
+      "en": "North America 22%",
+      "es": "Norteamérica 22%",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Latinoamérica y el Caribe 38%",
+      "en": "Latin America and the Caribbean 38%",
+      "es": "Latinoamérica y el Caribe 38%",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "África Sub-Sahariana 65%",
+      "en": "Sub-Saharan Africa 65%",
+      "es": "África Sub-Sahariana 65%",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Entre el 50 y 63% de las muertes por cáncer de mama en todo el mundo son prevenibles con detección temprana y tratamiento adecuado. Entre el 66 y 74% de estas muertes que son prevenibles ocurren en países en desarrollo. Asimismo, el cáncer de mama, detectado a tiempo y con tratamiento adecuado puede curarse. Y en caso de que no, puede elevar la calidad de vida de las pacientes al menos hasta 5 años (en Norteamérica).",
+      "en": "Between 50 and 63% of breast cancer deaths worldwide are preventable with early detection and appropriate treatment. Between 66 and 74% of these preventable deaths occur in developing countries. Likewise, breast cancer, detected early and with adequate treatment, can be cured. And if not, it can increase the quality of life of patients for at least 5 years (in North America).",
+      "es": "Entre el 50 y 63% de las muertes por cáncer de mama en todo el mundo son prevenibles con detección temprana y tratamiento adecuado. Entre el 66 y 74% de estas muertes que son prevenibles ocurren en países en desarrollo. Asimismo, el cáncer de mama, detectado a tiempo y con tratamiento adecuado puede curarse. Y en caso de que no, puede elevar la calidad de vida de las pacientes al menos hasta 5 años (en Norteamérica).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "De esta problemática surge nuestro proyecto social. Sabemos que la situación es muy desfavorable para las mujeres, así que podemos contribuir a generar un modelo de machine learning que pueda ayudar a la predicción de este tipo de tumores con el cual, en un futuro muchas mujeres podrían acceder a un método de detección barato y digno, aumentando así su calidad de vida al enfrentarse con esta enfermedad genética.",
+      "en": "Our social project arises from this problem. We know that the situation is very unfavorable for women, so we can contribute to generating a machine learning model that can help predict this type of tumors with which, in the future, many women could access a cheap and decent detection method, thus increasing their quality of life when faced with this genetic disease.",
+      "es": "De esta problemática surge nuestro proyecto social. Sabemos que la situación es muy desfavorable para las mujeres, así que podemos contribuir a generar un modelo de machine learning que pueda ayudar a la predicción de este tipo de tumores con el cual, en un futuro muchas mujeres podrían acceder a un método de detección barato y digno, aumentando así su calidad de vida al enfrentarse con esta enfermedad genética.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Detección de cáncer de mama usando el",
+      "en": "Breast cancer detection using the",
+      "es": "Detección de cáncer de mama usando el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "dataset de Diagnosis Wisconsin",
+      "en": "Wisconsin Diagnostics dataset",
+      "es": "dataset de Diagnosis Wisconsin",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Explorar distintos algoritmos de ML (Machine Learning, por sus siglas en inglés)",
+      "en": "Explore different ML algorithms (Machine Learning)",
+      "es": "Explorar distintos algoritmos de ML (Machine Learning, por sus siglas en inglés)",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "supervisados y no supervisados",
+      "en": "supervised and unsupervised",
+      "es": "supervisados y no supervisados",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "utilizando el dataset de Wisconsin sobre diagnóstico (explicado más adelante), para compararlos y verificar cual es el que nos proporciona el mejor modelo de detección de cáncer de mama, así como revisar que variables proporcionan mayor información sobre la detección.",
+      "en": "using the Wisconsin diagnostic dataset (explained later), to compare them and verify which one provides us with the best breast cancer detection model, as well as review which variables provide the most information about detection.",
+      "es": "utilizando el dataset de Wisconsin sobre diagnóstico (explicado más adelante), para compararlos y verificar cual es el que nos proporciona el mejor modelo de detección de cáncer de mama, así como revisar que variables proporcionan mayor información sobre la detección.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Como objetivo sería plantear una generalización de base de datos que pudiera implementarse en cualquier país al que se lleve este diagnóstico.",
+      "en": "The objective would be to propose a generalization of the database that could be implemented in any country to which this diagnosis is carried out.",
+      "es": "Como objetivo sería plantear una generalización de base de datos que pudiera implementarse en cualquier país al que se lleve este diagnóstico.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Se trabajó en una comparativa de ciertos modelos supervisados y no supervisados para determinar la precisión de cada uno y posteriormente utilizarlo para la predicción.",
+      "en": "We worked on a comparison of certain supervised and unsupervised models to determine the accuracy of each one and subsequently use it for prediction.",
+      "es": "Se trabajó en una comparativa de ciertos modelos supervisados y no supervisados para determinar la precisión de cada uno y posteriormente utilizarlo para la predicción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Los datos que vamos a utilizar para este primer ejercicio son los proporcionados en el",
+      "en": "The data that we are going to use for this first exercise are those provided in the",
+      "es": "Los datos que vamos a utilizar para este primer ejercicio son los proporcionados en el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "dataset de diagnóstico de Wisconsin",
+      "en": "Wisconsin diagnostic dataset",
+      "es": "dataset de diagnóstico de Wisconsin",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "que contiene variables sobre la forma del tumor (en términos de núcleo de las células) y su dianóstico, como se muestra a continuación:",
+      "en": "which contains variables about the shape of the tumor (in terms of cell nuclei) and its diagnosis, as shown below:",
+      "es": "que contiene variables sobre la forma del tumor (en términos de núcleo de las células) y su dianóstico, como se muestra a continuación:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "id: etiqueta por observación.",
+      "en": "id: tag by observation.",
+      "es": "id: etiqueta por observación.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "diagnóstico: variable binaria que clasifica el tumor. (M=maligno, B=benigno)",
+      "en": "diagnosis: binary variable that classifies the tumor. (M=malignant, B=benign)",
+      "es": "diagnóstico: variable binaria que clasifica el tumor. (M=maligno, B=benigno)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "radio: media de las distancias del centro al perímetro.",
+      "en": "radius: average of the distances from the center to the perimeter.",
+      "es": "radio: media de las distancias del centro al perímetro.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "textura: desviación estándar de los valores gradiente de las imágenes.",
+      "en": "texture: standard deviation of the gradient values of the images.",
+      "es": "textura: desviación estándar de los valores gradiente de las imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "perímetro: medida del contorno del núcleo celular.",
+      "en": "perimeter: measurement of the contour of the cell nucleus.",
+      "es": "perímetro: medida del contorno del núcleo celular.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "área: medida del área del núcleo celular.",
+      "en": "area: measurement of the area of the cell nucleus.",
+      "es": "área: medida del área del núcleo celular.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "suavidad: variación local de las longitudes del radio",
+      "en": "smoothness: local variation of radius lengths",
+      "es": "suavidad: variación local de las longitudes del radio",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "compacidad: medida calculada por ((perímetro²/area) -1)",
+      "en": "compactness: measurement calculated by ((perimeter²/area) -1)",
+      "es": "compacidad: medida calculada por ((perímetro²/area) -1)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "concavidad: severidad de las porciones cóncavas del contorno",
+      "en": "concavity: severity of the concave portions of the contour",
+      "es": "concavidad: severidad de las porciones cóncavas del contorno",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "puntos de concavidad: número de las porciones cóncavas del contorno",
+      "en": "concavity points: number of concave portions of the contour",
+      "es": "puntos de concavidad: número de las porciones cóncavas del contorno",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "simetría: similitud entre partes con respecto a ejes.",
+      "en": "symmetry: similarity between parts with respect to axes.",
+      "es": "simetría: similitud entre partes con respecto a ejes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "dimensión fractal: índice comparativo sobre el detalle de un patrón observado de células.",
+      "en": "fractal dimension: comparative index on the detail of an observed pattern of cells.",
+      "es": "dimensión fractal: índice comparativo sobre el detalle de un patrón observado de células.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "De las variables 3–12 asociamos las métricas:",
+      "en": "From variables 3–12 we associate the metrics:",
+      "es": "De las variables 3–12 asociamos las métricas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "media, error estándar, error extremo.",
+      "en": "mean, standard error, extreme error.",
+      "es": "media, error estándar, error extremo.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Descripción del dataset con sus métricas",
+      "en": "Description of the dataset with its metrics",
+      "es": "Descripción del dataset con sus métricas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de haber revisado las variables del dataset procedemos a evaular la distribución del feature",
+      "en": "After having reviewed the variables of the dataset, we proceed to evaluate the distribution of the feature",
+      "es": "Después de haber revisado las variables del dataset procedemos a evaular la distribución del feature",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "diagnostico",
+      "en": "diagnosis",
+      "es": "diagnostico",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "para saber el balanceo de los datos, esto tiene una repercusión a la hora de entrenar a los modelos, porque como podemos ver en la gráfica siguiente tiene una mayor cantidad de datos asociada a diagnóstico de tumores benignos.",
+      "en": "to know the balance of the data, this has an impact when training the models, because as we can see in the following graph it has a greater amount of data associated with the diagnosis of benign tumors.",
+      "es": "para saber el balanceo de los datos, esto tiene una repercusión a la hora de entrenar a los modelos, porque como podemos ver en la gráfica siguiente tiene una mayor cantidad de datos asociada a diagnóstico de tumores benignos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Variable diagnóstico",
+      "en": "Diagnostic variable",
+      "es": "Variable diagnóstico",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Posteriormente procederemos a ver los mapas de correlaciones entre variables para identificar si hay que hacer algún preprocesamiento antes de entrenar los modelos.",
+      "en": "Later we will proceed to see the correlation maps between variables to identify if any preprocessing needs to be done before training the models.",
+      "es": "Posteriormente procederemos a ver los mapas de correlaciones entre variables para identificar si hay que hacer algún preprocesamiento antes de entrenar los modelos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Mapa de correlaciones con las métricas",
+      "en": "Correlation map with metrics",
+      "es": "Mapa de correlaciones con las métricas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las gráficas anteriores ilustran que en general los tres mapas muestran correlaciones similares, los promedios muestran una correlación más intensa que los valores extremos y a su vez, los valores extremos muestran una correlación más clara que el error estándar, sin embargo en los tres mapas se mantiene la tendencia entre variables.",
+      "en": "The previous graphs illustrate that in general the three maps show similar correlations, the averages show a more intense correlation than the extreme values and in turn, the extreme values show a clearer correlation than the standard error, however in the three maps the trend between variables is maintained.",
+      "es": "Las gráficas anteriores ilustran que en general los tres mapas muestran correlaciones similares, los promedios muestran una correlación más intensa que los valores extremos y a su vez, los valores extremos muestran una correlación más clara que el error estándar, sin embargo en los tres mapas se mantiene la tendencia entre variables.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Destacaremos las correlaciones más evidentes:",
+      "en": "We will highlight the most obvious correlations:",
+      "es": "Destacaremos las correlaciones más evidentes:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "radio",
+      "en": "radio",
+      "es": "radio",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "con",
+      "en": "with",
+      "es": "con",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "perimetro/área/puntos de concavidad",
+      "en": "perimeter/area/points of concavity",
+      "es": "perimetro/área/puntos de concavidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": se debe a la forma de calcular estas variables dependen directamente del radio.",
+      "en": ": It is due to the way these variables are calculated, they depend directly on the radius.",
+      "es": ": se debe a la forma de calcular estas variables dependen directamente del radio.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "perímetro",
+      "en": "perimeter",
+      "es": "perímetro",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "área/ concavidad/puntos de concavidad",
+      "en": "area/concavity/points of concavity",
+      "es": "área/ concavidad/puntos de concavidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": estas correlaciones tienen que ver con lo mencionado en el 1.",
+      "en": ": these correlations have to do with what was mentioned in 1.",
+      "es": ": estas correlaciones tienen que ver con lo mencionado en el 1.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "suavidad",
+      "en": "softness",
+      "es": "suavidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "compacidad",
+      "en": "compactness",
+      "es": "compacidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "concavidad/puntos de concavidad/simetria",
+      "en": "concavity/points of concavity/symmetry",
+      "es": "concavidad/puntos de concavidad/simetria",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Después se realizaron los mapas de correlaciones más específicos que incluyen las tres métricas de las variables con relaciones más destacadas mencionadas anteriormente.",
+      "en": "Then, more specific correlation maps were made that include the three metrics of the variables with the most prominent relationships mentioned above.",
+      "es": "Después se realizaron los mapas de correlaciones más específicos que incluyen las tres métricas de las variables con relaciones más destacadas mencionadas anteriormente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Mapas de correlaciones con las tres métricas",
+      "en": "Correlation maps with the three metrics",
+      "es": "Mapas de correlaciones con las tres métricas",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La siguiente gráfica tiene una particularidad, se observa que para las métricas del área los extremos están altamente correlacionados con la media. Y el error estándar es la métrica menos correlacionada con respecto a las otras dos.",
+      "en": "The following graph has a particularity, it is observed that for the area metrics the extremes are highly correlated with the mean. And the standard error is the least correlated metric with respect to the other two.",
+      "es": "La siguiente gráfica tiene una particularidad, se observa que para las métricas del área los extremos están altamente correlacionados con la media. Y el error estándar es la métrica menos correlacionada con respecto a las otras dos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Mapa de correlaciones del área",
+      "en": "Area correlation map",
+      "es": "Mapa de correlaciones del área",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Por último mostraremos las distribuciones y diagramas de dispersión para la media por el tipo de diagnostico, lo cual nos da un indicador de como se comportan las densidades que se puede englobar en los siguientes grupos:",
+      "en": "Finally, we will show the distributions and scatter diagrams for the average by type of diagnosis, which gives us an indicator of how the densities behave that can be included in the following groups:",
+      "es": "Por último mostraremos las distribuciones y diagramas de dispersión para la media por el tipo de diagnostico, lo cual nos da un indicador de como se comportan las densidades que se puede englobar en los siguientes grupos:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Existe una",
+      "en": "There is a",
+      "es": "Existe una",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "separación casi total entre densidades",
+      "en": "almost total separation between densities",
+      "es": "separación casi total entre densidades",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ": no comparten ni forma ni soporte.",
+      "en": ": they share neither form nor support.",
+      "es": ": no comparten ni forma ni soporte.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "separación regular entre densidades",
+      "en": "regular separation between densities",
+      "es": "separación regular entre densidades",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": comparten forma o soporte.",
+      "en": ": share form or support.",
+      "es": ": comparten forma o soporte.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "separación mínima entre densidades",
+      "en": "minimum separation between densities",
+      "es": "separación mínima entre densidades",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": comparten forma y soporte excepto ligeras variaciones.",
+      "en": ": share shape and support except for slight variations.",
+      "es": ": comparten forma y soporte excepto ligeras variaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Distribuciones sobre la media utilizando la variable",
+      "en": "Distributions about the mean using the variable",
+      "es": "Distribuciones sobre la media utilizando la variable",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Proponemos este análisis debido a que la estructura de nuestra base de datos tiene una dimensión alta",
+      "en": "We propose this analysis because the structure of our database has a high dimension",
+      "es": "Proponemos este análisis debido a que la estructura de nuestra base de datos tiene una dimensión alta",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "(30 variables)",
+      "en": "(30 variables)",
+      "es": "(30 variables)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "por lo tanto esta técnica de análisis no supervisado nos ayudará a reducir la cantidad de componentes (variables) de nuestra base de datos, proyectando las variables originales a un subconjunto de las mismas.",
+      "en": "Therefore, this unsupervised analysis technique will help us reduce the number of components (variables) in our database, projecting the original variables to a subset of them.",
+      "es": "por lo tanto esta técnica de análisis no supervisado nos ayudará a reducir la cantidad de componentes (variables) de nuestra base de datos, proyectando las variables originales a un subconjunto de las mismas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El conjunto final de las variables escenciales después de este análisis, eliminará las que estén posiblemente correlacionadas. Tenemos ahora una",
+      "en": "The final set of essential variables after this analysis will eliminate those that are possibly correlated. We now have a",
+      "es": "El conjunto final de las variables escenciales después de este análisis, eliminará las que estén posiblemente correlacionadas. Tenemos ahora una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "aproximación apriori",
+      "en": "a priori approximation",
+      "es": "aproximación apriori",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "que terminará de definirse con este análisis, dado que queremos formar dos clusters por la forma binaria que tiene nuestra variable objetivo",
+      "en": "which will be defined with this analysis, given that we want to form two clusters due to the binary form of our objective variable.",
+      "es": "que terminará de definirse con este análisis, dado que queremos formar dos clusters por la forma binaria que tiene nuestra variable objetivo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La siguiente tabla muestra el porcentaje de varianza que acumula cada una de las componentes principales, consideramos en principio 10 componentes principales, como se observa en la tabla la primera y segunda componente explican el",
+      "en": "The following table shows the percentage of variance accumulated by each of the main components. In principle, we consider 10 main components, as seen in the table, the first and second components explain the",
+      "es": "La siguiente tabla muestra el porcentaje de varianza que acumula cada una de las componentes principales, consideramos en principio 10 componentes principales, como se observa en la tabla la primera y segunda componente explican el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "44.27% y el 18.97%",
+      "en": "44.27% and 18.97%",
+      "es": "44.27% y el 18.97%",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "de la varianza respectivamente, lo que implica que las primeras dos componentes explican el",
+      "en": "of the variance respectively, which implies that the first two components explain the",
+      "es": "de la varianza respectivamente, lo que implica que las primeras dos componentes explican el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "63.24% de la varianza",
+      "en": "63.24% of the variance",
+      "es": "63.24% de la varianza",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "PCA con n_components = 10",
+      "en": "PCA with n_components = 10",
+      "es": "PCA con n_components = 10",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Así que repetiremos el procedimiento pero para ahora solo sacar 2 componentes, ya que obtienen más del 60% de la varianza total.",
+      "en": "So we will repeat the procedure but for now only remove 2 components, since they obtain more than 60% of the total variance.",
+      "es": "Así que repetiremos el procedimiento pero para ahora solo sacar 2 componentes, ya que obtienen más del 60% de la varianza total.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Distribución de 2 clústers para la variable",
+      "en": "2-cluster distribution for the variable",
+      "es": "Distribución de 2 clústers para la variable",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahora vamos a intentarlo con n=3 y podremos observar el mismo comportamiento que con dos dimensiones. En conclusión hay un",
+      "en": "Now we are going to try it with n=3 and we can observe the same behavior as with two dimensions. In conclusion there is a",
+      "es": "Ahora vamos a intentarlo con n=3 y podremos observar el mismo comportamiento que con dos dimensiones. En conclusión hay un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "agrupamiento claro con respecto al tipo de diagnóstico",
+      "en": "clear grouping with respect to type of diagnosis",
+      "es": "agrupamiento claro con respecto al tipo de diagnóstico",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ", incluso podría separarse linealmente (con una recta en el caso bidimensional y con un plano en el caso tridimensional) salvo algunas observaciones que se diseminan por completo.",
+      "en": ", could even be separated linearly (with a straight line in the two-dimensional case and with a plane in the three-dimensional case) except for some observations that are completely disseminated.",
+      "es": ", incluso podría separarse linealmente (con una recta en el caso bidimensional y con un plano en el caso tridimensional) salvo algunas observaciones que se diseminan por completo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "PCA n_componentes = 3",
+      "en": "PCA n_components = 3",
+      "es": "PCA n_componentes = 3",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Para este algoritmo de ML, utilizamos el dataset sin reducción, y entrenamos el modelo para que realizara una maximización de la separación de los clústers dadas las características que tenemos (28 variables, removiendo el label).",
+      "en": "For this ML algorithm, we used the dataset without reduction, and we trained the model to maximize the separation of the clusters given the characteristics we have (28 variables, removing the label).",
+      "es": "Para este algoritmo de ML, utilizamos el dataset sin reducción, y entrenamos el modelo para que realizara una maximización de la separación de los clústers dadas las características que tenemos (28 variables, removiendo el label).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para este caso una visualización tipo silueta puede ayudar mucho a explicar los resultados. El",
+      "en": "In this case, a silhouette-type visualization can help a lot to explain the results. The",
+      "es": "Para este caso una visualización tipo silueta puede ayudar mucho a explicar los resultados. El",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "es decir, que tan bien separados están los clústers, recordando que 0 quiere decir que hay overlapping y 1 que están perfectamente delimitados.",
+      "en": "That is, how well separated the clusters are, remembering that 0 means that there is overlapping and 1 means that they are perfectly delimited.",
+      "es": "es decir, que tan bien separados están los clústers, recordando que 0 quiere decir que hay overlapping y 1 que están perfectamente delimitados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Visualización de Silueta para los 2 clústers principales de la variable diagnostico",
+      "en": "Silhouette visualization for the 2 main clusters of the diagnostic variable",
+      "es": "Visualización de Silueta para los 2 clústers principales de la variable diagnostico",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para probar este modelo decidimos generar datos random con las variables seleccionadas del dataframe y estos fueron los resultados:",
+      "en": "To test this model we decided to generate random data with the variables selected from the dataframe and these were the results:",
+      "es": "Para probar este modelo decidimos generar datos random con las variables seleccionadas del dataframe y estos fueron los resultados:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El modelo es capaz de clasificar si están en 1 (Benigno) y 0 (Maligno) dependiendo de los valores entrantes que fueron generados de manera random. Esto posteriormente con datos reales, podría detectar tumores de mama hasta con una probabilidad de 69%, lo cual es poco deseable. Más adelante con los algoritmos supervisados podremos elevar este porcentaje.",
+      "en": "The model is capable of classifying whether they are 1 (Benign) and 0 (Malignant) depending on the incoming values that were generated randomly. This later with real data, could detect breast tumors with up to a probability of 69%, which is undesirable. Later with supervised algorithms we will be able to increase this percentage.",
+      "es": "El modelo es capaz de clasificar si están en 1 (Benigno) y 0 (Maligno) dependiendo de los valores entrantes que fueron generados de manera random. Esto posteriormente con datos reales, podría detectar tumores de mama hasta con una probabilidad de 69%, lo cual es poco deseable. Más adelante con los algoritmos supervisados podremos elevar este porcentaje.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Nuestro proyecto entra en la categoría de clasificación binaria, debido a que tenemos una variable",
+      "en": "Our project falls into the binary classification category, because we have a variable",
+      "es": "Nuestro proyecto entra en la categoría de clasificación binaria, debido a que tenemos una variable",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "que solo nos muestra si es benigno o maligno. Por tanto, este modelo nos beneficia al darnos una primera aproximación para la resolución del problema. En primera instancia, aplicamos el algoritmo de regresión logística para los datos en sus 30 dimensiones y para ver claramente como está funcionando este clasificador, emplearemos una matriz de confusión como se muestra a continuación.",
+      "en": "which only shows us if it is benign or malignant. Therefore, this model benefits us by giving us a first approximation to solving the problem. In the first instance, we apply the logistic regression algorithm to the data in its 30 dimensions and to clearly see how this classifier is working, we will use a confusion matrix as shown below.",
+      "es": "que solo nos muestra si es benigno o maligno. Por tanto, este modelo nos beneficia al darnos una primera aproximación para la resolución del problema. En primera instancia, aplicamos el algoritmo de regresión logística para los datos en sus 30 dimensiones y para ver claramente como está funcionando este clasificador, emplearemos una matriz de confusión como se muestra a continuación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Matriz de confusión sobre falsos positivos, falsos negativos, verdaderos negativos y verdaderos positivos",
+      "en": "Confusion matrix on false positives, false negatives, true negatives and true positives",
+      "es": "Matriz de confusión sobre falsos positivos, falsos negativos, verdaderos negativos y verdaderos positivos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Dada la predicción anterior podemos incluir la precisión del modelo calculada con la métrica de sklearn",
+      "en": "Given the previous prediction we can include the model accuracy calculated with the sklearn metric",
+      "es": "Dada la predicción anterior podemos incluir la precisión del modelo calculada con la métrica de sklearn",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "accuracy_score",
+      "en": "accuracy_score",
+      "es": "accuracy_score",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "fue de",
+      "en": "was from",
+      "es": "fue de",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". Resultado que es mucho mejor que nuestro anterior modelo no supervisado (KMeans).",
+      "en": ". Result that is much better than our previous unsupervised model (KMeans).",
+      "es": ". Resultado que es mucho mejor que nuestro anterior modelo no supervisado (KMeans).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Un diagnóstico más específico es la probabilidad de predicción por observación, es decir, qué tan probable es que esa observación sea clasificada como Benigno o Maligno. Así que vamos a ver su desempeño por",
+      "en": "A more specific diagnosis is the prediction probability per observation, that is, how likely it is that that observation will be classified as Benign or Malignant. So let's see their performance by",
+      "es": "Un diagnóstico más específico es la probabilidad de predicción por observación, es decir, qué tan probable es que esa observación sea clasificada como Benigno o Maligno. Así que vamos a ver su desempeño por",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "cross-validation",
+      "en": "cross-validation",
+      "es": "cross-validation",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Cross-Validation Accuracy Scores",
+      "en": "Cross-Validation Accuracy Scores",
+      "es": "Cross-Validation Accuracy Scores",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Por lo anterior concluimos que en promedio tenemos una precisión del",
+      "en": "From the above we conclude that on average we have a precision of",
+      "es": "Por lo anterior concluimos que en promedio tenemos una precisión del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ", sin embargo es necesario revisar la estructura del modelo y los supuestos del mismo.",
+      "en": "However, it is necessary to review the structure of the model and its assumptions.",
+      "es": ", sin embargo es necesario revisar la estructura del modelo y los supuestos del mismo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de la pasada primera aproximación del modelo es momento de revisar si se cumplen ciertos supuestos requeridos para el desarrollo de la regresión logística, algunos de estos supuestos los enunciaremos a continuación.",
+      "en": "After the first approximation of the model, it is time to review whether certain assumptions required for the development of logistic regression are met. We will list some of these assumptions below.",
+      "es": "Después de la pasada primera aproximación del modelo es momento de revisar si se cumplen ciertos supuestos requeridos para el desarrollo de la regresión logística, algunos de estos supuestos los enunciaremos a continuación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La variable objetivo debe ser binaria. En nuestro caso",
+      "en": "The target variable must be binary. In our case",
+      "es": "La variable objetivo debe ser binaria. En nuestro caso",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "es ‘M’ o ‘B’.",
+      "en": "is 'M' or 'B'.",
+      "es": "es ‘M’ o ‘B’.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "El resultado de la variable de interés asociado al “éxito” debe ser 1.",
+      "en": "The result of the variable of interest associated with “success” must be 1.",
+      "es": "El resultado de la variable de interés asociado al “éxito” debe ser 1.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Solo deben incluirse las variables significativas.",
+      "en": "Only significant variables should be included.",
+      "es": "Solo deben incluirse las variables significativas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las variables deben ser independientes entre sí, para evitar el",
+      "en": "The variables must be independent of each other, to avoid",
+      "es": "Las variables deben ser independientes entre sí, para evitar el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "problema de multicolinealidad",
+      "en": "multicollinearity problem",
+      "es": "problema de multicolinealidad",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Debe haber un tamaño de muestra “suficiente”",
+      "en": "There must be a “sufficient” sample size",
+      "es": "Debe haber un tamaño de muestra “suficiente”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Procederemos a la construcción de la regresión lineal cuidando estos supuestos.",
+      "en": "We will proceed to the construction of the linear regression taking care of these assumptions.",
+      "es": "Procederemos a la construcción de la regresión lineal cuidando estos supuestos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En un principio detectamos que nuestra muestra no estaba balanceada en cantidad de observaciones malignas (~37%) y benignas (~62%), para lo cual se utilizó la biblioteca",
+      "en": "At first we detected that our sample was not balanced in the number of malignant (~37%) and benign (~62%) observations, for which the library was used",
+      "es": "En un principio detectamos que nuestra muestra no estaba balanceada en cantidad de observaciones malignas (~37%) y benignas (~62%), para lo cual se utilizó la biblioteca",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "SMOTE",
+      "en": "SMOTE",
+      "es": "SMOTE",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "debido a que realiza una generación aleatoria de las observaciones faltantes basada en",
+      "en": "because it performs a random generation of the missing observations based on",
+      "es": "debido a que realiza una generación aleatoria de las observaciones faltantes basada en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Balancenado las observaciones para tener la misma cantidad de observaciones B y M",
+      "en": "Balanced the observations to have the same number of B and M observations",
+      "es": "Balancenado las observaciones para tener la misma cantidad de observaciones B y M",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Solo sobremuestreamos en el conjunto de datos de entrenamiento, puesto que la información que hay en los datos de prueba no será incorporada en el modelo de entrenamiento.",
+      "en": "We only oversample on the training data set, since the information that is in the test data will not be incorporated into the training model.",
+      "es": "Solo sobremuestreamos en el conjunto de datos de entrenamiento, puesto que la información que hay en los datos de prueba no será incorporada en el modelo de entrenamiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para “Solo deben incluirse las variables significativas”, es necesario identificar las variables que tengan el mejor rendimiento, así poder incluir finalmente variables o características más pequeñas y más representativas. Estas fueron las variables elegidas:",
+      "en": "For “Only significant variables should be included”, it is necessary to identify the variables that have the best performance, so that smaller and more representative variables or characteristics can finally be included. These were the variables chosen:",
+      "es": "Para “Solo deben incluirse las variables significativas”, es necesario identificar las variables que tengan el mejor rendimiento, así poder incluir finalmente variables o características más pequeñas y más representativas. Estas fueron las variables elegidas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“radio_medio”,”textura_medio”,”perimetro_medio”,”area_media”,”suavidad_media”,”compacidad_media”,”concavidad_media”,”puntos_concavidad_media”,”simetria_media”,”dim_fractal_media”,”radio_ee”,”textura_ee”,”perimetro_ee”,”area_ee”,”suavidad_ee”,”compacidad_ee”,”concavidad_ee”,”puntos_concavidad_ee”,”simetria_ee”,”dim_fractal_ee”,”radio_extremo”,”textura_extremo”,”perimetro_extremo”,”area_extremo”,”suavidad_extremo”,”compacidad_extremo”,”concavidad_extremo”,”puntos_concavidad_extremo”,”simetria_extremo”,”dim_fractal_extremo”",
+      "en": "“mean_radius,”,”mean_texture,”,”mean_perimeter,”,”mean_area,”,”mean_smoothness,”,”mean_compactness,”,”mean_concavity,”,”mean_concavity points,”,”mean_symmetry,”,”mean_fractal_dim,”,”ee_radius,”,”ee_texture,”,”ee_perimeter,”,”ee_area,”,”ee_smoothness,”,”ee_compactness,”,”conc avity_ee”,”points_concavity_ee”,”symmetry_ee”,”dim_fractal_ee”,”radius_extrem”,”texture_extrem”,”perimeter_extrem”,”area_extrem or”,”smoothness_extreme,”,”compactness_extreme,”,”concavity_extreme,”,”points_concavity_extreme,”,”symmetry_extreme,”,”dim_fractal_extreme”",
+      "es": "“radio_medio”,”textura_medio”,”perimetro_medio”,”area_media”,”suavidad_media”,”compacidad_media”,”concavidad_media”,”puntos_concavidad_media”,”simetria_media”,”dim_fractal_media”,”radio_ee”,”textura_ee”,”perimetro_ee”,”area_ee”,”suavidad_ee”,”compacidad_ee”,”concavidad_ee”,”puntos_concavidad_ee”,”simetria_ee”,”dim_fractal_ee”,”radio_extremo”,”textura_extremo”,”perimetro_extremo”,”area_extremo”,”suavidad_extremo”,”compacidad_extremo”,”concavidad_extremo”,”puntos_concavidad_extremo”,”simetria_extremo”,”dim_fractal_extremo”",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahora implementaremos el modelo con las nuevas variables seleccionadas y los datos balanceados:",
+      "en": "Now we will implement the model with the new variables selected and the balanced data:",
+      "es": "Ahora implementaremos el modelo con las nuevas variables seleccionadas y los datos balanceados:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Verificando manualmente el valor p de cada una de las variables,",
+      "en": "By manually checking the p value of each of the variables,",
+      "es": "Verificando manualmente el valor p de cada una de las variables,",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "quitamos aquellas tales que el valor p exceda .05 que es nuestro nivel de confianza.",
+      "en": "We remove those such that the p value exceeds .05, which is our confidence level.",
+      "es": "quitamos aquellas tales que el valor p exceda .05 que es nuestro nivel de confianza.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahora vamos a revisar el supuesto de independencia revisaremos nuevamente las correlaciones con las variables finales de nuestro modelo.",
+      "en": "Now we are going to review the assumption of independence, we will again review the correlations with the final variables of our model.",
+      "es": "Ahora vamos a revisar el supuesto de independencia revisaremos nuevamente las correlaciones con las variables finales de nuestro modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Correlaciones para las variables finales",
+      "en": "Correlations for final variables",
+      "es": "Correlaciones para las variables finales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El mapa de correlaciones anterior sugiere una alta correlación para",
+      "en": "The correlation map above suggests a high correlation for",
+      "es": "El mapa de correlaciones anterior sugiere una alta correlación para",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "radio_medio",
+      "en": "medium_radius",
+      "es": "radio_medio",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "perimetro_extremo",
+      "en": "extreme_perimeter",
+      "es": "perimetro_extremo",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "por lo que quitaremos una de las dos basándonos en la calificación obtenida en el desempeño del modelo.",
+      "en": "so we will remove one of the two based on the rating obtained in the model's performance.",
+      "es": "por lo que quitaremos una de las dos basándonos en la calificación obtenida en el desempeño del modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Logit sobre el modelo y ver la mejor calificación de radio_medio vs perimetro_extremo",
+      "en": "Logit on the model and see the best middle_radius vs end_perimeter score",
+      "es": "Logit sobre el modelo y ver la mejor calificación de radio_medio vs perimetro_extremo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahora las variables seleccionadas muestran una correlación en general baja, lo que aporta a la hipótesis de independencia. Ahora calificaremos nuevamente el desempeño de nuestro modelo. Primero obtendremos la nueva matriz de confusión y posteriormente la precisión.",
+      "en": "Now the selected variables show a generally low correlation, which contributes to the independence hypothesis. Now we will rate the performance of our model again. First we will obtain the new confusion matrix and then the precision.",
+      "es": "Ahora las variables seleccionadas muestran una correlación en general baja, lo que aporta a la hipótesis de independencia. Ahora calificaremos nuevamente el desempeño de nuestro modelo. Primero obtendremos la nueva matriz de confusión y posteriormente la precisión.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ya no hay variables dependientes o con altas correlaciones",
+      "en": "There are no longer dependent variables or variables with high correlations",
+      "es": "Ya no hay variables dependientes o con altas correlaciones",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahora nuestra precisión es de",
+      "en": "Now our precision is",
+      "es": "Ahora nuestra precisión es de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Así se ve la matriz de confusión:",
+      "en": "This is what the confusion matrix looks like:",
+      "es": "Así se ve la matriz de confusión:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Por último, vamos a comprobar con un",
+      "en": "Finally, let's check with a",
+      "es": "Por último, vamos a comprobar con un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ROC Curve",
+      "en": "ROC Curve",
+      "es": "ROC Curve",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "que es una herramienta usada en modelos de clasificación binarios, la forma de interpretar esta gráfica es que un clasificador preciso debe estar lo más lejos de la línea identidad (excepto en los extremos).",
+      "en": "which is a tool used in binary classification models, the way to interpret this graph is that an accurate classifier must be as far away from the identity line (except at the extremes).",
+      "es": "que es una herramienta usada en modelos de clasificación binarios, la forma de interpretar esta gráfica es que un clasificador preciso debe estar lo más lejos de la línea identidad (excepto en los extremos).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "ROC Curve para verificar la precisión del modelo",
+      "en": "ROC Curve to verify model accuracy",
+      "es": "ROC Curve para verificar la precisión del modelo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de este procesamiento, podemos concluir que tenemos una precisión del",
+      "en": "After this processing, we can conclude that we have an accuracy of",
+      "es": "Después de este procesamiento, podemos concluir que tenemos una precisión del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "en promedio la cual es inferior a la propuesta en el primer modelo de regresión logística, la ventaja de este último modelo es la",
+      "en": "on average which is lower than that proposed in the first logistic regression model, the advantage of this last model is the",
+      "es": "en promedio la cual es inferior a la propuesta en el primer modelo de regresión logística, la ventaja de este último modelo es la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "reducción de dimensión de 30 variables a 6 además de que se apega más a los supuestos del modelo de Regresión Logística",
+      "en": "dimension reduction from 30 variables to 6 in addition to being more in line with the assumptions of the Logistic Regression model",
+      "es": "reducción de dimensión de 30 variables a 6 además de que se apega más a los supuestos del modelo de Regresión Logística",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ", esto puede tener implicaciones en cuanto a generalización (que funcione en otras bases de datos) y costo computacional (menos tiempo de procesamiento).",
+      "en": ", this can have implications in terms of generalization (working in other databases) and computational cost (less processing time).",
+      "es": ", esto puede tener implicaciones en cuanto a generalización (que funcione en otras bases de datos) y costo computacional (menos tiempo de procesamiento).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Este algoritmo tiene como objetivo clasificar con base en distancias a hiperplanos diferentes clases de observaciones, es preferido por su nivel de precisión y su bajo costo computacional. Además otra ventaja de este algoritmo es que funciona bien para grandes dimensiones, es decir para gran cantidad de variables explicativas.",
+      "en": "This algorithm aims to classify different classes of observations based on distances to hyperplanes; it is preferred due to its level of precision and low computational cost. Furthermore, another advantage of this algorithm is that it works well for large dimensions, that is, for a large number of explanatory variables.",
+      "es": "Este algoritmo tiene como objetivo clasificar con base en distancias a hiperplanos diferentes clases de observaciones, es preferido por su nivel de precisión y su bajo costo computacional. Además otra ventaja de este algoritmo es que funciona bien para grandes dimensiones, es decir para gran cantidad de variables explicativas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de esta implementación obtuvimos una precisión del",
+      "en": "After this implementation we obtained a precision of",
+      "es": "Después de esta implementación obtuvimos una precisión del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "sin embargo, hay ciertas observaciones que es importante resaltar sobre este algoritmo.",
+      "en": "However, there are certain observations that are important to highlight about this algorithm.",
+      "es": "sin embargo, hay ciertas observaciones que es importante resaltar sobre este algoritmo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Este algoritmo no es muy preciso cuando no hay una clara separación entre las clases de variables, en nuestro caso puede observarse en la visualización de PCA que existen observaciones que están mezcladas entre clases.",
+      "en": "This algorithm is not very precise when there is no clear separation between the classes of variables. In our case, it can be seen in the PCA visualization that there are observations that are mixed between classes.",
+      "es": "Este algoritmo no es muy preciso cuando no hay una clara separación entre las clases de variables, en nuestro caso puede observarse en la visualización de PCA que existen observaciones que están mezcladas entre clases.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Este algoritmo optimiza distancias, es decir que no existe un fundamento estadístico para la clasificación, no considera la distribución de los datos.",
+      "en": "This algorithm optimizes distances, meaning that there is no statistical basis for the classification, it does not consider the distribution of the data.",
+      "es": "Este algoritmo optimiza distancias, es decir que no existe un fundamento estadístico para la clasificación, no considera la distribución de los datos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Implementaremos ahora el algoritmo de KNN que es un algoritmo no paramétrico usado con frecuencia como modelo de clasificación o regresión.",
+      "en": "We will now implement the KNN algorithm, which is a non-parametric algorithm frequently used as a classification or regression model.",
+      "es": "Implementaremos ahora el algoritmo de KNN que es un algoritmo no paramétrico usado con frecuencia como modelo de clasificación o regresión.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Primero graficaremos el número de clústers que maximiza la función.",
+      "en": "We will first plot the number of clusters that maximizes the function.",
+      "es": "Primero graficaremos el número de clústers que maximiza la función.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La maximización de clústers",
+      "en": "Cluster maximization",
+      "es": "La maximización de clústers",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Obtuvimos una precisión del",
+      "en": "We obtained a precision of",
+      "es": "Obtuvimos una precisión del",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "que es mayor a las precisiones obtenidas en los modelos anteriores, sin embargo hay que hacer ciertas observaciones sobre este modelo:",
+      "en": "which is greater than the precision obtained in the previous models, however, certain observations must be made about this model:",
+      "es": "que es mayor a las precisiones obtenidas en los modelos anteriores, sin embargo hay que hacer ciertas observaciones sobre este modelo:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Este modelo no tiene un buen desempeño cuando hay gran cantidad de variables.",
+      "en": "This model does not perform well when there are a large number of variables.",
+      "es": "Este modelo no tiene un buen desempeño cuando hay gran cantidad de variables.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Esto implica que para un nivel de precisión fijo, conforme crece el número de variables explicativas la cantidad de observaciones debe crecer de manera exponencial.",
+      "en": "This implies that for a fixed level of precision, as the number of explanatory variables grows, the number of observations must grow exponentially.",
+      "es": "Esto implica que para un nivel de precisión fijo, conforme crece el número de variables explicativas la cantidad de observaciones debe crecer de manera exponencial.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tiene poco poder de generalización, es decir, tiene problemas de sobreajuste.",
+      "en": "It has little generalization power, that is, it has overfitting problems.",
+      "es": "Tiene poco poder de generalización, es decir, tiene problemas de sobreajuste.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Los puntos anteriores implican que existe un gran costo computacional correr este algoritmo.",
+      "en": "The above points imply that there is a large computational cost to run this algorithm.",
+      "es": "Los puntos anteriores implican que existe un gran costo computacional correr este algoritmo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "And last but not least…",
+      "en": "And last but not least…",
+      "es": "Y por último, pero no menos importante...",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como esperábamos este modelo tiene una precisión del",
+      "en": "As we expected, this model has an accuracy of",
+      "es": "Como esperábamos este modelo tiene una precisión del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "que es la más alta con respecto a los demás modelos, algunos comentarios sobre este modelo son:",
+      "en": "which is the highest compared to the other models, some comments about this model are:",
+      "es": "que es la más alta con respecto a los demás modelos, algunos comentarios sobre este modelo son:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Este modelo es fundamentalmente predictivo, no explicativo, no tiene un sentido claro del procesamiento de información.",
+      "en": "This model is fundamentally predictive, not explanatory, it does not have a clear sense of information processing.",
+      "es": "Este modelo es fundamentalmente predictivo, no explicativo, no tiene un sentido claro del procesamiento de información.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para problemas complejos el costo computacional puede crecer demasiado.",
+      "en": "For complex problems the computational cost can grow too high.",
+      "es": "Para problemas complejos el costo computacional puede crecer demasiado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Después de probar los modelos anteriores notamos que cada una de las implementaciones tienen ventajas y desventajas, además existen modelos que se complementan entre sí como observamos en el caso de PCA, regresión logística y SVM, en donde un modelo de aprendizaje no supervisado puede trazar las posibilidades de clasificación y reducción de dimensiones, posteriormente implementar un modelo de aprendizaje supervisado para la predicción de la variable dependiente.",
+      "en": "After testing the previous models we noticed that each of the implementations has advantages and disadvantages, there are also models that complement each other as we see in the case of PCA, logistic regression and SVM, where an unsupervised learning model can trace the possibilities of classification and dimension reduction, subsequently implement a supervised learning model for the prediction of the dependent variable.",
+      "es": "Después de probar los modelos anteriores notamos que cada una de las implementaciones tienen ventajas y desventajas, además existen modelos que se complementan entre sí como observamos en el caso de PCA, regresión logística y SVM, en donde un modelo de aprendizaje no supervisado puede trazar las posibilidades de clasificación y reducción de dimensiones, posteriormente implementar un modelo de aprendizaje supervisado para la predicción de la variable dependiente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Cada problema tiene un contexto particular que debe ser considerado para la propuesta de modelos específicos, la cantidad y tipo de variables explicativas configuran el marco de referencia para la implementación de modelos.",
+      "en": "Each problem has a particular context that must be considered for the proposal of specific models, the quantity and type of explanatory variables configure the reference framework for the implementation of models.",
+      "es": "Cada problema tiene un contexto particular que debe ser considerado para la propuesta de modelos específicos, la cantidad y tipo de variables explicativas configuran el marco de referencia para la implementación de modelos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "En el caso particular de nuestro problema, el objetivo de predicción de la variable dependiente",
+      "en": "In the particular case of our problem, the prediction objective of the dependent variable",
+      "es": "En el caso particular de nuestro problema, el objetivo de predicción de la variable dependiente",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "diagnóstico",
+      "en": "diagnosis",
+      "es": "diagnóstico",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "puede ser abordado en general desde dos perspectivas:",
+      "en": "It can be approached in general from two perspectives:",
+      "es": "puede ser abordado en general desde dos perspectivas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Por un lado, tenemos la meta de pronósticar con la mayor precisión si el diagnóstico para la paciente es favorable o lamentablemente desfavorable, de acuerdo a las métricas obtenidas si seguimos esta única meta el modelo de",
+      "en": "On the one hand, we have the goal of predicting with the greatest precision whether the diagnosis for the patient is favorable or unfortunately unfavorable, according to the metrics obtained if we follow this single goal, the model of",
+      "es": "Por un lado, tenemos la meta de pronósticar con la mayor precisión si el diagnóstico para la paciente es favorable o lamentablemente desfavorable, de acuerdo a las métricas obtenidas si seguimos esta única meta el modelo de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "nos da una precisión superior a los demás lo que se traduce en un error mínimo al clasificar, sin embargo es cuestionable su generalización a otras bases de datos relacionadas con este problema.",
+      "en": "It gives us a higher precision than the others which translates into a minimum error when classifying, however its generalization to other databases related to this problem is questionable.",
+      "es": "nos da una precisión superior a los demás lo que se traduce en un error mínimo al clasificar, sin embargo es cuestionable su generalización a otras bases de datos relacionadas con este problema.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Por otro lado, tenemos la meta de generalizar este modelo a otras bases de datos, por lo que en este sentido nos inclinamos por el modelo de Regresión Logística paso a paso, dado que además de que se apega mejor a los supuestos específicos del modelo disminuye la dimensión del problema de 30 variables explicativas a 6 varaiables, esto último tiene impacto positivo en términos de procesamiento computacional y almacenamiento/recolección de datos.",
+      "en": "On the other hand, we have the goal of generalizing this model to other databases, so in this sense we lean towards the Logistic Regression model step by step, since in addition to the fact that it adheres better to the specific assumptions of the model, it reduces the dimension of the problem from 30 explanatory variables to 6 variables, the latter has a positive impact in terms of computational processing and data storage/collection.",
+      "es": "Por otro lado, tenemos la meta de generalizar este modelo a otras bases de datos, por lo que en este sentido nos inclinamos por el modelo de Regresión Logística paso a paso, dado que además de que se apega mejor a los supuestos específicos del modelo disminuye la dimensión del problema de 30 variables explicativas a 6 varaiables, esto último tiene impacto positivo en términos de procesamiento computacional y almacenamiento/recolección de datos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Es cierto que para el objetivo de generalización perdemos puntos porcentuales de precisión (dado que la Regresión Logística paso a paso tiene una precisión del 92% en promedio) pero la ventaja de generalizar este modelo es una prioridad específicamente dadas las cifras de mortalidad que actualmente están asociadas al cáncer de mama.",
+      "en": "It is true that for the generalization objective we lose percentage points of precision (given that step-by-step Logistic Regression has a precision of 92% on average) but the advantage of generalizing this model is a priority specifically given the mortality figures that are currently associated with breast cancer.",
+      "es": "Es cierto que para el objetivo de generalización perdemos puntos porcentuales de precisión (dado que la Regresión Logística paso a paso tiene una precisión del 92% en promedio) pero la ventaja de generalizar este modelo es una prioridad específicamente dadas las cifras de mortalidad que actualmente están asociadas al cáncer de mama.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Extender este modelo a bases de datos generadas por otros países, especialmente los de menor ingreso y peor cobertura de salud pública se traduce en menores tiempos de espera en diagnóstico, menor costo de procedimientos y tratamiento oportuno para las pacientes.",
+      "en": "Extending this model to databases generated by other countries, especially those with lower income and worse public health coverage, translates into shorter waiting times for diagnosis, lower costs of procedures, and timely treatment for patients.",
+      "es": "Extender este modelo a bases de datos generadas por otros países, especialmente los de menor ingreso y peor cobertura de salud pública se traduce en menores tiempos de espera en diagnóstico, menor costo de procedimientos y tratamiento oportuno para las pacientes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Otra ventaja en términos prácticos que sigue el mismo eje, es que las variables relevantes incluídas en el modelo final son 6, lo que representa una disminución del 80% en la dimensión del problema,",
+      "en": "Another advantage in practical terms that follows the same axis is that the relevant variables included in the final model are 6, which represents an 80% decrease in the dimension of the problem.",
+      "es": "Otra ventaja en términos prácticos que sigue el mismo eje, es que las variables relevantes incluídas en el modelo final son 6, lo que representa una disminución del 80% en la dimensión del problema,",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "para los países con menor presupuesto para investigación y salud será más barato crear bases de datos con solo 6 métricas por observación, también el almacenamiento y el posterior procesamiento de la información será más fácil y oportuno",
+      "en": "For countries with a lower budget for research and health, it will be cheaper to create databases with only 6 metrics per observation, and the storage and subsequent processing of information will also be easier and more timely.",
+      "es": "para los países con menor presupuesto para investigación y salud será más barato crear bases de datos con solo 6 métricas por observación, también el almacenamiento y el posterior procesamiento de la información será más fácil y oportuno",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Los datos presentados en la introducción fueron obtenidos de los siguientes artículos:",
+      "en": "The data presented in the introduction was obtained from the following articles:",
+      "es": "Los datos presentados en la introducción fueron obtenidos de los siguientes artículos:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "María José Sedano Castañeda",
+      "en": "María José Sedano Castañeda",
+      "es": "María José Sedano Castañeda",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Dante Fernando Bazaldua Huerta",
+      "en": "Dante Fernando Bazaldua Huerta",
+      "es": "Dante Fernando Bazaldua Huerta",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Carlos Alberto Gomez Vazquez",
+      "en": "Carlos Alberto Gomez Vazquez",
+      "es": "Carlos Alberto Gomez Vazquez",
+      "reviewed": false,
+      "translationVersion": 2
+    }
+  ]
+}

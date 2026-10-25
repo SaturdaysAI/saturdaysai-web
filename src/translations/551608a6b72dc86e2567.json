@@ -1,0 +1,535 @@
+{
+  "title": "CiclopeIA: Inteligencia artificial para la ayuda a personas con discapacidad visual",
+  "route": "/2022/03/09/machine-learning-para-ayuda-invidentes/",
+  "segments": [
+    {
+      "source": "Latam online. Segunda Edición. 2021 A mucha gente le motiva los retos en el trabajo, en los estudios y en la vida en general, pero pregunto, puedes imaginar una vida en donde cada día existen retos diferentes, iniciando desde…",
+      "en": "Latam online. Second Edition. 2021 Many people are motivated by challenges at work, in studies and in life in general, but I ask, can you imagine a life where every day there are different challenges, starting from...",
+      "es": "Latam online. Segunda Edición. 2021 A mucha gente le motiva los retos en el trabajo, en los estudios y en la vida en general, pero pregunto, puedes imaginar una vida en donde cada día existen retos diferentes, iniciando desde…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Alcance inicial del proyecto",
+      "en": "Initial Project Scope",
+      "es": "Alcance inicial del proyecto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "IA Aplicada",
+      "en": "Applied AI",
+      "es": "IA Aplicada",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Video de demostración",
+      "en": "Demo video",
+      "es": "Video de demostración",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Refererencias",
+      "en": "References",
+      "es": "Refererencias",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "A mucha gente le motiva los retos en el trabajo, en los estudios y en la vida en general, pero pregunto, puedes imaginar una vida en donde cada día existen retos diferentes, iniciando desde la mañana cuando al levantarte y tomar un refrescante baño en la mañana, debes hacer lo necesario para no tropezar en el camino para encontrar tu ropa y combinarla adecuadamente para la ocasión, pues hoy debes ir al centro de la ciudad a cumplir con unos trámites burocráticos que requieres, además de hacer las compras del supermercado para la semana. Luego de prepararte un café y conseguir que no se te riegue del borde de la taza, estás listo para empezar tu día, sales de tu casa y esperas no tener que tropezar con obstáculos que son comunes en la calle: basura que no llegó a su respectivo tacho, las mejoras de la ciudad caracterizadas por sus constantes cambios de planificación a costa de dejar trabajos inconclusos en las calles, los no tan amigables perros en la calle que podrían poner a prueba tu instinto y la razón, pero bueno es algo que uno ya sabe y lo que debe hacer es llegar hasta la estación del bus y esperar que algún transeúnte de buen corazón te ayude a identificar la línea de bus que te acerque a tu destino. Ya habrá tiempo para ir luego al supermercado, conseguir lo necesario y confiar en recibir lo justo como cambio o tener la seguridad de pagar lo que corresponda.",
+      "en": "Many people are motivated by challenges at work, in studies and in life in general, but I ask, can you imagine a life where every day there are different challenges, starting in the morning when when you get up and take a refreshing bath in the morning, you must do what is necessary to not trip on the way to find your clothes and combine them appropriately for the occasion, because today you must go to the center of the city to complete some bureaucratic procedures that you require, in addition to doing the supermarket shopping for the week. After making a coffee and ensuring that it does not spill over the edge of the cup, you are ready to start your day, you leave your house and hope that you do not have to trip over obstacles that are common on the street: garbage that did not reach its respective bin, the improvements of the city characterized by its constant planning changes at the cost of leaving unfinished work in the streets, the not so friendly dogs on the street that could test your instinct and reason, but hey, it is something that one already knows and it What you should do is get to the bus station and wait for some kind-hearted passerby to help you identify the bus line that brings you closer to your destination. There will be time to go to the supermarket later, get what you need and trust that you will receive the right amount in change or have the security of paying what is appropriate.",
+      "es": "A mucha gente le motiva los retos en el trabajo, en los estudios y en la vida en general, pero pregunto, puedes imaginar una vida en donde cada día existen retos diferentes, iniciando desde la mañana cuando al levantarte y tomar un refrescante baño en la mañana, debes hacer lo necesario para no tropezar en el camino para encontrar tu ropa y combinarla adecuadamente para la ocasión, pues hoy debes ir al centro de la ciudad a cumplir con unos trámites burocráticos que requieres, además de hacer las compras del supermercado para la semana. Luego de prepararte un café y conseguir que no se te riegue del borde de la taza, estás listo para empezar tu día, sales de tu casa y esperas no tener que tropezar con obstáculos que son comunes en la calle: basura que no llegó a su respectivo tacho, las mejoras de la ciudad caracterizadas por sus constantes cambios de planificación a costa de dejar trabajos inconclusos en las calles, los no tan amigables perros en la calle que podrían poner a prueba tu instinto y la razón, pero bueno es algo que uno ya sabe y lo que debe hacer es llegar hasta la estación del bus y esperar que algún transeúnte de buen corazón te ayude a identificar la línea de bus que te acerque a tu destino. Ya habrá tiempo para ir luego al supermercado, conseguir lo necesario y confiar en recibir lo justo como cambio o tener la seguridad de pagar lo que corresponda.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Estas situaciones describen una vida llena de retos que deben afrontar las personas no videntes cotidianamente, y que muchas veces les impide integrarse socialmente en entornos laborales, comerciales, de ocio e incluso incrementan su dependencia de terceros, lo cual supone, además, un impacto psicológico que eventualmente y de a poco va minando su autoestima.",
+      "en": "These situations describe a life full of challenges that blind people must face on a daily basis, and that often prevent them from socially integrating into work, commercial, and leisure environments and even increase their dependence on third parties, which also has a psychological impact that eventually and little by little undermines their self-esteem.",
+      "es": "Estas situaciones describen una vida llena de retos que deben afrontar las personas no videntes cotidianamente, y que muchas veces les impide integrarse socialmente en entornos laborales, comerciales, de ocio e incluso incrementan su dependencia de terceros, lo cual supone, además, un impacto psicológico que eventualmente y de a poco va minando su autoestima.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Dependiendo de la edad en que las personas no-videntes pierden el sentido de la vista puede llegar a ser una experiencia más o menos traumática que podrá ser llevadera si se cuenta con apoyo emocional sobre todo en la etapa inicial y se trabaja fuertemente para educarse y adaptarse a su nueva condición y calidad de vida, que demandará pasar por un tortuoso camino de duelo por la pérdida de la vista.",
+      "en": "Depending on the age at which blind people lose their sense of sight, it can become a more or less traumatic experience that can be bearable if they have emotional support, especially in the initial stage, and work hard to educate themselves and adapt to their new condition and quality of life, which will require going through a tortuous path of mourning for the loss of sight.",
+      "es": "Dependiendo de la edad en que las personas no-videntes pierden el sentido de la vista puede llegar a ser una experiencia más o menos traumática que podrá ser llevadera si se cuenta con apoyo emocional sobre todo en la etapa inicial y se trabaja fuertemente para educarse y adaptarse a su nueva condición y calidad de vida, que demandará pasar por un tortuoso camino de duelo por la pérdida de la vista.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "A pesar de estas situaciones nada alentadoras, existen muchas personas que no se dejan vencer por la adversidad y logran con éxito adaptarse tanto emocional y socialmente para llevar una vida digna y con razones para continuar retando la adversidad día a día.",
+      "en": "Despite these not very encouraging situations, there are many people who do not let themselves be defeated by adversity and successfully adapt both emotionally and socially to lead a dignified life and with reasons to continue challenging adversity day by day.",
+      "es": "A pesar de estas situaciones nada alentadoras, existen muchas personas que no se dejan vencer por la adversidad y logran con éxito adaptarse tanto emocional y socialmente para llevar una vida digna y con razones para continuar retando la adversidad día a día.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "De acuerdo a la OMS",
+      "en": "According to the WHO",
+      "es": "De acuerdo a la OMS",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "A nivel mundial, se estima que aproximadamente 1300 millones de personas viven con alguna forma de deficiencia visual.",
+      "en": "Globally, it is estimated that approximately 1.3 billion people live with some form of vision impairment.",
+      "es": "A nivel mundial, se estima que aproximadamente 1300 millones de personas viven con alguna forma de deficiencia visual.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "A nivel mundial, las principales causas de la visión deficiente son los errores de refracción no corregidos y las cataratas.",
+      "en": "Globally, the main causes of poor vision are uncorrected refractive errors and cataracts.",
+      "es": "A nivel mundial, las principales causas de la visión deficiente son los errores de refracción no corregidos y las cataratas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "La mayoría de las personas con visión deficiente tienen más de 50 años.”",
+      "en": "“Most people with low vision are over 50 years old.”",
+      "es": "La mayoría de las personas con visión deficiente tienen más de 50 años.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Además, El deterioro de la vista o su pérdida, tiene impactos en la calidad de vida de las personas que lo padecen, de acuerdo a OMS, “Los niños pequeños con deterioro grave de la visión a edad temprana pueden sufrir retrasos en el desarrollo motor, lingüístico, emocional, social y cognitivo”.",
+      "en": "In addition, vision impairment or loss has impacts on the quality of life of people who suffer from it, according to WHO, “Young children with severe vision impairment at an early age may suffer delays in motor, linguistic, emotional, social and cognitive development.”",
+      "es": "Además, El deterioro de la vista o su pérdida, tiene impactos en la calidad de vida de las personas que lo padecen, de acuerdo a OMS, “Los niños pequeños con deterioro grave de la visión a edad temprana pueden sufrir retrasos en el desarrollo motor, lingüístico, emocional, social y cognitivo”.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“En el caso de los adultos mayores, el deterioro de la visión puede contribuir al aislamiento social, a la dificultad para caminar, a un mayor riesgo de caídas y fracturas, y a una mayor probabilidad de ingreso temprano en residencias de ancianos.”",
+      "en": "“For older adults, vision impairment can contribute to social isolation, difficulty walking, increased risk of falls and fractures, and increased likelihood of early admission to nursing homes.”",
+      "es": "“En el caso de los adultos mayores, el deterioro de la visión puede contribuir al aislamiento social, a la dificultad para caminar, a un mayor riesgo de caídas y fracturas, y a una mayor probabilidad de ingreso temprano en residencias de ancianos.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "The Lancet Global Health [ 2]",
+      "en": "The Lancet Global Health [ 2]",
+      "es": "La salud mundial de Lancet [ 2]",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "afirma que:",
+      "en": "states that:",
+      "es": "afirma que:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "“En 2020, un estimado de 596 millones de personas a nivel mundial, tienen deficiencia de visión a distancia, y de estos 43 millones son ciegos.”",
+      "en": "“In 2020, an estimated 596 million people worldwide have distance vision deficiency, and of these 43 million are blind.”",
+      "es": "“En 2020, un estimado de 596 millones de personas a nivel mundial, tienen deficiencia de visión a distancia, y de estos 43 millones son ciegos.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“Una proporción grande de estos (90%), viven en países de ingresos bajos o medios”.",
+      "en": "“A large proportion of these (90%) live in low- or middle-income countries.”",
+      "es": "“Una proporción grande de estos (90%), viven en países de ingresos bajos o medios”.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“Para 2050, el envejecimiento de la población, el crecimiento y la urbanización conllevarán un estimado de 895 millones de personas con deficiencia visual a distancia y 61 millones de ciegos.”",
+      "en": "“By 2050, population aging, growth and urbanization will lead to an estimated 895 million people with distance vision impairment and 61 million blind.”",
+      "es": "“Para 2050, el envejecimiento de la población, el crecimiento y la urbanización conllevarán un estimado de 895 millones de personas con deficiencia visual a distancia y 61 millones de ciegos.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ante esta problemática,",
+      "en": "Given this problem,",
+      "es": "Ante esta problemática,",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "y como parte de la aplicación práctica de un curso de Machine Learning [ 3]",
+      "en": "and as part of the practical application of a Machine Learning course [ 3]",
+      "es": "y como parte de la aplicación práctica de un curso de Machine Learning [ 3]",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "e Inteligencia Artificial (IA)",
+      "en": "and Artificial Intelligence (AI)",
+      "es": "e Inteligencia Artificial (IA)",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "nace la idea de usar la tecnología para identificar ideas que puedan abordar la problemática de las personas con discapacidad visual y diseñar una herramienta que les apoye en la consecución de sus actividades cotidianas. La idea del grupo fue pensar en un proyecto que pueda aportar socialmente y que tenga un impacto en la comunidad. Desde el punto de vista de los Objetivos de Desarrollo Sostenible (ODS)",
+      "en": "The idea of using technology to identify ideas that can address the problems of people with visual disabilities and design a tool that supports them in achieving their daily activities was born. The group's idea was to think of a project that could contribute socially and have an impact on the community. From the point of view of the Sustainable Development Goals (SDGs)",
+      "es": "nace la idea de usar la tecnología para identificar ideas que puedan abordar la problemática de las personas con discapacidad visual y diseñar una herramienta que les apoye en la consecución de sus actividades cotidianas. La idea del grupo fue pensar en un proyecto que pueda aportar socialmente y que tenga un impacto en la comunidad. Desde el punto de vista de los Objetivos de Desarrollo Sostenible (ODS)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "estarían relacionados_:_ Salud y bienestar, Industria, innovación e infraestructura, reducción de las desigualdades y alianzas para lograr los objetivos.",
+      "en": "would be related_:_ Health and well-being, Industry, innovation and infrastructure, reduction of inequalities and alliances to achieve the objectives.",
+      "es": "estarían relacionados_:_ Salud y bienestar, Industria, innovación e infraestructura, reducción de las desigualdades y alianzas para lograr los objetivos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "El proyecto",
+      "en": "The project",
+      "es": "El proyecto",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ciclope.IA,",
+      "en": "Cyclops.AI,",
+      "es": "Ciclope.IA,",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "como lo hemos llamado, busca integrar en una aplicación para celular, diferentes opciones (skills) orientadas a solucionar limitaciones que experimentan personas con discapacidad visual en sus actividades cotidianas tales como: Reconocimiento de billetes y monedas de manera rápida y efectiva, identificación de la línea de autobús, identificación de colores, conocer el nivel de llenado de un recipiente, encontrar objetos perdidos, etc.",
+      "en": "As we have called it, it seeks to integrate into a cell phone application, different options (skills) aimed at solving limitations that people with visual disabilities experience in their daily activities such as: Recognition of bills and coins quickly and effectively, identification of the bus line, identification of colors, knowing the fill level of a container, finding lost objects, etc.",
+      "es": "como lo hemos llamado, busca integrar en una aplicación para celular, diferentes opciones (skills) orientadas a solucionar limitaciones que experimentan personas con discapacidad visual en sus actividades cotidianas tales como: Reconocimiento de billetes y monedas de manera rápida y efectiva, identificación de la línea de autobús, identificación de colores, conocer el nivel de llenado de un recipiente, encontrar objetos perdidos, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Como se puede observar las opciones que se pretenden integrar son ambiciosas y demandarán un trabajo extenso, sin embargo, es necesario empezar por algo, se suele decir que una “torta se la come en pedazos” y es por ello que la aplicación inicialmente dispone de la funcionalidad que permite al usuario reconocer la cantidad de dinero en efectivo en dólares (billetes), haciendo uso de la cámara de su celular. Posterior a la detección, la",
+      "en": "As you can see, the options that are intended to be integrated are ambitious and will require extensive work, however, it is necessary to start somewhere, it is often said that a “cake is eaten in pieces” and that is why the application initially has the functionality that allows the user to recognize the amount of cash in dollars (bills), using the camera of their cell phone. After detection, the",
+      "es": "Como se puede observar las opciones que se pretenden integrar son ambiciosas y demandarán un trabajo extenso, sin embargo, es necesario empezar por algo, se suele decir que una “torta se la come en pedazos” y es por ello que la aplicación inicialmente dispone de la funcionalidad que permite al usuario reconocer la cantidad de dinero en efectivo en dólares (billetes), haciendo uso de la cámara de su celular. Posterior a la detección, la",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "reproduce un mensaje de voz con el resultado del monto reconocido. El uso de Ciclope.IA brinda al usuario seguridad y autonomía al momento de realizar transacciones en efectivo y disminuye el riesgo de ser víctima de engaño. La interacción con la aplicación se puede realizar en idioma español bajo el sistema operativo Android.",
+      "en": "plays a voice message with the result of the recognized amount. The use of Ciclope.IA provides the user with security and autonomy when making cash transactions and reduces the risk of being a victim of deception. Interaction with the application can be done in Spanish under the Android operating system.",
+      "es": "reproduce un mensaje de voz con el resultado del monto reconocido. El uso de Ciclope.IA brinda al usuario seguridad y autonomía al momento de realizar transacciones en efectivo y disminuye el riesgo de ser víctima de engaño. La interacción con la aplicación se puede realizar en idioma español bajo el sistema operativo Android.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Cuando iniciamos el proyecto y luego de un acercamiento con un grupo de no-videntes identificamos algunas opciones (skills) que deberíamos incluir en la aplicación, así que para tomamos la opción más frecuentemente demandada que es la de identificación de billetes al momento de realizar transacciones monetarias con terceros. Adicionalmente se conoció que la mejor forma de interacción con personas no-videntes es a través de audio, por lo que decidimos que la interacción del usuario con la aplicación se debía hacer a través de voz tanto de entrada como de salida.",
+      "en": "When we started the project and after an approach with a group of blind people, we identified some options (skills) that we should include in the application, so we took the most frequently requested option, which is the identification of banknotes when carrying out monetary transactions with third parties. Additionally, it was known that the best way to interact with blind people is through audio, so we decided that the user's interaction with the application should be done through voice, both input and output.",
+      "es": "Cuando iniciamos el proyecto y luego de un acercamiento con un grupo de no-videntes identificamos algunas opciones (skills) que deberíamos incluir en la aplicación, así que para tomamos la opción más frecuentemente demandada que es la de identificación de billetes al momento de realizar transacciones monetarias con terceros. Adicionalmente se conoció que la mejor forma de interacción con personas no-videntes es a través de audio, por lo que decidimos que la interacción del usuario con la aplicación se debía hacer a través de voz tanto de entrada como de salida.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para soportar nuestra configuración revisamos en algunas estadísticas en el sitio yiminshum.com, “actualmente hay 5.190 millones de usuarios únicos en dispositivos móviles, donde no divide el tipo de teléfono, esto cubre el 67% de la población.”",
+      "en": "To support our configuration we reviewed some statistics on the site yiminshum.com, “there are currently 5.19 billion unique users on mobile devices, where it does not divide the type of phone, this covers 67% of the population.”",
+      "es": "Para soportar nuestra configuración revisamos en algunas estadísticas en el sitio yiminshum.com, “actualmente hay 5.190 millones de usuarios únicos en dispositivos móviles, donde no divide el tipo de teléfono, esto cubre el 67% de la población.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“El 73% de las personas están conectadas y comparten su tiempo desde un teléfono inteligente o smartphone. El 23,5% está asociado en un teléfono común, donde sus funciones son las básicas y limitadas que debe cumplir un teléfono que es llamar y enviar mensajes y el 3,6% está asociado a un router, tablet o PC móvil.”",
+      "en": "\"73% of people are connected and share their time from a smartphone. 23.5% are associated with a common telephone, where its functions are the basic and limited ones that a telephone must fulfill, which is to call and send messages, and 3.6% are associated with a router, tablet or mobile PC.\"",
+      "es": "“El 73% de las personas están conectadas y comparten su tiempo desde un teléfono inteligente o smartphone. El 23,5% está asociado en un teléfono común, donde sus funciones son las básicas y limitadas que debe cumplir un teléfono que es llamar y enviar mensajes y el 3,6% está asociado a un router, tablet o PC móvil.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "“OS mejor conocido como sistema operativo, son importantes para el funcionamiento de los equipos en el mundo, el 74% de los usuarios son en equipos Android, 25% es iOS, 0,4% es KAI, 0,2% Samsung OS y 0,6% otros sistemas operativos.”",
+      "en": "“OS, better known as an operating system, is important for the operation of computers in the world, 74% of users are on Android devices, 25% is iOS, 0.4% is KAI, 0.2% is Samsung OS and 0.6% is other operating systems.”",
+      "es": "“OS mejor conocido como sistema operativo, son importantes para el funcionamiento de los equipos en el mundo, el 74% de los usuarios son en equipos Android, 25% es iOS, 0,4% es KAI, 0,2% Samsung OS y 0,6% otros sistemas operativos.”",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Con esta información se limitó el alcance del proyecto a teléfonos inteligentes Android que cubre una gran parte del mercado sobre todo en lugares diferentes a los Estados Unidos, a países hispanohablantes y que tengan su moneda de uso corriente el Dólar.",
+      "en": "With this information, the scope of the project was limited to Android smartphones, which cover a large part of the market, especially in places other than the United States, to Spanish-speaking countries that have the dollar as their currency.",
+      "es": "Con esta información se limitó el alcance del proyecto a teléfonos inteligentes Android que cubre una gran parte del mercado sobre todo en lugares diferentes a los Estados Unidos, a países hispanohablantes y que tengan su moneda de uso corriente el Dólar.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Frente a la problemática identificada se determinó que la mejor manera de apoyar a personas no-videntes es desarrollar una aplicación para celular que haga las veces de sus ojos en situaciones que se requieran, para ello desde el punto de vista técnico se exploraron diferentes modelos de reconocimiento de imágenes que podrían aplicarse, y al final se decidió usar YoloV5 por la versatilidad al momento de identificar objetos y basados en pruebas realizadas por Towards Data Science [6] que recomiendan el modelo frente a otro también muy conocido, otros elementos que consideramos fue la posibilidad de usar el modelo sin necesidad de tener una conexión de internet activa sino un modelo pre-entrenado que se copia en el celular en una versión Pytorch Lite que ocupe menos tamaño y recursos.",
+      "en": "Faced with the identified problem, it was determined that the best way to support blind people is to develop a cell phone application that acts as their eyes in situations that are required. For this, from a technical point of view, different image recognition models that could be applied were explored, and in the end it was decided to use YoloV5 due to its versatility when identifying objects and based on tests carried out by Towards Data Science [6] that recommend the model over another also well-known one. Other elements that we considered were the possibility of using the model without the need to have an active internet connection but rather a pre-trained model that is copied to the cell phone in a Pytorch Lite version that takes up less size and resources.",
+      "es": "Frente a la problemática identificada se determinó que la mejor manera de apoyar a personas no-videntes es desarrollar una aplicación para celular que haga las veces de sus ojos en situaciones que se requieran, para ello desde el punto de vista técnico se exploraron diferentes modelos de reconocimiento de imágenes que podrían aplicarse, y al final se decidió usar YoloV5 por la versatilidad al momento de identificar objetos y basados en pruebas realizadas por Towards Data Science [6] que recomiendan el modelo frente a otro también muy conocido, otros elementos que consideramos fue la posibilidad de usar el modelo sin necesidad de tener una conexión de internet activa sino un modelo pre-entrenado que se copia en el celular en una versión Pytorch Lite que ocupe menos tamaño y recursos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para entrenar el modelo, se exploró opciones de dataset disponibles, desafortunadamente no se consiguió uno por lo que se optó por crear un dataset propio.",
+      "en": "To train the model, available dataset options were explored. Unfortunately, one was not available, so we decided to create our own dataset.",
+      "es": "Para entrenar el modelo, se exploró opciones de dataset disponibles, desafortunadamente no se consiguió uno por lo que se optó por crear un dataset propio.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Unos de los grandes retos, justamente fue afinar el dataset para que incluya las imágenes adecuadas, considerando diferentes escenarios en los que podrían estar los billetes, considerar el reverso y adverso, y la cantidad suficientes de imágenes. Para conseguir las imágenes se usó una herramienta de Web scrapping y posteriormente con la herramienta online",
+      "en": "One of the big challenges was precisely fine-tuning the dataset so that it includes the appropriate images, considering different scenarios in which the bills could be, considering the reverse and adverse, and sufficient number of images. To obtain the images, a Web scrapping tool was used and later with the online tool.",
+      "es": "Unos de los grandes retos, justamente fue afinar el dataset para que incluya las imágenes adecuadas, considerando diferentes escenarios en los que podrían estar los billetes, considerar el reverso y adverso, y la cantidad suficientes de imágenes. Para conseguir las imágenes se usó una herramienta de Web scrapping y posteriormente con la herramienta online",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "se asignó a cada imagen las etiquetas para identificar a cada billete en las diferentes imágenes.",
+      "en": "Labels were assigned to each image to identify each bill in the different images.",
+      "es": "se asignó a cada imagen las etiquetas para identificar a cada billete en las diferentes imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Luego de entrenar el modelo en la herramienta colab de Google se obtuvo un archivo con el mejor modelo generado y se lo uso en la aplicación de celular.",
+      "en": "After training the model in Google's colab tool, a file was obtained with the best model generated and used in the cell phone application.",
+      "es": "Luego de entrenar el modelo en la herramienta colab de Google se obtuvo un archivo con el mejor modelo generado y se lo uso en la aplicación de celular.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Sin lugar a dudas la IA dará solución a muchas problemáticas del día de hoy y permitirá que su aplicación se extienda masivamente en diferentes áreas del conocimiento y de la vida cotidiana. Nuestro trabajo es una pequeña muestra del potencial a explotar con IA y un aporte para aquellos interesados en apoyar a grupos como los no-videntes que deben superar la adversidad con poco o limitado apoyo de la sociedad.",
+      "en": "Without a doubt, AI will provide solutions to many of today's problems and will allow its application to spread massively in different areas of knowledge and daily life. Our work is a small sample of the potential to be exploited with AI and a contribution for those interested in supporting groups such as the blind who must overcome adversity with little or limited support from society.",
+      "es": "Sin lugar a dudas la IA dará solución a muchas problemáticas del día de hoy y permitirá que su aplicación se extienda masivamente en diferentes áreas del conocimiento y de la vida cotidiana. Nuestro trabajo es una pequeña muestra del potencial a explotar con IA y un aporte para aquellos interesados en apoyar a grupos como los no-videntes que deben superar la adversidad con poco o limitado apoyo de la sociedad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Las herramientas de Inteligencia Artificial pueden ser usadas para múltiples propósitos, sin embargo, desarrollar productos que permitan dar solución a necesidades de carácter social, representan una oportunidad enorme que reditúa en bienestar y mejora de la calidad de vida de grupos minoritarios de la sociedad.",
+      "en": "Artificial Intelligence tools can be used for multiple purposes, however, developing products that provide solutions to social needs represents an enormous opportunity that results in well-being and improvement in the quality of life of minority groups in society.",
+      "es": "Las herramientas de Inteligencia Artificial pueden ser usadas para múltiples propósitos, sin embargo, desarrollar productos que permitan dar solución a necesidades de carácter social, representan una oportunidad enorme que reditúa en bienestar y mejora de la calidad de vida de grupos minoritarios de la sociedad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Desde el punto de vista técnico el proyecto representó una oportunidad para continuar aprendiendo de este apasionante mundo de la IA y entender entre otras cosas que para crear modelos efectivos es importante trabajar de manera exhaustiva en:",
+      "en": "From a technical point of view, the project represented an opportunity to continue learning from this exciting world of AI and understand, among other things, that to create effective models it is important to work exhaustively on:",
+      "es": "Desde el punto de vista técnico el proyecto representó una oportunidad para continuar aprendiendo de este apasionante mundo de la IA y entender entre otras cosas que para crear modelos efectivos es importante trabajar de manera exhaustiva en:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Crear o disponer de datasets de calidad.",
+      "en": "Create or have quality datasets.",
+      "es": "Crear o disponer de datasets de calidad.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Aplicar diferentes modelos para evaluar el desempeño.",
+      "en": "Apply different models to evaluate performance.",
+      "es": "Aplicar diferentes modelos para evaluar el desempeño.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Hacer a los usuarios participes del desarrollo de productos.",
+      "en": "Make users participate in product development.",
+      "es": "Hacer a los usuarios participes del desarrollo de productos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Trabajar con equipos multidisciplinarios.",
+      "en": "Work with multidisciplinary teams.",
+      "es": "Trabajar con equipos multidisciplinarios.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Mantener una permanente búsqueda de nuevas soluciones.",
+      "en": "Maintain a permanent search for new solutions.",
+      "es": "Mantener una permanente búsqueda de nuevas soluciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "[1] Organización Mundial De La Salud. (2021).",
+      "en": "[1] World Health Organization. (2021).",
+      "es": "[1] Organización Mundial De La Salud. (2021).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ceguera y discapacidad visual.",
+      "en": "Blindness and visual impairment.",
+      "es": "Ceguera y discapacidad visual.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Retrieved January 12, 2022, from",
+      "en": "Retrieved January 12, 2022, from",
+      "es": "Consultado el 12 de enero de 2022,",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[2] The Lancet Global Health. (2021).",
+      "en": "[2] The Lancet Global Health. (2021).",
+      "es": "[2] La Salud Global Lancet. (2021).",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "The Lancet Global Health Commission On Global Eye Health: Vision Beyond 2020. Retrieved January 12, 2022, from",
+      "en": "The Lancet Global Health Commission On Global Eye Health: Vision Beyond 2020. Retrieved January 12, 2022, from",
+      "es": "La Comisión Mundial de Salud de Lancet sobre Salud Ocular Global: Visión Más allá de 2020. Consultado el 12 de enero de 2022, desde",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "[3] BBVA (2019).",
+      "en": "[3] BBVA (2019).",
+      "es": "[3] BBVA (2019).",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Machine Learning que es y cómo funciona?",
+      "en": "What is Machine Learning and how does it work?",
+      "es": "¿Machine Learning que es y cómo funciona?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Retrieved February 4, 2022 from",
+      "en": "Retrieved February 4, 2022 from",
+      "es": "Consultado el 4 de febrero de 2022 desde",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Juan Antonio Pascual Estapé",
+      "en": "Juan Antonio Pascual Estapé",
+      "es": "Juan Antonio Pascual Estapé",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(2019). Inteligencia artificial: qué es, cómo funciona y para qué se utiliza en la actualidad. Retrieved February 4, 2022 from",
+      "en": "(2019). Artificial intelligence: what it is, how it works and what it is currently used for. Retrieved February 4, 2022 from",
+      "es": "(2019). Inteligencia artificial: qué es, cómo funciona y para qué se utiliza en la actualidad. Retrieved February 4, 2022 from",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "[5] Naciones Unidades (2021). La agenda para el desarrollo sostenible. Retrieved February 4, 2022.",
+      "en": "[5] United Nations (2021). The agenda for sustainable development. Retrieved February 4, 2022.",
+      "es": "[5] Naciones Unidades (2021). La agenda para el desarrollo sostenible. Retrieved February 4, 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "[6] Towards Data Science (2020). YOLOv5 compared to Faster RCNN. Who wins?. Retrieved February 4, 2022.",
+      "en": "[6] Towards Data Science (2020). YOLOv5 compared to Faster RCNN. Who wins?. Retrieved February 4, 2022.",
+      "es": "[6] Hacia la ciencia de datos (2020). YOLOv5 en comparación con el más rápido RCNN. ¿Quién gana?. Consultado el 4 de febrero de 2022.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Alexander Cortes",
+      "en": "Alexander Cortes",
+      "es": "Alexander Cortes",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Ariosto Olmedo Cabrera",
+      "en": "Ariosto Olmedo Cabrera",
+      "es": "Ariosto Olmedo Cabrera",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Antonio Paucar",
+      "en": "Antonio Paucar",
+      "es": "Antonio Paucar",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Carlos Sesma",
+      "en": "Carlos Sesma",
+      "es": "Carlos Sesma",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Miriam Quimi",
+      "en": "Miriam Quimi",
+      "es": "Miriam Quimi",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Santiago Yunes",
+      "en": "Santiago Yunes",
+      "es": "Santiago Yunes",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Viviana Márquez",
+      "en": "Viviana Marquez",
+      "es": "Viviana Márquez",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Diversidad Funcional",
+      "en": "Functional Diversity",
+      "es": "Diversidad Funcional",
+      "reviewed": false,
+      "translationVersion": 2
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "title": "Machine Learning aplicado al Huerto Inteligente",
+  "route": "/2022/01/02/machine-learning-aplicado-al-huerto-inteligente/",
+  "segments": [
+    {
+      "source": "La Paz. Deep Learning. 2021 Todos sabemos la importancia de las plantas y a muchas personas les gustaría tener plantas en casa, pero existen varios problemas que lo impiden como por ejemplo el tiempo disponible para cuidarlas.…",
+      "en": "Peace. Deep Learning. 2021 We all know the importance of plants and many people would like to have plants at home, but there are several problems that prevent this, such as the time available to take care of them.…",
+      "es": "La Paz. Deep Learning. 2021 Todos sabemos la importancia de las plantas y a muchas personas les gustaría tener plantas en casa, pero existen varios problemas que lo impiden como por ejemplo el tiempo disponible para cuidarlas.…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Kenneth Bonilla",
+      "en": "Kenneth Bonilla",
+      "es": "Kenneth Bonilla",
+      "reviewed": false
+    },
+    {
+      "source": "Todos sabemos la importancia de las plantas y a muchas personas les gustaría tener plantas en casa, pero existen varios problemas que lo impiden como por ejemplo el tiempo disponible para cuidarlas. El presente proyecto plantea resolver estos problemas por medio del Machine Learning creando un huerto inteligente que reconoce que planta va a cuidar y aplica un protocolo de cuidado adecuado. Las tecnologías usadas son redes neurales convolucionales, visión artificial, python y arduino.",
+      "en": "We all know the importance of plants and many people would like to have plants at home, but there are several problems that prevent this, such as the time available to take care of them. This project aims to solve these problems through Machine Learning by creating an intelligent garden that recognizes which plant it is going to care for and applies an appropriate care protocol. The technologies used are convolutional neural networks, computer vision, python and arduino.",
+      "es": "Todos sabemos la importancia de las plantas y a muchas personas les gustaría tener plantas en casa, pero existen varios problemas que lo impiden como por ejemplo el tiempo disponible para cuidarlas. El presente proyecto plantea resolver estos problemas por medio del Machine Learning creando un huerto inteligente que reconoce que planta va a cuidar y aplica un protocolo de cuidado adecuado. Las tecnologías usadas son redes neurales convolucionales, visión artificial, python y arduino.",
+      "reviewed": false
+    },
+    {
+      "source": "Las plantas son una parte importante de nuestro diario vivir y no nos damos cuenta de su importancia. Las plantas en casa vienen con muchas ventajas como es la reducción de contaminación del aire, la reducción de estrés, y la reducción de la contaminación acústica. Pero, con tantas ventajas ¿porque no´ todos tenemos plantas en casa?",
+      "en": "Plants are an important part of our daily lives and we do not realize their importance. Plants at home come with many advantages such as reducing air pollution, reducing stress, and reducing noise pollution. But, with so many advantages, why don't we all have plants at home?",
+      "es": "Las plantas son una parte importante de nuestro diario vivir y no nos damos cuenta de su importancia. Las plantas en casa vienen con muchas ventajas como es la reducción de contaminación del aire, la reducción de estrés, y la reducción de la contaminación acústica. Pero, con tantas ventajas ¿porque no´ todos tenemos plantas en casa?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Esto pasa porque existen algunos problemas a la hora de tener plantas en casa. Los tres principales problemas son: La falta de conocimiento, descuido y falta de tiempo. El proyecto consiste en un huerto inteligente para los hogares de personas que quieren tener plantas en casa. El huerto reconocería la planta que va a cuidar por medio de visión artificial y redes neurales convolucionales y aplicaría un protocolo adecuado para la planta. Gracias a esto cualquier persona podrá tener plantas en casa sin tener el tiempo o el conocimiento que esto conlleva.",
+      "en": "This happens because there are some problems when it comes to having plants at home. The three main problems are: Lack of knowledge, carelessness and lack of time. The project consists of a smart garden for the homes of people who want to have plants at home. The garden would recognize the plant it is going to care for through artificial vision and convolutional neural networks and apply an appropriate protocol for the plant. Thanks to this, anyone will be able to have plants at home without having the time or knowledge that this entails.",
+      "es": "Esto pasa porque existen algunos problemas a la hora de tener plantas en casa. Los tres principales problemas son: La falta de conocimiento, descuido y falta de tiempo. El proyecto consiste en un huerto inteligente para los hogares de personas que quieren tener plantas en casa. El huerto reconocería la planta que va a cuidar por medio de visión artificial y redes neurales convolucionales y aplicaría un protocolo adecuado para la planta. Gracias a esto cualquier persona podrá tener plantas en casa sin tener el tiempo o el conocimiento que esto conlleva.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "TECNOLOGÍA USADA",
+      "en": "TECHNOLOGY USED",
+      "es": "TECNOLOGÍA USADA",
+      "reviewed": false
+    },
+    {
+      "source": "CNN",
+      "en": "cnn",
+      "es": "CNN",
+      "reviewed": false
+    },
+    {
+      "source": "Visión artificial Python",
+      "en": "Python computer vision",
+      "es": "Visión artificial Python",
+      "reviewed": false
+    },
+    {
+      "source": "Arduino",
+      "en": "Arduino",
+      "es": "Arduino",
+      "reviewed": false
+    },
+    {
+      "source": "Dataset propio",
+      "en": "Own dataset",
+      "es": "Dataset propio",
+      "reviewed": false
+    },
+    {
+      "source": "El modelo utilizado para la creacion del huerto inteligente aplicando Machine Learning es una red YOLOv5 la cual se modifica para aceptar las clases de nuestro dataset. Por ahora el dataset solo cuenta con siete clases (tipos de plantas) por el tiempo que implica crear un dataset, aun así, se logró un funcionamiento aceptable. El código se realizó en Jypiter y el dataset en la web Roboflow.",
+      "en": "The model used to create the smart garden applying Machine Learning is a YOLOv5 network which is modified to accept the classes of our dataset. For now the dataset only has seven classes (types of plants) due to the time involved in creating a dataset, even so, acceptable performance was achieved. The code was made in Jypiter and the dataset on the Roboflow website.",
+      "es": "El modelo utilizado para la creacion del huerto inteligente aplicando Machine Learning es una red YOLOv5 la cual se modifica para aceptar las clases de nuestro dataset. Por ahora el dataset solo cuenta con siete clases (tipos de plantas) por el tiempo que implica crear un dataset, aun así, se logró un funcionamiento aceptable. El código se realizó en Jypiter y el dataset en la web Roboflow.",
+      "reviewed": false
+    },
+    {
+      "source": "FUNCIONAMIENTO",
+      "en": "OPERATION",
+      "es": "FUNCIONAMIENTO",
+      "reviewed": false
+    },
+    {
+      "source": "El huerto, por medio de una cámara, recoge la imagen de la planta que se procesa por medio de redes neurales convolucionales y visión artificial para así obtener una predicción de que planta está en el huerto. Después, esa predicción hace que se mande una señal, dependiendo de la planta que se identificó, a un arduino el cual al recibir esta señal selecciona el protocolo de cuidado dependiendo el tipo de planta y así controla los tiempos de regado y la cantidad de agua.",
+      "en": "The orchard, through a camera, collects the image of the plant that is processed through convolutional neural networks and artificial vision to obtain a prediction of which plant is in the orchard. Afterwards, this prediction causes a signal to be sent, depending on the plant that was identified, to an Arduino which, upon receiving this signal, selects the care protocol depending on the type of plant and thus controls the watering times and the amount of water.",
+      "es": "El huerto, por medio de una cámara, recoge la imagen de la planta que se procesa por medio de redes neurales convolucionales y visión artificial para así obtener una predicción de que planta está en el huerto. Después, esa predicción hace que se mande una señal, dependiendo de la planta que se identificó, a un arduino el cual al recibir esta señal selecciona el protocolo de cuidado dependiendo el tipo de planta y así controla los tiempos de regado y la cantidad de agua.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 2. Detección de Frambuesa",
+      "en": "Figure 2. Raspberry Detection",
+      "es": "Figura 2. Detección de Frambuesa",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "OBSERVACIONES",
+      "en": "OBSERVATIONS",
+      "es": "OBSERVACIONES",
+      "reviewed": false
+    },
+    {
+      "source": "Figura 3. Matriz de confusión",
+      "en": "Figure 3. Confusion matrix",
+      "es": "Figura 3. Matriz de confusión",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 4. Resultados",
+      "en": "Figure 4. Results",
+      "es": "Figura 4. Resultados",
+      "reviewed": false
+    },
+    {
+      "source": "Como se puede observar en los resultados, después del entrenamiento, se logró una precisión de 0.52 sin llegar a un overfeating. Esto se debe a la falta de datos en el dataset. También se puede observar que hay una gran confusión entre las plantas de Aloe y Cinta, posiblemente el error se debe al parecido de las hojas y la falta de imágenes en el dataset. Aun así, en las pruebas realizadas en otras plantas como la orquídea y la frambuesa son satisfactorias.",
+      "en": "As can be seen in the results, after training, a precision of 0.52 was achieved without overfeaturing. This is due to the lack of data in the dataset. It can also be seen that there is great confusion between the Aloe and Cinta plants, possibly the error is due to the similarity of the leaves and the lack of images in the dataset. Even so, in tests carried out on other plants such as orchids and raspberries, they are satisfactory.",
+      "es": "Como se puede observar en los resultados, después del entrenamiento, se logró una precisión de 0.52 sin llegar a un overfeating. Esto se debe a la falta de datos en el dataset. También se puede observar que hay una gran confusión entre las plantas de Aloe y Cinta, posiblemente el error se debe al parecido de las hojas y la falta de imágenes en el dataset. Aun así, en las pruebas realizadas en otras plantas como la orquídea y la frambuesa son satisfactorias.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "PROXIMOS AVANCES",
+      "en": "NEXT PROGRESS",
+      "es": "PROXIMOS AVANCES",
+      "reviewed": false
+    },
+    {
+      "source": "Actualmente se continua la mejora del dataset para obtener más imágenes y de esta manera el huerto pueda reconocer mayor cantidad de plantas y con mayor precisión. También se está experimentando con diferentes modelos de deep learning para mejorar el funcionamiento del huerto.",
+      "en": "Currently, the improvement of the dataset is continuing to obtain more images so that the orchard can recognize a greater number of plants and with greater precision. They are also experimenting with different deep learning models to improve the operation of the orchard.",
+      "es": "Actualmente se continua la mejora del dataset para obtener más imágenes y de esta manera el huerto pueda reconocer mayor cantidad de plantas y con mayor precisión. También se está experimentando con diferentes modelos de deep learning para mejorar el funcionamiento del huerto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se planea mejorar mucho la estructura para tener un diseño más estético y cómodo para los hogares de personas en el área urbana. Además, se planea mejorar la parte del hardware para minimizar costos de producción y controlar más factores externos como la temperatura y la luz.",
+      "en": "The structure is planned to be greatly improved to have a more aesthetic and comfortable design for people's homes in the urban area. In addition, it is planned to improve the hardware part to minimize production costs and control more external factors such as temperature and light.",
+      "es": "Se planea mejorar mucho la estructura para tener un diseño más estético y cómodo para los hogares de personas en el área urbana. Además, se planea mejorar la parte del hardware para minimizar costos de producción y controlar más factores externos como la temperatura y la luz.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Finalmente se espera poder implementar una versión del huerto para cultivos a gran escala.",
+      "en": "Finally, it is hoped to be able to implement a version of the garden for large-scale crops.",
+      "es": "Finalmente se espera poder implementar una versión del huerto para cultivos a gran escala.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Vision Artificial",
+      "en": "Artificial Vision",
+      "es": "Vision Artificial",
+      "reviewed": false
+    },
+    {
+      "source": "Cnn Model",
+      "en": "Cnn Model",
+      "es": "Cnn Model",
+      "reviewed": false
+    },
+    {
+      "source": "Agtech",
+      "en": "Agtech",
+      "es": "Agtech",
+      "reviewed": false
+    }
+  ]
+}

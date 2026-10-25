@@ -1,0 +1,777 @@
+{
+  "title": "Descubre Cómo Conseguir el GitHub Student Developer Pack y Usar Codex en VS Code",
+  "route": "/2025/09/25/descubre-como-conseguir-el-github-student-developer-pack-y-usar-codex-en-vs-code/",
+  "segments": [
+    {
+      "source": "Descubre Cómo Conseguir el GitHub Student Developer Pack y Usar Codex en VS Code",
+      "en": "Discover How to Get the GitHub Student Developer Pack and Use Codex in VS Code",
+      "es": "Descubre Cómo Conseguir el GitHub Student Developer Pack y Usar Codex en VS Code",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "GitHub presenta su Student Developer Pack con acceso gratuito a herramientas profesionales y beneficios exclusivos de Codex para estudiantes. ¡Una oportunidad para aprender y crear sin límites!",
+      "en": "GitHub presents its Student Developer Pack with free access to professional tools and exclusive Codex benefits for students. An opportunity to learn and create without limits!",
+      "es": "GitHub presenta su Student Developer Pack con acceso gratuito a herramientas profesionales y beneficios exclusivos de Codex para estudiantes. ¡Una oportunidad para aprender y crear sin límites!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "25 sept 2025",
+      "en": "September 25, 2025",
+      "es": "25 sept 2025",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Por Qué Solicitar este Pack si Eres Estudiante",
+      "en": "Why Request this Pack if you are a Student",
+      "es": "Por Qué Solicitar este Pack si Eres Estudiante",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Cómo Conseguir el GitHub Student Developer Pack",
+      "en": "How to Get the GitHub Student Developer Pack",
+      "es": "Cómo Conseguir el GitHub Student Developer Pack",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Beneficios que Incluye el Pack",
+      "en": "Benefits Included in the Pack",
+      "es": "Beneficios que Incluye el Pack",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Y Codex en VS Code?",
+      "en": "And Codex in VS Code?",
+      "es": "¿Y Codex en VS Code?",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Cómo Instalar Codex en Visual Studio Code",
+      "en": "How to Install Codex in Visual Studio Code",
+      "es": "Cómo Instalar Codex en Visual Studio Code",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Tu Iniciación al Mundo del Desarrollo Profesional",
+      "en": "Your Initiation to the World of Professional Development",
+      "es": "Tu Iniciación al Mundo del Desarrollo Profesional",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Si estás dando tus primeros pasos en el mundo del desarrollo o ya llevas un tiempo picando código, hay una herramienta que puede marcar la diferencia en tu aprendizaje: el",
+      "en": "If you are taking your first steps in the world of development or have been coding for a while, there is a tool that can make a difference in your learning: the",
+      "es": "Si estás dando tus primeros pasos en el mundo del desarrollo o ya llevas un tiempo picando código, hay una herramienta que puede marcar la diferencia en tu aprendizaje: el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "GitHub Student Developer Pack",
+      "en": "GitHub Student Developer Pack",
+      "es": "GitHub Student Developer Pack",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". No es solo un conjunto de recursos, es una puerta de entrada a herramientas premium que normalmente serían de pago, pero que GitHub regala a estudiantes.",
+      "en": ". It's not just a set of resources, it's a gateway to premium tools that would normally be paid for, but that GitHub gives away to students.",
+      "es": ". No es solo un conjunto de recursos, es una puerta de entrada a herramientas premium que normalmente serían de pago, pero que GitHub regala a estudiantes.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "¿Lo mejor? Incluye",
+      "en": "The best? Includes",
+      "es": "¿Lo mejor? Incluye",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Visual Studio Code",
+      "en": "Visual Studio Code",
+      "es": "Visual Studio Code",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Microsoft Azure",
+      "en": "Microsoft Azure",
+      "es": "Microsoft Azure",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", y mucho más.",
+      "en": ", and much more.",
+      "es": ", y mucho más.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Y si a eso le sumamos la extensión",
+      "en": "And if we add to that the extension",
+      "es": "Y si a eso le sumamos la extensión",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "para",
+      "en": "for",
+      "es": "para",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "VS Code",
+      "en": "VSCode",
+      "es": "VS Code",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", que te permite integrar ChatGPT directamente en tu editor, el resultado es una experiencia de desarrollo potenciada por inteligencia artificial.",
+      "en": ", which allows you to integrate ChatGPT directly into your editor, the result is an AI-powered development experience.",
+      "es": ", que te permite integrar ChatGPT directamente en tu editor, el resultado es una experiencia de desarrollo potenciada por inteligencia artificial.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "creó este pack con una misión clara: democratizar el acceso a herramientas profesionales",
+      "en": "created this pack with a clear mission: democratize access to professional tools",
+      "es": "creó este pack con una misión clara: democratizar el acceso a herramientas profesionales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "PARA ESTUDIANTES",
+      "en": "FOR STUDENTS",
+      "es": "PARA ESTUDIANTES",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". Aprender a programar no solo requiere tiempo y esfuerzo, también recursos que muchas veces son de pago. Este pack es la mejor opción para eliminar esa barrera.",
+      "en": ". Learning to program not only requires time and effort, but also resources that are often paid. This pack is the best option to eliminate that barrier.",
+      "es": ". Aprender a programar no solo requiere tiempo y esfuerzo, también recursos que muchas veces son de pago. Este pack es la mejor opción para eliminar esa barrera.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Obtenerlo es mucho más sencillo de lo que crees, siguiendo los pasos a continuación no tendrás problema para hacerte con el Pack:",
+      "en": "Obtaining it is much easier than you think, following the steps below you will have no problem getting the Pack:",
+      "es": "Obtenerlo es mucho más sencillo de lo que crees, siguiendo los pasos a continuación no tendrás problema para hacerte con el Pack:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Accede al sitio oficial",
+      "en": "Access the official site",
+      "es": "Accede al sitio oficial",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Entra al siguiente enlace:",
+      "en": ": Go to the following link:",
+      "es": ": Entra al siguiente enlace:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Una vez dentro, haz clic en “",
+      "en": "Once inside, click on “",
+      "es": "Una vez dentro, haz clic en “",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Sign Up for Student Developer Pack",
+      "en": "Sign Up for Student Developer Pack",
+      "es": "Regístrate para Student Developer Pack",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SignUp",
+      "en": "SignUp",
+      "es": "SignUp",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Inicia sesión",
+      "en": "Sign in",
+      "es": "Inicia sesión",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Si ya tienes cuenta en GitHub, simplemente inicia sesión. Si no, créala.",
+      "en": ": If you already have a GitHub account, simply log in. If not, believe it.",
+      "es": ": Si ya tienes cuenta en GitHub, simplemente inicia sesión. Si no, créala.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "CONSEJO:",
+      "en": "TIP:",
+      "es": "CONSEJO:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Usa tu correo institucional (.edu, .cat, etc.) para facilitar la verificación.",
+      "en": "Use your institutional email (.edu, .cat, etc.) to facilitate verification.",
+      "es": "Usa tu correo institucional (.edu, .cat, etc.) para facilitar la verificación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "SignIn_GH",
+      "en": "SignIn_GH",
+      "es": "SignIn_GH",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Comienza la solicitud",
+      "en": "Application begins",
+      "es": "Comienza la solicitud",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Haz clic en “",
+      "en": ": Click “",
+      "es": ": Haz clic en “",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Start application",
+      "en": "Start application",
+      "es": "Start application",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "” y selecciona tu rol como estudiante. Luego, busca tu centro educativo en la lista o añádelo manualmente.",
+      "en": "” and select your role as a student. Then, find your school in the list or add it manually.",
+      "es": "” y selecciona tu rol como estudiante. Luego, busca tu centro educativo en la lista o añádelo manualmente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Verifica tu correo institucional",
+      "en": "Check your institutional email",
+      "es": "Verifica tu correo institucional",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Si tu cuenta principal no es la de tu institución, puedes añadirla como secundaria en el apartado “",
+      "en": ": If your main account is not that of your institution, you can add it as a secondary account in the “",
+      "es": ": Si tu cuenta principal no es la de tu institución, puedes añadirla como secundaria en el apartado “",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Emails",
+      "en": "Emails",
+      "es": "Emails",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "” y verificarla.",
+      "en": "” and verify it.",
+      "es": "” y verificarla.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Adjunta documentación",
+      "en": "Attach documentation",
+      "es": "Adjunta documentación",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Sube una credencial, constancia de matrícula o cualquier documento que pruebe que eres estudiante. GitHub te indicará qué tipo de prueba es más efectiva.",
+      "en": ": Upload a credential, proof of enrollment or any document that proves that you are a student. GitHub will tell you which type of testing is most effective.",
+      "es": ": Sube una credencial, constancia de matrícula o cualquier documento que pruebe que eres estudiante. GitHub te indicará qué tipo de prueba es más efectiva.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "TypeOfProof",
+      "en": "TypeOfProof",
+      "es": "TypeOfProof",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Permite la ubicación",
+      "en": "Allows location",
+      "es": "Permite la ubicación",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": GitHub te pedirá tu ubicación para verificar que estás en la institución. Si no estás allí, puedes explicar por qué (clases online, VPN, etc.).",
+      "en": ": GitHub will ask you for your location to verify that you are at the institution. If you're not there, you can explain why (online classes, VPN, etc.).",
+      "es": ": GitHub te pedirá tu ubicación para verificar que estás en la institución. Si no estás allí, puedes explicar por qué (clases online, VPN, etc.).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "location",
+      "en": "location",
+      "es": "location",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Espera la verificación",
+      "en": "Wait for verification",
+      "es": "Espera la verificación",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ": Una vez enviada la solicitud, recibirás un correo cuando tu cuenta haya sido aprobada. ¡Y listo! Ya tienes acceso a todo el pack.",
+      "en": ": Once the application is submitted, you will receive an email when your account has been approved. And that's it! You now have access to the entire pack.",
+      "es": ": Una vez enviada la solicitud, recibirás un correo cuando tu cuenta haya sido aprobada. ¡Y listo! Ya tienes acceso a todo el pack.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "educationBenefits",
+      "en": "educationBenefits",
+      "es": "educationBenefits",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Aprender más rápido:",
+      "en": "Learn faster:",
+      "es": "Aprender más rápido:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "con herramientas como GitHub Copilot o Codex, puedes entender código, generar funciones, y resolver errores con ayuda de IA.",
+      "en": "With tools like GitHub Copilot or Codex, you can understand code, generate functions, and resolve errors with the help of AI.",
+      "es": "con herramientas como GitHub Copilot o Codex, puedes entender código, generar funciones, y resolver errores con ayuda de IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Construir proyectos reales:",
+      "en": "Build real projects:",
+      "es": "Construir proyectos reales:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "ya sea una web, una app o un bot, tienes acceso a hosting, bases de datos y entornos colaborativos.",
+      "en": "Whether it is a website, an app or a bot, you have access to hosting, databases and collaborative environments.",
+      "es": "ya sea una web, una app o un bot, tienes acceso a hosting, bases de datos y entornos colaborativos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Prepararte para el mundo laboral:",
+      "en": "Prepare for the world of work:",
+      "es": "Prepararte para el mundo laboral:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "muchas de estas herramientas son estándar en la industria. Usarlas desde ya te da ventaja cuando busques prácticas o tu primer trabajo.",
+      "en": "Many of these tools are industry standard. Using them now gives you an advantage when looking for internships or your first job.",
+      "es": "muchas de estas herramientas son estándar en la industria. Usarlas desde ya te da ventaja cuando busques prácticas o tu primer trabajo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Ahorrar dinero:",
+      "en": "Save money:",
+      "es": "Ahorrar dinero:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "si tuvieras que pagar por todo lo que incluye el pack, estarías desembolsando cientos de euros al año.",
+      "en": "If you had to pay for everything included in the pack, you would be spending hundreds of euros a year.",
+      "es": "si tuvieras que pagar por todo lo que incluye el pack, estarías desembolsando cientos de euros al año.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "es el complemento perfecto. Mientras el",
+      "en": "It is the perfect complement. While the",
+      "es": "es el complemento perfecto. Mientras el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Student Pack",
+      "en": "Student Pack",
+      "es": "Student Pack",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "te da acceso a herramientas,",
+      "en": "gives you access to tools,",
+      "es": "te da acceso a herramientas,",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "te da asistencia inteligente dentro del editor. ¿Para qué sirve?",
+      "en": "gives you smart assistance within the editor. What is it for?",
+      "es": "te da asistencia inteligente dentro del editor. ¿Para qué sirve?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Resolver dudas sin salir del editor:",
+      "en": "Resolve doubts without leaving the editor:",
+      "es": "Resolver dudas sin salir del editor:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "puedes preguntarle a Codex qué hace una función, cómo se usa una API, o cómo solucionar un error.",
+      "en": "You can ask Codex what a function does, how to use an API, or how to fix a bug.",
+      "es": "puedes preguntarle a Codex qué hace una función, cómo se usa una API, o cómo solucionar un error.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Generar código automáticamente:",
+      "en": "Automatically generate code:",
+      "es": "Generar código automáticamente:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "describe lo que quieres hacer y Codex te propone una solución.",
+      "en": "Describe what you want to do and Codex proposes a solution.",
+      "es": "describe lo que quieres hacer y Codex te propone una solución.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Aprender mientras haces:",
+      "en": "Learn while you do:",
+      "es": "Aprender mientras haces:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "es como tener un mentor que te explica cosas mientras programas.",
+      "en": "It's like having a mentor who explains things to you while you program.",
+      "es": "es como tener un mentor que te explica cosas mientras programas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "no solo permite hacer las anteriores funciones, sino que también se integra con extensiones de Visual Studio Code que potencian esta experiencia.",
+      "en": "Not only does it allow you to do the previous functions, but it also integrates with Visual Studio Code extensions that enhance this experience.",
+      "es": "no solo permite hacer las anteriores funciones, sino que también se integra con extensiones de Visual Studio Code que potencian esta experiencia.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Un ejemplo de cómo estas herramientas pueden transformar el aprendizaje autodidacta es:",
+      "en": "An example of how these tools can transform self-study learning is:",
+      "es": "Un ejemplo de cómo estas herramientas pueden transformar el aprendizaje autodidacta es:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "«Cómo Cursor Transformó mi Experiencia al Crear una Aplicación Web desde Cero»",
+      "en": "«How Cursor Transformed my Experience Creating a Web Application from Scratch»",
+      "es": "«Cómo Cursor Transformó mi Experiencia al Crear una Aplicación Web desde Cero»",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": ", donde se explora el impacto de Cursor —",
+      "en": ", where the impact of Cursor is explored —",
+      "es": ", donde se explora el impacto de Cursor —",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "una extensión",
+      "en": "an extension",
+      "es": "una extensión",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "basada en inteligencia artificial",
+      "en": "based on artificial intelligence",
+      "es": "basada en inteligencia artificial",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "— en el desarrollo de proyectos reales.",
+      "en": "— in the development of real projects.",
+      "es": "— en el desarrollo de proyectos reales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Para empezar a usar estos útiles complementos en",
+      "en": "To start using these useful plugins in",
+      "es": "Para empezar a usar estos útiles complementos en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "encontrarás los pasos a continuación.",
+      "en": "You will find the steps below.",
+      "es": "encontrarás los pasos a continuación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Busca la extensión en VS Code:",
+      "en": "Find the extension in VS Code:",
+      "es": "Busca la extensión en VS Code:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Abre",
+      "en": "Open",
+      "es": "Abre",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", ve a la sección de extensiones y busca “",
+      "en": ", go to the extensions section and search for “",
+      "es": ", ve a la sección de extensiones y busca “",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Codex – OpenAI",
+      "en": "Codex – OpenAI",
+      "es": "Codex – OpenAI",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "”. Haz clic en “",
+      "en": "”. Click “",
+      "es": "”. Haz clic en “",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Install",
+      "en": "Install",
+      "es": "Install",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Inicia sesión en ChatGPT:",
+      "en": "Log in to ChatGPT:",
+      "es": "Inicia sesión en ChatGPT:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Una vez instalada, verás el icono de ChatGPT en la barra lateral. Haz clic y sigue las instrucciones para iniciar sesión.",
+      "en": "Once installed, you will see the ChatGPT icon in the sidebar. Click and follow the instructions to log in.",
+      "es": "Una vez instalada, verás el icono de ChatGPT en la barra lateral. Haz clic y sigue las instrucciones para iniciar sesión.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Vincula tu cuenta:",
+      "en": "Link your account:",
+      "es": "Vincula tu cuenta:",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Introduce tus credenciales de",
+      "en": "Enter your credentials",
+      "es": "Introduce tus credenciales de",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "y acepta los permisos.",
+      "en": "and accept the permissions.",
+      "es": "y acepta los permisos.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "no accede a tu historial de chats, solo vincula tu cuenta para poder usarlo desde",
+      "en": "It does not access your chat history, it only links your account to be able to use it from",
+      "es": "no accede a tu historial de chats, solo vincula tu cuenta para poder usarlo desde",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "VS Code.",
+      "en": "VSCode.",
+      "es": "VS Code.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "codex3",
+      "en": "codex3",
+      "es": "codex3",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "GitHub Student Pack",
+      "en": "GitHub Student Pack",
+      "es": "GitHub Student Pack",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "no son solo recursos técnicos, son",
+      "en": "They are not just technical resources, they are",
+      "es": "no son solo recursos técnicos, son",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "aceleradores de aprendizaje",
+      "en": "learning accelerators",
+      "es": "aceleradores de aprendizaje",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", puentes hacia el",
+      "en": ", bridges to the",
+      "es": ", puentes hacia el",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "mundo profesional",
+      "en": "professional world",
+      "es": "mundo profesional",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ", y herramientas para crear",
+      "en": ", and tools to create",
+      "es": ", y herramientas para crear",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "SIN LÍMITE",
+      "en": "NO LIMIT",
+      "es": "SIN LÍMITE",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": ". ¡Si eres estudiante y te interesa la tecnología, este combo es una oportunidad que no deberías dejar pasar!",
+      "en": ". If you are a student and interested in technology, this combo is an opportunity that you should not miss!",
+      "es": ". ¡Si eres estudiante y te interesa la tecnología, este combo es una oportunidad que no deberías dejar pasar!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2
+    },
+    {
+      "source": "Acceso Gratuito",
+      "en": "Free Access",
+      "es": "Acceso Gratuito",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 25 sept 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on September 25, 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 25 sept 2025.",
+      "reviewed": false,
+      "translationVersion": 2
+    },
+    {
+      "source": "Feb 6, 2026",
+      "en": "Feb 6, 2026",
+      "es": "Feb 6, 2026",
+      "reviewed": false,
+      "translationVersion": 2
+    }
+  ]
+}

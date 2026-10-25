@@ -1,0 +1,1626 @@
+{
+  "title": "SkyBlock Minecraft: la historia de una wiki viva",
+  "route": "/2026/04/15/skyblockcodexapi-la-historia-de-una-wiki-viva/",
+  "segments": [
+    {
+      "source": "De una isla de SkyBlock a una wiki viva: la experiencia de construir una herramienta para organizar información y explorar nuevas posibilidades con IA.",
+      "en": "From a SkyBlock island to a live wiki: the experience of building a tool to organize information and explore new possibilities with IA.",
+      "es": "De una isla de SkyBlock a una wiki viva: la experiencia de construir una herramienta para organizar información y explorar nuevas posibilidades con IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "15 abr 2026",
+      "en": "15 abr 2026",
+      "es": "15 abr 2026",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El reto de hacerlo estático sin que se sintiera estático",
+      "en": "The challenge of making it static without feeling static",
+      "es": "El reto de hacerlo estático sin que se sintiera estático",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una dificultad real: el formato visual de Minecraft no existe en la web",
+      "en": "A real difficulty: Minecraft's visual format does not exist on the web",
+      "es": "Una dificultad real: el formato visual de Minecraft no existe en la web",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Más allá del buscador: convertir datos en experiencia",
+      "en": "Beyond the search engine: convert data into experience",
+      "es": "Más allá del buscador: convertir datos en experiencia",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Búsqueda y sugerencias",
+      "en": "Search and suggestions",
+      "es": "Búsqueda y sugerencias",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ítems: de una ficha plana a una ficha realmente útil",
+      "en": "Items: from a flat to a really useful sheet",
+      "es": "Ítems: de una ficha plana a una ficha realmente útil",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Collections: no solo tiers, sino contexto",
+      "en": "Collections: not only tiers, but context",
+      "es": "Collections: no solo tiers, sino contexto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Skills: niveles, XP y recompensas con contexto",
+      "en": "Skills: levels, XP and rewards with context",
+      "es": "Skills: niveles, XP y recompensas con contexto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mayor y elecciones: cuando el modelo de datos cambia según el contexto",
+      "en": "Major and elections: when the data model changes according to context",
+      "es": "Mayor y elecciones: cuando el modelo de datos cambia según el contexto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Bingo: convertir una API en una carta jugable",
+      "en": "Bingo: turning an API into a playable card",
+      "es": "Bingo: convertir una API en una carta jugable",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Museum: organizar sin saturar",
+      "en": "Museum: organize without saturation",
+      "es": "Museo: organizar sin saturar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lo que Codex aportó de verdad",
+      "en": "What Codex really contributed",
+      "es": "Lo que Codex aportó de verdad",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Resultado actual",
+      "en": "Current outcome",
+      "es": "Resultado actual",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Código y aplicación",
+      "en": "Code and application",
+      "es": "Código y aplicación",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero cuello de botella no era el juego… sino la información. Horas saltando entre wikis desactualizadas, foros enterrados y vídeos inconexos para entender una sola mecánica. En ese momento surge la pregunta: ¿y si la wiki no fuera un archivo muerto, sino un sistema vivo que aprende al ritmo del juego?",
+      "en": "It all started as many obsessions begin in Minecraft: on an island of SkyBlock, alone, with limited resources and a constant feeling that the real bottle neck was not the game... but the information. Hours jumping among outdated wikis, buried forums and unrelated videos to understand a single mechanics. At that time the question arises: what if the wiki was not a dead file, but a living system that learns at the pace of the game?",
+      "es": "Todo empezó como empiezan muchas obsesiones en Minecraft: en una isla de SkyBlock, solo, con recursos limitados y una sensación constante de que el verdadero cuello de botella no era el juego… sino la información. Horas saltando entre wikis desactualizadas, foros enterrados y vídeos inconexos para entender una sola mecánica. En ese momento surge la pregunta: ¿y si la wiki no fuera un archivo muerto, sino un sistema vivo que aprende al ritmo del juego?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SkyBlockCodexAPI nace de esa fricción, pero también de esa intuición: convertir el caos de conocimiento de SkyBlock en una infraestructura dinámica donde comunidad, datos y modelos de IA no solo documentan lo que pasa, sino que lo entienden, lo actualizan y lo anticipan.",
+      "en": "SkyBlockCodexAPI is born from that friction, but also from that intuition: turning the chaos of SkyBlock knowledge into a dynamic infrastructure where community, data and IA models not only document what happens, but understand, update and anticipate it.",
+      "es": "SkyBlockCodexAPI nace de esa fricción, pero también de esa intuición: convertir el caos de conocimiento de SkyBlock en una infraestructura dinámica donde comunidad, datos y modelos de IA no solo documentan lo que pasa, sino que lo entienden, lo actualizan y lo anticipan.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La primera fase fue bastante directa en apariencia: conectar con la API pública de Hypixel y empezar a mostrar información de:",
+      "en": "The first phase was quite direct in appearance: to connect with the Hipixel public API and start showing information from:",
+      "es": "La primera fase fue bastante directa en apariencia: conectar con la API pública de Hypixel y empezar a mostrar información de:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ítems",
+      "en": "items",
+      "es": "ítems",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "colecciones",
+      "en": "collections",
+      "es": "colecciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "skills",
+      "en": "skills",
+      "es": "habilidades",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "elecciones",
+      "en": "elections",
+      "es": "elecciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "bingo",
+      "en": "bingo",
+      "es": "bingo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "museum",
+      "en": "museum",
+      "es": "museo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sobre el papel, la idea era simple: pedir datos y enseñarlos. En la práctica, no tardamos en descubrir el problema real: la información no llega siempre con el mismo formato ni con el mismo nivel de limpieza.",
+      "en": "On paper, the idea was simple: to ask for data and to teach them. In practice, we don't delay in discovering the real problem: the information does not always come in the same format or with the same level of cleaning.",
+      "es": "Sobre el papel, la idea era simple: pedir datos y enseñarlos. En la práctica, no tardamos en descubrir el problema real: la información no llega siempre con el mismo formato ni con el mismo nivel de limpieza.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Algunas descripciones venían en texto plano.",
+      "en": "Some descriptions came in flat text.",
+      "es": "Algunas descripciones venían en texto plano.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otras traían listas.",
+      "en": "Others brought lists.",
+      "es": "Otras traían listas.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otras mezclaban lore, perks, unlocks y campos especiales.",
+      "en": "Others mixed lore, perks, unlocks and special fields.",
+      "es": "Otras mezclaban lore, perks, unlocks y campos especiales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y muchas incluían códigos de formato de Minecraft como §7, §a, §d o incluso formatos alternativos como %%light_purple%%.",
+      "en": "And many included Minecraft format codes as § 7, § a, § d or even alternative formats as% light _ purple%.",
+      "es": "Y muchas incluían códigos de formato de Minecraft como §7, §a, §d o incluso formatos alternativos como %%light_purple%%.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ese fue uno de los primeros momentos en los que la IA empezó a aportar valor de verdad. Nos ayudó a:",
+      "en": "That was one of the first moments when the IA began to bring real value. It helped us:",
+      "es": "Ese fue uno de los primeros momentos en los que la IA empezó a aportar valor de verdad. Nos ayudó a:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "detectar estructuras repetidas dentro del caos",
+      "en": "to detect repeated structures within chaos",
+      "es": "detectar estructuras repetidas dentro del caos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "proponer normalizaciones sin perder información",
+      "en": "propose normalizations without losing information",
+      "es": "proponer normalizaciones sin perder información",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "transformar formatos pensados para el juego en algo legible para web",
+      "en": "transform formats thought for the game into something legible for web",
+      "es": "transformar formatos pensados para el juego en algo legible para web",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "acelerar iteraciones pequeñas sin perder coherencia visual",
+      "en": "speed up small iterations without losing visual coherence",
+      "es": "acelerar iteraciones pequeñas sin perder coherencia visual",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No se trataba solo de “traducir JSON”. Se trataba de",
+      "en": "It was not just about \"translating JSON.\" It was about",
+      "es": "No se trataba solo de “traducir JSON”. Se trataba de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "interpretar el lenguaje visual del juego",
+      "en": "interpret the visual language of the game",
+      "es": "interpretar el lenguaje visual del juego",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y llevarlo a un entorno web sin que perdiera personalidad.",
+      "en": "and take him to a web environment without losing personality.",
+      "es": "y llevarlo a un entorno web sin que perdiera personalidad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Uno de los condicionantes más importantes del proyecto fue decidir que la aplicación debía vivir en GitHub Pages.",
+      "en": "One of the most important conditions of the project was to decide that the application should live in GitHub Pages.",
+      "es": "Uno de los condicionantes más importantes del proyecto fue decidir que la aplicación debía vivir en GitHub Pages.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Eso imponía una restricción muy clara: sin backend tradicional.",
+      "en": "That imposed a very clear restriction: without traditional backend.",
+      "es": "Eso imponía una restricción muy clara: sin backend tradicional.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sin servidor persistente.",
+      "en": "No persistent server.",
+      "es": "Sin servidor persistente.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sin lógica privada en el lado del servidor.",
+      "en": "No private logic on the server side.",
+      "es": "Sin lógica privada en el lado del servidor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lejos de verlo como un límite, lo tratamos como una restricción creativa. Si queríamos una web estática, entonces teníamos que conseguir que pareciera dinámica usando únicamente:",
+      "en": "Far from seeing it as a limit, we treated it as a creative restriction. If we wanted a static web, then we had to make it look dynamic using only:",
+      "es": "Lejos de verlo como un límite, lo tratamos como una restricción creativa. Si queríamos una web estática, entonces teníamos que conseguir que pareciera dinámica usando únicamente:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "HTML",
+      "en": "HTML",
+      "es": "HTML",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CSS",
+      "en": "CSS",
+      "es": "CSS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "JavaScript",
+      "en": "JavaScript",
+      "es": "JavaScript",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "llamadas a endpoints públicos",
+      "en": "calls to public endpoints",
+      "es": "llamadas a endpoints públicos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "una arquitectura ligera pero flexible",
+      "en": "a light but flexible architecture",
+      "es": "una arquitectura ligera pero flexible",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La IA fue especialmente útil aquí porque nos ayudó a repensar el proyecto varias veces sin tener que rehacerlo entero. A medida que descubríamos qué endpoints eran públicos, cuáles no, qué cosas se podían consultar directamente y cuáles convenía simplificar, fuimos ajustando la arquitectura con rapidez.",
+      "en": "The IA was especially useful here because it helped us to rethink the project several times without having to rethink it whole. As we discovered which endpoints were public, which were not, which things could be consulted directly and which things needed to be simplified, we were adjusting architecture quickly.",
+      "es": "La IA fue especialmente útil aquí porque nos ayudó a repensar el proyecto varias veces sin tener que rehacerlo entero. A medida que descubríamos qué endpoints eran públicos, cuáles no, qué cosas se podían consultar directamente y cuáles convenía simplificar, fuimos ajustando la arquitectura con rapidez.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El resultado fue una decisión importante:",
+      "en": "The result was an important decision:",
+      "es": "El resultado fue una decisión importante:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "apostar por una web muy viva",
+      "en": "bet on a very alive website",
+      "es": "apostar por una web muy viva",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", pero sin backend propio, aprovechando solo lo que podía resolverse de forma segura y pública. Eso nos permitió mantener el despliegue simple y el proyecto muy fácil de compartir.",
+      "en": "but without its own backend, taking advantage of only what could be resolved in a safe and public way. That allowed us to maintain the simple deployment and the very easy project to share.",
+      "es": ", pero sin backend propio, aprovechando solo lo que podía resolverse de forma segura y pública. Eso nos permitió mantener el despliegue simple y el proyecto muy fácil de compartir.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Uno de los problemas más curiosos —y más entretenidos— fue el tratamiento del texto.",
+      "en": "One of the most curious and entertaining problems was the treatment of the text.",
+      "es": "Uno de los problemas más curiosos —y más entretenidos— fue el tratamiento del texto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En SkyBlock, una enorme parte del significado visual está en el color. Un perk no solo dice algo: cómo lo dice también importa. Un texto dorado, una línea en azul claro, un stat en rojo o una rareza en morado no son adornos; son parte de la experiencia del juego.",
+      "en": "In SkyBlock, a huge part of the visual meaning is in color. A perk not only says something: how it says it also matters. A golden text, a light blue line, a stat in red or a purple rarity are not ornaments; they are part of the experience of the game.",
+      "es": "En SkyBlock, una enorme parte del significado visual está en el color. Un perk no solo dice algo: cómo lo dice también importa. Un texto dorado, una línea en azul claro, un stat en rojo o una rareza en morado no son adornos; son parte de la experiencia del juego.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ejemplos típicos:",
+      "en": "Typical examples:",
+      "es": "Ejemplos típicos:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "+0.5% ☣ Crit Chance",
+      "en": "+ 0.5%",
+      "es": "+0,5% ☣ Crit Chance",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "+1 ❈ Defense",
+      "en": "+1 ❈ Defense",
+      "es": "+1 Defensa",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "+5 SkyBlock XP",
+      "en": "+ 5 SkyBlock XP",
+      "es": "+5 SkyBlock XP",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "perks con colores embebidos",
+      "en": "perks with embossed colors",
+      "es": "perks con colores embebidos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nombres de ítems con formato especial",
+      "en": "special format items names",
+      "es": "nombres de ítems con formato especial",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para mostrar eso bien en una web tuvimos que resolver muchas pequeñas dificultades:",
+      "en": "To show that well on a web we had to solve many small difficulties:",
+      "es": "Para mostrar eso bien en una web tuvimos que resolver muchas pequeñas dificultades:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "interpretar códigos §",
+      "en": "interpret codes §",
+      "es": "interpretar códigos §",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "interpretar formatos",
+      "en": "interpret formats",
+      "es": "#",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "alternativos como %%light_purple%%",
+      "en": "alternative as% light _ purple%",
+      "es": "alternativos como %%light_purple%",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "diferenciar entre símbolo, número y texto",
+      "en": "differentiate between symbol, number and text",
+      "es": "diferenciar entre símbolo, número y texto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "respetar el “+” sin romper el color del stat",
+      "en": "respect the \"+\" without breaking the stat color",
+      "es": "respetar el “+” sin romper el color del stat",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "aplicar colores distintos según el atributo",
+      "en": "apply different colors according to the attribute",
+      "es": "aplicar colores distintos según el atributo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mantener la legibilidad visual sin perder el estilo del juego",
+      "en": "maintain visual legibility without losing the style of the game",
+      "es": "mantener la legibilidad visual sin perder el estilo del juego",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aquí la IA fue especialmente útil como herramienta de iteración rápida. Nos ayudó a convertir reglas visuales informales en reglas concretas de renderizado. Y, quizás más importante, a corregir decenas de bugs pequeños que aparecen cuando se trabaja con texto muy irregular.",
+      "en": "Here the IA was especially useful as a quick iteration tool. It helped us to convert informal visual rules into concrete rendering rules. And, perhaps more importantly, to correct dozens of small bugs that appear when working with very irregular text.",
+      "es": "Aquí la IA fue especialmente útil como herramienta de iteración rápida. Nos ayudó a convertir reglas visuales informales en reglas concretas de renderizado. Y, quizás más importante, a corregir decenas de bugs pequeños que aparecen cuando se trabaja con texto muy irregular.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Muchos de esos errores habrían costado bastante tiempo si hubiéramos ido caso por caso. Con IA, fue mucho más fácil detectar patrones, revisar excepciones y ajustar el resultado hasta que se sintiera bien.",
+      "en": "Many of these errors would have taken quite a while if we had gone case by case. With IA, it was much easier to detect patterns, review exceptions and adjust the result until it felt good.",
+      "es": "Muchos de esos errores habrían costado bastante tiempo si hubiéramos ido caso por caso. Con IA, fue mucho más fácil detectar patrones, revisar excepciones y ajustar el resultado hasta que se sintiera bien.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez que el renderizado básico funcionaba, el siguiente paso fue dejar de pensar solo en “mostrar datos” y empezar a pensar en",
+      "en": "Once the basic rendering worked, the next step was to stop thinking just about \"showing data\" and start thinking about",
+      "es": "Una vez que el renderizado básico funcionaba, el siguiente paso fue dejar de pensar solo en “mostrar datos” y empezar a pensar en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "cómo se navega una wiki",
+      "en": "how to navigate a wiki",
+      "es": "cómo se navega una wiki",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahí empezaron a aparecer las decisiones que más personalidad le dieron al proyecto:",
+      "en": "There began to appear the decisions that gave the project the most personality:",
+      "es": "Ahí empezaron a aparecer las decisiones que más personalidad le dieron al proyecto:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No queríamos un buscador muerto. Queríamos una búsqueda ágil, con autocompletado y sugerencias que dieran sensación de inmediatez.",
+      "en": "We didn't want a dead search engine. We wanted an agile search, with self-completed and suggestions that would give a sense of immediacy.",
+      "es": "No queríamos un buscador muerto. Queríamos una búsqueda ágil, con autocompletado y sugerencias que dieran sensación de inmediatez.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se añadieron:",
+      "en": "The following were added:",
+      "es": "Se añadieron:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "sugerencias en tiempo real",
+      "en": "Real-time suggestions",
+      "es": "sugerencias en tiempo real",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "búsqueda por items, collections y skills",
+      "en": "search for items, collections and skills",
+      "es": "búsqueda por items, collections y skills",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ejemplos visuales en la landing",
+      "en": "visual examples on the landing",
+      "es": "ejemplos visuales en la landing",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "una animación de búsqueda para hacer la home más llamativa",
+      "en": "a search animation to make home more striking",
+      "es": "una animación de búsqueda para hacer la home más llamativa",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, trabajamos para que esas sugerencias no fueran solo texto plano, sino que respetaran colores, rarezas y formatos especiales. Así la experiencia del buscador encajaba con la del resto de la aplicación.",
+      "en": "In addition, we worked to ensure that those suggestions were not just flat text, but that they respected special colors, rarity and formats. Thus, the search engine's experience was in line with that of the rest of the application.",
+      "es": "Además, trabajamos para que esas sugerencias no fueran solo texto plano, sino que respetaran colores, rarezas y formatos especiales. Así la experiencia del buscador encajaba con la del resto de la aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La sección de items fue probablemente una de las más trabajadas.",
+      "en": "The item section was probably one of the most worked out.",
+      "es": "La sección de items fue probablemente una de las más trabajadas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No bastaba con enseñar nombre, categoría e ID. Eso se parecía demasiado a imprimir un JSON en pantalla. Queríamos algo que hablara el idioma del jugador.",
+      "en": "It was not enough to teach name, category and ID. That was too much to print a JSON on screen. We wanted something to speak the player's language.",
+      "es": "No bastaba con enseñar nombre, categoría e ID. Eso se parecía demasiado a imprimir un JSON en pantalla. Queríamos algo que hablara el idioma del jugador.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por eso se fue refinando la ficha hasta incluir:",
+      "en": "That's why the tab was refined to include:",
+      "es": "Por eso se fue refinando la ficha hasta incluir:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nombre con color según rareza",
+      "en": "name with color according to rarity",
+      "es": "nombre con color según rareza",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "soporte para nombres con formato especial",
+      "en": "special format name support",
+      "es": "soporte para nombres con formato especial",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "imagen del item según su material",
+      "en": "image of the item according to its material",
+      "es": "imagen del item según su material",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "soporte para cabezas con skin.value",
+      "en": "head support with skin.value",
+      "es": "soporte para cabezas con skin.value",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "soporte para iconos 3D en skull items",
+      "en": "support for 3D icons in skull items",
+      "es": "soporte para iconos 3D en skull items",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "manejo de imágenes que fallan sin mostrar el icono roto del navegador",
+      "en": "managing images that fail without showing the broken icon of the browser",
+      "es": "manejo de imágenes que fallan sin mostrar el icono roto del navegador",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "stats visuales, ordenados y coloreados",
+      "en": "visual stats, sorted and coloured",
+      "es": "stats visuales, ordenados y coloreados",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "información del Museum",
+      "en": "information of the Museum",
+      "es": "información del Museum",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "items relacionados dentro del mismo set",
+      "en": "related items within the same set",
+      "es": "items relacionados dentro del mismo set",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "suma de stats totales del set",
+      "en": "sum of total set states",
+      "es": "suma de stats totales del set",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "También tuvimos que resolver casos muy concretos y muy “SkyBlock”:",
+      "en": "We also had to solve very specific and very \"SkyBlock\" cases:",
+      "es": "También tuvimos que resolver casos muy concretos y muy “SkyBlock”:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "materiales legacy como gold_boots que en assets reales son golden_boots",
+      "en": "legacy materials like gold _ boots that in real assets are golden _ boots",
+      "es": "materiales legacy como gold_boots que en assets reales son golden_boots",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "armaduras tintadas de cuero con campo color",
+      "en": "leather-tyed armour with color field",
+      "es": "armaduras tintadas de cuero con campo color",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "sets con nombres poco uniformes como:",
+      "en": "sets with ununiform names such as:",
+      "es": "sets con nombres poco uniformes como:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Wise Dragon Boots",
+      "en": "Wise Dragon Boots",
+      "es": "Botas de dragón sabias",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Boots of the Pack",
+      "en": "Boots of the Pack",
+      "es": "Botas del paquete",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Perfect Boots – Tier XII",
+      "en": "Perfect Boots – Tier XII",
+      "es": "Botas perfectas – Tier XII",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aquí la IA volvió a ser muy útil no por “inventar” la solución, sino por ayudarnos a generalizar reglas. Cuando detectábamos un caso raro, podíamos iterar rápido sobre la lógica y convertir excepciones en patrones reutilizables. Llegando al resultado final",
+      "en": "Here the IA was again very useful not by \"inventing\" the solution, but by helping us to generalize rules. When we detected a rare case, we could quickly iterate on logic and convert exceptions into reusable patterns.",
+      "es": "Aquí la IA volvió a ser muy útil no por “inventar” la solución, sino por ayudarnos a generalizar reglas. Cuando detectábamos un caso raro, podíamos iterar rápido sobre la lógica y convertir excepciones en patrones reutilizables. Llegando al resultado final",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La parte de collections también evolucionó bastante.",
+      "en": "The collection part also evolved quite a bit.",
+      "es": "La parte de collections también evolucionó bastante.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Al principio bastaba con enseñar categoría y tiers. Pero una vez que empezamos a usar la web como una herramienta real, quedó claro que eso se quedaba corto.",
+      "en": "At first it was enough to teach category and tiers. But once we started using the web as a real tool, it became clear that that was short.",
+      "es": "Al principio bastaba con enseñar categoría y tiers. Pero una vez que empezamos a usar la web como una herramienta real, quedó claro que eso se quedaba corto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Terminamos añadiendo:",
+      "en": "We end up adding:",
+      "es": "Terminamos añadiendo:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "iconos por categoría",
+      "en": "icons by category",
+      "es": "iconos por categoría",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "visualización horizontal de tiers",
+      "en": "horizontal display of tiers",
+      "es": "visualización horizontal de tiers",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "unlocks dentro de cada tier",
+      "en": "unlocks within each tier",
+      "es": "unlocks dentro de cada tier",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "resaltado de SkyBlock XP",
+      "en": "highlighted by SkyBlock XP",
+      "es": "resaltado de SkyBlock XP",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "unlocks clicables cuando apuntan a items reales",
+      "en": "clickable unlocks when pointing to real items",
+      "es": "unlocks clicables cuando apuntan a items reales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "soporte para recipes y minion recipes",
+      "en": "support for repairs and mining repairs",
+      "es": "soporte para recipes y minion recipes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Eso permitió que una colección no fuera solo una lista de requisitos, sino una pequeña ruta navegable dentro de la propia wiki. Desde una colección puedes saltar a un item, y desde el item seguir explorando otras partes del contenido.",
+      "en": "That allowed a collection not only to be a list of requirements, but a small navigable route within the wiki itself. From a collection you can jump to an item, and from the item you can continue exploring other parts of the content.",
+      "es": "Eso permitió que una colección no fuera solo una lista de requisitos, sino una pequeña ruta navegable dentro de la propia wiki. Desde una colección puedes saltar a un item, y desde el item seguir explorando otras partes del contenido.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La sección de skills también requirió una buena cantidad de trabajo. No solo por la estructura de datos, sino porque había que interpretar correctamente la información del API.",
+      "en": "The skills section also required a good deal of work, not only because of the data structure, but because the API information had to be interpreted correctly.",
+      "es": "La sección de skills también requirió una buena cantidad de trabajo. No solo por la estructura de datos, sino porque había que interpretar correctamente la información del API.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La API no daba la experiencia “por nivel”, sino la experiencia total acumulada. Así que hubo que recalcular y representar:",
+      "en": "The API did not give the experience \"by level,\" but the total experience accumulated. So we had to recalculate and represent:",
+      "es": "La API no daba la experiencia “por nivel”, sino la experiencia total acumulada. Así que hubo que recalcular y representar:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nivel",
+      "en": "level",
+      "es": "nivel",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "XP necesaria para ese nivel",
+      "en": "XP required for this level",
+      "es": "XP necesaria para ese nivel",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "XP total",
+      "en": "Total XP",
+      "es": "Total XP",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "unlocks por nivel",
+      "en": "unlocks by level",
+      "es": "unlocks por nivel",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Después añadimos un modal de detalle para cada nivel, donde se muestran los unlocks con formato visual mejorado. Y ahí se volvió a repetir la misma idea que ya habíamos aprendido: no basta con mostrar texto; hay que respetar el lenguaje visual del juego.",
+      "en": "Then we added a detail modal for each level, where the unlocks are shown with improved visual format. And there the same idea that we had already learned was repeated: it is not enough to show text; the visual language of the game must be respected.",
+      "es": "Después añadimos un modal de detalle para cada nivel, donde se muestran los unlocks con formato visual mejorado. Y ahí se volvió a repetir la misma idea que ya habíamos aprendido: no basta con mostrar texto; hay que respetar el lenguaje visual del juego.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La parte de Mayor fue especialmente interesante porque no solo había que mostrar información, sino también interpretar situaciones distintas:",
+      "en": "The part of Major was especially interesting because not only was information to be shown, but also to interpret different situations:",
+      "es": "La parte de Mayor fue especialmente interesante porque no solo había que mostrar información, sino también interpretar situaciones distintas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mayor actual",
+      "en": "current higher",
+      "es": "mayor actual",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "minister",
+      "en": "minister",
+      "es": "Ministro",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "perks",
+      "en": "perks",
+      "es": "ventajas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "elecciones activas",
+      "en": "active elections",
+      "es": "elecciones activas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "candidatos",
+      "en": "candidates",
+      "es": "candidatos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "porcentajes de votos",
+      "en": "Percentage of votes",
+      "es": "porcentajes de votos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "posibles special mayors",
+      "en": "possible special majors",
+      "es": "posibles special mayors",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A nivel de interfaz, acabamos separando la página en dos columnas:",
+      "en": "At the interface level, we end up separating the page into two columns:",
+      "es": "A nivel de interfaz, acabamos separando la página en dos columnas:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a la izquierda, el gabinete actual",
+      "en": "to the left, the current cabinet",
+      "es": "a la izquierda, el gabinete actual",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a la derecha, las votaciones actuales",
+      "en": "on the right, the current votes",
+      "es": "a la derecha, las votaciones actuales",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Después fuimos refinando la presentación:",
+      "en": "Then we refined the presentation:",
+      "es": "Después fuimos refinando la presentación:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "perks con título y descripción",
+      "en": "perks with title and description",
+      "es": "perks con título y descripción",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "colores de Minecraft en descripciones",
+      "en": "Minecraft colors in descriptions",
+      "es": "colores de Minecraft en descripciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "detección de minister perks",
+      "en": "minister perks detection",
+      "es": "detección de minister perks",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "años visibles",
+      "en": "years visible",
+      "es": "años visibles",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "votos mostrados como x / y z%",
+      "en": "votes shown as x / and z%",
+      "es": "votos mostrados como x / y z%",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "orden de candidatos de mayor a menor voto",
+      "en": "order of candidates from greater to lesser vote",
+      "es": "orden de candidatos de mayor a menor voto",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y, como suele pasar en proyectos reales, aparecieron casos especiales. Por ejemplo, cuando la estructura de election no estaba exactamente donde esperábamos o cuando se estaba mostrando la elección anterior en vez de la actual.",
+      "en": "And, as is often the case in real projects, special cases appeared, for example, when the election structure was not exactly where we expected or when the previous choice was being shown instead of the current one.",
+      "es": "Y, como suele pasar en proyectos reales, aparecieron casos especiales. Por ejemplo, cuando la estructura de election no estaba exactamente donde esperábamos o cuando se estaba mostrando la elección anterior en vez de la actual.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ese tipo de problemas son justamente donde la IA ahorra tiempo de verdad: no porque “adivine” la respuesta, sino porque permite probar rápidamente estrategias de parsing más robustas hasta dar con una solución consistente.",
+      "en": "That kind of problem is just where IA saves real time: not because it \"guesses\" the answer, but because it allows you to quickly test more robust parsing strategies until a consistent solution is found.",
+      "es": "Ese tipo de problemas son justamente donde la IA ahorra tiempo de verdad: no porque “adivine” la respuesta, sino porque permite probar rápidamente estrategias de parsing más robustas hasta dar con una solución consistente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La subpágina de Bingo fue otra de las partes más divertidas de construir.",
+      "en": "Bingo's subpage was another of the most fun parts to build.",
+      "es": "La subpágina de Bingo fue otra de las partes más divertidas de construir.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No queríamos listar objetivos en vertical. Eso no se parecía en nada a la experiencia real del juego. Así que lo convertimos en una",
+      "en": "We didn't want to list vertical targets. That was nothing like the actual experience of the game. So we made it a",
+      "es": "No queríamos listar objetivos en vertical. Eso no se parecía en nada a la experiencia real del juego. Así que lo convertimos en una",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "carta 5×5",
+      "en": "letter 5 × 5",
+      "es": "carta 5×5",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", visual y navegable.",
+      "en": ", visual and navigable.",
+      "es": ", visual y navegable.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "grid 5×5",
+      "en": "grid 5 × 5",
+      "es": "grid 5×5",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "modal por objetivo",
+      "en": "modal by objective",
+      "es": "modal por objetivo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "full lore dentro del modal",
+      "en": "full lore inside the modal",
+      "es": "full lore dentro del modal",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "hover interactivo",
+      "en": "hover interactivo",
+      "es": "hover interactivo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "detección de goals comunitarias",
+      "en": "Community goal detection",
+      "es": "detección de goals comunitarias",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "coloreado progresivo según tier alcanzado",
+      "en": "progressive color as tier reached",
+      "es": "coloreado progresivo según tier alcanzado",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "información de puntos contextual",
+      "en": "contextual point information",
+      "es": "información de puntos contextual",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "navegación separada en su propia subpágina",
+      "en": "separate navigation on your own subpage",
+      "es": "navegación separada en su propia subpágina",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con Bingo, más que en ningún otro módulo, se vio claramente la diferencia entre “mostrar datos” y “diseñar una experiencia”. Ese cambio de mentalidad fue una de las mejores decisiones del proyecto.",
+      "en": "With Bingo, more than in any other module, the difference between \"showing data\" and \"designing an experience\" was clearly seen. This change in mindset was one of the best decisions of the project.",
+      "es": "Con Bingo, más que en ningún otro módulo, se vio claramente la diferencia entre “mostrar datos” y “diseñar una experiencia”. Ese cambio de mentalidad fue una de las mejores decisiones del proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La sección de Museum nació como una necesidad natural del proyecto. Una vez que ya teníamos items bien renderizados, tenía todo el sentido construir un navegador dedicado que permitiera explorar:",
+      "en": "The Museum section was born as a natural need of the project. Once we already had well-rendered items, it made every sense to build a dedicated browser that would allow us to explore:",
+      "es": "La sección de Museum nació como una necesidad natural del proyecto. Una vez que ya teníamos items bien renderizados, tenía todo el sentido construir un navegador dedicado que permitiera explorar:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "qué items acepta el Museum",
+      "en": "what items the Museum accepts",
+      "es": "qué items acepta el Museum",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "cuánta XP da cada uno",
+      "en": "how much XP each gives",
+      "es": "cuánta XP da cada uno",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "a qué categoría pertenece",
+      "en": "to which category it belongs",
+      "es": "a qué categoría pertenece",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Además, se trabajó específicamente para evitar ruido innecesario:",
+      "en": "In addition, specific work was done to avoid unnecessary noise:",
+      "es": "Además, se trabajó específicamente para evitar ruido innecesario:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "deduplicación de armor sets",
+      "en": "redoubling of armor sets",
+      "es": "deduplicación de armor sets",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "visualización limpia por categorías",
+      "en": "clean display by category",
+      "es": "visualización limpia por categorías",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "iconos representativos",
+      "en": "Representative icons",
+      "es": "iconos representativos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "navegación desde Museum al item correspondiente",
+      "en": "navigation from Museum to the corresponding item",
+      "es": "navegación desde Museum al item correspondiente",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y también aquí aparecieron los matices: sets completos, icono principal del helmet en Museum, distintas formas de extraer la XP de donación, etc.",
+      "en": "And here also appeared the nuances: complete sets, main icon of the helmet in Museum, different ways to extract the XP from donation, etc.",
+      "es": "Y también aquí aparecieron los matices: sets completos, icono principal del helmet en Museum, distintas formas de extraer la XP de donación, etc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A estas alturas, la contribución de la IA se puede resumir muy bien:",
+      "en": "At this point, the contribution of the IA can be summarized very well:",
+      "es": "A estas alturas, la contribución de la IA se puede resumir muy bien:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "menos fricción, más iteración, más consistencia",
+      "en": "less friction, more iteration, more consistency",
+      "es": "menos fricción, más iteración, más consistencia",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No sustituyó criterio.",
+      "en": "It did not replace human judgment.",
+      "es": "No sustituyó criterio.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": "No diseñó por sí sola.",
+      "en": "It did not design on its own.",
+      "es": "No diseñó por sí sola.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "OPUS-MT automatic translation"
+    },
+    {
+      "source": "No tomó decisiones importantes sin supervisión.",
+      "en": "It did not make important decisions without supervision.",
+      "es": "No tomó decisiones importantes sin supervisión.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pero sí hizo posible trabajar mucho más rápido en tareas como:",
+      "en": "But it did make it possible to work much faster on tasks such as:",
+      "es": "Pero sí hizo posible trabajar mucho más rápido en tareas como:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "detectar patrones en datos inconsistentes",
+      "en": "to detect patterns in inconsistent data",
+      "es": "detectar patrones en datos inconsistentes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "proponer estructuras de render más limpias",
+      "en": "propose cleaner rendering structures",
+      "es": "proponer estructuras de render más limpias",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mantener coherencia entre páginas",
+      "en": "maintain consistency between pages",
+      "es": "mantener coherencia entre páginas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "depurar bugs visuales pequeños pero molestos",
+      "en": "debugging small but annoying visual bugs",
+      "es": "depurar bugs visuales pequeños pero molestos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ajustar casos especiales sin frenar el ritmo del proyecto",
+      "en": "adjust special cases without slowing down the project pace",
+      "es": "ajustar casos especiales sin frenar el ritmo del proyecto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y eso tiene un valor enorme, porque en proyectos así el enemigo real no suele ser la complejidad técnica pura, sino el desgaste acumulado de cien pequeños detalles.",
+      "en": "And that has a huge value, because in projects like this the real enemy is not usually pure technical complexity, but the accumulated wear of a hundred small details.",
+      "es": "Y eso tiene un valor enorme, porque en proyectos así el enemigo real no suele ser la complejidad técnica pura, sino el desgaste acumulado de cien pequeños detalles.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La IA ayudó precisamente ahí: en mantener el proyecto en movimiento.",
+      "en": "The IA helped precisely there: to keep the project moving.",
+      "es": "La IA ayudó precisamente ahí: en mantener el proyecto en movimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SkyBlockCodexAPI hoy ya no es una idea, sino una base sólida y funcional.",
+      "en": "SkyBlockCodexAPI today is no longer an idea, but a solid and functional basis.",
+      "es": "SkyBlockCodexAPI hoy ya no es una idea, sino una base sólida y funcional.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Actualmente incluye:",
+      "en": "It currently includes:",
+      "es": "Actualmente incluye:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "buscador rápido",
+      "en": "Quick search engine",
+      "es": "buscador rápido",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "sugerencias inteligentes",
+      "en": "smart suggestions",
+      "es": "sugerencias inteligentes",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "renderizado fiel al lenguaje visual de SkyBlock",
+      "en": "rendering true to the visual language of SkyBlock",
+      "es": "renderizado fiel al lenguaje visual de SkyBlock",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "fichas de items mucho más orientadas al jugador",
+      "en": "much more player-oriented item chips",
+      "es": "fichas de items mucho más orientadas al jugador",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "páginas separadas para Mayor, Bingo y Museum",
+      "en": "separate pages for Major, Bingo and Museum",
+      "es": "páginas separadas para Mayor, Bingo y Museum",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "soporte para colores, perks, rarezas y formatos especiales",
+      "en": "support for special colors, perks, rarity and formats",
+      "es": "soporte para colores, perks, rarezas y formatos especiales",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "navegación clara entre secciones",
+      "en": "clear navigation between sections",
+      "es": "navegación clara entre secciones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "despliegue en GitHub Pages",
+      "en": "deployment in GitHub Pages",
+      "es": "despliegue en GitHub Pages",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todo ello sin backend tradicional, manteniendo una arquitectura ligera y fácil de compartir.",
+      "en": "All without traditional backend, maintaining a light and easy-to-share architecture.",
+      "es": "Todo ello sin backend tradicional, manteniendo una arquitectura ligera y fácil de compartir.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Podéis acceder al código fuente en:",
+      "en": "You can access the source code at:",
+      "es": "Podéis acceder al código fuente en:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y tenéis acceso a la aplicación en:",
+      "en": "And you have access to the application at:",
+      "es": "Y tenéis acceso a la aplicación en:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gaming",
+      "en": "Gaming",
+      "es": "Gaming",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "minecraft",
+      "en": "minecraft",
+      "es": "Minería",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Skyblock",
+      "en": "Skyblock",
+      "es": "Skyblock",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 15 abr 2026.",
+      "en": "A story of the Saturdays.AI. community originally published on 15 abr 2026.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 15 abr 2026.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

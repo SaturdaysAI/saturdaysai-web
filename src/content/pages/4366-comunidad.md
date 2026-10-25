@@ -23,7 +23,7 @@ At Saturdays.AI we believe that we must accelerate our mission to make A.I. acce
 
 ##### Online Courses and Events
 
-##### Workshops and free content so you can learn at your own pace from 0.
+##### Workshops and content so you can learn at your own pace from 0.
 
 ##### Channels for discussion
 
@@ -31,7 +31,7 @@ At Saturdays.AI we believe that we must accelerate our mission to make A.I. acce
 
 Learning data science or machine learning is not easy, building awesome AI projects is even less. You need basic knowledge, motivation  and peers to walk together in the process. 
 
-That’s why we’ve created the **online Saturdays.AI community** – free of charge – so you can start discussions, ask your questions, share events or talks, search for job offers or create A.I. initiatives.
+That’s why we’ve created the **online Saturdays.AI community** so you can start discussions, ask your questions, share events or talks, search for job offers or create A.I. initiatives.
 
 Will you join us?
 

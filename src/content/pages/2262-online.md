@@ -1,7 +1,7 @@
 ---
 title: Online
 description: Build AI skills online Get the skills you need for the future of
-  work! ALWAYS FREE.Learn about A.I. from 0, with online courses on Python, data
+  work! Learn about A.I. from 0, with online courses on Python, data
   science, prompt engineering, machine learning and new technologies. What's
   great…
 image: /media/09bc660e4fa86c56.webp
@@ -15,7 +15,7 @@ kind: section
 
 ## Build AI skills online
 
-Get the skills you need for the future of work! **ALWAYS FREE.**
+Get the skills you need for the future of work!
 
 Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.
 
@@ -59,7 +59,7 @@ You can choose different study plans through the courses depending on your knowl
 
 \*_Spanish_\* Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar **contexto**, **caching**, **planificación, RAG** y **agentes**.
 
-[Free • Join now](https://cursos.saturdays.ai/courses/prompt-engineering-ai)
+[Join now](https://cursos.saturdays.ai/courses/prompt-engineering-ai)
 
 ![](/media/c489f4d5aa7fb58f.webp)
 
@@ -73,7 +73,7 @@ The program is organized in several modules where we will challenge you with pra
 
 
 
-[EN - Free • Join now](https://cursos.saturdays.ai/courses/python4ai-eng)
+[EN - Join now](https://cursos.saturdays.ai/courses/python4ai-eng)
 
 #### IA Generativa y Multimodal
 
@@ -83,7 +83,7 @@ We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what
 
 This particular field (**generative AI**) is changing superfast, so we are going to keep updating the content often.
 
-[Free • Join now](https://saturdays.ai/curso-ia-generativa)
+[Join now](https://saturdays.ai/curso-ia-generativa)
 
 ![circular economy in the forest](/media/99d35957d37f977b.webp)
 
@@ -93,7 +93,7 @@ This particular field (**generative AI**) is changing superfast, so we are going
 
 \*_English & Spanish_\*  Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!
 
-[Free • Join now](https://cursos.saturdays.ai/courses/datamining)
+[Join now](https://cursos.saturdays.ai/courses/datamining)
 
 #### Reinforcement Learning
 
@@ -103,7 +103,7 @@ Descubre cómo modelar y resolver problemas complejos de inteligencia artificial
 
 _\*Spoiler: Quizás la AGI se consiga gracias al RL_
 
-[Free - Empieza](https://cursos.saturdays.ai/courses/aprendizaje-refuerzo)
+[Empieza](https://cursos.saturdays.ai/courses/aprendizaje-refuerzo)
 
 ![girl moving connecting to the future](/media/a2d1b059d2d78bf2.webp)
 
@@ -113,7 +113,7 @@ _\*Spoiler: Quizás la AGI se consiga gracias al RL_
 
 Lay the grounds to kick start your Data Science superpowers. 
 
-[Free • Join now](https://ti.to/saturdaysai/data-science-fundamentals)
+[Join now](https://ti.to/saturdaysai/data-science-fundamentals)
 
 ![](/media/3adf8d52d81f8918.webp)
 
@@ -123,7 +123,7 @@ Lay the grounds to kick start your Data Science superpowers. 
 
 \*_English & Spanish_\*  Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.
 
-[Free • Join now](https://cursos.saturdays.ai/courses/pandas)
+[Join now](https://cursos.saturdays.ai/courses/pandas)
 
 #### Numpy Data Science
 
@@ -131,7 +131,7 @@ Lay the grounds to kick start your Data Science superpowers. 
 
 ¿Alguna vez te has preguntado cómo los científicos de datos y los ingenieros realizan cálculos complejos y manipulan grandes conjuntos de datos en Python? ¡Aquí es donde entra en juego NumPy! En este curso, vamos a sumergirnos en el fascinante mundo de NumPy y aprender a manejar datos numéricos de manera eficiente.
 
-[Free • Join now](https://cursos.saturdays.ai/courses/curso-numpy)
+[Join now](https://cursos.saturdays.ai/courses/curso-numpy)
 
 ![Caratula Curso Numpy](/media/a7391e4e263617c1.webp)
 
@@ -141,10 +141,10 @@ Lay the grounds to kick start your Data Science superpowers. 
 
 \*S_panish_\*  SciPy es la librería de Python para realizar ciencia por excelencia, contiene módulos para optimización, álgebra lineal, integración, interpolación, funciones especiales, FFT, procesamiento de señales y de imagen, resolución de ODEs y otras tareas para la ciencia e ingeniería.
 
-[Free - Empieza](https://cursos.saturdays.ai/courses/scipy)
+[Empieza](https://cursos.saturdays.ai/courses/scipy)
 
 #### IA para Videojuegos
 
-[Free - Empieza](https://cursos.saturdays.ai/courses/ia-videojuegos)
+[Empieza](https://cursos.saturdays.ai/courses/ia-videojuegos)
 
 ![Create your own videogame](/media/82e4ebd91b31c79c.webp)

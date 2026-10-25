@@ -1,0 +1,436 @@
+{
+  "title": "Machine Learning para prevenir el acoso online de menores",
+  "route": "/2022/03/09/machine-learning-para-prevenir-el-acoso-online-de-menores/",
+  "segments": [
+    {
+      "source": "Machine Learning para prevenir el acoso online de menores",
+      "en": "Machine Learning to prevent online harassment of children",
+      "es": "Machine Learning para prevenir el acoso online de menores",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "De la navegación segura al miedo a perderlo. Cuando tus hijos navegan en internet, ¿aplicas o configuras algún filtro de control parental? Latam online. Segunda Edición. 2021 En la actualidad, el hostigamiento u acoso sexual…",
+      "en": "From safe navigation to the fear of losing it. When your children surf the internet, do you apply or configure any parental control filters? Latam online. Second Edition. 2021 Currently, sexual harassment or harassment…",
+      "es": "De la navegación segura al miedo a perderlo. Cuando tus hijos navegan en internet, ¿aplicas o configuras algún filtro de control parental? Latam online. Segunda Edición. 2021 En la actualidad, el hostigamiento u acoso sexual…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Contexto… please!",
+      "en": "Context… please!",
+      "es": "Contexto… please!",
+      "reviewed": false
+    },
+    {
+      "source": "La propuesta",
+      "en": "The proposal",
+      "es": "La propuesta",
+      "reviewed": false
+    },
+    {
+      "source": "Tótem significa protector",
+      "en": "Totem means protector",
+      "es": "Tótem significa protector",
+      "reviewed": false
+    },
+    {
+      "source": "Sin tanto rollo, esto es lo que hicimos.",
+      "en": "Without much fuss, this is what we did.",
+      "es": "Sin tanto rollo, esto es lo que hicimos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¡¿Cómo hicieron eso?!",
+      "en": "How did they do that?!",
+      "es": "¡¿Cómo hicieron eso?!",
+      "reviewed": false
+    },
+    {
+      "source": "Fase 1 (Aquí vamos…)",
+      "en": "Phase 1 (Here we go…)",
+      "es": "Fase 1 (Aquí vamos…)",
+      "reviewed": false
+    },
+    {
+      "source": "Obtención de los datos",
+      "en": "Obtaining the data",
+      "es": "Obtención de los datos",
+      "reviewed": false
+    },
+    {
+      "source": "Fase 2 (Analicemos esto…)",
+      "en": "Phase 2 (Let's analyze this...)",
+      "es": "Fase 2 (Analicemos esto…)",
+      "reviewed": false
+    },
+    {
+      "source": "Limpieza de datos",
+      "en": "Data Cleaning",
+      "es": "Limpieza de datos",
+      "reviewed": false
+    },
+    {
+      "source": "Fase 3 (Entrenemos esto…)",
+      "en": "Phase 3 (Let's train this...)",
+      "es": "Fase 3 (Entrenemos esto…)",
+      "reviewed": false
+    },
+    {
+      "source": "Vectorización",
+      "en": "Vectorization",
+      "es": "Vectorización",
+      "reviewed": false
+    },
+    {
+      "source": "Entrenamiento",
+      "en": "Training",
+      "es": "Entrenamiento",
+      "reviewed": false
+    },
+    {
+      "source": "Evaluación",
+      "en": "Evaluation",
+      "es": "Evaluación",
+      "reviewed": false
+    },
+    {
+      "source": "¿Te hace sentido nuestra propuesta?",
+      "en": "Does our proposal make sense to you?",
+      "es": "¿Te hace sentido nuestra propuesta?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aquí puedes ver un video que describe nuestra propuesta",
+      "en": "Here you can see a video that describes our proposal",
+      "es": "Aquí puedes ver un video que describe nuestra propuesta",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De la navegación segura al miedo a perderlo.",
+      "en": "From safe navigation to the fear of losing it.",
+      "es": "De la navegación segura al miedo a perderlo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuando tus hijos navegan en internet, ¿aplicas o configuras algún filtro de control parental?",
+      "en": "When your children surf the internet, do you apply or configure any parental control filters?",
+      "es": "Cuando tus hijos navegan en internet, ¿aplicas o configuras algún filtro de control parental?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Original image",
+      "en": "Original image",
+      "es": "Original image",
+      "reviewed": false
+    },
+    {
+      "source": "En la actualidad, el hostigamiento u acoso sexual online es conocido en el lenguaje anglosajón como grooming online; donde un adulto logra tener contacto a través de un medio tecnológico contra un menor de edad, siendo el objetivo del abusador atacar a través de interacciones como: acoso a su moral, hablar de sexo, conseguir material íntimo o acordar un encuentro sexual.",
+      "en": "Currently, online sexual harassment or harassment is known in English as online grooming; where an adult manages to have contact through a technological means against a minor, the objective of the abuser being to attack through interactions such as: harassment of their morals, talking about sex, obtaining intimate material or agreeing to a sexual encounter.",
+      "es": "En la actualidad, el hostigamiento u acoso sexual online es conocido en el lenguaje anglosajón como grooming online; donde un adulto logra tener contacto a través de un medio tecnológico contra un menor de edad, siendo el objetivo del abusador atacar a través de interacciones como: acoso a su moral, hablar de sexo, conseguir material íntimo o acordar un encuentro sexual.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El grooming online se ha incrementado a raíz del confinamiento por el COVID-19. En Argentina aumentó más del 30% en el 2020(2), en datos del INEGI del 2019 arrojan que en México creció el 27%(3) , mientras que el diario ABC de España, reportó un incremento del 410% en los últimos años (4).",
+      "en": "Online grooming has increased as a result of the COVID-19 confinement. In Argentina it increased more than 30% in 2020(2), INEGI data from 2019 shows that in Mexico it grew 27%(3), while the Spanish newspaper ABC reported an increase of 410% in recent years (4).",
+      "es": "El grooming online se ha incrementado a raíz del confinamiento por el COVID-19. En Argentina aumentó más del 30% en el 2020(2), en datos del INEGI del 2019 arrojan que en México creció el 27%(3) , mientras que el diario ABC de España, reportó un incremento del 410% en los últimos años (4).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los aplicativos actuales para el control parental recurren a bloqueos de aplicaciones, algunos sitios inapropiados, evitar compras online o el acceso de algún virus a los dispositivos como celulares, tablets o computadoras de niños y adolescentes. Sin embargo ninguno analiza conversaciones en redes sociales y tampoco clasifica las que puedan ser catalogadas como peligrosas.",
+      "en": "Current parental control applications use blocking applications, some inappropriate sites, preventing online purchases or the access of viruses to devices such as cell phones, tablets or computers of children and adolescents. However, none of them analyze conversations on social networks and neither classify those that could be classified as dangerous.",
+      "es": "Los aplicativos actuales para el control parental recurren a bloqueos de aplicaciones, algunos sitios inapropiados, evitar compras online o el acceso de algún virus a los dispositivos como celulares, tablets o computadoras de niños y adolescentes. Sin embargo ninguno analiza conversaciones en redes sociales y tampoco clasifica las que puedan ser catalogadas como peligrosas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Derivado del confinamiento por el COVID-19 los niños y adolescentes se han visto más vulnerables debido a la necesidad de utilizar los dispositivos móviles como parte de sus actividades diarias, gran parte de eso fue para tomar clases virtuales, realizar tareas y en otras ocasiones como medio de entretenimiento y comunicación, al verse limitados por no poder salir y compartir tiempo con familiares y amigos.",
+      "en": "Derived from the confinement due to COVID-19, children and adolescents have been more vulnerable due to the need to use mobile devices as part of their daily activities. Much of this was to take virtual classes, complete homework and on other occasions as a means of entertainment and communication, as they were limited by not being able to go out and share time with family and friends.",
+      "es": "Derivado del confinamiento por el COVID-19 los niños y adolescentes se han visto más vulnerables debido a la necesidad de utilizar los dispositivos móviles como parte de sus actividades diarias, gran parte de eso fue para tomar clases virtuales, realizar tareas y en otras ocasiones como medio de entretenimiento y comunicación, al verse limitados por no poder salir y compartir tiempo con familiares y amigos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La nula supervisión ha permitido que menores de edad hayan experimentado situaciones indeseadas sin el conocimiento de los adultos.",
+      "en": "Lack of supervision has allowed minors to experience unwanted situations without the knowledge of adults.",
+      "es": "La nula supervisión ha permitido que menores de edad hayan experimentado situaciones indeseadas sin el conocimiento de los adultos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De acuerdo al sitio salud con lupa, el 39% de los acosos se han experimentado por Facebook, seguida por el 23% en Instagram y un 14% por WhatsApp (5).",
+      "en": "According to the health site with magnifying glass, 39% of harassment has been experienced on Facebook, followed by 23% on Instagram and 14% on WhatsApp (5).",
+      "es": "De acuerdo al sitio salud con lupa, el 39% de los acosos se han experimentado por Facebook, seguida por el 23% en Instagram y un 14% por WhatsApp (5).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tótem = “Déjalo Navegar sin Preocupaciones”",
+      "en": "Totem = “Let it Navigate Without Worries”",
+      "es": "Tótem = “Déjalo Navegar sin Preocupaciones”",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Actualmente contamos con un dataset de conversaciones en inglés, las cuales son analizadas y catalogadas como normales o peligrosas, una vez obtenido esté resultado se enviará una notificación al padre o tutor si se detecta una conversación inapropiada.",
+      "en": "We currently have a dataset of conversations in English, which are analyzed and classified as normal or dangerous. Once this result is obtained, a notification will be sent to the parent or guardian if an inappropriate conversation is detected.",
+      "es": "Actualmente contamos con un dataset de conversaciones en inglés, las cuales son analizadas y catalogadas como normales o peligrosas, una vez obtenido esté resultado se enviará una notificación al padre o tutor si se detecta una conversación inapropiada.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aquí te explicamos qué fue lo que aplicamos para obtener los resultados que te mostraremos más adelante…",
+      "en": "Here we explain what we applied to obtain the results that we will show you later...",
+      "es": "Aquí te explicamos qué fue lo que aplicamos para obtener los resultados que te mostraremos más adelante…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los datos fueron adquiridos del proyecto PAN Lab 20126. La carpeta con los datos fue solicitada y se nos concedió el permiso para usarla. Revisando la data nos encontramos con conversaciones de diversa duración, en las que los participantes tenían diferentes formas de escribir y el archivo del corpus que tenía un formato .xml. Por lo que se procedió con la conversión de la data a un formato .csv, “Comma Separated Values”, para poder proceder con la siguiente fase.",
+      "en": "The data was acquired from the PAN Lab 20126 project. The folder with the data was requested and we were granted permission to use it. Reviewing the data we found conversations of varying lengths, in which the participants had different ways of writing and the corpus file had an .xml format. Therefore, the data was converted to a .csv format, “Comma Separated Values”, in order to proceed with the next phase.",
+      "es": "Los datos fueron adquiridos del proyecto PAN Lab 20126. La carpeta con los datos fue solicitada y se nos concedió el permiso para usarla. Revisando la data nos encontramos con conversaciones de diversa duración, en las que los participantes tenían diferentes formas de escribir y el archivo del corpus que tenía un formato .xml. Por lo que se procedió con la conversión de la data a un formato .csv, “Comma Separated Values”, para poder proceder con la siguiente fase.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La segunda tarea presentó un grado de dificultad alto, debido al ruido de la data. Por lo tanto se siguieron los siguientes pasos.",
+      "en": "The second task presented a high degree of difficulty, due to the noise of the data. Therefore the following steps were followed.",
+      "es": "La segunda tarea presentó un grado de dificultad alto, debido al ruido de la data. Por lo tanto se siguieron los siguientes pasos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se eliminó cualquier tipo de puntuación.",
+      "en": "Any type of punctuation was eliminated.",
+      "es": "Se eliminó cualquier tipo de puntuación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se convirtieron los números a palabras usando la librería",
+      "en": "Numbers were converted to words using the library",
+      "es": "Se convirtieron los números a palabras usando la librería",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "num2words.",
+      "en": "num2words.",
+      "es": "num2words.",
+      "reviewed": false
+    },
+    {
+      "source": "Se buscaron abreviaturas y textos con jergas cibernéticas como: “u” para “you”, “ur” para “your”, “what ‘s” para “what is”, entre otras. Además se creó un diccionario con estas palabras nuevas.",
+      "en": "We searched for abbreviations and texts with cyber slang such as: “u” for “you”, “ur” for “your”, “what ‘s” for “what is”, among others. In addition, a dictionary was created with these new words.",
+      "es": "Se buscaron abreviaturas y textos con jergas cibernéticas como: “u” para “you”, “ur” para “your”, “what ‘s” para “what is”, entre otras. Además se creó un diccionario con estas palabras nuevas.",
+      "reviewed": false
+    },
+    {
+      "source": "Se eliminaron las stopwords como: the, and, that, a, any, an, be, with. Entre otras.",
+      "en": "Se eliminaron las stopwords como: the, and, that, a, any, an, be, with. Entre otras.",
+      "es": "Se eliminaron las stopwords como: el, y, que, a, cualquiera, an, ser, con. Entre otras.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se eliminaron emojis, URL, hashtags y cualquier tipo de valor alfanumérico.",
+      "en": "Removed emojis, URLs, hashtags and any type of alphanumeric value.",
+      "es": "Se eliminaron emojis, URL, hashtags y cualquier tipo de valor alfanumérico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se empleó la técnica de lematización, para llevar todos los verbos a su forma en infinitivo. Para así crear incrustaciones a partir de palabras más simples.",
+      "en": "The lemmatization technique was used to bring all the verbs to their infinitive form. In order to create embeddings from simpler words.",
+      "es": "Se empleó la técnica de lematización, para llevar todos los verbos a su forma en infinitivo. Para así crear incrustaciones a partir de palabras más simples.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Se exploraron los datos, analizando las 100 palabras más comunes en las conversaciones de los predadores.",
+      "en": "The data was explored, analyzing the 100 most common words in the predators' conversations.",
+      "es": "Se exploraron los datos, analizando las 100 palabras más comunes en las conversaciones de los predadores.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La extracción de características representó un desafío particular, en primera instancia se optó realizarlo con base a las palabras más frecuentes presentes en las conversaciones de depredadores; no obstante, varias de estas eran de uso común, por lo que fue necesario analizar alternativas para lograr un óptimo desempeño. Es así que se optó por el uso del método TF-IDF (",
+      "en": "The extraction of characteristics represented a particular challenge, in the first instance it was decided to do it based on the most frequent words present in the conversations of predators; However, several of these were in common use, so it was necessary to analyze alternatives to achieve optimal performance. Thus, it was decided to use the TF-IDF method (",
+      "es": "La extracción de características representó un desafío particular, en primera instancia se optó realizarlo con base a las palabras más frecuentes presentes en las conversaciones de depredadores; no obstante, varias de estas eran de uso común, por lo que fue necesario analizar alternativas para lograr un óptimo desempeño. Es así que se optó por el uso del método TF-IDF (",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Term Frequency — Inverse Document Frequency",
+      "en": "Term Frequency — Inverse Document Frequency",
+      "es": "Term Frequency — Inverse Document Frequency",
+      "reviewed": false
+    },
+    {
+      "source": "), siendo una de sus características el resaltar la importancia de una palabra en un conjunto de documentos (corpus). En ese sentido, para transformar la secuencia de palabras (provenientes de las conversaciones) a vectores de características con representaciones numéricas se usó el vectorizador TF-IDF (TfidfVectorizer) de la librería de scikit-learn. Este transformador permitió generar una matriz de características, con una representación adecuada para realizar el entrenamiento del modelo. Para dicho propósito, se dividió el dataset en:",
+      "en": "), one of its characteristics being to highlight the importance of a word in a set of documents (corpus). In this sense, to transform the sequence of words (from conversations) into feature vectors with numerical representations, the TF-IDF vectorizer (TfidfVectorizer) from the scikit-learn library was used. This transformer made it possible to generate a matrix of characteristics, with an adequate representation to train the model. For this purpose, the dataset was divided into:",
+      "es": "), siendo una de sus características el resaltar la importancia de una palabra en un conjunto de documentos (corpus). En ese sentido, para transformar la secuencia de palabras (provenientes de las conversaciones) a vectores de características con representaciones numéricas se usó el vectorizador TF-IDF (TfidfVectorizer) de la librería de scikit-learn. Este transformador permitió generar una matriz de características, con una representación adecuada para realizar el entrenamiento del modelo. Para dicho propósito, se dividió el dataset en:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Datos de entrenamiento: 80%",
+      "en": "Training data: 80%",
+      "es": "Datos de entrenamiento: 80%",
+      "reviewed": false
+    },
+    {
+      "source": "Datos de testeo: 20%",
+      "en": "Testing data: 20%",
+      "es": "Datos de testeo: 20%",
+      "reviewed": false
+    },
+    {
+      "source": "Para el entrenamiento del modelo se usó la librería scikit-learn y se escogió el modelo Support Vector Machines (SVM) para emplear un clasificador binario.",
+      "en": "To train the model, the scikit-learn library was used and the Support Vector Machines (SVM) model was chosen to use a binary classifier.",
+      "es": "Para el entrenamiento del modelo se usó la librería scikit-learn y se escogió el modelo Support Vector Machines (SVM) para emplear un clasificador binario.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los hiper parámetros fueron:",
+      "en": "The hyper parameters were:",
+      "es": "Los hiper parámetros fueron:",
+      "reviewed": false
+    },
+    {
+      "source": "Parámetro de regularización ©: 10",
+      "en": "Regularization parameter ©: 10",
+      "es": "Parámetro de regularización ©: 10",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Kernel: RBF",
+      "en": "Kernel: RBF",
+      "es": "Kernel: RBF",
+      "reviewed": false
+    },
+    {
+      "source": "Coeficiente de kernel (gamma): Scale",
+      "en": "Kernel coefficient (gamma): Scale",
+      "es": "Coeficiente de kernel (gamma): Scale",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Durante la evaluación del modelo se obtuvieron los siguientes resultados:",
+      "en": "During the evaluation of the model the following results were obtained:",
+      "es": "Durante la evaluación del modelo se obtuvieron los siguientes resultados:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Siendo la matriz de confusión la siguiente:",
+      "en": "The confusion matrix being the following:",
+      "es": "Siendo la matriz de confusión la siguiente:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Los resultados del modelo muestran una notable mejora en comparación a aquellos correspondientes al Baseline:",
+      "en": "The model results show a notable improvement compared to those corresponding to the Baseline:",
+      "es": "Los resultados del modelo muestran una notable mejora en comparación a aquellos correspondientes al Baseline:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El modelo desarrollado se desplegó en una aplicación web haciendo uso de la herramienta Streamlit, en la cual a través de la interfaz se proporciona la conversación a ser analizada y la aplicación muestra la alerta si es una aplicación normal o peligrosa, a continuación se observa algunos ejemplos del funcionamiento:",
+      "en": "The developed model was deployed in a web application using the Streamlit tool, in which the conversation to be analyzed is provided through the interface and the application shows the alert if it is a normal or dangerous application. Below are some examples of its operation:",
+      "es": "El modelo desarrollado se desplegó en una aplicación web haciendo uso de la herramienta Streamlit, en la cual a través de la interfaz se proporciona la conversación a ser analizada y la aplicación muestra la alerta si es una aplicación normal o peligrosa, a continuación se observa algunos ejemplos del funcionamiento:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Resultado del análisis en una conversación normal",
+      "en": "Analysis result in a normal conversation",
+      "es": "Resultado del análisis en una conversación normal",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Resultado del análisis de una conversación peligrosa",
+      "en": "Result of the analysis of a dangerous conversation",
+      "es": "Resultado del análisis de una conversación peligrosa",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hasta ahora hemos podido analizar y clasificar conversaciones inapropiadas que se pueden reportar y de está forma proporcionar herramientas a los padres para el monitoreo de aplicaciones cuya función no es interferir con la privacidad sino prever situaciones peligrosas en conversaciones online.",
+      "en": "Until now we have been able to analyze and classify inappropriate conversations that can be reported and thus provide tools to parents for monitoring applications whose function is not to interfere with privacy but to prevent dangerous situations in online conversations.",
+      "es": "Hasta ahora hemos podido analizar y clasificar conversaciones inapropiadas que se pueden reportar y de está forma proporcionar herramientas a los padres para el monitoreo de aplicaciones cuya función no es interferir con la privacidad sino prever situaciones peligrosas en conversaciones online.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En el futuro, sería genial desarrollar estas alertas al alcance de padres de familia como parte de las restricciones de algunas aplicaciones, que se preocupan por aplicar reglas de control parental para los usuarios vulnerables que hacen uso de sus servicios, tales como:",
+      "en": "In the future, it would be great to develop these alerts available to parents as part of the restrictions of some applications, which are concerned with applying parental control rules for vulnerable users who use their services, such as:",
+      "es": "En el futuro, sería genial desarrollar estas alertas al alcance de padres de familia como parte de las restricciones de algunas aplicaciones, que se preocupan por aplicar reglas de control parental para los usuarios vulnerables que hacen uso de sus servicios, tales como:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", etc.",
+      "en": ", etc.",
+      "es": ", etc.",
+      "reviewed": false
+    },
+    {
+      "source": "Aarón Arguello",
+      "en": "Aaron Arguello",
+      "es": "Aarón Arguello",
+      "reviewed": false
+    },
+    {
+      "source": "Edson Segales",
+      "en": "Edson Segales",
+      "es": "Edson Segales",
+      "reviewed": false
+    },
+    {
+      "source": "Ingrid Velecela",
+      "en": "Ingrid Velecela",
+      "es": "Ingrid Velecela",
+      "reviewed": false
+    },
+    {
+      "source": "Karla Avilés",
+      "en": "Karla Aviles",
+      "es": "Karla Avilés",
+      "reviewed": false
+    },
+    {
+      "source": "Viridiana Vergara",
+      "en": "Viridiana Vergara",
+      "es": "Viridiana Vergara",
+      "reviewed": false
+    },
+    {
+      "source": "Y si quieres ver la fuente de datos y el código que aplicamos, lo puedes encontrar en GitHub:",
+      "en": "And if you want to see the data source and the code we applied, you can find it on GitHub:",
+      "es": "Y si quieres ver la fuente de datos y el código que aplicamos, lo puedes encontrar en GitHub:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Control Parental",
+      "en": "Parental Control",
+      "es": "Control Parental",
+      "reviewed": false
+    }
+  ]
+}

@@ -2,6 +2,46 @@ media:
   input: public/media
   output: /media
 content:
+  - name: translations
+    label: English & Spanish translations
+    type: collection
+    path: src/translations
+    format: json
+    filename: '{primary}.json'
+    view:
+      primary: title
+      fields: [title, route]
+      sort: [title]
+    fields:
+      - name: title
+        label: Document
+        type: string
+        readonly: true
+      - name: route
+        label: Original page
+        type: string
+        readonly: true
+      - name: segments
+        label: Text and translations
+        type: object
+        list: true
+        fields:
+          - name: source
+            label: Original text (keep unchanged)
+            type: text
+            readonly: true
+          - name: es
+            label: Español
+            type: text
+            required: true
+          - name: en
+            label: English
+            type: text
+            required: true
+          - name: reviewed
+            label: Editorially reviewed
+            type: boolean
+            default: false
   - name: articles
     label: Articles & projects
     type: collection

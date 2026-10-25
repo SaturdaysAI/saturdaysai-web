@@ -1,0 +1,678 @@
+{
+  "title": "Codex vs. MiniMax M2.1: replicando FoodCheck con dos IAs distintas",
+  "route": "/2026/02/06/codex-vs-minimax-m2-1-replicando-foodcheck-con-dos-ias-distintas/",
+  "segments": [
+    {
+      "source": "Una comparación práctica entre Codex y MiniMax M2.1 al replicar FoodCheck: qué cambia en el proceso, el resultado y la experiencia de construir con IA.",
+      "en": "A practical comparison between Codex and MiniMax M2.1 when replicating FoodCheck: what changes in the process, outcome and experience of building with AI.",
+      "es": "Una comparación práctica entre Codex y MiniMax M2.1 al replicar FoodCheck: qué cambia en el proceso, el resultado y la experiencia de construir con IA.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "6 feb 2026",
+      "en": "Feb 6, 2026",
+      "es": "6 feb 2026",
+      "reviewed": false
+    },
+    {
+      "source": "FoodCheck como caso de estudio",
+      "en": "FoodCheck as a case study",
+      "es": "FoodCheck como caso de estudio",
+      "reviewed": false
+    },
+    {
+      "source": "Codex como copiloto: muy potente, pero necesita tareas bien acotadas",
+      "en": "Codex as a co-pilot: very powerful, but needs well-defined tasks",
+      "es": "Codex como copiloto: muy potente, pero necesita tareas bien acotadas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La detección simulada como punto de partida",
+      "en": "Simulated detection as a starting point",
+      "es": "La detección simulada como punto de partida",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Llegar a una solución viable para GitHub Pages llevó iteraciones",
+      "en": "Getting to a workable solution for GitHub Pages took iterations",
+      "es": "Llegar a una solución viable para GitHub Pages llevó iteraciones",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MiniMax M2.1 como agente: rapidez, foco y buena inferencia de contexto",
+      "en": "MiniMax M2.1 as an agent: speed, focus and good context inference",
+      "es": "MiniMax M2.1 como agente: rapidez, foco y buena inferencia de contexto",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Base de datos nutricional sin instrucciones explícitas",
+      "en": "Nutritional database without explicit instructions",
+      "es": "Base de datos nutricional sin instrucciones explícitas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Del token en el frontend al diseño correcto del sistema",
+      "en": "From token on the frontend to correct system design",
+      "es": "Del token en el frontend al diseño correcto del sistema",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El tropiezo compartido con el «mínimo viable»",
+      "en": "The shared stumbling block with the “minimum viable”",
+      "es": "El tropiezo compartido con el «mínimo viable»",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Qué aporta Codex que MiniMax no",
+      "en": "What Codex brings that MiniMax doesn't",
+      "es": "Qué aporta Codex que MiniMax no",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Qué aporta MiniMax que Codex no",
+      "en": "What MiniMax brings that Codex doesn't",
+      "es": "Qué aporta MiniMax que Codex no",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Conclusión: dos estilos de IA, una misma responsabilidad humana",
+      "en": "Conclusion: two styles of AI, one human responsibility",
+      "es": "Conclusión: dos estilos de IA, una misma responsabilidad humana",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Comparar dos IAs programando no consiste solo en ver quién escribe mejor código. En la práctica, la diferencia más relevante aparece en cómo entienden una tarea abierta, cuánto contexto necesitan, qué decisiones toman cuando algo no está completamente especificado y cómo reaccionan a las correcciones.",
+      "en": "Comparing two AIs programming is not just about seeing who writes better code. In practice, the most relevant difference appears in how they understand an open task, how much context they need, what decisions they make when something is not completely specified, and how they react to corrections.",
+      "es": "Comparar dos IAs programando no consiste solo en ver quién escribe mejor código. En la práctica, la diferencia más relevante aparece en cómo entienden una tarea abierta, cuánto contexto necesitan, qué decisiones toman cuando algo no está completamente especificado y cómo reaccionan a las correcciones.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para demostrarlo, he realizado un experimento: he clonado",
+      "en": "To prove it, I have carried out an experiment: I have cloned",
+      "es": "Para demostrarlo, he realizado un experimento: he clonado",
+      "reviewed": false
+    },
+    {
+      "source": ", una app publicada en GitHub Pages, manteniendo la misma lógica de negocio y la misma interfaz.",
+      "en": ", an app published on GitHub Pages, maintaining the same business logic and the same interface.",
+      "es": ", una app publicada en GitHub Pages, manteniendo la misma lógica de negocio y la misma interfaz.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Este",
+      "en": "This",
+      "es": "Este",
+      "reviewed": false
+    },
+    {
+      "source": "es el resultado.",
+      "en": "is the result.",
+      "es": "es el resultado.",
+      "reviewed": false
+    },
+    {
+      "source": "El reto tenía la condición de que la app tenía que ser 100% estática. GitHub Pages no ejecuta servidores, no maneja variables de entorno del lado del servidor ni permite un",
+      "en": "The challenge had the condition that the app had to be 100% static. GitHub Pages does not run servers, handle server-side environment variables, or allow a",
+      "es": "El reto tenía la condición de que la app tenía que ser 100% estática. GitHub Pages no ejecuta servidores, no maneja variables de entorno del lado del servidor ni permite un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "backend",
+      "en": "backend",
+      "es": "backend",
+      "reviewed": false
+    },
+    {
+      "source": "tradicional.",
+      "en": "traditional.",
+      "es": "tradicional.",
+      "reviewed": false
+    },
+    {
+      "source": "La misma aplicación, dos IAs:",
+      "en": "The same application, two AIs:",
+      "es": "La misma aplicación, dos IAs:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Codex (modelo gpt-5.1-codex-max), mi anterior asistente para desarrollar la app original.",
+      "en": "Codex (model gpt-5.1-codex-max), my previous assistant to develop the original app.",
+      "es": "Codex (modelo gpt-5.1-codex-max), mi anterior asistente para desarrollar la app original.",
+      "reviewed": false
+    },
+    {
+      "source": "MiniMax M2.1 (",
+      "en": "MiniMax M2.1 (",
+      "es": "MiniMax M2.1 (",
+      "reviewed": false
+    },
+    {
+      "source": "Chat-Agent",
+      "en": "Chat-Agent",
+      "es": "Chat-Agent",
+      "reviewed": false
+    },
+    {
+      "source": "), con quien he intentado replicarla simplemente dándole la URL para que la analizara.",
+      "en": "), with whom I have tried to replicate it by simply giving him the URL to analyze it.",
+      "es": "), con quien he intentado replicarla simplemente dándole la URL para que la analizara.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El contraste entre ambos estilos fue más interesante de lo que esperaba.",
+      "en": "The contrast between both styles was more interesting than I expected.",
+      "es": "El contraste entre ambos estilos fue más interesante de lo que esperaba.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "FoodCheck no es solo una interfaz donde subes una foto y salen números. Por debajo hay decisiones de arquitectura críticas:",
+      "en": "FoodCheck is not just an interface where you upload a photo and numbers appear. Below are critical architectural decisions:",
+      "es": "FoodCheck no es solo una interfaz donde subes una foto y salen números. Por debajo hay decisiones de arquitectura críticas:",
+      "reviewed": false
+    },
+    {
+      "source": "Visión artificial avanzada capaz de interpretar platos complejos, no solo objetos aislados.",
+      "en": "Advanced computer vision capable of interpreting complex dishes, not just isolated objects.",
+      "es": "Visión artificial avanzada capaz de interpretar platos complejos, no solo objetos aislados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Datos nutricionales y reglas que dependen del perfil de salud del usuario.",
+      "en": "Nutritional data and rules that depend on the user's health profile.",
+      "es": "Datos nutricionales y reglas que dependen del perfil de salud del usuario.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Persistencia local (registro diario) sin base de datos.",
+      "en": "Local persistence (daily logging) without database.",
+      "es": "Persistencia local (registro diario) sin base de datos.",
+      "reviewed": false
+    },
+    {
+      "source": "Despliegue estático obligatorio en GitHub Pages.",
+      "en": "Static deployment required on GitHub Pages.",
+      "es": "Despliegue estático obligatorio en GitHub Pages.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Estas restricciones no son detalles técnicos, son el producto. Y aquí es donde la forma de trabajar de cada IA marca la diferencia.",
+      "en": "These restrictions are not technical details, they are the product. And this is where the way each AI works makes the difference.",
+      "es": "Estas restricciones no son detalles técnicos, son el producto. Y aquí es donde la forma de trabajar de cada IA marca la diferencia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Con Codex (gpt-5.1-codex-max) la sensación general fue la de tener un copiloto sólido. Con un matiz: si no divides el trabajo en tareas muy específicas, tiende a dar más rodeos. Y además, cuando la app crece, a veces se olvida de lo que hizo varios mensajes atrás y hay que volver a explicarle el contexto.",
+      "en": "With Codex (gpt-5.1-codex-max) the general feeling was that of having a solid co-pilot. With one nuance: if you do not divide the work into very specific tasks, it tends to take more detours. And also, when the app grows, sometimes it forgets what it did several messages ago and you have to explain the context again.",
+      "es": "Con Codex (gpt-5.1-codex-max) la sensación general fue la de tener un copiloto sólido. Con un matiz: si no divides el trabajo en tareas muy específicas, tiende a dar más rodeos. Y además, cuando la app crece, a veces se olvida de lo que hizo varios mensajes atrás y hay que volver a explicarle el contexto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "No es que se equivoque, sino que tiende a dispersarse si no le guías: necesita que dividas el problema en pasos más concretos, puede proponer soluciones intermedias que no encajan del todo con el despliegue final, y a veces insiste en patrones estándar del desarrollo web aunque choquen con las restricciones previas.",
+      "en": "It's not that he makes mistakes, but that he tends to disperse if you don't guide him: he needs you to divide the problem into more concrete steps, he can propose intermediate solutions that don't quite fit with the final deployment, and sometimes he insists on standard web development patterns even though they clash with previous restrictions.",
+      "es": "No es que se equivoque, sino que tiende a dispersarse si no le guías: necesita que dividas el problema en pasos más concretos, puede proponer soluciones intermedias que no encajan del todo con el despliegue final, y a veces insiste en patrones estándar del desarrollo web aunque choquen con las restricciones previas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En mi caso, esto se notó especialmente en dos puntos: la detección de alimentos y la adaptación a una app estática.",
+      "en": "In my case, this was especially noticeable in two points: food detection and adaptation to a static app.",
+      "es": "En mi caso, esto se notó especialmente en dos puntos: la detección de alimentos y la adaptación a una app estática.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Igual que me ocurrió después con",
+      "en": "Just as it happened to me later with",
+      "es": "Igual que me ocurrió después con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MiniMax",
+      "en": "MiniMax",
+      "es": "MiniMax",
+      "reviewed": false
+    },
+    {
+      "source": ", el punto de partida fue una detección ficticia simplificada, suficiente para que la UI y el flujo funcionen pero no aceptable si el objetivo es un análisis real de platos.",
+      "en": ", the starting point was a simplified dummy detection, sufficient for the UI and flow to work but not acceptable if the goal is real plate analysis.",
+      "es": ", el punto de partida fue una detección ficticia simplificada, suficiente para que la UI y el flujo funcionen pero no aceptable si el objetivo es un análisis real de platos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aprendí que, si no insistes, la IA prefiere cerrar primero el producto visible y ya luego afinar el corazón técnico.",
+      "en": "I learned that, if you don't insist, the AI prefers to close the visible product first and then fine-tune the technical heart.",
+      "es": "Aprendí que, si no insistes, la IA prefiere cerrar primero el producto visible y ya luego afinar el corazón técnico.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Codex fue proponiendo ideas que en un entorno general de desarrollo web son normales (por ejemplo, configuraciones estilo .env o piezas propias de un",
+      "en": "Codex was proposing ideas that are normal in a general web development environment (for example, .env style configurations or pieces specific to a",
+      "es": "Codex fue proponiendo ideas que en un entorno general de desarrollo web son normales (por ejemplo, configuraciones estilo .env o piezas propias de un",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "). Pero en GitHub Pages eso es inviable.",
+      "en": "). But in GitHub Pages that is not feasible.",
+      "es": "). Pero en GitHub Pages eso es inviable.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hizo falta iterar hasta aterrizar en una solución compatible con una app estática, donde la parte inteligente vive fuera del",
+      "en": "It was necessary to iterate until we landed on a solution compatible with a static app, where the intelligent part lives outside the",
+      "es": "Hizo falta iterar hasta aterrizar en una solución compatible con una app estática, donde la parte inteligente vive fuera del",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "frontend",
+      "en": "frontend",
+      "es": "frontend",
+      "reviewed": false
+    },
+    {
+      "source": "(por ejemplo, vía servicios externos).",
+      "en": "(for example, via external services).",
+      "es": "(por ejemplo, vía servicios externos).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Iniciativa conservadora",
+      "en": "Conservative initiative",
+      "es": "Iniciativa conservadora",
+      "reviewed": false
+    },
+    {
+      "source": "Al no haberle dado una indicación explícita sobre la base de datos nutricional a utilizar, Codex optó por una base de datos local muy reducida, con valores nutricionales introducidos manualmente para unos pocos alimentos. Desde el punto de vista del desarrollo incremental, esta decisión tiene sentido, ya que permite avanzar sin dependencias externas y validar el flujo completo de la aplicación.",
+      "en": "Not having been given an explicit indication of which nutritional database to use, Codex opted for a very small local database, with manually entered nutritional values for a few foods. From an incremental development point of view, this decision makes sense, as it allows you to move forward without external dependencies and validate the entire flow of the application.",
+      "es": "Al no haberle dado una indicación explícita sobre la base de datos nutricional a utilizar, Codex optó por una base de datos local muy reducida, con valores nutricionales introducidos manualmente para unos pocos alimentos. Desde el punto de vista del desarrollo incremental, esta decisión tiene sentido, ya que permite avanzar sin dependencias externas y validar el flujo completo de la aplicación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sin embargo, también muestra el patrón de Codex como copiloto, tendiendo a elegir soluciones seguras si no se le fuerza a ampliar el alcance. La integración con una base de datos real como OpenFoodFacts no surgió por inferencia de dominio, sino solo cuando se le indicó de forma explícita. Codex no se equivoca, pero tampoco asume contexto de producto si no se le pide.",
+      "en": "However, it also shows the pattern of Codex as a co-pilot, tending to choose safe solutions if not forced to expand the scope. Integration with a real database like OpenFoodFacts did not arise through domain inference, but only when explicitly told to do so. Codex doesn't make mistakes, but it also doesn't assume product context if it's not asked.",
+      "es": "Sin embargo, también muestra el patrón de Codex como copiloto, tendiendo a elegir soluciones seguras si no se le fuerza a ampliar el alcance. La integración con una base de datos real como OpenFoodFacts no surgió por inferencia de dominio, sino solo cuando se le indicó de forma explícita. Codex no se equivoca, pero tampoco asume contexto de producto si no se le pide.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MiniMax M2.1",
+      "en": "MiniMax M2.1",
+      "es": "MiniMax M2.1",
+      "reviewed": false
+    },
+    {
+      "source": "el enfoque fue distinto desde el principio. Lo utilicé directamente para replicar FoodCheck.",
+      "en": "The approach was different from the beginning. I used it directly to replicate FoodCheck.",
+      "es": "el enfoque fue distinto desde el principio. Lo utilicé directamente para replicar FoodCheck.",
+      "reviewed": false
+    },
+    {
+      "source": "La diferencia se vio enseguida, ya que en apenas unos minutos fue capaz de:",
+      "en": "The difference was seen immediately, since in just a few minutes he was able to:",
+      "es": "La diferencia se vio enseguida, ya que en apenas unos minutos fue capaz de:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hacer una primera lectura visual y lógica del producto original.",
+      "en": "Make a first visual and logical reading of the original product.",
+      "es": "Hacer una primera lectura visual y lógica del producto original.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Crear la carpeta y los archivos (index.html, styles.css, app.js, README.md).",
+      "en": "Create folder and files (index.html, stys.css, app.js, README.md).",
+      "es": "Crear la carpeta y los archivos (index.html, styles.css, app.js, README.md).",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desplegar una versión inicial funcional.",
+      "en": "Deploy a functional initial version.",
+      "es": "Desplegar una versión inicial funcional.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Y él solo se corregía sin que yo llegara a ver el error, solo veía el resultado final funcionando.",
+      "en": "And he only corrected himself without me seeing the error, I only saw the final result working.",
+      "es": "Y él solo se corregía sin que yo llegara a ver el error, solo veía el resultado final funcionando.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Un detalle clave es que no tuve que mencionar OpenFoodFacts. El agente lo incluyó por iniciativa propia como fuente de datos nutricionales, demostrando una capacidad de inferencia superior sobre “qué necesita una app de este tipo”.",
+      "en": "A key detail is that I didn't have to mention OpenFoodFacts. The agent included it on his own initiative as a source of nutritional data, demonstrating a superior inference capacity about “what an app of this type needs.”",
+      "es": "Un detalle clave es que no tuve que mencionar OpenFoodFacts. El agente lo incluyó por iniciativa propia como fuente de datos nutricionales, demostrando una capacidad de inferencia superior sobre “qué necesita una app de este tipo”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Del",
+      "en": "Of",
+      "es": "Del",
+      "reviewed": false
+    },
+    {
+      "source": "token",
+      "en": "token",
+      "es": "token",
+      "reviewed": false
+    },
+    {
+      "source": "al diseño correcto del sistema",
+      "en": "to correct system design",
+      "es": "al diseño correcto del sistema",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Al integrar LLaVA vía Cloudflare, MiniMax propuso inicialmente que el usuario introdujera su API",
+      "en": "When integrating LLaVA via Cloudflare, MiniMax initially proposed that the user input its API",
+      "es": "Al integrar LLaVA vía Cloudflare, MiniMax propuso inicialmente que el usuario introdujera su API",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "en la app. Es una solución rápida, pero muy mala desde el punto de vista de experiencia de usuario.",
+      "en": "in the app. It is a quick solution, but very bad from a user experience point of view.",
+      "es": "en la app. Es una solución rápida, pero muy mala desde el punto de vista de experiencia de usuario.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cuando se le pidió una alternativa, el agente dio un salto importante: propuso un Cloudflare Worker como",
+      "en": "When asked for an alternative, the agent took a major leap: he proposed a Cloudflare Worker as",
+      "es": "Cuando se le pidió una alternativa, el agente dio un salto importante: propuso un Cloudflare Worker como",
+      "reviewed": false
+    },
+    {
+      "source": "proxy",
+      "en": "proxy",
+      "es": "proxy",
+      "reviewed": false
+    },
+    {
+      "source": "para guardar el",
+      "en": "to save the",
+      "es": "para guardar el",
+      "reviewed": false
+    },
+    {
+      "source": "de forma segura y mantener el",
+      "en": "safely and maintain the",
+      "es": "de forma segura y mantener el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "completamente estático.",
+      "en": "completely static.",
+      "es": "completamente estático.",
+      "reviewed": false
+    },
+    {
+      "source": "En la práctica, este fue el punto donde MiniMax mostró más instinto de sistema y mayor capacidad para cerrar una solución completa de producto, no solo de código.",
+      "en": "In practice, this was the point where MiniMax showed more system instinct and greater ability to close a complete product solution, not just code.",
+      "es": "En la práctica, este fue el punto donde MiniMax mostró más instinto de sistema y mayor capacidad para cerrar una solución completa de producto, no solo de código.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El punto débil de MiniMax: la fidelidad de la interfaz",
+      "en": "MiniMax's weak point: interface fidelity",
+      "es": "El punto débil de MiniMax: la fidelidad de la interfaz",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Sin embargo, esta autonomía que brilló en el",
+      "en": "However, this autonomy that shone in the",
+      "es": "Sin embargo, esta autonomía que brilló en el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", fracasó en el",
+      "en": ", failed in",
+      "es": ", fracasó en el",
+      "reviewed": false
+    },
+    {
+      "source": ". Donde MiniMax M2.1 no consiguió cerrar el objetivo fue en la replicación exacta de la interfaz.",
+      "en": ". Where MiniMax M2.1 failed to hit the mark was in exact replication of the interface.",
+      "es": ". Donde MiniMax M2.1 no consiguió cerrar el objetivo fue en la replicación exacta de la interfaz.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aunque intentó replicar exactamente el diseño y llegó a desplegar versiones afirmando que lo había conseguido, seguía habiendo diferencias. Y esto conecta con una realidad práctica, y es que “parecido” es fácil, pero “idéntico” es más complejo.",
+      "en": "Although he tried to replicate the design exactly and even deployed versions claiming that he had succeeded, there were still differences. And this connects with a practical reality, which is that “similar” is easy, but “identical” is more complex.",
+      "es": "Aunque intentó replicar exactamente el diseño y llegó a desplegar versiones afirmando que lo había conseguido, seguía habiendo diferencias. Y esto conecta con una realidad práctica, y es que “parecido” es fácil, pero “idéntico” es más complejo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Un agente puede aproximar estilos, pero para clonar una interfaz de forma fiable suele necesitar acceso directo al CSS original,",
+      "en": "An agent can approximate styles, but to reliably clone an interface it usually needs direct access to the original CSS,",
+      "es": "Un agente puede aproximar estilos, pero para clonar una interfaz de forma fiable suele necesitar acceso directo al CSS original,",
+      "reviewed": false
+    },
+    {
+      "source": "assets",
+      "en": "assets",
+      "es": "assets",
+      "reviewed": false
+    },
+    {
+      "source": "y una validación visual metódica (capturas comparativas, inspección de estilos, etc.). Sin eso, se queda en “muy similar” rellenando los huecos de diseño con su propia imaginación.",
+      "en": "and a methodical visual validation (comparative captures, style inspection, etc.). Without that, you stay at “very similar” filling in the design gaps with your own imagination.",
+      "es": "y una validación visual metódica (capturas comparativas, inspección de estilos, etc.). Sin eso, se queda en “muy similar” rellenando los huecos de diseño con su propia imaginación.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "A pesar de sus diferencias, ambas IAs cayeron en la misma trampa al inicio: la detección simulada o simplificada. Pero esto no es un error raro, es un patrón. Se construye el “cascarón” del producto, y luego se conecta el motor real.",
+      "en": "Despite their differences, both AIs fell into the same trap at the beginning: simulated or simplified detection. But this is not a rare error, it is a pattern. The “shell” of the product is built, and then the actual motor is connected.",
+      "es": "A pesar de sus diferencias, ambas IAs cayeron en la misma trampa al inicio: la detección simulada o simplificada. Pero esto no es un error raro, es un patrón. Se construye el “cascarón” del producto, y luego se conecta el motor real.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tanto Codex en su momento como MiniMax después propusieron por defecto usar TensorFlow.js + COCO-SSD. El problema es que COCO-SSD detecta tan solo ciertos alimentos concretos, pero no detecta alimentos de un plato de comida normal. Para una app de comida, eso es inútil.",
+      "en": "Both Codex at the time and MiniMax later proposed using TensorFlow.js + COCO-SSD by default. The problem is that COCO-SSD detects only certain specific foods, but does not detect foods from a normal plate of food. For a food app, that's useless.",
+      "es": "Tanto Codex en su momento como MiniMax después propusieron por defecto usar TensorFlow.js + COCO-SSD. El problema es que COCO-SSD detecta tan solo ciertos alimentos concretos, pero no detecta alimentos de un plato de comida normal. Para una app de comida, eso es inútil.",
+      "reviewed": false
+    },
+    {
+      "source": "Esto nos enseña una lección, y es que la IA tiende al camino de menor resistencia técnica. Prefiere cerrar el producto visible con una librería estándar antes que buscar la solución compleja (modelos multimodales) que realmente se necesita. Tuve que intervenir en ambos casos para forzar el uso de visión real.",
+      "en": "This teaches us a lesson, which is that AI tends to take the path of least technical resistance. He prefers to close the visible product with a standard library rather than look for the complex solution (multimodal models) that is really needed. I had to intervene in both cases to force the use of real vision.",
+      "es": "Esto nos enseña una lección, y es que la IA tiende al camino de menor resistencia técnica. Prefiere cerrar el producto visible con una librería estándar antes que buscar la solución compleja (modelos multimodales) que realmente se necesita. Tuve que intervenir en ambos casos para forzar el uso de visión real.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La principal fortaleza de Codex no es la velocidad ni la autonomía, sino el control. Cuando el desarrollador tiene claro el diseño, las restricciones y el resultado esperado, Codex se comporta de forma más predecible y menos creativa en el mal sentido. Rara vez inventa arquitectura, fuentes de datos o flujos no solicitados si se le han dado las órdenes correctas.",
+      "en": "Codex's main strength is not speed or autonomy, but control. When the developer is clear about the design, constraints, and expected outcome, Codex behaves more predictably and less creatively in a bad way. He rarely invents unsolicited architecture, data sources, or flows if he has been given the right orders.",
+      "es": "La principal fortaleza de Codex no es la velocidad ni la autonomía, sino el control. Cuando el desarrollador tiene claro el diseño, las restricciones y el resultado esperado, Codex se comporta de forma más predecible y menos creativa en el mal sentido. Rara vez inventa arquitectura, fuentes de datos o flujos no solicitados si se le han dado las órdenes correctas.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Esto reduce el riesgo de soluciones elegantes pero incorrectas desde el punto de vista del producto. El coste es que exige más trabajo previo: descomponer el problema, anticipar restricciones y guiar activamente el camino. Codex no suele cerrar el sistema por ti, pero respeta mejor lo que tú defines como correcto.",
+      "en": "This reduces the risk of elegant but product-incorrect solutions. The cost is that it requires more prior work: decomposing the problem, anticipating constraints, and actively guiding the path. Codex doesn't usually close the system for you, but it does better respect what you define as correct.",
+      "es": "Esto reduce el riesgo de soluciones elegantes pero incorrectas desde el punto de vista del producto. El coste es que exige más trabajo previo: descomponer el problema, anticipar restricciones y guiar activamente el camino. Codex no suele cerrar el sistema por ti, pero respeta mejor lo que tú defines como correcto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "MiniMax M2.1 destaca cuando el problema es",
+      "en": "MiniMax M2.1 stands out when the problem is",
+      "es": "MiniMax M2.1 destaca cuando el problema es",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "abierto",
+      "en": "open",
+      "es": "abierto",
+      "reviewed": false
+    },
+    {
+      "source": "y el objetivo es tener algo completo funcionando lo antes posible. Toma la iniciativa para que el código sea una solución de mercado y no una estándar basada en lo que la mayoría de desarrolladores hace. Su capacidad para inferir contexto (como elegir OpenFoodFacts sin indicación explícita o proponer un Worker como",
+      "en": "and the goal is to have something complete up and running as soon as possible. Take the initiative to make the code a market solution and not a standard based on what most developers do. Its ability to infer context (such as choosing OpenFoodFacts without explicit prompting or proposing a Worker as",
+      "es": "y el objetivo es tener algo completo funcionando lo antes posible. Toma la iniciativa para que el código sea una solución de mercado y no una estándar basada en lo que la mayoría de desarrolladores hace. Su capacidad para inferir contexto (como elegir OpenFoodFacts sin indicación explícita o proponer un Worker como",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "seguro) demuestra un mayor instinto de producto y de sistema.",
+      "en": "sure) demonstrates greater product and system instinct.",
+      "es": "seguro) demuestra un mayor instinto de producto y de sistema.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Esta autonomía acelera enormemente las primeras fases, pero introduce un riesgo. El modelo tiende a decidir qué es suficientemente bueno si no se le dan métricas claras. MiniMax no espera a que definas todos los detalles, los asume. Eso lo convierte en un generador de soluciones, pero en un asistente que necesita auditoría constante cuando la fidelidad importa.",
+      "en": "This autonomy greatly accelerates the first phases, but introduces a risk. The model tends to decide what is good enough if it is not given clear metrics. MiniMax doesn't wait for you to define all the details, it takes them on. That makes it a solution generator, but an assistant that needs constant auditing when fidelity matters.",
+      "es": "Esta autonomía acelera enormemente las primeras fases, pero introduce un riesgo. El modelo tiende a decidir qué es suficientemente bueno si no se le dan métricas claras. MiniMax no espera a que definas todos los detalles, los asume. Eso lo convierte en un generador de soluciones, pero en un asistente que necesita auditoría constante cuando la fidelidad importa.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Además, MiniMax parece ser mejor detective. Si el código falla, MiniMax suele mirar el error y proponer una solución que arregla el problema actual e incluso problemas futuros que uno aún no ha visto. Codex suele limitarse a arreglar solo lo que le pides.",
+      "en": "Also, MiniMax seems to be a better detective. If the code fails, MiniMax often looks at the error and proposes a solution that fixes the current problem and even future problems that one has not yet seen. Codex usually limits itself to fixing only what you ask it to do.",
+      "es": "Además, MiniMax parece ser mejor detective. Si el código falla, MiniMax suele mirar el error y proponer una solución que arregla el problema actual e incluso problemas futuros que uno aún no ha visto. Codex suele limitarse a arreglar solo lo que le pides.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Este experimento deja una reflexión clara, y es que hoy en día, con IAs, hacer que una app exista es barato. En minutos puedes tener archivos, pantallas, incluso un flujo completo desplegado. Lo complejo empieza cuando tu objetivo no es simplemente que funcione, sino que sea exactamente lo que tú quieres.",
+      "en": "This experiment leaves a clear reflection, and that is that today, with AIs, making an app exist is cheap. In minutes you can have files, screens, even an entire flow displayed. The complexity begins when your goal is not simply for it to work, but for it to be exactly what you want.",
+      "es": "Este experimento deja una reflexión clara, y es que hoy en día, con IAs, hacer que una app exista es barato. En minutos puedes tener archivos, pantallas, incluso un flujo completo desplegado. Lo complejo empieza cuando tu objetivo no es simplemente que funcione, sino que sea exactamente lo que tú quieres.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las dos IAs, de maneras distintas, rellenaron huecos. Si no defines con precisión cómo debe ser la arquitectura, proponen una. Si no delimitas qué significa “visión de platos complejos”, te ofrecen el modelo más a mano. Y si no instrumentas la fidelidad visual, te entregan una interfaz “bastante parecida” y la dan por buena.",
+      "en": "The two AIs, in different ways, filled in gaps. If you don't define precisely what the architecture should be, they propose one. If you do not define what “vision of complex dishes” means, they offer you the most handy model. And if you don't implement visual fidelity, they give you a “quite similar” interface and consider it good.",
+      "es": "Las dos IAs, de maneras distintas, rellenaron huecos. Si no defines con precisión cómo debe ser la arquitectura, proponen una. Si no delimitas qué significa “visión de platos complejos”, te ofrecen el modelo más a mano. Y si no instrumentas la fidelidad visual, te entregan una interfaz “bastante parecida” y la dan por buena.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Por eso, la IA es el motor de aproximación, pero el desarrollador es el sistema de medida. Y medir no es solo pasar tests unitarios. En productos como FoodCheck también significa comprobar que el despliegue cumple restricciones (GitHub Pages, sin",
+      "en": "Therefore, AI is the approximation engine, but the developer is the measurement system. And measuring is not just passing unit tests. In products like FoodCheck it also means checking that the deployment meets restrictions (GitHub Pages, without",
+      "es": "Por eso, la IA es el motor de aproximación, pero el desarrollador es el sistema de medida. Y medir no es solo pasar tests unitarios. En productos como FoodCheck también significa comprobar que el despliegue cumple restricciones (GitHub Pages, sin",
+      "reviewed": false
+    },
+    {
+      "source": "), validar integración (",
+      "en": "), validate integration (",
+      "es": "), validar integración (",
+      "reviewed": false
+    },
+    {
+      "source": "tokens",
+      "en": "tokens",
+      "es": "tokens",
+      "reviewed": false
+    },
+    {
+      "source": ", CORS,",
+      "en": ", CORS,",
+      "es": ", CORS,",
+      "reviewed": false
+    },
+    {
+      "source": "endpoints",
+      "en": "endpoints",
+      "es": "endpoints",
+      "reviewed": false
+    },
+    {
+      "source": ", “Failed to fetch”), y tener un criterio tangible para lo subjetivo (qué es “idéntico” en una interfaz).",
+      "en": ", “Failed to fetch”), and have a tangible criterion for the subjective (what is “identical” in an interface).",
+      "es": ", “Failed to fetch”), y tener un criterio tangible para lo subjetivo (qué es “idéntico” en una interfaz).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Si hay que destacar alguna diferencia práctica entre ambos modelos, podría decir que con Codex el trabajo humano se concentra al inicio, definiendo bien tareas, restricciones y arquitectura. Con MiniMax, el esfuerzo se desplaza al final revisando decisiones, detectando supuestos incorrectos y validando que tienes realmente lo que querías.",
+      "en": "If we must highlight any practical difference between both models, it could be said that with Codex the human work is concentrated at the beginning, clearly defining tasks, restrictions and architecture. With MiniMax, the effort shifts to the end by reviewing decisions, detecting incorrect assumptions, and validating that you really have what you wanted.",
+      "es": "Si hay que destacar alguna diferencia práctica entre ambos modelos, podría decir que con Codex el trabajo humano se concentra al inicio, definiendo bien tareas, restricciones y arquitectura. Con MiniMax, el esfuerzo se desplaza al final revisando decisiones, detectando supuestos incorrectos y validando que tienes realmente lo que querías.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Ninguno elimina el trabajo del desarrollador; simplemente lo mueve de sitio. Elegir uno u otro no es tanto una cuestión de potencia del modelo como de en qué fase prefieres invertir tu atención. Pero en ambos casos, el resultado final depende menos del modelo que de la claridad con la que el desarrollador define qué cuenta como éxito.",
+      "en": "Neither eliminates the developer's work; It simply moves it around. Choosing one or the other is not so much a question of the power of the model as of which phase you prefer to invest your attention in. But in both cases, the end result depends less on the model than on how clearly the developer defines what counts as success.",
+      "es": "Ninguno elimina el trabajo del desarrollador; simplemente lo mueve de sitio. Elegir uno u otro no es tanto una cuestión de potencia del modelo como de en qué fase prefieres invertir tu atención. Pero en ambos casos, el resultado final depende menos del modelo que de la claridad con la que el desarrollador define qué cuenta como éxito.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En cualquier caso, quizá la enseñanza más interesante de todas es que cuando tienes un asistente que programa rápido, el trabajo se desplaza. Ya no es tanto escribir código, sino definir con precisión qué cuenta como correcto. Porque, si no lo defines tú, lo definirá la IA… y lo hará a su manera.",
+      "en": "In any case, perhaps the most interesting lesson of all is that when you have an assistant who programs quickly, work moves. It is no longer so much about writing code, but rather defining precisely what counts as correct. Because, if you don't define it, the AI ​​will define it... and it will do it in its own way.",
+      "es": "En cualquier caso, quizá la enseñanza más interesante de todas es que cuando tienes un asistente que programa rápido, el trabajo se desplaza. Ya no es tanto escribir código, sino definir con precisión qué cuenta como correcto. Porque, si no lo defines tú, lo definirá la IA… y lo hará a su manera.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "free",
+      "en": "free",
+      "es": "free",
+      "reviewed": false
+    },
+    {
+      "source": "m2.1",
+      "en": "m2.1",
+      "es": "m2.1",
+      "reviewed": false
+    },
+    {
+      "source": "minimax",
+      "en": "minimax",
+      "es": "minimax",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 6 feb 2026.",
+      "en": "A history of the Saturdays.AI community. Originally published on Feb 6, 2026.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 6 feb 2026.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

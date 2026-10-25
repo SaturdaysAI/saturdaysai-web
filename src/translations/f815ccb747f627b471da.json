@@ -1,0 +1,1444 @@
+{
+  "title": "Student Experience: cómo mejorar la experiencia de aprendizaje en la universidad",
+  "route": "/2021/07/29/como-mejorar-la-experiencia-de-aprendizaje-en-la-universidad-con-inteligencia-artificial/",
+  "segments": [
+    {
+      "source": "Ruta de navegación",
+      "en": "Navigation route",
+      "es": "Ruta de navegación",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inicio",
+      "en": "Home",
+      "es": "Inicio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Proyectos",
+      "en": "Projects",
+      "es": "Proyectos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Student Experience: cómo mejorar la experiencia de aprendizaje en la universidad",
+      "en": "Student Experience: how to improve the learning experience in the university",
+      "es": "Student Experience: cómo mejorar la experiencia de aprendizaje en la universidad",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "13 min de lectura",
+      "en": "13 min reading",
+      "es": "13 min de lectura",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Español",
+      "en": "Spanish",
+      "es": "Español",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Donostia. 2021 ¿Cómo calificarías la experiencia de aprendizaje que viviste/estás viviendo en la universidad? ¿Sabrías decir qué es lo que hace que estás más satisfecho/a con un profesor? Cuando hablamos de experiencias, es…",
+      "en": "Donostia. 2021 How would you qualify the learning experience you lived / are living in college? Would you know what makes you more satisfied with a teacher? When we talk about experiences, it is...",
+      "es": "Donostia. 2021 ¿Cómo calificarías la experiencia de aprendizaje que viviste/estás viviendo en la universidad? ¿Sabrías decir qué es lo que hace que estás más satisfecho/a con un profesor? Cuando hablamos de experiencias, es…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "29 jul 2021",
+      "en": "29 Jul 2021",
+      "es": "29 de julio de 2021",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Herramientas de lectura",
+      "en": "Reading tools",
+      "es": "Herramientas de lectura",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En este artículo",
+      "en": "In this article",
+      "es": "En este artículo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por qué nos hemos metido en esto",
+      "en": "Why have we got into this?",
+      "es": "Por qué nos hemos metido en esto",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El dataset",
+      "en": "The data",
+      "es": "El dataset",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "EDA: Cuánta razón tenían…",
+      "en": "EDA: How right they were...",
+      "es": "EDA: Cuánta razón tenían…",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Explorando los datos: reafirmando intuiciones",
+      "en": "Exploring the data: reaffirming intuitions",
+      "es": "Explorando los datos: reafirmando intuiciones",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "De aprendizaje supervisado a no supervisado, aderezado con NLP de preescolar",
+      "en": "Overseen to unsupervised learning, dressed with pre-school NLP",
+      "es": "De aprendizaje supervisado a no supervisado, aderezado con NLP de preescolar",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Vamos acabando: 3 grandes conclusiones",
+      "en": "We are finishing: 3 great conclusions",
+      "es": "Vamos acabando: 3 grandes conclusiones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Líneas futuras",
+      "en": "Líneas futuras",
+      "es": "Líneas futuras",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cierre",
+      "en": "Closure",
+      "es": "Cierre",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Repositorio",
+      "en": "Repository",
+      "es": "Repositorio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¡Más inteligencia artificial!",
+      "en": "More artificial intelligence!",
+      "es": "¡Más inteligencia artificial!",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Enlace copiado.",
+      "en": "Enlace copiado.",
+      "es": "Enlace copiado.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Copia la dirección desde tu navegador.",
+      "en": "Copy the address from your browser.",
+      "es": "Copia la dirección desde tu navegador.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Copiar enlace",
+      "en": "Copiar enlace",
+      "es": "Copiar enlace",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Compartir por WhatsApp",
+      "en": "Share by WhatsApp",
+      "es": "Compartir por WhatsApp",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "WhatsApp",
+      "en": "WhatsApp",
+      "es": "WhatsApp",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "aprendiendo inteligencia artificial",
+      "en": "learning artificial intelligence",
+      "es": "aprendiendo inteligencia artificial",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Donostia",
+      "en": "Donostia",
+      "es": "Donostia",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo calificarías la experiencia de aprendizaje que viviste/estás viviendo en la universidad? ¿Sabrías decir qué es lo que hace que estás más satisfecho/a con un profesor?",
+      "en": "How would you qualify the learning experience you lived / are living in college? Would you know what makes you more satisfied with a teacher?",
+      "es": "¿Cómo calificarías la experiencia de aprendizaje que viviste/estás viviendo en la universidad? ¿Sabrías decir qué es lo que hace que estás más satisfecho/a con un profesor?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cuando hablamos de experiencias, es complicado poner nombres y apellidos a nuestras sensaciones. Además, estas sensaciones de una persona pueden ser muy diferentes a las de otra, y no es fácil encontrar patrones comunes. Sin embargo, todos/as somos capaces de recordar con cariño a algún/a profesor/a de nuestra etapa preuniversitaria, una persona que nos transmitió algo diferente al resto.",
+      "en": "When we talk about experiences, it is difficult to put names and surnames to our sensations. In addition, these feelings of one person may be very different from those of another, and it is not easy to find common patterns. However, we are all able to remember with affection some teacher from our pre-university stage, a person who transmitted something different to us than the rest.",
+      "es": "Cuando hablamos de experiencias, es complicado poner nombres y apellidos a nuestras sensaciones. Además, estas sensaciones de una persona pueden ser muy diferentes a las de otra, y no es fácil encontrar patrones comunes. Sin embargo, todos/as somos capaces de recordar con cariño a algún/a profesor/a de nuestra etapa preuniversitaria, una persona que nos transmitió algo diferente al resto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿No sería ideal tener claro qué es lo que hace que ese profesor/a nos haya generado una experiencia positiva? ¿No sería útil que ese/a profesor/a (y el equipo de coordinación) tuviera esto en cuenta como un factor crítico para medir su desempeño?",
+      "en": "Would it not be ideal to be clear what makes that teacher a positive experience for us? Would it not be useful for that teacher (and the coordination team) to consider this as a critical factor in measuring his performance?",
+      "es": "¿No sería ideal tener claro qué es lo que hace que ese profesor/a nos haya generado una experiencia positiva? ¿No sería útil que ese/a profesor/a (y el equipo de coordinación) tuviera esto en cuenta como un factor crítico para medir su desempeño?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y, seamos claros. Además de la experiencia, valoramos mucho el resultado final del proceso. La motivación extrínseca de la evaluación final es un factor muy relevante, por lo que, ¿no sería importante conocer qué es lo que hace que un/a profesor/a mejore los resultados académicos de un grupo? De esta forma, no solo tener un grupo contento, sino un grupo que ofrece su mayor potencial. Y, estando la universidad tan cerca del mercado laboral, esto es si cabe más importante que en otras etapas formativas.",
+      "en": "And, let's be clear. In addition to the experience, we highly appreciate the final outcome of the process. The extrinsic motivation of the final evaluation is a very relevant factor, so would it not be important to know what makes a teacher better the academic results of a group? In this way, not only have a happy group, but a group that offers its greatest potential. And, being the university so close to the labour market, this is if it is more important than at other training stages.",
+      "es": "Y, seamos claros. Además de la experiencia, valoramos mucho el resultado final del proceso. La motivación extrínseca de la evaluación final es un factor muy relevante, por lo que, ¿no sería importante conocer qué es lo que hace que un/a profesor/a mejore los resultados académicos de un grupo? De esta forma, no solo tener un grupo contento, sino un grupo que ofrece su mayor potencial. Y, estando la universidad tan cerca del mercado laboral, esto es si cabe más importante que en otras etapas formativas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cuando empezamos a pensar sobre estas preguntas, creíamos que ya estarían respondidas la mayoría de ellas. Pero, al parecer la medición de la experiencia universitaria no es un tema de debate nacional. Y los ranking están casi más dedicados a lo bien clasificados que están los MBAs que a la satisfacción del alumnado.",
+      "en": "When we started thinking about these questions, we thought most of them would already be answered. But, apparently, the measurement of university experience is not a subject of national debate. And the ranking is almost more dedicated to how well-classified the MBAs are than to the satisfaction of the student.",
+      "es": "Cuando empezamos a pensar sobre estas preguntas, creíamos que ya estarían respondidas la mayoría de ellas. Pero, al parecer la medición de la experiencia universitaria no es un tema de debate nacional. Y los ranking están casi más dedicados a lo bien clasificados que están los MBAs que a la satisfacción del alumnado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Así que desde",
+      "en": "So from",
+      "es": "Así que desde",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays.AI Bilbao",
+      "en": "Saturdays.AI Bilbao",
+      "es": "Saturdays.AI Bilbao",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "un equipo formado por dos estudiantes universitarios (",
+      "en": "a team of two university students (",
+      "es": "un equipo formado por dos estudiantes universitarios (",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Gorka Legarreta Ibarra",
+      "en": "Gorka Legarreta Ibarra",
+      "es": "Gorka Legarreta Ibarra",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y",
+      "en": "and",
+      "es": "y",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Rubén García Pedrejón",
+      "en": "Rubén García Pedrejón",
+      "es": "Rubén García Pedrejón",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ") y un servidor, profesor universitario, (",
+      "en": ") and a server, university professor, (",
+      "es": ") y un servidor, profesor universitario, (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Iñaki Fernández López-Zuazo",
+      "en": "Iñaki Fernández Ópez- Zuazo",
+      "es": "Iñaki Fernández López-Zuazo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ") nos pusimos manos a la obra. Los 3, por motivos obvios, tenemos interés en hacer que la experiencia y los resultados académicos sean los mejores posibles. Y, desde una visión muy personal como profesor, si algo me irrita es que todo el mundo crea que tenga la razón sobre cuál es la mejor forma de enseñar/educar. Así que, citando a Deming “para no ser una persona más con una opinión” vamos a trabajar para llegar a conclusiones basadas en datos.",
+      "en": "The 3, for obvious reasons, we are interested in making the experience and academic results the best possible. And, from a very personal vision as a teacher, if something irritates me, it is that everyone believes that they are right about what is the best way to teach / educate. So, quoting Deming Deming \"so as not to be a person with an opinion\" we will work to reach conclusions based on data.",
+      "es": ") nos pusimos manos a la obra. Los 3, por motivos obvios, tenemos interés en hacer que la experiencia y los resultados académicos sean los mejores posibles. Y, desde una visión muy personal como profesor, si algo me irrita es que todo el mundo crea que tenga la razón sobre cuál es la mejor forma de enseñar/educar. Así que, citando a Deming “para no ser una persona más con una opinión” vamos a trabajar para llegar a conclusiones basadas en datos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ninguno de los 3 teníamos experiencia en programación, pero a fuerza de practicar, practicar, y practicar (y un poquito de controlC+controlV, todo hay que decirlo) hemos llegado a alguna conclusión interesante.",
+      "en": "None of the three had programming experience, but by the force of practice, practice, and practice (and a little bit of control C + control, everything has to be said) we have come to some interesting conclusion.",
+      "es": "Ninguno de los 3 teníamos experiencia en programación, pero a fuerza de practicar, practicar, y practicar (y un poquito de controlC+controlV, todo hay que decirlo) hemos llegado a alguna conclusión interesante.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si eres estudiante, ¿preparado/a para saber qué es lo que tienes pedir a tu universidad para tener la mejor experiencia y notas posibles?",
+      "en": "If you are a student, ready to know what you have to ask your university to have the best possible experience and notes?",
+      "es": "Si eres estudiante, ¿preparado/a para saber qué es lo que tienes pedir a tu universidad para tener la mejor experiencia y notas posibles?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si eres profesor/a universitario/a ¿preparado/a para conocer los elementos en los que más tienes que enfocarte para mejorar tu desempeño profesional?",
+      "en": "If you are a university teacher, are you prepared to know the elements you have to focus on most to improve your professional performance?",
+      "es": "Si eres profesor/a universitario/a ¿preparado/a para conocer los elementos en los que más tienes que enfocarte para mejorar tu desempeño profesional?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sin datos no hay paraíso, y ha sido complicado hacerse con una buena base de datos, que contuviera información suficiente para llegar a conclusiones de interés. Una universidad ha cedido amablemente un dataset, anonimizando cualquier atributo de caracterización, e introduciendo multiplicadores a algunos atributos para evitar su identificación. Estos cambios no han afectado en ningún caso al resultado del proyecto, pues ambos dataset (el original y el modificado) arrojan las mismas conclusiones. Por último, aunque en este análisis se han utilizado los comentarios aportados por los alumnos/as en el dataset, se han borrado posteriormente, pues contenían información que hacía fácil identificar a profesores/as y situaciones concretas.",
+      "en": "Without data there is no paradise, and it has been difficult to get a good database, which contained sufficient information to reach conclusions of interest. A university has kindly given up a dataset, anonimizing any attribute of characterization, and introducing multipliers to some attributes to avoid its identification. These changes have in no case affected the outcome of the project, since both dataset (the original and the modified) have yielded the same conclusions. Finally, although in this analysis the comments provided by the students in the dataset have been used, they have been subsequently deleted, as they contained information that made it easy to identify teachers and situations.",
+      "es": "Sin datos no hay paraíso, y ha sido complicado hacerse con una buena base de datos, que contuviera información suficiente para llegar a conclusiones de interés. Una universidad ha cedido amablemente un dataset, anonimizando cualquier atributo de caracterización, e introduciendo multiplicadores a algunos atributos para evitar su identificación. Estos cambios no han afectado en ningún caso al resultado del proyecto, pues ambos dataset (el original y el modificado) arrojan las mismas conclusiones. Por último, aunque en este análisis se han utilizado los comentarios aportados por los alumnos/as en el dataset, se han borrado posteriormente, pues contenían información que hacía fácil identificar a profesores/as y situaciones concretas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Este dataset contiene información sobre más de 20.000 encuestas de satisfacción realizadas al alumnado desde febrero 2015 a diciembre 2020. Se ha completado la información de la encuesta con datos identificativos del profesor/a que impartía la asignatura y de la nota media del grupo.",
+      "en": "This dataset contains information on more than 20,000 satisfaction surveys carried out to students from February 2015 to December 2020. The survey information has been completed with the identification of the teacher and the group's average note.",
+      "es": "Este dataset contiene información sobre más de 20.000 encuestas de satisfacción realizadas al alumnado desde febrero 2015 a diciembre 2020. Se ha completado la información de la encuesta con datos identificativos del profesor/a que impartía la asignatura y de la nota media del grupo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Entrando al detalle, la información que más se trabajará a lo largo del dataset es:",
+      "en": "By entering into detail, the information that will be most worked along the dataset is:",
+      "es": "Entrando al detalle, la información que más se trabajará a lo largo del dataset es:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Respuestas a las preguntas concretas de satisfacción",
+      "en": "Responses to specific satisfaction questions",
+      "es": "Respuestas a las preguntas concretas de satisfacción",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ": Se evalúa el conocimiento del/a profesor/a, su manera de explicar, la metodología que utiliza en el aula y el feed-back que da. Por último, se le da una nota general.",
+      "en": ": The knowledge of the teacher, his or her way of explaining, the methodology he or she uses in the classroom and the feedback-back he gives. Finally, he or she is given a general note.",
+      "es": ": Se evalúa el conocimiento del/a profesor/a, su manera de explicar, la metodología que utiliza en el aula y el feed-back que da. Por último, se le da una nota general.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nota media:",
+      "en": "Average note:",
+      "es": "Nota media:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se ha realizado una media de todo el grupo que responde a la encuesta. Es decir, un registro no contiene la nota que ha sacado el alumno/a en la evaluación, sino la nota media de todo el grupo al que pertenece",
+      "en": "An average of the entire group responding to the survey has been performed. In other words, a record does not contain the note that the student has taken in the evaluation, but rather the average note of the whole group to which he belongs.",
+      "es": "Se ha realizado una media de todo el grupo que responde a la encuesta. Es decir, un registro no contiene la nota que ha sacado el alumno/a en la evaluación, sino la nota media de todo el grupo al que pertenece",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Datos identificativos del profesor/a",
+      "en": "Identifying the teacher",
+      "es": "Datos identificativos del profesor/a",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y su asignatura:",
+      "en": "and its subject:",
+      "es": "y su asignatura:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Sexo, edad, campus donde trabaja habitualmente, tipo de asignatura que imparte…",
+      "en": "Sex, age, campus where you work usually, type of subject that teaches...",
+      "es": "Sexo, edad, campus donde trabaja habitualmente, tipo de asignatura que imparte…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En las primeras sesiones de",
+      "en": "At the first meetings of",
+      "es": "En las primeras sesiones de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "siempre se menciona la importancia de la limpieza de datos, y que es una tarea que lleva más del 80% del tiempo de casi cualquier proyecto. Sinceramente, parecía una exageración, pero quizás hemos llegado al 90% 🙂",
+      "en": "The importance of data cleaning is always mentioned, and it is a task that takes more than 80% of the time of almost any project. Honestly, it seemed an exaggeration, but perhaps we have reached 90%",
+      "es": "siempre se menciona la importancia de la limpieza de datos, y que es una tarea que lleva más del 80% del tiempo de casi cualquier proyecto. Sinceramente, parecía una exageración, pero quizás hemos llegado al 90% 🙂",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para no liarnos demasiado en este punto, estas han sido las mayores transformaciones:",
+      "en": "In order not to get too involved at this point, these have been the greatest changes:",
+      "es": "Para no liarnos demasiado en este punto, estas han sido las mayores transformaciones:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Eliminación de registros con NaN: Al tener una BBDD tan grande, creíamos que no merecía la pena inferir resultados, y nos quedamos solo con aquellos registros que tenían toda la información.",
+      "en": "Disposal of records with NaN: Having such a big BBDD, we thought it was not worth inferring results, and we were left alone with those records that had all the information.",
+      "es": "Eliminación de registros con NaN: Al tener una BBDD tan grande, creíamos que no merecía la pena inferir resultados, y nos quedamos solo con aquellos registros que tenían toda la información.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Foco en un grado en particular: Teníamos información de varios grados, pero la información del resto de ellos era parcial, y además no disponíamos de sus notas, claves para el proyecto. Por lo que decidimos centrarnos en un solo grado.",
+      "en": "Focus on a particular degree: We had information of several degrees, but the information of the rest of them was partial, and we also did not have their notes, keys to the project. So we decided to focus on one degree.",
+      "es": "Foco en un grado en particular: Teníamos información de varios grados, pero la información del resto de ellos era parcial, y además no disponíamos de sus notas, claves para el proyecto. Por lo que decidimos centrarnos en un solo grado.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Homogeneización y eliminación de atributos: En un año en concreto, se cambió el modelo de aprendizaje hacia la co-docencia, y por cada aula hay 3 profesores/as. Por tanto, el/la estudiante ponía nota a los/as tres, y eso trabajo algunos problemas para la homogeneización del dataset. Todos solucionados con mucho esfuerzo y tesón 🙂",
+      "en": "Homogenization and the elimination of attributes: In a particular year, the learning model was changed to co-teaching, and for each classroom there are 3 teachers. Therefore, the student noted the three, and that I work some problems for the homogenization of the dataset. All solved with a lot of effort and tensile.",
+      "es": "Homogeneización y eliminación de atributos: En un año en concreto, se cambió el modelo de aprendizaje hacia la co-docencia, y por cada aula hay 3 profesores/as. Por tanto, el/la estudiante ponía nota a los/as tres, y eso trabajo algunos problemas para la homogeneización del dataset. Todos solucionados con mucho esfuerzo y tesón 🙂",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Categorización de atributos: Para mejorar posteriores análisis se categorizaron las respuestas a las preguntas de satisfacción (con el Net Promoter Score) y las notas. En la satisfacción categorizamos en detractores (0 a 6) pasivos/neutros (7 y 8) y promotores (9 y 10). En las notas: suspensos (0 a 4,9) aprobados (de 5 a 7,9) y sobresalientes (8 a 10).",
+      "en": "Attribution categorization: To improve further analysis, the answers to the satisfaction questions (with the Net Promoter Score) and the notes were categorized. In the satisfaction we categorized in passive / neutral (0 to 6) and promoter (7 and 8). In the notes: suspense (0 to 4.9) approved (5 to 7.9) and outstanding (8 to 10).",
+      "es": "Categorización de atributos: Para mejorar posteriores análisis se categorizaron las respuestas a las preguntas de satisfacción (con el Net Promoter Score) y las notas. En la satisfacción categorizamos en detractores (0 a 6) pasivos/neutros (7 y 8) y promotores (9 y 10). En las notas: suspensos (0 a 4,9) aprobados (de 5 a 7,9) y sobresalientes (8 a 10).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con el dataset preparadito para trabajar en él, empezamos con un Heatmap para conocer la correlación entre todas las variables:",
+      "en": "With the dataset prepared to work on it, we start with a Heatmap to know the correlation between all the variables:",
+      "es": "Con el dataset preparadito para trabajar en él, empezamos con un Heatmap para conocer la correlación entre todas las variables:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si nos fijamos en las variables relacionadas con la satisfacción, podemos comprobar que la metodología es lo que más correlaciona con la nota general del profesor/a (aunque explicar y feed_back están muy cerca) y el conocimiento del/a profesor/a, lo que menos. Vamos, que empezamos a reafirmar algo que ya imaginábamos: por mucho que sepa una persona, como no cuenta con la metodología adecuada, puede no llegar a satisfacer lo suficiente al alumnado. Pero ojo, conocer también se correlaciona con explicar, por tanto, para poder explicar bien hay que conocer bien lo que se imparte. Condición necesaria, pero no suficiente.",
+      "en": "If we look at the variables related to satisfaction, we can see that the methodology is what is most correlated with the general note of the teacher (though explaining and feed _ back are very close) and the knowledge of the teacher, which is less. Come on, we start to reaffirm something we already imagined: no matter how much a person knows, as it does not have the right methodology, it may not be enough to satisfy the student. But eye, also know is correlated with explaining, therefore, in order to be able to explain well, you must know what is given.",
+      "es": "Si nos fijamos en las variables relacionadas con la satisfacción, podemos comprobar que la metodología es lo que más correlaciona con la nota general del profesor/a (aunque explicar y feed_back están muy cerca) y el conocimiento del/a profesor/a, lo que menos. Vamos, que empezamos a reafirmar algo que ya imaginábamos: por mucho que sepa una persona, como no cuenta con la metodología adecuada, puede no llegar a satisfacer lo suficiente al alumnado. Pero ojo, conocer también se correlaciona con explicar, por tanto, para poder explicar bien hay que conocer bien lo que se imparte. Condición necesaria, pero no suficiente.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "También nos pareció interesante conocer si el sexo y la edad influyen en la satisfacción del alumnado, así que pasamos a agrupar con estos criterios:",
+      "en": "We also found it interesting to know whether sex and age influence the satisfaction of the student, so we went on to group with these criteria:",
+      "es": "También nos pareció interesante conocer si el sexo y la edad influyen en la satisfacción del alumnado, así que pasamos a agrupar con estos criterios:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pues parece que los/as más jóvenes obtienen generalmente mejor puntuación. Sin diferencias destacables entre sexos, aunque es cierto que las mujeres más adultas (>55) parecen ofrecer una mejor experiencia que los hombres de su edad.",
+      "en": "It seems that younger people generally get better score. No notable gender differences, although it is true that more adult women (> 55) seem to offer a better experience than men of their age.",
+      "es": "Pues parece que los/as más jóvenes obtienen generalmente mejor puntuación. Sin diferencias destacables entre sexos, aunque es cierto que las mujeres más adultas (>55) parecen ofrecer una mejor experiencia que los hombres de su edad.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por último, queríamos saber si, más allá de la edad, lo relevante era la antigüedad del/a profesor/a en la universidad. El profesorado está ordenado según su entrada en la facultad, por lo que bastaba con plotear este orden respecto a la nota de satisfacción.",
+      "en": "Finally, we wanted to know whether, beyond age, the relevant thing was the seniority of the teacher in the university. The teacher is ordered according to his entry into the faculty, so it was enough to plotate this order with respect to the satisfaction note.",
+      "es": "Por último, queríamos saber si, más allá de la edad, lo relevante era la antigüedad del/a profesor/a en la universidad. El profesorado está ordenado según su entrada en la facultad, por lo que bastaba con plotear este orden respecto a la nota de satisfacción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pues sí, parece que los nuevos fichajes tienen menos puntuaciones negativas que los/as veteranos/as del lugar. Eso sí, les cuesta más llegar al 10.",
+      "en": "Well, yes, it seems that the new records have less negative scores than the veterans of the place.",
+      "es": "Pues sí, parece que los nuevos fichajes tienen menos puntuaciones negativas que los/as veteranos/as del lugar. Eso sí, les cuesta más llegar al 10.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ahora que tenemos ya algunas ideas sobre el dataset, pasamos a los modelos.",
+      "en": "Now that we already have some ideas about the dataset, we move on to the models.",
+      "es": "Ahora que tenemos ya algunas ideas sobre el dataset, pasamos a los modelos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Hemos trabajado 4 modelos, cada uno con un objetivo.",
+      "en": "We've worked 4 models, each with one goal.",
+      "es": "Hemos trabajado 4 modelos, cada uno con un objetivo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "-Regresión lineal: Para poder predecir la satisfacción general si contamos con los 4 ítems de satisfacción, y conocer la importancia de cada uno de ellos.",
+      "en": "-Linear regression: To be able to predict general satisfaction if we have the 4 items of satisfaction, and to know the importance of each of them.",
+      "es": "-Regresión lineal: Para poder predecir la satisfacción general si contamos con los 4 ítems de satisfacción, y conocer la importancia de cada uno de ellos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "-Asociación: Para conocer qué atributos se “mezclan” más con otros.",
+      "en": "-Association: To know which attributes are \"mixed\" more with others.",
+      "es": "-Asociación: Para conocer qué atributos se “mezclan” más con otros.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "-Decision Trees: Para clasificar de forma sencilla a promotores/detractores/neutros.",
+      "en": "-Decision Trees: To easily classify promoters / detractors / neutral.",
+      "es": "- Árboles de decisión: Para clasificar de forma sencilla a promotores/detractores/neutros.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "-Clustering: Para identificar la relación entre nota y satisfacción, y lo más importante, describir los grupos de profesores/as que se forman.",
+      "en": "-Clustering: To identify the relationship between note and satisfaction, and most importantly, describe the groups of teachers that are formed.",
+      "es": "-Clustering: Para identificar la relación entre nota y satisfacción, y lo más importante, describir los grupos de profesores/as que se forman.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "-NLP: Para conocer qué comentarios se repiten más según la satisfacción y la nota del grupo.",
+      "en": "-NLP: To find out which comments are more repeated according to the group's satisfaction and note.",
+      "es": "-NLP: Para conocer qué comentarios se repiten más según la satisfacción y la nota del grupo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Regresión lineal",
+      "en": "Linear regression",
+      "es": "Regresión lineal",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Escogimos las 4 variables de satisfacción como variables independientes, y la satisfacción general como la variable dependiente del modelo. Suponíamos, vistas las correlaciones, que íbamos a tener buenos resultados.",
+      "en": "We chose the 4 variables of satisfaction as independent variables, and the general satisfaction as the variable dependent on the model. We assumed, seen the correlations, we were going to have good results.",
+      "es": "Escogimos las 4 variables de satisfacción como variables independientes, y la satisfacción general como la variable dependiente del modelo. Suponíamos, vistas las correlaciones, que íbamos a tener buenos resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y así fue, utilizando la técnica Ridge de regresión obtenemos un accuracy del… ¡67%! Seguro que jugando con los datos train y test podemos llegar a un resultado mejor, pero nos dimos por satisfechos. Para contextualizar mejor este dato, medimos la importancia relativa de cada variable.",
+      "en": "And so it was, using the Ridge regression technique we get an accuracy of... 67%! I'm sure by playing with the train and test data we can reach a better result, but we were satisfied. To better contextualize this data, we measure the relative importance of each variable.",
+      "es": "Y así fue, utilizando la técnica Ridge de regresión obtenemos un accuracy del… ¡67%! Seguro que jugando con los datos train y test podemos llegar a un resultado mejor, pero nos dimos por satisfechos. Para contextualizar mejor este dato, medimos la importancia relativa de cada variable.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Es decir, podemos predecir el resultado, y comprobamos que explicar es el elemento que más hace variar este resultado. Así que ya sabéis profesores/as, si os parece que os está yendo mal con un grupo, ¡a explicar mejor!",
+      "en": "I mean, we can predict the result, and we can see that explaining is the element that makes this result most different. So you know teachers, if you think it's going wrong with a group, to explain it better!",
+      "es": "Es decir, podemos predecir el resultado, y comprobamos que explicar es el elemento que más hace variar este resultado. Así que ya sabéis profesores/as, si os parece que os está yendo mal con un grupo, ¡a explicar mejor!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Asociación",
+      "en": "Association",
+      "es": "Asociación",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ya tenemos varias pistas sobre qué afecta más a la satisfacción, pero todavía no sabemos si hay relación entre un grupo con buenas notas y un buen profesor/a. Para comprobarlo, implementamos el algoritmo “a priori” para visualizar las asociaciones entre variables. A continuación, adjuntamos las asociaciones con un lift>1 (ocurren más de lo esperado).",
+      "en": "We already have several clues about what affects satisfaction most, but we still don't know if there is a relationship between a group with good grades and a good teacher. To check it, we implement the \"a priori\" algorithm to visualize the associations between variables. Then we attach the associations with a lift > 1 (more than expected).",
+      "es": "Ya tenemos varias pistas sobre qué afecta más a la satisfacción, pero todavía no sabemos si hay relación entre un grupo con buenas notas y un buen profesor/a. Para comprobarlo, implementamos el algoritmo “a priori” para visualizar las asociaciones entre variables. A continuación, adjuntamos las asociaciones con un lift>1 (ocurren más de lo esperado).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Aunque hay un poco de todo, la asociación con mayor lift y confianza es “sobresaliente” con “promotor” Por lo tanto, podemos intuir que aquellos grupos que tienen una media sobresaliente, tienen un/a profesor/a que han valorado muy positivamente, pero no al contrario. Y tampoco podemos concluir que malas notas llevan mayoritariamente aparejadas malos/as profesores/as.",
+      "en": "Although there is a bit of everything, the association with greater lift and trust is \"outstanding\" with \"promoter\" So, we can intuit that those groups that have an outstanding average, have a teacher that they have valued very positively, but not on the contrary. And we can't conclude that bad grades have mostly been accompanied by bad teachers.",
+      "es": "Aunque hay un poco de todo, la asociación con mayor lift y confianza es “sobresaliente” con “promotor” Por lo tanto, podemos intuir que aquellos grupos que tienen una media sobresaliente, tienen un/a profesor/a que han valorado muy positivamente, pero no al contrario. Y tampoco podemos concluir que malas notas llevan mayoritariamente aparejadas malos/as profesores/as.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para profundizar más en qué es lo que hace que ese profesor/a tenga promotores o detractores, empezamos con los decision trees.",
+      "en": "To further deepen what makes that teacher have promoters or detractors, we start with decisions.",
+      "es": "Para profundizar más en qué es lo que hace que ese profesor/a tenga promotores o detractores, empezamos con los decision trees.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Decision Trees",
+      "en": "Decision Trees",
+      "es": "Decision Trees",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La primera prueba que hicimos fue con una profundidad de 2, para empezar a visualizar los primeros resultados.",
+      "en": "The first test we did was with a depth of 2, to start visualizing the first results.",
+      "es": "La primera prueba que hicimos fue con una profundidad de 2, para empezar a visualizar los primeros resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Conclusiones similares a lo anterior para el profesorado: Explicar es lo que más diferencia a promotores de detractores/neutros. Pero para asegurar un mayor número de alumnos/as promotores, mejor tener una buena metodología en las sesiones. Y, si explicar no es tu fuerte, céntrate en dar un buen feedback para no tener detractores.",
+      "en": "Conclusions similar to the above for the teacher: Explain is what makes it more different for detractor / neutral promoters. But to ensure a greater number of students, they better have a good methodology in the sessions. And, if explaining is not your strong, focus on giving a good feedback so they don't have detractors.",
+      "es": "Conclusiones similares a lo anterior para el profesorado: Explicar es lo que más diferencia a promotores de detractores/neutros. Pero para asegurar un mayor número de alumnos/as promotores, mejor tener una buena metodología en las sesiones. Y, si explicar no es tu fuerte, céntrate en dar un buen feedback para no tener detractores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pero bueno, el score del árbol es de 0.35, así que hay que coger el resultado con cierto escepticismo.",
+      "en": "But well, the tree score is 0.35, so you have to take the result with some skepticism.",
+      "es": "Pero bueno, el score del árbol es de 0.35, así que hay que coger el resultado con cierto escepticismo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si ampliamos la profundidad a 5, ya vemos que entran nuevos atributos, y sube el score a 0.45. Un",
+      "en": "If we extend the depth to 5, we see that new attributes enter, and the score rises to 0.45.",
+      "es": "Si ampliamos la profundidad a 5, ya vemos que entran nuevos atributos, y sube el score a 0.45. Un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "insight",
+      "en": "insight",
+      "es": "conocimiento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que descubrimos con este árbol es que, si el feedback no es lo suficientemente bueno, pero el conocimiento percibido por el alumno/a es alto, la posibilidad de tener promotores sube.",
+      "en": "We discover with this tree is that, if feedback is not good enough, but the knowledge perceived by the student is high, the possibility of having promoters increases.",
+      "es": "que descubrimos con este árbol es que, si el feedback no es lo suficientemente bueno, pero el conocimiento percibido por el alumno/a es alto, la posibilidad de tener promotores sube.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Visto todo esto, vamos a centrarnos en cómo son los/as profesores/as según la satisfacción de los/as alumnos/as y las notas que ponen.",
+      "en": "In view of all this, we will focus on how teachers are according to the satisfaction of the students and the notes they put.",
+      "es": "Visto todo esto, vamos a centrarnos en cómo son los/as profesores/as según la satisfacción de los/as alumnos/as y las notas que ponen.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Clustering",
+      "en": "Clustering",
+      "es": "Clustering",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Antes que nada, aplicamos el algoritmo K-Means para identificar el número óptimo de clústeres: 6. Pasamos a plottear esta relación entre notas y satisfacción:",
+      "en": "First of all, we apply the K-Means algorithm to identify the optimal number of clusters: 6. We move to plottar this relationship between notes and satisfaction:",
+      "es": "Antes que nada, aplicamos el algoritmo K-Means para identificar el número óptimo de clústeres: 6. Pasamos a plottear esta relación entre notas y satisfacción:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tenemos 6 grupos diferenciados, pero vamos a poner el foco en 3 de ellos:",
+      "en": "We have 6 different groups, but we're gonna focus on 3 of them:",
+      "es": "Tenemos 6 grupos diferenciados, pero vamos a poner el foco en 3 de ellos:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Profesores/as que solo tienen detractores, al margen de la nota media del grupo:. Tiene más de 55 años, de la zona oeste de Gipuzkoa, con los conocimientos suficientes para ser bien valorados, pero sin las metodologías adecuadas según la opinión de sus alumnos/as. Es decir, profesores/as mayores con metodologías poco atractivas (¿quizás anticuadas?) tienen muchas papeletas para tener detractores.",
+      "en": "Teachers who only have detractors, apart from the group's average note:. He is over 55 years old, from the west of Gipuzkoa, with sufficient knowledge to be well valued, but without appropriate methodologies according to the opinion of his students. That is, older teachers with unattractive methodologies (perhaps outdated?) have many ballots to have detractors.",
+      "es": "Profesores/as que solo tienen detractores, al margen de la nota media del grupo:. Tiene más de 55 años, de la zona oeste de Gipuzkoa, con los conocimientos suficientes para ser bien valorados, pero sin las metodologías adecuadas según la opinión de sus alumnos/as. Es decir, profesores/as mayores con metodologías poco atractivas (¿quizás anticuadas?) tienen muchas papeletas para tener detractores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Profesores/as que",
+      "en": "Teachers",
+      "es": "Profesores/as que",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "solo tienen promotores,",
+      "en": "They only have promoters,",
+      "es": "solo tienen promotores,",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "teniendo sus grupos notas medias <6. Entre 35 y 55 años, imparten asignaturas de finanzas, son del este de Gipuzkoa y son bien valorados por sus conocimiento. En cambio, el feedback que ofrecen no parece ser el suficiente. Se puede inferir que por muy satisfecho que esté un alumno/a, como no se le de el feedback necesario para su mejora, no tendrá resultados notables.",
+      "en": "having their groups average notes < 6. Between 35 and 55 years, they teach finance subjects, are from the east of Gipuzkoa and are well valued for their knowledge. Instead, the feedback they offer does not seem to be enough. It can be inferred that as much as a student is satisfied, as it is not given the feedback necessary for its improvement, it will not have significant results.",
+      "es": "teniendo sus grupos notas medias <6. Entre 35 y 55 años, imparten asignaturas de finanzas, son del este de Gipuzkoa y son bien valorados por sus conocimiento. En cambio, el feedback que ofrecen no parece ser el suficiente. Se puede inferir que por muy satisfecho que esté un alumno/a, como no se le de el feedback necesario para su mejora, no tendrá resultados notables.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Profesores/as que tienen",
+      "en": "Teachers who have",
+      "es": "Profesores/as que tienen",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "mayoritariamente promotores",
+      "en": "mostly promoters",
+      "es": "mayoritariamente promueve",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "y su nota media mínima es de 7: Menores de 35, de asignaturas de estrategia, con mucho conocimiento y buenas explicaciones.",
+      "en": "and its average minimum note is 7: Under 35, of strategy subjects, with a lot of knowledge and good explanations.",
+      "es": "y su nota media mínima es de 7: Menores de 35, de asignaturas de estrategia, con mucho conocimiento y buenas explicaciones.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para profundizar algo más en cómo clasificar a estos profesores, vamos a darle un poco al NLP.",
+      "en": "To deepen something more on how to classify these teachers, let's give the NLP a little bit.",
+      "es": "Para profundizar algo más en cómo clasificar a estos profesores, vamos a darle un poco al NLP.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "NLP",
+      "en": "NLP",
+      "es": "NLP",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como todo proyecto, en las fases finales quedan pocas energías. Y si lo último es NLP, que no es precisamente el algoritmo más sencillo, cuesta llegar a conclusiones reveladores. Sin embargo, con un simple counts de cuáles son las frases más repetidas (cuando se les pregunta aspectos a mantener) de los/as alumnos/as en función de la nota que dan al profesorado y las notas que reciben, obtenemos los siguientes",
+      "en": "Like any project, there are few energies left in the final stages. And if the latter is NLP, which is not precisely the simplest algorithm, it is difficult to reach revealing conclusions. However, with a simple count of what are the most repeated phrases (when asked aspects to maintain) of the students according to the note they give to the teacher and the notes they receive, we get the following:",
+      "es": "Como todo proyecto, en las fases finales quedan pocas energías. Y si lo último es NLP, que no es precisamente el algoritmo más sencillo, cuesta llegar a conclusiones reveladores. Sin embargo, con un simple counts de cuáles son las frases más repetidas (cuando se les pregunta aspectos a mantener) de los/as alumnos/as en función de la nota que dan al profesorado y las notas que reciben, obtenemos los siguientes",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "insights",
+      "en": "insights",
+      "es": "información",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el caso de los detractores, los comentarios giran en torno al trabajo en equipo. Vamos, que lo positivo de la asignatura han sido sus compañeros/as de clase más que la propia clase. En cambio, los comentarios más repetidos con los promotores ensalzan al profesor/a: su conocimiento, formas diferentes de dar clase, buen feedback a todos los trabajos…",
+      "en": "In the case of detractors, the comments revolve around teamwork. Come on, the positive of the subject have been their classmates more than the class itself. Instead, the most repeated comments with the promoters highlight the teacher: his knowledge, different ways of giving class, good feedback to all the works...",
+      "es": "En el caso de los detractores, los comentarios giran en torno al trabajo en equipo. Vamos, que lo positivo de la asignatura han sido sus compañeros/as de clase más que la propia clase. En cambio, los comentarios más repetidos con los promotores ensalzan al profesor/a: su conocimiento, formas diferentes de dar clase, buen feedback a todos los trabajos…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si analizamos las respuestas según la nota obtenida, los comentarios más repetidos en el caso de los suspensos hacen referencia al material aportado. Es decir, lo único bueno que tiene que decir es que la asignatura o los PPTs son buenos. Y en el caso de los sobresalientes, ya aparecen (por primera vez) muchos comentarios sobre la disposición del profesor/a: atención, actitud, motivación, ganas de ayudar…",
+      "en": "If we analyze the answers according to the note obtained, the most repeated comments in the case of the suspenses refer to the material provided. That is, the only good thing you have to say is that the subject or the PPTs are good. And in the case of the outstanding, there are already (for the first time) many comments about the teacher's disposition: attention, attitude, motivation, desire to help...",
+      "es": "Si analizamos las respuestas según la nota obtenida, los comentarios más repetidos en el caso de los suspensos hacen referencia al material aportado. Es decir, lo único bueno que tiene que decir es que la asignatura o los PPTs son buenos. Y en el caso de los sobresalientes, ya aparecen (por primera vez) muchos comentarios sobre la disposición del profesor/a: atención, actitud, motivación, ganas de ayudar…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La forma de explicar del profesor/a es el elemento clave para la satisfacción.",
+      "en": "The way of explaining the teacher is the key element for satisfaction.",
+      "es": "La forma de explicar del profesor/a es el elemento clave para la satisfacción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Generalmente, profesores/as con promotores tienen grupos con mejores resultados. Especialmente si son jóvenes y son percibidos con mucho conocimiento.",
+      "en": "Generally, teachers with promoters have groups with better results, especially if they are young and perceived with much knowledge.",
+      "es": "Generalmente, profesores/as con promotores tienen grupos con mejores resultados. Especialmente si son jóvenes y son percibidos con mucho conocimiento.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para mejorar los resultados de un grupo, la actitud y la disposición del profesor parece ser el elemento diferencial.",
+      "en": "To improve a group's results, the teacher's attitude and disposition seems to be the differential element.",
+      "es": "Para mejorar los resultados de un grupo, la actitud y la disposición del profesor parece ser el elemento diferencial.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "No son conclusiones reveladoras que nos hagan ganar el nobel de educación, y puede que no sean extrapolables a otras universidades y contextos. Pero al menos ya hay una base por dónde empezar, y aunque ahora lo complicado sea precisamente cómo mejorar esas explicaciones o la actitud, los profesores/as ya sabemos dónde incidir, y los alumnos/as qué exigir 😉",
+      "en": "They are not revealing conclusions that will make us win the nobel of education, and may not be extrapolable to other universities and contexts. But at least there is already a basis for where to start, and although now the complicated is precisely how to improve those explanations or attitude, teachers already know where to influence, and students what to demand",
+      "es": "No son conclusiones reveladoras que nos hagan ganar el nobel de educación, y puede que no sean extrapolables a otras universidades y contextos. Pero al menos ya hay una base por dónde empezar, y aunque ahora lo complicado sea precisamente cómo mejorar esas explicaciones o la actitud, los profesores/as ya sabemos dónde incidir, y los alumnos/as qué exigir 😉",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si tuviéramos que cerrar con una conclusión final, sería precisamente la importancia de la actitud. Es el comentario más repetido, con diferencia, en el caso de los grupos con notas sobresalientes. Ya no es cuestión de que estén más o menos satisfechos, sino de que obtienen mejores resultados. Y aunque mejores calificaciones no equivalen necesariamente a un mejor desarrollo futuro, nos surgen dos preguntas de cierre.",
+      "en": "If we had to close with a final conclusion, it would be precisely the importance of the attitude. It is the most repeated comment, by difference, in the case of groups with outstanding notes. It is no longer a question of their being more or less satisfied, but of better results. And although better ratings do not necessarily amount to a better future development, we have two closing questions.",
+      "es": "Si tuviéramos que cerrar con una conclusión final, sería precisamente la importancia de la actitud. Es el comentario más repetido, con diferencia, en el caso de los grupos con notas sobresalientes. Ya no es cuestión de que estén más o menos satisfechos, sino de que obtienen mejores resultados. Y aunque mejores calificaciones no equivalen necesariamente a un mejor desarrollo futuro, nos surgen dos preguntas de cierre.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como profesores/as, o desde la coordinación: ¿Se hacen los esfuerzos suficientes para mejorar la actitud y disposición del profesorado hacia los/as alumnos/as? ¿Puede más la burocracia o la experiencia del estudiante?",
+      "en": "As teachers, or from coordination: Are enough efforts made to improve the attitude and willingness of the teacher towards the students? Can the bureaucracy or the student experience be more?",
+      "es": "Como profesores/as, o desde la coordinación: ¿Se hacen los esfuerzos suficientes para mejorar la actitud y disposición del profesorado hacia los/as alumnos/as? ¿Puede más la burocracia o la experiencia del estudiante?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como alumnos/as: ¿Hasta qué punto existe actitud hacia el aprendizaje? ¿Cuánta responsabilidad tiene el profesor en motivarnos? ¿No sería más lógico venir motivados/as de casa?",
+      "en": "As students: To what extent is there an attitude towards learning? How much responsibility does the teacher have in motivating us? Would it not be more logical to come home motivated?",
+      "es": "Como alumnos/as: ¿Hasta qué punto existe actitud hacia el aprendizaje? ¿Cuánta responsabilidad tiene el profesor en motivarnos? ¿No sería más lógico venir motivados/as de casa?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Todavía queda mucho por hacer…",
+      "en": "There's still a lot to do...",
+      "es": "Todavía queda mucho por hacer…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Un buen análisis NLP, más allá de contar las frases más repetidas. Mucho potencial para extraer el valor a más de 4.000 comentarios.",
+      "en": "A good NLP analysis, beyond counting the most repeated phrases. Much potential to extract the value to more than 4,000 comments.",
+      "es": "Un buen análisis NLP, más allá de contar las frases más repetidas. Mucho potencial para extraer el valor a más de 4.000 comentarios.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Clustering: se podría mejorar tanto el clustering hecho al profesorado, como introducir nuevas variables del alumnado para hacer un nuevo clustering.",
+      "en": "Clustering: You could improve both the clustering made to the teacher, and introduce new variables of the student to make a new clustering.",
+      "es": "Clustering: se podría mejorar tanto el clustering hecho al profesorado, como introducir nuevas variables del alumnado para hacer un nuevo clustering.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y más allá de la programación, implementar un sistema “close the loop” para tomar acciones y decisiones en base a los resultados de las encuestas. Que lleven a proyectos accionables.",
+      "en": "And beyond programming, implement a \"close the loop\" system to take action and decisions based on survey results, leading to actionable projects.",
+      "es": "Y más allá de la programación, implementar un sistema “close the loop” para tomar acciones y decisiones en base a los resultados de las encuestas. Que lleven a proyectos accionables.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el siguiente enlace de",
+      "en": "In the next link to",
+      "es": "En el siguiente enlace de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "GitHub",
+      "en": "GitHub",
+      "es": "GitHub",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "encontrarás el dataset y los diferentes notebooks utilizados en el proyecto.",
+      "en": "You will find the data and the different notebooks used in the project.",
+      "es": "encontrarás el dataset y los diferentes notebooks utilizados en el proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si quieres ver la presentación que se hizo del proyecto, la tienes por",
+      "en": "If you want to see the presentation that was made of the project, you have it for",
+      "es": "Si quieres ver la presentación que se hizo del proyecto, la tienes por",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "aquí",
+      "en": "Here.",
+      "es": "aquí",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Y para acabar, un agradecimiento a todo el equipo de",
+      "en": "And to conclude, a thank you to the entire team of",
+      "es": "Y para acabar, un agradecimiento a todo el equipo de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays.AI Bilbo",
+      "en": "Saturdays.AI Bilbo",
+      "es": "Saturdays.AI Bilbo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". De estar contando filas en un Excel hemos pasado a un proyecto presentable, nada habría sido posible sin la comunidad. Mila esker denoi!",
+      "en": ". If we were counting rows on an Excel we have moved on to a presentable project, nothing would have been possible without the community. Mila esker denoi!",
+      "es": ". De estar contando filas en un Excel hemos pasado a un proyecto presentable, nada habría sido posible sin la comunidad. Mila esker denoi!",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Thanks to Rubén García Pedrejón.",
+      "en": "Thanks to Rubén García Pedrejón.",
+      "es": "Thanks to Rubén García Pedrejón.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En el siguiente repositorio se encuentra el código usuado para desarrollar esta aplicación:",
+      "en": "The following repository contains the code used to develop this application:",
+      "es": "En el siguiente repositorio se encuentra el código usuado para desarrollar esta aplicación:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La misión de",
+      "en": "The mission of",
+      "es": "La misión de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "es hacer la inteligencia artificial más accesible (",
+      "en": "is to make artificial intelligence more accessible (",
+      "es": "es hacer la inteligencia artificial más accesible (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "#ai4all",
+      "en": "# ai4all",
+      "es": "#ai4all",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ") a la vez que se realizan proyectos para el bien (",
+      "en": ") while projects for the good are carried out (",
+      "es": ") a la vez que se realizan proyectos para el bien (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "#ai4good",
+      "en": "#ai4good",
+      "es": "#ai4good",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "). Los talleres que realizamos forman parte del programa",
+      "en": "). The workshops we conducted are part of the programme",
+      "es": "). Los talleres que realizamos forman parte del programa",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "AI 4 Schools",
+      "en": "AI 4 Schools",
+      "es": "AI 4 Schools",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para que cualquier persona “",
+      "en": "for anyone \"",
+      "es": "para que cualquier persona “",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "aprenda haciendo",
+      "en": "Learn by doing",
+      "es": "aprenda haciendo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "” IA sin importar su especialidad o nivel de partida.",
+      "en": "\"IA regardless of its specialty or level of departure.",
+      "es": "” IA sin importar su especialidad o nivel de partida.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Infórmate de nuestro master sobre inteligencia artifical en",
+      "en": "Learn about our master's degree in artifical intelligence in",
+      "es": "Infórmate de nuestro master sobre inteligencia artifical en",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este",
+      "en": "If you want to learn more artificial intelligence join our community in this",
+      "es": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "link",
+      "en": "link",
+      "es": "enlace",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "o visítanos en nuestra web",
+      "en": "or visit us on our website",
+      "es": "o visítanos en nuestra web",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "www.saturdays.ai",
+      "en": "www.saturdays.ai",
+      "es": "www.saturdays.ai",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¡te esperamos!",
+      "en": "We're waiting for you!",
+      "es": "¡te esperamos!",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Abrir vídeo o recurso",
+      "en": "Open video or resource",
+      "es": "Abrir vídeo o recurso",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Comentarios del archivo",
+      "en": "File comments",
+      "es": "Comentarios del archivo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "prueba",
+      "en": "test",
+      "es": "prueba",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Explora estos temas",
+      "en": "Explore these topics",
+      "es": "Explora estos temas",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Decission Trees",
+      "en": "Decision Trees",
+      "es": "Decission Trees",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Educación de Calidad",
+      "en": "Quality Education",
+      "es": "Educación de Calidad",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tabular",
+      "en": "Tabular",
+      "es": "Tabular",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "DE LA CURIOSIDAD A LA PRÁCTICA",
+      "en": "OF CURIOSITY TO PRACTICS",
+      "es": "DE LA CURIOSIDAD A LA PRÁCTICA",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tu próximo paso empieza aquí.",
+      "en": "Your next step starts here.",
+      "es": "Tu próximo paso empieza aquí.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Lleva una idea a la práctica o encuentra personas con las que seguir aprendiendo.",
+      "en": "It brings an idea to practice or finds people to continue learning with.",
+      "es": "Lleva una idea a la práctica o encuentra personas con las que seguir aprendiendo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Encuentra tu curso →",
+      "en": "Find your course →",
+      "es": "Encuentra tu curso →",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Encuentra tu comunidad →",
+      "en": "Find your community →",
+      "es": "Encuentra tu comunidad →",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Recibe nuevas historias en tu lector RSS ↗",
+      "en": "Receive new stories in your RSS reader",
+      "es": "Recibe nuevas historias en tu lector RSS ↗",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 29 jul 2021.",
+      "en": "A story of the Saturdays.AI. community originally published on the 29 Jul 2021.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 29 jul 2021.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "← Más historias de la comunidad",
+      "en": "← More community stories",
+      "es": "← Más historias de la comunidad",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "SIGUE EXPLORANDO",
+      "en": "SIGUE EXPLORING",
+      "es": "SIGUE EXPLORANDO",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Más ideas de la comunidad.",
+      "en": "More community ideas.",
+      "es": "Más ideas de la comunidad.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "11 min read",
+      "en": "11 min read",
+      "es": "11 min leer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos de Machine Learning",
+      "en": "MAMIA: Support for the diagnosis of Breast Cancer through Machine Learning algorithms",
+      "es": "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos de Machine Learning",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mar 19, 2022",
+      "en": "Mar 19, 2022",
+      "es": "Mar 19, 2022",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "15 min read",
+      "en": "15 min read",
+      "es": "15 min para leer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Análisis de Depresión en Redes Sociales: Una aplicación en Bioestadística",
+      "en": "Social Network Depression Analysis: An Application in Biostatistics",
+      "es": "Análisis de Depresión en Redes Sociales: Una aplicación en Bioestadística",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mar 16, 2022",
+      "en": "Sea 16, 2022",
+      "es": "Mar 16, 2022",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "8 min read",
+      "en": "8 min read",
+      "es": "8 min leer",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "BasketTracker.AI: Inteligencia artificial para la bolsa de la compra",
+      "en": "BasketTracker.AI: Artificial intelligence for the purchase bag",
+      "es": "BasketTracker.AI: Inteligencia artificial para la bolsa de la compra",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

@@ -64,6 +64,14 @@ Other editable collections cover imported pages, the homepage, city profiles and
 
 Imported HTML is sanitized before Markdown conversion and again at rendering. Original scripts and forms are not executed. Approved audio/video providers load only after the reader presses Play. External LMS accounts, enrolment, forms and media services remain with their providers.
 
+## Languages and appearance
+
+The website has static English and Spanish versions and a remembered light/dark preference. Spanish retains the original routes; English lives below `/en/`. The first visit uses the browser's preferred supported language. The brand motto remains unchanged.
+
+Translations are editable in the Pages CMS **English & Spanish translations** collection. See [languages, themes and publishing](docs/LANGUAGES-AND-THEMES.md) before adding or changing copy. `npm run build` localizes the complete Astro output using committed catalogs. `npm run verify` checks translation coverage, reciprocal language links and both versions. Missing translations block a new deployment, while the previous successful site stays online.
+
+Use `npm run build` and `npm run preview` for a complete bilingual local preview. `astro dev` is the source/design preview.
+
 ## Deployment and rollback
 
 GitHub Pages uses GitHub Actions with:

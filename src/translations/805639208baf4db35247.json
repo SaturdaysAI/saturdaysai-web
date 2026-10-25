@@ -1,0 +1,1299 @@
+{
+  "title": "Crea una web wiki de tu juego o contenido favorito siguiendo estos pasos (y con IA)",
+  "route": "/2025/10/22/alguna-vez-has-pensado-en-crear-una-wiki-pero-no-sabes-como/",
+  "segments": [
+    {
+      "source": "¿Alguna vez has querido crear una wiki y no sabías por dónde empezar? Piensa en ella como un museo temático: eliges la colección (el tema), diseñas el recorrido (la navegación) y curas cada pieza (las páginas de detalle). De…",
+      "en": "Have you ever wanted to create a wiki and didn't know where to start? Think of it as a thematic museum: you choose the collection (the theme), design the tour (the navigation), and curate each piece (the detail pages). From…",
+      "es": "¿Alguna vez has querido crear una wiki y no sabías por dónde empezar? Piensa en ella como un museo temático: eliges la colección (el tema), diseñas el recorrido (la navegación) y curas cada pieza (las páginas de detalle). De…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "22 oct 2025",
+      "en": "Oct 22, 2025",
+      "es": "22 oct 2025",
+      "reviewed": false
+    },
+    {
+      "source": "De la Idea al Sitio Vivo",
+      "en": "From the Idea to the Living Site",
+      "es": "De la Idea al Sitio Vivo",
+      "reviewed": false
+    },
+    {
+      "source": "¿Por qué una wiki con ayuda de la IA?",
+      "en": "Why a wiki with the help of AI?",
+      "es": "¿Por qué una wiki con ayuda de la IA?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Visión rápida del proyecto",
+      "en": "Quick overview of the project",
+      "es": "Visión rápida del proyecto",
+      "reviewed": false
+    },
+    {
+      "source": "Arranque del Proyecto",
+      "en": "Project Start",
+      "es": "Arranque del Proyecto",
+      "reviewed": false
+    },
+    {
+      "source": "Estructura mínima que usamos:",
+      "en": "Minimum structure we use:",
+      "es": "Estructura mínima que usamos:",
+      "reviewed": false
+    },
+    {
+      "source": "Routing y Páginas Principales",
+      "en": "Routing and Main Pages",
+      "es": "Routing y Páginas Principales",
+      "reviewed": false
+    },
+    {
+      "source": "Piezas Transversales",
+      "en": "Cross Pieces",
+      "es": "Piezas Transversales",
+      "reviewed": false
+    },
+    {
+      "source": "Página: HOME",
+      "en": "Page: HOME",
+      "es": "Página: HOME",
+      "reviewed": false
+    },
+    {
+      "source": "Índice de la wiki : WIKINDEX",
+      "en": "Wiki index: WIKINDEX",
+      "es": "Índice de la wiki : WIKINDEX",
+      "reviewed": false
+    },
+    {
+      "source": "Páginas de sección (listas)",
+      "en": "Section Pages (Lists)",
+      "es": "Páginas de sección (listas)",
+      "reviewed": false
+    },
+    {
+      "source": "Bosses",
+      "en": "Bosses",
+      "es": "Bosses",
+      "reviewed": false
+    },
+    {
+      "source": "Warrior Dreams",
+      "en": "Warrior Dreams",
+      "es": "Warrior Dreams",
+      "reviewed": false
+    },
+    {
+      "source": "Variants",
+      "en": "Variants",
+      "es": "Variants",
+      "reviewed": false
+    },
+    {
+      "source": "Charms",
+      "en": "Charms",
+      "es": "Charms",
+      "reviewed": false
+    },
+    {
+      "source": "Items",
+      "en": "Items",
+      "es": "Items",
+      "reviewed": false
+    },
+    {
+      "source": "Interactive Map",
+      "en": "Interactive Map",
+      "es": "Interactive Map",
+      "reviewed": false
+    },
+    {
+      "source": "Galerías por categoría (reutilizables)",
+      "en": "Galleries by category (reusable)",
+      "es": "Galerías por categoría (reutilizables)",
+      "reviewed": false
+    },
+    {
+      "source": "Página de detalle: WIKIDETAIL",
+      "en": "Detail page: WIKIDETAIL",
+      "es": "Página de detalle: WIKIDETAIL",
+      "reviewed": false
+    },
+    {
+      "source": "Imágenes automáticas por slug (sin imports manuales)",
+      "en": "Automatic images per slug (no manual imports)",
+      "es": "Imágenes automáticas por slug (sin imports manuales)",
+      "reviewed": false
+    },
+    {
+      "source": "Trivia: aprender jugando",
+      "en": "Trivia: learn by playing",
+      "es": "Trivia: aprender jugando",
+      "reviewed": false
+    },
+    {
+      "source": "Despliegue en GitHub Pages",
+      "en": "Deploy to GitHub Pages",
+      "es": "Despliegue en GitHub Pages",
+      "reviewed": false
+    },
+    {
+      "source": "Consejos finales y cómo entra la IA",
+      "en": "Final tips and how AI comes in",
+      "es": "Consejos finales y cómo entra la IA",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En este artículo encontrarás una guía clara y accionable para construir una wiki moderna con búsqueda compartible, galerías reutilizables, páginas de detalle, mapa interactivo y un minijuego de trivia.",
+      "en": "In this article you'll find a clear, actionable guide to building a modern wiki with shareable search, reusable galleries, detail pages, interactive map, and a trivia minigame.",
+      "es": "En este artículo encontrarás una guía clara y accionable para construir una wiki moderna con búsqueda compartible, galerías reutilizables, páginas de detalle, mapa interactivo y un minijuego de trivia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Todo con Vite + React Router y un empujón de IA.",
+      "en": "All with Vite + React Router and a boost from AI.",
+      "es": "Todo con Vite + React Router y un empujón de IA.",
+      "reviewed": false
+    },
+    {
+      "source": "A continuación te mostraré cómo hice la mía basada en uno de mis videojuegos favoritos:",
+      "en": "Below I will show you how I made mine based on one of my favorite video games:",
+      "es": "A continuación te mostraré cómo hice la mía basada en uno de mis videojuegos favoritos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Hollow Knight",
+      "en": "Hollow Knight",
+      "es": "Hollow Knight",
+      "reviewed": false
+    },
+    {
+      "source": "Puedes acceder a la Wiki desde los siguientes enlaces para visualizar el resultado y todo el contenido",
+      "en": "You can access the Wiki from the following links to view the result and all the content",
+      "es": "Puedes acceder a la Wiki desde los siguientes enlaces para visualizar el resultado y todo el contenido",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "AL COMPLETO",
+      "en": "TO THE COMPLETE",
+      "es": "AL COMPLETO",
+      "reviewed": false
+    },
+    {
+      "source": "antes de la explicación:",
+      "en": "before explanation:",
+      "es": "antes de la explicación:",
+      "reviewed": false
+    },
+    {
+      "source": "REPOSITORIO EN GITHUB",
+      "en": "REPOSITORY ON GITHUB",
+      "es": "REPOSITORIO EN GITHUB",
+      "reviewed": false
+    },
+    {
+      "source": "WIKI WEB LINK",
+      "en": "WIKI WEB LINK",
+      "es": "WIKI WEB LINK",
+      "reviewed": false
+    },
+    {
+      "source": "Crear una wiki es como montar un museo temático: tú eliges la colección (tu tema), diseñas el recorrido (la navegación) y curas cada pieza (las páginas de detalle).",
+      "en": "Creating a wiki is like setting up a thematic museum: you choose the collection (your theme), you design the route (the navigation) and curate each piece (the detail pages).",
+      "es": "Crear una wiki es como montar un museo temático: tú eliges la colección (tu tema), diseñas el recorrido (la navegación) y curas cada pieza (las páginas de detalle).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "¿La buena noticia?",
+      "en": "The good news?",
+      "es": "¿La buena noticia?",
+      "reviewed": false
+    },
+    {
+      "source": "Hoy puedes construirla rápido con Vite + React, publicarla gratis en GitHub Pages y enriquecerla con funciones “sorpresa” como mapas interactivos, búsqueda compartible por URL y un minijuego de trivia para aprender jugando.",
+      "en": "Today you can build it quickly with Vite + React, publish it for free on GitHub Pages and enrich it with “surprise” features such as interactive maps, shareable search by URL and a trivia mini-game to learn by playing.",
+      "es": "Hoy puedes construirla rápido con Vite + React, publicarla gratis en GitHub Pages y enriquecerla con funciones “sorpresa” como mapas interactivos, búsqueda compartible por URL y un minijuego de trivia para aprender jugando.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La guía técnica que tienes a mano ya te trae el esqueleto con rutas, estilos, carga de imágenes y despliegue, de modo que puedes replicar el proyecto desde cero sin perderte en la configuración.",
+      "en": "The technical guide you have at hand already gives you the skeleton with routes, styles, image loading and deployment, so you can replicate the project from scratch without getting lost in the configuration.",
+      "es": "La guía técnica que tienes a mano ya te trae el esqueleto con rutas, estilos, carga de imágenes y despliegue, de modo que puedes replicar el proyecto desde cero sin perderte en la configuración.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La IA no “escribe por ti”; te acelera y mantiene la calidad cuando el contenido crece. Estas son razones y casos de uso prácticos:",
+      "en": "AI does not “write for you”; It speeds you up and maintains quality as content grows. These are reasons and practical use cases:",
+      "es": "La IA no “escribe por ti”; te acelera y mantiene la calidad cuando el contenido crece. Estas son razones y casos de uso prácticos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Arrancas más rápido:",
+      "en": "You start faster:",
+      "es": "Arrancas más rápido:",
+      "reviewed": false
+    },
+    {
+      "source": "La IA te sugiere un índice inicial y te ayuda a ordenar ideas. Pasas de “tengo un montón de notas” a “ya tengo una estructura”.",
+      "en": "The AI suggests an initial index and helps you organize ideas. You go from “I have a lot of notes” to “I already have a structure.”",
+      "es": "La IA te sugiere un índice inicial y te ayuda a ordenar ideas. Pasas de “tengo un montón de notas” a “ya tengo una estructura”.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Escribes con más fluidez:",
+      "en": "You write more fluently:",
+      "es": "Escribes con más fluidez:",
+      "reviewed": false
+    },
+    {
+      "source": "Convierte apuntes sueltos en textos claros y con un mismo tono. Tú decides el estilo; la IA te ayuda a mantenerlo.",
+      "en": "Convert loose notes into clear texts with the same tone. You decide the style; AI helps you maintain it.",
+      "es": "Convierte apuntes sueltos en textos claros y con un mismo tono. Tú decides el estilo; la IA te ayuda a mantenerlo.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Todo queda más uniforme:",
+      "en": "Everything is more uniform:",
+      "es": "Todo queda más uniforme:",
+      "reviewed": false
+    },
+    {
+      "source": "Propone títulos, slugs y resúmenes cortos para que las listas se vean limpias y fáciles de recorrer.",
+      "en": "Provide titles, slugs, and short summaries to make lists look clean and easy to navigate.",
+      "es": "Propone títulos, slugs y resúmenes cortos para que las listas se vean limpias y fáciles de recorrer.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Menos errores, más cuidado:",
+      "en": "Less errors, more care:",
+      "es": "Menos errores, más cuidado:",
+      "reviewed": false
+    },
+    {
+      "source": "Señala enlaces rotos, faltas y alt‑texts que faltan en imágenes. Es como un revisor amable que no se cansa.",
+      "en": "Report broken links, missing alt-texts, and missing images. It's like a kind reviewer who doesn't get tired.",
+      "es": "Señala enlaces rotos, faltas y alt‑texts que faltan en imágenes. Es como un revisor amable que no se cansa.",
+      "reviewed": false
+    },
+    {
+      "source": "Te da ideas nuevas:",
+      "en": "Gives you new ideas:",
+      "es": "Te da ideas nuevas:",
+      "reviewed": false
+    },
+    {
+      "source": "Sugiere preguntas para la trivia, sinónimos para la búsqueda y pequeñas mejoras que no habías pensado.",
+      "en": "Suggest trivia questions, search synonyms, and little improvements you hadn't thought of.",
+      "es": "Sugiere preguntas para la trivia, sinónimos para la búsqueda y pequeñas mejoras que no habías pensado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Tú sigues al mando:",
+      "en": "You are still in charge:",
+      "es": "Tú sigues al mando:",
+      "reviewed": false
+    },
+    {
+      "source": "La IA acelera, pero no sustituye tu criterio. Tú eliges qué entra, qué se modifica y cómo se cuenta la historia.",
+      "en": "AI accelerates, but does not replace your judgment. You choose what goes in, what gets changed, and how the story is told.",
+      "es": "La IA acelera, pero no sustituye tu criterio. Tú eliges qué entra, qué se modifica y cómo se cuenta la historia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En resumen",
+      "en": "In summary",
+      "es": "En resumen",
+      "reviewed": false
+    },
+    {
+      "source": ": la IA no hace la wiki por ti; hace que sea más fácil, más rápida y más agradable de construir.",
+      "en": ": AI doesn't make the wiki for you; makes it easier, faster and more enjoyable to build.",
+      "es": ": la IA no hace la wiki por ti; hace que sea más fácil, más rápida y más agradable de construir.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Producto",
+      "en": "Product",
+      "es": "Producto",
+      "reviewed": false
+    },
+    {
+      "source": ": sitio con dos vistas principales",
+      "en": ": site with two main views",
+      "es": ": sitio con dos vistas principales",
+      "reviewed": false
+    },
+    {
+      "source": "Wiki",
+      "en": "Wiki",
+      "es": "Wiki",
+      "reviewed": false
+    },
+    {
+      "source": ": índice, galerías por secciones y páginas de detalle.",
+      "en": ": index, galleries by sections and detail pages.",
+      "es": ": índice, galerías por secciones y páginas de detalle.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Trivia",
+      "en": "Trivia",
+      "es": "Trivia",
+      "reviewed": false
+    },
+    {
+      "source": ": partida configurable (categoría/dificultad/cantidad) con resultados.",
+      "en": ": configurable game (category/difficulty/amount) with results.",
+      "es": ": partida configurable (categoría/dificultad/cantidad) con resultados.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Datos",
+      "en": "Data",
+      "es": "Datos",
+      "reviewed": false
+    },
+    {
+      "source": ": ficheros JSON versionados en el repositorio.",
+      "en": ": versioned JSON files in the repository.",
+      "es": ": ficheros JSON versionados en el repositorio.",
+      "reviewed": false
+    },
+    {
+      "source": "Interfaz",
+      "en": "Interface",
+      "es": "Interfaz",
+      "reviewed": false
+    },
+    {
+      "source": ": componentes reutilizables y estilos coherentes.",
+      "en": "- Reusable components and consistent styles.",
+      "es": ": componentes reutilizables y estilos coherentes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Navegación",
+      "en": "Navigation",
+      "es": "Navegación",
+      "reviewed": false
+    },
+    {
+      "source": ": rutas claras para portada, secciones, detalle, mapa y trivia.",
+      "en": "- Clear routes for cover, sections, detail, map and trivia.",
+      "es": ": rutas claras para portada, secciones, detalle, mapa y trivia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Publicación",
+      "en": "Publication",
+      "es": "Publicación",
+      "reviewed": false
+    },
+    {
+      "source": ": preparado para desplegar fácilmente en GitHub Pages.",
+      "en": "- Ready to easily deploy to GitHub Pages.",
+      "es": ": preparado para desplegar fácilmente en GitHub Pages.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ": apoyo para estructurar, redactar y revisar el contenido.",
+      "en": ": support for structuring, writing and reviewing content.",
+      "es": ": apoyo para estructurar, redactar y revisar el contenido.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Una vez tengamos clara la idea podemos empezar con la creación de la estructura de carpetas. La IA puede ser una parte fundamental en el siguiente paso, ya que te va a ayudar a estructurar-lo de una forma eficiente:",
+      "en": "Once we have a clear idea, we can start creating the folder structure. AI can be a fundamental part of the next step, since it will help you structure it in an efficient way:",
+      "es": "Una vez tengamos clara la idea podemos empezar con la creación de la estructura de carpetas. La IA puede ser una parte fundamental en el siguiente paso, ya que te va a ayudar a estructurar-lo de una forma eficiente:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lo primero que necesitamos es tener la base lista para iniciar en local:",
+      "en": "The first thing we need is to have the base ready to start locally:",
+      "es": "Lo primero que necesitamos es tener la base lista para iniciar en local:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Instalar dependencias:",
+      "en": "Install dependencies:",
+      "es": "Instalar dependencias:",
+      "reviewed": false
+    },
+    {
+      "source": "Arrancar en dev:",
+      "en": "Boot into dev:",
+      "es": "Arrancar en dev:",
+      "reviewed": false
+    },
+    {
+      "source": "Build de producción:",
+      "en": "Production build:",
+      "es": "Build de producción:",
+      "reviewed": false
+    },
+    {
+      "source": "Previsualizar el build:",
+      "en": "Preview the build:",
+      "es": "Previsualizar el build:",
+      "reviewed": false
+    },
+    {
+      "source": "src/main.tsx",
+      "en": "src/main.tsx",
+      "es": "src/main.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": monta la app y aplica index.css.",
+      "en": "- Mount the app and apply index.css.",
+      "es": ": monta la app y aplica index.css.",
+      "reviewed": false
+    },
+    {
+      "source": "src/App.tsx",
+      "en": "src/App.tsx",
+      "es": "src/App.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": define el enrutado con React Router.",
+      "en": "- Defines routing with React Router.",
+      "es": ": define el enrutado con React Router.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Usamos BrowserRouter",
+      "en": "We use BrowserRouter",
+      "es": "Usamos BrowserRouter",
+      "reviewed": false
+    },
+    {
+      "source": "basename={import.meta.env.BASE_URL}",
+      "en": "basename={import.meta.env.BASE_URL}",
+      "es": "basename={import.meta.env.BASE_URL}",
+      "reviewed": false
+    },
+    {
+      "source": "para que funcione en GitHub Pages bajo",
+      "en": "to make it work in GitHub Pages under",
+      "es": "para que funcione en GitHub Pages bajo",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "/repo",
+      "en": "/repo",
+      "es": "/repo",
+      "reviewed": false
+    },
+    {
+      "source": "src/index.css",
+      "en": "src/index.css",
+      "es": "src/index.css",
+      "reviewed": false
+    },
+    {
+      "source": ": estilos globales, variables CSS y layouts (grid/galería, detail, hero, navbar…). A continuación un ejemplo pequeño del CSS, (lo encontrarás completo en mi repositorio de GitHub):",
+      "en": ": global styles, CSS variables and layouts (grid/gallery, detail, hero, navbar…). Below is a small example of the CSS, (you will find it complete in my GitHub repository):",
+      "es": ": estilos globales, variables CSS y layouts (grid/galería, detail, hero, navbar…). A continuación un ejemplo pequeño del CSS, (lo encontrarás completo en mi repositorio de GitHub):",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Data table",
+      "en": "data tables",
+      "es": "Data table",
+      "reviewed": false
+    },
+    {
+      "source": "Ruta",
+      "en": "Route",
+      "es": "Ruta",
+      "reviewed": false
+    },
+    {
+      "source": "Página (componente)",
+      "en": "Page (component)",
+      "es": "Página (componente)",
+      "reviewed": false
+    },
+    {
+      "source": "Función",
+      "en": "Function",
+      "es": "Función",
+      "reviewed": false
+    },
+    {
+      "source": "Portada con vídeo de fondo y buscador rápido. Entrada al resto del sitio.",
+      "en": "Cover with background video and quick search engine. Entrance to the rest of the site.",
+      "es": "Portada con vídeo de fondo y buscador rápido. Entrada al resto del sitio.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Índice global; búsqueda “linkeable” (estado tomado de la URL, p. ej.",
+      "en": "global index; “linkable” search (status taken from the URL, e.g.",
+      "es": "Índice global; búsqueda “linkeable” (estado tomado de la URL, p. ej.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Lista de jefes (cards con estrellas).",
+      "en": "List of bosses (cards with stars).",
+      "es": "Lista de jefes (cards con estrellas).",
+      "reviewed": false
+    },
+    {
+      "source": "Lista del grupo “warrior-dreams”.",
+      "en": "List of the “warrior-dreams” group.",
+      "es": "Lista del grupo “warrior-dreams”.",
+      "reviewed": false
+    },
+    {
+      "source": "Lista de variantes.",
+      "en": "List of variants.",
+      "es": "Lista de variantes.",
+      "reviewed": false
+    },
+    {
+      "source": "Lista de charms (muestras).",
+      "en": "List of charms (samples).",
+      "es": "Lista de charms (muestras).",
+      "reviewed": false
+    },
+    {
+      "source": "Lista de ítems (categoría visible en la tarjeta).",
+      "en": "List of items (category visible on the card).",
+      "es": "Lista de ítems (categoría visible en la tarjeta).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Detalle por grupo y slug (card + overview + chips).",
+      "en": "Detail by group and slug (card + overview + chips).",
+      "es": "Detalle por grupo y slug (card + overview + chips).",
+      "reviewed": false
+    },
+    {
+      "source": "Mapa interactivo con toolbar y panel de detalle.",
+      "en": "Interactive map with toolbar and detail panel.",
+      "es": "Mapa interactivo con toolbar y panel de detalle.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pantalla inicial de trivia (configuración/cantidad).",
+      "en": "Initial trivia screen (settings/quantity).",
+      "es": "Pantalla inicial de trivia (configuración/cantidad).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Resultados/resumen de la trivia.",
+      "en": "Trivia results/summary.",
+      "es": "Resultados/resumen de la trivia.",
+      "reviewed": false
+    },
+    {
+      "source": "NavBar.tsx",
+      "en": "NavBar.tsx",
+      "es": "NavBar.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": HOME/WIKI/TRIVIA con NavLink.",
+      "en": ": HOME/WIKI/TRIVIA with NavLink.",
+      "es": ": HOME/WIKI/TRIVIA con NavLink.",
+      "reviewed": false
+    },
+    {
+      "source": "SearchBar.tsx",
+      "en": "SearchBar.tsx",
+      "es": "SearchBar.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": input que, al enviar, navega a /wiki?search=… (la URL es la “fuente de verdad”).",
+      "en": ": input which, upon submission, navigates to /wiki?search=… (the URL is the “source of truth”).",
+      "es": ": input que, al enviar, navega a /wiki?search=… (la URL es la “fuente de verdad”).",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Footer.tsx",
+      "en": "Footer.tsx",
+      "es": "Footer.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": info que se mantiene en toda la wiki.",
+      "en": ": info that is maintained throughout the wiki.",
+      "es": ": info que se mantiene en toda la wiki.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pantalla de presentación con",
+      "en": "Presentation screen with",
+      "es": "Pantalla de presentación con",
+      "reviewed": false
+    },
+    {
+      "source": "fondo animado a pantalla completa",
+      "en": "full screen animated background",
+      "es": "fondo animado a pantalla completa",
+      "reviewed": false
+    },
+    {
+      "source": ", logo, texto, barra de búsqueda y dos CTAs hacia la wiki y la trivia.",
+      "en": ", logo, text, search bar and two CTAs towards the wiki and trivia.",
+      "es": ", logo, texto, barra de búsqueda y dos CTAs hacia la wiki y la trivia.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El buscador de Home te lleva a",
+      "en": "The Home search takes you to",
+      "es": "El buscador de Home te lleva a",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "/wiki?search=TERM",
+      "en": "/wiki?search=TERM",
+      "es": "/wiki?search=TERM",
+      "reviewed": false
+    },
+    {
+      "source": ". El índice lee ese parámetro con",
+      "en": ". The index reads that parameter with",
+      "es": ". El índice lee ese parámetro con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "useSearchParams",
+      "en": "useSearchParams",
+      "es": "useSearchParams",
+      "reviewed": false
+    },
+    {
+      "source": ", normaliza (minúsculas + sin diacríticos) y filtra por title, summary o slug en varios datasets. Ventaja: la búsqueda va en la URL y se puede compartir o refrescar sin perder estado.",
+      "en": ", normalizes (lowercase + no diacritics) and filters by title, summary or slug on multiple datasets. Advantage: the search goes in the URL and can be shared or refreshed without losing status.",
+      "es": ", normaliza (minúsculas + sin diacríticos) y filtra por title, summary o slug en varios datasets. Ventaja: la búsqueda va en la URL y se puede compartir o refrescar sin perder estado.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Todas comparten patrón: ponen un fondo específico (fondoX) en –page-bg, y renderizan con sus datos e imágenes:",
+      "en": "They all share a pattern: they put a specific background (backgroundX) in –page-bg, and render with its data and images:",
+      "es": "Todas comparten patrón: ponen un fondo específico (fondoX) en –page-bg, y renderizan con sus datos e imágenes:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Listado de los bosses del juego calificados con estrellas de dificultad.",
+      "en": "List of the game's bosses rated with difficulty stars.",
+      "es": "Listado de los bosses del juego calificados con estrellas de dificultad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Listado de bosses oníricos calificados con estrellas de dificultad.",
+      "en": "List of dream bosses rated with stars of difficulty.",
+      "es": "Listado de bosses oníricos calificados con estrellas de dificultad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Listado de variantes de bosses calificados con estrellas de dificultad.",
+      "en": "List of boss variants rated with difficulty stars.",
+      "es": "Listado de variantes de bosses calificados con estrellas de dificultad.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Listado de amuletos calificados por cantidad de muescas que ocupa.",
+      "en": "List of amulets rated by number of notches they occupy.",
+      "es": "Listado de amuletos calificados por cantidad de muescas que ocupa.",
+      "reviewed": false
+    },
+    {
+      "source": "Listado de objetos calificados por diferentes funcionalidades en el juego.",
+      "en": "List of objects qualified by different functionalities in the game.",
+      "es": "Listado de objetos calificados por diferentes funcionalidades en el juego.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Mapa interactivo con etiquetas desplegables por zona.",
+      "en": "Interactive map with drop-down labels by area.",
+      "es": "Mapa interactivo con etiquetas desplegables por zona.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El mapa aplica un fondo específico a la página mientras está abierto.",
+      "en": "The map applies a specific background to the page while it is open.",
+      "es": "El mapa aplica un fondo específico a la página mientras está abierto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La imagen principal se escala al",
+      "en": "The main image is scaled to",
+      "es": "La imagen principal se escala al",
+      "reviewed": false
+    },
+    {
+      "source": "viewport",
+      "en": "viewport",
+      "es": "viewport",
+      "reviewed": false
+    },
+    {
+      "source": "y puedes arrastrarla para moverte; un tope invisible impide salirte de los bordes.",
+      "en": "and you can drag it to move; An invisible stop prevents you from going over the edges.",
+      "es": "y puedes arrastrarla para moverte; un tope invisible impide salirte de los bordes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las áreas se renderizan como etiquetas clicables con colores propios.",
+      "en": "Areas are rendered as clickable labels with their own colors.",
+      "es": "Las áreas se renderizan como etiquetas clicables con colores propios.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La búsqueda filtra esas etiquetas y, al pulsar Enter, centra la primera coincidencia y abre su detalle (también puedes centrar con",
+      "en": "The search filters those tags and, when you press Enter, centers the first match and opens its detail (you can also center with",
+      "es": "La búsqueda filtra esas etiquetas y, al pulsar Enter, centra la primera coincidencia y abre su detalle (también puedes centrar con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "El panel de detalle muestra imagen, resumen y lore de la zona y se puede cerrar para volver a explorar.",
+      "en": "The detail panel shows image, summary and lore of the area and can be closed to explore again.",
+      "es": "El panel de detalle muestra imagen, resumen y lore de la zona y se puede cerrar para volver a explorar.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Gallery.tsx",
+      "en": "Gallery.tsx",
+      "es": "Gallery.tsx",
+      "reviewed": false
+    },
+    {
+      "source": ": componente de galería reutilizable que lista tarjetas y navega al detalle.",
+      "en": "- Reusable gallery component that lists cards and drills down.",
+      "es": ": componente de galería reutilizable que lista tarjetas y navega al detalle.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Props",
+      "en": "props",
+      "es": "Props",
+      "reviewed": false
+    },
+    {
+      "source": ": resuelve la URL buscando en",
+      "en": ": resolves the URL by searching",
+      "es": ": resuelve la URL buscando en",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "por",
+      "en": "by",
+      "es": "por",
+      "reviewed": false
+    },
+    {
+      "source": "(jpg/png/webp) o por",
+      "en": "(jpg/png/webp) or by",
+      "es": "(jpg/png/webp) o por",
+      "reviewed": false
+    },
+    {
+      "source": "; muestra",
+      "en": "; sample",
+      "es": "; muestra",
+      "reviewed": false
+    },
+    {
+      "source": "fallback",
+      "en": "fallback",
+      "es": "fallback",
+      "reviewed": false
+    },
+    {
+      "source": "con el título si no hay imagen.",
+      "en": "with the title if there is no image.",
+      "es": "con el título si no hay imagen.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Card",
+      "en": "card",
+      "es": "Card",
+      "reviewed": false
+    },
+    {
+      "source": "con título.",
+      "en": "with title.",
+      "es": "con título.",
+      "reviewed": false
+    },
+    {
+      "source": "Meta",
+      "en": "Goal",
+      "es": "Meta",
+      "reviewed": false
+    },
+    {
+      "source": ": si",
+      "en": ": yes",
+      "es": ": si",
+      "reviewed": false
+    },
+    {
+      "source": "estrellas",
+      "en": "stars",
+      "es": "estrellas",
+      "reviewed": false
+    },
+    {
+      "source": "(1–5) usando",
+      "en": "(1–5) using",
+      "es": "(1–5) usando",
+      "reviewed": false
+    },
+    {
+      "source": "; si no ⇒",
+      "en": "; if not ⇒",
+      "es": "; si no ⇒",
+      "reviewed": false
+    },
+    {
+      "source": "muescas",
+      "en": "notches",
+      "es": "muescas",
+      "reviewed": false
+    },
+    {
+      "source": "usando",
+      "en": "using",
+      "es": "usando",
+      "reviewed": false
+    },
+    {
+      "source": "Accesibilidad/maquetado",
+      "en": "Accessibility/layout",
+      "es": "Accesibilidad/maquetado",
+      "reviewed": false
+    },
+    {
+      "source": "; estrellas y muescas con",
+      "en": "; stars and notches with",
+      "es": "; estrellas y muescas con",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "; clases",
+      "en": "; classes",
+      "es": "; clases",
+      "reviewed": false
+    },
+    {
+      "source": "para estilos.",
+      "en": "for styles.",
+      "es": "para estilos.",
+      "reviewed": false
+    },
+    {
+      "source": "En /wiki/:group/:slug,",
+      "en": "In /wiki/:group/:slug,",
+      "es": "En /wiki/:group/:slug,",
+      "reviewed": false
+    },
+    {
+      "source": "WikiDetail.tsx",
+      "en": "WikiDetail.tsx",
+      "es": "WikiDetail.tsx",
+      "reviewed": false
+    },
+    {
+      "source": "lee parámetros, selecciona dataset e imagen y renderiza un layout de dos columnas: imagen grande a la izquierda; a la derecha",
+      "en": "reads parameters, selects dataset and image and renders a two-column layout: large image on the left; to the right",
+      "es": "lee parámetros, selecciona dataset e imagen y renderiza un layout de dos columnas: imagen grande a la izquierda; a la derecha",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "DETAILS",
+      "en": "DETAILS",
+      "es": "DETAILS",
+      "reviewed": false
+    },
+    {
+      "source": "(p. ej. dificultad→estrellas, efectos, drops…) y más información dependiendo de la sección. Incluye un patrón de tabla que mapea cada grupo a su dataset y su mapa de imágenes.",
+      "en": "(e.g. difficulty→stars, effects, drops...) and more information depending on the section. It includes a table pattern that maps each group to its dataset and its image map.",
+      "es": "(p. ej. dificultad→estrellas, efectos, drops…) y más información dependiendo de la sección. Incluye un patrón de tabla que mapea cada grupo a su dataset y su mapa de imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "import.meta.glob",
+      "en": "import.meta.glob",
+      "es": "import.meta.glob",
+      "reviewed": false
+    },
+    {
+      "source": "creas mapas {ruta → url} por carpeta y resuelves por",
+      "en": "you create maps {path → url} per folder and resolve by",
+      "es": "creas mapas {ruta → url} por carpeta y resuelves por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "slug",
+      "en": "slug",
+      "es": "slug",
+      "reviewed": false
+    },
+    {
+      "source": "y extensión (.jpg/.png/.webp). Funciona en dev y en build (Vite copia assets con hash).",
+      "en": "and extension (.jpg / .png / .webp). It works in dev and build (Vite copies assets with hash).",
+      "es": "y extensión (.jpg/.png/.webp). Funciona en dev y en build (Vite copia assets con hash).",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En TriviaStart configuras categoría/dificultad/cantidad, se crea un mazo barajado (Fisher–Yates) y se juega en la misma vista; al terminar, TriviaResults lee la puntuación desde sessionStorage.",
+      "en": "In TriviaStart you configure category/difficulty/quantity, a shuffled deck (Fisher–Yates) is created and played in the same view; upon completion, TriviaResults reads the score from sessionStorage.",
+      "es": "En TriviaStart configuras categoría/dificultad/cantidad, se crea un mazo barajado (Fisher–Yates) y se juega en la misma vista; al terminar, TriviaResults lee la puntuación desde sessionStorage.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Actualmente se barajan las preguntas; el barajado de respuestas es opcional y fácil de añadir después.",
+      "en": "The questions are currently being considered; response shuffling is optional and easy to add later.",
+      "es": "Actualmente se barajan las preguntas; el barajado de respuestas es opcional y fácil de añadir después.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Codigo del",
+      "en": "Code of",
+      "es": "Codigo del",
+      "reviewed": false
+    },
+    {
+      "source": "Fisher-Yates",
+      "en": "Fisher-Yates",
+      "es": "Fisher-Yates",
+      "reviewed": false
+    },
+    {
+      "source": "Página results con mensaje personalizado dependiendo el resultado:",
+      "en": "Results page with personalized message depending on the result:",
+      "es": "Página results con mensaje personalizado dependiendo el resultado:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Pequeña parte del código para mostrar el",
+      "en": "Small part of the code to show the",
+      "es": "Pequeña parte del código para mostrar el",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "resultado",
+      "en": "result",
+      "es": "resultado",
+      "reviewed": false
+    },
+    {
+      "source": "vite.config.ts",
+      "en": "vite.config.ts",
+      "es": "vite.config.ts",
+      "reviewed": false
+    },
+    {
+      "source": "(base en subcarpeta):",
+      "en": "(based on subfolder):",
+      "es": "(base en subcarpeta):",
+      "reviewed": false
+    },
+    {
+      "source": "Workflow",
+      "en": "Workflow",
+      "es": "Workflow",
+      "reviewed": false
+    },
+    {
+      "source": ".github/workflows/deploy.yml (build + deploy con Actions) y",
+      "en": ".github / workflows / deploy.yml (build + deploy with Actions) and",
+      "es": ".github/workflows/deploy.yml (build + deploy con Actions) y",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pages → Source: GitHub Actions",
+      "en": "Pages → Source: GitHub Actions",
+      "es": "Pages → Source: GitHub Actions",
+      "reviewed": false
+    },
+    {
+      "source": ". Para SPA, copia",
+      "en": ". For SPA, copy",
+      "es": ". Para SPA, copia",
+      "reviewed": false
+    },
+    {
+      "source": "index.html a 404.html",
+      "en": "index.html to 404.html",
+      "es": "index.html a 404.html",
+      "reviewed": false
+    },
+    {
+      "source": "tras el build para evitar 404 en rutas internas. Incluye también el",
+      "en": "after the build to avoid 404 on internal routes. It also includes the",
+      "es": "tras el build para evitar 404 en rutas internas. Incluye también el",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "flujo de trabajo",
+      "en": "workflow",
+      "es": "flujo de trabajo",
+      "reviewed": false
+    },
+    {
+      "source": "recomendado y una checklist (base correcto, basename en router, globs a assets, buscador responsive).",
+      "en": "recommended and a checklist (correct base, basename in router, globs to assets, responsive search engine).",
+      "es": "recomendado y una checklist (base correcto, basename en router, globs a assets, buscador responsive).",
+      "reviewed": false
+    },
+    {
+      "source": "Pide a la IA el",
+      "en": "Ask the AI for",
+      "es": "Pide a la IA el",
+      "reviewed": false
+    },
+    {
+      "source": "índice inicial",
+      "en": "initial index",
+      "es": "índice inicial",
+      "reviewed": false
+    },
+    {
+      "source": "(secciones, taxonomías, campos) y que señale huecos;",
+      "en": "(sections, taxonomies, fields) and point out gaps;",
+      "es": "(secciones, taxonomías, campos) y que señale huecos;",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Genera",
+      "en": "Generate",
+      "es": "Genera",
+      "reviewed": false
+    },
+    {
+      "source": "slugs kebab-case",
+      "en": "slugs kebab-case",
+      "es": "slugs kebab-case",
+      "reviewed": false
+    },
+    {
+      "source": "y nombres de archivo de imagen a partir de títulos;",
+      "en": "and image file names from titles;",
+      "es": "y nombres de archivo de imagen a partir de títulos;",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Redacta",
+      "en": "Write",
+      "es": "Redacta",
+      "reviewed": false
+    },
+    {
+      "source": "resúmenes de 120–160 caracteres",
+      "en": "summaries of 120–160 characters",
+      "es": "resúmenes de 120–160 caracteres",
+      "reviewed": false
+    },
+    {
+      "source": "para tarjetas y 2–3 párrafos para el detalle;",
+      "en": "for cards and 2–3 paragraphs for the detail;",
+      "es": "para tarjetas y 2–3 párrafos para el detalle;",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Crea",
+      "en": "Create",
+      "es": "Crea",
+      "reviewed": false
+    },
+    {
+      "source": "lotes de preguntas",
+      "en": "lots of questions",
+      "es": "lotes de preguntas",
+      "reviewed": false
+    },
+    {
+      "source": "(1 correcta + 3 distractores) y pega el JSON en questions.json. El barajado, la carga de imágenes y la búsqueda por URL ya están resueltos en el código.",
+      "en": "(1 correct + 3 distractors) and paste the JSON into questions.json. Shuffling, image loading, and URL searching are already taken care of in the code.",
+      "es": "(1 correcta + 3 distractores) y pega el JSON en questions.json. El barajado, la carga de imágenes y la búsqueda por URL ya están resueltos en el código.",
+      "reviewed": false
+    },
+    {
+      "source": "CODEX",
+      "en": "CODEX",
+      "es": "CODEX",
+      "reviewed": false
+    },
+    {
+      "source": "es una herramienta muy útil para el desarrollo de la wiki, y",
+      "en": "It is a very useful tool for wiki development, and",
+      "es": "es una herramienta muy útil para el desarrollo de la wiki, y",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "te enseña a obtenerla y usarla en VS Code.",
+      "en": "teaches you how to get it and use it in VS Code.",
+      "es": "te enseña a obtenerla y usarla en VS Code.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Siguiendo este esquema y mi repositorio con el proyecto completo, tendrás una wiki que",
+      "en": "Following this scheme and my repository with the complete project, you will have a wiki that",
+      "es": "Siguiendo este esquema y mi repositorio con el proyecto completo, tendrás una wiki que",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "se lee bien",
+      "en": "it reads well",
+      "es": "se lee bien",
+      "reviewed": false
+    },
+    {
+      "source": "se comparte fácil",
+      "en": "easy to share",
+      "es": "se comparte fácil",
+      "reviewed": false
+    },
+    {
+      "source": "apetece explorar",
+      "en": "feel like exploring",
+      "es": "apetece explorar",
+      "reviewed": false
+    },
+    {
+      "source": "Añade tus datasets, nombra las imágenes por",
+      "en": "Add your datasets, name the images by",
+      "es": "Añade tus datasets, nombra las imágenes por",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": ", publica con un",
+      "en": ", publishes with a",
+      "es": ", publica con un",
+      "reviewed": false
+    },
+    {
+      "source": "push",
+      "en": "push",
+      "es": "push",
+      "reviewed": false
+    },
+    {
+      "source": "y listo.",
+      "en": "and that's it.",
+      "es": "y listo.",
+      "reviewed": false
+    },
+    {
+      "source": "Si te animas, amplía categorías, añade relaciones entre fichas o más minijuegos:",
+      "en": "If you feel like it, expand categories, add relationships between tiles or more mini-games:",
+      "es": "Si te animas, amplía categorías, añade relaciones entre fichas o más minijuegos:",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "la arquitectura está pensada para crecer",
+      "en": "architecture is designed to grow",
+      "es": "la arquitectura está pensada para crecer",
+      "reviewed": false
+    },
+    {
+      "source": "Fan-made",
+      "en": "Fan-made",
+      "es": "Fan-made",
+      "reviewed": false
+    },
+    {
+      "source": "Proyecto Wiki",
+      "en": "Wiki Project",
+      "es": "Proyecto Wiki",
+      "reviewed": false
+    },
+    {
+      "source": "Trivia game",
+      "en": "Trivia game",
+      "es": "Trivia game",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 oct 2025.",
+      "en": "A history of the Saturdays.AI community. Originally published on Oct 22, 2025.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 22 oct 2025.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    }
+  ]
+}

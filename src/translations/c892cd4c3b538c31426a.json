@@ -1,0 +1,839 @@
+{
+  "title": "Detección Temprana de Incendios en Áreas Forestales con Inteligencia Artificial- Parte I",
+  "route": "/2021/11/19/deteccion-temprana-de-incendios-en-areas-forestales-con-inteligencia-artificial-parte-idet/",
+  "segments": [
+    {
+      "source": "Detección Temprana de Incendios en Áreas Forestales con Inteligencia Artificial- Parte I",
+      "en": "Early Fire Detection in Forest Areas with Artificial Intelligence - Part I",
+      "es": "Detección Temprana de Incendios en Áreas Forestales con Inteligencia Artificial- Parte I",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Quito. 2021 ¿Sabes cuántas hectáreas se queman cada año por causa de incendios forestales? ¿Sabías que producto de esto muchas especies dejan su hábitat en busca de un nuevo hogar?¿Me creerías si te dijera que podemos utilizar…",
+      "en": "Quito. 2021 Do you know how many hectares are burned each year because of forest fires? Did you know that many species leave their habitat for a new home? Would you believe me if I told you we can use...",
+      "es": "Quito. 2021 ¿Sabes cuántas hectáreas se queman cada año por causa de incendios forestales? ¿Sabías que producto de esto muchas especies dejan su hábitat en busca de un nuevo hogar?¿Me creerías si te dijera que podemos utilizar…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Wilfredo Martel",
+      "en": "Wilfredo Martel",
+      "es": "Wilfredo Martel",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Sabes cuántas hectáreas se queman cada año por causa de incendios forestales? ¿Sabías que producto de esto muchas especies dejan su hábitat en busca de un nuevo hogar?¿Me creerías si te dijera que podemos utilizar la tecnología sobre todo la Inteligencia Artificial para disminuir el impacto de los incendios forestales? En este artículo, utilizaremos la Inteligencia Artificial para detectar de forma temprana incendios en áreas forestales.",
+      "en": "Do you know how many hectares are burned each year because of forest fires? Did you know that many species leave their habitat in search of a new home? Would you believe me if I told you that we can use the technology above all Artificial Intelligence to reduce the impact of forest fires? In this article, we will use Artificial Intelligence to detect fires in forest areas early.",
+      "es": "¿Sabes cuántas hectáreas se queman cada año por causa de incendios forestales? ¿Sabías que producto de esto muchas especies dejan su hábitat en busca de un nuevo hogar?¿Me creerías si te dijera que podemos utilizar la tecnología sobre todo la Inteligencia Artificial para disminuir el impacto de los incendios forestales? En este artículo, utilizaremos la Inteligencia Artificial para detectar de forma temprana incendios en áreas forestales.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Yoal igual que tú estaba un poco escéptico al inicio, pero déjame contarte cómo el ser humano puede ayudarse de la tecnología para frenar estos atentados contra la madre naturaleza. Por eso te invito a leer nuestra idea de cómo detectar incendios desde sus etapas muy tempranas para poder frenarlos y así evitar grandes desastres. ¿Te imaginas un mundo donde podamos minimizar este tipo de incendios forestales? Pues aquí colocamos casi todo lo que necesitas para llevar a cabo este proyecto y te conviertas en un defensor de la Pachamama.",
+      "en": "Yoal as you were a little skeptical at the beginning, but let me tell you how human beings can help themselves from technology to stop these attacks on mother nature. That's why I invite you to read our idea of how to detect fires from their very early stages to stop them and so avoid major disasters. Can you imagine a world where we can minimize this type of forest fires? For here we place almost everything you need to carry out this project and become a Pachamama advocate.",
+      "es": "Yoal igual que tú estaba un poco escéptico al inicio, pero déjame contarte cómo el ser humano puede ayudarse de la tecnología para frenar estos atentados contra la madre naturaleza. Por eso te invito a leer nuestra idea de cómo detectar incendios desde sus etapas muy tempranas para poder frenarlos y así evitar grandes desastres. ¿Te imaginas un mundo donde podamos minimizar este tipo de incendios forestales? Pues aquí colocamos casi todo lo que necesitas para llevar a cabo este proyecto y te conviertas en un defensor de la Pachamama.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Primero pasos",
+      "en": "First steps",
+      "es": "Primeros pasos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La idea del proyecto para detectar incendios forestales mediante Inteligencia Artificial comenzó una tarde en el taller que llevábamos en Saturday AI y con los compañeros: Luis Marcelo Viteri Aguilar, Danilo Josue Erazo Quinaluisa, Jonathan Alejandro Zambrano Mejía y Wilfredo Martel; decidimos hacer frente a esta problemática.",
+      "en": "The idea of the project to detect forest fires through Artificial Intelligence began one afternoon in the workshop that we carried in Saturday AI and with the companions: Luis Marcelo Viteri Aguilar, Danilo Josue Erazo Quinaluisa, Jonathan Alejandro Zambrano Mejía and Wilfredo Martel; we decided to address this problem.",
+      "es": "La idea del proyecto para detectar incendios forestales mediante Inteligencia Artificial comenzó una tarde en el taller que llevábamos en Saturday AI y con los compañeros: Luis Marcelo Viteri Aguilar, Danilo Josue Erazo Quinaluisa, Jonathan Alejandro Zambrano Mejía y Wilfredo Martel; decidimos hacer frente a esta problemática.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Idea General",
+      "en": "General idea",
+      "es": "Idea General",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La idea del proyecto de Detección Temprana de Incendios Forestales es utilizar la Inteligencia Artificial con ayuda de un Dron compuesto con un GPS y una cámara para que escaneen áreas forestales y en caso de detectar incendio envíen la alarma a un servidor principal que se encargará de notificar a los bomberos y comunidades aledañas informándoles con una foto del sector, la posición en un mapa y el porcentaje de estimación con la finalidad de evitar que se propague el incendio y arrase con la flora y fauna del sector.",
+      "en": "The idea of the Early Forest Fire Detection project is to use Artificial Intelligence with the help of a Dron composed of a GPS and a camera to scan forest areas and in the event of a fire detection send the alarm to a main server that will be in charge of notifying firefighters and surrounding communities by informing them with a picture of the sector, the position on a map and the percentage of estimate in order to prevent the fire from spreading and taking root with the flora and fauna of the sector.",
+      "es": "La idea del proyecto de Detección Temprana de Incendios Forestales es utilizar la Inteligencia Artificial con ayuda de un Dron compuesto con un GPS y una cámara para que escaneen áreas forestales y en caso de detectar incendio envíen la alarma a un servidor principal que se encargará de notificar a los bomberos y comunidades aledañas informándoles con una foto del sector, la posición en un mapa y el porcentaje de estimación con la finalidad de evitar que se propague el incendio y arrase con la flora y fauna del sector.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Esquema del funcionamiento",
+      "en": "Operating outline",
+      "es": "Esquema del funcionamiento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Enel 2020, más de",
+      "en": "In 2020, more than",
+      "es": "Enel 2020, más de",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "5.5 millones",
+      "en": "5.5 million",
+      "es": "5,5 millones",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de hectáreas fueron devastadas por incendios forestales a nivel mundial teniendo un gran impacto sobre la flora y fauna salvaje que habitaba en esta área.",
+      "en": "of hectares were devastated by forest fires worldwide having a great impact on the wildlife that lived in this area.",
+      "es": "de hectáreas fueron devastadas por incendios forestales a nivel mundial teniendo un gran impacto sobre la flora y fauna salvaje que habitaba en esta área.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En Ecuador, en el mismo año se perdieron aproximadamente",
+      "en": "In Ecuador, in the same year, approximately",
+      "es": "En Ecuador, en el mismo año se perdieron aproximadamente",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "hectáreas y debido a la estructura montañosa de los lugares es complicado para los bomberos llegar a tiempo. El fuego devastador devoró todo a sus alrededores y tuvieron que pasar en el mejor de los casos semanas para mitigar el incendio y en el peor de los casos meses.",
+      "en": "The devastating fire devoured everything to its surroundings and had to pass in the best of the weeks to mitigate the fire and in the worst of the months.",
+      "es": "hectáreas y debido a la estructura montañosa de los lugares es complicado para los bomberos llegar a tiempo. El fuego devastador devoró todo a sus alrededores y tuvieron que pasar en el mejor de los casos semanas para mitigar el incendio y en el peor de los casos meses.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ante este alarmante problema con impacto social y ambiental se pensaron soluciones que ayuden a detectar a tiempo los incendios forestales, es entonces cómo surge la idea de fusionar la Inteligencia Artificial (de ahora en adelante I.A.) con un dron para la detección temprana de incendios en las áreas forestales de nuestro país. La idea consiste en entrenar un modelo de I.A. (detectar fuego en cualquier superficie) que interactúe con el dron el cual dispondrá de una cámara y un",
+      "en": "In the face of this alarming problem with social and environmental impact, solutions were thought to help detect forest fires in time, and this is how the idea of merging Artificial Intelligence (now I.A.) with a drone for early detection of fires in the forest areas of our country arises. The idea is to train an I.A. model (detect fire on any surface) that interacts with the drone that will have a camera and a",
+      "es": "Ante este alarmante problema con impacto social y ambiental se pensaron soluciones que ayuden a detectar a tiempo los incendios forestales, es entonces cómo surge la idea de fusionar la Inteligencia Artificial (de ahora en adelante I.A.) con un dron para la detección temprana de incendios en las áreas forestales de nuestro país. La idea consiste en entrenar un modelo de I.A. (detectar fuego en cualquier superficie) que interactúe con el dron el cual dispondrá de una cámara y un",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "GPS",
+      "en": "GPS",
+      "es": "GPS",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ", por lo tanto, en tiempo real se sabrá la posición del incendio y enviará una alarma a los bomberos para su mitigación.",
+      "en": ", therefore, in real time the fire position will be known and will send an alarm to the fire fighters for mitigation.",
+      "es": ", por lo tanto, en tiempo real se sabrá la posición del incendio y enviará una alarma a los bomberos para su mitigación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase de Ejecución",
+      "en": "Implementation phase",
+      "es": "Fase de Ejecución",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para llevar a cabo la ejecución de este grandioso prototipo, que desde ya se observa a la distancia los beneficios, se realizó en cinco fases:",
+      "en": "To carry out the execution of this great prototype, which from now on the benefits are observed at a distance, it was carried out in five phases:",
+      "es": "Para llevar a cabo la ejecución de este grandioso prototipo, que desde ya se observa a la distancia los beneficios, se realizó en cinco fases:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fase de recolección de datos (",
+      "en": "Data collection phase (",
+      "es": "Fase de recolección de datos (",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "dataset",
+      "en": "dataset",
+      "es": "Dataset",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Investigación previa de modelo Pre-entrenados de I.A.",
+      "en": "Pre-trained I.A. model research",
+      "es": "Investigación previa de modelo Pre-entrenados de I.A.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Reentrenamiento y Validación del modelo",
+      "en": "Retraining and Validation of Model",
+      "es": "Reentrenamiento y Validación del modelo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Deployment del modelo",
+      "en": "Model deployment",
+      "es": "Deployment del modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Desarrollo de un sitio Web para presentación del Prototipo",
+      "en": "Development of a Prototype presentation website",
+      "es": "Desarrollo de un sitio Web para presentación del Prototipo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Antes de continuar se aclara que la fase de integración con el dron, el servidor, notificación a las comunidades y bomberos queda pendiente para la segunda parte de este artículo.",
+      "en": "It is made clear before continuing that the integration phase with the drone, the server, notification to the communities and fire is pending for the second part of this article.",
+      "es": "Antes de continuar se aclara que la fase de integración con el dron, el servidor, notificación a las comunidades y bomberos queda pendiente para la segunda parte de este artículo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "1. Fase de recolección de datos e Investigación de modelos para Clasificación de Imágenes",
+      "en": "1. Data collection and Model Research Phase for Image Classification",
+      "es": "1. Fase de recolección de datos e Investigación de modelos para Clasificación de Imágenes",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Esta fase se enfocó en la recolección de imágenes de incendios forestales ocasionados alrededor del mundo y en nuestro país. Se logró obtener un total de",
+      "en": "This phase focused on the collection of images of forest fires caused around the world and in our country.",
+      "es": "Esta fase se enfocó en la recolección de imágenes de incendios forestales ocasionados alrededor del mundo y en nuestro país. Se logró obtener un total de",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "250 MB",
+      "en": "250 MB",
+      "es": "250 MB",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de información la cual se empleará como entrada para el aprendizaje de nuestro modelo.",
+      "en": "information which will be used as an input for the learning of our model.",
+      "es": "de información la cual se empleará como entrada para el aprendizaje de nuestro modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez ya obtenido el dataset, como una tarea en paralelo se realizó una investigación de modelos de I.A. clasificadores de imágenes y el que escogimos debido a su efectividad fue",
+      "en": "Once the dataset has been obtained, as a parallel task, an investigation of models of I.A. image classifiers was carried out and the one we chose because of its effectiveness was",
+      "es": "Una vez ya obtenido el dataset, como una tarea en paralelo se realizó una investigación de modelos de I.A. clasificadores de imágenes y el que escogimos debido a su efectividad fue",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Yolo v5",
+      "en": "Yolo v5",
+      "es": "Yolo v5",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Esto a la vez significa que se tiene que realizar un proceso de anotación que consiste en dar las coordenadas del segmento a caracterizar dentro de una imagen.",
+      "en": ". This at the same time means that you have to perform a notation process that consists of giving the coordinates of the segment to characterize within an image.",
+      "es": ". Esto a la vez significa que se tiene que realizar un proceso de anotación que consiste en dar las coordenadas del segmento a caracterizar dentro de una imagen.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En otras palabras, explicaremos lo que implica en nuestro dataset el utilizar Yolo v5:",
+      "en": "In other words, we will explain what it means in our dataset to use Yolo v5:",
+      "es": "En otras palabras, explicaremos lo que implica en nuestro dataset el utilizar Yolo v5:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "1. Se debe anotar o indicar los segmentos a aprender dentro de la imagen. En nuestro caso son poner las coordenadas donde hay fuego y de esta manera la herramienta Yolo V5 pueda aprender y obtener patrones de diferenciación. Para saber más sobre el proceso de anotación de Yolo v5 se recomienda echar una lectura a este",
+      "en": "1. The segments to learn within the image should be annotated or indicated. In our case they are to put the coordinates where there is fire and thus the Yolo V5 tool can learn and obtain differentiation patterns. To know more about the Yolo v5 notation process it is recommended to read to this",
+      "es": "1. Se debe anotar o indicar los segmentos a aprender dentro de la imagen. En nuestro caso son poner las coordenadas donde hay fuego y de esta manera la herramienta Yolo V5 pueda aprender y obtener patrones de diferenciación. Para saber más sobre el proceso de anotación de Yolo v5 se recomienda echar una lectura a este",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "enlace",
+      "en": "enlace",
+      "es": "enlace",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "para despejar sus dudas.",
+      "en": "to clear your doubts.",
+      "es": "para despejar sus dudas.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. Para el proceso de anotación se utilizó una herramienta de mucha ayuda llamada",
+      "en": "2. A tool of much help called the \"",
+      "es": "2. Para el proceso de anotación se utilizó una herramienta de mucha ayuda llamada",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "HyperLabel",
+      "en": "HyperLabel",
+      "es": "HyperLabel",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que la encontramos en",
+      "en": "that we found it in",
+      "es": "que la encontramos en",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3. Una vez que se obtuvo las anotaciones, que básicamente es un archivo xml que hace alusión a la imagen con sus coordenadas, se procede a generar un archivo para el formato de Yolo v5. Para este proceso se siguió el código github",
+      "en": "3. Once the annotations were obtained, which is basically a xml file that alludes to the image with its coordinates, a file is generated for the Yolo v5 format. For this process, the Github code was followed.",
+      "es": "3. Una vez que se obtuvo las anotaciones, que básicamente es un archivo xml que hace alusión a la imagen con sus coordenadas, se procede a generar un archivo para el formato de Yolo v5. Para este proceso se siguió el código github",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "ai-coodiantor",
+      "en": "Ai-coodiantor",
+      "es": "ai-coodiantor",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con estos pasos ya ejecutados, se tiene preparado el entrenamiento personalizado con nuestro propio dataset.",
+      "en": "With these steps already implemented, we have prepared the custom training with our own dataset.",
+      "es": "Con estos pasos ya ejecutados, se tiene preparado el entrenamiento personalizado con nuestro propio dataset.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. Reentrenamiento y Validación del modelo",
+      "en": "2. Retraining and Validation of the Model",
+      "es": "2. Reentrenamiento y Validación del modelo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para la parte de entrenamiento del modelo ya pre-entrenado se utilizó Google Colab Pro con GPU v100 y un tiempo estimado de 12 horas para su finalización. Al finalizar el proceso se obtuvo como resultado del entrenamiento un modelo de inferencia con extensión .pt. En nuestro caso, nuestro archivo",
+      "en": "For the training part of the pre-trained model, Google Colab Pro was used with GPU v100 and an estimated 12-hour time for its completion. At the end of the process a model of inference with .pt. was obtained as a result of the training.",
+      "es": "Para la parte de entrenamiento del modelo ya pre-entrenado se utilizó Google Colab Pro con GPU v100 y un tiempo estimado de 12 horas para su finalización. Al finalizar el proceso se obtuvo como resultado del entrenamiento un modelo de inferencia con extensión .pt. En nuestro caso, nuestro archivo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "fireModel.pt",
+      "en": "fireModel.pt",
+      "es": "FireModel.pt",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que servirá de insumo para inferir sobre imágenes de prueba. Antes de avanzar hay que aclarar que este modelo una vez que pase todas las pruebas, se pondrá en un dron mediante una placa Nvidia Jetson TX2 para su procesamiento en tiempo real, en donde cuando se detecte algún indicio de incendio forestal se proceda a enviar la alarma a instituciones tales como: Bomberos, Comunidades aledañas etc.",
+      "en": "It will be used as an input to infer on test images. Before moving forward, it must be made clear that this model once all the tests pass, will be put on a drone by means of a Nvidia Jetson TX2 plate for real-time processing, where when any sign of forest fire is detected, the alarm will be sent to institutions such as: Fire fighters, surrounding communities etc.",
+      "es": "que servirá de insumo para inferir sobre imágenes de prueba. Antes de avanzar hay que aclarar que este modelo una vez que pase todas las pruebas, se pondrá en un dron mediante una placa Nvidia Jetson TX2 para su procesamiento en tiempo real, en donde cuando se detecte algún indicio de incendio forestal se proceda a enviar la alarma a instituciones tales como: Bomberos, Comunidades aledañas etc.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A continuación, en la Ilustración 2 se muestra el",
+      "en": "Then in Illustration 2 is shown the",
+      "es": "A continuación, en la Ilustración 2 se muestra el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "código",
+      "en": "code",
+      "es": "código",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "que se utilizó para entrenar el modelo de detección de incendios.",
+      "en": "used to train the fire detection model.",
+      "es": "que se utilizó para entrenar el modelo de detección de incendios.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Modelo de entrenamiento de Yolov5",
+      "en": "Yolov5 training model",
+      "es": "Modelo de entrenamiento de Yolov5",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "3. Deployment del modelo",
+      "en": "3. Model deployment",
+      "es": "3. Deployment del modelo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una vez que se obtuvo el modelo fireModel.pt se procedió a realizar un pequeño aplicativo en Python utilizando Flask como servidor de aplicaciones. Es decir, en Flask se tendrá una API que recibirá la imagen a inferir y el modelo fireModel.pt nos retornará el resultado y la sección donde se ha detectado el incendio en la foto con su respectivo porcentaje de predicción. A continuación, en la Ilustración 3 se muestra el código que realiza la descripción previa.",
+      "en": "Once the fireModel.pt model was obtained, a small application was made in Python using Flask as an application server. In other words, in Flask you will have an API that will receive the image to infer and the fireModel.pt model will return the result and the section where the fire has been detected in the photo with its respective prediction percentage. Then, in Illustration 3 the code that makes the previous description is shown.",
+      "es": "Una vez que se obtuvo el modelo fireModel.pt se procedió a realizar un pequeño aplicativo en Python utilizando Flask como servidor de aplicaciones. Es decir, en Flask se tendrá una API que recibirá la imagen a inferir y el modelo fireModel.pt nos retornará el resultado y la sección donde se ha detectado el incendio en la foto con su respectivo porcentaje de predicción. A continuación, en la Ilustración 3 se muestra el código que realiza la descripción previa.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "app",
+      "en": "app",
+      "es": "app",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "py",
+      "en": "py",
+      "es": "py",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Enlace",
+      "en": "Enlace",
+      "es": "Enlace",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "del código.",
+      "en": "code.",
+      "es": "del código.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A continuación, en la Ilustración 4 se muestra la prueba del modelo usando Postman.",
+      "en": "The model test using Postman is then shown in Illustration 4.",
+      "es": "A continuación, en la Ilustración 4 se muestra la prueba del modelo usando Postman.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Resultado de la Inferencia del modelo entrenado",
+      "en": "Results of Inference of the trained model",
+      "es": "Resultado de la Inferencia del modelo entrenado",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "4. Desarrollo de un sitio Web para presentación del Prototipo",
+      "en": "4. Development of a Prototype presentation website",
+      "es": "4. Desarrollo de un sitio Web para presentación del Prototipo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para nuestro prototipo se desarrolló una Landing Page que permite cargar una imagen la cual será enviada al servidor para su procesamiento para que una vez terminada la inferencia de la imagen, los resultados se envíen al cliente con las posiciones de donde se ha detectado el incendio y el porcentaje de predicción.",
+      "en": "For our prototype, a Landing Page was developed that allows you to load an image which will be sent to the server for processing so that once the image inference has been completed, the results will be sent to the client with the positions from which the fire has been detected and the percentage of prediction.",
+      "es": "Para nuestro prototipo se desarrolló una Landing Page que permite cargar una imagen la cual será enviada al servidor para su procesamiento para que una vez terminada la inferencia de la imagen, los resultados se envíen al cliente con las posiciones de donde se ha detectado el incendio y el porcentaje de predicción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las herramientas utilizadas para la página web son:",
+      "en": "The tools used for the website are:",
+      "es": "Las herramientas utilizadas para la página web son:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "1. Angular 2+",
+      "en": "1. Angular 2 +",
+      "es": "1. Angular 2+",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "2. Angular Material",
+      "en": "2. Angle Material",
+      "es": "2. Material angular",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Por otro lado, para pintar los resultados de la inferencia se utilizó canvas para posteriormente dibujar las coordenadas dentro de la imagen cargada. Vale la pena mencionar que, al momento de pintar las coordenadas debido a que las dimensiones no son las mismas se tuvo que adecuar de tal manera que todas tengan las mismas dimensiones. A continuación, en la Ilustración 5 se muestra el código.",
+      "en": "On the other hand, in order to paint the results of the inference, cams were used to draw the coordinates within the charged image. It is worth mentioning that, at the time of painting the coordinates because the dimensions are not the same, they had to be adjusted in such a way that all have the same dimensions. Then, in Illustration 5 the code is shown.",
+      "es": "Por otro lado, para pintar los resultados de la inferencia se utilizó canvas para posteriormente dibujar las coordenadas dentro de la imagen cargada. Vale la pena mencionar que, al momento de pintar las coordenadas debido a que las dimensiones no son las mismas se tuvo que adecuar de tal manera que todas tengan las mismas dimensiones. A continuación, en la Ilustración 5 se muestra el código.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Función de transformación de las coordenadas de yolo v5 al frontal",
+      "en": "Transformation function of the v5-to-front yolo coordinates",
+      "es": "Función de transformación de las coordenadas de yolo v5 al frontal",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Finalmente, en la siguiente ilustración se muestra la Landing Page y los resultados del modelo.",
+      "en": "Finally, the following illustration shows the Landing Page and the model results.",
+      "es": "Finalmente, en la siguiente ilustración se muestra la Landing Page y los resultados del modelo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Landing page para presentación del demoday",
+      "en": "Landing page for demoday presentation",
+      "es": "Landing page para presentación del demoday",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Inferencia del modelo sobre una imagen de prueba",
+      "en": "Model Inference over a Test Image",
+      "es": "Inferencia del modelo sobre una imagen de prueba",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "5. Resultado del Entrenamiento",
+      "en": "5. Training outcome",
+      "es": "5. Resultado del Entrenamiento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los resultados obtenidos durante el entrenamiento son muy alentadores a pesar de haber trabajado con un dataset no tan grande. Se ha alcanzado un porcentaje de predicción del",
+      "en": "The results obtained during the training are very encouraging despite having worked with a not so large dataset.",
+      "es": "Los resultados obtenidos durante el entrenamiento son muy alentadores a pesar de haber trabajado con un dataset no tan grande. Se ha alcanzado un porcentaje de predicción del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "% lo cual es aceptable. Además, se tiene que las pruebas realizadas con imágenes con incendios forestales, se pudo detectar el incendio absolutamente en todas. Estas imágenes contenían incendios a la luz del sol, faltaría realizar pruebas con imágenes que contengan incendios forestales nocturnos.",
+      "en": "In addition, the tests carried out with forest fires, the fire could be detected absolutely in all of them. These images contained sun-light fires, there would be a lack of testing with images containing night forest fires.",
+      "es": "% lo cual es aceptable. Además, se tiene que las pruebas realizadas con imágenes con incendios forestales, se pudo detectar el incendio absolutamente en todas. Estas imágenes contenían incendios a la luz del sol, faltaría realizar pruebas con imágenes que contengan incendios forestales nocturnos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la Figura 1, se muestra el desempeño de nuestro algoritmo con una predicción del",
+      "en": "In Figure 1, we show the performance of our algorithm with a prediction of",
+      "es": "En la Figura 1, se muestra el desempeño de nuestro algoritmo con una predicción del",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de acierto.",
+      "en": "right.",
+      "es": "de acierto.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Curva de Precisión de Recuperación (PR)",
+      "en": "Recovery Precision Curve (PR)",
+      "es": "Curva de Precisión de Recuperación (PR)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La curva PR se la utilizó para la evaluación de rendimiento de nuestro modelo. En la Figura se observa que el AP(Promedio de Precisión) es de 0.5, un nivel de precisión normal para empezar. Para conocimiento general, si este valor se acerque más a 1 será mucho mejor el",
+      "en": "The PR curve was used for the performance evaluation of our model. The Figure shows that the AP (Average Precision) is 0.5, a normal level of accuracy to begin with. For general knowledge, if this value is closer to 1 it will be much better to",
+      "es": "La curva PR se la utilizó para la evaluación de rendimiento de nuestro modelo. En la Figura se observa que el AP(Promedio de Precisión) es de 0.5, un nivel de precisión normal para empezar. Para conocimiento general, si este valor se acerque más a 1 será mucho mejor el",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "nivel de precisión",
+      "en": "precision level",
+      "es": "nivel de precisión",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "de nuestro modelo.",
+      "en": "of our model.",
+      "es": "de nuestro modelo.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Curva PR del modelo tuneado",
+      "en": "PR curve of the tuned model",
+      "es": "Curva PR del modelo tuneado",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Se requiere un mayor poder computacional para entrenar modelos que tardan más de 12 horas en terminar el proceso de aprendizaje y los mismos tengan un buen porcentaje de confianza en la predicción.",
+      "en": "More computer power is required to train models that take more than 12 hours to complete the learning process and they have a good percentage of confidence in prediction.",
+      "es": "Se requiere un mayor poder computacional para entrenar modelos que tardan más de 12 horas en terminar el proceso de aprendizaje y los mismos tengan un buen porcentaje de confianza en la predicción.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El modelo tiene un tiempo corto de respuesta para la inferencia y esto es útil una vez que esté montado en el dron para la vigilancia de los bosques.",
+      "en": "The model has a short response time for inference and this is useful once it is mounted on the drone for forest monitoring.",
+      "es": "El modelo tiene un tiempo corto de respuesta para la inferencia y esto es útil una vez que esté montado en el dron para la vigilancia de los bosques.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Después de realizar varios experimentos con el modelo se ve un potencial enorme que se puede explotar para detección de incendios de todo tipo.",
+      "en": "After several experiments with the model you see a huge potential that can be exploited for fire detection of all kinds.",
+      "es": "Después de realizar varios experimentos con el modelo se ve un potencial enorme que se puede explotar para detección de incendios de todo tipo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "“Nunca se alcanza la verdad total, ni nunca se está totalmente alejado de ella”. Aristóteles",
+      "en": "\"The total truth is never reached, nor is it ever completely far from it.\"",
+      "es": "“Nunca se alcanza la verdad total, ni nunca se está totalmente alejado de ella”. Aristóteles",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "(384 AC-322 AC)",
+      "en": "(384 AC-322 AC)",
+      "es": "(384 AC-322 AC)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Detección De Incendios",
+      "en": "Fire detection",
+      "es": "Detección De Incendios",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Fire Detection",
+      "en": "Fire Detection",
+      "es": "Detección de incendios",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Yolov5",
+      "en": "Yolov5",
+      "es": "Yolov5",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Incendios Forestales",
+      "en": "Forest fires",
+      "es": "Incendios Forestales",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "AI",
+      "en": "AI",
+      "es": "AI",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "I am a very curious and sometimes an intrepid person. I love learning and build new things.",
+      "en": "I am a very curious and sometimes an intrepid person. I love learning and build new things.",
+      "es": "Soy una persona muy curiosa y a veces intrépida. Me encanta aprender y construir cosas nuevas.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education.",
+      "en": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education.",
+      "es": "Saturdays.AI es una organización centrada en el impacto en una misión para empoderar a diversos individuos para aprender Inteligencia Artificial de una manera colaborativa y basada en proyectos, más allá del camino convencional de la educación tradicional.",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Acción por el Clima",
+      "en": "Climate Action",
+      "es": "Acción por el Clima",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "YoloV5",
+      "en": "YoloV5",
+      "es": "YoloV5",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Contenedor de residuos educativo inteligente",
+      "en": "Intelligent educational waste container",
+      "es": "Contenedor de residuos educativos inteligente",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Machine Learning aplicado al Huerto Inteligente",
+      "en": "Machine Learning aplicado al Huerto Inteligente",
+      "es": "Machine Learning aplicado al Huerto Inteligente",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Predicción de zonas de desertificación usando IA.",
+      "en": "Prevention of desertification areas using IA.",
+      "es": "Predicción de zonas de desertificación usando IA.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

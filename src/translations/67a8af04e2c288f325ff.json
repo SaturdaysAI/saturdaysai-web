@@ -1,0 +1,157 @@
+{
+  "title": "Detección de enfermedades cardiovasculares con HEALTHBOT.AI",
+  "route": "/2021/12/13/healthbot-ai/",
+  "segments": [
+    {
+      "source": "Detección de enfermedades cardiovasculares con HEALTHBOT.AI",
+      "en": "Detection of cardiovascular diseases with HEALTHBOT.AI",
+      "es": "Detección de enfermedades cardiovasculares con HEALTHBOT.AI",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran…",
+      "en": "Due to the pandemic that we are currently experiencing worldwide, one of the most immediate problems that has been observed is the lack of medical personnel in hospitals in general and to care for people who suffer...",
+      "es": "Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran…",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Contexto y problemática",
+      "en": "Context and problem",
+      "es": "Contexto y problemática",
+      "reviewed": false
+    },
+    {
+      "source": "Propuesta de Solución",
+      "en": "Solution Proposal",
+      "es": "Propuesta de Solución",
+      "reviewed": false
+    },
+    {
+      "source": "Desarollo del proyecto",
+      "en": "Project development",
+      "es": "Desarollo del proyecto",
+      "reviewed": false
+    },
+    {
+      "source": "Modelo de predicción de riesgo de enfermedades cardiovasculares",
+      "en": "Cardiovascular disease risk prediction model",
+      "es": "Modelo de predicción de riesgo de enfermedades cardiovasculares",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Descripción Técnica del Proyecto",
+      "en": "Technical Description of the Project",
+      "es": "Descripción Técnica del Proyecto",
+      "reviewed": false
+    },
+    {
+      "source": "Créditos",
+      "en": "Credits",
+      "es": "Créditos",
+      "reviewed": false
+    },
+    {
+      "source": "Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran alguna otra enfermedad diferente al COVID-19. De acuerdo con esta información, el objetivo de este trabajo es realizar un chatbot que permita una fácil identificación temprana de enfermedades que han sido foco de defunciones a nivel mundial, así como poder ayudar con el seguimiento en los pacientes, de una manera mucho más accesible. Para primer prototipo y con la información que se tiene, se empezará a trabajar con la detección de enfermedades cardiovasculares. Como trabajos futuros, se pretende utilizar el sistema desarrollado, en alguna institución de salud pública, para detectar otras enfermedades que han sido las principales causas de muerte en México.",
+      "en": "Due to the pandemic that we are currently experiencing worldwide, one of the most immediate problems that has been observed is the lack of medical personnel in hospitals in general and to care for people suffering from a disease other than COVID-19. According to this information, the objective of this work is to create a chatbot that allows easy early identification of diseases that have been the focus of deaths worldwide, as well as being able to help with patient follow-up, in a much more accessible way. For the first prototype and with the information we have, work will begin with the detection of cardiovascular diseases. As future work, it is intended to use the developed system, in some public health institution, to detect other diseases that have been the main causes of death in Mexico.",
+      "es": "Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran alguna otra enfermedad diferente al COVID-19. De acuerdo con esta información, el objetivo de este trabajo es realizar un chatbot que permita una fácil identificación temprana de enfermedades que han sido foco de defunciones a nivel mundial, así como poder ayudar con el seguimiento en los pacientes, de una manera mucho más accesible. Para primer prototipo y con la información que se tiene, se empezará a trabajar con la detección de enfermedades cardiovasculares. Como trabajos futuros, se pretende utilizar el sistema desarrollado, en alguna institución de salud pública, para detectar otras enfermedades que han sido las principales causas de muerte en México.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "De acuerdo con la información proporcionada por la OMS(Organización Mundial de la Salud), 7 de las 10 principales causas de muerte han sido por enfermedades no transmisibles. De las cuales se necesita prestar una mayor atención en las enfermedades cardiovasculares, el cáncer, la diabetes y las neumopatías crónicas, y de reducir los traumatismos.",
+      "en": "According to information provided by the WHO (World Health Organization), 7 of the 10 main causes of death have been due to non-communicable diseases. Of which greater attention needs to be paid to cardiovascular diseases, cancer, diabetes and chronic lung diseases, and to reduce trauma.",
+      "es": "De acuerdo con la información proporcionada por la OMS(Organización Mundial de la Salud), 7 de las 10 principales causas de muerte han sido por enfermedades no transmisibles. De las cuales se necesita prestar una mayor atención en las enfermedades cardiovasculares, el cáncer, la diabetes y las neumopatías crónicas, y de reducir los traumatismos.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Las enfermedades cardiovasculares han sido una de las principales causas de muerte en el mundo. Con las cifras obtenidas en el año 2012, hubo 17,5 millones defunciones registradas a nivel mundial. Más del 80% de las defunciones, afectan principalmente a los países bajos y medios, de igual manera en hombres como en mujeres. En México, el 77% de las muertes en adultos, se debe a enfermedades cardiovasculares, por lo cual está implicado los factores de riesgos como que el 17% de la población es fumadora, el 22.8% sufre de hipertensión y 1 de cada 3 adultos, son obesos. De los cuales, la obesidad ha sido uno de los principales factores de riesgo. Esto debido al gran consumo de azúcar, y la falta de educación sobre estos temas en el país.",
+      "en": "Cardiovascular diseases have been one of the main causes of death in the world. With the figures obtained in 2012, there were 17.5 million deaths registered worldwide. More than 80% of deaths mainly affect the low and middle countries, equally in men and women. In Mexico, 77% of deaths in adults are due to cardiovascular diseases, which is why risk factors are involved, such as 17% of the population being smokers, 22.8% suffering from hypertension and 1 in 3 adults being obese. Of which, obesity has been one of the main risk factors. This is due to the high consumption of sugar, and the lack of education on these issues in the country.",
+      "es": "Las enfermedades cardiovasculares han sido una de las principales causas de muerte en el mundo. Con las cifras obtenidas en el año 2012, hubo 17,5 millones defunciones registradas a nivel mundial. Más del 80% de las defunciones, afectan principalmente a los países bajos y medios, de igual manera en hombres como en mujeres. En México, el 77% de las muertes en adultos, se debe a enfermedades cardiovasculares, por lo cual está implicado los factores de riesgos como que el 17% de la población es fumadora, el 22.8% sufre de hipertensión y 1 de cada 3 adultos, son obesos. De los cuales, la obesidad ha sido uno de los principales factores de riesgo. Esto debido al gran consumo de azúcar, y la falta de educación sobre estos temas en el país.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Como propuesta para la prevención temprana de enfermedades, surge el proyecto HealthBot, el cual consiste en crear una interfaz (chatbot) con la cual el usuario interactúe inicialmente de manera textual para conocer su nivel de riesgo de padecer enfermedades cardiovasculares. Basado en este riesgo el chatbot emitirá una serie de recomendaciones para que el usuario tome las medidas de prevención o tratamiento adecuadas. Además, al recabar información sobre los factores de riesgo proporcionados por el usuario, la interfaz generará reportes clínicos que el usuario puede presentar a su médico durante la cita o ser enviado directamente desde la interfaz al personal de salud si esta está integrada a un sistema de una entidad de Salud como el IMSS.",
+      "en": "As a proposal for the early prevention of diseases, the HealthBot project arises, which consists of creating an interface (chatbot) with which the user initially interacts textually to find out their level of risk of suffering from cardiovascular diseases. Based on this risk, the chatbot will issue a series of recommendations for the user to take appropriate prevention or treatment measures. In addition, by collecting information on the risk factors provided by the user, the interface will generate clinical reports that the user can present to their doctor during the appointment or be sent directly from the interface to the health personnel if it is integrated into a system of a Health entity such as the IMSS.",
+      "es": "Como propuesta para la prevención temprana de enfermedades, surge el proyecto HealthBot, el cual consiste en crear una interfaz (chatbot) con la cual el usuario interactúe inicialmente de manera textual para conocer su nivel de riesgo de padecer enfermedades cardiovasculares. Basado en este riesgo el chatbot emitirá una serie de recomendaciones para que el usuario tome las medidas de prevención o tratamiento adecuadas. Además, al recabar información sobre los factores de riesgo proporcionados por el usuario, la interfaz generará reportes clínicos que el usuario puede presentar a su médico durante la cita o ser enviado directamente desde la interfaz al personal de salud si esta está integrada a un sistema de una entidad de Salud como el IMSS.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "En el desarrollo del Chatbot se usarán modelos de Natural Language Processing (NLP) que permitan generar un diálogo enfocado a la población objetivo. A través del diálogo, el chatbot recopilará la información relevante para generar el diagnóstico. Una de las ventajas de este proyecto, es que la identificación de los factores de riesgo así como el modelo de diagnóstico se tomará del trabajo del equipo naranja de la generación anterior de Saturdays.AI., denominado CardioSight. Esto permite a nuestro equipo enfocarnos en el desarrollo de la interfaz basada en NLP y a la vez, promocionar y extender la funcionalidad de un trabajo previamente generado a traves de Saturdays.AI",
+      "en": "In the development of the Chatbot, Natural Language Processing (NLP) models will be used to generate a dialogue focused on the target population. Through the dialogue, the chatbot will collect the relevant information to generate the diagnosis. One of the advantages of this project is that the identification of risk factors as well as the diagnostic model will be taken from the work of the orange team of the previous generation of Saturdays.AI., called CardioSight. This allows our team to focus on the development of the NLP-based interface and at the same time, promote and extend the functionality of a work previously generated through Saturdays.AI",
+      "es": "En el desarrollo del Chatbot se usarán modelos de Natural Language Processing (NLP) que permitan generar un diálogo enfocado a la población objetivo. A través del diálogo, el chatbot recopilará la información relevante para generar el diagnóstico. Una de las ventajas de este proyecto, es que la identificación de los factores de riesgo así como el modelo de diagnóstico se tomará del trabajo del equipo naranja de la generación anterior de Saturdays.AI., denominado CardioSight. Esto permite a nuestro equipo enfocarnos en el desarrollo de la interfaz basada en NLP y a la vez, promocionar y extender la funcionalidad de un trabajo previamente generado a traves de Saturdays.AI",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para este proyecto tomaremos como referencia el modelo ya generado por el equipo naranja, de la generación anterior de Saturdays.AI. Este modelo toma encuenta 11 variables de entradas: edad, género, presión arterial sistólica, presión arterial diastólica, colesterol, glucosa, realiza actividad física, altura(cmts), peso(kgs) e índice de masa corporal. A continuación, se muestra la imagen de acuerdo con la correlación entre variables finales, después del análisis exploratorio de datos que previamente ha realizado el equipo naranja.",
+      "en": "For this project we will take as reference the model already generated by the orange team, from the previous generation of Saturdays.AI. This model takes into account 11 input variables: age, gender, systolic blood pressure, diastolic blood pressure, cholesterol, glucose, physical activity, height (cm), weight (kg) and body mass index. Below is the image according to the correlation between final variables, after the exploratory data analysis previously carried out by the orange team.",
+      "es": "Para este proyecto tomaremos como referencia el modelo ya generado por el equipo naranja, de la generación anterior de Saturdays.AI. Este modelo toma encuenta 11 variables de entradas: edad, género, presión arterial sistólica, presión arterial diastólica, colesterol, glucosa, realiza actividad física, altura(cmts), peso(kgs) e índice de masa corporal. A continuación, se muestra la imagen de acuerdo con la correlación entre variables finales, después del análisis exploratorio de datos que previamente ha realizado el equipo naranja.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Figura 1. Resultado de la correlación de las variables antes mencionadas",
+      "en": "Figure 1. Result of the correlation of the aforementioned variables",
+      "es": "Figura 1. Resultado de la correlación de las variables antes mencionadas",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Cardiovasculares",
+      "en": "Cardiovascular",
+      "es": "Cardiovasculares",
+      "reviewed": false
+    },
+    {
+      "source": "La realización de este trabajo fue posible con el apoyo en todo momento, de nuestros mentores: Grisell Reyes Rios y Mario Fonseca. Los cuales siempre estuvieron guiando nuestro proceso para el término del proyecto.",
+      "en": "The completion of this work was possible with the support at all times from our mentors: Grisell Reyes Rios and Mario Fonseca. Which were always guiding our process for the completion of the project.",
+      "es": "La realización de este trabajo fue posible con el apoyo en todo momento, de nuestros mentores: Grisell Reyes Rios y Mario Fonseca. Los cuales siempre estuvieron guiando nuestro proceso para el término del proyecto.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aritficial Intelligence",
+      "en": "Artificial Intelligence",
+      "es": "Aritficial Intelligence",
+      "reviewed": false
+    },
+    {
+      "source": "Health",
+      "en": "Health",
+      "es": "Health",
+      "reviewed": false
+    },
+    {
+      "source": "AImagining Tales",
+      "en": "AImagining Tales",
+      "es": "AImagining Tales",
+      "reviewed": false
+    },
+    {
+      "source": "Jun 7, 2023",
+      "en": "Jun 7, 2023",
+      "es": "Jun 7, 2023",
+      "reviewed": false
+    },
+    {
+      "source": "PREDICCIÓN DE FALLAS FUTURAS EN MOTORES DE TURBOVENTILADORES POR MEDIO DE LSTM",
+      "en": "PREDICTION OF FUTURE FAILURES IN TURBOFAN ENGINES USING LSTM",
+      "es": "PREDICCIÓN DE FALLAS FUTURAS EN MOTORES DE TURBOVENTILADORES POR MEDIO DE LSTM",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Aug 10, 2022",
+      "en": "Aug 10, 2022",
+      "es": "Aug 10, 2022",
+      "reviewed": false
+    }
+  ]
+}

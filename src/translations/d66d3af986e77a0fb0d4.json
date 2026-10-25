@@ -1,0 +1,746 @@
+{
+  "title": "Deep Learning para detectar el cansancio y la inantención del conductor.",
+  "route": "/2022/02/27/deep-learning-para-detectar-el-cansancio-y-la-inantencion-del-conductor/",
+  "segments": [
+    {
+      "source": "Latam online. Segunda Edición. 2021 En Ecuador, el uso del celular mientras se conduce un vehículo registró un incremento en los primeros nueve meses del 2021; entre enero y septiembre de 2021 se reportaron 15,393 siniestros…",
+      "en": "Latin online. Second Edition. 2021 In Ecuador, the use of the cell phone while driving a vehicle recorded an increase in the first nine months of 2021; between January and September 2021, 15,393 casualties were reported...",
+      "es": "Latam online. Segunda Edición. 2021 En Ecuador, el uso del celular mientras se conduce un vehículo registró un incremento en los primeros nueve meses del 2021; entre enero y septiembre de 2021 se reportaron 15,393 siniestros…",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "27 feb 2022",
+      "en": "27 Feb 2022",
+      "es": "27 feb 2022",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Clasificación de estados y distractores",
+      "en": "Classification of states and distractors",
+      "es": "Clasificación de estados y distractores",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objetivo general",
+      "en": "Overall objective",
+      "es": "Objetivo general",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estructura de la herramienta",
+      "en": "Tool structure",
+      "es": "Estructura de la herramienta",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "A. Detección de inatención",
+      "en": "A. Detection of neglect",
+      "es": "A. Detección de inatención",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "B. Detección de sueño y distracción de la visión",
+      "en": "B. Sleep detection and vision distraction",
+      "es": "B. Detección de sueño y distracción de la visión",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pérdida de entrenamiento y validación:",
+      "en": "Loss of training and validation:",
+      "es": "Pérdida de entrenamiento y validación:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Generación y preparación del conjunto de datos",
+      "en": "Generation and preparation of the data set",
+      "es": "Generación y preparación del conjunto de datos",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ventajas de usar guardian",
+      "en": "Advantages of using guardian",
+      "es": "Ventajas de usar guardian",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Planes a futuro",
+      "en": "Future plans",
+      "es": "Planes a futuro",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nuestro repositorio en Github",
+      "en": "Our repository in Github",
+      "es": "Nuestro repositorio en Github",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Latam online",
+      "en": "Latam online",
+      "es": "Latam en línea",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": ". Segunda Edición. 2021",
+      "en": ". Second Edition. 2021",
+      "es": ". Segunda Edición. 2021",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En Ecuador, el uso del celular mientras se conduce un vehículo registró un incremento en los primeros nueve meses del 2021; entre enero y septiembre de 2021 se reportaron 15,393 siniestros de tránsito. De ellos, 3,989 están relacionados con distracciones, ejemplo el uso del celular el cual representa el 26% del total mencionado. Si se compara con igual periodo del 2020 se observa un incremento: 240 siniestros más causados por este tipo de distracciones. (ANT, 2021)",
+      "en": "In Ecuador, the use of the cell phone while driving a vehicle recorded an increase in the first nine months of 2021; between January and September 2021 there were reported 15,393 traffic injuries. Of these, 3,989 are related to distractions, such as the use of the cell phone which represents 26% of the total mentioned. If compared to the same period of 2020, an increase is observed: 240 more cases caused by this type of distractions. (ANT, 2021)",
+      "es": "En Ecuador, el uso del celular mientras se conduce un vehículo registró un incremento en los primeros nueve meses del 2021; entre enero y septiembre de 2021 se reportaron 15,393 siniestros de tránsito. De ellos, 3,989 están relacionados con distracciones, ejemplo el uso del celular el cual representa el 26% del total mencionado. Si se compara con igual periodo del 2020 se observa un incremento: 240 siniestros más causados por este tipo de distracciones. (ANT, 2021)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Como se puede apreciar en la Figura 1, solo en Guayaquil, una de las ciudades más importantes del país, registra un total de 1,450 accidentes de tránsito por conducir desatento a las condiciones de tránsito (celular, pantallas de video, comida, maquillaje o cualquier otro elemento distractor) etiquetada como C14; estos tipos de distractores dejaron 1,256 fallecidos en la vía”, siendo una de las primeras causales de esto. El conducir en estado de somnolencia o malas condiciones físicas (C03) solo registra un total de 9 accidentes y 11 fallecidos en el año 2021.",
+      "en": "As can be seen in Figure 1, only in Guayaquil, one of the most important cities in the country, has a total of 1,450 traffic accidents due to unattended traffic conditions (cell, video screens, food, makeup or any other distractor element) labelled as C14; these types of distractors left 1,256 dead on the road, \"being one of the first causes of this. Driving in a state of drowsiness or bad physical conditions (C03) only records a total of 9 accidents and 11 died in 2021.",
+      "es": "Como se puede apreciar en la Figura 1, solo en Guayaquil, una de las ciudades más importantes del país, registra un total de 1,450 accidentes de tránsito por conducir desatento a las condiciones de tránsito (celular, pantallas de video, comida, maquillaje o cualquier otro elemento distractor) etiquetada como C14; estos tipos de distractores dejaron 1,256 fallecidos en la vía”, siendo una de las primeras causales de esto. El conducir en estado de somnolencia o malas condiciones físicas (C03) solo registra un total de 9 accidentes y 11 fallecidos en el año 2021.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Existen varios tipos de distracciones al conducir y así lo determina la National Center for Statistics and Analysis (NCSA por sus siglas en inglés) las cuales se clasifican de la siguiente manera: (NHTSA, 2021)",
+      "en": "There are several types of distractions when driving and this is determined by the National Center for Statistics and Analysis (NCSA) which are classified as follows: (NHTSA, 2021)",
+      "es": "Existen varios tipos de distracciones al conducir y así lo determina la National Center for Statistics and Analysis (NCSA por sus siglas en inglés) las cuales se clasifican de la siguiente manera: (NHTSA, 2021)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Estado del conductor:",
+      "en": "Driver status:",
+      "es": "Estado del conductor:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Atento",
+      "en": "Attention",
+      "es": "Atento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Distraído",
+      "en": "Distraído",
+      "es": "Distraído",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Miró, pero no vio",
+      "en": "He looked, but he didn't see",
+      "es": "Miró, pero no vio",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Tiene sueño o se quedó dormido",
+      "en": "She's sleepy or fell asleep.",
+      "es": "Tiene sueño o se quedó dormido",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Distracciones relacionadas al conductor:",
+      "en": "Driver-related districts:",
+      "es": "Distracciones relacionadas al conductor:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Comer o beber",
+      "en": "Eat or drink",
+      "es": "Comer o beber",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Persona, objeto o evento externo",
+      "en": "Person, object or external event",
+      "es": "Persona, objeto o evento externo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ajuste de radio, casete o CD",
+      "en": "Radio, cassette or CD adjustment",
+      "es": "Ajuste de radio, casete o CD",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Otros ocupantes del vehículo",
+      "en": "Other vehicle occupants",
+      "es": "Otros ocupantes del vehículo",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Objeto en movimiento en el vehículo",
+      "en": "Object in motion in the vehicle",
+      "es": "Objeto en movimiento en el vehículo",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "De acuerdo con los datos estadísticos obtenidos un número importante de personas mueren como resultado de accidentes de tránsitos. De todos ellos, muchos son provocados por lo que se conoce como inatención, cuyos principales factores contribuyentes son tanto la distracción como la somnolencia. Por lo tanto, los conductores con fatiga pueden beneficiarse de un sistema que los alerte al momento de perder la atención.",
+      "en": "According to the statistical data obtained a significant number of people die as a result of transitory accidents. Of all of them, many are caused by what is known as uncare, whose main contributing factors are both distraction and somnolence. Therefore, drivers with fatigue can benefit from a system that alerts them at the time of losing attention.",
+      "es": "De acuerdo con los datos estadísticos obtenidos un número importante de personas mueren como resultado de accidentes de tránsitos. De todos ellos, muchos son provocados por lo que se conoce como inatención, cuyos principales factores contribuyentes son tanto la distracción como la somnolencia. Por lo tanto, los conductores con fatiga pueden beneficiarse de un sistema que los alerte al momento de perder la atención.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En base a lo mencionado en líneas anteriores, se plantea el siguiente problema:",
+      "en": "On the basis of the above, the following problem arises:",
+      "es": "En base a lo mencionado en líneas anteriores, se plantea el siguiente problema:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "¿Cómo evitar que un conductor de vehículo se distraiga o caiga en estado de somnolencia?",
+      "en": "How to prevent a vehicle driver from being distracted or falling into a state of drowsiness?",
+      "es": "¿Cómo evitar que un conductor de vehículo se distraiga o caiga en estado de somnolencia?",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El objetivo fue diseñar una herramienta para entornos vehiculares, la cual, mediante técnicas de Deep Learning detecte tanto la distracción como la somnolencia en los conductores y pueda enviar una alerta sonora directamente al conductor, para que vuelva la atención inmediatamente a la vía y así evitar que ocurra un siniestro de tránsito, además de que se pueda monitorear las alertas mediante una consola de administración, con el fin de controlar al personal que está maniobrando el vehículo.",
+      "en": "The aim was to design a vehicle environment tool, which, by means of Deep Learning techniques, detects both distraction and somnolence in drivers and can send a sound alert directly to the driver, so that the attention will be returned immediately to the road and so that a traffic accident will not occur, in addition to the monitoring of the alerts by means of a management console, in order to control the personnel who are handling the vehicle.",
+      "es": "El objetivo fue diseñar una herramienta para entornos vehiculares, la cual, mediante técnicas de Deep Learning detecte tanto la distracción como la somnolencia en los conductores y pueda enviar una alerta sonora directamente al conductor, para que vuelva la atención inmediatamente a la vía y así evitar que ocurra un siniestro de tránsito, además de que se pueda monitorear las alertas mediante una consola de administración, con el fin de controlar al personal que está maniobrando el vehículo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La Figura 2 muestra la estructura de la herramienta, su funcionamiento será de la siguiente manera:",
+      "en": "Figure 2 shows the structure of the tool, its operation will be as follows:",
+      "es": "La Figura 2 muestra la estructura de la herramienta, su funcionamiento será de la siguiente manera:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cámara web con altavoz implementada en la cabina del conductor de manera frontal directa.",
+      "en": "Web camera with speaker implemented in the driver's cabin directly.",
+      "es": "Cámara web con altavoz implementada en la cabina del conductor de manera frontal directa.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Servidor Web donde se ejecutará el algoritmo, el cual procesará las imágenes y realizará las detecciones acordes al entrenamiento, sea por distracciones o estado de somnolencia. Luego del procesamiento y la detección, este, enviará una alerta directa al conductor, el tipo de esta alerta será sonora, con el objetivo de que regrese la atención a la vía.",
+      "en": "Web server where the algorithm will be run, which will process the images and perform the detections according to the training, whether by distractions or state of drowsiness. After processing and detection, this will send a direct alert to the driver, the type of this alert will be sound, with the aim of returning attention to the track.",
+      "es": "Servidor Web donde se ejecutará el algoritmo, el cual procesará las imágenes y realizará las detecciones acordes al entrenamiento, sea por distracciones o estado de somnolencia. Luego del procesamiento y la detección, este, enviará una alerta directa al conductor, el tipo de esta alerta será sonora, con el objetivo de que regrese la atención a la vía.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Panel de administración o control, luego del procesamiento y ejecución del algoritmo, se enviará también una alerta visual o textual al administrador de la herramienta, para que internamente se lleve un control de los actos cometidos por el conductor.",
+      "en": "Management or control panel, after processing and execution of the algorithm, a visual or textual alert will also be sent to the tool administrator, so that internal control of the acts committed by the driver is carried out.",
+      "es": "Panel de administración o control, luego del procesamiento y ejecución del algoritmo, se enviará también una alerta visual o textual al administrador de la herramienta, para que internamente se lleve un control de los actos cometidos por el conductor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La Figura 3 y 4, muestra la alerta que se mostrará en el panel administrativo de la herramienta en diseño, enviando la imagen del conductor con el objeto distractor o con el estado del conductor.",
+      "en": "Figure 3 and 4 shows the alert that will be displayed on the administrative panel of the tool in design, sending the driver image with the distractor object or the driver's state.",
+      "es": "La Figura 3 y 4, muestra la alerta que se mostrará en el panel administrativo de la herramienta en diseño, enviando la imagen del conductor con el objeto distractor o con el estado del conductor.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para detectar las distracciones del conductor necesitamos entrenar un modelo de detección de objetos. La detección de objetos es una tecnología de visión artificial que localiza e identifica objetos en una imagen, debido a su versatilidad, se ha convertido en los últimos años en la tecnología de visión artificial más utilizada.",
+      "en": "To detect the driver's distractions we need to train an object detection model. Object detection is an artificial vision technology that locates and identifies objects in an image, due to its versatility, has in recent years become the most used artificial vision technology.",
+      "es": "Para detectar las distracciones del conductor necesitamos entrenar un modelo de detección de objetos. La detección de objetos es una tecnología de visión artificial que localiza e identifica objetos en una imagen, debido a su versatilidad, se ha convertido en los últimos años en la tecnología de visión artificial más utilizada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La tarea de detección de objetos localiza objetos en una imagen y los etiqueta como pertenecientes a una clase objetivo, como se muestra en la imagen a continuación.",
+      "en": "The object detection task locates objects in an image and labels them as belonging to a target class, as shown in the image below.",
+      "es": "La tarea de detección de objetos localiza objetos en una imagen y los etiqueta como pertenecientes a una clase objetivo, como se muestra en la imagen a continuación.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Los modelos de detección de objetos logran este objetivo al predecir las coordenadas X1, X2, Y1, Y2 y las etiquetas de clase de objeto.",
+      "en": "Object detection models achieve this goal by predicting the X1, X2, Y1, Y2 coordinates and object class labels.",
+      "es": "Los modelos de detección de objetos logran este objetivo al predecir las coordenadas X1, X2, Y1, Y2 y las etiquetas de clase de objeto.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para nuestro proyecto utilizamos YOLO V5, YOLO se introdujo inicialmente como el primer modelo de detección de objetos que combinaba la predicción de cuadros delimitadores y la clasificación de objetos en una única red diferenciable de extremo a extremo. Fue escrito y se mantiene en un framework llamado Darknet. YOLO V5 es el primero de los modelos de YOLO escrito en el marco PyTorch y es mucho más liviano y fácil de usar. Dicho esto, YOLO V5 no realizó cambios importantes en la arquitectura de la red en YOLO V4 y no supera a YOLO V4 en un punto de referencia común, el conjunto de datos utilizado fue de COCO dataset.",
+      "en": "For our project we used YOLO V5, YOLO V5 was initially introduced as the first model of object detection that combined the prediction of delimiter tables and the classification of objects in a single, end-to-end differentiated network. It was written and maintained in a framework called Darknet. YOLO V5 is the first of the YOLO models written in the PyTorch framework and is much lighter and easy to use. That said, YOLO V5 did not make any significant changes in the network architecture in YOLO V4 and does not exceed YOLO's common data set of, et data was used in a common reference point of COVCO.",
+      "es": "Para nuestro proyecto utilizamos YOLO V5, YOLO se introdujo inicialmente como el primer modelo de detección de objetos que combinaba la predicción de cuadros delimitadores y la clasificación de objetos en una única red diferenciable de extremo a extremo. Fue escrito y se mantiene en un framework llamado Darknet. YOLO V5 es el primero de los modelos de YOLO escrito en el marco PyTorch y es mucho más liviano y fácil de usar. Dicho esto, YOLO V5 no realizó cambios importantes en la arquitectura de la red en YOLO V4 y no supera a YOLO V4 en un punto de referencia común, el conjunto de datos utilizado fue de COCO dataset.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La Figura 6, nos muestra la arquitectura utilizada de Yolo V5, que está compuesta de la siguiente manera:",
+      "en": "Figure 6 shows the architecture used by Yolo V5, which is composed as follows:",
+      "es": "La Figura 6, nos muestra la arquitectura utilizada de Yolo V5, que está compuesta de la siguiente manera:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Backbone:",
+      "en": "Backbone:",
+      "es": "Espalda:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Model Backbone actúa como un extractor de características de una imagen de entrada. El extractor de características no es más que el uso de capas convolucionales como kernel, stride, la normalización por lotes se aplica a las imágenes de entrada para extraer características importantes como bordes, formas, etc. CSP (redes parciales de etapa cruzada) se utilizan como columna vertebral en YOLO V5 para extraer características útiles de una imagen de entrada.",
+      "en": "Model Backbone acts as an input image feature extractor. The feature extractor is only the use of convolutional layers such as kernel, stride, batch normalization is applied to input images to extract important features such as edges, shapes, etc. CSP (partial cross-stage networks) are used as a spine in YOLO V5 to extract useful features from an input image.",
+      "es": "Model Backbone actúa como un extractor de características de una imagen de entrada. El extractor de características no es más que el uso de capas convolucionales como kernel, stride, la normalización por lotes se aplica a las imágenes de entrada para extraer características importantes como bordes, formas, etc. CSP (redes parciales de etapa cruzada) se utilizan como columna vertebral en YOLO V5 para extraer características útiles de una imagen de entrada.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cuello:",
+      "en": "Neck:",
+      "es": "Cuello:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En la capa de cuello, la red se diseñó para realizar predicciones de múltiples escalas además de la red de pirámide de características. La predicción multiescalar ayuda a detectar objetos de diferentes tamaños al enviar imágenes a tres valores de cuadrícula diferentes. Entonces, las imágenes de cuadrículas pequeñas detectan objetos grandes y las imágenes de cuadrículas grandes detectan objetos pequeños.",
+      "en": "In the neck layer, the network was designed to make multiple-scale predictions in addition to the feature pyramid network. Multiscale prediction helps detect objects of different sizes by sending images to three different grid values. So, small grid images detect large objects and large grid images detect small objects.",
+      "es": "En la capa de cuello, la red se diseñó para realizar predicciones de múltiples escalas además de la red de pirámide de características. La predicción multiescalar ayuda a detectar objetos de diferentes tamaños al enviar imágenes a tres valores de cuadrícula diferentes. Entonces, las imágenes de cuadrículas pequeñas detectan objetos grandes y las imágenes de cuadrículas grandes detectan objetos pequeños.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Head:",
+      "en": "Head:",
+      "es": "Cabeza:",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El modelo Head es el principal responsable del paso final de detección. Utiliza cuadros de anclaje para construir vectores de salida final con probabilidades de clase, puntajes de objetividad y cuadros delimitadores.",
+      "en": "The Head model is the main responsible for the final detection step. It uses anchorage tables to build end-output vectors with class odds, objectivity scores and delimiting tables.",
+      "es": "El modelo Head es el principal responsable del paso final de detección. Utiliza cuadros de anclaje para construir vectores de salida final con probabilidades de clase, puntajes de objetividad y cuadros delimitadores.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para la detección de los ojos se utilizó la librería Dlib en conjunto con el modelo de referencia de rostros: shape_predictor_68_face_landmarks.dat, el cual utiliza la máscara de detección de puntos (Figura 7) para determinar ubicaciones clave que conforman un rostro.",
+      "en": "The Dlib bookstore was used for eye detection in conjunction with the face reference model: shape _ predictor _ 68 _ face _ landmarks.dat, which uses the point detection mask (Figure 7) to determine key locations that make up a face.",
+      "es": "Para la detección de los ojos se utilizó la librería Dlib en conjunto con el modelo de referencia de rostros: shape_predictor_68_face_landmarks.dat, el cual utiliza la máscara de detección de puntos (Figura 7) para determinar ubicaciones clave que conforman un rostro.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizando estas herramientas se logró identificar la ubicación de los ojos tomando como referencia desde el punto 36 hasta el 41 para delinear el ojo izquierdo y del 42 al 47 el ojo derecho.",
+      "en": "Using these tools it was possible to identify the location of the eyes by reference from point 36 to 41 to delineate the left eye and from 42 to 47 the right eye.",
+      "es": "Utilizando estas herramientas se logró identificar la ubicación de los ojos tomando como referencia desde el punto 36 hasta el 41 para delinear el ojo izquierdo y del 42 al 47 el ojo derecho.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Con esta información se logró determinar si frente a la cámara se encontraba un rostro humano, y en caso afirmativo se utilizó la distancia euclidiana (para determinar la longitud de una línea recta entre dos puntos) y así establecer si los ojos se encuentran abiertos o cerrados.",
+      "en": "With this information it was possible to determine whether a human face was in front of the camera, and if so, the euclidean distance (to determine the length of a straight line between two points) was used to determine whether the eyes are open or closed.",
+      "es": "Con esta información se logró determinar si frente a la cámara se encontraba un rostro humano, y en caso afirmativo se utilizó la distancia euclidiana (para determinar la longitud de una línea recta entre dos puntos) y así establecer si los ojos se encuentran abiertos o cerrados.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Posteriormente, si los ojos permanecen cerrados por más de dos segundos entonces se activa una alarma cuya finalidad es despertar al conductor (Figura 3). Por otra parte, si el conductor está viendo en cualquier dirección que no sea el frente, después de cuatro segundos la alarma se activa para alertar respecto a la distracción (Figura 3).",
+      "en": "Then, if the eyes remain closed for more than two seconds then an alarm is activated to wake the driver (Figure 3). On the other hand, if the driver is looking in any direction other than the front, after four seconds the alarm is activated to alert to the distraction (Figure 3).",
+      "es": "Posteriormente, si los ojos permanecen cerrados por más de dos segundos entonces se activa una alarma cuya finalidad es despertar al conductor (Figura 3). Por otra parte, si el conductor está viendo en cualquier dirección que no sea el frente, después de cuatro segundos la alarma se activa para alertar respecto a la distracción (Figura 3).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Utilizamos YOLO V5, posterior al entrenamiento, evaluamos las pérdidas de entrenamiento y las métricas de rendimiento en Weights & Biases.",
+      "en": "We use YOLO V5, after training, we evaluate the training losses and performance metrics in Weights & Biases.",
+      "es": "Utilizamos YOLO V5, posterior al entrenamiento, evaluamos las pérdidas de entrenamiento y las métricas de rendimiento en Weights & Biases.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El mAP a 0,5 y el mAP a 0,5:0,95 se trazan para 200 épocas. mAP@[0.5:0.95] significa mAP promedio sobre diferentes umbrales de IoU, de 0.5 a 0.95, paso 0.05 (0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95).",
+      "en": "The mAP at 0.5 and mAP at 0.5: 0.95 are drawn for 200 épocas. mAP @ [0.5: 0.95] means mean mAP on different IoU thresholds, from 0.5 to 0.95, step 0.05 (0.5, 0.55, 0.6, 0.65, 0.75, 0.8, 0.85, 0.9, 0.95).",
+      "es": "El mAP a 0,5 y el mAP a 0,5:0,95 se trazan para 200 épocas. mAP@[0.5:0.95] significa mAP promedio sobre diferentes umbrales de IoU, de 0.5 a 0.95, paso 0.05 (0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95).",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En cuanto a la precisión y la recuperación para 200 épocas se dan a continuación. La precisión fue buena durante las últimas épocas, pero los valores de recuperación fueron más bajos durante las últimas épocas.",
+      "en": "In terms of accuracy and recovery for 200 times, it is given below. Precision was good during the last times, but the recovery values were lower during the last times.",
+      "es": "En cuanto a la precisión y la recuperación para 200 épocas se dan a continuación. La precisión fue buena durante las últimas épocas, pero los valores de recuperación fueron más bajos durante las últimas épocas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "En detección de objetos, hubo un total de 3 pérdidas para calcular",
+      "en": "In object detection, there were a total of 3 losses to calculate",
+      "es": "En detección de objetos, hubo un total de 3 pérdidas para calcular",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pérdida de caja: que es una pérdida al cuadrado porque detectar las coordenadas de la caja es una tarea de regresión simple",
+      "en": "Box loss: which is a square loss because detecting the box coordinates is a simple regression task",
+      "es": "Pérdida de caja: que es una pérdida al cuadrado porque detectar las coordenadas de la caja es una tarea de regresión simple",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pérdida de clase, que es una pérdida de registro porque predice la probabilidad de que un objeto pertenezca a una clase.",
+      "en": "Class loss, which is a record loss because it predicts the probability that an object belongs to a class.",
+      "es": "Pérdida de clase, que es una pérdida de registro porque predice la probabilidad de que un objeto pertenezca a una clase.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Pérdida de objetos",
+      "en": "Loss of objects",
+      "es": "Pérdida de objetos",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Para entrenar nuestro modelo de detección de objetos necesitamos supervisar su aprendizaje con anotaciones de cuadro delimitador. Dibujamos un cuadro alrededor de cada distractor que el detector reconozca: celular, comida, cigarrillo y botellas para identificar cuando el conductor está distraído o realizando alguna actividad ajena a la conducción. Existen muchas herramientas de etiquetado (CVAT , LabelImg , VoTT, Roboflow ) y soluciones a gran escala (Scale, AWS Ground Truth), en nuestro caso utilizamos Roboflow.",
+      "en": "To train our object detection model we need to monitor your learning with delimiter box notes. We draw a picture around each distractor that the detector recognizes: cell phone, food, cigarette and bottles to identify when the driver is distracted or performing some non-driving activity. There are many labelling tools (CVAT, LabelImg, VoTT, Roboflow) and large-scale solutions (Scale, AWS Ground Truth), in our case we use Roboflow.",
+      "es": "Para entrenar nuestro modelo de detección de objetos necesitamos supervisar su aprendizaje con anotaciones de cuadro delimitador. Dibujamos un cuadro alrededor de cada distractor que el detector reconozca: celular, comida, cigarrillo y botellas para identificar cuando el conductor está distraído o realizando alguna actividad ajena a la conducción. Existen muchas herramientas de etiquetado (CVAT , LabelImg , VoTT, Roboflow ) y soluciones a gran escala (Scale, AWS Ground Truth), en nuestro caso utilizamos Roboflow.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Las imágenes para construir nuestro conjunto de datos fueron descargadas de Kaggle y COCO Dataset:",
+      "en": "The images to build our data set were downloaded from Kaggle and COCO Dataset:",
+      "es": "Las imágenes para construir nuestro conjunto de datos fueron descargadas de Kaggle y COCO Dataset:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Dataset containing smoking and not-smoking images (smoker vs non-smoker)",
+      "en": "Dataset containing smoking and not-smoking images (smoker vs non-smoker)",
+      "es": "Dataset que contiene imágenes para fumar y no fumar (smoker vs non-smoker)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Mobile Images Dataset",
+      "en": "Mobile Images Dataset",
+      "es": "Mobile Images Dataset",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "COCO Dataset",
+      "en": "COCO Dataset",
+      "es": "COCO Dataset",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Innovador, diseñado con Inteligencia Artificial, algoritmo de Deep Learning",
+      "en": "Innovative, designed with Artificial Intelligence, Deep Learning algorithm",
+      "es": "Innovador, diseñado con Inteligencia Artificial, algoritmo de Deep Learning",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Preciso, algoritmo entrenado con una precisión de 92% de distractores y parpadeos de ojos.",
+      "en": "Precise, trained algorithm with a precision of 92% of distractors and eyelashes.",
+      "es": "Preciso, algoritmo entrenado con una precisión de 92% de distractores y parpadeos de ojos.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Accesible, la herramienta se puede implementar en cualquier parte del mundo.",
+      "en": "Accessible, the tool can be implemented anywhere in the world.",
+      "es": "Accesible, la herramienta se puede implementar en cualquier parte del mundo.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Adaptable, el algoritmo se puede re-entrenar las veces que haga falta.",
+      "en": "Adaptable, the algorithm can be re- trained as many times as it takes.",
+      "es": "Adaptable, el algoritmo se puede re-entrenar las veces que haga falta.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Liviano y fácil de manejar, no necesita de instalación y su uso administración es muy fácil.",
+      "en": "Light and easy to handle, does not need installation and its use administration is very easy.",
+      "es": "Liviano y fácil de manejar, no necesita de instalación y su uso administración es muy fácil.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Confiable, herramienta diseñada para la nube, capaz de mantenerse activa 24/7",
+      "en": "Reliable, cloud-designed tool, able to stay active 24 / 7",
+      "es": "Confiable, herramienta diseñada para la nube, capaz de mantenerse activa 24/7",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "La inteligencia artificial ha incrementado sus posibilidades, especialmente desde la aparición de tecnologías como las redes neuronales y el aprendizaje automático (machine learning).",
+      "en": "Artificial intelligence has increased its potential, especially since the emergence of technologies such as neural networks and automatic learning.",
+      "es": "La inteligencia artificial ha incrementado sus posibilidades, especialmente desde la aparición de tecnologías como las redes neuronales y el aprendizaje automático (machine learning).",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Al utilizar Deep Learning, para identificar patrones en fotos o vídeos y llevar a cabo la detección de distractores o estado de somnolencia del conductor, es posible enviarle una alerta sonora que regresaría la atención inmediata y probablemente se evitaría un siniestro de tránsito, reduciendo así la tasa de mortalidad por estas causas.",
+      "en": "When using Deep Learning, to identify patterns in photos or videos and to conduct the detection of the driver's distractors or sleepiness, it is possible to send you a sound alert that would return immediate attention and probably avoid a traffic accident, thus reducing the mortality rate for these causes.",
+      "es": "Al utilizar Deep Learning, para identificar patrones en fotos o vídeos y llevar a cabo la detección de distractores o estado de somnolencia del conductor, es posible enviarle una alerta sonora que regresaría la atención inmediata y probablemente se evitaría un siniestro de tránsito, reduciendo así la tasa de mortalidad por estas causas.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El proyecto se diseñó como un sistema para entornos vehiculares funcional, capaz de detectar la fatiga y los objetos distractores mientras se conduce un vehículo, además de emitir los dos tipos de alertas (sonora y textual). El modelo logra detectar los distractores correctamente en un 92 %.",
+      "en": "The project was designed as a system for functional vehicle environments, capable of detecting fatigue and distractor objects while driving a vehicle, as well as emitting the two types of alerts (sound and textual). The model is able to detect the distractors correctly by 92%.",
+      "es": "El proyecto se diseñó como un sistema para entornos vehiculares funcional, capaz de detectar la fatiga y los objetos distractores mientras se conduce un vehículo, además de emitir los dos tipos de alertas (sonora y textual). El modelo logra detectar los distractores correctamente en un 92 %.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El algoritmo podrá seguir entrenando y ampliando los objetos distractores para su detección.",
+      "en": "The algorithm may continue to train and expand the distractor objects for detection.",
+      "es": "El algoritmo podrá seguir entrenando y ampliando los objetos distractores para su detección.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "El presente proyecto tiene la intención de llevar a las siguientes empresas:",
+      "en": "This project intends to bring the following companies:",
+      "es": "El presente proyecto tiene la intención de llevar a las siguientes empresas:",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Empresas de transporte masivo (Terminal terrestre, estación de autobuses)",
+      "en": "Mass transport companies (Ground terminal, bus station)",
+      "es": "Empresas de transporte masivo (Terminal terrestre, estación de autobuses)",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Empresas de transporte ejecutivo (Uber, Cabify, Taxi amigo)",
+      "en": "Executive transport companies (Uber, Cabify, Taxi friend)",
+      "es": "Empresas de transporte ejecutivo (Uber, Cabify, amigo)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ing. Carlos Watson (",
+      "en": "Ing. Carlos Watson (",
+      "es": "Ing.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ing. Josué Huamán (",
+      "en": "Ing. Joshua Huaman (",
+      "es": "Ing. Josué Huamán (",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Ing.",
+      "en": "Ing.",
+      "es": "Ing.",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Yolanda C. Sarmiento",
+      "en": "Yolanda C. Sarmiento",
+      "es": "Yolanda C. Sarmiento",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Karyme Rodriguez (",
+      "en": "Karyme Rodriguez (",
+      "es": "Karyme Rodríguez (Karyme Rodríguez)",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Joanna Araiza (",
+      "en": "Joanna Araiza (",
+      "es": "Joanna Araiza",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Seguridad Vial",
+      "en": "Road safety",
+      "es": "Seguridad Vial",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 27 feb 2022.",
+      "en": "A story of the Saturdays.AI. community originally published on 27 Feb 2022.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 27 feb 2022.",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "CiclopeIA: Inteligencia artificial para la ayuda a personas con discapacidad visual",
+      "en": "CiclopeIA: Artificial intelligence for help to people with visual disabilities",
+      "es": "CiclopeIA: Inteligencia artificial para la ayuda a personas con discapacidad visual",
+      "reviewed": false,
+      "sourceLanguage": "es",
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    }
+  ]
+}

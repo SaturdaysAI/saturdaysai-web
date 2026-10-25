@@ -1,0 +1,91 @@
+{
+  "title": "Machine Learning para la detección de COVID-19",
+  "route": "/2022/01/02/machine-learning-para-la-deteccion-de-covid-19/",
+  "segments": [
+    {
+      "source": "Machine Learning para la detección de COVID-19",
+      "en": "Machine Learning for the detection of COVID-19",
+      "es": "Machine Learning para la detección de COVID-19",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos…",
+      "en": "COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31, 2019, when it was informed of a group of cases...",
+      "es": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos…",
+      "reviewed": false
+    },
+    {
+      "source": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China). En este artículo intentaremos describir la forma de aplicar Machine Learning para detectar el Covid-19.",
+      "en": "COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31, 2019, when it was informed of a group of cases of \"viral pneumonia\" that had been declared in Wuhan (People's Republic of China). In this article we will try to describe how to apply Machine Learning to detect Covid-19.",
+      "es": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China). En este artículo intentaremos describir la forma de aplicar Machine Learning para detectar el Covid-19.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "RADIOGRAFÍA DE TÓRAX",
+      "en": "CHEST X-RAY",
+      "es": "RADIOGRAFÍA DE TÓRAX",
+      "reviewed": false
+    },
+    {
+      "source": "PROBLEMÁTICA",
+      "en": "PROBLEM",
+      "es": "PROBLEMÁTICA",
+      "reviewed": false
+    },
+    {
+      "source": "SELECCIÓN DEL MODELO Y TÉCNICAS IMPLEMENTADAS",
+      "en": "MODEL SELECTION AND IMPLEMENTED TECHNIQUES",
+      "es": "SELECCIÓN DEL MODELO Y TÉCNICAS IMPLEMENTADAS",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Para la construcción del modelo de Machine Learning para detectar el Covid-19 se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
+      "en": "To build the Machine Learning model to detect Covid-19, Convolutional Neural Networks were used, because they are neural networks designed and widely used to work with images.",
+      "es": "Para la construcción del modelo de Machine Learning para detectar el Covid-19 se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y para el desarrollo del modelo Machine Learning para detectar el Covid-19 se utilizó los servicios de colab.research de Google.",
+      "en": "Because it is a small proof of concept of image classification for an introductory course to Deep Learning, the dataset images have been uploaded to a Google Drive folder and Google's colab.research services were used to develop the Machine Learning model to detect Covid-19.",
+      "es": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y para el desarrollo del modelo Machine Learning para detectar el Covid-19 se utilizó los servicios de colab.research de Google.",
+      "reviewed": false
+    },
+    {
+      "source": "EVALUACIÓN DEL MODELO",
+      "en": "MODEL EVALUATION",
+      "es": "EVALUACIÓN DEL MODELO",
+      "reviewed": false
+    },
+    {
+      "source": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando Machine Learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
+      "en": "The covid diagnosis model through X-ray images using Machine Learning could be applied in our environment as another diagnostic alternative.",
+      "es": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando Machine Learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
+      "reviewed": false
+    },
+    {
+      "source": "¿Cómo funcionan y en qué se diferencian las PCR y los test rápidos de coronavirus?",
+      "en": "How do PCR and rapid coronavirus tests work and how are they different?",
+      "es": "¿Cómo funcionan y en qué se diferencian las PCR y los test rápidos de coronavirus?",
+      "reviewed": false,
+      "sourceLanguage": "es"
+    },
+    {
+      "source": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
+      "en": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
+      "es": "Detectar COVID-19 en imágenes de rayos X con Keras, TensorFlow y Deep Learning",
+      "reviewed": false,
+      "sourceLanguage": "en",
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Cnn",
+      "en": "CNN",
+      "es": "Cnn",
+      "reviewed": false
+    }
+  ]
+}
