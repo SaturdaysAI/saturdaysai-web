@@ -580,6 +580,39 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 14 feb 2025.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Nota editorial: esta comparativa recoge una experiencia de 2025, no una evaluación sistemática. Las funciones de ChatGPT no deben atribuirse automáticamente al modelo o1; los planes, precios y modelos disponibles cambian. Los ejemplos no demuestran que una herramienta sea siempre más precisa o más rápida que otra.",
+      "en": "Editorial note: this comparison records an experience from 2025, not a systematic evaluation. ChatGPT’s features should not automatically be attributed to the o1 model; plans, prices and available models change. The examples do not establish that one tool is always more accurate or faster than another.",
+      "es": "Nota editorial: esta comparativa recoge una experiencia de 2025, no una evaluación sistemática. Las funciones de ChatGPT no deben atribuirse automáticamente al modelo o1; los planes, precios y modelos disponibles cambian. Los ejemplos no demuestran que una herramienta sea siempre más precisa o más rápida que otra.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Para la misma integral, ChatGPT-o1 brinda una explicación detallada, con pasos adicionales y ejemplos.",
+      "en": "For the same integral, the example from o1 in ChatGPT includes a detailed explanation, additional steps and examples.",
+      "es": "Para la misma integral, ChatGPT-o1 brinda una explicación detallada, con pasos adicionales y ejemplos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "en respuestas académicas que ChatGPT-o1 (matemáticas, física, programación, etc.).",
+      "en": "in academic answers as o1 in ChatGPT (mathematics, physics, programming and other subjects).",
+      "es": "en respuestas académicas que ChatGPT-o1 (matemáticas, física, programación, etc.).",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

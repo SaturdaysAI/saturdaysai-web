@@ -1,9 +1,6 @@
 ---
-title: "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia
-  Artificial"
-description: Guadalajara. Segunda Edición 2020 ¿Sabias que las enfermedades
-  cardiovasculares (ECV) son la principal causa de muerte en todo el mundo? En
-  México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades…
+title: "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia Artificial"
+description: Guadalajara. Segunda Edición 2020 ¿Sabias que las enfermedades cardiovasculares (ECV) son la principal causa de muerte en todo el mundo? En México, el 19% de mujeres y hombres de 30 a 69 años mueren de enfermedades…
 pubDate: 2022-03-16
 author: Info Saturdays
 category: AI for good
@@ -14,14 +11,15 @@ tags:
   - Salud y Bienestar
   - Tabular
 image: /media/2b3869a3a86abffb.webp
-imageAlt: "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante
-  Inteligencia Artificial"
+imageAlt: "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia Artificial"
 legacyPath: /2022/03/16/cardiosight-machine-learning-para-calcular-riesgo-cardiovascular/
 sourceUrl: https://saturdays.ai/2022/03/16/cardiosight-machine-learning-para-calcular-riesgo-cardiovascular/
 sourceId: 6568
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 ![](/media/2b3869a3a86abffb.webp)
 

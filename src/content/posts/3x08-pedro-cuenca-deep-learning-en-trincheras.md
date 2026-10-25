@@ -1,8 +1,6 @@
 ---
 title: Podcast T3/E8 – Pedro Cuenca – Deep Learning en la trinchera
-description: En el episodio de hoy, Pedro Cuenca nos explica cómo llegó a ser
-  desarrollador de aplicaciones para iOS, desde que se enamoró de aquel iPhone
-  1, hasta hoy, que tiene una empresa llamada Latenitesoft.
+description: Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo.
 pubDate: 2022-02-02
 author: Info Saturdays
 category: Podcast
@@ -15,20 +13,12 @@ sourceUrl: https://saturdays.ai/2022/02/02/3x08-pedro-cuenca-deep-learning-en-tr
 sourceId: 5587
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/08e2d5d30b60bb91.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En el episodio de hoy, Pedro Cuenca nos explica cómo llegó a ser desarrollador de aplicaciones para iOS, desde que se enamoró de aquel iPhone 1, hasta hoy, que tiene una empresa llamada Latenitesoft.
-
-
-También nos cuenta el por qué de su interés en la Inteligencia Artificial, colaboraciones que ha tenido en este mundillo, sobre el Transfer Learning, o cómo se privatizan los datos en este tipo de apps.
-
-
-Si quieres saber más, no dudes en escucharlo o pasarte por su perfil!  
-Sketches y Camera+ son unas de sus apps disponibles en Apple Store.
+Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo. Hablamos de Latenitesoft, de aplicaciones como Camera+ y Sketches y de cómo la inteligencia artificial llegó a sus proyectos. La conversación aborda el aprendizaje por transferencia, la protección de los datos y su colaboración con AI Saturdays. También deja consejos para quienes quieren empezar a construir sus propias aplicaciones con IA.
 
 ## **Links**
 
@@ -56,12 +46,14 @@ Sketches y Camera+ son unas de sus apps disponibles en Apple Store.
 
 **30:40** – Sobre Transfer Learning
 
-**34:01** – ¿Cómo se privatizan los datos con el avance tecnológico?
+**34:01** – ¿Cómo se protege la privacidad de los datos con el avance tecnológico?
 
-**36:01** – ¿Dónde se encuentra el equilibrio con la privatización de los datos?
+**36:01** – ¿Cómo equilibrar la innovación y la privacidad de los datos?
 
 **38:54** – ¿Qué proyecto de la IA le hubiera gustado haber hecho realidad?
 
 **39:46** – ¿Qué le recomendarías a alguien que se quiere iniciar en el mundo de la IA?
 
 **42:05** – ¿A quién le gustaría que le entrevistásemos?
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

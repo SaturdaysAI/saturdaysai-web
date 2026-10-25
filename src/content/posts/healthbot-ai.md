@@ -1,9 +1,6 @@
 ---
 title: Detección de enfermedades cardiovasculares con HEALTHBOT.AI
-description: Debido a la pandemia que actualmente estamos viviendo a nivel
-  mundial, una de las problemáticas más inmediatas que se ha observado, es la
-  falta de personal médico en hospitales en general y para atender a personas
-  que sufran…
+description: Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran…
 pubDate: 2021-12-13
 author: Miguel Guerrero
 category: AI for good
@@ -18,9 +15,9 @@ sourceUrl: https://saturdays.ai/2021/12/13/healthbot-ai/
 sourceId: 4884
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
-
-
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 Debido a la pandemia que actualmente estamos viviendo a nivel mundial, una de las problemáticas más inmediatas que se ha observado, es la falta de personal médico en hospitales en general y para atender a personas que sufran alguna otra enfermedad diferente al COVID-19. De acuerdo con esta información, el objetivo de este trabajo es realizar un chatbot que permita una fácil identificación temprana de enfermedades que han sido foco de defunciones a nivel mundial, así como poder ayudar con el seguimiento en los pacientes, de una manera mucho más accesible. Para primer prototipo y con la información que se tiene, se empezará a trabajar con la detección de enfermedades cardiovasculares. Como trabajos futuros, se pretende utilizar el sistema desarrollado, en alguna institución de salud pública, para detectar otras enfermedades que han sido las principales causas de muerte en México.
 

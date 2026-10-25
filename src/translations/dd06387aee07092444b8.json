@@ -103,7 +103,7 @@
     },
     {
       "source": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
-      "en": "The compaction curve consists of a curve that is constructed after marking the even points of dry density and moisture of the sample. With a minimum of 5 points, a curve is drawn by hand that can correlate all these points and the maximum dry density and the optimal humidity at which this soil can be compacted are obtained.",
+      "en": "The compaction curve consists of a curve that is constructed after marking the pairs of dry-density and moisture values of the sample. With a minimum of 5 points, a curve is drawn by hand that can correlate all these points and the maximum dry density and the optimal humidity at which this soil can be compacted are obtained.",
       "es": "La curva de compactación consiste en una curva que se construye después de marcar los puntos pares de densidad seca y la humedad de la muestra. Con un mínimo de 5 puntos se traza a mano una curva que pueda correlacionar todos estos puntos y se obtienen la densidad seca máxima y la humedad óptima a la que se puede compactar este suelo.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -118,6 +118,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
       }
     },
     {

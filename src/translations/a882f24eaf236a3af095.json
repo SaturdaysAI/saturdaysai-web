@@ -228,9 +228,14 @@
     {
       "source": "En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convulsionales… entre otros siendo necesario el entrenamiento de nuestro modelo.",
       "en": "In conclusion, this glaucoma detection proposal is one of the many that we can find today for the diagnosis of this disease. Unfortunately, there is no optimal solution, but we know that if we diagnose it at an early stage we can treat it to alleviate some of the symptoms. On the other hand, we also know that the neural network depends on the database we have. Therefore, the precision of the results achieved will depend on the size of the batch, dimensions of the images, number of seizure layers... among others, with the training of our model being necessary.",
-      "es": "En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convulsionales… entre otros siendo necesario el entrenamiento de nuestro modelo.",
+      "es": "En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convolucionales… entre otros siendo necesario el entrenamiento de nuestro modelo.",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Si quieres formar parte de la búsqueda de soluciones óptimas, no dudes en comenzar o continuar tu formación en Inteligencia Artificial con nosotros. Consulta los cursos de Saturdays.AI y elige el que más te guste en nuestra",
@@ -307,6 +312,83 @@
       "en": "Jun 1, 2023",
       "es": "Jun 1, 2023",
       "reviewed": false
+    },
+    {
+      "source": "IA y glaucoma: un proyecto de apoyo al análisis de imágenes",
+      "en": "AI and glaucoma: a project exploring image analysis",
+      "es": "IA y glaucoma: un proyecto de apoyo al análisis de imágenes",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Un proyecto de análisis de imágenes oculares con redes neuronales: cómo se preparan los datos y qué límites tiene su uso como apoyo clínico.",
+      "en": "A neural-network project for eye-image analysis: how the data is prepared and the limits of its use as clinical support.",
+      "es": "Un proyecto de análisis de imágenes oculares con redes neuronales: cómo se preparan los datos y qué límites tiene su uso como apoyo clínico.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "El glaucoma puede dañar el nervio óptico y causar pérdida de visión. La cifra global de discapacidad visual citada por la OMS no se refiere solo al glaucoma: al menos 2.200 millones de personas tienen dificultades de visión de cerca o de lejos y, en al menos 1.000 millones de casos, la discapacidad podría haberse evitado o aún no se ha atendido.",
+      "en": "Glaucoma can damage the optic nerve and cause vision loss. The WHO’s global vision-impairment figure is not specific to glaucoma: at least 2.2 billion people have near or distance vision impairment, and in at least 1 billion cases it could have been prevented or remains unaddressed.",
+      "es": "El glaucoma puede dañar el nervio óptico y causar pérdida de visión. La cifra global de discapacidad visual citada por la OMS no se refiere solo al glaucoma: al menos 2.200 millones de personas tienen dificultades de visión de cerca o de lejos y, en al menos 1.000 millones de casos, la discapacidad podría haberse evitado o aún no se ha atendido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "OMS: discapacidad visual",
+      "en": "WHO: vision impairment",
+      "es": "OMS: discapacidad visual",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Corrección editorial, 25 de octubre de 2026: se corrigen las unidades de la cifra original y su atribución al glaucoma. El proyecto conserva su contexto de publicación de 2022.",
+      "en": "Editorial correction, 25 October 2026: the units in the original figure and its attribution to glaucoma have been corrected. The project retains its original 2022 publication context.",
+      "es": "Corrección editorial, 25 de octubre de 2026: se corrigen las unidades de la cifra original y su atribución al glaucoma. El proyecto conserva su contexto de publicación de 2022.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Este artículo describe una propuesta de investigación que utiliza imágenes oculares y redes neuronales para explorar el apoyo al análisis clínico. Los resultados de un conjunto de datos no bastan para establecer un diagnóstico ni para demostrar que una herramienta funciona en otros centros o poblaciones.",
+      "en": "This article describes a research proposal using eye images and neural networks to explore support for clinical analysis. Results on one dataset do not establish a diagnosis or demonstrate that a tool works in other settings or populations.",
+      "es": "Este artículo describe una propuesta de investigación que utiliza imágenes oculares y redes neuronales para explorar el apoyo al análisis clínico. Los resultados de un conjunto de datos no bastan para establecer un diagnóstico ni para demostrar que una herramienta funciona en otros centros o poblaciones.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "La propuesta muestra cómo preparar imágenes y entrenar un clasificador. Para valorar su utilidad clínica harían falta una evaluación independiente, datos representativos y la revisión de profesionales sanitarios. El rendimiento depende de la calidad de los datos, del diseño del modelo y de cómo se separan los conjuntos de entrenamiento y prueba; una precisión alta por sí sola no demuestra seguridad clínica.",
+      "en": "The proposal shows how to prepare images and train a classifier. Assessing its clinical usefulness would require independent evaluation, representative data and review by healthcare professionals. Performance depends on data quality, model design and how training and test sets are separated; high accuracy alone does not establish clinical safety.",
+      "es": "La propuesta muestra cómo preparar imágenes y entrenar un clasificador. Para valorar su utilidad clínica harían falta una evaluación independiente, datos representativos y la revisión de profesionales sanitarios. El rendimiento depende de la calidad de los datos, del diseño del modelo y de cómo se separan los conjuntos de entrenamiento y prueba; una precisión alta por sí sola no demuestra seguridad clínica.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

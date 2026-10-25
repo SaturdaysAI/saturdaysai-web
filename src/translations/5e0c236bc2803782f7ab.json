@@ -606,9 +606,14 @@
     },
     {
       "source": "Y colorín colorado…",
-      "en": "And red colorín…",
+      "en": "And that is how our story ends…",
       "es": "Y colorín colorado…",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Si te has quedado con ganas de más y quieres revisar el código en mayor profundidad, te invitamos a visitar",

@@ -1,9 +1,6 @@
 ---
 title: Detección de COVID-19 en imágenes de rayos X con Machine learning
-description: La Paz. Deep Learning. 2021 INTRODUCCIÓN La COVID-19 es la
-  enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS
-  tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de
-  diciembre de…
+description: La Paz. Deep Learning. 2021 INTRODUCCIÓN La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de…
 pubDate: 2021-11-22
 author: Miguel Guerrero
 category: AI for good
@@ -22,7 +19,9 @@ sourceUrl: https://saturdays.ai/2021/11/22/deteccion-de-covid-con-machine-learni
 sourceId: 4591
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 [La Paz](https://saturdays.ai/la-paz/). Deep Learning. 2021
 

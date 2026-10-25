@@ -55,9 +55,14 @@
     },
     {
       "source": "Jorge González",
-      "en": "Jorge Gonzalez",
+      "en": "Jorge González",
       "es": "Jorge González",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "Jaime Merino",
@@ -177,6 +182,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 31 ago 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes.",
+      "en": "Jaime Merino, Jorge González and Aarón Espasandín introduce TorchFakes, their deepfake detection project.",
+      "es": "Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes. Hablamos de la motivación del equipo, de los riesgos de la desinformación y de las dificultades de desarrollar una herramienta de este tipo. La conversación conecta el trabajo técnico con preguntas sobre acceso a la computación, nuevas formas de crear contenido y cómo empezar en inteligencia artificial.",
+      "en": "Jaime Merino, Jorge González and Aarón Espasandín introduce TorchFakes, their deepfake detection project. We discuss the team’s motivation, the risks of disinformation and the challenges of developing a tool like this. The conversation connects technical work with questions about access to computing, new ways of creating content and how to get started in AI.",
+      "es": "Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes. Hablamos de la motivación del equipo, de los riesgos de la desinformación y de las dificultades de desarrollar una herramienta de este tipo. La conversación conecta el trabajo técnico con preguntas sobre acceso a la computación, nuevas formas de crear contenido y cómo empezar en inteligencia artificial.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

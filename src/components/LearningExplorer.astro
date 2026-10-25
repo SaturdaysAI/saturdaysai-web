@@ -2,6 +2,12 @@
 import { url } from '../lib/content';
 const topics = [
   {
+    name: 'Seguridad de la IA',
+    description:
+      'Comprende los riesgos de la IA y aprende a evaluar sistemas y diseñar medidas de protección. Empieza con nuestro curso introductorio.',
+    path: '/seguridad-ia/',
+  },
+  {
     name: 'Python',
     description:
       'Empieza por los fundamentos. Practica con datos, funciones y tus primeras líneas de código.',
@@ -43,7 +49,7 @@ const topics = [
   <div class="topic-detail" aria-live="polite">
     <p data-topic-description>{topics[0].description}</p>
     <a data-topic-link class="button button-orange" href={url(topics[0].path)}>
-      Explorar Python →
+      Explorar Seguridad de la IA →
     </a>
   </div>
 </section>

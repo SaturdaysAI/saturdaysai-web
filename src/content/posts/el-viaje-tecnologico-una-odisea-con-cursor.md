@@ -1,8 +1,6 @@
 ---
 title: Cómo Cursor Transformó mi Experiencia al Crear una Aplicación Web desde Cero
-description: "Descubre cómo Cursor transformó mi enfoque hacia el desarrollo
-  web: una herramienta de IA que me guió desde conceptos básicos hasta
-  soluciones avanzadas, haciendo posible mi primera aplicación funcional."
+description: "Descubre cómo Cursor transformó mi enfoque hacia el desarrollo web: una herramienta de IA que me guió desde conceptos básicos hasta soluciones avanzadas, haciendo posible mi primera aplicación funcional."
 pubDate: 2024-11-16
 author: Alan
 category: Community
@@ -15,13 +13,14 @@ sourceUrl: https://saturdays.ai/2024/11/16/el-viaje-tecnologico-una-odisea-con-c
 sourceId: 10510
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 Crear una aplicación web funcional puede ser un desafío, especialmente cuando tus habilidades están más orientadas a áreas técnicas como cálculos complejos o modelos estadísticos. Esto fue exactamente lo que enfrenté: la tarea de construir una plataforma desde cero, algo completamente nuevo para mí. Fue en ese momento cuando **Cursor**, una herramienta de inteligencia artificial diseñada para desarrolladores, se convirtió en mi mejor aliado.
 
 ## **¿Qué es Cursor y Cómo Funciona?**
 
-Cursor es una **extensión basada en Visual Studio Code** que actúa como un asistente inteligente para programadores. Su diseño intuitivo y la integración de un chat de IA lo convierten en una herramienta poderosa para abordar problemas de programación. Con Cursor, no importa el lenguaje que utilices; siempre estará ahí para guiarte con sugerencias claras y ejemplos de código.
+Cursor es un editor de código basado en Visual Studio Code que integra funciones de asistencia con IA. En este proyecto lo utilicé para consultar dudas, generar propuestas de código y revisar errores. Las sugerencias necesitaban pruebas y revisión: el editor ayudaba a trabajar, pero no garantizaba que la aplicación fuera correcta.
 
 Desde el momento en que lo instalé, la familiaridad con su interfaz me permitió comenzar a usarlo sin perder tiempo. Con un simple **Ctrl + L**, podía acceder a su chat de IA y recibir ayuda en tiempo real. Además, el diseño limpio y eficiente aseguraba que todas las herramientas estuvieran a un clic de distancia, eliminando cualquier barrera para enfocarme en mi proyecto.
 

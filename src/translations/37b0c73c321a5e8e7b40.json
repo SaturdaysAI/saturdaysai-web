@@ -654,11 +654,16 @@
     },
     {
       "source": "* Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!",
-      "en": "* Learn data mining by carrying out a project and deploying a model in Hugging Face, you will learn 2 of the most useful skills that you need today for data science and AI projects. We are waiting for you!",
+      "en": "* Learn data mining by carrying out a project and deploying a model in Hugging Face, you will learn 2 of the most useful skills that you need today for data science and AI projects. Join us!",
       "es": "* Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "* ¿Sabes que el Aprendizaje por Refuerzo (",
@@ -989,6 +994,72 @@
       "en": "Contact the team to find the current community channels and connect with other learners.",
       "es": "Consulta con el equipo los canales actuales de la comunidad y conecta con otras personas que están aprendiendo.",
       "reviewed": true
+    },
+    {
+      "source": "AI safety, Python, data…",
+      "en": "AI safety, Python, data…",
+      "es": "Seguridad de la IA, Python, datos…",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "7 learning paths to explore.",
+      "en": "7 learning paths to explore.",
+      "es": "7 itinerarios para explorar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Understand advanced AI risks, evaluations, alignment and oversight. Take your first step towards building safer AI.",
+      "en": "Understand advanced AI risks, evaluations, alignment and oversight. Take your first step towards building safer AI.",
+      "es": "Comprende los riesgos de la IA avanzada, las evaluaciones, el alineamiento y la supervisión. Da tu primer paso para construir una IA más segura.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Explore Introduction to AI Safety",
+      "en": "Explore Introduction to AI Safety",
+      "es": "Explora Introducción a la Seguridad de la IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Browse the complete course catalogue on cursos.saturdays.ai",
+      "en": "Browse the complete course catalogue on cursos.saturdays.ai",
+      "es": "Consulta el catálogo completo de cursos en cursos.saturdays.ai",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Explore courses in AI safety, Python, generative AI and data science. Find your next learning path on the Saturdays.AI course platform.",
+      "en": "Explore courses in AI safety, Python, generative AI and data science. Find your next learning path on the Saturdays.AI course platform.",
+      "es": "Explora cursos de Seguridad de la IA, Python, IA generativa y ciencia de datos. Encuentra tu próximo paso en la plataforma de cursos de Saturdays.AI.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

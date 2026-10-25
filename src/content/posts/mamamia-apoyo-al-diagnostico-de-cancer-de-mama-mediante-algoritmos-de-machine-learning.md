@@ -1,10 +1,6 @@
 ---
-title: "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos de
-  Machine Learning"
-description: Zaragoza. Primera Edición. 2022 El cáncer de mama es la principal
-  causa de mortalidad en las mujeres. En 2020, alrededor de 685 000 mujeres
-  fallecieron como consecuencia de esa enfermedad. La mayoría de los casos de
-  cáncer de…
+title: "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos de Machine Learning"
+description: Zaragoza. Primera Edición. 2022 El cáncer de mama es la principal causa de mortalidad en las mujeres. En 2020, alrededor de 685 000 mujeres fallecieron como consecuencia de esa enfermedad. La mayoría de los casos de cáncer de…
 pubDate: 2022-03-19
 author: Info Saturdays
 category: AI for good
@@ -14,20 +10,20 @@ tags:
   - Salud y Bienestar
   - Tabular
 image: /media/63d9fea49b418cd6.webp
-imageAlt: "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos
-  de Machine Learning"
+imageAlt: "MaMamIA: Apoyo al diagnóstico de Cáncer de Mama mediante algoritmos de Machine Learning"
 legacyPath: /2022/03/19/mamamia-apoyo-al-diagnostico-de-cancer-de-mama-mediante-algoritmos-de-machine-learning/
 sourceUrl: https://saturdays.ai/2022/03/19/mamamia-apoyo-al-diagnostico-de-cancer-de-mama-mediante-algoritmos-de-machine-learning/
 sourceId: 6789
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/63d9fea49b418cd6.webp)
 
 _[Zaragoza](https://saturdays.ai/zaragoza/). Primera Edición. 2022_
 
-El cáncer de mama es la principal causa de mortalidad en las mujeres. En 2020, alrededor de **685 000 mujeres** fallecieron como consecuencia de esa enfermedad. La mayoría de los casos de cáncer de mama y de las muertes por esa enfermedad se registran en países de ingresos bajos y medianos.
+El cáncer de mama es una causa importante de mortalidad por cáncer en mujeres. No debe confundirse con la principal causa de muerte femenina por cualquier motivo. La detección oportuna, el acceso al diagnóstico y el tratamiento son factores fundamentales para reducir su impacto.
 
 El cáncer de mama es el más prevalente entre las mujeres. Se estima que **la prevalencia en España en 2020 es de 516.827 personas**, según la REDECAN.
 
@@ -370,3 +366,6 @@ La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligenc
 Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
 
 Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+
+
+[OMS: información sobre el cáncer de mama](https://www.who.int/news-room/fact-sheets/detail/breast-cancer)

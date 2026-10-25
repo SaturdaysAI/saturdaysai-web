@@ -344,7 +344,7 @@
     },
     {
       "source": "Cuando hablamos de experiencias, es complicado poner nombres y apellidos a nuestras sensaciones. Además, estas sensaciones de una persona pueden ser muy diferentes a las de otra, y no es fácil encontrar patrones comunes. Sin embargo, todos/as somos capaces de recordar con cariño a algún/a profesor/a de nuestra etapa preuniversitaria, una persona que nos transmitió algo diferente al resto.",
-      "en": "When we talk about experiences, it is difficult to put names and surnames to our sensations. Furthermore, these sensations of one person can be very different from those of another, and it is not easy to find common patterns. However, we are all capable of fondly remembering a teacher from our pre-university stage, a person who transmitted something different to us from the rest.",
+      "en": "When we talk about experiences, it is difficult to put our feelings into words. Furthermore, these sensations of one person can be very different from those of another, and it is not easy to find common patterns. However, we are all capable of fondly remembering a teacher from our pre-university stage, a person who transmitted something different to us from the rest.",
       "es": "Cuando hablamos de experiencias, es complicado poner nombres y apellidos a nuestras sensaciones. Además, estas sensaciones de una persona pueden ser muy diferentes a las de otra, y no es fácil encontrar patrones comunes. Sin embargo, todos/as somos capaces de recordar con cariño a algún/a profesor/a de nuestra etapa preuniversitaria, una persona que nos transmitió algo diferente al resto.",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -359,6 +359,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
       }
     },
     {
@@ -2176,9 +2181,9 @@
     },
     {
       "source": "” IA sin importar su especialidad o nivel de partida.",
-      "en": "” AI regardless of its specialty or starting level.",
+      "en": "” AI regardless of their background or starting point.",
       "es": "” IA sin importar su especialidad o nivel de partida.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2191,13 +2196,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {
       "source": "Infórmate de nuestro master sobre inteligencia artifical en",
-      "en": "Find out about our master's degree on artificial intelligence in",
-      "es": "Infórmate de nuestro master sobre inteligencia artifical en",
-      "reviewed": false,
+      "en": "Explore our AI master’s programme at",
+      "es": "Infórmate de nuestro master sobre inteligencia artificial en",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2210,16 +2220,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {
       "source": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este",
-      "en": "If you want to learn more artificial intelligence join our community in this",
+      "en": "If you want to learn more about artificial intelligence join our community through this",
       "es": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "link",
@@ -2248,9 +2268,9 @@
     },
     {
       "source": "¡te esperamos!",
-      "en": "We are waiting for you!",
+      "en": "Join us!",
       "es": "¡te esperamos!",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2262,6 +2282,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {

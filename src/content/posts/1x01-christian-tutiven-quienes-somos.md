@@ -1,8 +1,6 @@
 ---
 title: "Podcast 1×01: Christian Tutivén – ¿Quiénes somos?"
-description: En éste primer capítulo, nos centramos en darles a conocer quienes
-  somos, como es que nace éste este proyecto llamado SaturdaysAI, cual es
-  nuestro objetivo y hacia dónde vamos.
+description: Christian Tutivén nos cuenta cómo nació Saturdays.AI y qué mueve a su comunidad.
 pubDate: 2021-12-03
 author: Pablo Castañeda
 category: Podcast
@@ -15,13 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/03/1x01-christian-tutiven-quienes-somos/
 sourceId: 4762
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![Podcast1Christian](/media/933bdfe1c1f2624e.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este primer capítulo, nos centramos en darles a conocer quienes somos, como es que nace este este proyecto llamado SaturdaysAI, cual es nuestro objetivo y hacia dónde vamos. Todo esto en palabras de nuestro querido Christian Tutivén, quién es parte del comité global de organizadores y city lead en Guayaquil, Ecuador. Esperamos que lo disfruten.
+Christian Tutivén nos cuenta cómo nació Saturdays.AI y qué mueve a su comunidad. Desde su experiencia en el equipo global y en Guayaquil, habla de los proyectos que le han marcado, del aprendizaje compartido y de cómo empezar en la IA. Una conversación para conocer nuestra historia a través de quienes la construyen.
 
 ## **Links**
 
@@ -46,3 +43,5 @@ En este primer capítulo, nos centramos en darles a conocer quienes somos, como 
 **09:20** – ¿Cómo te ha impactado en tu vida?
 
 **12:20** – ¿Qué le recomendarías a alguien que está empezando a aprender sobre I.A.?
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

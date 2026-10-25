@@ -1,10 +1,6 @@
 ---
-title: "WomanLife: Deep Learning for the detection and classification of breast
-  cancer"
-description: La Paz. Deep Learning. 2021 Today, thanks to deep learning
-  algorithms of artificial intelligence, we have the possibility to automate the
-  classification of images, so this tool can help medical personnel in the
-  classification…
+title: "WomanLife: Deep Learning for the detection and classification of breast cancer"
+description: La Paz. Deep Learning. 2021 Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification…
 pubDate: 2021-12-31
 author: Miguel Guerrero
 category: AI for good
@@ -18,16 +14,15 @@ tags:
   - Salud y Bienestar
   - TensorFlow
 image: /media/5f76b0770c28e227.webp
-imageAlt: "WomanLife: Deep Learning for the detection and classification of
-  breast cancer"
+imageAlt: "WomanLife: Deep Learning for the detection and classification of breast cancer"
 legacyPath: /2021/12/31/womanlife-deep-learning-for-the-detection-and-classification-of-breast-cancer-2/
 sourceUrl: https://saturdays.ai/2021/12/31/womanlife-deep-learning-for-the-detection-and-classification-of-breast-cancer-2/
 sourceId: 5088
 language: en
 draft: false
+updatedDate: 2026-10-25
 ---
-
-
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 ![](/media/5f76b0770c28e227.webp)
 

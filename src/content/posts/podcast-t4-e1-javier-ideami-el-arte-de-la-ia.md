@@ -1,9 +1,6 @@
 ---
 title: Podcast T4/E1-Javier Ideami-El arte de la IA
-description: En el episodio de hoy tendremos el placer de entrevistar a Javier
-  Ideami, cofundador de «The Geniverse» entre muchos otros proyectos. Nos cuenta
-  su visión acerca de la IA generativa, cómo cree que puede afectar la IA al
-  mundo…
+description: Javier Ideami, cofundador de Geniverse, explora con nosotros el encuentro entre arte, creatividad e inteligencia artificial generativa.
 pubDate: 2022-07-21
 author: Info Saturdays
 category: Podcast
@@ -16,13 +13,12 @@ sourceUrl: https://saturdays.ai/2022/07/21/podcast-t4-e1-javier-ideami-el-arte-d
 sourceId: 7571
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/122a3c1300f3abb0.webp)
 
-En el episodio de hoy tendremos el placer de entrevistar a Javier Ideami, cofundador de _«The Geniverse»_  entre muchos otros proyectos. Nos cuenta su visión acerca de la IA generativa, cómo cree que puede afectar la IA al mundo del arte. También habla sobre el papel que debería tener la IA en el futuro.
-
-Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasarte por nuestro perfil.
+Javier Ideami, cofundador de Geniverse, explora con nosotros el encuentro entre arte, creatividad e inteligencia artificial generativa. Hablamos de cómo utiliza estas herramientas, de sus posibles paralelismos con la mente humana y de las oportunidades que abren para crear. La conversación también se detiene en los riesgos de la IA y en los consejos que daría a quienes quieren entrar en este campo. Sus predicciones reflejan el momento en que se grabó el episodio.
 
 ## Links
 
@@ -54,4 +50,4 @@ Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasar
 
 46:00-¿Qué recomendarías a alguien que quiere introducirse o desarrollarse en la IA?
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

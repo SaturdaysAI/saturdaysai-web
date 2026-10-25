@@ -1,9 +1,6 @@
 ---
 title: Podcast T1/E5 Fernando Dávalos – Robótica e Inteligencia Artificial
-description: Fernando Dávalos, una mente brillante mexicana quién fue nombrado
-  héroe nacional en México tras el sismo que azotó la Ciudad de México en 2017
-  gracias a sus labores de rescate con un robot que incorpora Inteligencia
-  Artificial
+description: Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017.
 pubDate: 2021-12-13
 author: Info Saturdays
 category: Podcast
@@ -16,17 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/13/1x05-fernando-davalos-robot-sismo-mex
 sourceId: 4899
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/bd77e60dcd44880f.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio invitamos a Fernando Dávalos, una mente brillante mexicana quién fue nombrado héroe nacional en México tras el sismo que azotó la Ciudad de México en 2017 gracias a sus labores de rescate con un robot que incorpora Inteligencia Artificial y que elaboró junto con su equipo de electrónica y software de la Universidad Panamericana (UP) campus Bonaterra en Aguascalientes. 
-
-Actualmente cursa el doctorado en ingeniería de sistemas en el Skolkovo  Institute of Science and Technology en Rusia y es  Profesor-Investigador y Jefe de la Academia de eléctrica, electrónica y control en la UP campus Bonaterra.
-
-¡Esperamos que lo disfruten tanto como nosotros!
+Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017. El robot fue desarrollado con el equipo de electrónica y software de la Universidad Panamericana, campus Bonaterra. Hablamos del proceso de creación, de sus dificultades y de la relación entre investigación, enseñanza y aplicaciones reales.
 
 ## **Links**
 
@@ -51,3 +43,5 @@ Actualmente cursa el doctorado en ingeniería de sistemas en el Skolkovo  Insti
 **28:55** – ¿Parte educativa o empresarial?
 
 **32:40** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

@@ -1,8 +1,6 @@
 ---
 title: Podcast T2/E4 – Saturdays.ai LATAM – La IA en la producción energética
-description: Durante este capítulo, participantes de Saturdays.AI LATAM nos
-  hablan de un proyecto que desarrollaron juntos en la Climate Crisis AI
-  Hackathon.
+description: El equipo de Saturdays.AI LATAM presenta WaiF – Wind AI Forecast, desarrollado durante el Climate Crisis AI Hackathon.
 pubDate: 2021-12-17
 author: Info Saturdays
 category: Podcast
@@ -15,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/17/2x04-ia-en-produccion-energectica/
 sourceId: 4962
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/4062ec69558cc370.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-Durante este capítulo, participantes de Saturdays.AI LATAM nos hablan de un proyecto que desarrollaron juntos en la Climate Crisis AI Hackathon.
-
-El proyecto consiste en el desarrollo de  **WaiF – Wind AI Forecast**, una herramienta para el pronóstico de la producción energética eólica a corto plazo usando diferentes algoritmos de Machine Learning. De esta forma utilizan la IA para la adaptación del sector energético al cambio climático. 
+El equipo de Saturdays.AI LATAM presenta WaiF – Wind AI Forecast, desarrollado durante el Climate Crisis AI Hackathon. El proyecto explora el uso de machine learning para prever la producción eólica a corto plazo. Hablamos de la organización del equipo, los retos técnicos y las posibles aplicaciones en el sector energético.
 
 ## **Links**
 
@@ -50,3 +45,5 @@ El proyecto consiste en el desarrollo de  **WaiF – Wind AI Forecast**, una h
 **37:14** – ¿Habéis tenido en cuenta que cada país se desarrolla de una forma en cuanto al cambio climático?
 
 **39:25** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

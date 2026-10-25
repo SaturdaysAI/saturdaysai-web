@@ -1,8 +1,6 @@
 ---
 title: Podcast T04-E04-José Manuel Nápoles-La química de la IA
-description: Esta semana traemos la gran charla que tuvimos con José Manuel
-  Nápoles Duarte, profesor e investigador en Física en la Universidad de Sonora,
-  México. En este podcast se tratarán temas como por qué muchos físicos acaban…
+description: José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático.
 pubDate: 2022-08-10
 author: Info Saturdays
 category: Podcast
@@ -15,14 +13,12 @@ sourceUrl: https://saturdays.ai/2022/08/10/podcast-t04-e04-jose-manuel-napoles-l
 sourceId: 7777
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/a6a7e3e36ca68789.webp)
 
-Esta semana traemos la gran charla que tuvimos con José Manuel Nápoles Duarte, profesor e investigador en Física en la Universidad de Sonora, México. En este podcast se tratarán temas como por qué muchos físicos acaban dedicándose a la IA, qué futuro se le augura a la «Artificial General Intelligence» o qué debería hacer una persona que quiere comenzar su recorrido en el machine learning.
-
-
-Si quieres saber más sobre estos temas no dudes en escuchar los demás episodios o pasarte por nuestra web.
+José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático. Conversamos sobre la relación entre física e IA, su trabajo con Streamlit y los retos de aplicar estas herramientas en el día a día. También contrastamos expectativas sobre la inteligencia artificial general y recogemos consejos para quienes comienzan a aprender.
 
 ## Links
 
@@ -58,4 +54,4 @@ Si quieres saber más sobre estos temas no dudes en escuchar los demás episodio
 
 42:20-¿A quién nos recomiendas entrevistar en el futuro?
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

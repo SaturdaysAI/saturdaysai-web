@@ -1,9 +1,6 @@
 ---
 title: Podcast T1/E6 – Zinnya del Villar – Ética e Inteligencia Artificial
-description: En este episodio, contamos con una invitada muy especial, Zinnya
-  del Villar con quien conversamos sobre un tema que ha suscitado un debate en
-  torno al desarrollo y uso adecuado de la Inteligencia artificial que cada vez
-  está…
+description: Zinnya del Villar nos invita a pensar en la ética de la inteligencia artificial.
 pubDate: 2021-12-13
 author: Info Saturdays
 category: Podcast
@@ -16,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/13/1x06-zinnya-del-villar-etica-en-ia/
 sourceId: 4906
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/d6a85f40bee80a10.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio, contamos con una invitada muy especial, Zinnya del Villar con quien conversamos sobre un tema que ha suscitado un debate en torno al desarrollo y uso adecuado de la Inteligencia artificial que cada vez está más presente en nuestras vidas: **_La ética en la Inteligencia Artificial.  
-_**  
-¡Esperamos que lo disfruten!
+Zinnya del Villar nos invita a pensar en la ética de la inteligencia artificial. Hablamos de cómo las decisiones que tomamos al desarrollar y utilizar sistemas de IA afectan a las personas, y de qué papel puede tener la ética en los proyectos y las políticas públicas. La conversación también recoge su trayectoria y consejos para quienes empiezan.
 
 ## **Links**
 
@@ -32,7 +26,6 @@ _**
 
 ## **Índice**
 
-\>
 
 **0:00** – Introducción
 
@@ -47,3 +40,5 @@ _**
 **27:38** – ¿Cómo pueden salir beneficiados los países con la implantación de la IA?
 
 **33:08** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

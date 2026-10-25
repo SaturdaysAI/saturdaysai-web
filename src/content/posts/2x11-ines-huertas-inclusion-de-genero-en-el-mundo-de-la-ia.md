@@ -1,8 +1,6 @@
 ---
 title: Podcast T2/E11 – Inés Huertas – Inclusión de género en el Mundo de la IA
-description: Hoy, desde Saturdays.AI entrevistamos a Inés Huertas, consultora y
-  experta en Big Data & Machine Learning, además de ser coordinadora de la
-  organización RLadies Madrid
+description: Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid.
 pubDate: 2021-12-21
 author: Equipo Mkt
 category: Podcast
@@ -15,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/21/2x11-ines-huertas-inclusion-de-genero
 sourceId: 5020
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/27c03542e34c607c.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-Hoy, desde Saturdays.AI entrevistamos a **Inés Huertas**, consultora y experta en **Big Data & Machine Learning,** además de ser coordinadora de la organización **RLadies Madrid**.
-
-En la entrevista, Inés nos habla de su **trayectoria**, de la importancia de dar **representación** a las **mujeres** que forman parte del sector de la IA y de su **pronóstico** para este campo en los próximos años. Hablamos de una **IA totalmente transversal,** presente en cualquier campo de trabajo, y de su relevancia en el futuro, llegando a decir que **«la IA será el inglés o la ofimática** en unos años».
+Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid. Hablamos de la representación de las mujeres, la inclusión en los equipos y el papel transversal de la IA. También comparte consejos para quienes quieren entrar en el sector.
 
 ## **Links**
 
@@ -52,3 +47,5 @@ En la entrevista, Inés nos habla de su **trayectoria**, de la importancia de d
 **36:10** – ¿Ser líderes en la regulación de la Ai es la parte más técnica?
 
 **39:33** – Recomendaciones para los que entran en el mundo de la AI
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

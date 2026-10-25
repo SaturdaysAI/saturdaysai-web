@@ -77,9 +77,14 @@
     },
     {
       "source": "FríoMon",
-      "en": "ColdMon",
+      "en": "FríoMon",
       "es": "FríoMon",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": ", una empresa familiar de ultracongelados situada en el cinturón industrial de Barcelona. Había heredado el negocio de su padre, un hombre que creía que el trabajo duro, la constancia y la intuición eran suficientes para mantener una fábrica en marcha. Durante mucho tiempo, eso bastó. Pero los tiempos habían cambiado.",

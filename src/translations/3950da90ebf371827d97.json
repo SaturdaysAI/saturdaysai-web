@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "La Paz. Segunda Edición. 2021 En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales,…",
-      "en": "Peace. Second Edition. 2021 In the world, forest fires are the most important cause of forest destruction. In a forest fire, not only trees and bushes are lost, but also houses, animals,...",
+      "en": "La Paz. Second Edition. 2021 In the world, forest fires are the most important cause of forest destruction. In a forest fire, not only trees and bushes are lost, but also houses, animals,...",
       "es": "La Paz. Segunda Edición. 2021 En el mundo, los incendios forestales constituyen la causa más importante de destrucción de bosques. En un incendio forestal no sólo se pierden árboles y matorrales, sino también casas, animales,…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Recolección de la información",
@@ -47,9 +52,14 @@
     },
     {
       "source": "La Paz.",
-      "en": "Peace.",
+      "en": "La Paz.",
       "es": "La Paz.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Segunda Edición. 2021",

@@ -42,9 +42,14 @@
     },
     {
       "source": "Sobre Ariadna",
-      "en": "About Ariadne",
+      "en": "About Ariadna",
       "es": "Sobre Ariadna",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "Área ética de Twitter",
@@ -54,7 +59,7 @@
     },
     {
       "source": "– Presentación Ariadna ¿Quién es?",
-      "en": "– Presentation Ariadna Who is she?",
+      "en": "– Meet Ariadna",
       "es": "– Presentación Ariadna ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -93,6 +98,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 20 dic 2021.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Ariadna (Ari) Font reflexiona sobre el desarrollo del machine learning a gran escala desde su experiencia al frente de ese área en Twitter en el momento de la entrevista.",
+      "en": "Ariadna (Ari) Font reflects on machine learning at scale, drawing on her experience leading that area at Twitter at the time of the interview.",
+      "es": "Ariadna (Ari) Font reflexiona sobre el desarrollo del machine learning a gran escala desde su experiencia al frente de ese área en Twitter en el momento de la entrevista.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Ariadna (Ari) Font reflexiona sobre el desarrollo del machine learning a gran escala desde su experiencia al frente de ese área en Twitter en el momento de la entrevista. Hablamos de su trayectoria, de la ética en la IA y de preguntas difíciles que siguen abiertas. Una conversación sobre las decisiones humanas detrás de la tecnología.",
+      "en": "Ariadna (Ari) Font reflects on machine learning at scale, drawing on her experience leading that area at Twitter at the time of the interview. We discuss her career, ethics in AI and difficult questions that remain open. A conversation about the human decisions behind the technology.",
+      "es": "Ariadna (Ari) Font reflexiona sobre el desarrollo del machine learning a gran escala desde su experiencia al frente de ese área en Twitter en el momento de la entrevista. Hablamos de su trayectoria, de la ética en la IA y de preguntas difíciles que siguen abiertas. Una conversación sobre las decisiones humanas detrás de la tecnología.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

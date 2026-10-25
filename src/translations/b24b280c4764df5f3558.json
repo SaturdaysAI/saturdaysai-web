@@ -51,7 +51,7 @@
     },
     {
       "source": "– Presentación Fernando Dávalos, ¿Quién es?",
-      "en": "– Presentation Fernando Dávalos, Who is he?",
+      "en": "– Meet Fernando Dávalos",
       "es": "– Presentación Fernando Dávalos, ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -93,9 +93,36 @@
     },
     {
       "source": "– ¿Parte educativa o empresarial?",
-      "en": "– Educational or business part?",
+      "en": "– Education or business?",
       "es": "– ¿Parte educativa o empresarial?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
+    },
+    {
+      "source": "Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017.",
+      "en": "Fernando Dávalos explains how robotics and AI supported rescue work after the 2017 Mexico City earthquake.",
+      "es": "Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017. El robot fue desarrollado con el equipo de electrónica y software de la Universidad Panamericana, campus Bonaterra. Hablamos del proceso de creación, de sus dificultades y de la relación entre investigación, enseñanza y aplicaciones reales.",
+      "en": "Fernando Dávalos explains how robotics and AI supported rescue work after the 2017 Mexico City earthquake. The robot was developed with the electronics and software team at Universidad Panamericana’s Bonaterra campus. We discuss the development process, its challenges and the links between research, teaching and practical applications.",
+      "es": "Fernando Dávalos cuenta cómo la robótica y la IA se pusieron al servicio de las labores de rescate tras el terremoto de Ciudad de México de 2017. El robot fue desarrollado con el equipo de electrónica y software de la Universidad Panamericana, campus Bonaterra. Hablamos del proceso de creación, de sus dificultades y de la relación entre investigación, enseñanza y aplicaciones reales.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

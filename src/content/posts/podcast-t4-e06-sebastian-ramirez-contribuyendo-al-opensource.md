@@ -1,9 +1,6 @@
 ---
 title: Podcast T4-E06-Sebastián Ramírez-Contribuyendo al Opensource
-description: En el episodio de hoy hablaremos con Sebastián Ramírez, fundador de
-  FastAPI, Typer y SQLModel, asdemás de ser un gran contribuidor al opensource.
-  En este podcast conoceremos un poco más a Sebastián, qué quería ser de
-  pequeño,…
+description: Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto.
 pubDate: 2022-09-07
 author: Info Saturdays
 category: Podcast
@@ -16,11 +13,12 @@ sourceUrl: https://saturdays.ai/2022/09/07/podcast-t4-e06-sebastian-ramirez-cont
 sourceId: 7944
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/2cbf8cc7541265a2.webp)
 
-En el episodio de hoy hablaremos con Sebastián Ramírez, fundador de FastAPI, Typer y SQLModel, asdemás de ser un gran contribuidor al opensource. En este podcast conoceremos un poco más a Sebastián, qué quería ser de pequeño, qué piensa del opensurce, cómo ha llegado a ser un contribuidor tan destacado en ciencia de datos… y mucho más!
+Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto. Hablamos de cómo empezó a contribuir, de lo que significa construir herramientas que otras personas utilizan y de su relación con la ciencia de datos y el aprendizaje automático. También reflexiona sobre sus expectativas para la IA y sobre los consejos que daría a su yo del pasado.
 
 ## Links
 
@@ -52,4 +50,4 @@ En el episodio de hoy hablaremos con Sebastián Ramírez, fundador de FastAPI, T
 
 45:55. ¿A quién crees que deberíamos entrevistar?
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

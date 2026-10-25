@@ -17,9 +17,14 @@
     {
       "source": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cúantica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación…",
       "en": "Today we have the pleasure of bringing the podcast with Manuel Lemos, a computer engineer by training and currently mixing quantum with artificial intelligence. Manuel will tell us where his interest in computing comes from…",
-      "es": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cúantica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación…",
+      "es": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cuántica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "1 ago 2022",
@@ -30,9 +35,14 @@
     {
       "source": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cúantica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación cuántica y de qué trata, cómo se combina esta con la IA, el machine learning y su relación con la ciberseguridad…",
       "en": "Today we have the pleasure of bringing the podcast with Manuel Lemos, a computer engineer by training and currently mixing quantum with artificial intelligence. Manuel will tell us where his interest in quantum computing comes from and what it is about, how it is combined with AI, machine learning and its relationship with cybersecurity...",
-      "es": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cúantica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación cuántica y de qué trata, cómo se combina esta con la IA, el machine learning y su relación con la ciberseguridad…",
+      "es": "Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cuántica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación cuántica y de qué trata, cómo se combina esta con la IA, el machine learning y su relación con la ciberseguridad…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Sobre Manuel",
@@ -82,11 +92,16 @@
     },
     {
       "source": "18:00-Opinión acerca del uso de modelos conversacionales para fishing",
-      "en": "18: 00 -Opinion on the use of conversational models for fishing",
-      "es": "18:00-Opinión acerca del uso de modelos conversacionales para fishing",
-      "reviewed": false,
+      "en": "18: 00 -Opinion on the use of conversational models for phishing",
+      "es": "18:00-Opinión acerca del uso de modelos conversacionales para phishing",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "22:00-Opinión acerca de la web 3.0",
@@ -136,6 +151,39 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 1 ago 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad.",
+      "en": "Manuel Lemos introduces quantum computing and its connections with artificial intelligence and cybersecurity.",
+      "es": "Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad. Hablamos de sus primeros pasos en programación, de aplicaciones del aprendizaje automático y de los riesgos de utilizar modelos conversacionales para el phishing. También exploramos sus expectativas sobre la evolución de estas tecnologías y sus recomendaciones para quienes quieren dedicarse a ellas.",
+      "en": "Manuel Lemos introduces quantum computing and its connections with artificial intelligence and cybersecurity. We discuss his first steps in programming, applications of machine learning and the risks of using conversational models for phishing. We also explore his expectations for these technologies and his advice for people who want to work with them.",
+      "es": "Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad. Hablamos de sus primeros pasos en programación, de aplicaciones del aprendizaje automático y de los riesgos de utilizar modelos conversacionales para el phishing. También exploramos sus expectativas sobre la evolución de estas tecnologías y sus recomendaciones para quienes quieren dedicarse a ellas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "18:00-Opinión acerca del uso de modelos conversacionales para phishing",
+      "en": "18:00-Views on the use of conversational models for phishing",
+      "es": "18:00-Opinión acerca del uso de modelos conversacionales para phishing",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import FilterStatus from '../components/FilterStatus.astro';
 import SectionArchive from '../components/SectionArchive.astro';
 import Icon from '../components/Icon.astro';
+import SafetySpotlight from '../components/SafetySpotlight.astro';
 import courseData from '../data/courses.json';
 import { url } from '../lib/content';
 const courses = courseData.courses;
@@ -10,7 +11,7 @@ const courses = courseData.courses;
 
 <Layout
   title="Find your AI learning path"
-  description="Explore practical learning paths in Python, generative AI, data science and machine learning. Learn at your own pace with Saturdays.AI."
+  description="Explore courses in AI safety, Python, generative AI and data science. Find your next learning path on the Saturdays.AI course platform."
 >
   <div class="container">
     <section class="page-hero">
@@ -25,6 +26,7 @@ const courses = courseData.courses;
         learn by doing.
       </p>
     </section>
+    <SafetySpotlight compact />
     <div class="listing-tools">
       <div class="filter-pills" aria-label="Choose your learning level">
         {['All paths', 'Starting out', 'Going deeper'].map((c, i) => (
@@ -40,7 +42,7 @@ const courses = courseData.courses;
       <label class="search-box">
         <Icon name="search" size={18} />
         <span class="sr-only">Search courses</span>
-        <input type="search" placeholder="Python, generative AI, data…" data-search-input />
+        <input type="search" placeholder="AI safety, Python, data…" data-search-input />
       </label>
     </div>
     <FilterStatus text={`${courses.length} learning paths to explore.`} />
@@ -74,7 +76,9 @@ const courses = courseData.courses;
       ))}
     </div>
     <p class="provider-note">
-      Courses open on the Saturdays.AI learning platform. Programme details open here.
+      <a href="https://cursos.saturdays.ai/courses">
+        Browse the complete course catalogue on cursos.saturdays.ai
+      </a>
     </p>
     <div class="empty-state" data-empty hidden>
       <h2>No matching paths.</h2>

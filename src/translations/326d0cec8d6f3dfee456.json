@@ -135,9 +135,14 @@
     },
     {
       "source": "34:40-¿La “Artificial General Intelligence” tendrá recorrido?",
-      "en": "34:40-Will the “Artificial General Intelligence” have a route?",
+      "en": "34:40-What are the prospects for artificial general intelligence?",
       "es": "34:40-¿La “Artificial General Intelligence” tendrá recorrido?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "40:10-¿Qué le dirías a tu yo de niño?",
@@ -159,6 +164,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 10 ago 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático.",
+      "en": "José Manuel Nápoles Duarte, a physics professor and researcher at the University of Sonora in Mexico, shares his experience with machine learning.",
+      "es": "José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático. Conversamos sobre la relación entre física e IA, su trabajo con Streamlit y los retos de aplicar estas herramientas en el día a día. También contrastamos expectativas sobre la inteligencia artificial general y recogemos consejos para quienes comienzan a aprender.",
+      "en": "José Manuel Nápoles Duarte, a physics professor and researcher at the University of Sonora in Mexico, shares his experience with machine learning. We discuss the relationship between physics and AI, his work with Streamlit and the challenges of applying these tools day to day. We also examine expectations for artificial general intelligence and gather advice for people starting out.",
+      "es": "José Manuel Nápoles Duarte, profesor e investigador en física en la Universidad de Sonora, México, comparte su experiencia con el aprendizaje automático. Conversamos sobre la relación entre física e IA, su trabajo con Streamlit y los retos de aplicar estas herramientas en el día a día. También contrastamos expectativas sobre la inteligencia artificial general y recogemos consejos para quienes comienzan a aprender.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

@@ -51,9 +51,14 @@
     },
     {
       "source": "Sobre Pedro",
-      "en": "About Peter",
+      "en": "About Pedro",
       "es": "Sobre Pedro",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "Camera+",
@@ -69,7 +74,7 @@
     },
     {
       "source": "– Presentación Pedro ¿Quién es?",
-      "en": "– Presentation Pedro Who is he?",
+      "en": "– Meet Pedro",
       "es": "– Presentación Pedro ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -123,17 +128,27 @@
     },
     {
       "source": "– ¿Cómo se privatizan los datos con el avance tecnológico?",
-      "en": "– How is data privatized with technological advances?",
-      "es": "– ¿Cómo se privatizan los datos con el avance tecnológico?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– How can data privacy be protected as technology advances?",
+      "es": "– ¿Cómo se protege la privacidad de los datos con el avance tecnológico?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "– ¿Dónde se encuentra el equilibrio con la privatización de los datos?",
-      "en": "– Where is the balance with the privatization of data?",
-      "es": "– ¿Dónde se encuentra el equilibrio con la privatización de los datos?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– How can we balance innovation and data privacy?",
+      "es": "– ¿Cómo equilibrar la innovación y la privacidad de los datos?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "– ¿Qué proyecto de la IA le hubiera gustado haber hecho realidad?",
@@ -162,6 +177,50 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 feb 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo.",
+      "en": "Pedro Cuenca shares his journey from developing iOS apps to working with deep learning.",
+      "es": "Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo. Hablamos de Latenitesoft, de aplicaciones como Camera+ y Sketches y de cómo la inteligencia artificial llegó a sus proyectos. La conversación aborda el aprendizaje por transferencia, la protección de los datos y su colaboración con AI Saturdays. También deja consejos para quienes quieren empezar a construir sus propias aplicaciones con IA.",
+      "en": "Pedro Cuenca shares his journey from developing iOS apps to working with deep learning. We discuss Latenitesoft, apps such as Camera+ and Sketches, and how artificial intelligence became part of his projects. The conversation covers transfer learning, data privacy and his collaboration with AI Saturdays. He also offers advice for anyone who wants to start building AI applications.",
+      "es": "Pedro Cuenca comparte su recorrido desde el desarrollo de aplicaciones para iOS hasta el aprendizaje profundo. Hablamos de Latenitesoft, de aplicaciones como Camera+ y Sketches y de cómo la inteligencia artificial llegó a sus proyectos. La conversación aborda el aprendizaje por transferencia, la protección de los datos y su colaboración con AI Saturdays. También deja consejos para quienes quieren empezar a construir sus propias aplicaciones con IA.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "– ¿Cómo se protege la privacidad de los datos con el avance tecnológico?",
+      "en": "– How can data privacy be protected as technology advances?",
+      "es": "– ¿Cómo se protege la privacidad de los datos con el avance tecnológico?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "– ¿Cómo equilibrar la innovación y la privacidad de los datos?",
+      "en": "– How can innovation and data privacy be balanced?",
+      "es": "– ¿Cómo equilibrar la innovación y la privacidad de los datos?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

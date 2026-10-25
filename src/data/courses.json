@@ -1,6 +1,16 @@
 {
   "courses": [
     {
+      "title": "Introduction to AI Safety",
+      "description": "Understand advanced AI risks, evaluations, alignment and oversight. Take your first step towards building safer AI.",
+      "level": "Starting out",
+      "topic": "AI Safety / Security",
+      "language": "Spanish",
+      "url": "https://cursos.saturdays.ai/courses/introduction-to-ai-safety",
+      "icon": "book",
+      "color": "peach"
+    },
+    {
       "title": "Python for AI",
       "description": "Build your foundations. Go from your first line of Python to thinking in code.",
       "level": "Starting out",

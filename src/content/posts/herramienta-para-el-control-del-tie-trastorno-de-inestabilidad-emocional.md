@@ -1,9 +1,6 @@
 ---
-title: Herramienta para el control del TIE (Trastorno de Inestabilidad Emocional)
-description: La Paz. Deep Learning. 2021 INTRODUCCIÓN Uno de los problemas que
-  la mayoría de los jóvenes padece hoy en día son los distintos trastornos
-  mentales que existen, dentro de estos se encuentra el Trastorno de
-  Inestabilidad…
+title: "Expresiones faciales y bienestar emocional: un prototipo con deep learning"
+description: "Un equipo de La Paz explora la clasificación de expresiones faciales con ResNet50. Presentamos el proceso y sus límites: clasificar imágenes no equivale a diagnosticar emociones."
 pubDate: 2021-10-13
 author: Miguel Guerrero
 category: AI for good
@@ -23,35 +20,32 @@ sourceUrl: https://saturdays.ai/2021/10/13/herramienta-para-el-control-del-tie-t
 sourceId: 4217
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 [La Paz](https://saturdays.ai/la-paz/). Deep Learning. 2021
 
 **INTRODUCCIÓN**
 
-Uno de los problemas que la mayoría de los jóvenes padece hoy en día son los distintos trastornos mentales que existen, dentro de estos se encuentra el Trastorno de Inestabilidad Emocional (TIE), el cual afecta de manera contundente la vida de las personas que lo padecen.
+Este proyecto educativo de 2021 exploró la clasificación de expresiones faciales mediante aprendizaje profundo. El equipo propuso registrar las etiquetas producidas por un modelo mientras una persona observaba imágenes. La idea original se vinculó a la terapia icónica, pero el trabajo presentado no demuestra eficacia terapéutica ni capacidad para diagnosticar un trastorno.
 
-El TIE se define como un conjunto de síntomas que aparecen en la etapa de la adolescencia, produciendo desequilibrios de las emociones y los sentimientos en estos. Es muy común que el adolescente padezca inestabilidad emocional debido a las dificultades que lo rodean, cuando en realidad es exactamente lo opuesto, este pasa de un estado de indiferencia a uno de afectación emocional sin motivo aparente, perdiendo así control sobre el mismo.
+Una expresión facial no permite conocer de forma fiable, por sí sola, el estado emocional de una persona. Las etiquetas del conjunto de datos son categorías de clasificación, no diagnósticos. Esta distinción es especialmente importante si se plantea usar el sistema con menores o en contextos de salud.
 
-Este problema llega a afectar hasta a un 6% de los adolescentes, una cifra que aumenta si existen agravantes de la situación familiar como, por ejemplo, problemas económicos.
-
-Actualmente se ha demostrado que la terapia icónica da buenos resultados en este trastorno. Este método se basa en utilizar imágenes (o ciertos iconos para cada área tratada). El paciente lo asocia al área que se está trabajando durante la sesión. Se le ayuda a evocar mediante las imágenes un razonamiento concreto y así se pueden anticipar al impulso emocional, por lo que se propuso el uso de Deep Learning como herramienta para esta terapia y para el seguimiento de la persona que padece de este trastorno.
+[Revisión científica sobre expresiones faciales y emociones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6640856/)
 
 ![](/media/05eb2b2b4b3ace7d.webp)
 
 **DESCRIPCIÓN DEL PROBLEMA**
 
-Debido a que la mayor característica del TIE es el cambio repentino de emociones existen diferentes terapias para tratar este trastorno, pero una de la más recomendadas es la terapia icónica que fue explicada anteriormente.
-
-Al momento de realizar la terapia icónica, el doctor debe estar atento a los diferentes cambios de emoción que presente el paciente, pero en el transcurso en el que va mostrando las imágenes o registrando las emociones que presenta el paciente, no detecta en tiempo real, qué tan rápido fue el cambio de emoción que presentó el paciente.Debido a este problema, el especialista en este trastorno puede perder valiosa información para la terapia y la recuperación de este paciente.
+El reto técnico consistía en procesar imágenes de una cámara, clasificar expresiones y guardar los resultados con una referencia temporal. Se buscaba explorar el registro automatizado, sin que ello validara la interpretación psicológica de las etiquetas.
 
 **OBJETIVO**
 
-Realizar un código el cual será usado como herramienta para controlar y evaluar más a fondo el progreso del paciente, más específicamente para la terapia icónica, usando una cámara que monitoree al paciente, guardando en tiempo real en un archivo, las diferentes emociones que presentó al mostrarle las imágenes y/o iconos, de tal manera que ayude a los psicólogos y/o psiquiatras a la evaluación de su trastorno.
+Construir un prototipo que registre las categorías de expresión facial estimadas por el modelo. Cualquier posible aplicación clínica requeriría un estudio específico, consentimiento y supervisión profesional; el prototipo descrito no acredita esos requisitos.
 
 **DATASET**
 
-Se utilizó un dataset existente y de acceso libre, el cual se encontraba en la página web llamada kaggle, el cual fue creado por Jonathan Oheix. En este archivo se clasifican expresiones faciales de 35900 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y tiene el formato en el que solo se ve su rostro con la expresión facial correspondiente. Este dataset cuenta con dos carpetas (train y validation) las cuales tienen 7 sentimientos: enojo, disgusto, miedo, feliz,neutral,triste y sorprendido
+Se utilizó un dataset existente y de acceso libre, el cual se encontraba en la página web llamada kaggle, el cual fue creado por Jonathan Oheix. En este archivo se clasifican expresiones faciales de 35900 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y tiene el formato en el que solo se ve su rostro con la expresión facial correspondiente. Este dataset cuenta con dos carpetas (train y validation) con siete categorías de expresión facial: enojo, disgusto, miedo, feliz,neutral,triste y sorprendido
 
 **SELECCIÓN DEL/LOS MODELOS**
 
@@ -61,7 +55,7 @@ El ResNet50 se utilizó debido a que es una red neuronal convolucional que posee
 
 ![](/media/7a2a40975de133ef.webp)
 
-Otros de los modelos implementados en el proyecto fueron:
+Otras herramientas utilizadas en el proyecto:
 
 Keras: Se uso esta biblioteca de código abierto escrita en Python, ya que se basa principalmente en facilitar un proceso de experimentación rápida, además como es una interfaz de uso intuitivo , nos permitio acceder a frameworks de aprendizaje automático, en este caso se hizo uso de TensorFlow.
 
@@ -95,7 +89,7 @@ A diferencia de la anterior gráfica, esta corresponde al loss del modelo
 
 Se recomienda verificar el dataset correctamente antes de ingresar a la red, ya que muchos de ellos vienen con imágenes que no corresponden. Igualmente en la medida de posible se recomienda entrenar con una GPU física, si no es el caso se recomienda utilizar la GPU de colaboratory. Si es el caso utilizar un dataset con más imágenes, ya que esto elevará la precisión del entrenamiento.
 
-Con el modelo escogido gracias a la evaluación de modelos se pudo elegir el más eficiente para realizar el código, además de lograr el objetivo de detectar emociones para que sirvan de herramienta a psiquiatras y psicólogos que tratan con pacientes con TIE.
+La comparación permitió escoger un modelo para el prototipo de clasificación. El siguiente paso sería evaluar los errores, la representatividad de los datos y los límites de interpretación antes de plantear cualquier uso fuera del ejercicio educativo.
 
 ## Presentación del proyecto: DemoDay
 

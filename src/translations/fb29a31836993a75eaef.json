@@ -238,9 +238,9 @@
     },
     {
       "source": "ya existía como proyecto y lo que faltaba era una",
-      "en": "It already existed as a project and what was missing was a",
+      "en": "already existed as a project; what it needed was a",
       "es": "ya existía como proyecto y lo que faltaba era una",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -253,6 +253,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {

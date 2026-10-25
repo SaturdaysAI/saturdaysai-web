@@ -1,7 +1,6 @@
 ---
 title: Podcast T5-E01- David Leirado Filosof-IA
-description: David Leirado comparte su camino de la filosofía a la inteligencia
-  artificial y reflexiona sobre la mente, el lenguaje y aprender haciendo.
+description: David Leirado conecta filosofía, inteligencia artificial y aprendizaje práctico.
 pubDate: 2025-01-20
 author: Miguel Guerrero
 category: Podcast
@@ -21,21 +20,12 @@ sourceUrl: https://saturdays.ai/2025/01/20/podcast-t5-e01-davidleirado-filosofia
 sourceId: 10906
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/e2ab35d5a27d3bcd.webp)
 
-Podcast con entrevista a [David Leirad](https://www.linkedin.com/in/david-leirado)o.
-
-En este episodio charlamos con David Leirado, Ingeniero de IA, mentor y filósofo.
-
-Nos cuenta su historia y compartimos opiniones sobre temas de actualidad en el mundillo de la inteligencia artificial, además de consejos para transicionar tu carrera hacia este sector.
-
-Espero que disfrutes esta escucha tanto como nosotros haciéndola.  
-¡Un abrazo!
-
-#ai4all #ai4good  
-[https://saturdays.ai/](https://saturdays.ai/)
+David Leirado conecta filosofía, inteligencia artificial y aprendizaje práctico. Este ingeniero de IA, mentor y antiguo participante de AI Saturdays Madrid nos invita a pensar sobre la mente, el lenguaje y la automatización de tareas. También comparte su visión del emprendimiento y la creatividad, y explica por qué experimentar y aprender haciendo son parte de su recorrido.
 
 ## Escúchalo aqui o en tu plataforma de podcast favorita
 
@@ -51,4 +41,6 @@ Además, comparte su visión optimista sobre un futuro donde la tecnología demo
 
 Este episodio es una invitación a explorar no solo la tecnología, sino también las profundas implicaciones filosóficas que esta conlleva. ¡No te lo pierdas!
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+- [David Leirad](https://www.linkedin.com/in/david-leirado)
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

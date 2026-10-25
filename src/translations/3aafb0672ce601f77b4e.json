@@ -17,10 +17,15 @@
     },
     {
       "source": "La Paz. 2021 Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a…",
-      "en": "Peace. 2021 We apply Machine Learning (a type of recurrent neural network (RNN) called LSTM (Long short-term memory)) to predict engine failures and thus help reduce one of the biggest problems to…",
+      "en": "La Paz. 2021 We apply Machine Learning (a type of recurrent neural network (RNN) called LSTM (Long short-term memory)) to predict engine failures and thus help reduce one of the biggest problems to…",
       "es": "La Paz. 2021 Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a nivel industrial, como es el mantenimiento correctivo (debido a sus elevados costes tanto de reparación como de producción). Por otra parte el mantenimiento preventivo está planificado por medio de una agenda para realizar un paro programado, donde no interesa si el equipo aún puede trabajar o si sus piezas siguen bien; se realiza el mantenimiento porque así fue programado.",
@@ -61,7 +66,12 @@
       "en": "The problem is the time and financial resources invested to be able to solve a corrective maintenance failure in the shortest time possible. At the same time, preventive maintenance could be optimized by doing it based on equipment conditions. Both take time in their maintenance and also in the production of the product.",
       "es": "El problema es el tiempo y los recursos económicos invertidos para poder solventar una falla de mantenimiento correctivo en el menor tiempo posible. A la vez que un mantenimiento preventivo podría optimizarse al hacerlo en base a condiciones de los equipos. Ambos ocupan tiempo en su mantenimiento y también en la producción del producto.",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Los datasets utilizados, son de la degradación de motores de turbo-ventiladores de la NASA generados por C-MAPSS, lo cual es aplicable a cualquier otra máquina rotativa, como ser: motores de transportes industriales, bombas hidraulicas, etc.",

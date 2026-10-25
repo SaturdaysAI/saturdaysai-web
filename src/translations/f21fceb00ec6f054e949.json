@@ -114,7 +114,7 @@
     },
     {
       "source": "– Presentación Margarita Sordo, ¿Quién es?",
-      "en": "– Presentation Margarita Sordo, Who is she?",
+      "en": "– Meet Margarita Sordo",
       "es": "– Presentación Margarita Sordo, ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es",
@@ -171,9 +171,9 @@
     },
     {
       "source": "– ¿Con qué proyecto se queda?",
-      "en": "– What project are you staying with?",
+      "en": "– Which project stands out most for you?",
       "es": "– ¿Con qué proyecto se queda?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -186,6 +186,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
       }
     },
     {
@@ -262,6 +267,28 @@
           "URLs"
         ],
         "editorialReview": false
+      }
+    },
+    {
+      "source": "Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud.",
+      "en": "Margarita Sordo draws on more than twenty years of experience in biomedical informatics and AI for healthcare.",
+      "es": "Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud. Hablamos de su paso de la investigación al trabajo aplicado, de los proyectos que más le han marcado y de los retos de llevar la IA a la medicina. También ofrece recomendaciones para quienes quieren acercarse a este campo.",
+      "en": "Margarita Sordo draws on more than twenty years of experience in biomedical informatics and AI for healthcare. We discuss her move from research to applied work, the projects that shaped her career and the challenges of bringing AI into medicine. She also offers advice for people interested in the field.",
+      "es": "Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud. Hablamos de su paso de la investigación al trabajo aplicado, de los proyectos que más le han marcado y de los retos de llevar la IA a la medicina. También ofrece recomendaciones para quienes quieren acercarse a este campo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
       }
     }
   ]

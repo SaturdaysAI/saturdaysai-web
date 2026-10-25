@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "La Paz. 2021 Introducción El resumen de texto es el proceso de extraer la información más importante de un texto fuente para producir una versión abreviada para un usuario. Los seres humanos llevamos a cabo la tarea de…",
-      "en": "Peace. 2021 Introduction Text summarization is the process of extracting the most important information from a source text to produce an abbreviated version for a user. Human beings carry out the task of…",
+      "en": "La Paz. 2021 Introduction Text summarization is the process of extracting the most important information from a source text to produce an abbreviated version for a user. Human beings carry out the task of…",
       "es": "La Paz. 2021 Introducción El resumen de texto es el proceso de extraer la información más importante de un texto fuente para producir una versión abreviada para un usuario. Los seres humanos llevamos a cabo la tarea de…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Problema",

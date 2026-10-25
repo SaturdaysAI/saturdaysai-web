@@ -42,9 +42,14 @@
     {
       "source": "Podcast con entrevista a Natalia Galvadà",
       "en": "Podcast with interview with Natalia Galvadà",
-      "es": "Podcast con entrevista a Natalia Galvadà",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Podcast con entrevista a Natalia Gavaldà",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "En este episodio, charlamos y nos echamos unas risas con Natalia Gavaldà, Data Engineer en",
@@ -143,6 +148,39 @@
       "es": "Sep 13, 2022",
       "reviewed": false,
       "translationVersion": 2
+    },
+    {
+      "source": "Natalia Gavaldà comparte su entusiasmo por la estadística, la divulgación y el trabajo en equipo.",
+      "en": "Natalia Gavaldà shares her enthusiasm for statistics, science communication and teamwork.",
+      "es": "Natalia Gavaldà comparte su entusiasmo por la estadística, la divulgación y el trabajo en equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Escúchalo aquí o en tu plataforma de podcast favorita",
+      "en": "Listen here or on your favourite podcast platform",
+      "es": "Escúchalo aquí o en tu plataforma de podcast favorita",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "Natalia Gavaldà comparte su entusiasmo por la estadística, la divulgación y el trabajo en equipo. Hablamos de su experiencia como ingeniera de datos en SCRM, de su etapa al frente de Saturdays.AI en Alicante y de su perspectiva sobre el desarrollo abierto de la IA. También hay espacio para enseñar matemáticas en casa con catapultas: una forma de recordar que aprender puede empezar por la curiosidad y el juego.",
+      "en": "Natalia Gavaldà shares her enthusiasm for statistics, science communication and teamwork. We discuss her experience as a data engineer at SCRM, her time leading Saturdays.AI in Alicante and her views on open AI development. There is also room for teaching maths at home with catapults: a reminder that learning can begin with curiosity and play.",
+      "es": "Natalia Gavaldà comparte su entusiasmo por la estadística, la divulgación y el trabajo en equipo. Hablamos de su experiencia como ingeniera de datos en SCRM, de su etapa al frente de Saturdays.AI en Alicante y de su perspectiva sobre el desarrollo abierto de la IA. También hay espacio para enseñar matemáticas en casa con catapultas: una forma de recordar que aprender puede empezar por la curiosidad y el juego.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

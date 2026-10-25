@@ -1,10 +1,6 @@
 ---
-title: Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con Machine
-  Learning
-description: La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el
-  mundo, existe un problema bastante común en la mayoría de los hospitales y es
-  que al existir diariamente, una cantidad bastante grande de personas que
-  buscan…
+title: Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con Machine Learning
+description: La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan…
 pubDate: 2021-11-11
 author: Miguel Guerrero
 category: AI for good
@@ -14,14 +10,15 @@ tags:
   - Red Neuronal
   - Salud y Bienestar
 image: /media/c71cb88fd6f4cfd8.webp
-imageAlt: Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con
-  Machine Learning
+imageAlt: Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con Machine Learning
 legacyPath: /2021/11/11/neumonia/
 sourceUrl: https://saturdays.ai/2021/11/11/neumonia/
 sourceId: 4393
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 [La Paz](https://saturdays.ai/la-paz/). Machine Learning. 2021
 

@@ -1,9 +1,6 @@
 ---
-title: Uso de inteligencia artificial de soporte de diagnóstico presuntivo del
-  glaucoma humano
-description: El glaucoma es una enfermedad que afecta al nervio óptico. Si este
-  no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada
-  año, el glaucoma es la causa que millones de personas pierdan la vista. En el…
+title: "IA y glaucoma: un proyecto de apoyo al análisis de imágenes"
+description: "Un proyecto de análisis de imágenes oculares con redes neuronales: cómo se preparan los datos y qué límites tiene su uso como apoyo clínico."
 pubDate: 2022-05-02
 author: Info Saturdays
 category: Community
@@ -13,18 +10,22 @@ tags:
   - Inteligencia Artificial
   - Red Neuronal
 image: /media/bc4e4fecf9d1a014.webp
-imageAlt: Uso de inteligencia artificial de soporte de diagnóstico presuntivo
-  del glaucoma humano
+imageAlt: Uso de inteligencia artificial de soporte de diagnóstico presuntivo del glaucoma humano
 legacyPath: /2022/05/02/inteligencia-artificial-diagnostico-glaucoma/
 sourceUrl: https://saturdays.ai/2022/05/02/inteligencia-artificial-diagnostico-glaucoma/
 sourceId: 7294
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
-El glaucoma es una enfermedad que afecta al nervio óptico. Si este no se trata de manera precoz puede provocar ceguera. Según afirma la OMS, cada año, el glaucoma es la causa que millones de personas pierdan la vista. En el mundo, 2,2 billones de personas padecen discapacidad visual y de estas, **un total de 1 billones hubieran podido controlar esta enfermedad a partir de un diagnóstico previo.**  
+El glaucoma puede dañar el nervio óptico y causar pérdida de visión. La cifra global de discapacidad visual citada por la OMS no se refiere solo al glaucoma: al menos 2.200 millones de personas tienen dificultades de visión de cerca o de lejos y, en al menos 1.000 millones de casos, la discapacidad podría haberse evitado o aún no se ha atendido.
 
-El uso de la **inteligencia artificial** en este campo, nos podría **ayudar** enormemente a **diagnosticar a los pacientes de manera preventiva**. Para su uso, a través de imágenes de fondo de ojo tomadas a partir de bases de datos públicos, todas ellas catalogadas por especialistas en el campo de la medicina y tomadas por un tomógrafo de coherencia óptica.
+[OMS: discapacidad visual](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment)
+
+Corrección editorial, 25 de octubre de 2026: se corrigen las unidades de la cifra original y su atribución al glaucoma. El proyecto conserva su contexto de publicación de 2022.
+
+Este artículo describe una propuesta de investigación que utiliza imágenes oculares y redes neuronales para explorar el apoyo al análisis clínico. Los resultados de un conjunto de datos no bastan para establecer un diagnóstico ni para demostrar que una herramienta funciona en otros centros o poblaciones.
 
 ![](/media/0ffb16309957e6a7.webp)
 
@@ -52,7 +53,7 @@ Posteriormente, a fin de poder procesar estas imágenes correctamente se trató 
 
 ## Búsqueda de soluciones óptimas
 
-En conclusión, esta propuesta de detección de glaucoma es una de las múltiples que podemos encontrar a día de hoy para el diagnóstico de ésta enfermedad. Desgraciadamente, no tiene una solución óptima, pero sabemos que si la diagnosticamos en una etapa temprana podemos tratarla para paliar algunos de los síntomas. Por otra parte también sabemos que la red neuronal depende de la base de datos que dispongamos. Por tanto, la precisión de los resultados conseguidos dependerá del tamaño del batch, dimensiones de las imágenes, cantidad de capas convulsionales… entre otros siendo necesario el entrenamiento de nuestro modelo.
+La propuesta muestra cómo preparar imágenes y entrenar un clasificador. Para valorar su utilidad clínica harían falta una evaluación independiente, datos representativos y la revisión de profesionales sanitarios. El rendimiento depende de la calidad de los datos, del diseño del modelo y de cómo se separan los conjuntos de entrenamiento y prueba; una precisión alta por sí sola no demuestra seguridad clínica.
 
 Si quieres formar parte de la búsqueda de soluciones óptimas, no dudes en comenzar o continuar tu formación en Inteligencia Artificial con nosotros. Consulta los cursos de Saturdays.AI y elige el que más te guste en nuestra [web](https://saturdays.ai/).
 
@@ -60,7 +61,7 @@ Si quieres formar parte de la búsqueda de soluciones óptimas, no dudes en come
 
 1.-Buri Abad, Edison Arturo. _Procesamiento de imágenes digitales del fondo de ojo con el uso de inteligencia artificial para brindar una herramienta de soporte de diagnóstico presuntivo del glaucoma humano._ Feb-2022.
 
-2.-Mayo Clinic. Glaucoma. Consultar en: [https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc 20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.](<https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc 20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.>)
+2.-Mayo Clinic. Glaucoma. Consultar en: [https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc-20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.](<https://www.mayoclinic.org/es-es/diseases-conditions/glaucoma/symptoms-causes/syc-20372839#:~:text=El%20glaucoma%20es%20un%20grupo,personas%20mayores%20de%2060%20a%C3%B1os.>)
 
 ## **Written by**
 

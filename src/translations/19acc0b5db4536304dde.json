@@ -126,10 +126,15 @@
     },
     {
       "source": "– ¿Con qué te quedas desde la parte personal?",
-      "en": "– What do you stay with from the personal side?",
+      "en": "– What has the experience meant to you personally?",
       "es": "– ¿Con qué te quedas desde la parte personal?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– ¿Cuáles serían los siguientes pasos del proyecto?",
@@ -163,6 +168,28 @@
       "en": "– Developing the project solution",
       "es": "– Proceso de desarrollo de la solución del proyecto",
       "reviewed": true
+    },
+    {
+      "source": "Joaquín López Herráiz nos acerca al uso de la IA en el análisis de radiografías de tórax durante la pandemia de COVID-19.",
+      "en": "Joaquín López Herráiz discusses the use of AI to analyse chest X-rays during the COVID-19 pandemic.",
+      "es": "Joaquín López Herráiz nos acerca al uso de la IA en el análisis de radiografías de tórax durante la pandemia de COVID-19.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Joaquín López Herráiz nos acerca al uso de la IA en el análisis de radiografías de tórax durante la pandemia de COVID-19. Cuenta cómo su equipo de la Universidad Complutense de Madrid desarrolló el proyecto ganador de CodeTheCurve, el hackathon de la UNESCO. La conversación recorre el proceso de desarrollo, sus principales retos y los siguientes pasos que planteaba el equipo.",
+      "en": "Joaquín López Herráiz discusses the use of AI to analyse chest X-rays during the COVID-19 pandemic. He explains how his team at the Complutense University of Madrid developed the winning project at UNESCO’s CodeTheCurve hackathon. The conversation covers the development process, its main challenges and the team’s proposed next steps.",
+      "es": "Joaquín López Herráiz nos acerca al uso de la IA en el análisis de radiografías de tórax durante la pandemia de COVID-19. Cuenta cómo su equipo de la Universidad Complutense de Madrid desarrolló el proyecto ganador de CodeTheCurve, el hackathon de la UNESCO. La conversación recorre el proceso de desarrollo, sus principales retos y los siguientes pasos que planteaba el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

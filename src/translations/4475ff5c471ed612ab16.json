@@ -210,9 +210,14 @@
     },
     {
       "source": "El Confidencial (Abril 2022)",
-      "en": "The Confidencial (April 2022)",
+      "en": "El Confidencial (April 2022)",
       "es": "El Confidencial (Abril 2022)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Nationalinterest (Marzo 2022)",

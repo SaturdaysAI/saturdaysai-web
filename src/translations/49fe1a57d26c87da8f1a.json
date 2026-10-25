@@ -62,9 +62,14 @@
     },
     {
       "source": "Paúl Quezada",
-      "en": "Paul Quezada",
+      "en": "Paúl Quezada",
       "es": "Paúl Quezada",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "}, decidió participar en la Tercera Edición del Saturdays AI Quito, que de manera inédita, ubicua y flexible, se desarrolló de manera virtual.",

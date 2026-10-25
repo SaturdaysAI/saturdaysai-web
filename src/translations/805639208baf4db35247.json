@@ -184,9 +184,14 @@
     },
     {
       "source": "AL COMPLETO",
-      "en": "TO THE COMPLETE",
+      "en": "in full",
       "es": "AL COMPLETO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "antes de la explicación:",

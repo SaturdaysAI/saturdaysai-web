@@ -137,7 +137,7 @@ for (const file of files) {
     });
     // Label the translated archive accurately; audio/video recordings remain in their original language.
     const reviewedInformationPages = new Set([
-      '/about/', '/terms/', '/privacy-policy/', '/privacy-policy-2/', '/contact/', '/contacto/',
+      '/about/', '/terms/', '/privacy-policy/', '/privacy-policy-2/', '/contact/', '/contacto/', '/seguridad-ia/',
     ]);
     if ($('.reading-body .prose,.city-history .prose').length && !reviewedInformationPages.has(route)) {
       const notice = $('<p class="translation-notice"></p>').text(

@@ -619,10 +619,15 @@
     },
     {
       "source": "Systems Engineer passionated to Deep Learning and Artificial Inteligence",
-      "en": "Systems Engineer passionated to Deep Learning and Artificial Inteligence",
+      "en": "Systems Engineer passionate about deep learning and artificial intelligence",
       "es": "Ingeniero de Sistemas apasionado por el Deep Learning y la Inteligencia Artificial",
-      "reviewed": false,
-      "sourceLanguage": "en"
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of rogramas intensivos donde se realizan proyectos para el bien (",
@@ -637,6 +642,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicado originalmente el 31 de diciembre de 2021.",
       "reviewed": false,
       "sourceLanguage": "en"
+    },
+    {
+      "source": "Updated",
+      "en": "Updated",
+      "es": "Actualizado",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "Oct 25, 2026",
+      "en": "Oct 25, 2026",
+      "es": "25 oct 2026",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

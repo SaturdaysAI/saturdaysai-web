@@ -572,11 +572,16 @@
     },
     {
       "source": "Héctor Soria",
-      "en": "Hector Soria",
+      "en": "Héctor Soria",
       "es": "Héctor Soria",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Virginia Navarro",
@@ -6310,6 +6315,17 @@
       "en": "(Cross Industry Standard Process for",
       "es": "(Proceso estándar de la industria para",
       "reviewed": true
+    },
+    {
+      "source": "Una pandemia mundial, el asalto al Capitolio de Estados Unidos, la borrasca Filomena, una erupción volcánica y el inicio de una guerra en Europa… y, en medio de todo ello, un curso de IA en Zaragoza. Así recordamos el contexto en el que comenzó este proyecto de 2022.",
+      "en": "A global pandemic, the attack on the US Capitol, Storm Filomena, a volcanic eruption and the outbreak of war in Europe… and, amid it all, an AI course in Zaragoza. That was the backdrop to this project in 2022.",
+      "es": "Una pandemia mundial, el asalto al Capitolio de Estados Unidos, la borrasca Filomena, una erupción volcánica y el inicio de una guerra en Europa… y, en medio de todo ello, un curso de IA en Zaragoza. Así recordamos el contexto en el que comenzó este proyecto de 2022.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

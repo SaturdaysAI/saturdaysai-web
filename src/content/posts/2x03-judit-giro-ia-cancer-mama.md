@@ -1,8 +1,6 @@
 ---
 title: Podcast T2/E3 – Judit Giró – La IA en la detección del cáncer de mama
-description: En este episodio contamos con Judit Giró que nos habla de cómo
-  consiguió imitar a la biología para conseguir desarrollar su proyecto The Blue
-  Box y de cómo la IA ha sido fundamental en todo esto.
+description: Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama.
 pubDate: 2021-12-16
 author: Info Saturdays
 category: Podcast
@@ -15,13 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/16/2x03-judit-giro-ia-cancer-mama/
 sourceId: 4959
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/7f74887568c81539.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio contamos con Judit Giró que nos habla de cómo consiguió imitar a la biología para conseguir desarrollar su proyecto _The Blue Box_ y de cómo la IA ha sido fundamental en todo esto. Además, nos hablara de sus proyecciones futuras y todo lo que queda por hacer en este campo.
+Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama. Hablamos del papel de la IA, del proceso experimental, de las cuestiones éticas y del trabajo que todavía queda por hacer. Sus planes y resultados se sitúan en el momento de esta entrevista.
 
 ## **Links**
 
@@ -51,3 +48,5 @@ En este episodio contamos con Judit Giró que nos habla de cómo consiguió imit
 **16:38** – ¿Cómo pueden usar el producto? ¿En hospitales, en clínicas?
 
 **18:20** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

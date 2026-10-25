@@ -1,9 +1,6 @@
 ---
 title: Machine Learning para la detección de COVID-19
-description: La COVID-19 es la enfermedad causada por el nuevo coronavirus
-  conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia
-  de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo
-  de casos…
+description: La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos…
 pubDate: 2022-01-02
 author: Miguel Guerrero
 category: AI for good
@@ -16,7 +13,9 @@ sourceUrl: https://saturdays.ai/2022/01/02/machine-learning-para-la-deteccion-de
 sourceId: 5135
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China). En este artículo intentaremos describir la forma de aplicar Machine Learning para detectar el Covid-19.
 

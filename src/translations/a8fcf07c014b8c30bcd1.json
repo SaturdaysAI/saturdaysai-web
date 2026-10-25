@@ -178,7 +178,7 @@
     },
     {
       "source": "La agricultura y la ganadería son las industrias que más las necesitan y las utilizan. Entre las últimas tecnologías innovadoras se encuentran: los sensores para la siembra y la fertilización, las banderas satelitales, las aplicaciones o sitios web de pronóstico del tiempo y los mercados en línea.",
-      "en": "Agriculture and livestock are the industries that need and use them the most. The latest innovative technologies include: planting and fertilization sensors, satellite flags, weather forecast apps or websites, and online markets.",
+      "en": "Agriculture and livestock are the industries that need and use them the most. The latest innovative technologies include: planting and fertilization sensors, satellite mapping, weather forecast apps or websites, and online markets.",
       "es": "La agricultura y la ganadería son las industrias que más las necesitan y las utilizan. Entre las últimas tecnologías innovadoras se encuentran: los sensores para la siembra y la fertilización, las banderas satelitales, las aplicaciones o sitios web de pronóstico del tiempo y los mercados en línea.",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -212,9 +212,14 @@
     },
     {
       "source": "Gema Laso Aguarás",
-      "en": "Gem Laso Aguarás",
+      "en": "Gema Laso Araguás",
       "es": "Gema Laso Aguarás",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Alimentación con IA",

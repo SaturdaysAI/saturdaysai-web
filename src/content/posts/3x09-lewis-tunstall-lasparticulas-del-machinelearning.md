@@ -1,8 +1,6 @@
 ---
 title: Podcast T3/E9 – Lewis Tunstall – Las Partículas del Machine Learning
-description: Lewis Tunstall, Ingeniero de Machine Learning en Hugging Face y PhD
-  en física de partículas, nos explica su transición desde el mundo académico a
-  científico de datos. Hablamos sobre Transformers, Hugging Face y si la AGI…
+description: Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático.
 pubDate: 2022-02-09
 author: Info Saturdays
 category: Podcast
@@ -20,22 +18,12 @@ sourceUrl: https://saturdays.ai/2022/02/09/3x09-lewis-tunstall-lasparticulas-del
 sourceId: 5780
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/7db6d9176f5cf8c3.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio entrevistamos a Lewis Tunstall, Ingeniero de Machine Learning.
-
-Nos cuenta sobre su traspaso de físico de partículas al científico de datos.
-
-También toca el tema de los _transformers_ y su labor en Hugging Face.
-
-Por último reflexiona sobre la AGI (Inteligencia Artificial General) y el impacto en los sistemas de ML 
-
-
-Si quieres saber más, no dudes en escucharlo o pasarte por su perfil!
+Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático. Exploramos su trabajo en Hugging Face, los modelos transformer y los retos de llevar estas herramientas a más personas e idiomas. También hablamos de inteligencia artificial general, de cómo valorar el impacto del propio trabajo y de los primeros pasos para aprender machine learning y deep learning.
 
 ## **Links**
 
@@ -67,3 +55,5 @@ Si quieres saber más, no dudes en escucharlo o pasarte por su perfil!
 **38:00** – ¿Cómo mides tu impacto?
 
 **42:12** – ¿Qué recomendarías a nuestros estudiantes y los que quieren entrar en el mundo de ML y DL?
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

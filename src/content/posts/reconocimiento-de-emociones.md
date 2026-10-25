@@ -1,7 +1,6 @@
 ---
 title: Reconocimiento de emociones en tiempo real
-description: Reconocimiento de emociones mediante el estudio de expresiones
-  faciales con deep learning y computer vision.
+description: Reconocimiento de emociones mediante el estudio de expresiones faciales con deep learning y computer vision.
 pubDate: 2021-11-22
 author: Miguel Guerrero
 category: AI for good
@@ -22,7 +21,11 @@ sourceUrl: https://saturdays.ai/2021/11/22/reconocimiento-de-emociones/
 sourceId: 4648
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.
+
+[Evidencia sobre expresiones faciales y emociones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6640856/)
 
 [Quito](https://quito.saturdays.ai/?_ga=2.150392373.2064571031.1649088432-1474023447.1648397939). 2021
 

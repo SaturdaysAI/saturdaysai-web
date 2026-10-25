@@ -44,13 +44,18 @@
     },
     {
       "source": "Sobre Judit",
-      "en": "About Judith",
+      "en": "About Judit",
       "es": "Sobre Judit",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Presentación Judit ¿Quién es?",
-      "en": "– Presentation Judit Who is she?",
+      "en": "– Meet Judit",
       "es": "– Presentación Judit ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -102,6 +107,28 @@
       "es": "– ¿Cómo pueden usar el producto? ¿En hospitales, en clínicas?",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama.",
+      "en": "Judit Giró explains how inspiration from biology led to The Blue Box, her research project on breast cancer detection.",
+      "es": "Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama. Hablamos del papel de la IA, del proceso experimental, de las cuestiones éticas y del trabajo que todavía queda por hacer. Sus planes y resultados se sitúan en el momento de esta entrevista.",
+      "en": "Judit Giró explains how inspiration from biology led to The Blue Box, her research project on breast cancer detection. We discuss the role of AI, the experimental process, ethical questions and the work still to be done. Her plans and findings are presented in the context of this interview.",
+      "es": "Judit Giró cuenta cómo la inspiración en la biología dio origen a The Blue Box, su proyecto de investigación sobre detección del cáncer de mama. Hablamos del papel de la IA, del proceso experimental, de las cuestiones éticas y del trabajo que todavía queda por hacer. Sus planes y resultados se sitúan en el momento de esta entrevista.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

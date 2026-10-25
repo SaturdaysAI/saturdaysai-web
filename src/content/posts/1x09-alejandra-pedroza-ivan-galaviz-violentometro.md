@@ -1,31 +1,24 @@
 ---
-title: Podcast T1/E09 – Alejandra Pedroza & Iván Galaviz – Violentómetro Online
-  (Detección de discurso de odio contra las mujeres utilizando IA)
-description: En este episodio invitamos a Alejandra Pedroza e Iván Galaviz,
-  quienes crearon una aplicación llamada Violentómetro Online para detectar el
-  discurso de odio contra mujeres utilizando IA
+title: Podcast T1/E09 – Alejandra Pedroza & Iván Galaviz – Violentómetro Online (Detección de discurso de odio contra las mujeres utilizando IA)
+description: Alejandra Pedroza e Iván Galaviz presentan Violentómetro Online, un proyecto que utiliza IA para identificar discurso de odio contra las mujeres.
 pubDate: 2021-12-15
 author: Info Saturdays
 category: Podcast
 kind: article
 tags: []
 image: /media/e1b98f14865d9f79.webp
-imageAlt: Podcast T1/E09 – Alejandra Pedroza & Iván Galaviz – Violentómetro
-  Online (Detección de discurso de odio contra las mujeres utilizando IA)
+imageAlt: Podcast T1/E09 – Alejandra Pedroza & Iván Galaviz – Violentómetro Online (Detección de discurso de odio contra las mujeres utilizando IA)
 legacyPath: /2021/12/15/1x09-alejandra-pedroza-ivan-galaviz-violentometro/
 sourceUrl: https://saturdays.ai/2021/12/15/1x09-alejandra-pedroza-ivan-galaviz-violentometro/
 sourceId: 4930
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/e1b98f14865d9f79.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio invitamos a Alejandra Pedroza e Iván Galaviz, quienes crearon una aplicación llamada Violentómetro Online para detectar el discurso de odio contra mujeres utilizando IA . Un proyecto de suma relevancia para México y Latinoamérica, ya que según datos de la CEPAL, Una mujer es asesinada cada dos horas en América Latina por el hecho de ser mujer.  
-
-Esperamos que lo disfruten tanto como nosotros.
+Alejandra Pedroza e Iván Galaviz presentan Violentómetro Online, un proyecto que utiliza IA para identificar discurso de odio contra las mujeres. Explican cómo surgió la idea, qué técnicas exploraron y qué dificultades encontraron al desarrollar la aplicación. Una conversación sobre tecnología y el reto de abordar la violencia de género en los espacios digitales.
 
 ## **Links**
 
@@ -52,3 +45,5 @@ Esperamos que lo disfruten tanto como nosotros.
 **24:28** – ¿Cómo ven el proyecto en unos años?
 
 **27:57** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

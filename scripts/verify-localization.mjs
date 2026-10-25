@@ -41,7 +41,7 @@ for (const file of files) {
   assert.doesNotMatch($('body').text(), /ZXQ\d{4}|SATURDAYS_BRAND|QZXBRAND/, file);
   assert.doesNotMatch(
     $('body').text(),
-    /THE HERRAMIENTS YOU USED|THE REAL FLUITS|WHAT I VALID BEFORE I DARL|Miga de pan|abrazar la cara/i,
+    /THE HERRAMIENTS YOU USED|THE REAL FLUITS|WHAT I VALID BEFORE I DARL|Miga de pan|abrazar la cara|equiposs|Albertoo/i,
     `${file}: known editorial regression`,
   );
   if (!/^(?:en\/)?20\d{2}\//.test(relative)) {
@@ -57,15 +57,55 @@ for (const file of files) {
     );
   }
   if (/^(?:en\/)?about\/index.html$/.test(relative)) {
-    assert.match($('.prose').text(), language === 'es' ? /30\.000 AI fellows/ : /30,000 AI fellows/);
-    const founder = $('.about-person').filter((_, el) => $(el).find('h3').text() === 'Miguel Guerrero');
-    assert.equal(founder.find('.person-role').text(), language === 'es' ? 'Fundador y presidente' : 'Founder & President');
+    assert.match(
+      $('.prose').text(),
+      language === 'es' ? /30\.000 AI fellows/ : /30,000 AI fellows/,
+    );
+    const founder = $('.about-person').filter(
+      (_, el) => $(el).find('h3').text() === 'Miguel Guerrero',
+    );
+    assert.equal(
+      founder.find('.person-role').text(),
+      language === 'es' ? 'Fundador y presidente' : 'Founder & President',
+    );
   }
   if (/^(?:en\/)?(?:terms|privacy-policy-2)\/index.html$/.test(relative)) {
     assert.match($('.prose').text(), /AI SATURDAYS ASOCIACIÓN/);
     assert.match($('.prose').text(), /G67349076/);
     assert.match($('.prose').text(), /08005 Barcelona/);
     assert.doesNotMatch($('.prose').text(), /before the main domain|antes de trasladar el dominio/);
+  }
+  if (/^(?:en\/)?seguridad-ia\/index.html$/.test(relative)) {
+    assert.equal(
+      $('h1').text().trim(),
+      language === 'es' ? 'Seguridad de la IA' : 'AI Safety / Security',
+    );
+    assert.ok(
+      $('a[href="https://cursos.saturdays.ai/courses/introduction-to-ai-safety"]').length > 0,
+    );
+    assert.match(
+      $('.prose').text(),
+      language === 'es' ? /se imparte en español/ : /taught in Spanish/,
+    );
+    if (language === 'es') assert.doesNotMatch($('main').text(), /AI Safety|AI Security/);
+  }
+  if (/^(?:en\/)?(?:index.html|online\/index.html)$/.test(relative)) {
+    assert.equal($('.safety-spotlight').length, 1);
+    assert.match(
+      $('.safety-spotlight').text(),
+      language === 'es' ? /Protege lo que importa/ : /Protect what matters/,
+    );
+    assert.ok(
+      $('.safety-spotlight a[href="https://cursos.saturdays.ai/courses/introduction-to-ai-safety"]')
+        .length > 0,
+    );
+  }
+  if (/inteligencia-artificial-campo-militar\/index.html$/.test(relative)) {
+    assert.match(
+      $('.prose').text(),
+      language === 'es' ? /experimento mental hipotético/ : /hypothetical thought experiment/,
+    );
+    assert.match($('.prose').text(), /Royal Aeronautical Society/);
   }
   pages++;
 }

@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan…",
-      "en": "Peace. Machine Learning. 2021 (La Paz 2021) Around the world, there is a fairly common problem in most hospitals and that is that as they exist daily, a fairly large number of people looking for…",
+      "en": "La Paz. Machine Learning. 2021 (La Paz 2021) Around the world, there is a fairly common problem in most hospitals and that is that as they exist daily, a fairly large number of people looking for…",
       "es": "La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "11 nov 2021",
@@ -310,10 +315,15 @@
     },
     {
       "source": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en",
-      "en": "If you want to learn more artificial intelligence join our community at",
+      "en": "If you want to learn more about artificial intelligence join our community at",
       "es": "Si quieres aprender más inteligencia artificial únete a nuestra comunidad en",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "community.saturdays.ai",
@@ -333,6 +343,17 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 11 nov 2021.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.",
+      "en": "Editorial note: this article documents an educational project and its results on the data used. It does not establish clinical validation or authorisation to diagnose or treat patients. Proposed healthcare applications are retained as the team’s goals, not demonstrated capabilities.",
+      "es": "Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

@@ -282,6 +282,17 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 16 nov 2024.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Cursor es un editor de código basado en Visual Studio Code que integra funciones de asistencia con IA. En este proyecto lo utilicé para consultar dudas, generar propuestas de código y revisar errores. Las sugerencias necesitaban pruebas y revisión: el editor ayudaba a trabajar, pero no garantizaba que la aplicación fuera correcta.",
+      "en": "Cursor is a code editor based on Visual Studio Code with integrated AI assistance. In this project, I used it to ask questions, generate code suggestions and review errors. Those suggestions still needed testing and review: the editor supported the work but did not guarantee that the application was correct.",
+      "es": "Cursor es un editor de código basado en Visual Studio Code que integra funciones de asistencia con IA. En este proyecto lo utilicé para consultar dudas, generar propuestas de código y revisar errores. Las sugerencias necesitaban pruebas y revisión: el editor ayudaba a trabajar, pero no garantizaba que la aplicación fuera correcta.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

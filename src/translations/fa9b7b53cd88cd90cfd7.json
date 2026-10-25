@@ -31,7 +31,7 @@
     {
       "source": "Guadalajara. Tercera Edición. 2021 Nuesta experiencia Saturday.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…",
       "en": "Guadalajara. Third Edition. 2021 Our experience Saturday.AI Our team is made up of 5 people from various professional areas and levels of experience, as well as different places of origin, which enriched…",
-      "es": "Guadalajara. Tercera Edición. 2021 Nuesta experiencia Saturday.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…",
+      "es": "Guadalajara. Tercera Edición. 2021 Nuestra experiencia en Saturdays.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…",
       "reviewed": false,
       "sourceLanguage": "es",
       "translationVersion": 3,
@@ -45,13 +45,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
       }
     },
     {
       "source": "Nuesta experiencia Saturday.AI",
       "en": "Our Saturday.AI experience",
-      "es": "Nuesta experiencia Saturday.AI",
-      "reviewed": false,
+      "es": "Nuestra experiencia en Saturdays.AI",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -63,6 +68,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {
@@ -180,11 +190,16 @@
     },
     {
       "source": "Raúl Sandoval",
-      "en": "Raul Sandoval",
+      "en": "Raúl Sandoval",
       "es": "Raúl Sandoval",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Karla Ramírez",
@@ -196,11 +211,16 @@
     },
     {
       "source": "Aldo Álvarez",
-      "en": "Aldo Alvarez",
+      "en": "Aldo Álvarez",
       "es": "Aldo Álvarez",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Israel Castillo",
@@ -870,6 +890,28 @@
       "reviewed": false,
       "translationVersion": 2,
       "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.",
+      "en": "Editorial note: this project classifies facial expressions using its dataset’s labels. That task does not, by itself, establish a person’s emotions, attention or wellbeing. The results described should be read as those of an educational prototype.",
+      "es": "Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Evidencia sobre expresiones faciales y emociones",
+      "en": "Evidence on facial expressions and emotions",
+      "es": "Evidencia sobre expresiones faciales y emociones",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

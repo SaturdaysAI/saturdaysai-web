@@ -1,9 +1,6 @@
 ---
 title: MOODY.AI
-description: Guadalajara. Tercera Edición. 2021 Nuesta experiencia Saturday.AI
-  Nuestro equipo está formado por 5 personas de diversas áreas profesionales y
-  niveles de experiencia, además de distintos lugares de origen, lo cual
-  enriqueció…
+description: Guadalajara. Tercera Edición. 2021 Nuesta experiencia Saturday.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…
 pubDate: 2021-10-13
 author: Miguel Guerrero
 category: AI for good
@@ -19,9 +16,11 @@ sourceUrl: https://saturdays.ai/2021/10/13/moody-ai/
 sourceId: 4226
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.
 
-
+[Evidencia sobre expresiones faciales y emociones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6640856/)
 
 ![](/media/39bedb473bba6b2d.webp)
 

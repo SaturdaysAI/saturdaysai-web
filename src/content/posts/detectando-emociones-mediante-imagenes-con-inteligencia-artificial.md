@@ -1,9 +1,6 @@
 ---
 title: Detectando emociones mediante imágenes con Inteligencia Artificial
-description: Donostia. Primera edición. 2020 Introducción En la vida cotidiana,
-  ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la
-  respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas
-  veces has…
+description: Donostia. Primera edición. 2020 Introducción En la vida cotidiana, ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas veces has…
 pubDate: 2022-03-16
 author: Info Saturdays
 category: AI for good
@@ -21,7 +18,11 @@ sourceUrl: https://saturdays.ai/2022/03/16/detectando-emociones-mediante-imagene
 sourceId: 6558
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.
+
+[Evidencia sobre expresiones faciales y emociones](https://pmc.ncbi.nlm.nih.gov/articles/PMC6640856/)
 
 ![](/media/ac5af025d63ba9f4.webp)
 

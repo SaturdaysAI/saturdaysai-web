@@ -78,9 +78,14 @@
     },
     {
       "source": "Jaime Merino Albert",
-      "en": "Jaime Merino Albert",
+      "en": "Jaime Merino Alberto",
       "es": "Jaime Merino Alberto",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Mentors:",

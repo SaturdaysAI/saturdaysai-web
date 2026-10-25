@@ -1,8 +1,6 @@
 ---
 title: Podcast T2/E5 – Frankie Carrero – La Inteligencia Artificial en las Ondas
-description: En este capítulo contamos con Frankie Carrero que nos va a hablar
-  sobre su podcast Pensamiento Digital, cómo lo lleva y cómo ve el sector de la
-  inteligencia artificial.
+description: Frankie Carrero nos lleva detrás de su podcast Pensamiento Digital.
 pubDate: 2021-12-17
 author: Info Saturdays
 category: Podcast
@@ -15,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/17/2x05-frankie-carrero-ia-y-ondas/
 sourceId: 4966
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/d646b4d03fe247a2.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este capítulo contamos con Frankie Carrero que nos va a hablar sobre su podcast Pensamiento Digital, cómo lo lleva y cómo ve el sector de la inteligencia artificial. 
-
-Además, nos recomienda unos libros y nos da unos consejos para aquellos interesados tanto en la inteligencia artificial como en los negocios.
+Frankie Carrero nos lleva detrás de su podcast Pensamiento Digital. Hablamos de cómo prepara las conversaciones, de los retos de divulgar tecnología y de su visión de la inteligencia artificial en las empresas. También comparte lecturas y consejos para quienes combinan interés por la IA y los negocios.
 
 ## **Links**
 
@@ -31,7 +26,6 @@ Además, nos recomienda unos libros y nos da unos consejos para aquellos interes
 
 ## **Índice**
 
-\>
 
 **0:00** – Introducción
 
@@ -46,3 +40,5 @@ Además, nos recomienda unos libros y nos da unos consejos para aquellos interes
 **24:40** – ¿Cuál es la capacidad de las empresas para construir inteligencia artificial?
 
 **31:57** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

@@ -1,7 +1,6 @@
 ---
 title: "HaPyness: Análisis de sentimientos en la población de Aragón"
-description: El equipo Aragón Feliz explora el análisis de sentimientos para
-  estudiar cómo se expresa el bienestar emocional de la población de Aragón.
+description: El equipo Aragón Feliz explora el análisis de sentimientos para estudiar cómo se expresa el bienestar emocional de la población de Aragón.
 pubDate: 2022-04-07
 author: Info Saturdays
 category: AI for good
@@ -17,6 +16,7 @@ sourceUrl: https://saturdays.ai/2022/04/07/hapyness-analisis-de-sentimientos-en-
 sourceId: 6793
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![La imagen tiene un atributo ALT vacío; su nombre de archivo es 1\*tbzXzD6kBnVJ1i2NFtzRIg.png](/media/8ee9cb41c36f70f6.webp)
@@ -25,7 +25,7 @@ _[Zaragoza](https://saturdays.ai/zaragoza/). Primera Edición. 2022_
 
 ¡**Cómo nos ha cambiado la vida en los últimos años!**
 
-Una pandemia mundial, un asalto a la Casa Blanca, una Filomena, una erupción de un volcán, hasta el comienzo de un conflicto entre naciones ? ¡… y un **curso de IA en Zaragoza**!
+Una pandemia mundial, el asalto al Capitolio de Estados Unidos, la borrasca Filomena, una erupción volcánica y el inicio de una guerra en Europa… y, en medio de todo ello, un curso de IA en Zaragoza. Así recordamos el contexto en el que comenzó este proyecto de 2022.
 
 Una ventosa tarde de viernes, tres intrépidos zaragozanos comenzamos nuestra andadura en este ámbito.
 

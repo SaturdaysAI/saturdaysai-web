@@ -466,6 +466,50 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 nov 2025.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Registrar lo que comemos puede resultar tedioso: buscar alimentos, comparar marcas y ajustar cantidades. FoodCheck nació para explorar otra opción: partir de una foto y obtener una estimación nutricional editable. No requiere una cuenta en la aplicación, pero el análisis de las imágenes sí utiliza servicios externos.",
+      "en": "Logging meals can be tedious: searching for foods, comparing brands and adjusting quantities. FoodCheck began as an experiment in taking a different approach: start with a photo and produce an editable nutritional estimate. The app does not require an account, but image analysis does use external services.",
+      "es": "Registrar lo que comemos puede resultar tedioso: buscar alimentos, comparar marcas y ajustar cantidades. FoodCheck nació para explorar otra opción: partir de una foto y obtener una estimación nutricional editable. No requiere una cuenta en la aplicación, pero el análisis de las imágenes sí utiliza servicios externos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "El registro de comidas se guarda en el navegador. Para analizar una foto, la aplicación la envía a un Worker de Cloudflare y a Workers AI; las consultas nutricionales también pasan por el Worker para acceder a OpenFoodFacts. Por tanto, almacenamiento local no significa procesamiento exclusivamente local.",
+      "en": "Meal records are stored in the browser. To analyse a photo, the app sends it to a Cloudflare Worker and Workers AI; nutrition queries also pass through the Worker to reach OpenFoodFacts. Local storage therefore does not mean that all processing happens locally.",
+      "es": "El registro de comidas se guarda en el navegador. Para analizar una foto, la aplicación la envía a un Worker de Cloudflare y a Workers AI; las consultas nutricionales también pasan por el Worker para acceder a OpenFoodFacts. Por tanto, almacenamiento local no significa procesamiento exclusivamente local.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "El prompt solicita una respuesta estructurada, pero no la garantiza. El frontend debe validar el JSON y gestionar respuestas incompletas o incorrectas antes de utilizarlo.",
+      "en": "The prompt requests a structured response but cannot guarantee one. The frontend must validate the JSON and handle incomplete or incorrect responses before using it.",
+      "es": "El prompt solicita una respuesta estructurada, pero no la garantiza. El frontend debe validar el JSON y gestionar respuestas incompletas o incorrectas antes de utilizarlo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas educativas cuyo tratamiento de datos debemos explicar y revisar.",
+      "en": "FoodCheck is not intended to replace a dietitian. It shows how code and AI can support educational tools, while reminding us that we need to explain and review how those tools process data.",
+      "es": "FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas educativas cuyo tratamiento de datos debemos explicar y revisar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

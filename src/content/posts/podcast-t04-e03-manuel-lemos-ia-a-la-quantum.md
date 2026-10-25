@@ -1,9 +1,6 @@
 ---
 title: Podcast T04-E03-Manuel Lemos-IA a la Quantum
-description: Hoy tenemos el placer de traer el podcast con Manuel Lemos,
-  ingeniero informático de formación y actualmente mezclando la cúantica con la
-  inteligencia artificial. Manuel nos contará de dónde viene su interés por la
-  computación…
+description: Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad.
 pubDate: 2022-08-01
 author: Info Saturdays
 category: Podcast
@@ -16,13 +13,12 @@ sourceUrl: https://saturdays.ai/2022/08/01/podcast-t04-e03-manuel-lemos-ia-a-la-
 sourceId: 7626
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/69c8057675730640.webp)
 
-Hoy tenemos el placer de traer el podcast con Manuel Lemos, ingeniero informático de formación y actualmente mezclando la cúantica con la inteligencia artificial. Manuel nos contará de dónde viene su interés por la computación cuántica y de qué trata, cómo se combina esta con la IA, el machine learning y su relación con la ciberseguridad…
-
-Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasarte por nuestro perfil.
+Manuel Lemos nos introduce en la computación cuántica y sus conexiones con la inteligencia artificial y la ciberseguridad. Hablamos de sus primeros pasos en programación, de aplicaciones del aprendizaje automático y de los riesgos de utilizar modelos conversacionales para el phishing. También exploramos sus expectativas sobre la evolución de estas tecnologías y sus recomendaciones para quienes quieren dedicarse a ellas.
 
 ## Links
 
@@ -46,7 +42,7 @@ Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasar
 
 13:00-¿Cómo conjugan el machine learning y la ciberseguridad?
 
-18:00-Opinión acerca del uso de modelos conversacionales para fishing
+18:00-Opinión acerca del uso de modelos conversacionales para phishing
 
 22:00-Opinión acerca de la web 3.0
 
@@ -60,4 +56,4 @@ Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasar
 
 41:30-¿Qué le recomendarías a tu yo de niño?
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

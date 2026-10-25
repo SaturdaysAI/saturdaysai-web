@@ -31,13 +31,18 @@
     },
     {
       "source": "Sobre Andrés",
-      "en": "About Andrew",
+      "en": "About Andrés",
       "es": "Sobre Andrés",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Presentación Andrés ¿Quién es?",
-      "en": "– Presentation Andrés Who is he?",
+      "en": "– Meet Andrés",
       "es": "– Presentación Andrés ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -62,6 +67,28 @@
       "es": "– ¿Cómo ves el futuro?",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Andrés Torrubia explica cómo el machine learning puede ayudar a mejorar las campañas de marketing.",
+      "en": "Andrés Torrubia explains how machine learning can help improve marketing campaigns.",
+      "es": "Andrés Torrubia explica cómo el machine learning puede ayudar a mejorar las campañas de marketing.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Andrés Torrubia explica cómo el machine learning puede ayudar a mejorar las campañas de marketing. A partir de su experiencia, hablamos de proyectos, retos y decisiones para incorporar la IA a una empresa. La conversación termina con recomendaciones para quienes quieren empezar a aplicarla.",
+      "en": "Andrés Torrubia explains how machine learning can help improve marketing campaigns. Drawing on his experience, we discuss projects, challenges and decisions involved in bringing AI into a business. The conversation closes with advice for people getting started.",
+      "es": "Andrés Torrubia explica cómo el machine learning puede ayudar a mejorar las campañas de marketing. A partir de su experiencia, hablamos de proyectos, retos y decisiones para incorporar la IA a una empresa. La conversación termina con recomendaciones para quienes quieren empezar a aplicarla.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

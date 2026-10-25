@@ -1,7 +1,6 @@
 ---
 title: Podcast T1/E7 – Pablo Samuel Castro – ¿Cómo se vive la IA en Google?
-description: Hoy tenemos a un invitado de lujo que viene a platicarnos como se
-  vive la IA dentro de un gigante en el mundo de la tecnología
+description: Pablo Samuel Castro comparte su experiencia como desarrollador de software de investigación en Google en el momento de esta entrevista.
 pubDate: 2021-12-13
 author: Info Saturdays
 category: Podcast
@@ -14,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/13/1x07-pablo-samuel-castro-ia-en-google
 sourceId: 4910
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/bde4c90d511eeeac.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-Hoy tenemos a un invitado de lujo que viene a platicarnos como se vive la IA dentro de un gigante en el mundo de la tecnología, que ha sido pionera en muchos procesos de IA debido a su gran visión e importancia en el mundo actual, hablamos nada más y nada menos que de Google y el día de hoy nos acompaña Pablo Samuel Castro quien es Research Software Developer en Google.  
-
-¡Esperamos que lo disfruten!
+Pablo Samuel Castro comparte su experiencia como desarrollador de software de investigación en Google en el momento de esta entrevista. Nos cuenta cómo llegó a la IA, en qué proyectos ha colaborado y qué retos encuentra la investigación aplicada. Una mirada al trabajo que hay detrás de los modelos, con recomendaciones para quienes quieren dedicarse a este campo.
 
 ## **Links**
 
@@ -47,3 +43,5 @@ Hoy tenemos a un invitado de lujo que viene a platicarnos como se vive la IA den
 **38:25** – ¿Qué es lo que está por llegar en Google?
 
 **45:00** – Recomendaciones para los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

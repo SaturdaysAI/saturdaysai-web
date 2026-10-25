@@ -69,8 +69,13 @@
     {
       "source": "11:00-Explicacioón acerca de",
       "en": "11:00-Explanation about",
-      "es": "11:00-Explicacioón acerca de",
-      "reviewed": false
+      "es": "11:00-Explicación acerca de",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "«Bloom»",
@@ -159,6 +164,39 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 jul 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial.",
+      "en": "Carlos Muñoz Ferrandis connects two fields that need to understand each other: law and artificial intelligence.",
+      "es": "Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial. El fundador de High Technology Law Forum comparte cómo llegó a trabajar en la intersección entre ambos. Conversamos sobre propiedad intelectual, licencias de modelos, BLOOM y los espacios de prueba para la regulación. El episodio recoge su perspectiva sobre estos debates en la fecha de grabación; no sustituye la consulta de la normativa vigente.",
+      "en": "Carlos Muñoz Ferrandis connects two fields that need to understand each other: law and artificial intelligence. The founder of High Technology Law Forum explains how he came to work at their intersection. We discuss intellectual property, model licences, BLOOM and regulatory sandboxes. The episode captures his perspective at the time of recording; it is not a substitute for checking current law.",
+      "es": "Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial. El fundador de High Technology Law Forum comparte cómo llegó a trabajar en la intersección entre ambos. Conversamos sobre propiedad intelectual, licencias de modelos, BLOOM y los espacios de prueba para la regulación. El episodio recoge su perspectiva sobre estos debates en la fecha de grabación; no sustituye la consulta de la normativa vigente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "11:00-Explicación acerca de",
+      "en": "11:00-Explaining",
+      "es": "11:00-Explicación acerca de",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     }
   ]
 }

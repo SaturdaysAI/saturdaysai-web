@@ -68,10 +68,15 @@
     },
     {
       "source": "– Presentación Hind ¿Quién es?",
-      "en": "– Hind Presentation Who is he?",
+      "en": "– Meet Hind",
       "es": "– Presentación Hind ¿Quién es?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– ¿De dónde salía tu motivación para meterte en el campo de ML?",
@@ -95,10 +100,15 @@
     },
     {
       "source": "– ¿Cómo ves la Inteligencia Artificial puede evolucionar en 10 años?",
-      "en": "– How do you see Artificial Intelligence can evolve in 10 years?",
+      "en": "– How do you think artificial intelligence could evolve in 10 years?",
       "es": "– ¿Cómo ves la Inteligencia Artificial puede evolucionar en 10 años?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Recomendaciones a los estudiantes de AI",
@@ -109,7 +119,7 @@
     },
     {
       "source": "– ¿AI iguala la estadística o es algo más?",
-      "en": "– Does AI equal the statistic or is it something else?",
+      "en": "– Is AI just statistics, or something more?",
       "es": "– ¿AI iguala la estadística o es algo más?",
       "reviewed": false
     },
@@ -119,6 +129,28 @@
       "es": "– ¿Qué rol tiene la ética en la AI?",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Hind Azegrouz comparte su trayectoria en IA y su experiencia en inferencia en dispositivos desde Intel.",
+      "en": "Hind Azegrouz shares her journey into AI and her experience with edge inference at Intel.",
+      "es": "Hind Azegrouz comparte su trayectoria en IA y su experiencia en inferencia en dispositivos desde Intel.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Hind Azegrouz comparte su trayectoria en IA y su experiencia en inferencia en dispositivos desde Intel. Hablamos de los retos que encontró, del papel de las mujeres en el sector y de la relación entre estadística, ética y aprendizaje automático. También ofrece recomendaciones para estudiantes de IA.",
+      "en": "Hind Azegrouz shares her journey into AI and her experience with edge inference at Intel. We discuss the challenges she encountered, the role of women in the field and the relationship between statistics, ethics and machine learning. She also offers advice for AI students.",
+      "es": "Hind Azegrouz comparte su trayectoria en IA y su experiencia en inferencia en dispositivos desde Intel. Hablamos de los retos que encontró, del papel de las mujeres en el sector y de la relación entre estadística, ética y aprendizaje automático. También ofrece recomendaciones para estudiantes de IA.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

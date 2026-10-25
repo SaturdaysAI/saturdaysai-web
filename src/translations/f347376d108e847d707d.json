@@ -449,9 +449,9 @@
     },
     {
       "source": "Si quieres aprender más inteligencia artificial, únete a nuestra comunidad en",
-      "en": "If you want to learn more artificial intelligence, join our community at",
+      "en": "If you want to learn more about artificial intelligence, join our community at",
       "es": "Si quieres aprender más inteligencia artificial, únete a nuestra comunidad en",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -464,6 +464,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     }
   ]

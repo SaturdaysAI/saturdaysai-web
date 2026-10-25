@@ -36,9 +36,14 @@
     },
     {
       "source": "Sebastián Ramírez",
-      "en": "Sebastian Ramirez",
+      "en": "Sebastián Ramírez",
       "es": "Sebastián Ramírez",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "FastAPI",
@@ -48,9 +53,14 @@
     },
     {
       "source": "Typer",
-      "en": "typer",
+      "en": "Typer",
       "es": "Typer",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "SQLModel",
@@ -117,6 +127,28 @@
       "en": "A history of the Saturdays.AI community. Originally published on September 7, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 sept 2022.",
       "reviewed": false
+    },
+    {
+      "source": "Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto.",
+      "en": "Sebastián Ramírez, creator of FastAPI, Typer and SQLModel, shares his journey in programming and open-source software.",
+      "es": "Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto. Hablamos de cómo empezó a contribuir, de lo que significa construir herramientas que otras personas utilizan y de su relación con la ciencia de datos y el aprendizaje automático. También reflexiona sobre sus expectativas para la IA y sobre los consejos que daría a su yo del pasado.",
+      "en": "Sebastián Ramírez, creator of FastAPI, Typer and SQLModel, shares his journey in programming and open-source software. We discuss how he started contributing, what it means to build tools that other people use and his connections with data science and machine learning. He also reflects on his expectations for AI and the advice he would give his younger self.",
+      "es": "Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto. Hablamos de cómo empezó a contribuir, de lo que significa construir herramientas que otras personas utilizan y de su relación con la ciencia de datos y el aprendizaje automático. También reflexiona sobre sus expectativas para la IA y sobre los consejos que daría a su yo del pasado.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

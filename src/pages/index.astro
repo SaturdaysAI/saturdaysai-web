@@ -5,6 +5,7 @@ import Icon from '../components/Icon.astro';
 import CommunityArt from '../components/CommunityArt.astro';
 import PostCard from '../components/PostCard.astro';
 import ResponsiveImage from '../components/ResponsiveImage.astro';
+import SafetySpotlight from '../components/SafetySpotlight.astro';
 import { publishedPosts, url } from '../lib/content';
 import cities from '../data/cities.json';
 import site from '../data/site.json';
@@ -232,6 +233,9 @@ const paths = [
       </div>
     </div>
   </section>
+  <div class="container">
+    <SafetySpotlight />
+  </div>
   <section class="section container">
     <div class="section-heading" data-reveal>
       <div>

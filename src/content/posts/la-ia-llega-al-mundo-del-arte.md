@@ -1,9 +1,6 @@
 ---
 title: La IA llega al mundo del arte
-description: Ya podemos decir que la IA llega al mundo del arte. Ya ha llegado,
-  ya existen «artistas» no de carne y hueso. Y es que la IA ha ido
-  incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá
-  los que no). A…
+description: "Una mirada al arte generado con IA en 2022: Wombo, Botto y DALL-E 2, sus posibilidades creativas y las preguntas que abrieron."
 pubDate: 2022-05-17
 author: Info Saturdays
 category: Community
@@ -17,23 +14,24 @@ sourceUrl: https://saturdays.ai/2022/05/17/la-ia-llega-al-mundo-del-arte/
 sourceId: 7308
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 Ya podemos decir que la IA llega al mundo del arte.
 
-Ya ha llegado, ya existen «artistas» no de carne y hueso. Y es que la IA ha ido incorporándose a prácticamente todos los ámbitos que podamos imaginar (y quizá los que no). A pesar de ello, era difícil hacerse a la idea de que pudiesen adaptarse a una actividad tan humana como el arte. [Pero han dejándose atrás sus ámbitos más propicios](https://www.computerworld.es/tecnologia/la-unesco-adopta-un-marco-etico-para-el-uso-de-la-inteligencia-artificial) (datos, gestión) para incorporarse a unos nuevos.
+La IA empezó a ocupar un lugar visible en el debate artístico mucho antes de convertirse en una herramienta cotidiana. Este artículo recoge una mirada de 2022: la sorpresa de generar imágenes a partir de palabras y las preguntas sobre autoría, creatividad y valor que esa posibilidad abría.
 
-Hay que decir que ya existían algunas aplicaciones propicias para el arte. Una de ellas es Wombo IA, que es capaz de hacer que tu imagen coja vida a partir de un procesamiento corto. Otra de ellas es Botto, un artista nacido a partir de un inteligencia artificial. Su funcionamiento está basado en su comunidad. Esta elige cada semana cual de las obras realizadas por Botto le gusta más, moldeando el algoritmo para futuras obras.
+Entre los ejemplos de aquel momento estaban Wombo, con herramientas para crear o animar imágenes, y Botto, un proyecto artístico que incorporaba las preferencias de su comunidad al proceso de selección de obras. Eran enfoques distintos para explorar la relación entre las personas y los sistemas generativos.
 
 ![](/media/a49d8f02483ef386.webp)
 
 Imagen generada por Dalle-2 compartida por la empresa Open AI
 
-[Pero en 2022 ha habido una revolución pictórica venida de la mano de Dalle-2.](https://computerhoy.com/noticias/tecnologia/funciona-dall-2-ia-dibuja-digas-escrito-1041243) Esta inteligencia artificial desarrollada por Open AI se ha viralizado en redes sociales. Esto se debe a que los usuarios «competían» por ver qué obra era mejor acogida por el público. Cada imagen tiene un contexto diferente detrás, algunas más conceptuales, otras más surrealistas… y porque no decirlo, muchas otras perturbadoras. Esta inteligencia artificial se basa en el texto que inserten los usuarios para crear sus obras. Y es que el ser humano cuando se ve libre de poder crear, puede ser racional e irracional por partes iguales.
+En 2022, DALL-E 2, desarrollado por OpenAI, popularizó la creación de imágenes a partir de descripciones escritas. En redes sociales circularon propuestas conceptuales, escenas surrealistas y combinaciones inesperadas. El texto del usuario se convirtió en una nueva forma de orientar la composición de una imagen.
 
-Dalle-2 no solo es capaz de crear obras a partir de texto, sino que también puede aplicar un filtro a obras existentes para cambiar completamente su estilo. Por poner un ejemplo muy gráfico, podría coger «La Mona Lisa» y convertirla en un cuadro de Picasso (esto de alguna manera se parecería a «La mujer que llora de Picasso», ¿verdad?)
+DALL-E 2 permitía generar imágenes, editar partes de una imagen y crear variaciones. Eso abría posibilidades de experimentación, aunque no garantizaba control preciso sobre cada detalle del resultado.
 
-A pesar de que esta nueva tecnología parece perfecta, hay varias cosas que la ensombrecen. Para empezar no cualquiera puede trastear con ella, es más antes de utilizarla se lleva a cabo una prueba para comprobar que la persona es digna de utilizarla. Aparte de esto, su uso conlleva una larga lista de espera. Y no es el caso de Dalle-2 (de momento), pero obras realizadas por Botto han sido vendidas en el mercado de NFT por cifras de alrededor un millón de euros. Esperemos que esto no se convierta en una herramienta productora de especulación. Porque de ser así perderíamos un activo muy interesante para el futuro del mundo artístico.
+El acceso inicial estuvo limitado y se organizó mediante una lista de espera. OpenAI anunció su retirada el 28 de septiembre de 2022. Esa limitación histórica no era una prueba del mérito artístico de las personas. Al margen del acceso, seguían abiertas preguntas sobre la autoría, el trabajo creativo y la especulación en los mercados de arte digital.
 
 ## Ejemplos
 
@@ -82,3 +80,6 @@ Alejandro Ferrer
 ## [Saturdays.AI](https://saturdays.ai/)
 
 Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education
+
+
+[OpenAI: retirada de la lista de espera en septiembre de 2022](https://openai.com/index/dall-e-now-available-without-waitlist/)

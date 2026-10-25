@@ -17,10 +17,15 @@
     },
     {
       "source": "La Paz. Deep Learning. 2021 INTRODUCCIÓN Uno de los problemas que la mayoría de los jóvenes padece hoy en día son los distintos trastornos mentales que existen, dentro de estos se encuentra el Trastorno de Inestabilidad…",
-      "en": "Peace. Deep Learning. 2021 INTRODUCTION One of the problems that most young people suffer from today are the different mental disorders that exist, among these is Instability Disorder...",
+      "en": "La Paz. Deep Learning. 2021 INTRODUCTION One of the problems that most young people suffer from today are the different mental disorders that exist, among these is Instability Disorder...",
       "es": "La Paz. Deep Learning. 2021 INTRODUCCIÓN Uno de los problemas que la mayoría de los jóvenes padece hoy en día son los distintos trastornos mentales que existen, dentro de estos se encuentra el Trastorno de Inestabilidad…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "13 oct 2021",
@@ -351,6 +356,116 @@
       "en": "Mar 9, 2022",
       "es": "Mar 9, 2022",
       "reviewed": false
+    },
+    {
+      "source": "Expresiones faciales y bienestar emocional: un prototipo con deep learning",
+      "en": "Facial expressions and emotional wellbeing: a deep learning prototype",
+      "es": "Expresiones faciales y bienestar emocional: un prototipo con deep learning",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Un equipo de La Paz explora la clasificación de expresiones faciales con ResNet50. Presentamos el proceso y sus límites: clasificar imágenes no equivale a diagnosticar emociones.",
+      "en": "A team in La Paz explores facial-expression classification with ResNet50. We explain the process and its limits: classifying images does not establish a person’s emotions.",
+      "es": "Un equipo de La Paz explora la clasificación de expresiones faciales con ResNet50. Presentamos el proceso y sus límites: clasificar imágenes no equivale a diagnosticar emociones.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Este proyecto educativo de 2021 exploró la clasificación de expresiones faciales mediante aprendizaje profundo. El equipo propuso registrar las etiquetas producidas por un modelo mientras una persona observaba imágenes. La idea original se vinculó a la terapia icónica, pero el trabajo presentado no demuestra eficacia terapéutica ni capacidad para diagnosticar un trastorno.",
+      "en": "This educational project from 2021 explored facial-expression classification with deep learning. The team proposed recording a model’s labels while a person viewed images. The original idea was linked to iconic therapy, but the work presented does not establish therapeutic effectiveness or the ability to diagnose a disorder.",
+      "es": "Este proyecto educativo de 2021 exploró la clasificación de expresiones faciales mediante aprendizaje profundo. El equipo propuso registrar las etiquetas producidas por un modelo mientras una persona observaba imágenes. La idea original se vinculó a la terapia icónica, pero el trabajo presentado no demuestra eficacia terapéutica ni capacidad para diagnosticar un trastorno.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Una expresión facial no permite conocer de forma fiable, por sí sola, el estado emocional de una persona. Las etiquetas del conjunto de datos son categorías de clasificación, no diagnósticos. Esta distinción es especialmente importante si se plantea usar el sistema con menores o en contextos de salud.",
+      "en": "A facial expression alone does not reliably establish a person’s emotional state. Dataset labels are classification categories, not diagnoses. This distinction is particularly important when considering use with children or in healthcare.",
+      "es": "Una expresión facial no permite conocer de forma fiable, por sí sola, el estado emocional de una persona. Las etiquetas del conjunto de datos son categorías de clasificación, no diagnósticos. Esta distinción es especialmente importante si se plantea usar el sistema con menores o en contextos de salud.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Revisión científica sobre expresiones faciales y emociones",
+      "en": "Scientific review of facial expressions and emotions",
+      "es": "Revisión científica sobre expresiones faciales y emociones",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "El reto técnico consistía en procesar imágenes de una cámara, clasificar expresiones y guardar los resultados con una referencia temporal. Se buscaba explorar el registro automatizado, sin que ello validara la interpretación psicológica de las etiquetas.",
+      "en": "The technical challenge was to process camera images, classify expressions and record the results over time. The team explored automated logging; that did not validate a psychological interpretation of the labels.",
+      "es": "El reto técnico consistía en procesar imágenes de una cámara, clasificar expresiones y guardar los resultados con una referencia temporal. Se buscaba explorar el registro automatizado, sin que ello validara la interpretación psicológica de las etiquetas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Construir un prototipo que registre las categorías de expresión facial estimadas por el modelo. Cualquier posible aplicación clínica requeriría un estudio específico, consentimiento y supervisión profesional; el prototipo descrito no acredita esos requisitos.",
+      "en": "Build a prototype that records the facial-expression categories estimated by the model. Any potential clinical application would require a dedicated study, consent and professional oversight; the prototype described does not establish those requirements.",
+      "es": "Construir un prototipo que registre las categorías de expresión facial estimadas por el modelo. Cualquier posible aplicación clínica requeriría un estudio específico, consentimiento y supervisión profesional; el prototipo descrito no acredita esos requisitos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Se utilizó un dataset existente y de acceso libre, el cual se encontraba en la página web llamada kaggle, el cual fue creado por Jonathan Oheix. En este archivo se clasifican expresiones faciales de 35900 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y tiene el formato en el que solo se ve su rostro con la expresión facial correspondiente. Este dataset cuenta con dos carpetas (train y validation) con siete categorías de expresión facial: enojo, disgusto, miedo, feliz,neutral,triste y sorprendido",
+      "en": "The team used a dataset published by Jonathan Oheix on Kaggle, containing 35,900 facial-expression images. These show faces in greyscale at 48 × 48 pixels. The dataset has training and validation folders and seven labels: anger, disgust, fear, happiness, neutrality, sadness and surprise.",
+      "es": "Se utilizó un conjunto de datos publicado por Jonathan Oheix en Kaggle, con 35.900 imágenes de expresiones faciales. Las imágenes muestran rostros en escala de grises, con un tamaño de 48 × 48 píxeles. El conjunto se divide en entrenamiento y validación y utiliza siete etiquetas: enfado, asco, miedo, alegría, neutralidad, tristeza y sorpresa.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "Otras herramientas utilizadas en el proyecto:",
+      "en": "Other tools used in the project:",
+      "es": "Otras herramientas utilizadas en el proyecto:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "La comparación permitió escoger un modelo para el prototipo de clasificación. El siguiente paso sería evaluar los errores, la representatividad de los datos y los límites de interpretación antes de plantear cualquier uso fuera del ejercicio educativo.",
+      "en": "The comparison helped the team select a model for the classification prototype. The next step would be to evaluate errors, data representativeness and interpretation limits before considering use beyond the educational exercise.",
+      "es": "La comparación permitió escoger un modelo para el prototipo de clasificación. El siguiente paso sería evaluar los errores, la representatividad de los datos y los límites de interpretación antes de plantear cualquier uso fuera del ejercicio educativo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

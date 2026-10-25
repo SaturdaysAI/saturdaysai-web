@@ -96,10 +96,15 @@
     },
     {
       "source": "Personajes como: HAL900 (",
-      "en": "Characters like: HAL900 (",
-      "es": "Personajes como: HAL900 (",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Characters like: HAL 9000 (",
+      "es": "Personajes como: HAL 9000 (",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "2001:Odisea en el espacio",
@@ -161,10 +166,15 @@
     },
     {
       "source": "HAL900",
-      "en": "HAL900",
-      "es": "HAL900",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "HAL 9000",
+      "es": "HAL 9000",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Existen una gran cantidad de películas y series basadas en los escritos de Isaac Asimov (1920-1992), considerado como el padre de la palabra «robótica» y de las consideradas como «leyes de la robótica».",

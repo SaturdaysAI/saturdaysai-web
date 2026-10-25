@@ -890,9 +890,14 @@
     },
     {
       "source": "Eva de Miguel Morales",
-      "en": "Eva by Miguel Morales",
+      "en": "Eva de Miguel Morales",
       "es": "Eva de Miguel Morales",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Pedro Biel",

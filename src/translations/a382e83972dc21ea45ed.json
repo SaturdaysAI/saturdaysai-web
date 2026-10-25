@@ -30,10 +30,15 @@
     },
     {
       "source": "Se define como optimista y curioso, siempre intenta que todo lo que hace sea una Suma Positiva, título de su web donde escribe artículos muuuy interesantes.",
-      "en": "He defines himself as optimistic and curious, he always tries to make everything he does a Positive Sum, the title of his website where he writes very interesting articles.",
+      "en": "He defines himself as optimistic and curious, he always tries to make everything he does a Suma Positiva, the title of his website where he writes very interesting articles.",
       "es": "Se define como optimista y curioso, siempre intenta que todo lo que hace sea una Suma Positiva, título de su web donde escribe artículos muuuy interesantes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "En esta entrevista nos explica detalles de su pasado y lo que cree pasará en el futuro en torno a la Inteligencia artificial. ¿Nos gobernarán los robots?",
@@ -64,9 +69,14 @@
     },
     {
       "source": "Suma Positiva",
-      "en": "Positive Sum",
+      "en": "Suma Positiva",
       "es": "Suma Positiva",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Episodio de Kaizen podcast sobre «un mundo sin internet»",
@@ -84,7 +94,7 @@
     },
     {
       "source": "– Presentación Samuel ¿Quién es?",
-      "en": "– Presentation Samuel Who is he?",
+      "en": "– Meet Samuel",
       "es": "– Presentación Samuel ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -136,6 +146,28 @@
       "es": "– Sobre las personas técnicas en el mundo de negocio",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Samuel Gil comparte cómo pasó de la ingeniería y la consultoría a apoyar startups desde JME Ventures.",
+      "en": "Samuel Gil shares his move from engineering and consulting to supporting startups at JME Ventures.",
+      "es": "Samuel Gil comparte cómo pasó de la ingeniería y la consultoría a apoyar startups desde JME Ventures.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Samuel Gil comparte cómo pasó de la ingeniería y la consultoría a apoyar startups desde JME Ventures. Hablamos de capital de riesgo, de proyectos de IA y de las ideas que desarrolla en Suma Positiva. También reflexiona sobre las expectativas tecnológicas y propone seguir la curiosidad a la hora de elegir qué aprender y construir.",
+      "en": "Samuel Gil shares his move from engineering and consulting to supporting startups at JME Ventures. We discuss venture capital, AI projects and the ideas he explores in Suma Positiva. He also reflects on expectations around technology and the value of following curiosity when deciding what to learn and build.",
+      "es": "Samuel Gil comparte cómo pasó de la ingeniería y la consultoría a apoyar startups desde JME Ventures. Hablamos de capital de riesgo, de proyectos de IA y de las ideas que desarrolla en Suma Positiva. También reflexiona sobre las expectativas tecnológicas y propone seguir la curiosidad a la hora de elegir qué aprender y construir.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

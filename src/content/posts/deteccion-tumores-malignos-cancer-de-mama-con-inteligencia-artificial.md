@@ -1,10 +1,6 @@
 ---
-title: "Tómatelo a pecho: Detección de tumores malignos de cáncer de mama con
-  Inteligencia Artificial"
-description: La Paz. Machine Learning. Segunda edición. 2020 Introducción El
-  cáncer de mama es la primera causa de muerte por tumores malignos en las
-  mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil
-  debido este…
+title: "Tómatelo a pecho: Detección de tumores malignos de cáncer de mama con Inteligencia Artificial"
+description: La Paz. Machine Learning. Segunda edición. 2020 Introducción El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este…
 pubDate: 2022-03-16
 author: Info Saturdays
 category: AI for good
@@ -19,14 +15,15 @@ tags:
   - SVM
   - Tabular
 image: /media/a517224fb396c1c5.webp
-imageAlt: "Tómatelo a pecho: Detección de tumores malignos de cáncer de mama con
-  Inteligencia Artificial"
+imageAlt: "Tómatelo a pecho: Detección de tumores malignos de cáncer de mama con Inteligencia Artificial"
 legacyPath: /2022/03/16/deteccion-tumores-malignos-cancer-de-mama-con-inteligencia-artificial/
 sourceUrl: https://saturdays.ai/2022/03/16/deteccion-tumores-malignos-cancer-de-mama-con-inteligencia-artificial/
 sourceId: 6552
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 ![](/media/a517224fb396c1c5.webp)
 

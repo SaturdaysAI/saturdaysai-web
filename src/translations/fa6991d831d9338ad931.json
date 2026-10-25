@@ -340,11 +340,16 @@
     },
     {
       "source": "Sobre Inés",
-      "en": "About Ines",
+      "en": "About Inés",
       "es": "Sobre Inés",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Presentación Inés",
@@ -533,6 +538,28 @@
           "URLs"
         ],
         "editorialReview": false
+      }
+    },
+    {
+      "source": "Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid.",
+      "en": "Inés Huertas reflects on her career in big data and machine learning and her involvement in R-Ladies Madrid.",
+      "es": "Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid. Hablamos de la representación de las mujeres, la inclusión en los equipos y el papel transversal de la IA. También comparte consejos para quienes quieren entrar en el sector.",
+      "en": "Inés Huertas reflects on her career in big data and machine learning and her involvement in R-Ladies Madrid. We discuss women’s representation, inclusion in teams and the role of AI across different professions. She also shares advice for people entering the field.",
+      "es": "Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y su participación en R-Ladies Madrid. Hablamos de la representación de las mujeres, la inclusión en los equipos y el papel transversal de la IA. También comparte consejos para quienes quieren entrar en el sector.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Podcast introduction in Spanish and English"
       }
     }
   ]

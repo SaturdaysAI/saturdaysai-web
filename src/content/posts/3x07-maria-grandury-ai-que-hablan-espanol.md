@@ -1,9 +1,6 @@
 ---
 title: Podcast T3/E7 – María Grandury – IA´s que Hablan Español
-description: Suscríbete en Spotify, Apple Podcast o Youtube para escuchar a
-  nuevos expertos cada mes. En este episodio intrevistamos a María Grandury, la
-  Ingeniera de Machine Learning, La creadora de la comunidad «NLP en Español».
-  Nos…
+description: María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo.
 pubDate: 2022-01-27
 author: Equipo Mkt
 category: Podcast
@@ -16,19 +13,12 @@ sourceUrl: https://saturdays.ai/2022/01/27/3x07-maria-grandury-ai-que-hablan-esp
 sourceId: 5347
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/d899a01c8de14385.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio intrevistamos a María Grandury, la Ingeniera de Machine Learning, La creadora de la comunidad «NLP en Español».
-
-Nos cuenta sobre las colaboraciones con «Big Science» y «Hugging Face» y los modelos de NLP.
-
-También va a mencionar sobre su proyecto «NLP en Español», los planes y la regulación del mismo.
-
-Escucha hasta el final, donde María dará recomendaciones  sobre Machine Learning
+María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo. Conversamos sobre su trabajo como ingeniera de aprendizaje automático, sus colaboraciones con BigScience y Hugging Face y los retos de entrenar modelos de lenguaje. También exploramos el papel de la regulación, la influencia de la ciencia ficción y por dónde empezar a aprender. Una conversación sobre cómo ampliar la participación en una tecnología que también debe hablar nuestro idioma.
 
 ## **Links**
 
@@ -61,3 +51,5 @@ Escucha hasta el final, donde María dará recomendaciones  sobre Machine Learn
 **37:18** – ¿Hay que aprender Machine Learning en la actualidad?
 
 **39:23** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

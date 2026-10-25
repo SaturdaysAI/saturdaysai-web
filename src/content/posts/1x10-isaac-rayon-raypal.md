@@ -1,7 +1,6 @@
 ---
 title: Podcast T1/E10 – Isaac Rayon – Raypal, la Recicladora Inteligente
-description: Issac Rayon, quien desarrolló junto con su familia una forma
-  inteligente de reciclar utilizando algoritmos de machine learning.
+description: Isaac Rayon presenta Raypal, la iniciativa de reciclaje que desarrolló con su familia utilizando machine learning.
 pubDate: 2021-12-15
 author: Info Saturdays
 category: Podcast
@@ -14,15 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/15/1x10-isaac-rayon-raypal/
 sourceId: 4933
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/bc5ab9fa05b1f6df.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En el capítulo de hoy hablamos sobre un tema que disfrutamos mucho y que debería de ser un tema relevante  para cualquiera, hablo de la ecología y, en lo particular el día de hoy invitamos a un experto en el tema, Issac Rayon, quien desarrolló junto con su familia una forma inteligente de reciclar utilizando algoritmos de machine learning. 
-
-Esperamos que lo disfruten. 
+Isaac Rayon presenta Raypal, la iniciativa de reciclaje que desarrolló con su familia utilizando machine learning. Hablamos de cómo se adapta una idea tecnológica a un problema ambiental, de la respuesta de la comunidad y de los retos de gestionar residuos. También comparte su visión del futuro de estos proyectos.
 
 ## **Links**
 
@@ -48,3 +44,5 @@ Esperamos que lo disfruten. 
 **28:00** – ¿Cómo ves el futuro de los vehículos que combinan medio ambiente e Inteligencia artificial?
 
 **34:52** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

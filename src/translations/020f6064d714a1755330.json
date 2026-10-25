@@ -17,10 +17,15 @@
     },
     {
       "source": "La Paz. Deep Learning. 2021 De acuerdo con las Naciones Unidas, el discurso de odio se define como “Todas las formas de expresión que comparten, alienten, justifiquen o promueven la humillación, el menosprecio, la…",
-      "en": "Peace. Deep Learning. 2021 According to the United Nations, hate speech is defined as “All forms of expression that share, encourage, justify or promote humiliation, contempt,…",
+      "en": "La Paz. Deep Learning. 2021 According to the United Nations, hate speech is defined as “All forms of expression that share, encourage, justify or promote humiliation, contempt,…",
       "es": "La Paz. Deep Learning. 2021 De acuerdo con las Naciones Unidas, el discurso de odio se define como “Todas las formas de expresión que comparten, alienten, justifiquen o promueven la humillación, el menosprecio, la…",
       "reviewed": false,
-      "sourceLanguage": "es"
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Miguel Guerrero",
@@ -108,9 +113,14 @@
     },
     {
       "source": "La Paz",
-      "en": "Peace",
+      "en": "La Paz",
       "es": "La Paz",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": ". Deep Learning. 2021",

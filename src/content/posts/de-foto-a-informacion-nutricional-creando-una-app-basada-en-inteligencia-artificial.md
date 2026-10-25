@@ -1,9 +1,6 @@
 ---
-title: "De foto a información nutricional: creando una app basada en
-  Inteligencia Artificial"
-description: En este tutorial aprenderás a crear una app web que analiza fotos
-  de comida usando IA con el modelo LLaVA 1.5 de Cloudflare Workers AI. Montarás
-  un frontend estático en GitHub Pages, un Worker sin servidor como backend y…
+title: "De foto a información nutricional: creando una app basada en Inteligencia Artificial"
+description: En este tutorial aprenderás a crear una app web que analiza fotos de comida usando IA con el modelo LLaVA 1.5 de Cloudflare Workers AI. Montarás un frontend estático en GitHub Pages, un Worker sin servidor como backend y…
 pubDate: 2025-11-26
 author: Estefanía Márquez
 category: Community
@@ -21,11 +18,12 @@ sourceUrl: https://saturdays.ai/2025/11/26/de-foto-a-informacion-nutricional-cre
 sourceId: 11306
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![Plato de comida con datos nutricionales](/media/19227e637b0093e8.webp)
 
-Registrar lo que comemos es útil, pero aburrido. Abrir una app, buscar “arroz”, comparar marcas, ajustar gramos… ¿Y si hiciéramos una foto y la IA reconociera el plato para darnos una estimación nutricional? Sin cuentas, sin subir nuestros datos a servidores misteriosos.
+Registrar lo que comemos puede resultar tedioso: buscar alimentos, comparar marcas y ajustar cantidades. FoodCheck nació para explorar otra opción: partir de una foto y obtener una estimación nutricional editable. No requiere una cuenta en la aplicación, pero el análisis de las imágenes sí utiliza servicios externos.
 
 Así nace [FoodCheck](https://saturdaysai.github.io/foodheck), una web app estática desplegada en GitHub Pages que detecta alimentos en fotos, estima porciones y calcula nutrientes usando [OpenFoodFacts](https://es.openfoodfacts.org/). La “magia” de visión no va en el navegador ni en un backend tradicional, sino que la delegamos a un Cloudflare Worker que usa Workers AI (modelo LLaVA).
 
@@ -33,7 +31,7 @@ Así nace [FoodCheck](https://saturdaysai.github.io/foodheck), una web app está
 
 El usuario abre la app, selecciona si tiene alguna enfermedad y arrastra una foto de la comida que quiere analizar. La aplicación detecta entonces los alimentos, estima cantidades y muestra la información nutricional. Luego puede ajustar gramos, añadir nuevos alimentos y guardar la comida del día.
 
-Todo se almacena en local, sin servidores externos.
+El registro de comidas se guarda en el navegador. Para analizar una foto, la aplicación la envía a un Worker de Cloudflare y a Workers AI; las consultas nutricionales también pasan por el Worker para acceder a OpenFoodFacts. Por tanto, almacenamiento local no significa procesamiento exclusivamente local.
 
 ![Página principal de Foodcheck](/media/7617857d41782d33.webp)
 
@@ -81,7 +79,7 @@ Enviamos ese string como JSON al Worker mediante POST, junto con un prompt, y el
 				`{   "detections": [     {       "name": "manzana roja",       "confidence": 0.92,       "portion_estimate_grams": 120     }   ] }`
 
 
-Así garantizamos que la respuesta sea estructurada, fácil de interpretar y lista para ser usada por el frontend.
+El prompt solicita una respuesta estructurada, pero no la garantiza. El frontend debe validar el JSON y gestionar respuestas incompletas o incorrectas antes de utilizarlo.
 
 A su vez, la llamada al modelo es directa:
 
@@ -168,6 +166,6 @@ Ahí comprendí que la clave es decidir primero la arquitectura y mantener los p
 
 ## Reflexión final
 
-FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas útiles, privadas y educativas.
+FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas educativas cuyo tratamiento de datos debemos explicar y revisar.
 
 Por tanto, el futuro de la IA aplicada a la salud quizás no esté en los grandes servidores, sino en las manos de los desarrolladores curiosos.

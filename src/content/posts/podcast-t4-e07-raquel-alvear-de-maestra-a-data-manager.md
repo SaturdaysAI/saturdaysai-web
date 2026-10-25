@@ -1,7 +1,6 @@
 ---
 title: Podcast T4-E07-Raquel Alvear-de Maestra a Data Manager
-description: Hablamos con Raquel Alvear y cómo pasó de ser maestra de primaria a
-  data manager
+description: Raquel Alvear cuenta cómo pasó de enseñar en primaria a trabajar en inteligencia de negocio y a dirigir el área de Data y Analytics de 480.
 pubDate: 2022-09-13
 author: Miguel Guerrero
 category: Podcast
@@ -19,15 +18,12 @@ sourceUrl: https://saturdays.ai/2022/09/13/podcast-t4-e07-raquel-alvear-de-maest
 sourceId: 7952
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/93b639853d548072.webp)
 
-En este episodio, hablamos con [Raquel Alvear](https://www.linkedin.com/in/raquelalvear), responsable de Data y Analytics en [480](https://cuatroochenta.com/), charlamos de su trayectoria, inquietudes y cómo pasó de maestra de primaria a dedicarse al Business Intelligence, incluyendo su paso por [AI Saturdays Castellon](https://saturdays.ai/castellon) .
-
-Además, también sabremos porqué NO hay que hacer SIEMPRE caso a tu mama cuando diga qué hacer con tu futuro :D.
-
-Escucha el episodio y comparte, también comenta en redes sociales qué te ha parecido más interesante.
+Raquel Alvear cuenta cómo pasó de enseñar en primaria a trabajar en inteligencia de negocio y a dirigir el área de Data y Analytics de 480. Su historia incluye el aprendizaje en AI Saturdays Castellón, decisiones profesionales y el reto de empezar en un campo nuevo. Una conversación cercana sobre cambiar de rumbo, aprovechar lo aprendido y elegir una trayectoria propia.
 
 ## Links
 
@@ -39,4 +35,4 @@ Escucha el episodio y comparte, también comenta en redes sociales qué te ha pa
 
 [Abrir vídeo o recurso](https://embed.acast.com/$/6510d0729e43570011fc7b6a/6510d0784de7050011cbdcfe?)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

@@ -55,9 +55,14 @@
     },
     {
       "source": "Narrativa",
-      "en": "Narrative",
+      "en": "Narrativa",
       "es": "Narrativa",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": ", se ha convertido en el principal contribuidor de modelos en",
@@ -97,6 +102,28 @@
       "en": "A history of the Saturdays.AI community. Originally published on September 26, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 sept 2022.",
       "reviewed": false
+    },
+    {
+      "source": "Manu Romero, conocido como @mrm8488, comparte su trabajo en procesamiento del lenguaje natural, Narrativa y la comunidad de Hugging Face.",
+      "en": "Manu Romero, known as @mrm8488, shares his work in natural language processing, Narrativa and the Hugging Face community.",
+      "es": "Manu Romero, conocido como @mrm8488, comparte su trabajo en procesamiento del lenguaje natural, Narrativa y la comunidad de Hugging Face.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Manu Romero, conocido como @mrm8488, comparte su trabajo en procesamiento del lenguaje natural, Narrativa y la comunidad de Hugging Face. Conversamos sobre los modelos de lenguaje en español, la inteligencia artificial general y la tensión entre regulación y censura. También hablamos de creatividad, de desconectar y de mantener la perspectiva en un campo que cambia deprisa. Un episodio largo, lleno de ideas y puntos de encuentro.",
+      "en": "Manu Romero, known as @mrm8488, shares his work in natural language processing, Narrativa and the Hugging Face community. We discuss Spanish-language models, artificial general intelligence and the tension between regulation and censorship. We also talk about creativity, switching off and keeping perspective in a fast-moving field. It is a long conversation with plenty of ideas and common ground.",
+      "es": "Manu Romero, conocido como @mrm8488, comparte su trabajo en procesamiento del lenguaje natural, Narrativa y la comunidad de Hugging Face. Conversamos sobre los modelos de lenguaje en español, la inteligencia artificial general y la tensión entre regulación y censura. También hablamos de creatividad, de desconectar y de mantener la perspectiva en un campo que cambia deprisa. Un episodio largo, lleno de ideas y puntos de encuentro.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

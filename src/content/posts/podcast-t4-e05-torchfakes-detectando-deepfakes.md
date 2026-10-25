@@ -1,9 +1,6 @@
 ---
 title: Podcast T4-E05-Torchfakes-Detectando Deepfakes
-description: Hoy tenemos el placer de hablar con Jaime, Jorge y Aaron,
-  integrantes del proyecto «Torchfakes» entre muchas otras cosas. Nos contarán
-  de dónde viene la motivación por llevar a cabo este proyecto, cuál es su
-  futuro, qué…
+description: Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes.
 pubDate: 2022-08-31
 author: Info Saturdays
 category: Podcast
@@ -16,11 +13,12 @@ sourceUrl: https://saturdays.ai/2022/08/31/podcast-t4-e05-torchfakes-detectando-
 sourceId: 7861
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/40cd1e3b72ed75c0.webp)
 
-Hoy tenemos el placer de hablar con Jaime, Jorge y Aaron, integrantes del proyecto _«Torchfakes»_ entre muchas otras cosas. Nos contarán de dónde viene la motivación por llevar a cabo este proyecto, cuál es su futuro, qué peligros tienen y tendrán los deepfakes… Si quieres saber más sobre estos temas, no dudes en escuchar el podcast y pasarte por nuestro perfil.
+Jaime Merino, Jorge González y Aarón Espasandín presentan TorchFakes, su proyecto de detección de deepfakes. Hablamos de la motivación del equipo, de los riesgos de la desinformación y de las dificultades de desarrollar una herramienta de este tipo. La conversación conecta el trabajo técnico con preguntas sobre acceso a la computación, nuevas formas de crear contenido y cómo empezar en inteligencia artificial.
 
 ## Links
 
@@ -66,4 +64,4 @@ Hoy tenemos el placer de hablar con Jaime, Jorge y Aaron, integrantes del proyec
 
 54:40. Redes sociales
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

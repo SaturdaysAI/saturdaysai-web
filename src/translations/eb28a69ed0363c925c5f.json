@@ -238,9 +238,9 @@
     },
     {
       "source": ": Imagina tener el poder de un modelo avanzado de IA en la palma de tu mano. Llama 3.2, en sus versiones de",
-      "en": ": Imagine having the power of an advanced AI model in the palm of your hand. Call 3.2, in its versions",
+      "en": ": Imagine having the power of an advanced AI model in the palm of your hand. Llama 3.2, in its versions",
       "es": ": Imagina tener el poder de un modelo avanzado de IA en la palma de tu mano. Llama 3.2, en sus versiones de",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -253,6 +253,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {
@@ -476,9 +481,9 @@
     },
     {
       "source": "Llama 3.2",
-      "en": "Call 3.2",
+      "en": "Llama 3.2",
       "es": "Llama 3.2",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -490,6 +495,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
       }
     },
     {

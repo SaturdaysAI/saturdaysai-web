@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "La Paz. Machine Learning. Segunda edición. 2020 Introducción El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este…",
-      "en": "Peace. Machine Learning. Second edition. 2020 Introduction Breast cancer is the leading cause of death from malignant tumors in women worldwide. At least in 2019, around 688 thousand died due to this…",
+      "en": "La Paz. Machine Learning. Second edition. 2020 Introduction Breast cancer is the leading cause of death from malignant tumors in women worldwide. At least in 2019, around 688 thousand died due to this…",
       "es": "La Paz. Machine Learning. Segunda edición. 2020 Introducción El cáncer de mama es la primera causa de muerte por tumores malignos en las mujeres a nivel mundial. Al menos en el año 2019 murieron cerca de 688 mil debido este…",
       "reviewed": false,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Targeted terminology correction; remaining wording not certified"
+      }
     },
     {
       "source": "Proyecto",

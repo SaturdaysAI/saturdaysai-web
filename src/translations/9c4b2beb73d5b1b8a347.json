@@ -65,23 +65,33 @@
     },
     {
       "source": "Sobre María",
-      "en": "About Maria",
+      "en": "About María",
       "es": "Sobre María",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Presentación María ¿Quién es?",
-      "en": "– Presentation María Who is she?",
+      "en": "– Meet María",
       "es": "– Presentación María ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
     },
     {
       "source": "– María de 12 años, ¿Quién ha sido?",
-      "en": "– María, 12 years old, who was it?",
+      "en": "– What was María like at 12?",
       "es": "– María de 12 años, ¿Quién ha sido?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "Sobre «Big Science» y «Hugging Face»",
@@ -92,10 +102,15 @@
     },
     {
       "source": "– Sobre los problemas con mucha computación en los Modelos",
-      "en": "– About the problems with a lot of computing in the Models",
+      "en": "– The computing demands of training models",
       "es": "– Sobre los problemas con mucha computación en los Modelos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Sobre los Modelos de NLP y la Comunidad de María «NLP en español»",
@@ -150,6 +165,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 27 ene 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo.",
+      "en": "María Grandury introduces us to natural language processing in Spanish and the community she created to support it.",
+      "es": "María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo. Conversamos sobre su trabajo como ingeniera de aprendizaje automático, sus colaboraciones con BigScience y Hugging Face y los retos de entrenar modelos de lenguaje. También exploramos el papel de la regulación, la influencia de la ciencia ficción y por dónde empezar a aprender. Una conversación sobre cómo ampliar la participación en una tecnología que también debe hablar nuestro idioma.",
+      "en": "María Grandury introduces us to natural language processing in Spanish and the community she created to support it. We discuss her work as a machine learning engineer, her collaborations with BigScience and Hugging Face, and the challenges of training language models. We also explore regulation, the influence of science fiction and where to start learning. This is a conversation about opening up a technology that should speak our language too.",
+      "es": "María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo. Conversamos sobre su trabajo como ingeniera de aprendizaje automático, sus colaboraciones con BigScience y Hugging Face y los retos de entrenar modelos de lenguaje. También exploramos el papel de la regulación, la influencia de la ciencia ficción y por dónde empezar a aprender. Una conversación sobre cómo ampliar la participación en una tecnología que también debe hablar nuestro idioma.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

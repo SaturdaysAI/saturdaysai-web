@@ -1,30 +1,24 @@
 ---
-title: Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro de
-  la Salud
-description: En este episodio invitamos a Margarita Sordo quien nos platica
-  sobre su trayectoria en el mundo de la Inteligencia Artificial y la Salud
+title: Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro de la Salud
+description: Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud.
 pubDate: 2021-12-13
 author: Info Saturdays
 category: Podcast
 kind: article
 tags: []
 image: /media/7153240ea7535b66.webp
-imageAlt: Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro
-  de la Salud
+imageAlt: Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro de la Salud
 legacyPath: /2021/12/13/1x04-margarita-sordo-salud-con-ia/
 sourceUrl: https://saturdays.ai/2021/12/13/1x04-margarita-sordo-salud-con-ia/
 sourceId: 4894
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/7153240ea7535b66.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este episodio invitamos a Margarita Sordo quien nos platica sobre su trayectoria en el mundo de la Inteligencia Artificial y la Salud. Margarita es Sr Biomedical Informatics Scientist con más de 20 años de experiencia trabajando en proyectos de Ciencias de la Computación e Inteligencia Artificial enfocadas a la Salud. 
-
-De corazón esperamos que lo disfruten, Margarita es una persona increíble, aprendimos mucho de ella y de su increíble trayectoria.
+Margarita Sordo comparte más de veinte años de experiencia en informática biomédica e inteligencia artificial aplicada a la salud. Hablamos de su paso de la investigación al trabajo aplicado, de los proyectos que más le han marcado y de los retos de llevar la IA a la medicina. También ofrece recomendaciones para quienes quieren acercarse a este campo.
 
 ## **Links**
 
@@ -47,3 +41,5 @@ De corazón esperamos que lo disfruten, Margarita es una persona increíble, apr
 **46:55** – ¿Cuál es el próximo paso en la medicina con la IA?
 
 **56:17** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

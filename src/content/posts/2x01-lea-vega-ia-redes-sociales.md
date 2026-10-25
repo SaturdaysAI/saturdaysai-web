@@ -1,7 +1,6 @@
 ---
 title: Podcast T2/E1 – Lea Vega – La Inteligencia Artificial en las Redes Sociales
-description: Empezamos nueva temporada hablando de un tema muy actual con la
-  invitada Lea Vega, las redes sociales.
+description: Lea Vega abre la segunda temporada con una conversación sobre la IA en las redes sociales.
 pubDate: 2021-12-16
 author: Info Saturdays
 category: Podcast
@@ -14,13 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/16/2x01-lea-vega-ia-redes-sociales/
 sourceId: 4948
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/5df15e2b8bb30861.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-Empezamos nueva temporada hablando de un tema muy actual con la invitada Lea Vega, las redes sociales. En este podcast nos centramos en qué funcionalidad tiene la Inteligencia Artificial en las diferentes redes sociales, además de cómo se pueden beneficiar de ellas las pequeñas empresas durante sus campañas de marketing. 
+Lea Vega abre la segunda temporada con una conversación sobre la IA en las redes sociales. Exploramos el análisis de la influencia social, las aplicaciones en campañas de marketing y las posibilidades para pequeñas empresas. También repasamos el origen de su investigación y los retos de llevarla a la práctica.
 
 ## **Links**
 
@@ -43,3 +41,5 @@ Empezamos nueva temporada hablando de un tema muy actual con la invitada Lea Veg
 **33:30** – ¿Cómo ve el proyecto en el futuro?
 
 **37:00** – Recomendaciones a los oyentes
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

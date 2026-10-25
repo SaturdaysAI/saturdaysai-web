@@ -1,9 +1,6 @@
 ---
 title: Podcast T3/E5 – Mercedes Riveira – Anonimización de los Datos en Sanidad
-description: En el episodio de hoy entrevistamos a Mercedes Riveira, física y
-  biomédica, quien nos hablará sobre la Anonimización de los Datos en el sector
-  sanitario. No ha contado acerca de su trayectoria profesional, Proyecto
-  europeo de…
+description: Mercedes Riveira explica el papel de la anonimización de datos en la investigación sanitaria.
 pubDate: 2021-12-22
 author: Equipo Mkt
 category: Podcast
@@ -16,13 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/22/3x05-mercedes-riveira-anonimizacion-d
 sourceId: 5051
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/a598e08398a6b007.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En el episodio de hoy entrevistamos a Mercedes Riveira, física y biomédica, quien nos hablará sobre la Anonimización de los Datos en el sector sanitario. No ha contado acerca de su trayectoria profesional, Proyecto europeo de investigación, el papel de AI y ML en la Física Médica y su visión de la IA en los próximos años en la Medicina. Para aprender esto y mucho más no dudes en escucharlo entero.
+Mercedes Riveira explica el papel de la anonimización de datos en la investigación sanitaria. Hablamos de su trayectoria, de la física médica, de proyectos europeos de investigación y de los retos de aplicar IA a la medicina. Una conversación sobre aprender, investigar y proteger los datos con los que trabajamos.
 
 ## **Links**
 
@@ -51,3 +47,5 @@ En el episodio de hoy entrevistamos a Mercedes Riveira, física y biomédica, qu
 **32:10** – Recomendaciones a los oyentes
 
 **34:15** – Recomendaciones a si misma
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

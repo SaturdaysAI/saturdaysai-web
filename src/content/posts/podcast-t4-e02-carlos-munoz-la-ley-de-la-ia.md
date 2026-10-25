@@ -1,8 +1,6 @@
 ---
 title: Podcast T4-E02-Carlos Muñoz-La Ley de la IA
-description: En el episodio de hoy hemos tenido el agrado de poder entrevistar a
-  Carlos Muñoz Ferrandis, fundador de «High Technology Law Forum», entre muchas
-  otras cosas. Nos contará cómo a pesar de que su pasión son las tecnologías,…
+description: "Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial."
 pubDate: 2022-07-26
 author: Info Saturdays
 category: Podcast
@@ -15,13 +13,12 @@ sourceUrl: https://saturdays.ai/2022/07/26/podcast-t4-e02-carlos-munoz-la-ley-de
 sourceId: 7600
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/eb4e0eee5375338d.webp)
 
-En el episodio de hoy hemos tenido el agrado de poder entrevistar a Carlos Muñoz Ferrandis, fundador de «High Technology Law Forum», entre muchas otras cosas. Nos contará cómo a pesar de que su pasión son las tecnologías, acabó estudiando derecho y más adelante fusionó ambas facetas. Además en el podcast aprenderemos sobre propiedad intelectual, sobre cómo serán las leyes futuras de la IA…
-
-Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasarte por nuestro perfil.
+Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho y la inteligencia artificial. El fundador de High Technology Law Forum comparte cómo llegó a trabajar en la intersección entre ambos. Conversamos sobre propiedad intelectual, licencias de modelos, BLOOM y los espacios de prueba para la regulación. El episodio recoge su perspectiva sobre estos debates en la fecha de grabación; no sustituye la consulta de la normativa vigente.
 
 ## Links
 
@@ -41,7 +38,7 @@ Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasar
 
 9:10-¿Qué querías ser de pequeño?
 
-11:00-Explicacioón acerca de _«Bloom»_
+11:00-Explicación acerca de _«Bloom»_
 
 14:00-¿Qué quiere decir poner una licencia a un modelo open source?
 
@@ -61,4 +58,4 @@ Si quieres saber más sobre estos temas, no dudes en escuchar el podcast o pasar
 
 47:16- Recomendación de persona para entrevistar en el podcast
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).

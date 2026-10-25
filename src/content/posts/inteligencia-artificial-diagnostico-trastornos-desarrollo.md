@@ -1,10 +1,6 @@
 ---
-title: "DETECTAA-AI: Inteligencia Artificial en el diagnóstico presuntivo de
-  trastornos del desarrollo en niños"
-description: Quito. 2021 Utilizamos la Inteligencia Artificial para ayudarnos a
-  realizar el diagnóstico presuntivo de trastornos en niños en edad escolar.
-  Saturdays.AI es una iniciativa a nivel global, cuyo principio es promover
-  escenarios…
+title: "DETECTAA-AI: Inteligencia Artificial en el diagnóstico presuntivo de trastornos del desarrollo en niños"
+description: Quito. 2021 Utilizamos la Inteligencia Artificial para ayudarnos a realizar el diagnóstico presuntivo de trastornos en niños en edad escolar. Saturdays.AI es una iniciativa a nivel global, cuyo principio es promover escenarios…
 pubDate: 2021-11-19
 author: Miguel Guerrero
 category: AI for good
@@ -15,16 +11,15 @@ tags:
   - TensorFlow
   - Texto
 image: /media/fa51215a9a10630a.webp
-imageAlt: "DETECTAA-AI: Inteligencia Artificial en el diagnóstico presuntivo de
-  trastornos del desarrollo en niños"
+imageAlt: "DETECTAA-AI: Inteligencia Artificial en el diagnóstico presuntivo de trastornos del desarrollo en niños"
 legacyPath: /2021/11/19/inteligencia-artificial-diagnostico-trastornos-desarrollo/
 sourceUrl: https://saturdays.ai/2021/11/19/inteligencia-artificial-diagnostico-trastornos-desarrollo/
 sourceId: 4559
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
-
-
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 ![](/media/fa51215a9a10630a.webp)
 

@@ -89,7 +89,7 @@
     },
     {
       "source": "– Presentación Lewis ¿Quién es?",
-      "en": "– Presentation Lewis Who is he?",
+      "en": "– Meet Lewis",
       "es": "– Presentación Lewis ¿Quién es?",
       "reviewed": false,
       "sourceLanguage": "es"
@@ -103,9 +103,14 @@
     },
     {
       "source": "Sobre el traspaso de físico de partículas al científico de datos",
-      "en": "On the transfer from particle physicist to data scientist",
+      "en": "Moving from particle physics to data science",
       "es": "Sobre el traspaso de físico de partículas al científico de datos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive wording correction"
+      }
     },
     {
       "source": "– Sobre el labor en Hugging Face y optimización de",
@@ -192,6 +197,28 @@
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 9 feb 2022.",
       "reviewed": false,
       "sourceLanguage": "es"
+    },
+    {
+      "source": "Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático.",
+      "en": "Lewis Tunstall explains how he moved from particle physics into data science and machine learning.",
+      "es": "Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático. Exploramos su trabajo en Hugging Face, los modelos transformer y los retos de llevar estas herramientas a más personas e idiomas. También hablamos de inteligencia artificial general, de cómo valorar el impacto del propio trabajo y de los primeros pasos para aprender machine learning y deep learning.",
+      "en": "Lewis Tunstall explains how he moved from particle physics into data science and machine learning. We explore his work at Hugging Face, transformer models and the challenges of making these tools available to more people and languages. We also discuss artificial general intelligence, how to assess the impact of your work and the first steps towards learning machine learning and deep learning.",
+      "es": "Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático. Exploramos su trabajo en Hugging Face, los modelos transformer y los retos de llevar estas herramientas a más personas e idiomas. También hablamos de inteligencia artificial general, de cómo valorar el impacto del propio trabajo y de los primeros pasos para aprender machine learning y deep learning.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Complete new Spanish and English copy"
+      }
     }
   ]
 }

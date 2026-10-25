@@ -1,9 +1,6 @@
 ---
-title: Transformación de Imágenes de Angiotomografía por medio del uso de
-  Inteligencia Artificial.
-description: Latam online. Segunda Edición. 2021 Angiotomografías con contraste
-  ¿Cuál es el problema? El reto Los medios de contraste vía endovenosa que se
-  usan en las angiotomografias contrastadas pueden tener incidencia en la salud…
+title: Transformación de Imágenes de Angiotomografía por medio del uso de Inteligencia Artificial.
+description: Latam online. Segunda Edición. 2021 Angiotomografías con contraste ¿Cuál es el problema? El reto Los medios de contraste vía endovenosa que se usan en las angiotomografias contrastadas pueden tener incidencia en la salud…
 pubDate: 2022-03-09
 author: Info Saturdays
 category: AI for good
@@ -14,14 +11,15 @@ tags:
   - Imágenes
   - Salud y Bienestar
 image: /media/453c908ba4f875ed.webp
-imageAlt: Transformación de Imágenes de Angiotomografía por medio del uso de
-  Inteligencia Artificial.
+imageAlt: Transformación de Imágenes de Angiotomografía por medio del uso de Inteligencia Artificial.
 legacyPath: /2022/03/09/angiop-ai-transformacion-imagenes-angiotomografia-inteligencia-artificial/
 sourceUrl: https://saturdays.ai/2022/03/09/angiop-ai-transformacion-imagenes-angiotomografia-inteligencia-artificial/
 sourceId: 6018
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
+Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.
 
 ## 
 

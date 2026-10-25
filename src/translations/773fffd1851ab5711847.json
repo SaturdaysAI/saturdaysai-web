@@ -232,9 +232,14 @@
     },
     {
       "source": "Paul Paredes Pincay",
-      "en": "Paul Paredes Pincay",
+      "en": "Pablo Paredes Pincay",
       "es": "Paul Paredes Pincay",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-25",
+        "scope": "Archive Spanish and English wording"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 dic 2024.",

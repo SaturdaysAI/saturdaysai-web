@@ -1,8 +1,6 @@
 ---
 title: Podcast T2/E10 – Ibon Reinoso – Emprender en la IA
-description: En este capítulo, entrevistamos a Ibon Reinoso, CEO y Promotor de
-  NEURE_ , una startup de Big Data, Visión Artificial e Inteligencia artificial
-  especializada en detección y seguimiento de objetos.
+description: Ibon Reinoso cuenta su experiencia emprendiendo con NEURE_, una startup centrada en visión artificial y detección y seguimiento de objetos.
 pubDate: 2021-12-20
 author: Equipo Mkt
 category: Podcast
@@ -15,22 +13,12 @@ sourceUrl: https://saturdays.ai/2021/12/20/2x10-ibon-reinoso-emprender-en-la-ia/
 sourceId: 5005
 language: es
 draft: false
+updatedDate: 2026-10-25
 ---
 
 ![](/media/113a44c503ae3d5d.webp)
 
-_Suscríbete en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcast](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [Youtube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68) para escuchar a nuevos expertos cada mes._
-
-En este capítulo, entrevistamos a **Ibon Reinoso**, CEO y Promotor de **NEURE\_** ,  una startup de **Big Data, Visión Artificial e Inteligencia artificial** especializada en detección y seguimiento de objetos.   
-
-Durante la entrevista, Ibon nos habla acerca de:
-
--   **Procesamiento de imágenes con IA.**
--   **La ética que debe haber detrás del reconocimiento de imágenes para garantizar la privacidad.**
--   **La importancia de la perseverancia y de cometer errores**
--   **¿Cómo la IA cambiará una vez las PYMES tengan más acceso a la IA?**
-
-Muchos temas interesantes que te ayudarán a entender los pasos que se pueden dar para emprender en el sector de la IA.
+Ibon Reinoso cuenta su experiencia emprendiendo con NEURE_, una startup centrada en visión artificial y detección y seguimiento de objetos. Hablamos de privacidad, ética, perseverancia y acceso de las pequeñas empresas a la IA. Una conversación sobre lo que se aprende al convertir una idea técnica en un proyecto empresarial.
 
 ## **Links**
 
@@ -59,3 +47,5 @@ Muchos temas interesantes que te ayudarán a entender los pasos que se pueden da
 **27:35** – Recomendaciones de series sobre la tecnología
 
 **32:00** – Recomendaciones a los estudiantes de AI Saturdays
+
+Escucha más conversaciones en [Spotify](https://open.spotify.com/show/3gIWExXqZnodNTSLshdA8v), [Apple Podcasts](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444) o [YouTube](https://www.youtube.com/playlist?list=PLx92lolCOTdxPdHodUCPEcKpCrrW-2P68).
