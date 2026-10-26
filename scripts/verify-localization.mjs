@@ -31,6 +31,13 @@ for (const file of files) {
   assert.equal($('[data-current-language]').text(), language.toUpperCase(), file);
   assert.equal($('[data-language][aria-current]').attr('data-language'), language, file);
   assert.equal($('html').attr('data-localized'), 'true', file);
+  $('pre[aria-label]').each((_, el) => {
+    assert.equal(
+      $(el).attr('aria-label'),
+      language === 'es' ? 'Ejemplo de código' : 'Code example',
+      file,
+    );
+  });
   const copyLink = $('[data-copy-link]');
   if (copyLink.length) {
     assert.equal(copyLink.text().trim(), language === 'es' ? 'Copiar enlace' : 'Copy link', file);

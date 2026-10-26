@@ -66,6 +66,10 @@ for (const file of files) {
       );
     $('html').attr({ lang: language, 'data-localized': 'true', 'data-base': base });
     $('[lang]').not('[translate="no"], [translate="no"] *').attr('lang', language);
+    $('pre[aria-label="Code example"]').attr(
+      'aria-label',
+      language === 'es' ? 'Ejemplo de código' : 'Code example',
+    );
     $('[data-reading-minutes]').each((_, el) => {
       const minutes = Number($(el).attr('data-reading-minutes'));
       $(el).text(language === 'es' ? `${minutes} min de lectura` : `${minutes} min read`);
