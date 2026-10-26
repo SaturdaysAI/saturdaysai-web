@@ -1,0 +1,168 @@
+{
+  "verifiedAt": "2026-10-26T01:05:00.202Z",
+  "contentCommit": "11434b528ba8280e2ba24d93c3f0544a60b7fb1c",
+  "deployment": "https://github.com/SaturdaysAI/saturdaysai-web/actions/runs/40251687382",
+  "continuousIntegration": {
+    "testsPassed": 43,
+    "testsFailed": 0,
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "localizedPages": 918,
+    "alternateLinks": 1836,
+    "missingTranslations": 0,
+    "reviewedVersions": 436,
+    "pendingVersions": 0
+  },
+  "publicVerification": {
+    "startedAt": "2026-10-26T01:00:03.766Z",
+    "completedAt": "2026-10-26T01:05:00.202Z",
+    "origin": "https://saturdays.ai",
+    "normalDNS": true,
+    "strictTLS": true,
+    "certificates": [
+      {
+        "host": "saturdays.ai",
+        "authorized": true,
+        "issuer": {
+          "C": "US",
+          "O": "Let's Encrypt",
+          "CN": "YR2"
+        },
+        "subject": {
+          "CN": "saturdays.ai"
+        },
+        "validFrom": "Oct 25 17:36:08 2026 GMT",
+        "validTo": "Jan 23 17:36:07 2027 GMT",
+        "names": "DNS:saturdays.ai, DNS:www.saturdays.ai",
+        "protocol": "TLSv1.3"
+      },
+      {
+        "host": "www.saturdays.ai",
+        "authorized": true,
+        "issuer": {
+          "C": "US",
+          "O": "Let's Encrypt",
+          "CN": "YR2"
+        },
+        "subject": {
+          "CN": "saturdays.ai"
+        },
+        "validFrom": "Oct 25 17:36:08 2026 GMT",
+        "validTo": "Jan 23 17:36:07 2027 GMT",
+        "names": "DNS:saturdays.ai, DNS:www.saturdays.ai",
+        "protocol": "TLSv1.3"
+      }
+    ],
+    "checkedFiles": 6177,
+    "activeSocialCards": 446,
+    "excludedSupersededCards": 1026,
+    "excludedUnusedResponsiveImages": 47,
+    "htmlCount": 918,
+    "editorialVersionsChecked": 436,
+    "sitemapURLs": 568,
+    "redirects": [
+      {
+        "url": "http://saturdays.ai/",
+        "hops": [
+          {
+            "url": "http://saturdays.ai/",
+            "status": 301,
+            "location": "https://saturdays.ai/"
+          },
+          {
+            "url": "https://saturdays.ai/",
+            "status": 200,
+            "location": null
+          }
+        ]
+      },
+      {
+        "url": "http://saturdays.ai/blog-y-noticias/?q=IA",
+        "hops": [
+          {
+            "url": "http://saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 301,
+            "location": "https://saturdays.ai/blog-y-noticias/?q=IA"
+          },
+          {
+            "url": "https://saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 200,
+            "location": null
+          }
+        ]
+      },
+      {
+        "url": "https://www.saturdays.ai/blog-y-noticias/?q=IA",
+        "hops": [
+          {
+            "url": "https://www.saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 301,
+            "location": "https://saturdays.ai/blog-y-noticias/?q=IA"
+          },
+          {
+            "url": "https://saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 200,
+            "location": null
+          }
+        ]
+      },
+      {
+        "url": "http://www.saturdays.ai/blog-y-noticias/?q=IA",
+        "hops": [
+          {
+            "url": "http://www.saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 301,
+            "location": "https://saturdays.ai/blog-y-noticias/?q=IA"
+          },
+          {
+            "url": "https://saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 200,
+            "location": null
+          }
+        ]
+      },
+      {
+        "url": "https://saturdaysai.github.io/saturdaysai-web/blog-y-noticias/?q=IA",
+        "hops": [
+          {
+            "url": "https://saturdaysai.github.io/saturdaysai-web/blog-y-noticias/?q=IA",
+            "status": 301,
+            "location": "https://saturdays.ai/blog-y-noticias/?q=IA"
+          },
+          {
+            "url": "https://saturdays.ai/blog-y-noticias/?q=IA",
+            "status": 200,
+            "location": null
+          }
+        ]
+      }
+    ],
+    "failures": []
+  },
+  "browserChecks": [
+    {
+      "brokenLoadedImages": 0,
+      "codeLabels": [
+        "Ejemplo de código",
+        "Ejemplo de código",
+        "Ejemplo de código"
+      ],
+      "lang": "es",
+      "notices": 0,
+      "overflow": false,
+      "overlap": false,
+      "url": "https://saturdays.ai/2026/03/18/de-proyecto-existente-a-producto-digital-como-construi-la-web-app-de-energia-en-accion/?lang=es#section-1"
+    },
+    {
+      "brokenLoadedImages": 0,
+      "confirmation": "Link copied.",
+      "copy": "Copy link",
+      "lang": "en",
+      "mediaNote": "Audio and video remain in their original language.",
+      "notices": 0,
+      "overflow": false,
+      "url": "https://saturdays.ai/en/2025/01/20/podcast-t5-e01-davidleirado-filosofia/?lang=en"
+    }
+  ],
+  "browserScope": "Representative pages in a real browser: Spanish mobile and English desktop on the public domain. Language and theme controls also verified on the local production preview."
+}
