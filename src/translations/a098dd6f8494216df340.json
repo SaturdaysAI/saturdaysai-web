@@ -4,240 +4,405 @@
   "segments": [
     {
       "source": "La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan…",
-      "en": "La Paz. Machine Learning. 2021 (La Paz 2021) Around the world, there is a fairly common problem in most hospitals and that is that as they exist daily, a fairly large number of people looking for…",
-      "es": "La Paz. Machine Learning. 2021 (La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan…",
-      "reviewed": false,
+      "en": "An educational project from Saturdays.AI La Paz explores neural networks for classifying paediatric chest X-rays with and without pneumonia.",
+      "es": "Un proyecto educativo de Saturdays.AI La Paz explora el uso de redes neuronales para clasificar radiografías infantiles con y sin neumonía.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "11 nov 2021",
       "en": "Nov 11, 2021",
       "es": "11 nov 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Machine Learning. 2021",
       "en": ". Machine Learning. 2021",
       "es": ". Machine Learning. 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan atención médica, el sistema de atención tiende a colapsar y una gran cantidad de personas no llegan a recibir atención médica que puede llegar a ser urgente. Tenemos que tener en cuenta que la variedad de pacientes y la variedad de casos a tratar dentro de un hospital es enorme. Sin embargo, una de las enfermedades más importantes que hay que tratar de forma rápida tras su diagnóstico es la neumonía en niños de 0 a 5 años de edad. En el presente, el Machine Learning nos permite hacer un diagnóstico de neumonía automático y rápido.",
-      "en": "(La Paz 2021) Around the world, there is a fairly common problem in most hospitals and that is that as there is a fairly large number of people seeking medical attention on a daily basis, the care system tends to collapse and a large number of people do not receive medical attention that may be urgent. We have to take into account that the variety of patients and the variety of cases to be treated within a hospital is enormous. However, one of the most important diseases that must be treated quickly after diagnosis is pneumonia in children from 0 to 5 years of age. At present, Machine Learning allows us to make an automatic and rapid diagnosis of pneumonia.",
-      "es": "(La Paz 2021) Alrededor de todo el mundo, existe un problema bastante común en la mayoría de los hospitales y es que al existir diariamente, una cantidad bastante grande de personas que buscan atención médica, el sistema de atención tiende a colapsar y una gran cantidad de personas no llegan a recibir atención médica que puede llegar a ser urgente. Tenemos que tener en cuenta que la variedad de pacientes y la variedad de casos a tratar dentro de un hospital es enorme. Sin embargo, una de las enfermedades más importantes que hay que tratar de forma rápida tras su diagnóstico es la neumonía en niños de 0 a 5 años de edad. En el presente, el Machine Learning nos permite hacer un diagnóstico de neumonía automático y rápido.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "(La Paz, 2021) High demand for medical care can overwhelm hospitals and delay urgent treatment. Pneumonia in children aged 0–5 is one condition that requires prompt assessment. This project explores how machine learning could support X-ray analysis without replacing a medical diagnosis.",
+      "es": "(La Paz, 2021) La elevada demanda de atención médica puede saturar los hospitales y retrasar la atención de casos urgentes. Entre ellos está la neumonía en niños de 0 a 5 años, que requiere una valoración rápida. En este proyecto exploramos cómo el aprendizaje automático podría apoyar el análisis de radiografías, sin sustituir el diagnóstico médico.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La neumonía infantil es la enfermedad infecciosa que más muertes de niños ocasiona día a día en todo el mundo. En promedio, más de 800 000 niños menores de 5 años mueren de neumonía cada año, es decir que cada 39 segundos muere un niño a causa de la neumonía. Lo más impactante en esta situación es que según el artículo realizado por la UNICEF el 20 de enero de 2020, casi todas esas muertes son prevenibles. El número abismal de muertes infantiles a causa de la neumonía es debido a que esta enfermedad se puede transmitir a la hora de respirar partículas suspendidas en el aire.",
-      "en": "Childhood pneumonia is the infectious disease that causes the most deaths in children every day throughout the world. On average, more than 800,000 children under 5 years of age die from pneumonia each year, meaning a child dies from pneumonia every 39 seconds. The most shocking thing in this situation is that according to the article published by UNICEF on January 20, 2020, almost all of these deaths are preventable. The abysmal number of child deaths due to pneumonia is due to the fact that this disease can be transmitted when breathing particles suspended in the air.",
-      "es": "La neumonía infantil es la enfermedad infecciosa que más muertes de niños ocasiona día a día en todo el mundo. En promedio, más de 800 000 niños menores de 5 años mueren de neumonía cada año, es decir que cada 39 segundos muere un niño a causa de la neumonía. Lo más impactante en esta situación es que según el artículo realizado por la UNICEF el 20 de enero de 2020, casi todas esas muertes son prevenibles. El número abismal de muertes infantiles a causa de la neumonía es debido a que esta enfermedad se puede transmitir a la hora de respirar partículas suspendidas en el aire.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Childhood pneumonia is a major public health concern. The UNICEF article cited by the team, published on 20 January 2020, estimated more than 800,000 deaths among children under five each year, roughly one every 39 seconds, and stated that almost all were preventable. These figures reflect the project’s historical context. Transmission of the pathogens that cause pneumonia is only one factor involved; it does not, by itself, explain that mortality.",
+      "es": "La neumonía infantil representa un importante problema de salud pública. El artículo de UNICEF citado por el equipo, publicado el 20 de enero de 2020, estimaba más de 800.000 muertes anuales de menores de 5 años, aproximadamente una cada 39 segundos, y señalaba que casi todas eran prevenibles. Estas cifras corresponden al contexto histórico del proyecto. La transmisión de los agentes que causan neumonía es solo uno de los factores implicados; no explica por sí sola esa mortalidad.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Problemática:",
       "en": "Problem:",
       "es": "Problemática:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Teniendo en cuenta la cantidad enorme de casos de neumonía en niños menores de 5 años, ¿cómo podemos implementar una Inteligencia Artificial para que el diagnóstico de la neumonía infantil sea más eficiente?",
       "en": "Taking into account the enormous number of cases of pneumonia in children under 5 years of age, how can we implement Artificial Intelligence to make the diagnosis of childhood pneumonia more efficient?",
       "es": "Teniendo en cuenta la cantidad enorme de casos de neumonía en niños menores de 5 años, ¿cómo podemos implementar una Inteligencia Artificial para que el diagnóstico de la neumonía infantil sea más eficiente?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Objetivo:",
       "en": "Objective:",
       "es": "Objetivo:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo principal de este proyecto es desarrollar una Inteligencia Artificial capaz de analizar radiografías de infantes que tengan 3 años de edad o menos. De esta forma, todo infante que tenga radiografías de sus pulmones podrá ser diagnosticado en cuestión de segundos y podrá ser llevado a un área de atención en lugar de tener que pasar primero por un doctor general que deba hacer el diagnóstico si el infante tiene o no neumonía.",
-      "en": "The main objective of this project is to develop an Artificial Intelligence capable of analyzing x-rays of infants who are 3 years of age or younger. In this way, any infant who has x-rays of their lungs can be diagnosed in a matter of seconds and can be taken to a care area instead of first having to go through a general doctor who must make the diagnosis if the infant has pneumonia or not.",
-      "es": "El objetivo principal de este proyecto es desarrollar una Inteligencia Artificial capaz de analizar radiografías de infantes que tengan 3 años de edad o menos. De esta forma, todo infante que tenga radiografías de sus pulmones podrá ser diagnosticado en cuestión de segundos y podrá ser llevado a un área de atención en lugar de tener que pasar primero por un doctor general que deba hacer el diagnóstico si el infante tiene o no neumonía.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The project aims to develop a prototype that analyses X-rays of children aged three or younger to identify patterns associated with pneumonia. The team proposes that, with appropriate validation, such a tool could help prioritise cases. This project’s results do not establish that it can diagnose patients or replace medical assessment.",
+      "es": "El objetivo del proyecto es desarrollar un prototipo que analice radiografías de niños de hasta 3 años para identificar patrones asociados a la neumonía. El equipo plantea que, con una validación adecuada, una herramienta de este tipo podría apoyar la priorización de casos. Los resultados de este proyecto no permiten diagnosticar a pacientes ni prescindir de la valoración médica.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Datasets:",
       "en": "Datasets:",
       "es": "Datasets:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se utilizó el dataset “Chest X-Ray Images (Pneumonia)” encontrado en la plataforma de Kaggle. Este dataset contiene 5 863 imágenes divididas en 2 categorías: train (89.4% del dataset total), test (10.6% del dataset total). Estas dos categorías serán utilizadas respectivamente para entrenar y testear nuestro modelo. Así mismo, es importante mencionar que cada categoría del dataset está dividida en dos partes, la primera está compuesta de radiografías de infantes sin pneumonia, esta división está denominada como: “NORMAL”",
-      "en": "The “Chest X-Ray Images (Pneumonia)” dataset found on the Kaggle platform was used. This dataset contains 5,863 images divided into 2 categories: train (89.4% of the total dataset), test (10.6% of the total dataset). These two categories will be used respectively to train and test our model. Likewise, it is important to mention that each category of the dataset is divided into two parts, the first is composed of x-rays of infants without pneumonia, this division is called: “NORMAL”",
-      "es": "Se utilizó el dataset “Chest X-Ray Images (Pneumonia)” encontrado en la plataforma de Kaggle. Este dataset contiene 5 863 imágenes divididas en 2 categorías: train (89.4% del dataset total), test (10.6% del dataset total). Estas dos categorías serán utilizadas respectivamente para entrenar y testear nuestro modelo. Así mismo, es importante mencionar que cada categoría del dataset está dividida en dos partes, la primera está compuesta de radiografías de infantes sin pneumonia, esta división está denominada como: “NORMAL”",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used the “Chest X-Ray Images (Pneumonia)” dataset available on Kaggle. The team worked with 5,863 images and reports a split into training (89.4%) and testing (10.6%) data. Each group contains two classes: “NORMAL”, for X-rays without pneumonia, and “PNEUMONIA”, for X-rays labelled as pneumonia.",
+      "es": "Utilizamos el conjunto de datos “Chest X-Ray Images (Pneumonia)”, disponible en Kaggle. El equipo trabajó con 5.863 imágenes y describe una división en entrenamiento (89,4 %) y prueba (10,6 %). Cada grupo contiene dos clases: “NORMAL”, con radiografías sin neumonía, y “PNEUMONIA”, con radiografías etiquetadas como neumonía.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La segunda parte está denominada como: “PNEUMONIA” y es donde se encuentran las radiografías de los infantes que tienen neumonía:",
       "en": "The second part is called: “PNEUMONIA” and is where the x-rays of infants who have pneumonia are found:",
       "es": "La segunda parte está denominada como: “PNEUMONIA” y es donde se encuentran las radiografías de los infantes que tienen neumonía:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Proceso de identificación de la neumonía:",
       "en": "Pneumonia identification process:",
       "es": "Proceso de identificación de la neumonía:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para poder realizar una buena identificación de neumonía hemos decidido utilizar el filtro un filtro de escala de grises que se encuentra en la librería de cv2. Este filtro nos permite resaltar las diferentes áreas importantes del cuerpo humano. De esta forma el análisis es más certero y el accuracy del modelo más alto. Así mismo es importante tener en cuenta que si no pasaramos las imágenes por un filtro sería peligroso ya que el modelo se basaría únicamente en la imágen original y no existiría ninguna opción para eliminar el ruido de la imágen.",
-      "en": "In order to make a good identification of pneumonia we have decided to use the grayscale filter found in the cv2 library. This filter allows us to highlight the different important areas of the human body. In this way the analysis is more accurate and the accuracy of the model is higher. Likewise, it is important to keep in mind that if we did not pass the images through a filter it would be dangerous since the model would be based only on the original image and there would be no option to eliminate noise from the image.",
-      "es": "Para poder realizar una buena identificación de neumonía hemos decidido utilizar el filtro un filtro de escala de grises que se encuentra en la librería de cv2. Este filtro nos permite resaltar las diferentes áreas importantes del cuerpo humano. De esta forma el análisis es más certero y el accuracy del modelo más alto. Así mismo es importante tener en cuenta que si no pasaramos las imágenes por un filtro sería peligroso ya que el modelo se basaría únicamente en la imágen original y no existiría ninguna opción para eliminar el ruido de la imágen.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "To prepare the X-rays, we used grayscale conversion from the cv2 library. This simplifies the image representation for the model. Conversion alone does not remove noise or guarantee better accuracy: preprocessing choices must be evaluated using validation data.",
+      "es": "Para preparar las radiografías, utilizamos la conversión a escala de grises de la biblioteca cv2. Este paso simplifica la representación de las imágenes para el modelo. La conversión no elimina por sí sola el ruido ni garantiza una mejora de la exactitud: esas decisiones de preprocesamiento deben evaluarse con los datos de validación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la imágen previa se puede apreciar como los pulmones se ven más resaltados aplicando el filtro ya mencionado.",
-      "en": "In the previous image you can see how the lungs look more highlighted by applying the aforementioned filter.",
-      "es": "En la imágen previa se puede apreciar como los pulmones se ven más resaltados aplicando el filtro ya mencionado.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The image above shows the lungs after grayscale conversion.",
+      "es": "La imagen anterior muestra el aspecto de los pulmones tras aplicar la conversión a escala de grises.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Subsecuentemente se realizó una normalización a todos los píxeles de cada imagen para que todo valor vaya de 0 a 1.",
-      "en": "Subsequently, a normalization was performed on all the pixels of each image so that every value goes from 0 to 1.",
-      "es": "Subsecuentemente se realizó una normalización a todos los píxeles de cada imagen para que todo valor vaya de 0 a 1.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We then normalised each image’s pixel values to a range of 0 to 1.",
+      "es": "Después normalizamos los píxeles de cada imagen para que sus valores estuvieran entre 0 y 1.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Así mismo, hemos utilizado la librería de Keras para incluir DataAugmentation dentro de nuestro DataSet. Esta añadidura le permite a nuestro modelo aumentar levemente el accuracy ya obtenido con el filtro de la escala de grises ya que realiza rotaciones, zoom y mueve la imagen de forma horizontal y vertical.",
-      "en": "Likewise, we have used the Keras library to include DataAugmentation within our DataSet. This addition allows our model to slightly increase the accuracy already obtained with the grayscale filter since it rotates, zooms and moves the image horizontally and vertically.",
-      "es": "Así mismo, hemos utilizado la librería de Keras para incluir DataAugmentation dentro de nuestro DataSet. Esta añadidura le permite a nuestro modelo aumentar levemente el accuracy ya obtenido con el filtro de la escala de grises ya que realiza rotaciones, zoom y mueve la imagen de forma horizontal y vertical.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We also used Keras to augment the training data with rotations, zooming, and horizontal and vertical shifts. The aim was to add variety to the training data and improve the model’s ability to generalise.",
+      "es": "También utilizamos Keras para aumentar los datos de entrenamiento mediante rotaciones, zoom y desplazamientos horizontales y verticales. Con ello buscamos aportar variedad al entrenamiento y mejorar la capacidad de generalización del modelo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una vez añadido el filtro se analiza cada imágen y se busca una opacidad homogénea presente al nivel de los pulmones, este es el principal efecto de la neumonía.",
-      "en": "Once the filter is added, each image is analyzed and a homogeneous opacity present at the level of the lungs is looked for, this is the main effect of pneumonia.",
-      "es": "Una vez añadido el filtro se analiza cada imágen y se busca una opacidad homogénea presente al nivel de los pulmones, este es el principal efecto de la neumonía.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The model analyses the processed images to learn patterns that distinguish the two classes. Lung opacities were among the features the team aimed to study; their clinical interpretation requires qualified professionals.",
+      "es": "El modelo analiza las imágenes procesadas para aprender patrones que diferencien las dos clases. Las opacidades pulmonares son uno de los rasgos que el equipo pretendía estudiar; su interpretación clínica requiere personal especializado.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Modelos:",
       "en": "Models:",
       "es": "Modelos:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El modelo que hemos implementado es el CNN (Convolutional Neural Network). En resumen es un tipo de Red neuronal artificial con un aprendizaje supervisado el cual puede identificar distintas características de entrada, por así decirlo, que en algunos casos no se puede intuir.",
-      "en": "The model that we have implemented is CNN (Convolutional Neural Network). In summary, it is a type of artificial neural network with supervised learning which can identify different input characteristics, so to speak, that in some cases cannot be intuited.",
-      "es": "El modelo que hemos implementado es el CNN (Convolutional Neural Network). En resumen es un tipo de Red neuronal artificial con un aprendizaje supervisado el cual puede identificar distintas características de entrada, por así decirlo, que en algunos casos no se puede intuir.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We implemented a convolutional neural network (CNN), a type of neural network that can learn visual patterns from labelled images.",
+      "es": "Implementamos una red neuronal convolucional (CNN), un tipo de red neuronal que puede aprender patrones visuales a partir de imágenes etiquetadas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Las convoluciones consisten en tomar toda la imagen en pixeles y aplicar cada cierto número de píxeles un kernel (una matriz pequeña) el cual altera la imagen original dependiendo el kernel que estamos aplicando.",
-      "en": "Convolutions consist of taking the entire image in pixels and applying a kernel (a small matrix) every certain number of pixels, which alters the original image depending on the kernel we are applying.",
-      "es": "Las convoluciones consisten en tomar toda la imagen en pixeles y aplicar cada cierto número de píxeles un kernel (una matriz pequeña) el cual altera la imagen original dependiendo el kernel que estamos aplicando.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Convolutions apply a kernel, or small matrix, to different regions of an image. This produces feature maps that help the network learn visual patterns.",
+      "es": "Las convoluciones aplican un kernel, o matriz pequeña, a distintas regiones de la imagen. La operación produce mapas de características que ayudan a la red a aprender patrones visuales.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Training & Validation Accuracy + Testing Accuracy & Loss",
-      "en": "Training & Validation Accuracy + Testing Accuracy & Loss",
-      "es": "Training & Validation Accuracy + Testing Accuracy & Loss",
-      "reviewed": false
+      "en": "Training, validation and test accuracy, and loss",
+      "es": "Exactitud de entrenamiento, validación y prueba, y función de pérdida",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Matriz de confusión",
-      "en": "confusion matrix",
+      "en": "Confusion matrix",
       "es": "Matriz de confusión",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se intentó una implementación de la métrica de la matriz de confusion pero por un problema de versiones no se pudo obtener los datos buscados",
-      "en": "An implementation of the confusion matrix metric was attempted but due to a version problem, the desired data could not be obtained.",
-      "es": "Se intentó una implementación de la métrica de la matriz de confusion pero por un problema de versiones no se pudo obtener los datos buscados",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We attempted to calculate a confusion matrix, but a version compatibility issue prevented us from obtaining it.",
+      "es": "Intentamos calcular la matriz de confusión, pero un problema de compatibilidad entre versiones impidió obtenerla.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Accuracy:",
       "en": "Accuracy:",
-      "es": "Accuracy:",
-      "reviewed": false
+      "es": "Exactitud:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "User tests:",
-      "en": "User tests:",
-      "es": "User tests:",
-      "reviewed": false
+      "en": "Image tests:",
+      "es": "Pruebas con imágenes:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Teniendo en cuenta que si la predicción se acerca a 1 significa que la imagen es la de pulmones sanos y si se acerca a 0 significa que la imagen corresponde a pulmones con síntomas de neumonía, las predicciones realizadas por nuestro modelo son correctas.",
-      "en": "Taking into account that if the prediction is close to 1 it means that the image is of healthy lungs and if it is close to 0 it means that the image corresponds to lungs with pneumonia symptoms, the predictions made by our model are correct.",
-      "es": "Teniendo en cuenta que si la predicción se acerca a 1 significa que la imagen es la de pulmones sanos y si se acerca a 0 significa que la imagen corresponde a pulmones con síntomas de neumonía, las predicciones realizadas por nuestro modelo son correctas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Under the labelling scheme used, an output close to 1 corresponds to healthy lungs and an output close to 0 to pneumonia. The examples shown match their labels. This limited check does not replace a full evaluation of the model.",
+      "es": "En la codificación utilizada, una salida cercana a 1 corresponde a la clase de pulmones sanos y una cercana a 0, a la clase de neumonía. Los ejemplos mostrados coinciden con sus etiquetas. Esta comprobación puntual no sustituye una evaluación completa del modelo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Conclusiones y Recomendaciones",
       "en": "Conclusions and Recommendations",
       "es": "Conclusiones y Recomendaciones",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En conclusión se pudo ver que:",
-      "en": "In conclusion it could be seen that:",
-      "es": "En conclusión se pudo ver que:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Based on this work, we suggest the following:",
+      "es": "A partir de este trabajo, proponemos las siguientes recomendaciones:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se recomienda utilizar los filtros grises para mejorar la calidad de las imágenes",
-      "en": "It is recommended to use gray filters to improve the quality of the images",
-      "es": "Se recomienda utilizar los filtros grises para mejorar la calidad de las imágenes",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Evaluate whether grayscale conversion improves model performance.",
+      "es": "Evaluar si la conversión a escala de grises mejora el rendimiento del modelo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para que no sobrecargue la máquina virtual, si es que se la programa en colab, es necesario cambiar el tamaño de la imagen para que pueda leer todas las imágenes del dataset.",
-      "en": "So that it does not overload the virtual machine, if it is scheduled in a queue, it is necessary to change the image size so that it can read all the images in the dataset.",
-      "es": "Para que no sobrecargue la máquina virtual, si es que se la programa en colab, es necesario cambiar el tamaño de la imagen para que pueda leer todas las imágenes del dataset.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "When working in Google Colab, resize the images to limit memory use and allow the dataset to be processed.",
+      "es": "Al trabajar en Google Colab, redimensionar las imágenes para limitar el consumo de memoria y poder procesar el conjunto de datos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En el Data Augmentation implementado se recomienda que se aplique para mejorar el accuracy.",
-      "en": "In the implemented Data Augmentation, it is recommended that it be applied to improve accuracy.",
-      "es": "En el Data Augmentation implementado se recomienda que se aplique para mejorar el accuracy.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Evaluate data augmentation techniques to improve generalisation.",
+      "es": "Evaluar técnicas de aumento de datos para mejorar la generalización.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se recomienda implementar la normalización para que la predicción sea más precisa.",
-      "en": "It is recommended to implement normalization to make the prediction more accurate.",
-      "es": "Se recomienda implementar la normalización para que la predicción sea más precisa.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Apply normalisation consistently during training and prediction.",
+      "es": "Aplicar la normalización de forma coherente durante el entrenamiento y la predicción.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Referencias:",
       "en": "References:",
       "es": "Referencias:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "How to Configure Image Data Augmentation in Keras – Machine Learning MasteryImage data augmentation is a technique that can be used to artificially expand the size of a training dataset by…machinelearningmastery.com",
-      "en": "How to Configure Image Data Augmentation in Keras – Machine Learning MasteryImage data augmentation is a technique that can be used to artificially expand the size of a training dataset by…machinelearningmastery.com",
-      "es": "Cómo configurar el aumento de datos de imágenes en Keras: dominio del aprendizaje automáticoEl aumento de datos de imágenes es una técnica que se puede utilizar para expandir artificialmente el tamaño de un conjunto de datos de entrenamiento mediante…machinelearningmastery.com",
-      "reviewed": false,
+      "en": "How to Configure Image Data Augmentation in Keras. A Machine Learning Mastery guide to expanding a training dataset through image transformations.",
+      "es": "Cómo configurar el aumento de datos de imágenes en Keras. Una guía de Machine Learning Mastery sobre cómo ampliar un conjunto de entrenamiento mediante transformaciones de imágenes.",
+      "reviewed": true,
       "provider": "Google automatic translation",
       "translationVersion": 3,
       "qualityCheck": {
@@ -249,6 +414,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -261,50 +431,90 @@
       "source": "Neumonía",
       "en": "Pneumonia",
       "es": "Neumonía",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con Machine Learning”",
-      "en": "“X-Ray Diagnoses with Pneumonia in Children between 0 and 5 years old with Machine Learning”",
-      "es": "“Diagnósticos de X-Rays con Neumonía en Niños entre 0 a 5 años con Machine Learning”",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "“Analysing X-rays for pneumonia in children aged 0–5 using machine learning”",
+      "es": "“Análisis de radiografías para detectar neumonía en niños de 0 a 5 años con machine learning”",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "INTEGRANTES:",
       "en": "MEMBERS:",
       "es": "INTEGRANTES:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dylan Chambi Frontanilla",
       "en": "Dylan Chambi Frontanilla",
       "es": "Dylan Chambi Frontanilla",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Joseph Anthony Meneses Salguero",
       "en": "Joseph Anthony Meneses Salguero",
       "es": "Joseph Anthony Meneses Salguero",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Samuel Matias Escobar Bejarano",
       "en": "Samuel Matias Escobar Bejarano",
       "es": "Samuel Matias Escobar Bejarano",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "CURSO:",
       "en": "COURSE:",
       "es": "CURSO:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "LA PAZ 10/09 — BOLIVIA-2021",
       "en": "LA PAZ 10/09 — BOLIVIA-2021",
       "es": "LA PAZ 10/09 — BOLIVIA-2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") mediante cursos y programas intensivos donde se realizan proyectos para el bien (",
@@ -329,20 +539,35 @@
       "source": "community.saturdays.ai",
       "en": "community.saturdays.ai",
       "es": "community.saturdays.ai",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Imágenes",
       "en": "Images",
       "es": "Imágenes",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 11 nov 2021.",
-      "en": "A history of the Saturdays.AI community. Originally published on Nov 11, 2021.",
+      "en": "A story from the Saturdays.AI community. Originally published on Nov 11, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 11 nov 2021.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "Nota editorial: este artículo documenta un proyecto educativo y sus resultados en los datos utilizados. No acredita validación clínica ni autorización para diagnosticar o tratar a pacientes. Las propuestas de aplicación sanitaria se conservan como objetivos del equipo, no como capacidades demostradas.",

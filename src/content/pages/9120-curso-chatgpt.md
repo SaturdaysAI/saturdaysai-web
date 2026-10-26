@@ -10,15 +10,18 @@ draft: false
 kind: page
 ---
 
-## ChatGPT 💬 y Prompt Engineering  
+## Learn to work with ChatGPT
 
-**Aprende** cómo usar **ChatGPT** y empieza con la ingeniería de _prompts_ o «_**prompt engineering**_«, para hacer «recetas» y ayudarte a ser 10x más eficiente.
+Practise writing clear instructions, providing context and evaluating a language model’s responses. Prompt engineering helps you explore specific uses of AI, with examples you can adapt to your tasks.
 
--   **Cuando**: Siempre.
--   **Donde**:  online (link en botón)
--   **Qué aprenderé**:  a usar **ChatGPT** de forma eficaz y hacer ingeniería de _prompts_, con «recetas de IA» y «trucos».
--   :  
+The generative and multimodal AI course builds on these foundations. Check the content, language and access details on our learning platform.
 
-[Empezar!](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course)
+[View the course in Spanish](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course) | [View the course in English](https://cursos.saturdays.ai/courses/generative-ai-multimodal)
 
-![Aina coding](/media/1af953162f634a55.webp)
+![Illustration from the programming and AI course](/media/1af953162f634a55.webp)
+
+### Learn to check the results, too
+
+A convincing response can contain errors. Verify important information and avoid entering personal or confidential data without permission.
+
+[Explore the introduction to AI Safety / Security](https://saturdays.ai/seguridad-ia/)

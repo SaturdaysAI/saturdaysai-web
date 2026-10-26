@@ -1,9 +1,8 @@
 ---
 title: Detector distancia mínima COVID-19 mediante Inteligencia artificial
-description: Donostia. Primera Edición. 2020 El fatídico 11 de marzo del 2020,
-  la OMS declaró la pandemia mundial por COVID-19. Más de 300 días después,
-  hemos decidido hacer público y accesible para el mundo entero el trabajo que
-  hemos…
+description: "WATCHDOG: un prototipo de 2020 que combina visión artificial,
+  Raspberry Pi y un microcontrolador para explorar la detección de distancias
+  entre personas."
 pubDate: 2022-03-16
 author: Info Saturdays
 category: AI for good
@@ -82,7 +81,7 @@ Este proyecto está acotado para capacidad computacional de gama media y se ha q
 
 _Como curiosidad, usando la versión para embebidos de SSD se llega a unos 18 Frames por Segundo (FPS) comparado con YOLO, que llega a 24 FPS. Sin haber añadido telecomunicaciones nos dimos cuenta cuál era el camino a seguir, pero se encontraron todo tipo de resoluciones de las distintas tecnologías._
 
-> “Cabe destacar que para el equipo, el algoritmo o tecnología más completo y adaptado si se tuviera un poco más de capacidad computacional serían **RNN o FAST-RNN**, ya que de una tirada no solo tendríamos la posición de los objetos, sino cada pixel de la imagen estaría vinculado a una clase y con esto se podría dotar al proyecto de la capacidad de contextualizarse en el entorno. Y esto nos llevaría a más poder de adaptación, teniendo en particular un efecto positivo para el ámbito del Machine Learning, donde se dispondría de más **DATO** al que poder darle valor sacado del entorno.”
+Con más capacidad de cómputo podríamos explorar la segmentación de instancias, por ejemplo con Mask R-CNN. A diferencia de las cajas de detección, estos modelos generan una máscara para cada objeto. La explicación original confundía esta tarea con las redes recurrentes (RNN).
 > 
 > Si se tiene aún más curiosidad al respecto, os dejamos este [link](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3).
 
@@ -278,9 +277,9 @@ Como reflexión obtenido, hemos detectado que si se va a empezar a usar el Cloud
 
 Hemos detectado diferentes tareas como trabajo futuro de cara a este proyecto:
 
-1.  El **mapeo del entorno**, así como la geolocalización _indoor._ Hemos realizado pruebas con el sistema GPS que adquirimos, pero este sistema requiere que esté en un espacio abierto para su funcionamiento. Para facilitar esta geolocalización con sistemas alternativas, consideraríamos el uso de geolocalización _indoor (_mediante _AprilTags, Bluetooth de Baja Energía o BLE, etc.)._
-2.  La mejora del **microcontrolador**, aspecto que podría ayudar a mejorar en más del doble la velocidad de procesamiento de la RPI, lo que nos podría ayudar a compensar el retardo generado en la comunicación Cliente-Servidor.
-3.  La creación de un **_script_ de plotting** para graficar los datos obtenidos mediante la conexión MQTT.
+1. Mapeo y localización en interiores. Las pruebas con el GPS mostraron las limitaciones de usarlo sin una vista despejada del cielo. Como alternativas para interiores, consideraríamos AprilTags o balizas Bluetooth de baja energía (BLE).
+2. Mejorar el microcontrolador y medir su efecto sobre el sistema completo. Descargar tareas de la Raspberry Pi podría reducir parte del tiempo de procesamiento, pero no implica duplicar su velocidad ni eliminar la latencia entre cliente y servidor.
+3. Crear un script para representar gráficamente los datos obtenidos mediante MQTT.
 
 ## Integrantes
 
@@ -298,8 +297,8 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esta 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

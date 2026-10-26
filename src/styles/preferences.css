@@ -99,6 +99,12 @@
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.original-media-notice {
+  margin: 0 0 20px;
+  color: var(--muted);
+  font-size: 0.75rem;
+  line-height: 1.6;
+}
 :root[data-theme='dark'] {
   color-scheme: dark;
   --paper: #10172c;

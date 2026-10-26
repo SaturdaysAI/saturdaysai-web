@@ -174,7 +174,7 @@
       "source": "Certificate of completion",
       "en": "Certificate of completion",
       "es": "Certificado de finalización",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -186,6 +186,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -236,12 +241,17 @@
     },
     {
       "source": "grupo jovenes aprendiendo inteligencia artificial",
-      "en": "young group learning artificial intelligence",
-      "es": "grupo jovenes aprendiendo inteligencia artificial",
-      "reviewed": false,
+      "en": "Young people learning artificial intelligence",
+      "es": "Grupo de jóvenes aprendiendo inteligencia artificial",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "DSC_0107",
@@ -253,9 +263,9 @@
     },
     {
       "source": "saturdaysai2",
-      "en": "saturdaysai2",
-      "es": "sábadosai2",
-      "reviewed": false,
+      "en": "AI Saturdays Guadalajara community activity",
+      "es": "Actividad de la comunidad de AI Saturdays Guadalajara",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -267,6 +277,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -887,7 +902,7 @@
       "reviewed": true,
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
+        "date": "2026-10-26",
         "scope": "Spanish and English wording"
       }
     },
@@ -898,7 +913,7 @@
       "reviewed": true,
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
+        "date": "2026-10-26",
         "scope": "Spanish and English wording"
       }
     },
@@ -944,6 +959,402 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "1. Code 2 Learn",
+      "en": "1. Code 2 Learn",
+      "es": "1. Code 2 Learn",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "2. Build 2 Learn",
+      "en": "2. Build 2 Learn",
+      "es": "2. Build 2 Learn",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "3. Demo Day",
+      "en": "3. Demo Day",
+      "es": "3. Demo Day",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learning paths",
+      "en": "Learning paths",
+      "es": "Itinerarios de aprendizaje",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Machine learning: beginner level",
+      "en": "Machine learning: beginner level",
+      "es": "Machine learning: nivel inicial",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Deep learning: intermediate level",
+      "en": "Deep learning: intermediate level",
+      "es": "Deep learning: nivel intermedio",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "What the experience includes",
+      "en": "What the experience includes",
+      "es": "Qué incluye la experiencia",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Projects with a purpose",
+      "en": "Projects with a purpose",
+      "es": "Proyectos con propósito",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Resources to keep learning",
+      "en": "Resources to keep learning",
+      "es": "Recursos para seguir aprendiendo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "A community that keeps growing",
+      "en": "A community that keeps growing",
+      "es": "Una comunidad que sigue creciendo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Meet our community",
+      "en": "Meet our community",
+      "es": "Conoce a nuestra comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Find your local community",
+      "en": "Find your local community",
+      "es": "Encuentra tu comunidad local",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Can’t find a community near you?",
+      "en": "Can’t find a community near you?",
+      "es": "¿No encuentras una comunidad cerca?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and build a team project with social impact in mind. Demo Day is a chance to share what you have created and learned.",
+      "en": "AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and build a team project with social impact in mind. Demo Day is a chance to share what you have created and learned.",
+      "es": "AI Saturdays es nuestro programa de aprendizaje en comunidad. Practicas IA con otras personas, recibes apoyo de mentores y construyes un proyecto en equipo con vocación de impacto social. El Demo Day es la oportunidad de compartir lo creado y lo aprendido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We have supported more than 30,000 AI fellows. Editions typically run over 12 to 15 Saturdays; each community confirms its dates, format and prerequisites.",
+      "en": "We have supported more than 30,000 AI fellows. Editions typically run over 12 to 15 Saturdays; each community confirms its dates, format and prerequisites.",
+      "es": "Hemos acompañado a más de 30.000 AI fellows. Las ediciones suelen durar entre 12 y 15 sábados; cada comunidad confirma sus fechas, formato y requisitos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore online courses",
+      "en": "Explore online courses",
+      "es": "Explora los cursos online",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The outline below preserves the structure of previous editions: 12 to 15 sessions of around five hours, held on Saturdays. Ask your local team which elements are included in its next edition.",
+      "en": "The outline below preserves the structure of previous editions: 12 to 15 sessions of around five hours, held on Saturdays. Ask your local team which elements are included in its next edition.",
+      "es": "El siguiente recorrido conserva la estructura de ediciones anteriores: entre 12 y 15 sesiones de unas cinco horas, organizadas los sábados. Consulta con tu equipo local qué elementos se mantienen en su próxima edición.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The first half of the programme focuses on the foundations of machine learning or deep learning. We learn through coding exercises in GPU-enabled environments, supported by facilitators and mentors.",
+      "en": "The first half of the programme focuses on the foundations of machine learning or deep learning. We learn through coding exercises in GPU-enabled environments, supported by facilitators and mentors.",
+      "es": "La primera mitad del programa se centra en los fundamentos de machine learning o deep learning. Aprendemos mediante ejercicios de programación en entornos con GPU, con el acompañamiento de facilitadores y mentores.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The approach starts with practice to help explain the theory. You need some Python knowledge and familiarity with basic data science libraries. The challenges encourage you to experiment, reason through problems and share what you learn.",
+      "en": "The approach starts with practice to help explain the theory. You need some Python knowledge and familiarity with basic data science libraries. The challenges encourage you to experiment, reason through problems and share what you learn.",
+      "es": "El enfoque parte de la práctica para comprender la teoría. Se necesitan nociones de Python y un manejo básico de las bibliotecas de ciencia de datos. Los retos invitan a experimentar, razonar y compartir lo aprendido.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "In the second half, we develop a complete prototype using what we have learned. Each team chooses data and models to address a real problem with potential for social impact. We bring different backgrounds together so we can learn from one another.",
+      "en": "In the second half, we develop a complete prototype using what we have learned. Each team chooses data and models to address a real problem with potential for social impact. We bring different backgrounds together so we can learn from one another.",
+      "es": "En la segunda mitad desarrollamos un prototipo completo con lo aprendido. Cada equipo elige datos y modelos para abordar un problema real con potencial de impacto social. Reunimos perfiles distintos para aprender también de nuestras diferencias.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Discover community projects",
+      "en": "Discover community projects",
+      "es": "Descubre los proyectos de la comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Each team finishes by presenting its work to the community. The process includes publishing an article about the project and sharing its open-source code on GitHub, while respecting data usage conditions and third-party rights.",
+      "en": "Each team finishes by presenting its work to the community. The process includes publishing an article about the project and sharing its open-source code on GitHub, while respecting data usage conditions and third-party rights.",
+      "es": "Al terminar, cada equipo presenta su trabajo a la comunidad. El proceso incluye publicar un artículo sobre el proyecto y compartir su código abierto en GitHub, respetando las condiciones de uso de los datos y los derechos de terceros.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Your choice of machine learning or deep learning depends on your knowledge and interests. You work with other learners and mentors through coding exercises.",
+      "en": "Your choice of machine learning or deep learning depends on your knowledge and interests. You work with other learners and mentors through coding exercises.",
+      "es": "La elección entre machine learning y deep learning depende de tus conocimientos e intereses. Trabajas con otras personas y con mentores mediante ejercicios de programación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The foundations phase lasts at least six weeks and may be extended depending on the edition. Its goal is to help you apply machine learning techniques in practical exercises; it does not aim to cover the entire discipline.",
+      "en": "The foundations phase lasts at least six weeks and may be extended depending on the edition. Its goal is to help you apply machine learning techniques in practical exercises; it does not aim to cover the entire discipline.",
+      "es": "La fase de fundamentos dura al menos seis semanas y puede ampliarse según la edición. Su objetivo es que aprendas a aplicar técnicas de machine learning en ejercicios prácticos; no pretende cubrir toda la disciplina.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "This path also devotes at least six weeks to the foundations. It requires previous experience with key machine learning concepts, preferably through a project. The local team can extend the curriculum and confirm the prerequisites.",
+      "en": "This path also devotes at least six weeks to the foundations. It requires previous experience with key machine learning concepts, preferably through a project. The local team can extend the curriculum and confirm the prerequisites.",
+      "es": "Este itinerario también dedica al menos seis semanas a los fundamentos. Requiere experiencia previa con conceptos clave de machine learning, preferiblemente a través de un proyecto. El equipo local puede ampliar los contenidos y confirmar los requisitos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "You develop practical skills by building a group project and exploring how AI could help address a social problem.",
+      "en": "You develop practical skills by building a group project and exploring how AI could help address a social problem.",
+      "es": "Desarrollas habilidades prácticas al crear un proyecto en grupo y explorar cómo la IA puede contribuir a resolver un problema social.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Mentors bring different experiences, answer questions and help you move forward. Learning in a community means being able to ask for help and share what you discover.",
+      "en": "Mentors bring different experiences, answer questions and help you move forward. Learning in a community means being able to ask for help and share what you discover.",
+      "es": "Los mentores aportan experiencias diversas, responden preguntas y te ayudan a avanzar. Aprender en comunidad significa poder pedir ayuda y compartir lo que descubres.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The archived editions included recorded classes, forums, exercises and activities on Eduflow, with assessments and peer feedback. Check which resources and platform are used by the edition you are interested in.",
+      "en": "The archived editions included recorded classes, forums, exercises and activities on Eduflow, with assessments and peer feedback. Check which resources and platform are used by the edition you are interested in.",
+      "es": "Las ediciones archivadas incluían clases grabadas, foros, ejercicios y actividades en Eduflow, con evaluaciones y comentarios entre participantes. Consulta los recursos y la plataforma de la edición que te interese.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The programme offers a Saturdays.AI certificate after you complete the exercises, develop a team project and present it at Demo Day. You can include it on your CV or LinkedIn profile; confirm your edition’s criteria with the team.",
+      "en": "The programme offers a Saturdays.AI certificate after you complete the exercises, develop a team project and present it at Demo Day. You can include it on your CV or LinkedIn profile; confirm your edition’s criteria with the team.",
+      "es": "El programa contempla un certificado de Saturdays.AI tras completar los ejercicios, desarrollar el proyecto en equipo y presentarlo en el Demo Day. Puedes incluirlo en tu CV o en LinkedIn; confirma los criterios de tu edición con el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The original archive recorded more than 4,000 fellows, over 300 projects and more than 100 machine learning exercises. Those figures describe that earlier stage; today, we have supported more than 30,000 AI fellows.",
+      "en": "The original archive recorded more than 4,000 fellows, over 300 projects and more than 100 machine learning exercises. Those figures describe that earlier stage; today, we have supported more than 30,000 AI fellows.",
+      "es": "El archivo original recogía más de 4.000 fellows, más de 300 proyectos y más de 100 ejercicios de machine learning. Son cifras históricas de aquella etapa; hoy hemos acompañado a más de 30.000 AI fellows.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Projects included prototypes and proofs of concept for non-profit organisations, as well as initiatives exploring a future as businesses. Learning, experimenting and sharing remain at the heart of the experience.",
+      "en": "Projects included prototypes and proofs of concept for non-profit organisations, as well as initiatives exploring a future as businesses. Learning, experimenting and sharing remain at the heart of the experience.",
+      "es": "Entre los proyectos había prototipos y pruebas de concepto para organizaciones sin ánimo de lucro, además de iniciativas que exploraban convertirse en empresas. Aprender, experimentar y compartir sigue siendo el centro de la experiencia.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Participants come from diverse backgrounds, including software development, research, entrepreneurship, product management and studies across different disciplines.",
+      "en": "Participants come from diverse backgrounds, including software development, research, entrepreneurship, product management and studies across different disciplines.",
+      "es": "Participan personas de trayectorias diversas: desarrollo de software, investigación, emprendimiento, gestión de producto y estudios de distintas disciplinas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Read their stories",
+      "en": "Read their stories",
+      "es": "Lee sus historias",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "See all communities",
+      "en": "See all communities",
+      "es": "Ver todas las comunidades",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "You can help start a local Saturdays.AI community.",
+      "en": "You can help start a local Saturdays.AI community.",
+      "es": "Puedes ayudar a impulsar una comunidad local de Saturdays.AI.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Create your community",
+      "en": "Create your community",
+      "es": "Crea tu comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

@@ -25,7 +25,12 @@
       "source": "2 min read",
       "en": "2 min read",
       "es": "2 minutos de lectura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mar 17, 2022",
@@ -46,6 +51,17 @@
       "es": "2022 / 03",
       "reviewed": false,
       "provider": "Argos automatic translation"
+    },
+    {
+      "source": "19 min read",
+      "en": "19 min read",
+      "es": "19 min de lectura",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     }
   ]
 }

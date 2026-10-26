@@ -54,7 +54,7 @@
       "source": "28 nov 2024",
       "en": "Nov 28, 2024",
       "es": "28 nov 2024",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -66,13 +66,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "¿Por Qué Son Importantes las Proteínas?",
       "en": "Why Are Proteins Important?",
       "es": "¿Por Qué Son Importantes las Proteínas?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -85,13 +90,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Superpoderes de AlphaFold",
       "en": "AlphaFold Superpowers",
       "es": "Superpoderes de AlphaFold",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -103,22 +113,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Una Revolución Médica en Camino",
       "en": "A Medical Revolution on the Way",
       "es": "Una Revolución Médica en Camino",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El Panorama Más Amplio",
       "en": "The Bigger Picture",
       "es": "El Panorama Más Amplio",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -130,16 +150,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "¿Quieres saber más sobre esta herramienta revolucionaria? Descubre todos los detalles aquí",
       "en": "Do you want to know more about this revolutionary tool? Discover all the details here",
       "es": "¿Quieres saber más sobre esta herramienta revolucionaria? Descubre todos los detalles aquí",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cuando pensamos en inteligencia artificial (IA), solemos imaginar robots, coches autónomos o asistentes virtuales como ChatGPT. Pero, ¿qué pasa si te digo que la IA acaba de dejar su huella en la química, llevándose el Premio Nobel de 2024? Te presento a",
@@ -177,131 +207,33 @@
       "source": ", la herramienta revolucionaria de",
       "en": ", the revolutionary tool of",
       "es": ", la herramienta revolucionaria de",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Google DeepMind",
       "en": "Google DeepMind",
       "es": "Google DeepMind",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que está transformando nuestra comprensión de las proteínas, esas moléculas que lo hacen",
-      "en": "that is transforming our understanding of proteins, those molecules that make it",
-      "es": "que está transformando nuestra comprensión de las proteínas, esas moléculas que lo hacen",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "todo",
-      "en": "everything",
-      "es": "todo",
-      "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
-    },
-    {
-      "source": ". Aquí te cuento por qué es un avance histórico para la ciencia y cómo podría cambiar la medicina tal como la conocemos.",
-      "en": ". Here I tell you why it is a historic advance for science and how it could change medicine as we know it.",
-      "es": ". Aquí te cuento por qué es un avance histórico para la ciencia y cómo podría cambiar la medicina tal como la conocemos.",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "Las proteínas son como las navajas suizas de la biología. Construyen tejidos, transmiten señales, aceleran reacciones químicas y hasta nos defienden de enfermedades. Pero su capacidad para cumplir estas funciones depende de su compleja estructura tridimensional. Durante décadas, predecir estas estructuras a partir de las secuencias de aminoácidos era un desafío monumental.",
-      "en": "Proteins are like the Swiss Army knives of biology. They build tissues, transmit signals, accelerate chemical reactions and even defend us from diseases. But its ability to fulfill these functions depends on its complex three-dimensional structure. For decades, predicting these structures from amino acid sequences was a monumental challenge.",
-      "es": "Las proteínas son como las navajas suizas de la biología. Construyen tejidos, transmiten señales, aceleran reacciones químicas y hasta nos defienden de enfermedades. Pero su capacidad para cumplir estas funciones depende de su compleja estructura tridimensional. Durante décadas, predecir estas estructuras a partir de las secuencias de aminoácidos era un desafío monumental.",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "Eso fue hasta que",
-      "en": "That was until",
-      "es": "Eso fue hasta que",
-      "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
-    },
-    {
-      "source": "AlphaFold2",
-      "en": "AlphaFold2",
-      "es": "AlphaFold2",
-      "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
-    },
-    {
-      "source": "llegó en 2020 y revolucionó todo. Utilizando aprendizaje profundo, esta IA predijo las estructuras de prácticamente",
-      "en": "It arrived in 2020 and revolutionized everything. Using deep learning, this AI predicted the structures of virtually",
-      "es": "llegó en 2020 y revolucionó todo. Utilizando aprendizaje profundo, esta IA predijo las estructuras de prácticamente",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "todas",
-      "en": "all",
-      "es": "todas",
-      "reviewed": false,
-      "translationVersion": 2,
-      "provider": "Argos automatic translation"
-    },
-    {
-      "source": "las proteínas conocidas con una precisión impresionante. Resolver un problema científico de 50 años de antigüedad en tan poco tiempo explica por qué este logro comparte el Nobel con el diseño computacional de proteínas liderado por David Baker",
-      "en": "known proteins. This advance contributed to Hassabis and Jumper’s recognition in the 2024 Nobel Prize in Chemistry, shared with David Baker for his work on computational protein design.",
-      "es": "las proteínas conocidas. Este avance contribuyó al reconocimiento de Hassabis y Jumper en el Nobel de Química de 2024, compartido con David Baker por su trabajo en diseño computacional de proteínas.",
+      "en": "that is changing our understanding of proteins, molecules with",
+      "es": "que está transformando nuestra comprensión de las proteínas, moléculas con funciones",
       "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
@@ -318,15 +250,28 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Nobel attribution checked against NobelPrize.org; bilingual wording"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
-      "source": "Imagina que eres un científico estudiando resistencia a los antibióticos. Antes, podrías pasar meses en un laboratorio tratando de descifrar la estructura de una sola proteína. Con AlphaFold, simplemente introduces la secuencia y, como magia, aparece la estructura 3D en tu pantalla. Hasta ahora, ya ha mapeado más de 200 millones de proteínas, revolucionando áreas como el descubrimiento de medicamentos, la ingeniería enzimática e incluso el reciclaje de plásticos",
-      "en": "Imagine you are a scientist studying antibiotic resistance. Before, you could spend months in a lab trying to decipher the structure of a single protein. With AlphaFold, you simply enter the sequence and, like magic, the 3D structure appears on your screen. So far, it has already mapped more than 200 million proteins, revolutionizing areas such as drug discovery, enzyme engineering and even plastic recycling.",
-      "es": "Imagina que eres un científico estudiando resistencia a los antibióticos. Antes, podrías pasar meses en un laboratorio tratando de descifrar la estructura de una sola proteína. Con AlphaFold, simplemente introduces la secuencia y, como magia, aparece la estructura 3D en tu pantalla. Hasta ahora, ya ha mapeado más de 200 millones de proteínas, revolucionando áreas como el descubrimiento de medicamentos, la ingeniería enzimática e incluso el reciclaje de plásticos",
-      "reviewed": false,
+      "source": "todo",
+      "en": "essential roles in life",
+      "es": "esenciales para la vida",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": ". Aquí te cuento por qué es un avance histórico para la ciencia y cómo podría cambiar la medicina tal como la conocemos.",
+      "en": ". Here I tell you why it is a historic advance for science and how it could change medicine as we know it.",
+      "es": ". Aquí te cuento por qué es un avance histórico para la ciencia y cómo podría cambiar la medicina tal como la conocemos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -339,13 +284,148 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Las proteínas son como las navajas suizas de la biología. Construyen tejidos, transmiten señales, aceleran reacciones químicas y hasta nos defienden de enfermedades. Pero su capacidad para cumplir estas funciones depende de su compleja estructura tridimensional. Durante décadas, predecir estas estructuras a partir de las secuencias de aminoácidos era un desafío monumental.",
+      "en": "Proteins are like the Swiss Army knives of biology. They build tissues, transmit signals, accelerate chemical reactions and even defend us from diseases. But their ability to fulfill these functions depends on their complex three-dimensional structures. For decades, predicting these structures from amino acid sequences was a monumental challenge.",
+      "es": "Las proteínas son como las navajas suizas de la biología. Construyen tejidos, transmiten señales, aceleran reacciones químicas y hasta nos defienden de enfermedades. Pero su capacidad para cumplir estas funciones depende de su compleja estructura tridimensional. Durante décadas, predecir estas estructuras a partir de las secuencias de aminoácidos era un desafío monumental.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Eso fue hasta que",
+      "en": "A turning point came with",
+      "es": "Un punto de inflexión llegó con",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "AlphaFold2",
+      "en": "AlphaFold2",
+      "es": "AlphaFold2",
+      "reviewed": false,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation"
+    },
+    {
+      "source": "llegó en 2020 y revolucionó todo. Utilizando aprendizaje profundo, esta IA predijo las estructuras de prácticamente",
+      "en": "in 2020. Its advances later enabled structural predictions at an unprecedented scale, bringing researchers closer to studying",
+      "es": "en 2020. Sus avances permitieron después generar predicciones de estructuras a una escala sin precedentes, acercándonos al estudio de",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "todas",
+      "en": "nearly all",
+      "es": "casi todas",
+      "reviewed": true,
+      "translationVersion": 2,
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "las proteínas conocidas con una precisión impresionante. Resolver un problema científico de 50 años de antigüedad en tan poco tiempo explica por qué este logro comparte el Nobel con el diseño computacional de proteínas liderado por David Baker",
+      "en": "the proteins in the sequence databases used. These are predictions with varying confidence levels, not experimentally verified structures in every case. The advance contributed to the 2024 Nobel Prize in Chemistry awarded to Hassabis and Jumper, shared with David Baker for computational protein design.",
+      "es": "las proteínas de las bases de secuencias utilizadas. Son predicciones con distintos niveles de confianza, no estructuras verificadas experimentalmente en todos los casos. El avance contribuyó al Nobel de Química de 2024 otorgado a Hassabis y Jumper, compartido con David Baker por el diseño computacional de proteínas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Imagina que eres un científico estudiando resistencia a los antibióticos. Antes, podrías pasar meses en un laboratorio tratando de descifrar la estructura de una sola proteína. Con AlphaFold, simplemente introduces la secuencia y, como magia, aparece la estructura 3D en tu pantalla. Hasta ahora, ya ha mapeado más de 200 millones de proteínas, revolucionando áreas como el descubrimiento de medicamentos, la ingeniería enzimática e incluso el reciclaje de plásticos",
+      "en": "Imagine studying antibiotic resistance. Experimentally determining a structure can take considerable time; an AlphaFold prediction can provide a starting point for forming and testing hypotheses. The database developed with EMBL-EBI contains more than 200 million predictions. This opens research opportunities in drug discovery, enzyme engineering and plastic recycling, without removing the need for experiments.",
+      "es": "Imagina que estudias resistencia a los antibióticos. Determinar experimentalmente una estructura puede exigir mucho tiempo; una predicción de AlphaFold puede ofrecer un punto de partida para formular y contrastar hipótesis. La base de datos desarrollada con EMBL-EBI reúne más de 200 millones de predicciones. Esto amplía las posibilidades de investigación en descubrimiento de fármacos, ingeniería enzimática o reciclaje de plásticos, sin eliminar la necesidad de experimentos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "AlphaFold tiene aplicaciones sorprendentes en medicina:",
       "en": "AlphaFold has surprising applications in medicine:",
       "es": "AlphaFold tiene aplicaciones sorprendentes en medicina:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -358,13 +438,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Descubrimiento Rápido de Medicamentos",
       "en": "Rapid Drug Discovery",
       "es": "Descubrimiento Rápido de Medicamentos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -376,13 +461,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": ": Comprender la estructura de una proteína es como tener la llave de una cerradura molecular. Las farmacéuticas pueden diseñar fármacos más precisos para enfermedades complejas como el cáncer o el Alzheimer.",
       "en": ": Understanding the structure of a protein is like having the key to a molecular lock. Pharmaceutical companies can design more precise drugs for complex diseases such as cancer or Alzheimer's.",
       "es": ": Comprender la estructura de una proteína es como tener la llave de una cerradura molecular. Las farmacéuticas pueden diseñar fármacos más precisos para enfermedades complejas como el cáncer o el Alzheimer.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -395,13 +485,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Medicina Personalizada",
       "en": "Personalized Medicine",
       "es": "Medicina Personalizada",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -413,13 +508,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": ": Las variaciones en las proteínas son clave en muchas enfermedades. Con AlphaFold, los médicos podrán ajustar tratamientos según las características específicas de cada paciente.",
-      "en": ": Variations in proteins are key in many diseases. With AlphaFold, doctors will be able to adjust treatments according to the specific characteristics of each patient.",
-      "es": ": Las variaciones en las proteínas son clave en muchas enfermedades. Con AlphaFold, los médicos podrán ajustar tratamientos según las características específicas de cada paciente.",
-      "reviewed": false,
+      "en": ": Studying protein variants can help researchers understand disease. Turning that knowledge into treatment decisions for an individual requires further validation; AlphaFold does not prescribe treatments.",
+      "es": ": Estudiar variantes de proteínas puede ayudar a comprender enfermedades. Convertir ese conocimiento en decisiones de tratamiento para una persona requiere validación adicional; AlphaFold no prescribe tratamientos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -432,13 +532,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Impacto Global",
       "en": "Global Impact",
       "es": "Impacto Global",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -450,13 +555,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": ": Investigadores de más de 190 países ya usan AlphaFold para abordar enfermedades tropicales desatendidas, problemas que a menudo carecen de financiación suficiente para investigación tradicional.",
-      "en": ": Researchers in more than 190 countries already use AlphaFold to address neglected tropical diseases, problems that often lack sufficient funding for traditional research.",
-      "es": ": Investigadores de más de 190 países ya usan AlphaFold para abordar enfermedades tropicales desatendidas, problemas que a menudo carecen de financiación suficiente para investigación tradicional.",
-      "reviewed": false,
+      "en": ": Access to predictions supports teams around the world, including those researching neglected diseases.",
+      "es": ": La disponibilidad de las predicciones facilita el trabajo de equipos de todo el mundo, incluidos quienes investigan enfermedades desatendidas.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -469,13 +579,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "AlphaFold no solo es un avance científico; es un ejemplo del potencial de la IA para resolver los problemas más difíciles de la humanidad. Aunque su enfoque ahora está en las proteínas, su éxito demuestra que el aprendizaje profundo puede abordar desafíos que antes parecían imposibles. ¿Qué sigue? ¿IA resolviendo el cambio climático o descubriendo vida extraterrestre?",
       "en": "AlphaFold is not only a scientific breakthrough; is an example of the potential of AI to solve humanity's most difficult problems. Although its focus is now on proteins, its success demonstrates that deep learning can address challenges that previously seemed impossible. What's next? AI solving climate change or discovering extraterrestrial life?",
       "es": "AlphaFold no solo es un avance científico; es un ejemplo del potencial de la IA para resolver los problemas más difíciles de la humanidad. Aunque su enfoque ahora está en las proteínas, su éxito demuestra que el aprendizaje profundo puede abordar desafíos que antes parecían imposibles. ¿Qué sigue? ¿IA resolviendo el cambio climático o descubriendo vida extraterrestre?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -488,6 +603,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -516,9 +636,9 @@
     },
     {
       "source": "AlphaFold no solo está moldeando el futuro de la medicina: lo está",
-      "en": "AlphaFold is not only shaping the future of medicine: it is",
-      "es": "AlphaFold no solo está moldeando el futuro de la medicina: lo está",
-      "reviewed": false,
+      "en": "AlphaFold is helping biomedical researchers",
+      "es": "AlphaFold está ayudando a la investigación biomédica a",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -531,13 +651,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "construyendo",
-      "en": "building",
-      "es": "construyendo",
-      "reviewed": false,
+      "en": "ask new questions",
+      "es": "abrir nuevas preguntas",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -549,13 +674,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "¿Quieres saber más sobre esta herramienta revolucionaria?",
       "en": "Do you want to know more about this revolutionary tool?",
       "es": "¿Quieres saber más sobre esta herramienta revolucionaria?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -568,22 +698,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Descubre todos los detalles aquí",
       "en": "Discover all the details here",
       "es": "Descubre todos los detalles aquí",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 nov 2024.",
-      "en": "A history of the Saturdays.AI community. Originally published on Nov 28, 2024.",
+      "en": "A story from the Saturdays.AI community. Originally published on Nov 28, 2024.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 nov 2024.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -596,6 +736,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
       }
     }
   ]

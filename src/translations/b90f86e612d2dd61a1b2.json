@@ -6,9 +6,14 @@
       "source": "Detección de Fraude por Tarjeta de Crédito con Machine Learning",
       "en": "Credit Card Fraud Detection with Machine Learning",
       "es": "Detección de Fraude por Tarjeta de Crédito con Machine Learning",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este artículo mostraremos como llevar a cabo la detección de fraude por tarjeta de crédito con algoritmos de Machine Learning. El fraude cibernético hace referencia a aquellas estafas que utilizan la red, para realizar…",
@@ -22,84 +27,134 @@
       "source": "Martin Mercado",
       "en": "Martin Mercado",
       "es": "Martin Mercado",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Más Inteligencia artificial!",
       "en": "More Artificial Intelligence!",
       "es": "Más Inteligencia artificial!",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este artículo mostraremos como llevar a cabo la detección de fraude por tarjeta de crédito con algoritmos de Machine Learning.",
-      "en": "In this article we will show how to detect credit card fraud with Machine Learning algorithms.",
-      "es": "En este artículo mostraremos como llevar a cabo la detección de fraude por tarjeta de crédito con algoritmos de Machine Learning.",
-      "reviewed": false,
+      "en": "This article explores credit card fraud detection using machine learning algorithms.",
+      "es": "En este artículo mostramos cómo explorar la detección de fraude con tarjetas de crédito mediante algoritmos de aprendizaje automático.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El fraude cibernético hace referencia a aquellas estafas que utilizan la red, para realizar transacciones ilícitas (Condusef, s.f). Dentro de este tipo de fraudes, el fraude con tarjetas de crédito está a la orden del día por la popularidad de las compras en línea. Bastan algunos datos de los usuarios para que un pirata informático pueda cometer el ilícito. El fraude con tarjeta de crédito, implica el uso no autorizado de la información de la tarjeta de crédito de una persona con el propósito de cargar compras en la cuenta de la víctima o extraer fondos de su cuenta (Cornell Law School, s.f). En otras palabras, es un tipo de robo de identidad.",
-      "en": "Cyber fraud refers to those scams that use the network to carry out illicit transactions (Condusef, s.f). Within this type of fraud, credit card fraud is the order of the day due to the popularity of online purchases. Some user data is enough for a hacker to commit the crime. Credit card fraud involves the unauthorized use of a person's credit card information for the purpose of charging purchases to the victim's account or withdrawing funds from their account (Cornell Law School, n.d.). In other words, it is a type of identity theft.",
+      "en": "Cyber fraud uses online systems to carry out unlawful transactions (Condusef, n.d.). Credit card fraud is a familiar risk in online shopping: stolen card details can be used to make unauthorised purchases or withdraw funds from a victim’s account (Cornell Law School, n.d.). It is one form of identity theft.",
       "es": "El fraude cibernético hace referencia a aquellas estafas que utilizan la red, para realizar transacciones ilícitas (Condusef, s.f). Dentro de este tipo de fraudes, el fraude con tarjetas de crédito está a la orden del día por la popularidad de las compras en línea. Bastan algunos datos de los usuarios para que un pirata informático pueda cometer el ilícito. El fraude con tarjeta de crédito, implica el uso no autorizado de la información de la tarjeta de crédito de una persona con el propósito de cargar compras en la cuenta de la víctima o extraer fondos de su cuenta (Cornell Law School, s.f). En otras palabras, es un tipo de robo de identidad.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En este escenario, la detección de fraude con Machine Learning para transacciones con tarjeta de crédito es de suma importancia. Actualmente se pierden grandes cantidades de dinero por este tipo de fraude, lo que representa un gran problema para las entidades financieras y para sus usuarios.",
       "en": "In this scenario, fraud detection with Machine Learning for credit card transactions is of utmost importance. Currently, large amounts of money are lost due to this type of fraud, which represents a great problem for financial institutions and their users.",
       "es": "En este escenario, la detección de fraude con Machine Learning para transacciones con tarjeta de crédito es de suma importancia. Actualmente se pierden grandes cantidades de dinero por este tipo de fraude, lo que representa un gran problema para las entidades financieras y para sus usuarios.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Frente a este tipo de situaciones, las empresas suelen reemplazar tarjetas, emprender investigaciones sobre los casos y ofrecer soporte telefónico a los clientes, lo que implica un gasto importante. Incluso con estas atenciones, se puede originar una mala reputación e imagen de la empresa, lo que eventualmente se refleja en una pérdida de clientes y de ingresos.",
-      "en": "Faced with this type of situation, companies usually replace cards, undertake investigations into the cases and offer telephone support to customers, which implies a significant expense. Even with these attentions, a poor reputation and image of the company can arise, which is eventually reflected in a loss of clients and income.",
+      "en": "Companies often respond by replacing cards, investigating cases and providing telephone support, all of which cost money. Even with this support, fraud can damage their reputation and lead to lost customers and revenue.",
       "es": "Frente a este tipo de situaciones, las empresas suelen reemplazar tarjetas, emprender investigaciones sobre los casos y ofrecer soporte telefónico a los clientes, lo que implica un gasto importante. Incluso con estas atenciones, se puede originar una mala reputación e imagen de la empresa, lo que eventualmente se refleja en una pérdida de clientes y de ingresos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Cómo evitar o minimizar los costos por transacciones fraudulentas?",
       "en": "How to avoid or minimize the costs of fraudulent transactions?",
       "es": "¿Cómo evitar o minimizar los costos por transacciones fraudulentas?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La inteligencia artificial provee de algoritmos de aprendizaje automático capaces de identificar patrones en las transacciones y detectar si determinada transacción es fraudulenta o no.",
       "en": "Artificial intelligence provides machine learning algorithms capable of identifying patterns in transactions and detecting whether a certain transaction is fraudulent or not.",
       "es": "La inteligencia artificial provee de algoritmos de aprendizaje automático capaces de identificar patrones en las transacciones y detectar si determinada transacción es fraudulenta o no.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Descripción del proyecto",
       "en": "Project Description",
       "es": "Descripción del proyecto",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo general del proyecto es desarrollar un método de detección de fraude utilizando algoritmos de Machine Learning capaz de clasificar efectivamente entre transacciones legítimas y fraudulentas.",
       "en": "The general objective of the project is to develop a fraud detection method using Machine Learning algorithms capable of effectively classifying between legitimate and fraudulent transactions.",
       "es": "El objetivo general del proyecto es desarrollar un método de detección de fraude utilizando algoritmos de Machine Learning capaz de clasificar efectivamente entre transacciones legítimas y fraudulentas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Imagen recuperada de: IEEE Innovation at work",
-      "en": "Imagen recuperada de: IEEE Innovation at work",
-      "es": "Imagen recuperada de: IEEE Innovación en acción",
-      "reviewed": false,
+      "en": "Image from IEEE Innovation at Work",
+      "es": "Imagen obtenida de IEEE Innovation at Work",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -112,417 +167,682 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Obtención de datos",
       "en": "Data collection",
       "es": "Obtención de datos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por razones de confidencialidad, las transacciones con tarjetas de crédito (reales) no se pueden compartir públicamente. Debido a la escasez de datos, se creará un simulador de datos de transacciones legítimas y fraudulentas.",
-      "en": "For confidentiality reasons, (real) credit card transactions cannot be shared publicly. Due to the scarcity of data, a data simulator of legitimate and fraudulent transactions will be created.",
-      "es": "Por razones de confidencialidad, las transacciones con tarjetas de crédito (reales) no se pueden compartir públicamente. Debido a la escasez de datos, se creará un simulador de datos de transacciones legítimas y fraudulentas.",
-      "reviewed": false,
+      "en": "Because we did not have real transactions that could be shared while respecting confidentiality, we used a simulator to generate legitimate and fraudulent transactions.",
+      "es": "Como no disponíamos de transacciones reales que pudiéramos compartir respetando su confidencialidad, utilizamos un simulador de operaciones legítimas y fraudulentas.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Las características esenciales que resumen una transacción son: ID de transacción, fecha y hora de transacción, ID del cliente, ID del terminal, monto de la transacción y una etiqueta que muestra si la transacción es fraudulenta o no.",
       "en": "The essential characteristics that summarize a transaction are: transaction ID, transaction date and time, customer ID, terminal ID, transaction amount, and a label that shows whether the transaction is fraudulent or not.",
       "es": "Las características esenciales que resumen una transacción son: ID de transacción, fecha y hora de transacción, ID del cliente, ID del terminal, monto de la transacción y una etiqueta que muestra si la transacción es fraudulenta o no.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La simulación consta de cinco pasos:",
       "en": "The simulation consists of five steps:",
       "es": "La simulación consta de cinco pasos:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. Generación de perfiles de clientes: cada cliente es diferente en sus hábitos de gasto. Esto se simulará definiendo algunas propiedades para el cliente como su ubicación geográfica, su frecuencia de gasto y sus montos de gasto.",
       "en": "1. Customer Profiling: Every customer is different in their spending habits. This will be simulated by defining some properties for the customer such as their geographic location, their spending frequency, and their spending amounts.",
       "es": "1. Generación de perfiles de clientes: cada cliente es diferente en sus hábitos de gasto. Esto se simulará definiendo algunas propiedades para el cliente como su ubicación geográfica, su frecuencia de gasto y sus montos de gasto.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Generación de perfiles de terminal: aquí, la única propiedad que se tomará en cuenta es la ubicación geográfica.",
       "en": "2. Terminal Profiling: Here, the only property that will be taken into account is the geographical location.",
       "es": "2. Generación de perfiles de terminal: aquí, la única propiedad que se tomará en cuenta es la ubicación geográfica.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. Asociación de perfiles de clientes y terminales: se asume que los clientes solo realizan transacciones en terminales que se encuentran dentro de un radio r, de sus ubicaciones geográficas.",
       "en": "3. Association of customer profiles and terminals: it is assumed that customers only transact on terminals that are within a radius r, of their geographical locations.",
       "es": "3. Asociación de perfiles de clientes y terminales: se asume que los clientes solo realizan transacciones en terminales que se encuentran dentro de un radio r, de sus ubicaciones geográficas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4. Generación de transacciones: el simulador recorrerá el conjunto de perfiles de clientes y generará transacciones según sus propiedades.",
       "en": "4. Transaction generation: the simulator will go through the set of customer profiles and generate transactions based on their properties.",
       "es": "4. Generación de transacciones: el simulador recorrerá el conjunto de perfiles de clientes y generará transacciones según sus propiedades.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "5. Generación de escenarios de fraude: se etiquetan las transacciones como legítimas o fraudulentas, utilizando los siguientes escenarios de fraude.",
       "en": "5. Generation of fraud scenarios: transactions are labeled as legitimate or fraudulent, using the following fraud scenarios.",
       "es": "5. Generación de escenarios de fraude: se etiquetan las transacciones como legítimas o fraudulentas, utilizando los siguientes escenarios de fraude.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "a. Escenario 1: cualquier transacción cuyo monto sea superior a 220 se etiqueta como fraudulenta. (Escenario no inspirado en la realidad, se elige el valor según la distribución que sigue la variable montos).",
       "en": "a. Scenario 1: Any transaction whose amount is greater than 220 is labeled as fraudulent. (Scenario not inspired by reality, the value is chosen according to the distribution that the amounts variable follows).",
       "es": "a. Escenario 1: cualquier transacción cuyo monto sea superior a 220 se etiqueta como fraudulenta. (Escenario no inspirado en la realidad, se elige el valor según la distribución que sigue la variable montos).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "b. Escenario 2: todos los días se extrae al azar dos terminales. Todas las transacciones en estos terminales en los próximos 28 días serán etiquetadas como fraudulentas. (Phishing).",
-      "en": "b. Scenario 2: Every day two terminals are randomly removed. All transactions on these terminals in the next 28 days will be labeled as fraudulent. (Phishing).",
-      "es": "b. Escenario 2: todos los días se extrae al azar dos terminales. Todas las transacciones en estos terminales en los próximos 28 días serán etiquetadas como fraudulentas. (Phishing).",
-      "reviewed": false,
+      "en": "b. Scenario 2: two terminals are randomly selected each day. All their transactions over the next 28 days are labelled fraudulent, simulating compromised terminals.",
+      "es": "b. Escenario 2: cada día se seleccionan al azar dos terminales. Todas sus transacciones durante los 28 días siguientes se etiquetan como fraudulentas, simulando terminales comprometidos.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "c. Escenario 3: todos los días se extrae al azar 3 clientes. En los próximos 14 días, 1/3 de sus transacciones tienen sus montos multiplicados por 5 y son etiquetadas como fraudulentas. (Fraude sin tarjeta presente).",
-      "en": "c. Scenario 3: Every day 3 clients are randomly drawn. In the next 14 days, 1/3 of your transactions have their amounts multiplied by 5 and are labeled as fraudulent. (Card not present fraud).",
-      "es": "c. Escenario 3: todos los días se extrae al azar 3 clientes. En los próximos 14 días, 1/3 de sus transacciones tienen sus montos multiplicados por 5 y son etiquetadas como fraudulentas. (Fraude sin tarjeta presente).",
-      "reviewed": false,
+      "en": "c. Scenario 3: three customers are randomly selected each day. Over the next 14 days, one third of their transactions have their amounts multiplied by five and are labelled fraudulent, simulating card-not-present fraud.",
+      "es": "c. Escenario 3: cada día se seleccionan al azar tres clientes. Durante los 14 días siguientes, un tercio de sus transacciones multiplica su importe por cinco y se etiqueta como fraudulento, simulando fraude sin tarjeta presente.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Así, se tiene el siguiente conjunto de datos:",
       "en": "Thus, we have the following set of data:",
       "es": "Así, se tiene el siguiente conjunto de datos:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este simulador generó 1 078 699 transacciones, de las cuales 8 590 (0.796 %) son fraudulentas. Se generan aproximadamente 12 000 transacciones por día, alrededor de 103 transacciones fraudulentas por día y cerca de 88 tarjetas fraudulentas por día.",
-      "en": "This simulator generated 1,078,699 transactions, of which 8,590 (0.796%) are fraudulent. Approximately 12,000 transactions are generated per day, approximately 103 fraudulent transactions per day and approximately 88 fraudulent cards per day.",
-      "es": "Este simulador generó 1 078 699 transacciones, de las cuales 8 590 (0.796 %) son fraudulentas. Se generan aproximadamente 12 000 transacciones por día, alrededor de 103 transacciones fraudulentas por día y cerca de 88 tarjetas fraudulentas por día.",
-      "reviewed": false,
+      "en": "The simulator generated 1,078,699 transactions, of which 8,590 (about 0.796%) were labelled fraudulent. That corresponds to around 12,000 transactions per day over the simulated period.",
+      "es": "El simulador generó 1.078.699 transacciones, de las cuales 8.590 (aproximadamente el 0,796%) se etiquetaron como fraudulentas. Esto equivale a unas 12.000 transacciones diarias durante el periodo simulado.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El dataset presenta un desequilibrio, menos del 1% de transacciones son fraudulentas.",
       "en": "The dataset presents an imbalance, less than 1% of transactions are fraudulent.",
       "es": "El dataset presenta un desequilibrio, menos del 1% de transacciones son fraudulentas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los montos de transacción tienen una media de 53.69, con una desviación estándar de 42.13 y un monto máximo de 1 248.85.",
       "en": "The transaction amounts have a mean of 53.69, with a standard deviation of 42.13 and a maximum amount of 1 248.85.",
       "es": "Los montos de transacción tienen una media de 53.69, con una desviación estándar de 42.13 y un monto máximo de 1 248.85.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La primera transacción se realizó el 01–05–2021 a las 00:01:02 horas y la última transacción se registró el 29–07–2021 a las 23:59:43 horas.",
-      "en": "The first transaction was made on 05-01-2021 at 00:01:02 hours and the last transaction was recorded on 07-29-2021 at 23:59:43 hours.",
+      "en": "The first transaction was recorded on 1 May 2021 at 00:01:02 and the last on 29 July 2021 at 23:59:43.",
       "es": "La primera transacción se realizó el 01–05–2021 a las 00:01:02 horas y la última transacción se registró el 29–07–2021 a las 23:59:43 horas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Preparación de datos",
       "en": "Data preparation",
       "es": "Preparación de datos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la detección de fraude los algoritmos de Machine Learning generalmente requieren características numéricas y ordenadas, es decir, el tipo de variable debe ser un número entero o real donde el orden de los valores es significativo.",
-      "en": "For fraud detection, Machine Learning algorithms generally require numerical and ordered characteristics, that is, the type of variable must be an integer or real number where the order of the values is significant.",
-      "es": "Para la detección de fraude los algoritmos de Machine Learning generalmente requieren características numéricas y ordenadas, es decir, el tipo de variable debe ser un número entero o real donde el orden de los valores es significativo.",
-      "reviewed": false,
+      "en": "The algorithms used require a numerical representation of the features. That does not mean every field has a meaningful order: identifiers, for example, are labels.",
+      "es": "Los algoritmos utilizados necesitan una representación numérica de las variables. Esto no significa que todos los campos tengan un orden significativo: los identificadores, por ejemplo, son etiquetas.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En este dataset, las únicas características numéricas y ordenadas son el monto de transacción y la etiqueta de fraude. La fecha y hora es una marca de tiempo, por lo tanto, no es numérica. Los ID para las transacciones, los clientes y los terminales son numéricos, pero no ordenados. Entonces, se deben diseñar nuevas características a partir de las características mencionadas anteriormente.",
-      "en": "In this dataset, the only numerical and ordered features are the transaction amount and the fraud label. The datetime is a timestamp, therefore it is not numeric. IDs for transactions, clients, and terminals are numerical, but not ordered. So, new features should be designed based on the features mentioned above.",
-      "es": "En este dataset, las únicas características numéricas y ordenadas son el monto de transacción y la etiqueta de fraude. La fecha y hora es una marca de tiempo, por lo tanto, no es numérica. Los ID para las transacciones, los clientes y los terminales son numéricos, pero no ordenados. Entonces, se deben diseñar nuevas características a partir de las características mencionadas anteriormente.",
-      "reviewed": false,
+      "en": "The transaction amount is numerical, while the fraud label is the target we want to predict. Timestamps and customer and terminal identifiers can be used to derive features; the target label is not a model input.",
+      "es": "El importe es una variable numérica, mientras que la etiqueta de fraude es el objetivo que queremos predecir. La fecha y hora y los identificadores de clientes y terminales permiten construir nuevas variables explicativas; no incluimos la etiqueta objetivo como entrada del modelo.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La primera transformación consiste en generar dos nuevas características binarias, a partir de la fecha y hora, que caractericen períodos potencialmente relevantes.",
       "en": "The first transformation consists of generating two new binary features, from the date and time, that characterize potentially relevant periods.",
       "es": "La primera transformación consiste en generar dos nuevas características binarias, a partir de la fecha y hora, que caractericen períodos potencialmente relevantes.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. Si una transacción ocurre durante un día laborable (0) o fin de semana (1).",
       "en": "1. If a transaction occurs during a business day (0) or weekend (1).",
       "es": "1. Si una transacción ocurre durante un día laborable (0) o fin de semana (1).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Si una transacción ocurre durante el día o la noche. (La noche comprendida entre las 0 p.m. y las 6 a.m.)",
-      "en": "2. Whether a transaction occurs during the day or night. (The night between 0 p.m. and 6 a.m.)",
-      "es": "2. Si una transacción ocurre durante el día o la noche. (La noche comprendida entre las 0 p.m. y las 6 a.m.)",
-      "reviewed": false,
+      "en": "2. Whether the transaction occurs during the day or at night; we define night as 00:00–06:00.",
+      "es": "2. Si la transacción ocurre de día o de noche; definimos la noche como el intervalo de 00:00 a 06:00.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La segunda transformación tiene que ver con el ID del cliente, se calcula dos características en 3 frecuencias. La primera característica es el número de transacciones que ocurren dentro de una frecuencia. La segunda característica es el monto promedio gastado en estas transacciones, en cada frecuencia. La frecuencia se establece en 1, 7 y 30 días. Esto genera 6 nuevas características.",
-      "en": "The second transformation has to do with the customer ID, two characteristics are calculated at 3 frequencies. The first characteristic is the number of transactions that occur within a frequency. The second characteristic is the average amount spent on these transactions, at each frequency. The frequency is set to 1, 7 and 30 days. This generates 6 new features.",
-      "es": "La segunda transformación tiene que ver con el ID del cliente, se calcula dos características en 3 frecuencias. La primera característica es el número de transacciones que ocurren dentro de una frecuencia. La segunda característica es el monto promedio gastado en estas transacciones, en cada frecuencia. La frecuencia se establece en 1, 7 y 30 días. Esto genera 6 nuevas características.",
-      "reviewed": false,
+      "en": "For each customer, we calculate transaction counts and average amounts over windows of 1, 7 and 30 days, producing six additional features.",
+      "es": "Para cada cliente calculamos el número de transacciones y su importe medio en ventanas de 1, 7 y 30 días. Así obtenemos seis variables adicionales.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Finalmente, la última transformación se realiza con el ID de terminal. El objetivo es extraer el número de transacciones en el terminal en cada frecuencia y una puntuación de riesgo, que evalúe la exposición de un terminal a transacciones fraudulentas. (El puntaje de riesgo se define como el número promedio de transacciones fraudulentas en un terminal durante un período de tiempo).",
-      "en": "Finally, the last transformation is done with the terminal ID. The objective is to extract the number of transactions on the terminal at each frequency and a risk score, which evaluates the exposure of a terminal to fraudulent transactions. (The risk score is defined as the average number of fraudulent transactions on a terminal over a period of time.)",
+      "en": "For each terminal, we also calculate transaction counts over each time window and a risk score based on previous fraudulent transactions. When evaluating this approach, only information available at the time of a transaction should be used, to avoid leakage from future data.",
       "es": "Finalmente, la última transformación se realiza con el ID de terminal. El objetivo es extraer el número de transacciones en el terminal en cada frecuencia y una puntuación de riesgo, que evalúe la exposición de un terminal a transacciones fraudulentas. (El puntaje de riesgo se define como el número promedio de transacciones fraudulentas en un terminal durante un período de tiempo).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Entrenamiento del modelo",
       "en": "Model training",
       "es": "Entrenamiento del modelo",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez que se tiene el dataset listo, se particiona el dataset en datos de entrenamiento (60 %) para el desarrollo y datos de prueba (40 %) para validación del modelo.",
       "en": "Once the dataset is ready, the dataset is partitioned into training data (60%) for development and test data (40%) for model validation.",
       "es": "Una vez que se tiene el dataset listo, se particiona el dataset en datos de entrenamiento (60 %) para el desarrollo y datos de prueba (40 %) para validación del modelo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ya que se está trabajando con un problema de clasificación binaria, se utilizan los siguientes algoritmos: Naive Bayes, Regresión Logísitca, KNN, Decision Tree, Random Forest, XGBoost y AdaBoost.",
-      "en": "Since we are working with a binary classification problem, the following algorithms are used: Naive Bayes, Logistic Regression, KNN, Decision Tree, Random Forest, XGBoost and AdaBoost.",
-      "es": "Ya que se está trabajando con un problema de clasificación binaria, se utilizan los siguientes algoritmos: Naive Bayes, Regresión Logísitca, KNN, Decision Tree, Random Forest, XGBoost y AdaBoost.",
-      "reviewed": false,
+      "en": "For this binary classification task, we tested Naive Bayes, logistic regression, KNN, decision trees, Random Forest, XGBoost and AdaBoost.",
+      "es": "Al tratarse de clasificación binaria, probamos Naive Bayes, regresión logística, KNN, árboles de decisión, Random Forest, XGBoost y AdaBoost.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Evaluación y validación del modelo",
       "en": "Model evaluation and validation",
       "es": "Evaluación y validación del modelo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Después de entrenar los algoritmos, se evalúan los resultados con distintas métricas y se obtiene la siguiente información:",
       "en": "After training the algorithms, the results are evaluated with different metrics and the following information is obtained:",
       "es": "Después de entrenar los algoritmos, se evalúan los resultados con distintas métricas y se obtiene la siguiente información:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La métrica que mejor evalúa el rendimiento de los algoritmos, sin causar overfitting, es la ROC AUC Score. Esta métrica indica que el mejor modelo para la predicción de fraudes con tarjeta de crédito es el Decision Tree con una precisión del 83%.",
-      "en": "The metric that best evaluates the performance of the algorithms, without causing overfitting, is the ROC AUC Score. This metric indicates that the best model for predicting credit card fraud is the Decision Tree with an accuracy of 83%.",
-      "es": "La métrica que mejor evalúa el rendimiento de los algoritmos, sin causar overfitting, es la ROC AUC Score. Esta métrica indica que el mejor modelo para la predicción de fraudes con tarjeta de crédito es el Decision Tree con una precisión del 83%.",
-      "reviewed": false,
+      "en": "We used ROC AUC to compare how well the models discriminated between classes. The decision tree scored about 0.83. This is not the same as 83% accuracy, and the metric does not itself prevent overfitting.",
+      "es": "En nuestras pruebas utilizamos ROC AUC para comparar la capacidad de discriminación de los modelos. El árbol de decisión obtuvo aproximadamente 0,83. Esta métrica no equivale a un 83% de exactitud ni evita por sí sola el sobreajuste.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Otra forma de verificar esto es utilizar la curva AUC-ROC, que indica cuánto es capaz el modelo de distinguir entre clases. ROC es una curva de probabilidad y AUC representa el grado o medida de separabilidad. El siguiente gráfico indica las curvas AUC-ROC para todos los algoritmos:",
-      "en": "Another way to check this is to use the AUC-ROC curve, which indicates how much the model is able to distinguish between classes. ROC is a probability curve and AUC represents the degree or measure of separability. The following graph indicates the AUC-ROC curves for all algorithms:",
-      "es": "Otra forma de verificar esto es utilizar la curva AUC-ROC, que indica cuánto es capaz el modelo de distinguir entre clases. ROC es una curva de probabilidad y AUC representa el grado o medida de separabilidad. El siguiente gráfico indica las curvas AUC-ROC para todos los algoritmos:",
-      "reviewed": false,
+      "en": "An ROC curve plots the true positive rate against the false positive rate at different thresholds. The area under it, AUC, summarises discrimination. The following chart compares the algorithms:",
+      "es": "La curva ROC representa la tasa de verdaderos positivos frente a la de falsos positivos a distintos umbrales. El área bajo esa curva, AUC, resume la capacidad de discriminación. El gráfico siguiente compara los algoritmos:",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El área bajo la curva ROC es el mejor indicador global de la precisión de una prueba, para el Decision Tree el AUC score es de 0.836.",
-      "en": "The area under the ROC curve is the best overall indicator of the precision of a test, for the Decision Tree the AUC score is 0.836.",
-      "es": "El área bajo la curva ROC es el mejor indicador global de la precisión de una prueba, para el Decision Tree el AUC score es de 0.836.",
-      "reviewed": false,
+      "en": "The decision tree achieved an ROC AUC of 0.836. Given the strong class imbalance, this should be considered alongside precision, recall and the cost of errors.",
+      "es": "El árbol de decisión obtuvo un ROC AUC de 0,836. Dado el fuerte desequilibrio de clases, conviene complementar esta cifra con precisión, sensibilidad y el coste de los errores.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los resultados del modelo se pueden expresar mediante una matriz de confusión:",
       "en": "The results of the model can be expressed using a confusion matrix:",
       "es": "Los resultados del modelo se pueden expresar mediante una matriz de confusión:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se puede observar que el modelo ha identificado:",
       "en": "It can be seen that the model has identified:",
       "es": "Se puede observar que el modelo ha identificado:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "426 669 casos de verdaderos negativos, para transacciones NO fraudulentas y que el modelo predijo como NO fraudulentas.",
       "en": "426,669 cases of true negatives, for transactions NOT fraudulent and that the model predicted as NOT fraudulent.",
       "es": "426 669 casos de verdaderos negativos, para transacciones NO fraudulentas y que el modelo predijo como NO fraudulentas.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2 394 casos de verdaderos positivos, para transacciones fraudulentas y que el modelo predijo como fraudulentas.",
       "en": "2,394 cases of true positives, for fraudulent transactions and that the model predicted as fraudulent.",
       "es": "2 394 casos de verdaderos positivos, para transacciones fraudulentas y que el modelo predijo como fraudulentas.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1 099 casos de falsos negativos, para transacciones fraudulentas y que el modelo predijo como NO fraudulentas.",
       "en": "1,099 cases of false negatives, for fraudulent transactions and that the model predicted as NOT fraudulent.",
       "es": "1 099 casos de falsos negativos, para transacciones fraudulentas y que el modelo predijo como NO fraudulentas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1 318 casos de falsos positivos, para transacciones NO fraudulentas y que el modelo predijo como fraudulentas.",
       "en": "1,318 cases of false positives, for transactions that were NOT fraudulent and that the model predicted as fraudulent.",
       "es": "1 318 casos de falsos positivos, para transacciones NO fraudulentas y que el modelo predijo como fraudulentas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una curva de aprendizaje muestra la relación entre el puntaje de entrenamiento y el puntaje de prueba con validación cruzada para un estimador con un número variable de muestras de entrenamiento.",
       "en": "A learning curve shows the relationship between the training score and the cross-validated test score for an estimator with a varying number of training samples.",
       "es": "Una curva de aprendizaje muestra la relación entre el puntaje de entrenamiento y el puntaje de prueba con validación cruzada para un estimador con un número variable de muestras de entrenamiento.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta curva muestra una alta variabilidad de la prueba (1.00) y una puntuación AUC ROC que converge en alrededor de 0.83.",
-      "en": "This curve shows high test variability (1.00) and an AUC ROC score converging to around 0.83.",
-      "es": "Esta curva muestra una alta variabilidad de la prueba (1.00) y una puntuación AUC ROC que converge en alrededor de 0.83.",
-      "reviewed": false,
+      "en": "The curve shows a training score near 1.00 and an evaluation ROC AUC around 0.83. The gap calls for closer examination of overfitting.",
+      "es": "La curva presenta una puntuación de entrenamiento cercana a 1,00 y un ROC AUC de evaluación próximo a 0,83. La diferencia entre ambos invita a examinar el sobreajuste.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El mejor modelo de Machine Learning para la detección de fraude es el Decision Tree Classifier con una precisión del 83%.",
-      "en": "The best Machine Learning model for fraud detection is the Decision Tree Classifier with an accuracy of 83%.",
-      "es": "El mejor modelo de Machine Learning para la detección de fraude es el Decision Tree Classifier con una precisión del 83%.",
-      "reviewed": false,
+      "en": "Among the models tested in this project, the decision tree achieved the best ROC AUC, around 0.83.",
+      "es": "Entre los modelos y pruebas de este proyecto, el árbol de decisión obtuvo el mejor ROC AUC, cercano a 0,83.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por la cantidad de datos de las transacciones, en la fase de entrenamiento es fundamental contar con poder computacional para experimentar con diferentes algoritmos y evaluar sus resultados en un tiempo razonable.",
       "en": "Due to the amount of transaction data, in the training phase it is essential to have computational power to experiment with different algorithms and evaluate their results in a reasonable time.",
       "es": "Por la cantidad de datos de las transacciones, en la fase de entrenamiento es fundamental contar con poder computacional para experimentar con diferentes algoritmos y evaluar sus resultados en un tiempo razonable.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El método de detección de fraude por tarjeta de crédito desarrollado puede aplicarse de manera efectiva en instituciones financieras, sin embargo, es importante considerar otros escenarios de fraude para optimizar el modelo y no comprometer el poder de predicción.",
-      "en": "The developed credit card fraud detection method can be effectively applied in financial institutions, however, it is important to consider other fraud scenarios to optimize the model and not compromise the predictive power.",
-      "es": "El método de detección de fraude por tarjeta de crédito desarrollado puede aplicarse de manera efectiva en instituciones financieras, sin embargo, es importante considerar otros escenarios de fraude para optimizar el modelo y no comprometer el poder de predicción.",
-      "reviewed": false,
+      "en": "The method is a prototype evaluated on simulated data. Use in a financial institution would require validation on representative real data, additional fraud scenarios, and assessment of false positives, false negatives and changing transaction patterns.",
+      "es": "El método es un prototipo evaluado con datos simulados. Aplicarlo en una entidad financiera requeriría validación con datos reales representativos, más escenarios de fraude y evaluación de falsos positivos, falsos negativos y cambios en los patrones de uso.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Barrios, J. (2019).",
       "en": "Barrios, J. (2019).",
       "es": "Barrios, J. (2019).",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La matriz de confusión y sus métricas.",
       "en": "The confusion matrix and its metrics.",
       "es": "La matriz de confusión y sus métricas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Recuperado de:",
-      "en": "Recovered from:",
+      "en": "Available at:",
       "es": "Recuperado de:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Condusef (s.f).",
       "en": "Condusef (s.f).",
       "es": "Condusef (s.f).",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tipos de fraude.",
       "en": "Types of fraud.",
       "es": "Tipos de fraude.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cornell Law School (s.f).",
       "en": "Cornell Law School (n.d.).",
       "es": "Cornell Law School (s.f).",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fraude con Tarjeta de Crédito",
       "en": "Credit Card Fraud",
       "es": "Fraude con Tarjeta de Crédito",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Recuperado de:",
-      "en": ". Recovered from:",
+      "en": ". Available at:",
       "es": ". Recuperado de:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Gebejes, A. & Khokhlova, A. (2021). Learning Curve Theory.",
       "en": "Gebejes, A. & Khokhlova, A. (2021). Learning Curve Theory.",
       "es": "Gebejes, A. y Khokhlova, A. (2021). Teoría de la curva de aprendizaje.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -535,36 +855,56 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Data of Learning.",
       "en": "Data of Learning.",
       "es": "Data of Learning.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "VALAMIS. Recuperado de:",
-      "en": "VALAMIS. Recovered from:",
+      "en": "VALAMIS. Available at:",
       "es": "VALAMIS. Recuperado de:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Le Borgne, Y. & Bontempi, G. (2021).",
       "en": "Le Borgne, Y. & Bontempi, G. (2021).",
       "es": "Le Borgne, Y. & Bontempi, G. (2021).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Machine Learning for Credit Card Fraud Detection — Practical Handbook.",
       "en": "Machine Learning for Credit Card Fraud Detection — Practical Handbook.",
       "es": "Aprendizaje automático para la detección de fraudes con tarjetas de crédito: manual práctico.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -577,99 +917,180 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Université Libre de Bruxelles. Recuperado de:",
-      "en": "Université Libre de Bruxelles. Recovered from:",
+      "en": "Université Libre de Bruxelles. Available at:",
       "es": "Université Libre de Bruxelles. Recuperado de:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "McKinney, T. (s.f).",
       "en": "McKinney, T. (s.f).",
       "es": "McKinney, T. (s.f).",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fraud Detection in Python",
       "en": "Fraud Detection in Python",
       "es": "Fraud Detection in Python",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Credit Card Fraud",
       "en": "Credit Card Fraud",
       "es": "Credit Card Fraud",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Python",
       "en": "Python",
       "es": "Python",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Decission Tree",
       "en": "Decision Tree",
       "es": "Decission Tree",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Producción y Consumo responsables",
       "en": "Responsible production and consumption",
       "es": "Producción y Consumo responsables",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia Artificial",
       "en": "CARDIOSIGHT: Cardiovascular Risk Calculator using Artificial Intelligence",
       "es": "CARDIOSIGHT: Calculadora de Riesgo Cardiovascular mediante Inteligencia Artificial",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "10 min read",
       "en": "10 min read",
       "es": "10 min read",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "HUMANDS: INTELIGENCIA ARTIFICIAL PARA EMPLEADOS",
-      "en": "HUMANDS: ARTIFICIAL INTELLIGENCE FOR EMPLOYEES",
-      "es": "HUMANDS: INTELIGENCIA ARTIFICIAL PARA EMPLEADOS",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "HUMANDS: using AI to explore employee attrition",
+      "es": "HUMANDS: inteligencia artificial para estudiar la rotación laboral",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "22 min read",
       "en": "22 min read",
       "es": "22 min read",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "HaPyness: Análisis de sentimientos en la población de Aragón",
       "en": "HaPyness: Analysis of sentiments in the population of Aragon",
       "es": "HaPyness: Análisis de sentimientos en la población de Aragón",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Apr 7, 2022",
       "en": "Apr 7, 2022",
       "es": "Apr 7, 2022",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Comparamos algoritmos para detectar fraude con tarjetas de crédito en datos simulados, desde la preparación de variables hasta la evaluación con ROC AUC.",
+      "en": "We compare algorithms for credit card fraud detection using simulated data, from feature engineering to ROC AUC evaluation.",
+      "es": "Comparamos algoritmos para detectar fraude con tarjetas de crédito en datos simulados, desde la preparación de variables hasta la evaluación con ROC AUC.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

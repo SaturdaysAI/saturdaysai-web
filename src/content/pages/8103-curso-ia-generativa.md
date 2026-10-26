@@ -10,39 +10,38 @@ draft: false
 kind: page
 ---
 
-## Generative AI ⚔ Multimodal
+## Explore generative and multimodal AI
 
-**Learn** what is Generative AI,  «_**prompt engineering**_«, and what is «Multimodal», including «recipes & tips» to make it worthy.
+Discover how tools generate text, images and other types of content. Learn the foundations of prompt engineering and what it means to work with multimodal models.
 
-From boosting your productivity to free your creativity, Generative AI only limit is your imagination.
+Experiment with practical examples to develop ideas and explore new ways to create. You will also learn to assess the quality of outputs and recognise the limits of these tools.
 
--   **When**: Always
--   **Where**:  online
+The course is available through our online learning platform. Check the curriculum, language and access details there.
 
-[Start!](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course)
+[View the course in Spanish](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course) | [View the course in English](https://cursos.saturdays.ai/courses/generative-ai-multimodal)
 
-[Empezar!](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course)
+### Visual examples from the course
 
-![ai memories](/media/4ad2af553dfcea85.webp)
+![Visual example from the generative AI course 1](/media/4ad2af553dfcea85.webp)
 
-Galería con ejemplos de entregas
+![Visual example from the generative AI course 2](/media/762ef4212ca66341.webp)
 
-![robot fighting garbage](/media/762ef4212ca66341.webp)
+![Visual example from the generative AI course 3](/media/1c8ca71bca5019af.webp)
 
-![circular economy in the forest](/media/1c8ca71bca5019af.webp)
+![Visual example from the generative AI course 4](/media/271f474c53fe59de.webp)
 
-![7af09163-7098-462f-8a56-01f70c04cc16](/media/271f474c53fe59de.webp)
+![Visual example from the generative AI course 5](/media/4d971b0a75728fdc.webp)
 
-![6a00a40d-f374-4d25-941b-aeff2b44b097](/media/4d971b0a75728fdc.webp)
+![Visual example from the generative AI course 6](/media/2009172c333a09c6.webp)
 
-![5cb883f0-9f80-428d-ab40-53c9aa412cf6](/media/2009172c333a09c6.webp)
+![Visual example from the generative AI course 7](/media/741f8f2d245f9142.webp)
 
-![pecera con una casa ecológica autosostenible](/media/741f8f2d245f9142.webp)
+![Visual example from the generative AI course 8](/media/6da03e7c9e9e3b7a.webp)
 
-![1949ca23-6909-49e1-9c9e-54bb661c808f](/media/6da03e7c9e9e3b7a.webp)
+![Visual example from the generative AI course 9](/media/4bfd63180604391b.webp)
 
-![00cb62d1-c758-46a4-aecb-3974f25f8503](/media/4bfd63180604391b.webp)
+### Create thoughtfully
 
-[Empezar \[ES\]](https://cursos.saturdays.ai/courses/generative-multimodal-ai-course)
+Creativity goes hand in hand with responsibility. Check the results, respect privacy and consider how the content you generate may affect others.
 
-[Start \[EN\]](https://cursos.saturdays.ai/courses/generative-ai-multimodal)
+[Learn about AI Safety / Security](https://saturdays.ai/seguridad-ia/)

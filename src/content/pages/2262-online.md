@@ -13,138 +13,102 @@ draft: false
 kind: section
 ---
 
-## Build AI skills online
+## Learn AI at your own pace
 
-Get the skills you need for the future of work!
+Start with Python and data science, explore generative AI or go deeper into machine learning techniques. Choose a resource that fits your experience and put it into practice.
 
-Learn about A.I. from 0, with online courses on Python, data science, prompt engineering, machine learning and new technologies.
+### Foundations for further learning
+
+The learning paths combine explanations, exercises and projects. Some include concept maps and other supporting materials. Check each course’s prerequisites, access conditions and certificate criteria, where a certificate is offered.
+
+If you want to share what you learn, [contact the community](https://saturdays.ai/contacto/).
+
+### More resources from the archive
+
+This selection brings together learning paths from our past offerings. The course platform provides current information on content and availability.
+
+### Advanced prompt engineering
+
+Explore context, caching, planning, RAG and agents. This course is intended for learners who already know the foundations. Taught in Spanish.
+
+[View the resource](https://cursos.saturdays.ai/courses/prompt-engineering-ai)
+
+### Python for AI
+
+Start coding with exercises organised into modules. Build the foundations for further learning in data science and AI. The link opens the English course.
+
+[View the resource](https://cursos.saturdays.ai/courses/python4ai-eng)
+
+### Generative and multimodal AI
+
+Explore language models, image generation, diffusion models and prompt engineering. Experiment with creative tools and evaluate the results. Spanish and English paths are available.
+
+[View the resource](https://saturdays.ai/curso-ia-generativa/)
+
+### Data mining and Hugging Face
+
+Learn data mining through a practical project and deploy a model on Hugging Face. Check the platform for language options.
+
+[View the resource](https://cursos.saturdays.ai/courses/datamining)
+
+### Reinforcement learning
+
+Study how agents learn by interacting with an environment. Practise Q-learning and deep reinforcement learning, and explore applications in games, robotics and recommendation systems. Taught in Spanish.
+
+[View the resource](https://cursos.saturdays.ai/courses/aprendizaje-refuerzo)
+
+### Data science foundations
+
+The archive records an English learning path with short videos, concept maps, exercises and a practical project. Check the current catalogue for available resources.
+
+[View the resource](https://cursos.saturdays.ai/)
+
+### Pandas for data science
+
+Learn to load, prepare, transform and analyse data with Pandas. Check the platform for course content and language options.
+
+[View the resource](https://cursos.saturdays.ai/courses/pandas)
+
+### NumPy for data science
+
+Work with arrays and numerical data in Python. Explore how to organise data and perform calculations efficiently. Check the platform for language options.
+
+[View the resource](https://cursos.saturdays.ai/courses/curso-numpy)
+
+### SciPy for data science
+
+Explore scientific computing tools for optimisation, linear algebra, integration, interpolation, Fourier transforms and signal processing. The path also covers differential equations and other scientific and engineering applications. Taught in Spanish.
+
+[View the resource](https://cursos.saturdays.ai/courses/scipy)
+
+### AI for video games
+
+Explore the learning path on AI for video games. Check the platform for the curriculum, prerequisites and language.
+
+[View the resource](https://cursos.saturdays.ai/courses/ia-videojuegos)
 
 ![](/media/6c7c400350dd9dcd.webp)
 
 ![](/media/19c4f49f03bb6bc4.webp)
 
-### What's great about our courses
-
-Well-structured courses
-
-Lectures are consistent, informative, and easy to follow.
-
-Hands-on exercises
-
-Each module includes exercises that, in addition to summarizing the key concepts of each module, will guide you through the activities proposed in the lessons of that module.
-
-
-
-[Peer feedback and community](/contacto/)
-
-Contact the team to find the current community channels and connect with other learners.
-
-Unlimited access
-
-You will gain unrivaled knowledge in programming, stadistics, and machine learning– wherever you are.
-
-Additional materials
-
-Mental maps in text to learn more effectively and additional info to keep learning
-
-Certificate
-
-Get a certificate confirming completion of an online lecture or a whole course.
-
-### Choose your learning path
-
-You can choose different study plans through the courses depending on your knowledge and interests in AI.
-
-#### Prompt Engineering Avanzado
-
-Spanish Prompt engineering para ya iniciados, donde vas más allá de los fundamentos, a la técnicas más útiles para gestionar **contexto**, **caching**, **planificación, RAG** y **agentes**.
-
-[Join now](https://cursos.saturdays.ai/courses/prompt-engineering-ai)
-
 ![](/media/c489f4d5aa7fb58f.webp)
 
-![Curso de python4AI](/media/793c8f6b64ebc2f4.webp)
+![](/media/793c8f6b64ebc2f4.webp)
 
-#### Python 4 AI
-
-English & Spanish   Learn to code in AI from scratch. We have prepared a customized roadmap to power-up your Python skills in a short time, in a fun and no-stress way.
-
-The program is organized in several modules where we will challenge you with practical exercises. You will have the opportunity to share with the community your progress, ask doubts and code with other people, building the foundations to further learning.
-
-
-
-[EN - Join now](https://cursos.saturdays.ai/courses/python4ai-eng)
-
-#### IA Generativa y Multimodal
-
-English & Spanish Mini-course to learn the foundations of Generative AI and Multimodal in a fun, from scratch way, good for total newbies and AI artists alike.
-
-We cover from a bird-eye POV hot topics like LLMs, Diffusion and of course, what tools and «tricks» we can use to generate what we want.
-
-This particular field (**generative AI**) is changing superfast, so we are going to keep updating the content often.
-
-[Join now](https://saturdays.ai/curso-ia-generativa)
-
-![circular economy in the forest](/media/99d35957d37f977b.webp)
+![](/media/99d35957d37f977b.webp)
 
 ![](/media/eea6e21ede252541.webp)
 
-#### Data Mining y Hugging Face
-
-English & Spanish  Aprende mineria de datos realizando un proyecto y desplegando un modelo en Hugging Face, aprenderás 2 de las habilidades más útiles que hoy en día necesitas para proyectos de ciencia de datos y de IA. ¡Te esperamos!
-
-[Join now](https://cursos.saturdays.ai/courses/datamining)
-
-#### Reinforcement Learning
-
-Spanish  ¿Sabes que el Aprendizaje por Refuerzo (**RL**) es fundamental en el desarrollo de sistemas autónomos y en la toma de decisiones inteligentes?
-
-Descubre cómo modelar y resolver problemas complejos de inteligencia artificial. En este curso, aprenderás a implementar algoritmos como _Q-learning y Deep RL_; entenderás cómo aplicarlos en escenarios reales como juegos inteligentes, robótica y sistemas de recomendación.
-
-_\*Spoiler: Quizás la AGI se consiga gracias al RL_
-
-[Empieza](https://cursos.saturdays.ai/courses/aprendizaje-refuerzo)
-
-![girl moving connecting to the future](/media/a2d1b059d2d78bf2.webp)
-
-#### DS Fundamentals
-
-in English Learn the foundations of Data Science with this course that includes short explanatory videos of around 5 minutes each along with mental maps in text to learn more effectively, hands-on exercises and a project to learn by doing. You will get peer feedback and a community to learn in good company.
-
-Lay the grounds to kick start your Data Science superpowers. 
-
-[Join now](https://ti.to/saturdaysai/data-science-fundamentals)
+![](/media/a2d1b059d2d78bf2.webp)
 
 ![](/media/3adf8d52d81f8918.webp)
 
 ![](/media/c026104d0853d7c8.webp)
 
-#### Pandas Data Science
+![](/media/a7391e4e263617c1.webp)
 
-English & Spanish  Pandas se desarrolló debido a la necesidad de tener una herramienta flexible de alto rendimiento para el análisis de datos. Usando esta librería podemos lograr cinco pasos típicos en el procesamiento y análisis de datos, independientemente del origen de los datos: cargar, preparar, manipular, modelar y analizar.
+![](/media/c4c3b2ae08e15256.webp)
 
-[Join now](https://cursos.saturdays.ai/courses/pandas)
+![](/media/82e4ebd91b31c79c.webp)
 
-#### Numpy Data Science
-
-English & Spanish  Curso de NumPy: Dominando la Manipulación de Datos Numéricos.
-
-¿Alguna vez te has preguntado cómo los científicos de datos y los ingenieros realizan cálculos complejos y manipulan grandes conjuntos de datos en Python? ¡Aquí es donde entra en juego NumPy! En este curso, vamos a sumergirnos en el fascinante mundo de NumPy y aprender a manejar datos numéricos de manera eficiente.
-
-[Join now](https://cursos.saturdays.ai/courses/curso-numpy)
-
-![Caratula Curso Numpy](/media/a7391e4e263617c1.webp)
-
-![SCIPY COURSE](/media/c4c3b2ae08e15256.webp)
-
-#### SciPy Data Science
-
-\*S_panish_\*  SciPy es la librería de Python para realizar ciencia por excelencia, contiene módulos para optimización, álgebra lineal, integración, interpolación, funciones especiales, FFT, procesamiento de señales y de imagen, resolución de ODEs y otras tareas para la ciencia e ingeniería.
-
-[Empieza](https://cursos.saturdays.ai/courses/scipy)
-
-#### IA para Videojuegos
-
-[Empieza](https://cursos.saturdays.ai/courses/ia-videojuegos)
-
-![Create your own videogame](/media/82e4ebd91b31c79c.webp)
+[Browse the full catalogue](https://cursos.saturdays.ai/)

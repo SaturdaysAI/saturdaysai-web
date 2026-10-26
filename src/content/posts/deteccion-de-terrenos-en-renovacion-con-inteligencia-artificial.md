@@ -80,7 +80,7 @@ Como se puede apreciar, lotes con cobertura tiene una media cercana a 1 y una de
 ##   
 **Ingeniería de características.**
 
--   Se identificó como target el campo **Variedad** el cual se almacena la variedad sembrada en ese lote, pero si el lote está en renovación, tiene la etiqueta “Renovación”, también cambiamos de nombre de la columna a **Renovación.**
+-   Utilizamos el campo Variedad para construir la variable objetivo: contiene la variedad sembrada o la etiqueta «Renovación» cuando el lote está en ese proceso. Renombramos la nueva columna como Renovación.
 -   Convertimos el campo Renovación de categórico a booleano.
 -   Unimos los 13 dataset (1 de catastro y 12 de los valores estadísticos del último año) en uno solo dataset para mejor uso.
 
@@ -175,8 +175,8 @@ WRITTEN BY
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

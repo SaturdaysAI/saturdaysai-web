@@ -3,19 +3,43 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import { load } from 'cheerio';
 import { htmlFiles } from './lib/localization.mjs';
+import { hasCurrentEditorialReview } from './lib/editorial-review.mjs';
+import editorialReviews from '../src/i18n/editorial-reviews.json' with { type: 'json' };
 const base = (process.env.BASE_PATH || '/').replace(/\/$/, '');
 const origin = (process.env.SITE_URL || 'https://saturdays.ai').replace(/\/$/, '');
 const files = await htmlFiles('dist');
 const known = new Set(files.map((file) => path.relative('dist', file).replaceAll('\\', '/')));
 let pages = 0;
+let reviewedVersions = 0;
+let pendingVersions = 0;
 for (const file of files) {
-  const $ = load(await fs.readFile(file, 'utf8'));
+  const $ = load(await fs.readFile(file, 'utf8'), { scriptingEnabled: false });
   const relative = path.relative('dist', file).replaceAll('\\', '/');
   const language = relative.startsWith('en/') ? 'en' : 'es';
+  if ($('.reading-body .prose,.city-history .prose').length) {
+    const route = '/' + relative.replace(/^en\//, '').replace(/index\.html$/, '');
+    const reviewed = hasCurrentEditorialReview($, editorialReviews, route, language);
+    assert.equal(
+      $('.translation-notice').length,
+      reviewed ? 0 : 1,
+      `${file}: the translation notice must match the reviewed content version`,
+    );
+    if (reviewed) reviewedVersions++;
+    else pendingVersions++;
+  }
   assert.equal($('html').attr('lang'), language, file);
   assert.equal($('[data-current-language]').text(), language.toUpperCase(), file);
   assert.equal($('[data-language][aria-current]').attr('data-language'), language, file);
   assert.equal($('html').attr('data-localized'), 'true', file);
+  const copyLink = $('[data-copy-link]');
+  if (copyLink.length) {
+    assert.equal(copyLink.text().trim(), language === 'es' ? 'Copiar enlace' : 'Copy link', file);
+    assert.equal(
+      copyLink.attr('data-success'),
+      language === 'es' ? 'Enlace copiado.' : 'Link copied.',
+      file,
+    );
+  }
   for (const lang of ['es', 'en']) {
     const link = $(`link[rel="alternate"][hreflang="${lang}"]`).attr('href');
     assert.ok(link?.startsWith(origin + base + '/'), `${file}: missing language alternate`);
@@ -51,10 +75,19 @@ for (const file of files) {
       `${file}: economic information in a non-blog description`,
     );
     assert.doesNotMatch(
+      $('.reading-body .prose,.city-history .prose').text(),
+      /\b\d[\d.,]*\s*(?:USD|EUR|DKK)\b|\b(?:USD|EUR|DKK)\s*\d|[€$£]\s*\d|\d\s*[€$£]/i,
+      `${file}: price remaining in a non-blog programme or city page`,
+    );
+    assert.doesNotMatch(
       $('body').text(),
       /¿A qué va destinado el dinero\?|What is the money used for\?|11:30\s*[–-]\s*13 AM/,
       `${file}: obsolete programme question or invalid time`,
     );
+  }
+  if (/^(?:en\/)?asuncion\/index.html$/.test(relative)) {
+    assert.match($('h1').text(), /Asunción/);
+    assert.doesNotMatch($('h1').text(), /Assumption/);
   }
   if (/^(?:en\/)?about\/index.html$/.test(relative)) {
     assert.match(
@@ -127,6 +160,8 @@ console.log(
     localizedPages: pages,
     alternateLinks: pages * 2,
     missingTranslations: 0,
+    reviewedVersions,
+    pendingVersions,
     result: 'PASS',
   }),
 );

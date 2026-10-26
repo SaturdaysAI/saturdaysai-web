@@ -13,7 +13,7 @@ sourceUrl: https://saturdays.ai/2022/07/26/podcast-t4-e02-carlos-munoz-la-ley-de
 sourceId: 7600
 language: es
 draft: false
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 ---
 
 ![](/media/eb4e0eee5375338d.webp)
@@ -44,7 +44,7 @@ Carlos Muñoz Ferrandis conecta dos mundos que necesitan entenderse: el derecho 
 
 21:25-En los últimos 10 años, ¿qué expectativas no cumplidas tienes en cuanto a la IA?, y en los próximos 10 años qué futuro le ves
 
-24:00-¿La propiedad intelectual de una _«GI»_ a quién pertenece?
+24:00 — ¿A quién pertenece la propiedad intelectual generada con IA?
 
 30:10-¿Cómo es la propiedad intelectual en los modelos generativos?
 

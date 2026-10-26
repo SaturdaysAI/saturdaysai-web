@@ -42,19 +42,19 @@ Características de “The Stack”
 
 #### Code LLM: Tecnología de IA para la generación de código de programación
 
-Los modelos de lenguaje de gran tamaño (_Large Language Models_ o LLMs) son tecnologías de inteligencia artificial que han revolucionado la forma en que las máquinas comprenden y generan texto. Al analizar y aprender patrones en grandes volúmenes de texto, los LLMs pueden generar nuevas piezas de texto que son sorprendentemente coherentes y contextuales. Cuando estos modelos se construyen para trabajar específicamente con código de programación, da origen a lo que se conoce como **_Code LLMs_**.
+Los modelos de lenguaje de gran tamaño (LLM) aprenden patrones a partir de grandes volúmenes de texto y pueden generar nuevas secuencias coherentes con el contexto. Cuando se entrenan específicamente con código, hablamos de modelos de lenguaje para código o Code LLMs. Su capacidad para producir una respuesta plausible no garantiza que sea correcta.
 
-Los _Code LLMs_ se entrenan de la misma manera que los LLMs normales, pero en lugar de aprender patrones en texto normal o natural, o sea, el lenguaje que usamos las personas, aprenden esos patrones usando lenguajes de programación como base. Esto significa que analizan y aprenden a partir de miles de millones de líneas de código escrito en diferentes lenguajes de programación.
+Los modelos para código utilizan procedimientos de entrenamiento similares a otros LLM, pero incorporan grandes cantidades de programas, documentación y otros textos relacionados. Así aprenden patrones de sintaxis y estructura en distintos lenguajes de programación.
 
 > Como resultado, son capaces de entender el lenguaje de programación y aprender a escribir código a partir de los patrones y la estructura del código en el entrenamiento
 
-Esta habilidad para **“aprender” a programa**r los convierte en herramientas poderosas para múltiples tareas, como la generación automática de código, la corrección ortográfica y de sintaxis, y la sugerencia de código en entornos de desarrollo de software. Esto tiene el potencial de **aumentar significativamente la productividad** y la eficiencia de los desarrolladores, ya que pueden delegar tareas repetitivas o tediosas a estos modelos y concentrarse en tareas más complejas y creativas.
+Esta capacidad de generar código puede resultar útil para completar fragmentos, proponer correcciones de sintaxis y sugerir soluciones en un entorno de desarrollo. Al reducir parte del trabajo repetitivo, permite dedicar más tiempo a tareas complejas y creativas. El código generado sigue necesitando revisión y pruebas.
 
 ### StarCoder: la promesa open source de los Code LLM
 
 La comunidad BigCode ha presentado el Code LLM “StarCoder”, que ha su vez se divide en los modelos StarCoder y StarCoderBase. Estos modelos no solo son capaces de completar fragmentos de código, sino que también pueden realizar inferencias rápidas con grandes cantidades de datos.
 
-¿Cómo se ha hecho? Para entrenar estos modelos, BigCode utilizó un conjunto seleccionado y curado de un billón de tokens provenientes de GitHub. Después de este entrenamiento inicial, StarCoderBase fue afinado específicamente para Python. Este proceso de ajuste fino (_fine-tuning_) implicó entrenar el modelo en un conjunto de datos específico de Python, permitiendo que el modelo se especializara en este lenguaje y mejorara su capacidad para generar y trabajar con código Python.
+¿Cómo se entrenaron? StarCoderBase aprendió a partir de un billón de tokens, es decir, un millón de millones, procedentes de una selección de The Stack. Después se continuó el entrenamiento con 35.000 millones de tokens de Python para obtener StarCoder. Este ajuste buscaba mejorar su rendimiento en ese lenguaje.
 
 ![](/media/627159b47119391a.webp)
 
@@ -74,19 +74,19 @@ Para más detalles sobre cómo se entrenó y afinó StarCoder, así como para un
 
 En la evaluación de StarCoder, se comparan varios modelos de generación de código utilizando dos métricas principales: _HumanEval y MBPP._
 
-**_HumanEval_** es una métrica que evalúa la calidad del código generado por los modelos a través de pruebas realizadas por humanos. En esta prueba, a los evaluadores humanos se les presenta un conjunto de problemas de programación y se les pide que evalúen la calidad del código generado por los modelos en términos de su precisión, eficiencia y legibilidad.
+HumanEval contiene problemas de programación escritos por personas, pero evalúa el código generado mediante pruebas automatizadas. Se comprueba si las funciones producen los resultados esperados; no se trata de un jurado humano que puntúe la legibilidad de cada respuesta.
 
-Por otro lado, **MBPP** (_Mean Binary Pairwise Preference_) es una métrica que utiliza un enfoque más estadístico para evaluar la calidad del código generado. En lugar de depender de la evaluación humana, MBPP compara el código generado por dos modelos diferentes para un mismo problema y calcula la probabilidad de que uno sea preferido sobre el otro en términos de calidad.
+MBPP significa Mostly Basic Programming Problems. Reúne tareas de programación en Python descritas en lenguaje natural, junto con pruebas que permiten comprobar las soluciones. No es una comparación de preferencias entre pares de modelos.
 
 ![](/media/1b611350e7acb013.webp)
 
 Ranking de LLMs
 
-Según esta tabla, **StarCoder y StarCoder-Prompted son los modelos con mejor desempeño general**, obteniendo los mejores puntajes en _HumanEval_ y también en MBPP. Específicamente, StarCoder obtuvo un puntaje de 33.6 en HumanEval y 52.7 en MBPP, mientras que StarCoder-Prompted obtuvo 40.8 y 49.5 en HumanEval y MBPP, respectivamente.
+En la tabla, StarCoder obtiene 33,6 en HumanEval y 52,7 en MBPP, mientras que StarCoder-Prompted alcanza 40,8 y 49,5, respectivamente. El cambio de prompt mejora una evaluación y empeora la otra, así que conviene comparar cada tarea por separado.
 
-Los otros modelos también tienen tasas de acierto significativas, con _CodeGen-16B-Multi y CodeGeeX_ en el tercer y cuarto lugar en términos de desempeño. Aunque algunos modelos como _LLaMA-7B_ tienen tasas de acierto más bajas, todavía se desempeñan bien considerando que no están específicamente diseñados para la generación de código.
+La tabla también incluye CodeGen, CodeGeeX, LLaMA, PaLM, LaMDA y una versión de Codex. Sus posiciones cambian según la prueba: CodeGen-16B-Multi y CodeGeeX no ocupan el tercer y cuarto puesto. Comparar modelos exige mirar la tarea, la versión y las condiciones de evaluación, además de la puntuación.
 
-En general, StarCoder se presenta comor uno de los mejores modelos de generación de código en términos de precisión, superado solo por **StarCoder-Prompted**, que utiliza información adicional de entrada del usuario para mejorar aún más el desempeño.
+StarCoder-Prompted no es un modelo distinto, sino StarCoder con una instrucción de entrada adaptada a la tarea. En esta tabla mejora HumanEval de 33,6 a 40,8, pero reduce MBPP de 52,7 a 49,5. El ejemplo muestra cuánto puede influir el prompt y por qué no conviene hablar de un ganador universal.
 
 Entonces, **¿puede StarCoder desafiar la hegemonía de OpenAI y sus mejores modelos de lenguaje?** La respuesta ahora mismo es **NO, PERO** se está acortando la distancia significativamente, y en muchas tareas, StarCoder tiene mejor desempeño que [Codex](https://help.openai.com/en/articles/6195637-getting-started-with-codex), el modelo para código de OpenAI.
 
@@ -96,9 +96,9 @@ Entonces, **¿puede StarCoder desafiar la hegemonía de OpenAI y sus mejores mod
 
 ### Más Allá de la Programación: Lenguaje Natural
 
-Una grata sorpresa ha sido encontrar que StarCoder, aunque ha sido diseñado principalmente para trabajar con lenguaje de programación, ha demostrado ser también competente en una variedad de tareas de lenguaje natural, incluyendo **razonamiento, comprensión lectora y generación de texto,** de hecho, que los modelos entrenados para código sean mejores que los entrenados para texto (lenguaje natural), es una característica emergente que está levantando más de una ceja.
+Aunque StarCoder se diseñó principalmente para código, el trabajo también exploró tareas de lenguaje natural, como razonamiento y comprensión de textos. Es una línea interesante: entrenar con código puede aportar capacidades útiles más allá de programar, aunque no convierte automáticamente al modelo en el mejor para cualquier tarea.
 
-En la tarea de **razonamiento**, se ha utilizado la metodología de PAL (_Premise-Answer-Likelihood_) y CoT (_Choice of Task_), para comparar su rendimiento con el de otros modelos. En lo que respecta a la **comprensión lectora,** se ha evaluado su rendimiento utilizando los benchmarks MMLU (_MultiModal Language Understanding_) y CoQA (_Conversational Question Answering_).
+En razonamiento se compararon enfoques como PAL (Program-aided Language Models), que combina generación de programas con ejecución, y CoT (Chain-of-Thought), basado en pasos intermedios. También se estudiaron tareas de conocimiento y comprensión con MMLU (Massive Multitask Language Understanding) y CoQA (Conversational Question Answering).
 
 Los resultados de estas evaluaciones muestran que StarCoder es capaz de desempeñarse eficazmente en estas tareas de lenguaje natural, aunque su rendimiento puede ser ligeramente inferior al de otros modelos específicos más grandes. 
 
@@ -106,7 +106,7 @@ Los resultados de estas evaluaciones muestran que StarCoder es capaz de desempe�
 
 ### Ética y Seguridad: Un Compromiso Firme
 
-El equipo de BigCode han puesto un esfuerzo real, y demostrable, en hacer de StarCoder un modelo lo más seguro y ético posible. Es conocido que uno de los problemas más comunes con los LLMs es la generación de información inexacta o la amplificación de prejuicios existentes. Esto puede llevar a la generación de contenido ofensivo, engañoso, o discriminatorio. Para contrarrestar estos problemas, se han empleado técnicas de alineación procurando un comportamiento ético del modelo y que no se perpetúen o amplifiquen prejuicios y estereotipos dañinos, que es uno de los principales retos con la IA Generativa. En la sección 7.3 del _paper_, se detallan las estrategias y medidas tomadas para mitigar riesgos.
+El equipo de BigCode documentó medidas como el filtrado de información personal, la posibilidad de retirar código del conjunto de datos y las herramientas de atribución. Son pasos hacia un desarrollo responsable, no una certificación de que el modelo sea seguro o esté libre de sesgos. Los LLM pueden generar información falsa, reproducir prejuicios o proponer código vulnerable; por eso es importante estudiar sus límites y revisar sus resultados.
 
 ### Aplicaciones Prácticas: Mejorando la Vida de Desarrolladores y usuarios
 
@@ -127,10 +127,10 @@ Ejemplo de cómo integrar “StarCoder” en tus aplicaciones a través de HF Tr
 
 #### Puntos fuertes
 
--   Es un **modelo de lenguaje de programación** a gran escala de código abierto, entrenado en más de 80 lenguajes de programación.
+- Es un modelo de lenguaje para código con pesos disponibles, entrenado con más de 80 lenguajes de programación.
 -   Es capaz de procesar entradas con una **longitud de contexto de más de 8.000 tokens** (unas 6.000 palabras en inglés, [menos en español](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)), lo que lo convierte en uno de los modelos más grandes y potentes disponibles.
--   Es una herramienta de **código abierto**, entrenado con **licencias permisivas**, permitiendo que la comunidad de programadores pueda contribuir a su desarrollo y mejora.
--   StarCoder ha sido **entrenado éticamente**, lo que significa que se han tomado medidas para evitar la discriminación y otros comportamientos inapropiados en la generación de código.
+- Los pesos y el código de entrenamiento están disponibles bajo sus respectivas licencias, lo que permite estudiar y adaptar el modelo.
+- El proyecto incorpora medidas de desarrollo responsable, aunque siguen existiendo riesgos de privacidad, sesgo y generación de contenido inadecuado.
 -   Los investigadores detrás de StarCoder también han proporcionado **herramientas de atribución** para ayudar a los usuarios a identificar el código generado por el modelo y asegurarse de cumplir con los requisitos de licencia correspondientes.
 
 #### Desafíos
@@ -143,13 +143,13 @@ Ejemplo de cómo integrar “StarCoder” en tus aplicaciones a través de HF Tr
 
 ### Conclusión
 
-La inteligencia artificial y el aprendizaje automático (_machine learning_) continúan transformando diversos aspectos de nuestra vida, y el desarrollo de software no es una excepción. **StarCoder**, presentado por BigCode, es una representación de este progreso y un gran paso adelante hacia la democratización del desarrollo de software.
+La inteligencia artificial y el aprendizaje automático continúan transformando el desarrollo de software. StarCoder, presentado por BigCode en 2023, fue un paso relevante para ampliar el acceso a modelos capaces de trabajar con código.
 
 Como un modelo de lenguaje de programación a gran escala (LLM), StarCoder abre un mundo de posibilidades. Su capacidad para generar código automáticamente, corregir errores y facilitar el aprendizaje de nuevos lenguajes, puede mejorar mucho la productividad y eficiencia.
 
 Sin embargo, como cualquier tecnología emergente, StarCoder no está exento de desafíos. La generación de contenido inexacto, ofensivo o discriminatorio es un riesgo inherente en cualquier modelo de lenguaje, y aunque se han tomado medidas para mitigar estos riesgos, es crucial seguir trabajando en la mejora continua de estos aspectos.
 
-En general, StarCoder representa un salto significativo hacia **una nueva era de la programación asistida por IA, y automatización con lenguaje natural.** Si bien todavía hay trabajo por hacer, la promesa de esta tecnología es indudable. Con su compromiso con la ética, la seguridad y el desarrollo abierto, **StarCoder** se posiciona como una de las mejores alternativas a los modelos cerrados y de caja negra disponibles actualmente, contando además con el apoyo de una comunidad comprometida en la mejora continúa de los modelos y su impacto positivo en nuestra sociedad.
+StarCoder ilustró en 2023 el potencial de los modelos con pesos disponibles para la programación asistida por IA. Su comunidad, documentación y herramientas permiten estudiar y adaptar el sistema. El reto sigue siendo mejorar su utilidad, evaluar sus limitaciones y revisar el código que genera.
 
 **¿Qué esperas para probarlo?**
 

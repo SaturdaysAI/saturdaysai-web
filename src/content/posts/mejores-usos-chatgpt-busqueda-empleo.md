@@ -1,8 +1,7 @@
 ---
-title: Top 5 usos de ChatGPT para mejorar tu carrera profesional.
-description: Esta guía te mostrará cómo ChatGPT, puede convertirse en tu aliado
-  en la búsqueda de empleo y ayudándote a mejorar tu currículum, redactar cartas
-  de presentación personalizadas, prepararte para entrevistas de trabajo y más.
+title: Cuatro usos de ChatGPT para preparar tu búsqueda de empleo
+description: Ejemplos de prompts para revisar tu CV, redactar cartas, practicar
+  entrevistas y traducir documentos sin inventar experiencia ni perder tu voz.
 pubDate: 2023-06-30
 author: Info Saturdays
 category: Community
@@ -71,10 +70,10 @@ Josep Moré Gili
 
 ## Más inteligencia artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 En Saturdays.AI hemos lanzado un curso **GRATUITO** para aprender ingeniería de prompts, diseñado tanto para si estas empezando a usar IA generativa, como si ya has usado varios modelos anteriormente. [Inscríbete gratis aquí!](https://saturdays.ai/curso-chatgpt/)

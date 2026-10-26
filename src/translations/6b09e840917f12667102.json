@@ -4,16 +4,26 @@
   "segments": [
     {
       "source": "Podcast T2/E8 – Hind Azegrouz – La IA en la punta de tus dedos",
-      "en": "Podcast S2/E8 – Hind Azegrouz – AI at your fingertips",
-      "es": "Podcast T2/E8 – Hind Azegrouz – La IA en la punta de tus dedos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Podcast S2/E08: Hind Azegrouz — AI at your fingertips",
+      "es": "Podcast T2/E08: Hind Azegrouz — La IA en la punta de tus dedos",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "T2 / E8",
       "en": "S2/E8",
       "es": "T2 / E8",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este capítulo, Hind Azegrouz, EMEA Edge Inference Lead en Intel nos ofrece su punto de vista a cerca del papel de la mujer en la IA y su pronóstico en la materia para el futuro.",
@@ -64,7 +74,12 @@
       "source": "Sobre Hind",
       "en": "About Hind",
       "es": "Sobre Hind",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Presentación Hind ¿Quién es?",
@@ -80,55 +95,85 @@
     },
     {
       "source": "– ¿De dónde salía tu motivación para meterte en el campo de ML?",
-      "en": "– Where did your motivation come from to get into the field of ML?",
+      "en": "– What motivated you to get into machine learning?",
       "es": "– ¿De dónde salía tu motivación para meterte en el campo de ML?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Sobre Edge Inference",
       "en": "– About Edge Inference",
       "es": "– Sobre Edge Inference",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Papel de las mujeres en el sector de AI",
-      "en": "– Role of women in the AI sector",
-      "es": "– Papel de las mujeres en el sector de AI",
-      "reviewed": false,
-      "sourceLanguage": "es"
-    },
-    {
-      "source": "– ¿Cómo ves la Inteligencia Artificial puede evolucionar en 10 años?",
-      "en": "– How do you think artificial intelligence could evolve in 10 years?",
-      "es": "– ¿Cómo ves la Inteligencia Artificial puede evolucionar en 10 años?",
+      "en": "– Women’s role in the AI sector",
+      "es": "– El papel de las mujeres en el sector de la IA",
       "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Archive wording correction"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "– ¿Cómo ves la Inteligencia Artificial puede evolucionar en 10 años?",
+      "en": "– How do you think artificial intelligence could evolve in 10 years?",
+      "es": "– ¿Cómo crees que puede evolucionar la inteligencia artificial en diez años?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full article review; wording correction"
       }
     },
     {
       "source": "– Recomendaciones a los estudiantes de AI",
-      "en": "– Recommendations to AI students",
-      "es": "– Recomendaciones a los estudiantes de AI",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– Advice for AI students",
+      "es": "– Consejos para estudiantes de IA",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– ¿AI iguala la estadística o es algo más?",
       "en": "– Is AI just statistics, or something more?",
-      "es": "– ¿AI iguala la estadística o es algo más?",
-      "reviewed": false
+      "es": "– ¿La IA es solo estadística o es algo más?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Qué rol tiene la ética en la AI?",
-      "en": "– What role does ethics have in AI?",
-      "es": "– ¿Qué rol tiene la ética en la AI?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– What role does ethics play in AI?",
+      "es": "– ¿Qué papel tiene la ética en la IA?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Hind Azegrouz comparte su trayectoria en IA y su experiencia en inferencia en dispositivos desde Intel.",

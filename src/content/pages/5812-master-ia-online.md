@@ -26,13 +26,13 @@ El contenido de esta página corresponde al programa de máster publicado en nue
 
 # Máster Saturdays.AI
 
-##### Puedes **comprar** directamente el Master, **¡únete**! #ai4all #ai4good
+##### Aprende en comunidad y crea con propósito. #ai4all #ai4good
 
-La **comunidad (en +10 países)** donde aprenderás Inteligencia Artificial desde 0 mientras creas un proyecto de impacto social 🚀
+Una comunidad que conecta a personas de más de diez países para aprender IA y crear proyectos con impacto social. 🚀
 
 El Master tiene 2 partes: Machine Learning + Deep Learning, además de un módulo previo si empiezas desde 0, y módulos posteriores de especialización opcionales en AIoT, LLMs, GenAI, y otros.
 
-[COMPRAR](https://cursos.saturdays.ai/courses/master-ia)
+[Explora el catálogo de cursos](https://cursos.saturdays.ai/)
 
 ![](/media/d2a2b97f7befb346.webp)
 
@@ -46,11 +46,11 @@ Si quieres adquirir experiencia en programación, machine learning  y datos, es
 
 Aprenderás las bases del machine y/o deep learning. 
 
-Y terminarás creando un proyecto de impacto social **con la ayuda de mentores** con experiencia para conseguir el certificado final.
+El programa culminaba con un proyecto de impacto social acompañado por mentores con experiencia.
 
 #### Adquirir habilidades prácticas.
 
-A tu disposición clases grabadas, contenido explicativo, retos y _feedback_ entre alumnos para **aprender haciendo**.
+Clases grabadas, explicaciones, retos y comentarios entre participantes para aprender haciendo.
 
 #### Conectar con gente como tú
 
@@ -88,7 +88,7 @@ Cada módulo incluye ejercicios que, además de resumir los conceptos clave de c
 
 El programa incluye **foros privados** en los que puedes plantear tus dudas y programar, poniéndote en contacto con mentores y compañeros.
 
-También beneficios para hacer realidad tu proyecto, como en créditos de **AWS**.
+
 
 ### 5º Proyectos
 
@@ -98,7 +98,7 @@ Cada alumno debe completar y enseñar un proyecto de impacto social, con el apoy
 
 ### 6º Diploma
 
-Al terminar cada itinerario **recibirás un diploma** demostrando que has entregado con éxito todos los retos y el proyecto final.
+El programa contemplaba un diploma para quienes completaran los retos y el proyecto final de cada itinerario.
 
 ##### ¿Quieres ver el máster por dentro? 👇
 
@@ -162,32 +162,11 @@ Aprender a programar y entender el mundo de los datos te abre muchas puertas, ta
 
 #### Únete y Aprende I.A.
 
-Elige tu plan. Te lo ponemos fácil 😎
+## Una experiencia para aprender creando
 
-##### Tú solo
+La propuesta original combinaba materiales de estudio, un tutor de IA, formación práctica, acompañamiento y un proyecto final. Consulta con el equipo qué recursos y formas de apoyo están disponibles actualmente.
 
--   Demasiado contenido
--   Sin compañeros
--   Sin retos prácticos
--   Sin networking
--   Sin objetivos
-
-##### Máster Saturdays
-
--   Contenido masivo
--   Tutor IA personalizado
--   Formación práctica
--   Apoyo constante
--   Proyecto real
-
-[ME INTERESA](https://cursos.saturdays.ai/courses/master-ia)
-
-##### Formación tradicional
-
--   Demasiado contenido
--   Pocos compañeros
--   Formación teórica
--   Sin networking
+[Explora el catálogo de cursos](https://cursos.saturdays.ai/)
 
 ## Un Master integral 👨‍💻
 
@@ -398,10 +377,10 @@ Puedes realizar [estos test](https://www.datacamp.com/signal) de Datacamp para v
 
 El acceso a la comunidad alumni y los eventos es de por vida.
 
-Puedes comprar directamente el acceso al Master en el link de arriba, y está pensado para que lo termines en 12 meses.
+La duración prevista del programa original era de doce meses.
 
 ¿Y si no es lo que busco?
 
-Tienes 15 días para revisar los beneficios y la comunidad, y si no es lo que buscas te devolvemos el dinero. No hay riesgo.
+Habla con el equipo sobre tus objetivos y experiencia antes de elegir un programa. Te ayudaremos a encontrar una opción adecuada.
 
 ¿Tienes alguna otra pregunta? [Escríbenos](https://saturdays.ai/contact/) 💬

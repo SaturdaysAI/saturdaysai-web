@@ -23,41 +23,37 @@ language: es
 draft: false
 ---
 
-La edad gestacional es el indicador que nos permite poder realizar un seguimiento más exhaustivo del embarazo. Este se calcula a partir del perímetro biparietal del cráneo y la circunferencia craneal en el primer trimestre, a diferencia del segundo y tercero que, además de estos parámetros, se añade la longitud del fémur.
+La edad gestacional permite situar el embarazo en el tiempo y orientar el seguimiento prenatal. En el primer trimestre se utiliza habitualmente la longitud cráneo-rabadilla; más adelante se emplean medidas como el diámetro biparietal, la circunferencia craneal y la longitud del fémur. La precisión de la estimación disminuye conforme avanza el embarazo.
+
+El estudio citado explora si el análisis automático de una ecografía cerebral fetal puede complementar las medidas biométricas habituales. Utiliza imágenes del plano axial transtalámico y compara las estimaciones con las fórmulas empleadas en la práctica clínica.
+
+El método, conocido como quantusGA, se desarrolló con técnicas de deep learning a partir de imágenes de 1.394 pacientes. Las anotaciones de especialistas ayudaron a localizar y orientar el cerebro fetal en las imágenes.
 
 
-La aplicación de la Inteligencia Artificial para la evaluación del diagnóstico fetal a partir del ultrasonido permite conseguir unos resultados iguales o con menos errores a diferencia del método tradicional. Esto se consigue a partir del plano axial transtalámico del cerebro a través de una ecografía 2D y comparándolo con las fórmulas actuales basadas en parámetros biométricos fetales estándar en un gran cohorte de anteriores embarazos.
-
-
-El nuevo método de cálculo para la edad gestacional a partir de plano axial transtalámico fue desarrollado a partir del uso de _DeepLearning_. El estudio se realizó a partir de un total de 1394 imágenes de pacientes previas embarazadas y la ayuda de especialistas maternofetales, siendo estas etiquetadas manualmente con la orientación y puntos de referencia cerebrales específicos utilizando un software de computadora. Este fue necesario para que aprendiera a localizar el cerebro en la imagen conocido a día de hoy como _quantusGA_.
-
-
-En la siguiente imagen, podemos ver detalladamente como funciona _quantusGA_:
+The following image shows how quantusGA works:
 
 ![](/media/93952f2f779c2e4b.webp)
 
-Una vez recibida la imagen de ultrasonido del cerebro fetal en formato DICOM como _imput_, en cuestión de días se genera automáticamente un _output_ con la edad gestacional (GA/EG).
+El sistema recibe una imagen de ultrasonido del cerebro fetal en formato DICOM y produce una estimación automática de la edad gestacional, expresada en días.
 
+The original project description reports an implementation in Python. The processing locates and orients the fetal skull, crops the region of interest, and analyses brain texture and size to estimate gestational age.
 
-El programa quantus GA nos permite, en primer lugar, detectar la posición y orientación del cráneo fetal. Seguidamente, a partir de los puntos clave se puede cortar la imagen o rotar esta misma permitiendo visionar la posición deseada. En último lugar, también se puede extraer información sobre la textura y el tamaño del cerebro. Todo esto con la finalidad de generar la EG.
+La evaluación se centró en el segundo y tercer trimestre, no en el segundo y tercer mes. La combinación de IA y biometría obtuvo errores similares o menores que la biometría por sí sola, especialmente en el tercer trimestre. Estos resultados justifican continuar investigando; no implican que cualquier sistema de IA mejore cualquier diagnóstico fetal.
 
+Gestational age informs decisions about delivery and care before and after birth. A more accurate estimate could support clinical teams, especially when an early ultrasound is unavailable. This method aims to complement the available information. Its usefulness and generalisability need evaluation in other settings before broader clinical benefits can be claimed.
 
-El estudio que se realizó posteriormente utilizando python (Python Software Fundation, Wilmington, DE) con el fin de afirmar si la Inteligencia Artificial mejora la predicción de la edad gestacional en el segundo y tercer mes de embarazo concluyó con unos resultados iguales o incluso con menores errores en comparación a los parámetros fetales biométricos utilizados tradicionalmente. Así mismo, con la utilización de la imagen entera y su resolución, el método nos permite los cambios relevantes para la estimación de la EG que a diferencia del ojo humano probablemente asociados al crecimiento y maduración del cerebro.
-
-
-Así pues la IA nos ayuda mayoritariamente a predecir la edad gestacional del bebé contribuyendo a un cuidado óptimo prenatal. Poder acceder a esta es esencial para actuar en múltiples intervenciones perinatales entre las cuales destacan: la inducción del parto, la maduración pulmonar fetal o incluso la reanimación pulmonar. Por otra parte, este método se podría implementar en un programa automatizado aplicable a cualquier máquina de ultrasonidos. Por lo tanto, esto se podría aplicar en numerosas áreas del planeta y tener un mayor impacto en sitios dónde obtener una ecografía en el primer trimestre de embarazo es difícil.
-
-
-Además, puede ofrecer muchas otras ventajas, entre las cuales cabe destacar:
+Entre las posibles líneas de evaluación futura están:
 
 -   Mejor atención a las embarazadas
 -   Pacientes más tranquilas
 -   Reducción de las tasas de mortalidad materno-fetal
 -   Mejor control de cambios en la patología
 
+[Consultar el estudio original](https://pubmed.ncbi.nlm.nih.gov/34403820/)
+
 ## **Bibliografía:**
 
-1.- Xavier P Burgos-Artizzu , David Coronado-Gutiérrez , Brenda Valenzuela-Alcaraz , KilianVellvé , ElisendaEixarch, FatimaCrispi, Elisenda Bonet-Carne, Mar Bennasar, EduardGratacos. **Analysis of maturation features in fetal brain ultrasound via artificial intelligence for the estimation of gestational age.** August 14, 2021. Am J ObstetGynecol MFM.
+Xavier P Burgos-Artizzu, David Coronado-Gutiérrez, Brenda Valenzuela-Alcaraz, Kilian Vellvé, Elisenda Eixarch, Fatima Crispi, Elisenda Bonet-Carne, Mar Bennasar, Eduard Gratacos. Analysis of maturation features in fetal brain ultrasound via artificial intelligence for the estimation of gestational age. Am J Obstet Gynecol MFM. 2021;3(6):100462. Published online 14 August 2021. DOI: 10.1016/j.ajogmf.2021.100462.
 
 ## WRITTEN BY
 

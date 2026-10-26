@@ -1,9 +1,7 @@
 ---
 title: Aplicaciones y Efectos de la IA en la Educación
-description: La IA y la educación, compañeras de pupitre El sector educativo
-  también quiere y debe adaptarse a los nuevos tiempos e implementar las nuevas
-  técnicas que utilizan la inteligencia artificial. Los cambios vertiginosos
-  que…
+description: "Posibilidades y límites de la IA en educación: aprendizaje
+  adaptativo, colaboración, apoyo al profesorado, privacidad y equidad."
 pubDate: 2022-03-28
 author: Info Saturdays
 category: Community

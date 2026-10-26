@@ -12,42 +12,38 @@ kind: page
 
 ## AI 4 Business
 
- **Corporate Training** and top tier **AI Consulting** for organizations that **want to lead** in the current technology revolution
+AI training and consulting for organisations that want to turn an idea into practical skills, prototypes and useful projects.
 
-[CONTACT](https://saturdaysai.com)
+[Contact the team](https://saturdaysai.com/)
 
 ![](/media/815d47c886a1330c.webp)
 
-#### Coding
+### Technology with a purpose
 
-Deep dive on **what you really need** and the technical way to do it
+We start with the problem you need to solve, then identify the data, tools and skills your project requires.
 
-#### Business
+### Business goals
 
-Align **business objectives** with technology capabilities
+We connect your organisation’s goals with what the technology can and cannot do.
 
-#### Value
+### Practical applications
 
-**Integrate AI** in your processes and organization in a seamless way
+We explore how to introduce AI into your processes and evaluate the results before expanding its use.
 
 ![](/media/2aed1d0564003279.webp)
 
-#### Corporate Training
+### Team training
 
--   Best in class **practical training** on AI, Machine Learning and Data Science.
--   **Mentoring** with top notch professionals to help you create a working prototypes for your use cases.
--   Business oriented or technical deep dive, **we have you covered**.
+- Practical training in artificial intelligence, machine learning and data science.
+- Support from practitioners to develop prototypes for your use cases.
+- Business-focused content or deeper technical work, depending on your team’s needs.
 
 ![](/media/9608008a87caf8c0.webp)
 
-#### AI Consulting
+### AI consulting
 
-All you need, from basic to cutting edge AI
+From the foundations to computer vision, language models, generative AI and predictive analytics: we work with your team to define the problem, develop prototypes and assess how to bring them into production.
 
-Whether you’re exploring computer vision, building LLM and **Generative AI** applications, or implementing predictive analytics, we work alongside your team to architect, develop, and deploy production-grade **solutions**.
+The aim is to build useful solutions and share the knowledge needed to maintain them. Each project’s scope, requirements and evaluation are agreed with the organisation.
 
-We don’t just advise, we help you build working prototypes and scalable systems that deliver measurable **business impact**, while transferring critical knowledge to your team throughout the journey.
-
-Check out our **AI** Corporate Training program
-
-[Get in Touch Now](https://saturdaysai.com/)
+[Let’s discuss your project](https://saturdaysai.com/)

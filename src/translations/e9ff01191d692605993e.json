@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "La Paz. Deep Learning. 2021 Existen diversos servicios para viajeros, desde páginas de hoteles hasta ofertas turísticas a unos cuantos clics de distancia, no obstante, el ser humano ha conseguido su información por siglos y…",
-      "en": "La Paz. Deep Learning. 2021 There are various services for travelers, from hotel pages to tourist offers just a few clicks away, however, humans have obtained their information for centuries and...",
-      "es": "La Paz. Deep Learning. 2021 Existen diversos servicios para viajeros, desde páginas de hoteles hasta ofertas turísticas a unos cuantos clics de distancia, no obstante, el ser humano ha conseguido su información por siglos y…",
-      "reviewed": false,
+      "en": "Pangea explores a question-answering assistant for travellers, combining web searches with Spanish and English BERT models.",
+      "es": "Pangea explora un asistente de preguntas y respuestas para viajeros, combinando búsquedas web con modelos BERT en español e inglés.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -22,15 +22,15 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Ana Paola Cespedes Sejas",
-      "en": "Ana Paola Cespedes Sejas",
-      "es": "Ana Paola Cespedes Sejas",
-      "reviewed": false,
+      "en": "Ana Paola Céspedes Sejas",
+      "es": "Ana Paola Céspedes Sejas",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -42,13 +42,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Existen diversos servicios para viajeros, desde páginas de hoteles hasta ofertas turísticas a unos cuantos clics de distancia, no obstante, el ser humano ha conseguido su información por siglos y siglos a través de preguntas y bases de conocimiento, por lo que le es más natural hacer consultas de esa forma, así surge",
-      "en": "There are various services for travelers, from hotel pages to tourist offers just a few clicks away, however, human beings have obtained their information for centuries and centuries through questions and knowledge bases, so it is more natural for them to make queries in that way, this is how it arises.",
-      "es": "Existen diversos servicios para viajeros, desde páginas de hoteles hasta ofertas turísticas a unos cuantos clics de distancia, no obstante, el ser humano ha conseguido su información por siglos y siglos a través de preguntas y bases de conocimiento, por lo que le es más natural hacer consultas de esa forma, así surge",
-      "reviewed": false,
+      "en": "There are many digital services for travellers, but finding a specific answer can take time. That need inspired",
+      "es": "Hay numerosos servicios digitales para viajeros, pero encontrar una respuesta concreta puede llevar tiempo. De esa necesidad nace",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -61,21 +66,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Pangea",
       "en": "Pangea",
       "es": "Pangea",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", como un servicio web de Inteligencia Artificial conversacional con el que el viajero puede interactuar y conseguir las respuestas a sus más inquietantes preguntas.",
-      "en": ", as a conversational Artificial Intelligence web service with which the traveler can interact and get the answers to their most pressing questions.",
-      "es": ", como un servicio web de Inteligencia Artificial conversacional con el que el viajero puede interactuar y conseguir las respuestas a sus más inquietantes preguntas.",
-      "reviewed": false,
+      "en": ", a conversational AI web service designed to answer questions about travel destinations.",
+      "es": ", un servicio web de IA conversacional pensado para responder preguntas sobre destinos turísticos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -91,15 +106,15 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Un",
       "en": "A",
       "es": "Un",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -111,21 +126,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "viajero",
       "en": "traveler",
       "es": "viajero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "prudente nunca se lanza a viajar si no tiene la información más relevante de su destino, en su cabeza se encuentran preguntas que en primera instancia cuestionan su seguridad, por lo que investiga al respecto y logra resolver sus dudas en probablemente muchos minutos, de igual forma si ya se aventuró a viajar y necesita conocer alguna costumbre, plato típico, música o lugares para visitar, son tantas las preguntas y mucho el tiempo invertido en responderlas, de esa forma los viajeros pierden tan importante recurso.",
-      "en": "plans a trip more confidently with the most relevant information about his destination. In his head there are questions that in the first instance question his safety, so he investigates about it and manages to resolve his doubts in probably many minutes. In the same way, if he has already ventured to travel and needs to know some custom, typical dish, music or places to visit, there are so many questions and a lot of time spent answering them, in this way travelers lose such an important resource.",
-      "es": "prudente nunca se lanza a viajar si no tiene la información más relevante de su destino, en su cabeza se encuentran preguntas que en primera instancia cuestionan su seguridad, por lo que investiga al respecto y logra resolver sus dudas en probablemente muchos minutos, de igual forma si ya se aventuró a viajar y necesita conocer alguna costumbre, plato típico, música o lugares para visitar, son tantas las preguntas y mucho el tiempo invertido en responderlas, de esa forma los viajeros pierden tan importante recurso.",
-      "reviewed": false,
+      "en": "may have questions about a destination’s safety, customs, local dishes, music or places to visit. Consulting different sources takes time; the project aims to make that search easier.",
+      "es": "puede tener preguntas sobre la seguridad de su destino, sus costumbres, platos típicos, música o lugares de interés. Consultar distintas fuentes para resolverlas lleva tiempo; el proyecto busca facilitar esa búsqueda.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -141,15 +166,15 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Por lo que al usar textos como datos a analizar en la tarea de respuesta a preguntas se requiere el uso de",
-      "en": "Therefore, when using texts as data to analyze in the question answering task, the use of",
-      "es": "Por lo que al usar textos como datos a analizar en la tarea de respuesta a preguntas se requiere el uso de",
-      "reviewed": false,
+      "en": "To analyse text and answer questions, we use",
+      "es": "Para analizar textos y responder preguntas utilizamos",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -162,13 +187,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Natural Language Processing (NLP)",
-      "en": "Natural Language Processing (NLP)",
-      "es": "Procesamiento del lenguaje natural (PNL)",
-      "reviewed": false,
+      "en": "natural language processing (NLP)",
+      "es": "procesamiento del lenguaje natural (NLP, por sus siglas en inglés)",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -180,13 +210,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "o en español conocido como el procesamiento del lenguaje natural, entiéndase como la rama de la",
-      "en": "or in Spanish known as natural language processing, understood as the branch of",
-      "es": "o en español conocido como el procesamiento del lenguaje natural, entiéndase como la rama de la",
-      "reviewed": false,
+      "en": ", a branch of",
+      "es": ", una rama de la",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -199,13 +234,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Inteligencia artificial (IA)",
       "en": "Artificial intelligence (AI)",
       "es": "Inteligencia artificial (IA)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -217,13 +257,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "que entrena a una computadora para comprender, procesar y generar lenguaje (conversacional).",
       "en": "which trains a computer to understand, process and generate (conversational) language.",
       "es": "que entrena a una computadora para comprender, procesar y generar lenguaje (conversacional).",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -235,13 +280,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Concretamente el problema es el tedioso y tardío acceso a respuestas inmediatas sobre dudas y consultas acerca de un destino turístico, como ser: comida, hospedaje, actividades turísticas, transporte, centros de salud, cultura, música, conflictos políticos, entre otros.",
-      "en": "Specifically, the problem is the tedious and late access to immediate answers to doubts and queries about a tourist destination, such as: food, lodging, tourist activities, transportation, health centers, culture, music, political conflicts, among others.",
-      "es": "Concretamente el problema es el tedioso y tardío acceso a respuestas inmediatas sobre dudas y consultas acerca de un destino turístico, como ser: comida, hospedaje, actividades turísticas, transporte, centros de salud, cultura, música, conflictos políticos, entre otros.",
-      "reviewed": false,
+      "en": "The problem is the time needed to find answers about a destination: food, accommodation, activities, transport, healthcare facilities, culture, music or the political situation, among other topics.",
+      "es": "El problema es el tiempo que se necesita para encontrar respuestas sobre un destino: comida, alojamiento, actividades, transporte, centros de salud, cultura, música o situación política, entre otros temas.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -254,13 +304,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Desarrollar mediante Inteligencia Artificial un servicio web conversacional de pregunta-respuesta para viajeros aplicando NLP mediante la aplicación de un modelo de deep learning.",
       "en": "Develop, using Artificial Intelligence, a conversational question-answer web service for travelers applying NLP through the application of a deep learning model.",
       "es": "Desarrollar mediante Inteligencia Artificial un servicio web conversacional de pregunta-respuesta para viajeros aplicando NLP mediante la aplicación de un modelo de deep learning.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -272,30 +327,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Se presentan las técnicas complementarias a la resolución del problema, ya que todo modelo de Deep Learning requiere ser alimentado por datos.",
       "en": "The techniques complementary to the resolution of the problem are presented, as any Deep Learning model requires data to be fed.",
       "es": "Se presentan las técnicas complementarias a la resolución del problema, ya que todo modelo de Deep Learning requiere ser alimentado por datos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Búsqueda de datos",
       "en": "Data search",
       "es": "Búsqueda de datos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Inteligencia Artificial conversacional",
       "en": "Conversational Artificial Intelligence",
       "es": "La Inteligencia Artificial conversacional",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -307,13 +377,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "se centra en responder preguntas y no sería posible sin cantidades ingentes de información con las cuales interactuar y usarlas como una fuente de conocimiento (contexto), en ese sentido, se realizó la búsqueda de páginas web que contengan las respuestas más coincidentes de acuerdo a la pregunta del usuario viajero; hacerlo de forma manual representaría demasiado trabajo, por lo cual, se decidió usar la biblioteca de Python,",
-      "en": "It focuses on answering questions and it would not be possible without enormous amounts of information with which to interact and use them as a source of knowledge (context), in that sense, a search was carried out for web pages that contain the most matching answers according to the traveling user's question; Doing it manually would represent too much work, so it was decided to use the Python library,",
-      "es": "se centra en responder preguntas y no sería posible sin cantidades ingentes de información con las cuales interactuar y usarlas como una fuente de conocimiento (contexto), en ese sentido, se realizó la búsqueda de páginas web que contengan las respuestas más coincidentes de acuerdo a la pregunta del usuario viajero; hacerlo de forma manual representaría demasiado trabajo, por lo cual, se decidió usar la biblioteca de Python,",
-      "reviewed": false,
+      "en": "answers questions using web text as context. To find pages related to each query, we used the Python library",
+      "es": "responde preguntas utilizando textos web como contexto. Para localizar páginas relacionadas con cada consulta, utilizamos la biblioteca de Python",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -326,21 +401,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Google Search",
       "en": "Google Search",
       "es": "Google Search",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", el cual emplea al",
       "en": ", which employs",
       "es": ", el cual emplea al",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -353,21 +438,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "motor de búsqueda Google",
       "en": "Google search engine",
       "es": "motor de búsqueda Google",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "como fuente de información para brindar las",
       "en": "as a source of information to provide the",
       "es": "como fuente de información para brindar las",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -380,29 +475,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "URLs",
       "en": "URLs",
       "es": "URLs",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "de los sitios webs requeridos.",
       "en": "of the required websites.",
       "es": "de los sitios webs requeridos.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez obtenidas las URLs de los sitios webs que contienen la información requerida, se empleó la técnica del",
-      "en": "Once the URLs of the websites that contain the required information were obtained, the technique of",
-      "es": "Una vez obtenidas las URLs de los sitios webs que contienen la información requerida, se empleó la técnica del",
-      "reviewed": false,
+      "en": "Once we had the URLs, we used",
+      "es": "Una vez obtenidas las URL, aplicamos",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -415,21 +525,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Web Scraping",
       "en": "Web Scraping",
       "es": "Web Scraping",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para obtener el contenido literal de dichos sitios, es decir, los distintos",
       "en": "to obtain the literal content of said sites, that is, the different",
       "es": "para obtener el contenido literal de dichos sitios, es decir, los distintos",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -442,21 +562,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "párrafos y textos",
       "en": "paragraphs and texts",
       "es": "párrafos y textos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "presentes en el sitio. Web Scraping es una técnica cuyo objetivo es recolectar información de la web a través de código. En este caso se usó la biblioteca",
-      "en": "present on the site. Web Scraping is a technique whose objective is to collect information from the web through code. In this case the library was used",
-      "es": "presentes en el sitio. Web Scraping es una técnica cuyo objetivo es recolectar información de la web a través de código. En este caso se usó la biblioteca",
-      "reviewed": false,
+      "en": "on each site. This technique collects web information through code. We used the library",
+      "es": "del sitio. Esta técnica recopila información web mediante código. Para ello utilizamos la biblioteca",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -469,13 +599,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Beautiful Soup",
       "en": "Beautiful Soup",
-      "es": "Hermosa sopa",
-      "reviewed": false,
+      "es": "Beautiful Soup",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -487,38 +622,58 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "disponible en pypi.",
-      "en": "disponible en pypi.",
-      "es": "disponible en pypi.",
-      "reviewed": false,
+      "en": ", available on PyPI.",
+      "es": ", disponible en PyPI.",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Selección y evaluación del modelo",
       "en": "Model selection and evaluation",
       "es": "Selección y evaluación del modelo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Modelo Bert:",
       "en": "Bert model:",
       "es": "Modelo Bert:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "es un codificador bidireccional de transformers, que aprende a interpretar el lenguaje.",
       "en": "It is a bidirectional transformer encoder, which learns to interpret the language.",
       "es": "es un codificador bidireccional de transformers, que aprende a interpretar el lenguaje.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -531,13 +686,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Cuando al modelo Bert se le añade capas adicionales y es entrenado con un propósito o tarea especializada, se obtiene un modelo Bert que resuelve una tarea en específico.",
       "en": "When additional layers are added to the Bert model and it is trained with a specialized purpose or task, a Bert model is obtained that solves a specific task.",
       "es": "Cuando al modelo Bert se le añade capas adicionales y es entrenado con un propósito o tarea especializada, se obtiene un modelo Bert que resuelve una tarea en específico.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -550,13 +710,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En el proyecto se aplicó ya modelos ajustados para la tarea de pregunta y respuestas, que fueron previamente ajustados mediante el dataset de los conjuntos de datos de respuesta a preguntas Stanford(SQuAD).",
-      "en": "In the project, adjusted models were already applied for the question and answer task, which were previously adjusted using the Stanford question answering data sets (SQuAD) dataset.",
-      "es": "En el proyecto se aplicó ya modelos ajustados para la tarea de pregunta y respuestas, que fueron previamente ajustados mediante el dataset de los conjuntos de datos de respuesta a preguntas Stanford(SQuAD).",
-      "reviewed": false,
+      "en": "We used models already fine-tuned for question answering with data from SQuAD, the Stanford Question Answering Dataset.",
+      "es": "Utilizamos modelos ya ajustados para responder preguntas con datos de SQuAD, el conjunto de preguntas y respuestas de Stanford.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -569,13 +734,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Ambos modelos fueron obtenidos y reutilizados de la biblioteca hugging Face Transformers. Dichos modelos reciben",
-      "en": "Both models were obtained and reused from the hugging Face Transformers library. These models receive",
-      "es": "Ambos modelos fueron obtenidos y reutilizados de la biblioteca hugging Face Transformers. Dichos modelos reciben",
-      "reviewed": false,
+      "en": "We obtained both models through Hugging Face Transformers. Each takes",
+      "es": "Obtuvimos ambos modelos a través de Hugging Face Transformers. Cada uno recibe",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -588,34 +758,54 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "una pregunta y un contexto",
       "en": "a question and a context",
       "es": "una pregunta y un contexto",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para procesarlo y analizarlo con el fin de devolver las respuestas que mejor se ajusten a la pregunta.",
       "en": "to process and analyze it in order to return the answers that best fit the question.",
       "es": "para procesarlo y analizarlo con el fin de devolver las respuestas que mejor se ajusten a la pregunta.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La elección del mejor modelo fue dado en base a los resultados:",
       "en": "The choice of the best model was given based on the results:",
       "es": "La elección del mejor modelo fue dado en base a los resultados:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "**Bert en inglés:**bert-large-uncased-whole-word-masking-finetuned-squad",
@@ -629,15 +819,20 @@
       "source": "Bert en español (Beto):",
       "en": "Bert in Spanish (Beto):",
       "es": "Bert en español (Beto):",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "distill-bert-base-spanish-wwm-cased-Finetuned-spa-squad2-es",
-      "en": "distill-bert-base-spanish-wwm-cased-Finetuned-spa-squad2-es",
-      "es": "distill-bert-base-espanol-wwm-cased-Finetuned-spa-squad2-es",
-      "reviewed": false,
+      "en": "distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es",
+      "es": "distill-bert-base-spanish-wwm-cased-finetuned-spa-squad2-es",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -649,13 +844,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Tabla 1. Evaluación de Modelos",
       "en": "Table 1. Model Evaluation",
       "es": "Tabla 1. Evaluación de Modelos",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -668,13 +868,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Se seleccionó y grafico un caso en específico, para demostrar como se comportan ambos modelos a una misma pregunta y cuales son las respuestas textuales que dan cada uno en su respectivo lenguaje, figura 1.",
-      "en": "A specific case was selected and graphed to demonstrate how both models behave to the same question and what are the textual answers that each one gives in their respective language, figure 1.",
-      "es": "Se seleccionó y grafico un caso en específico, para demostrar como se comportan ambos modelos a una misma pregunta y cuales son las respuestas textuales que dan cada uno en su respectivo lenguaje, figura 1.",
-      "reviewed": false,
+      "en": "We selected an example to compare both models’ answers to the same question, asked in their respective languages (Fig. 1).",
+      "es": "Seleccionamos un ejemplo para comparar las respuestas de ambos modelos a la misma pregunta, formulada en su respectivo idioma (Fig. 1).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -687,13 +892,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Figura 1. Gráfico de barras — Representación de respuestas Modelo Bert y Beto a la misma pregunta.",
       "en": "Figure 1. Bar graph — Representation of Bert and Beto Model responses to the same question.",
       "es": "Figura 1. Gráfico de barras — Representación de respuestas Modelo Bert y Beto a la misma pregunta.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -706,13 +916,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Flujo de Trabajo del Sistema",
       "en": "System Workflow",
       "es": "Flujo de Trabajo del Sistema",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -725,13 +940,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "El sistema consta de distintos procedimientos para resolver una determinada pregunta, por lo que el usuario viajero debe partir lanzando una pregunta, posteriormente el sistema realiza una búsqueda con Google Search en relación a tal pregunta y devuelve unas cuantas URLs (máximo 5) con las que el web scraper realiza la tarea de extraer todo el texto (párrafos) del sitio hospedado en la URL para pasarle como contexto al modelo, el modelo utiliza el contexto, la pregunta y lanza una respuesta,",
-      "en": "The system consists of different procedures to solve a certain question, so the traveling user must start by asking a question, subsequently the system performs a search with Google Search in relation to said question and returns a few URLs (maximum 5) with which the web scraper performs the task of extracting all the text (paragraphs) of the site hosted in the URL to pass it as context to the model, the model uses the context, the question and issues an answer,",
-      "es": "El sistema consta de distintos procedimientos para resolver una determinada pregunta, por lo que el usuario viajero debe partir lanzando una pregunta, posteriormente el sistema realiza una búsqueda con Google Search en relación a tal pregunta y devuelve unas cuantas URLs (máximo 5) con las que el web scraper realiza la tarea de extraer todo el texto (párrafos) del sitio hospedado en la URL para pasarle como contexto al modelo, el modelo utiliza el contexto, la pregunta y lanza una respuesta,",
-      "reviewed": false,
+      "en": "The user enters a question, and the system uses Google Search to find up to five related URLs. It then extracts paragraphs from those pages and supplies them to the model as context. The model processes the context and question and returns an answer;",
+      "es": "El usuario introduce una pregunta y el sistema busca con Google Search hasta cinco URL relacionadas. Después extrae los párrafos de esas páginas y los proporciona al modelo como contexto. El modelo procesa ese contexto junto con la pregunta y devuelve una respuesta;",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -744,13 +964,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "se captura la respuesta y la url",
-      "en": "the response and the url are captured",
-      "es": "se captura la respuesta y la url",
-      "reviewed": false,
+      "en": "the answer and source URL are recorded",
+      "es": "se guardan la respuesta y la URL de origen",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -763,13 +988,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ",ambas son representadas en",
-      "en": ",Both are represented in",
-      "es": ",ambas son representadas en",
-      "reviewed": false,
+      "en": ", and both are displayed in",
+      "es": ", y ambas se muestran en",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -781,21 +1011,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "formato de mensaje de chat",
       "en": "chat message format",
       "es": "formato de mensaje de chat",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", figura 2.",
       "en": ", figure 2.",
       "es": ", figura 2.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -807,13 +1047,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Figura 2 . Elaboración propia",
       "en": "Figure 2. Own elaboration",
       "es": "Figura 2 . Elaboración propia",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -826,13 +1071,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Análisis de resultados (Bert vs Beto)",
       "en": "Analysis of results (Bert vs Beto)",
       "es": "Análisis de resultados (Bert vs Beto)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -844,13 +1094,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "devuelve las respuestas y la URLs de donde han sido obtenidas tales respuestas, según la cantidad de pruebas se puede observar que el uso de Beto se adecua más según el porcentaje de aciertos. Y en las gráficas se visualiza como el",
-      "en": "It returns the answers and the URLs from which such answers have been obtained. Depending on the number of tests, it can be seen that the use of Beto is more appropriate depending on the percentage of correct answers. And in the graphs it is visualized as the",
-      "es": "devuelve las respuestas y la URLs de donde han sido obtenidas tales respuestas, según la cantidad de pruebas se puede observar que el uso de Beto se adecua más según el porcentaje de aciertos. Y en las gráficas se visualiza como el",
-      "reviewed": false,
+      "en": "returns answers alongside their source URLs. In our tests, the",
+      "es": "devuelve respuestas junto con las URL de origen. En las pruebas realizadas, el",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -863,21 +1118,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "modelo Beto",
       "en": "model Beto",
       "es": "modelo Beto",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "da respuestas con mayor precisión a la misma pregunta realizada en ambos idiomas de acuerdo al modelo.",
-      "en": "gives more precise answers to the same question asked in both languages according to the model.",
-      "es": "da respuestas con mayor precisión a la misma pregunta realizada en ambos idiomas de acuerdo al modelo.",
-      "reviewed": false,
+      "en": "achieved a higher proportion of correct answers. This comparison applies only to the small sample of questions used.",
+      "es": "obtuvo un mayor porcentaje de respuestas correctas. Esta comparación corresponde únicamente a la pequeña muestra de preguntas utilizada.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -890,13 +1155,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Las conclusiones obtenidas tras el desarrollo y resolución del objetivo general son:",
       "en": "The conclusions obtained after the development and resolution of the general objective are:",
       "es": "Las conclusiones obtenidas tras el desarrollo y resolución del objetivo general son:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -909,13 +1179,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Se obtuvo un 64.7 % de respuestas correctas de un total de 17 preguntas por parte del modelo BERT en español en relación al 30% del modelo BERT en inglés, en ese sentido, el modelo BERT pre-entrenado con mayor precisión en sus respuestas es el español, ya que las preguntas tuvieron a Bolivia como contexto principal y es razonable puesto que no muchos sitios en inglés tienen información actualizada y específica de Bolivia.",
-      "en": "64.7% correct answers were obtained from a total of 17 questions by the BERT model in Spanish in relation to 30% of the BERT model in English, in that sense, the pre-trained BERT model with the greatest precision in its answers is Spanish, since the questions had Bolivia as the main context and it is reasonable since not many sites in English have updated and specific information about Bolivia.",
-      "es": "Se obtuvo un 64.7 % de respuestas correctas de un total de 17 preguntas por parte del modelo BERT en español en relación al 30% del modelo BERT en inglés, en ese sentido, el modelo BERT pre-entrenado con mayor precisión en sus respuestas es el español, ya que las preguntas tuvieron a Bolivia como contexto principal y es razonable puesto que no muchos sitios en inglés tienen información actualizada y específica de Bolivia.",
-      "reviewed": false,
+      "en": "In a test of 17 questions, the Spanish model returned 64.7% correct answers, compared with approximately 30% for the English model. The questions concerned Bolivia. The team believes the availability of local information in Spanish may have contributed to the difference; the test does not establish that one model is generally better.",
+      "es": "En una prueba de 17 preguntas, el modelo en español obtuvo un 64,7 % de respuestas correctas, frente a aproximadamente un 30 % del modelo en inglés. Las preguntas trataban sobre Bolivia. El equipo considera que la disponibilidad de información local en español pudo influir en la diferencia; la prueba no permite concluir que un modelo sea mejor en general.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -928,13 +1203,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La técnica del Web Scraping aportó correctamente el contenido web necesario para que el modelo BERT pudiese responder las preguntas adecuadamente.",
       "en": "The Web Scraping technique correctly provided the necessary web content so that the BERT model could answer the questions adequately.",
       "es": "La técnica del Web Scraping aportó correctamente el contenido web necesario para que el modelo BERT pudiese responder las preguntas adecuadamente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -947,22 +1227,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Dado que el servicio (Pangea) se desplegó por un momento se logró registrar el uso de 2.5 GB de memoria RAM con una demora de aproximadamente 30 segundos mientras el modelo responde a la pregunta.",
       "en": "Since the service (Pangea) was deployed for a moment, the use of 2.5 GB of RAM was recorded with a delay of approximately 30 seconds while the model answers the question.",
       "es": "Dado que el servicio (Pangea) se desplegó por un momento se logró registrar el uso de 2.5 GB de memoria RAM con una demora de aproximadamente 30 segundos mientras el modelo responde a la pregunta.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El Servicio Web que se ofreció por unos instantes logró capturar la curiosidad y asombro de los usuarios por su diseño minimalista e interesante forma de interactuar.",
       "en": "The Web Service that was offered for a few moments managed to capture the curiosity and amazement of users due to its minimalist design and interesting way of interacting.",
       "es": "El Servicio Web que se ofreció por unos instantes logró capturar la curiosidad y asombro de los usuarios por su diseño minimalista e interesante forma de interactuar.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -975,13 +1265,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Por otra parte las recomendaciones al respecto son:",
       "en": "On the other hand, the recommendations in this regard are:",
       "es": "Por otra parte las recomendaciones al respecto son:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -994,13 +1289,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "El modelo BERT empleado fue afinado (fine-tuning ) con el dataset SQUAD el cual tiene un formato pregunta-respuesta de dominio parcialmente general, por lo que se tiene mayores expectativas con un afinado específico para el área de turismo.",
       "en": "The BERT model used was fine-tuned with the SQUAD dataset, which has a partially general domain question-answer format, so there are greater expectations with a specific tuning for the tourism area.",
       "es": "El modelo BERT empleado fue afinado (fine-tuning ) con el dataset SQUAD el cual tiene un formato pregunta-respuesta de dominio parcialmente general, por lo que se tiene mayores expectativas con un afinado específico para el área de turismo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1013,13 +1313,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La información recolectada por el servicio proviene de Google que es un motor de búsqueda, el sistema funcionaría mucho mejor y tendría una mayor calidad en sus respuestas si el motor de búsqueda y los datos que en él residen fueran recolectados cautelosa y selectivamente.",
-      "en": "The information collected by the service comes from Google, which is a search engine, the system would work much better and would have a higher quality in its responses if the search engine and the data that reside in it were collected cautiously and selectively.",
-      "es": "La información recolectada por el servicio proviene de Google que es un motor de búsqueda, el sistema funcionaría mucho mejor y tendría una mayor calidad en sus respuestas si el motor de búsqueda y los datos que en él residen fueran recolectados cautelosa y selectivamente.",
-      "reviewed": false,
+      "en": "More careful source selection could improve answer quality. Google locates pages, but does not guarantee that their content is accurate or up to date.",
+      "es": "Una selección más cuidadosa de las fuentes podría mejorar la calidad de las respuestas. Google localiza páginas, pero no garantiza que su contenido sea correcto o esté actualizado.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1032,13 +1337,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Como Pangea se centra en el servicio para viajeros y turistas, es recomendable incrementar distintos modelos BERT en varios lenguajes.",
-      "en": "As Pangea focuses on service for travelers and tourists, it is advisable to increase different BERT models in various languages.",
-      "es": "Como Pangea se centra en el servicio para viajeros y turistas, es recomendable incrementar distintos modelos BERT en varios lenguajes.",
-      "reviewed": false,
+      "en": "Explore additional models to support other languages.",
+      "es": "Explorar modelos adicionales para responder en otros idiomas.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1051,37 +1361,57 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Autores del proyecto",
       "en": "Project authors",
       "es": "Autores del proyecto",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ana Paola Céspedes Sejas",
       "en": "Ana Paola Céspedes Sejas",
       "es": "Ana Paola Céspedes Sejas",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mauricio Serginho Matias Conde",
       "en": "Mauricio Serginho Matias Conde",
       "es": "Mauricio Serginho Matias Conde",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "«Equipo ElementAxiom»",
       "en": "«ElementAxiom Team»",
       "es": "«Equipo ElementAxiom»",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1093,29 +1423,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Google search,",
       "en": "Google search,",
       "es": "Google search,",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Beautifulsoup,",
-      "en": "Beautifulsoup,",
-      "es": "Hermosa sopa,",
-      "reviewed": false,
+      "en": "Beautiful Soup,",
+      "es": "Beautiful Soup,",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Modelo Bert en español,",
       "en": "Bert model in Spanish,",
       "es": "Modelo Bert en español,",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1127,31 +1472,51 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Modelo Bert en inglés,",
       "en": "Bert model in English,",
       "es": "Modelo Bert en inglés,",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Saturdays.AIFollow",
-      "en": "Saturdays.AIFollow",
-      "es": "Saturdays.AIFollow",
-      "reviewed": false,
+      "en": "Saturdays.AI",
+      "es": "Saturdays.AI",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Bert",
       "en": "Bert",
       "es": "Bert",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Bert en inglés:",

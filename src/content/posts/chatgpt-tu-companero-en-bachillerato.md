@@ -1,8 +1,8 @@
 ---
 title: "ChatGPT: Tu Compañero en Bachillerato"
-description: ¿Sabías que una herramienta como ChatGPT puede facilitarte la vida
-  académica en el bachillerato? Desde crear ejercicios personalizados y resolver
-  problemas paso a paso, hasta ayudarte con ensayos, idiomas y planificación de…
+description: "Ideas de un estudiante para usar ChatGPT en Bachillerato:
+  practicar ejercicios, revisar textos, aprender idiomas y organizar el estudio
+  con criterio."
 pubDate: 2024-12-16
 author: Alan
 category: Community

@@ -6,14 +6,24 @@
       "source": "Predicción de fallas futuras en motores de turboventiladores con Machine Learning",
       "en": "Predicting future failures in turbofan engines with Machine Learning",
       "es": "Predicción de fallas futuras en motores de turboventiladores con Machine Learning",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "6 min de lectura",
       "en": "6 min read",
       "es": "6 min de lectura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Paz. 2021 Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a…",
@@ -29,300 +39,510 @@
     },
     {
       "source": "Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a nivel industrial, como es el mantenimiento correctivo (debido a sus elevados costes tanto de reparación como de producción). Por otra parte el mantenimiento preventivo está planificado por medio de una agenda para realizar un paro programado, donde no interesa si el equipo aún puede trabajar o si sus piezas siguen bien; se realiza el mantenimiento porque así fue programado.",
-      "en": "We apply Machine Learning (a type of recurrent neural network (RNN) called LSTM (Long short-term memory)) to predict motor failures and thus help reduce one of the biggest problems at an industrial level, which is corrective maintenance (due to its high costs of both repair and production). On the other hand, preventive maintenance is planned through an agenda to carry out a scheduled stoppage, where it does not matter if the equipment can still work or if its parts are still good; maintenance is carried out because it was scheduled that way.",
-      "es": "Aplicamos Machine Learning (un tipo de red neuronal recurrente (RNN) llamado LSTM (Long short-term memory)) para realizar una predicción de fallas en motores y ayudar así a reducir uno de los mayores problemas a nivel industrial, como es el mantenimiento correctivo (debido a sus elevados costes tanto de reparación como de producción). Por otra parte el mantenimiento preventivo está planificado por medio de una agenda para realizar un paro programado, donde no interesa si el equipo aún puede trabajar o si sus piezas siguen bien; se realiza el mantenimiento porque así fue programado.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used an LSTM (Long Short-Term Memory) recurrent neural network to explore engine failure prediction. The aim is to support predictive maintenance and reduce unplanned downtime, repair costs and lost production. Corrective maintenance responds to a failure, while preventive maintenance follows a schedule even if the equipment is still working.",
+      "es": "Aplicamos una red neuronal recurrente LSTM (Long Short-Term Memory) para explorar la predicción de fallas en motores. El objetivo es apoyar el mantenimiento predictivo y reducir paradas imprevistas, que generan costes de reparación y pérdidas de producción. A diferencia del mantenimiento correctivo, que responde a una avería, el preventivo sigue un calendario aunque el equipo todavía funcione.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Es por ello que, con el pasar de los años la tecnología permite que podamos invertir en nuevas soluciones que nos permita saber cuándo fallará un equipo, esto es llamado",
-      "en": "That is why, as the years go by, technology allows us to invest in new solutions that allow us to know when a piece of equipment will fail, this is called",
-      "es": "Es por ello que, con el pasar de los años la tecnología permite que podamos invertir en nuevas soluciones que nos permita saber cuándo fallará un equipo, esto es llamado",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Advances in technology make it possible to explore ways of anticipating failures. This approach is known as",
+      "es": "Los avances tecnológicos permiten estudiar nuevas formas de anticipar fallos. Este enfoque se conoce como",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "mantenimiento predictivo (PdM)",
       "en": "predictive maintenance (PdM)",
       "es": "mantenimiento predictivo (PdM)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Que actualmente, por medio de diferentes sensores podemos tener un dataset completo de muchas variables, como ser: vibración, temperatura, análisis de aceites o grasas, etc.",
-      "en": ". Currently, through different sensors we can have a complete dataset of many variables, such as: vibration, temperature, oil or grease analysis, etc.",
-      "es": ". Que actualmente, por medio de diferentes sensores podemos tener un dataset completo de muchas variables, como ser: vibración, temperatura, análisis de aceites o grasas, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ". Sensors provide vibration, temperature and other measurements, while oil or grease analysis offers further information about equipment condition.",
+      "es": ". Los sensores pueden aportar datos de vibración, temperatura y otras variables; los análisis de aceites o grasas ofrecen información adicional sobre el estado de los equipos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 1. Diferencia de ganancia por producción entre el mantenimiento preventivo tradicional y el mantenimiento predictivo, donde solamente se detiene la producción basado en condiciones.",
       "en": "Fig. 1. Difference in production profit between traditional preventive maintenance and predictive maintenance, where only production is stopped based on conditions.",
       "es": "Fig. 1. Diferencia de ganancia por producción entre el mantenimiento preventivo tradicional y el mantenimiento predictivo, donde solamente se detiene la producción basado en condiciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
-    },
-    {
-      "source": "El problema es el tiempo y los recursos económicos invertidos para poder solventar una falla de mantenimiento correctivo en el menor tiempo posible. A la vez que un mantenimiento preventivo podría optimizarse al hacerlo en base a condiciones de los equipos. Ambos ocupan tiempo en su mantenimiento y también en la producción del producto.",
-      "en": "The problem is the time and financial resources invested to be able to solve a corrective maintenance failure in the shortest time possible. At the same time, preventive maintenance could be optimized by doing it based on equipment conditions. Both take time in their maintenance and also in the production of the product.",
-      "es": "El problema es el tiempo y los recursos económicos invertidos para poder solventar una falla de mantenimiento correctivo en el menor tiempo posible. A la vez que un mantenimiento preventivo podría optimizarse al hacerlo en base a condiciones de los equipos. Ambos ocupan tiempo en su mantenimiento y también en la producción del producto.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "El problema es el tiempo y los recursos económicos invertidos para poder solventar una falla de mantenimiento correctivo en el menor tiempo posible. A la vez que un mantenimiento preventivo podría optimizarse al hacerlo en base a condiciones de los equipos. Ambos ocupan tiempo en su mantenimiento y también en la producción del producto.",
+      "en": "We want to reduce the time and resources needed to respond to failures and explore whether preventive interventions can better reflect equipment condition. Both affect machine availability and production continuity.",
+      "es": "Queremos reducir el tiempo y los recursos que exige responder a una avería, y estudiar si las intervenciones preventivas pueden ajustarse mejor al estado del equipo. Ambos tipos de mantenimiento influyen en la disponibilidad de la maquinaria y en la continuidad de la producción.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Los datasets utilizados, son de la degradación de motores de turbo-ventiladores de la NASA generados por C-MAPSS, lo cual es aplicable a cualquier otra máquina rotativa, como ser: motores de transportes industriales, bombas hidraulicas, etc.",
-      "en": "The datasets used are from the degradation of NASA turbo-fan engines generated by C-MAPSS, which is applicable to any other rotating machine, such as: industrial transport engines, hydraulic pumps, etc.",
-      "es": "Los datasets utilizados, son de la degradación de motores de turbo-ventiladores de la NASA generados por C-MAPSS, lo cual es aplicable a cualquier otra máquina rotativa, como ser: motores de transportes industriales, bombas hidraulicas, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used NASA C-MAPSS simulated turbofan degradation data. Its records represent operating cycles, not calendar days. Similar approaches could be explored for other rotating machines, such as motors or hydraulic pumps, but would require equipment-specific data and validation.",
+      "es": "Utilizamos datos simulados de degradación de turboventiladores generados con C-MAPSS, de la NASA. Sus registros representan ciclos operativos, no días naturales. El enfoque podría investigarse en otras máquinas rotativas, como motores o bombas hidráulicas, pero requeriría datos y validación específicos para cada equipo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 2. Imagen del turboventilador simulado por C-MAPSS.",
       "en": "Fig. 2. Image of the turbofan simulated by C-MAPSS.",
       "es": "Fig. 2. Imagen del turboventilador simulado por C-MAPSS.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tabla 1. Detalle de las columnas de los datasets de prueba y entrenamiento.",
       "en": "Table 1. Detail of the columns of the test and training datasets.",
       "es": "Tabla 1. Detalle de las columnas de los datasets de prueba y entrenamiento.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "SOLUCIÓN PROPUESTA",
       "en": "PROPOSED SOLUTION",
       "es": "SOLUCIÓN PROPUESTA",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por tal motivo el proyecto ayudará a estimar el tiempo en el cual unos turboventiladores llegarán a fallar. Dando el tiempo suficiente para poder programar una parada de mantenimiento y buscar los repuestos necesarios al mejor precio.",
-      "en": "For this reason, the project will help estimate the time in which turbofans will fail. Giving enough time to schedule a maintenance stop and search for the necessary spare parts at the best price.",
-      "es": "Por tal motivo el proyecto ayudará a estimar el tiempo en el cual unos turboventiladores llegarán a fallar. Dando el tiempo suficiente para poder programar una parada de mantenimiento y buscar los repuestos necesarios al mejor precio.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The project explores failure detection within an operating horizon, aiming to support earlier planning of maintenance stops and spare-part purchases.",
+      "es": "El proyecto explora la detección de fallos dentro de un horizonte de funcionamiento. El objetivo es apoyar la planificación de paradas y la compra de repuestos con más antelación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "SELECCIÓN DEL MODELO",
       "en": "MODEL SELECTION",
       "es": "SELECCIÓN DEL MODELO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la detección de fallas en motores veremos los siguientes modelos de Machine Learning:",
       "en": "To detect motor failures we will see the following Machine Learning models:",
       "es": "Para la detección de fallas en motores veremos los siguientes modelos de Machine Learning:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RNN",
       "en": "RNN",
       "es": "RNN",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Son un tipo de red neuronal recurrente (RNN) y estas tienen conexiones recurrentes entre estados ocultos, con un retraso de tiempo. Idealmente, las RNN son capaces de descubrir correlaciones temporales entre los eventos secuenciales que están muy lejos unos de otros",
-      "en": "They are a type of recurrent neural network (RNN) and these have recurrent connections between hidden states, with a time delay. Ideally, RNNs are able to discover temporal correlations between sequential events that are very far from each other.",
-      "es": "Son un tipo de red neuronal recurrente (RNN) y estas tienen conexiones recurrentes entre estados ocultos, con un retraso de tiempo. Idealmente, las RNN son capaces de descubrir correlaciones temporales entre los eventos secuenciales que están muy lejos unos de otros",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Recurrent neural networks (RNNs) process sequences while maintaining a state that incorporates information from earlier steps. This allows them to model temporal relationships, although conventional RNNs can struggle with long-range dependencies.",
+      "es": "Las redes neuronales recurrentes (RNN) procesan secuencias manteniendo un estado que incorpora información de pasos anteriores. Esto permite modelar relaciones temporales, aunque las RNN convencionales pueden tener dificultades con dependencias largas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 3. Arquitectura de una Red neuronal recurrente (RNN)",
       "en": "Fig. 3. Architecture of a Recurrent Neural Network (RNN)",
       "es": "Fig. 3. Arquitectura de una Red neuronal recurrente (RNN)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fig. 4. Arquitectura de una Long Short-Term Memory (LSTM)",
       "en": "Fig. 4. Architecture of a Long Short-Term Memory (LSTM)",
       "es": "Fig. 4. Arquitectura de una Long Short-Term Memory (LSTM)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sin embargo, en la práctica, es difícil entrenar RNN debido al Vanishing Gradient y los problemas de Exploding Gradient. Por lo que las RNN se enfrentan a dificultades para manejar dependencias en secuencias de largo plazo. Por lo que, el modelo basado en RNN más efectivo se llama LSTM. De manera resumida, su estructura consiste en celdas de memoria. La cual su principal función es la de almacenar un valor y determinar el tiempo que debe almacenarse. Además, estas celdas seleccionan qué entradas se almacenan y también deciden si estas serán recordadas, eliminadas o si serán enviadas como salida de una red.",
-      "en": "However, in practice, it is difficult to train RNN due to Vanishing Gradient and Exploding Gradient problems. So RNNs face difficulties in handling dependencies in long-term sequences. So, the most effective RNN-based model is called LSTM. Briefly, its structure consists of memory cells. Which its main function is to store a value and determine the time it should be stored. Additionally, these cells select which entries are stored and also decide whether they will be remembered, deleted, or output to a network.",
-      "es": "Sin embargo, en la práctica, es difícil entrenar RNN debido al Vanishing Gradient y los problemas de Exploding Gradient. Por lo que las RNN se enfrentan a dificultades para manejar dependencias en secuencias de largo plazo. Por lo que, el modelo basado en RNN más efectivo se llama LSTM. De manera resumida, su estructura consiste en celdas de memoria. La cual su principal función es la de almacenar un valor y determinar el tiempo que debe almacenarse. Además, estas celdas seleccionan qué entradas se almacenan y también deciden si estas serán recordadas, eliminadas o si serán enviadas como salida de una red.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "RNN training can be affected by vanishing or exploding gradients. LSTM networks are a variant designed to handle longer dependencies. Their memory cells and gates regulate which information to retain, update or pass on; they are not automatically the best model for every task.",
+      "es": "El entrenamiento de una RNN puede verse afectado por gradientes que se desvanecen o crecen demasiado. Las redes LSTM son una variante diseñada para manejar mejor dependencias largas. Sus celdas de memoria y compuertas regulan qué información conservar, actualizar o transmitir; no son automáticamente el mejor modelo para cualquier problema.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 5. Programación de la RNN con LSTM",
       "en": "Fig. 5. RNN programming with LSTM",
       "es": "Fig. 5. Programación de la RNN con LSTM",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La red tiene dos capas de LSTM, la primera de 100 unidades y la segunda de 50 unidades. A la salida de cada una se tiene un DropOut para evitar el overfitting, y finalmente se tiene la Dense, que es activada por una sigmoid, que nos da la probabilidad final.",
-      "en": "The network has two layers of LSTM, the first with 100 units and the second with 50 units. At the output of each one there is a DropOut to avoid overfitting, and finally there is the Dense, which is activated by a sigmoid, which gives us the final probability.",
-      "es": "La red tiene dos capas de LSTM, la primera de 100 unidades y la segunda de 50 unidades. A la salida de cada una se tiene un DropOut para evitar el overfitting, y finalmente se tiene la Dense, que es activada por una sigmoid, que nos da la probabilidad final.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The network has two LSTM layers with 100 and 50 units respectively. Each is followed by dropout to reduce overfitting. A final dense layer with sigmoid activation produces a score between 0 and 1; interpreting it as a reliable probability requires calibration assessment.",
+      "es": "La red tiene dos capas LSTM, con 100 y 50 unidades respectivamente. Después de cada una se aplica dropout para reducir el sobreajuste. Una capa densa final con activación sigmoide produce una puntuación entre 0 y 1; interpretarla como probabilidad fiable exige evaluar su calibración.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "PCA",
       "en": "PCA",
       "es": "PCA",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El análisis de componentes principales (PCA) es uno de los algoritmos de machine learning no supervisados más utilizados. Para la reducción de dimensiones y el pre procesamiento de datos.",
-      "en": "Principal component analysis (PCA) is one of the most widely used unsupervised machine learning algorithms. For dimension reduction and data pre-processing.",
-      "es": "El análisis de componentes principales (PCA) es uno de los algoritmos de machine learning no supervisados más utilizados. Para la reducción de dimensiones y el pre procesamiento de datos.",
-      "reviewed": false
+      "en": "Principal component analysis (PCA) is an unsupervised technique for reducing dimensionality and preparing data for the model.",
+      "es": "El análisis de componentes principales (PCA) es una técnica no supervisada que permite reducir la dimensionalidad y preparar los datos para el modelo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 6. PCA aplicado a tres dimensiones para poder graficarlo.",
       "en": "Fig. 6. PCA applied to three dimensions to be able to graph it.",
       "es": "Fig. 6. PCA aplicado a tres dimensiones para poder graficarlo.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fig. 7. Datos del dataset completo, con los 21 sensores, y las 3 configuraciones de los usuarios.",
-      "en": "Fig. 7. Data from the complete dataset, with the 21 sensors, and the 3 user configurations.",
-      "es": "Fig. 7. Datos del dataset completo, con los 21 sensores, y las 3 configuraciones de los usuarios.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Fig. 7. Full dataset: 21 sensors and 3 operating settings.",
+      "es": "Fig. 7. Datos completos: 21 sensores y 3 parámetros de funcionamiento.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 7. Datos del dataset con PCA aplicado. Se reducen a 8 componentes principales.",
-      "en": "Fig. 7. Data from the dataset with PCA applied. They are reduced to 8 main components.",
+      "en": "Fig. 7. Data reduced to eight principal components using PCA.",
       "es": "Fig. 7. Datos del dataset con PCA aplicado. Se reducen a 8 componentes principales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "MÉTRICAS",
       "en": "METRICS",
       "es": "MÉTRICAS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A continuación se observarán las métricas analizadas. Donde podemos observar que el accuracy es del 95.11%, y que las F1-Score son muy buenas, la que menor valor tiene es la macro. Además que comparando los datos predecidos con los de prueba, tenemos un accuracy del 97%.",
-      "en": "The analyzed metrics will be seen below. Where we can see that the accuracy is 95.11%, and that the F1-Score are very good, the one that has the least value is the macro. Furthermore, comparing the predicted data with the test data, we have an accuracy of 97%.",
-      "es": "A continuación se observarán las métricas analizadas. Donde podemos observar que el accuracy es del 95.11%, y que las F1-Score son muy buenas, la que menor valor tiene es la macro. Además que comparando los datos predecidos con los de prueba, tenemos un accuracy del 97%.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The recorded tests report 95.11% accuracy and several F1 measures, with the macro average being the lowest. A separate comparison with test data reports 97%. These results should not be combined into a single performance figure without identifying the data splits and evaluation conditions.",
+      "es": "En las pruebas recogidas se reporta una exactitud del 95,11 % y varias medidas F1; la media macro es la menor. También aparece un 97 % al comparar predicciones con datos de prueba. Son resultados de las evaluaciones descritas y no deben combinarse en una única cifra de rendimiento sin identificar sus particiones y condiciones.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 8. Métricas calculadas: Accuracy Score, F1-Score Macro, F1-Score Micro, F1-Score Weighted.",
       "en": "Fig. 8. Calculated metrics: Accuracy Score, F1-Score Macro, F1-Score Micro, F1-Score Weighted.",
       "es": "Fig. 8. Métricas calculadas: Accuracy Score, F1-Score Macro, F1-Score Micro, F1-Score Weighted.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los resultados que analizamos son la matriz de confusión, que nos muestra que su accuracy es del 92.77%, y por otra parte la ROC Curve, donde podemos observar un buen umbral de discriminación del modelo.",
-      "en": "The results we analyze are the confusion matrix, which shows us that its accuracy is 92.77%, and on the other hand the ROC Curve, where we can observe a good discrimination threshold of the model.",
-      "es": "Los resultados que analizamos son la matriz de confusión, que nos muestra que su accuracy es del 92.77%, y por otra parte la ROC Curve, donde podemos observar un buen umbral de discriminación del modelo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The displayed confusion matrix corresponds to 92.77% accuracy. The ROC curve illustrates the trade-off between true and false positives across thresholds; it does not by itself establish a safe operating threshold.",
+      "es": "La matriz de confusión mostrada corresponde a una exactitud del 92,77 %. La curva ROC permite examinar el equilibrio entre verdaderos y falsos positivos para distintos umbrales; por sí sola no establece un umbral operativo seguro.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 9. Matriz de Confusión",
       "en": "Fig. 9. Confusion Matrix",
       "es": "Fig. 9. Matriz de Confusión",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fig. 10. ROC CURVE",
       "en": "Fig. 10. ROC CURVE",
       "es": "Fig. 10. ROC CURVE",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RESULTADO",
       "en": "RESULT",
       "es": "RESULTADO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por ende, podemos predecir la probabilidad con la que llegaría a fallar el motor del turbo ventilador en 30 días. Escogiendo el ID de la máquina, tendríamos el siguiente resultado; donde podemos ver que la probabilidad en la que el",
-      "en": "Therefore, we can predict the probability with which the turbo fan motor would fail in 30 days. Choosing the machine ID, we would have the following result; where we can see that the probability in which the",
-      "es": "Por ende, podemos predecir la probabilidad con la que llegaría a fallar el motor del turbo ventilador en 30 días. Escogiendo el ID de la máquina, tendríamos el siguiente resultado; donde podemos ver que la probabilidad en la que el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The prototype produces a failure estimate over a 30-cycle horizon. The original interface labels this “30 days”, but C-MAPSS measures operating cycles. Selecting an engine identifier gives, in this example, a score for",
+      "es": "El prototipo produce una estimación de fallo dentro de un horizonte de 30 ciclos. La interfaz original lo presenta como «30 días», pero el conjunto C-MAPSS mide ciclos operativos. Al seleccionar el identificador del motor, en el ejemplo se muestra para el",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Motor 16 falle, es del 1.8%,",
-      "en": "Engine 16 fails, it is 1.8%,",
-      "es": "Motor 16 falle, es del 1.8%,",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "engine 16 of 1.8%.",
+      "es": "motor 16 un valor del 1,8 %.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "por lo que podemos seguir usando este motor de manera tranquila.",
-      "en": "so we can continue using this engine in a calm manner.",
-      "es": "por lo que podemos seguir usando este motor de manera tranquila.",
-      "reviewed": false
+      "en": "This output does not establish that the engine is safe or replace inspections and maintenance criteria.",
+      "es": "Esta salida no garantiza que el motor sea seguro ni sustituye las inspecciones y los criterios de mantenimiento.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Lo ideal es que este análisis se lo haga de manera periódica, al ser implementado. Debido a que da un buen sondeo del estado de las máquinas a los supervisores de mantenimiento para ir planificando lo más crítico en la siguiente parada.",
-      "en": "Ideally, this analysis should be done periodically, when implemented. Because it gives maintenance supervisors a good survey of the state of the machines to plan the most critical things for the next stop.",
-      "es": "Lo ideal es que este análisis se lo haga de manera periódica, al ser implementado. Debido a que da un buen sondeo del estado de las máquinas a los supervisores de mantenimiento para ir planificando lo más crítico en la siguiente parada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "In a potential application, repeating the analysis periodically could help maintenance teams prioritise inspections. Operational decisions would require validation and technical oversight.",
+      "es": "En una posible aplicación, repetir el análisis periódicamente podría ayudar al equipo de mantenimiento a priorizar revisiones. Las decisiones operativas requerirían validación y supervisión técnica.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fig. 11. Pantalla final, donde el programa nos dice la probabilidad que tiene el motor seleccionado de fallar dentro de 30 días.",
-      "en": "Fig. 11. Final screen, where the program tells us the probability that the selected motor has of failing within 30 days.",
-      "es": "Fig. 11. Pantalla final, donde el programa nos dice la probabilidad que tiene el motor seleccionado de fallar dentro de 30 días.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Fig. 11. Prototype output. The original “30 days” label needs qualification: the data are expressed in operating cycles.",
+      "es": "Fig. 11. Salida del prototipo. La etiqueta original «30 días» debe interpretarse con cautela: los datos utilizados están expresados en ciclos operativos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CONCLUSIÓN",
       "en": "CONCLUSION",
       "es": "CONCLUSIÓN",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por medio de esta aplicación de Machine Learning podemos determinar el tiempo de fallas en motores rotativos, gracias al análisis de datos de dicho equipo. Por ende, se tiene el tiempo suficiente para comprar repuestos y planificar un mantenimiento programado, mitigando los costes de mantenimiento de la empresa.",
-      "en": "Through this Machine Learning application we can determine the failure time in rotary motors, thanks to the data analysis of said equipment. Therefore, there is enough time to purchase spare parts and plan scheduled maintenance, mitigating the company's maintenance costs.",
-      "es": "Por medio de esta aplicación de Machine Learning podemos determinar el tiempo de fallas en motores rotativos, gracias al análisis de datos de dicho equipo. Por ende, se tiene el tiempo suficiente para comprar repuestos y planificar un mantenimiento programado, mitigando los costes de mantenimiento de la empresa.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "This exercise shows how degradation data can be analysed to explore failure prediction. The practical goal would be to anticipate spare-parts needs and plan interventions, but simulated results alone do not demonstrate that benefit in a real plant.",
+      "es": "Este ejercicio muestra cómo analizar datos de degradación para explorar la predicción de fallas. El objetivo práctico sería anticipar la compra de repuestos y planificar intervenciones, pero los resultados simulados no demuestran por sí solos ese beneficio en una planta real.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La precisión del modelo implementado es del 95%, por lo que llega a ser fiable a la hora de analizar las máquinas. Este programa puede ser implementado en multiples plantas industriales, y por medio de Internet Of Things, podemos ir recabando información de todos los sensores necesarios, los cuales serán registrados en la nube para su posterior análisis.",
-      "en": "The accuracy of the implemented model is 95%, making it reliable when analyzing the machines. This program can be implemented in multiple industrial plants, and through the Internet Of Things, we can collect information from all the necessary sensors, which will be registered in the cloud for subsequent analysis.",
-      "es": "La precisión del modelo implementado es del 95%, por lo que llega a ser fiable a la hora de analizar las máquinas. Este programa puede ser implementado en multiples plantas industriales, y por medio de Internet Of Things, podemos ir recabando información de todos los sensores necesarios, los cuales serán registrados en la nube para su posterior análisis.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The result of around 95% comes from one evaluation on simulated data. Before industrial use, the model would need validation on real equipment, assessment of missed failures and calibration of its outputs. IoT-connected sensors could supply data for that work.",
+      "es": "El resultado cercano al 95 % corresponde a una de las evaluaciones del modelo sobre datos simulados. Antes de usarlo en una planta industrial sería necesario validarlo con los equipos reales, estudiar los falsos negativos y calibrar sus salidas. Los sensores conectados mediante IoT podrían aportar los datos necesarios para ese trabajo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Implementando este tipo de tecnología también llega a repercutir en el area medio ambiental, ya que se cambiarían menos repuestos industrial o maximizar el uso de aceites o grasas de acuerdo a su degradación; se traduce en menos basura industrial para el medio ambiente.",
-      "en": "Implementing this type of technology also has an impact on the environmental area, since fewer industrial spare parts would be changed or the use of oils or greases would be maximized according to their degradation; translates into less industrial waste for the environment.",
-      "es": "Implementando este tipo de tecnología también llega a repercutir en el area medio ambiental, ya que se cambiarían menos repuestos industrial o maximizar el uso de aceites o grasas de acuerdo a su degradación; se traduce en menos basura industrial para el medio ambiente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Maintenance that better reflects equipment condition could reduce unnecessary replacements and make better use of oils and greases. Any reduction in industrial waste would need to be measured in a real deployment.",
+      "es": "Un mantenimiento mejor ajustado al estado de los equipos podría reducir sustituciones innecesarias y aprovechar mejor aceites y grasas. La posible reducción de residuos industriales tendría que medirse en una implantación real.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CÓDIGO",
       "en": "CODE",
       "es": "CÓDIGO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "BIBLIOGRAFÍA",
       "en": "BIBLIOGRAPHY",
       "es": "BIBLIOGRAFÍA",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "[1] D. Bruneo and F. De Vita, “On the use of LSTM networks for predictive maintenance in smart industries,” in Proceedings — 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019, 2019, pp. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
       "en": "[1] D. Bruneo and F. De Vita, “On the use of LSTM networks for predictive maintenance in smart industries,” in Proceedings — 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019, 2019, pp. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
       "es": "[1] D. Bruneo y F. De Vita, “Sobre el uso de redes LSTM para mantenimiento predictivo en industrias inteligentes”, en Actas — Conferencia internacional IEEE sobre computación inteligente de 2019, SMARTCOMP 2019, 2019, págs. 241–248, doi: 10.1109/SMARTCOMP.2019.00059.",
-      "reviewed": false,
+      "reviewed": true,
       "provider": "Google automatic translation",
       "translationVersion": 3,
       "qualityCheck": {
@@ -334,13 +554,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "[2] S. Guldamlasioglu, O. Aydin, and D. Scientist, “Using LSTM networks to predict engine condition on large scale data processing framework,” 2017, doi: 10.1109/ICEEE2.2017.7935834.",
-      "en": "[2] S. Guldamlasioglu, O. Aydin, and D. Scientist, “Using LSTM networks to predict engine condition on large scale data processing framework,” 2017, doi: 10.1109/ICEEE2.2017.7935834.",
-      "es": "[2] S. Guldamlasioglu, O. Aydin y D. Scientist, “Uso de redes LSTM para predecir la condición del motor en un marco de procesamiento de datos a gran escala”, 2017, doi: 10.1109/ICEEE2.2017.7935834.",
-      "reviewed": false,
+      "en": "[2] S. Guldamlasioglu and O. Aydın, “Using LSTM networks to predict engine condition on large scale data processing framework”, 2017, doi: 10.1109/ICEEE2.2017.7935834.",
+      "es": "[2] S. Guldamlasioglu y O. Aydın, “Using LSTM networks to predict engine condition on large scale data processing framework”, 2017, doi: 10.1109/ICEEE2.2017.7935834.",
+      "reviewed": true,
       "provider": "Google automatic translation",
       "translationVersion": 3,
       "qualityCheck": {
@@ -352,69 +577,135 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "[3] L. Swanson, “Linking maintenance strategies to performance,” Int. J. Prod. Econ., vol. 70, no. 3, pp. 237–244, Apr. 2001, doi: 10.1016/S0925–5273(00)00067–0",
       "en": "[3] L. Swanson, “Linking maintenance strategies to performance,” Int. J. Prod. Econ., vol. 70, no. 3, pp. 237–244, Apr. 2001, doi: 10.1016/S0925–5273(00)00067–0",
       "es": "[3] L. Swanson, “Linking maintenance strategies to performance,” Int. J. Prod. Econ., vol. 70, no. 3, pp. 237–244, Apr. 2001, doi: 10.1016/S0925–5273(00)00067–0",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "[4] A. Martínez, “Redes Neuronales Recurrentes con LSTM aplicado al Mantenimiento Predictivo, Caso: Degradación de motores de turboventiladores”, 2020, Universidad Católica Boliviana “San Pablo”.",
       "en": "[4] A. Martínez, “Recurrent Neural Networks with LSTM applied to Predictive Maintenance, Case: Degradation of turbofan engines”, 2020, Universidad Católica Boliviana “San Pablo”.",
       "es": "[4] A. Martínez, “Redes Neuronales Recurrentes con LSTM aplicado al Mantenimiento Predictivo, Caso: Degradación de motores de turboventiladores”, 2020, Universidad Católica Boliviana “San Pablo”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Predictive Maintenance",
       "en": "Predictive Maintenance",
       "es": "Predictive Maintenance",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mantenimiento Predictivo",
       "en": "Predictive Maintenance",
       "es": "Mantenimiento Predictivo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Motor",
       "en": "Engine",
       "es": "Motor",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Bolivia",
       "en": "Bolivia",
       "es": "Bolivia",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Digitalización de fotografías y Restauración de fotografías con Inteligencia Artificial",
-      "en": "Digitization of photographs and Restoration of photographs with Artificial Intelligence",
-      "es": "Digitalización de fotografías y Restauración de fotografías con Inteligencia Artificial",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Digitising and restoring photographs with artificial intelligence",
+      "es": "Digitalización y restauración de fotografías con inteligencia artificial",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Dec 31, 2021",
       "en": "Dec 31, 2021",
       "es": "Dec 31, 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4 min read",
       "en": "4 min read",
       "es": "4 min read",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nov 12, 2021",
       "en": "Nov 12, 2021",
       "es": "Nov 12, 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Un proyecto de La Paz explora el mantenimiento predictivo de turboventiladores con redes LSTM y datos simulados de degradación de la NASA.",
+      "en": "A La Paz project explores predictive maintenance for turbofans using LSTM networks and NASA’s simulated degradation data.",
+      "es": "Un proyecto de La Paz explora el mantenimiento predictivo de turboventiladores con redes LSTM y datos simulados de degradación de la NASA.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

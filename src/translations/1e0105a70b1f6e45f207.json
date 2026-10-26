@@ -4,16 +4,26 @@
   "segments": [
     {
       "source": "Historias de nuestros Alumnos",
-      "en": "Stories from our Students",
-      "es": "Historias de nuestros Alumnos",
-      "reviewed": false
+      "en": "Stories from our AI fellows",
+      "es": "Historias de nuestros AI fellows",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Conoce los proyectos y experiencias que ha compartido nuestra comunidad.",
       "en": "Learn about the projects and experiences that our community has shared.",
       "es": "Conoce los proyectos y experiencias que ha compartido nuestra comunidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Descubre experiencias y proyectos de los AI Fellows de Saturdays.AI: personas que aprenden y crean en comunidad.",

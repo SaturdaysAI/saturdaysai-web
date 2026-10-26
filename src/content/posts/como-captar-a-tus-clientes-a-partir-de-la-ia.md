@@ -27,20 +27,20 @@ De todos es conocido que la gestión de datos tiene especial relevancia para la 
 
 ## Estudios de mercado
 
-Actualmente, para el estudio de mercados, es necesario tratar la información que tenemos a nuestra disposición y saber administrarla adecuadamente más tarde. Si somos conocedores de las preferencias del consumidor a través de nuestros sistemas de datos podemos conseguir una **mayor repercusión** siendo a la vez más atractivas para nuestros clientes potenciales. Así pues, por otra parte también debemos tener en cuenta que será necesaria la inversión en la IA para ganar penetración en el mercado.  
+La investigación de mercados empieza por recopilar información relevante y analizarla de forma adecuada. Conocer las preferencias de los consumidores permite ajustar la oferta y llegar mejor a los clientes potenciales. La inversión en IA puede apoyar este proceso, siempre que responda a una necesidad concreta y sus resultados se evalúen.
 
-Gracias a la utilización de IA, se consigue tener un **trato más personal y directo con nuestro público** de interés. Esto es debido a la posible segmentación de mercado generando un marketing directo. Así pues, los clientes reciben publicidad acorde a sus preferencias y a la vez la empresa puede recibir su _feedback_, ya sea a través de encuestas, compras u otras actividades.  
+La IA puede ayudar a segmentar el mercado y a ofrecer una comunicación más relevante para cada público. La empresa también puede aprender de las respuestas a encuestas, las compras y otras interacciones, respetando las preferencias y la privacidad de sus clientes.
 
 ## Chatbots
 
-En el caso de los _chatbots_ es es muy importante que las empresas personalicen el contenido para su consumidor final. Para ello, es necesario satisfacer sus necesidades individualmente y al entablar la conversación con este, se evalúe mediante la prueba de _Turing_ a fin de obtener el mejor de los resultados para que, finalmente, el cliente no perciba que está tratando con IA.
+En el caso de los chatbots, lo importante es resolver las necesidades de cada persona con respuestas claras y útiles. Debe quedar claro que se está hablando con un sistema automatizado, y conviene ofrecer acceso a una persona cuando el caso lo requiera. La calidad de la atención se evalúa por su utilidad y fiabilidad, no por conseguir que el cliente confunda al sistema con un humano.
 
 
 La relación con los clientes es de vital importancia ya que cumplir con los plazos acordados establece confianza y buenas recomendaciones a otros posibles consumidores. En la cadena de subministro hay que priorizar ser especialmente serios y perfeccionistas para no cometer errores.
 
 ## Recopilación de datos
 
-Por otro lado, la misma IA aplicada al marketing nos genera al mismo tiempo datos para integrar todos estos a las posibles recomendaciones y estadísticas que se darán posteriormente a los responsables de marketing y a los consumidores finales. De la misma forma, conseguimos **reducir considerablemente la distancia entre oferta y demanda** facilitando las decisiones de los encargados de la gestión de marketing de la empresa.
+Las herramientas de marketing pueden reunir datos de las interacciones con clientes y convertirlos en indicadores o recomendaciones para los equipos responsables. Analizarlos con criterio ayuda a comprender la demanda y ajustar la oferta, sin asumir que todos los patrones detectados sean útiles o que impliquen una relación causal.
 
 
 Aplicar estas nuevas estrategias de marketing cada vez se convierte más en una obligación en vez de una opción. La no aplicación de estas perjudica a las empresas que deciden no adaptarse ya que la competencia tendrá un mayor impacto en las redes y difusión de productos en comparación a las que prefieren caer en la obsolescencia. Dejando de lado las múltiples ventajas que conlleva aplicar la IA, tenemos que tener en cuenta que todavía queda recorrido para mejorar.

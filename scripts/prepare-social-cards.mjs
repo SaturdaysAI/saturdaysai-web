@@ -4,11 +4,11 @@ import crypto from 'node:crypto';
 import sharp from 'sharp';
 import YAML from 'yaml';
 import { isPublished } from '../src/lib/content-rules.mjs';
-import { readCatalog, key } from './lib/localization.mjs';
+import { readCatalog, localizedText } from './lib/localization.mjs';
 import overrides from '../src/i18n/overrides.json' with { type: 'json' };
 const translations = await readCatalog();
 const localized = (text, language) =>
-  overrides[text]?.[language] || translations.get(key(text))?.[language] || text;
+  localizedText(translations, overrides, text, language) || text;
 
 // Real raster text, using the bundled brand font. SVG foreignObject is not
 // supported by social crawlers or by Sharp's SVG renderer.

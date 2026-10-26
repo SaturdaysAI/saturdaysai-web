@@ -12,49 +12,45 @@ kind: page
 
 ## AI 4 Schools
 
-Learn or teach AI in your courses with the support of 3,000 AI enthusiasts. 
+Learn and teach artificial intelligence with support from a community that has helped more than 30,000 AI fellows.
 
-From K12 to College, with a special focus on secondary education, the **AI4Schools** programmes empower you to learn and use **AI as a cross-skill** during your lessons.
+AI4Schools brings AI into the classroom, from primary school to university, with a particular focus on secondary education. We encourage learning through projects and treating AI as a skill that connects different subjects.
 
-You will learn AI employing already familiar tools like **Scratch**, or Google **Chrome**, through trendy and interesting topics using a _Project Based Learning_ methodology. 
+We use tools such as Scratch and the Google Chrome browser to explore topics relevant to students through project-based learning.
 
-[JOIN AI4SCHOOLS](https://saturdays.typeform.com/to/zQS4EIp9)
+[Explore options for your institution](https://saturdays.typeform.com/to/zQS4EIp9)
 
-![ai 4 schools](/media/843fb79f8285e61e.webp)
+![AI4Schools: learning AI in the classroom](/media/843fb79f8285e61e.webp)
 
-#### K12 education
+### Primary education
 
-Our tools and topics are adapted to meet the interest and development of pupils from 6 to 12 years old. 
+Tools and activities adapted to the interests and development of pupils aged 6 to 12.
 
-#### Secondary Education
+### Secondary education
 
-We deliver courses and content specially suited for secondary school or vocational training students. 
+Courses and content designed for secondary school and vocational students.
 
-#### College
+### University
 
-We help high-ed institutions to gain a competitive edge for students including AI learning in their study plans. 
+Support for higher education institutions to include AI learning in their curricula.
 
-![AI4Schools](/media/c478286f57984fc0.webp)
+![AI4Schools programme activities](/media/c478286f57984fc0.webp)
 
-## How to make AI a reality for you
+## Ways to learn and experiment
 
--   **Talks** (1h): About what is AI and its applications in each professional field.
--   **Workshops** (4h): 2 sessions of 2h about what is AI and how to apply it in each professional field, with a demonstration of a practical project.
--   **Courses** (30h): A practical introduction to AI and its applications, with specific projects for each professional topic.
+- One-hour talks: what AI is and how it is used in different professional fields.
+- Four-hour workshops: two two-hour sessions introducing AI and demonstrating a practical project.
+- Thirty-hour courses: a practical introduction with projects relevant to each professional field.
 
-No borders & no limits
+### Learning across borders
 
-Saturdays.AI offers **AI4Schools** programs **worldwide**, using both offline and online education.
+AI4Schools includes in-person and online activities. Contact the team to discuss formats, availability and how the programme could fit your school or institution.
 
-Sign up now to learn how you can profit from AI4Schools programs in your class or institution. 
-
-[BECOME AN AMBASSADOR](https://saturdays.typeform.com/to/K9eeEDZp)
+[Get involved as an ambassador](https://saturdays.typeform.com/to/K9eeEDZp)
 
 ![](/media/178cce5ebd88a719.webp)
 
-See what it is like
-
-#### Some institutions that have already trusted us  
+### Institutions we have worked with
 
 ![](/media/e60177635e251c6f.webp)
 

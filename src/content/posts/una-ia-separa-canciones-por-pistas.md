@@ -1,9 +1,8 @@
 ---
 title: Una IA separa canciones por pistas
-description: ¡Ya existe la inteligencia artificial que separa canciones por
-  pistas! Los amantes de la música están de enhorabuena ya que existe una
-  inteligencia artificial que permite separar una canción en pistas. Es decir,
-  permite añadir…
+description: Cómo la separación de fuentes con IA puede ayudar a escuchar y
+  practicar música, qué papel tiene Spleeter y por qué los resultados no son
+  perfectos.
 pubDate: 2022-04-05
 author: Info Saturdays
 category: Community
@@ -46,7 +45,7 @@ Altozano, J. (6 dic 2019) _Probamos una Inteligencia Artificial que separa una c
 
 Epidemicsound (marzo 2022). [https://www.epidemicsound.com/](https://www.epidemicsound.com/)
 
-GitHub (marzo 2022). [https://github.com/enterprise](https://github.com/enterprise)¡
+GitHub (marzo 2022). [https://github.com/enterprise](https://github.com/enterprise)
 
 **Written by**
 

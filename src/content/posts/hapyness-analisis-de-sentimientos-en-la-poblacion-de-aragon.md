@@ -1,6 +1,8 @@
 ---
 title: "HaPyness: Análisis de sentimientos en la población de Aragón"
-description: El equipo Aragón Feliz explora el análisis de sentimientos para estudiar cómo se expresa el bienestar emocional de la población de Aragón.
+description: "HaPyness explora el análisis de sentimientos en tuits relacionados
+  con Aragón: diccionarios, modelos de aprendizaje automático, resultados y
+  límites."
 pubDate: 2022-04-07
 author: Info Saturdays
 category: AI for good
@@ -113,7 +115,7 @@ Bien, después de toda esta reflexión, éste iba a ser entonces nuestro reto in
 
 **Problema**
 
-Dada la situación de **pandemia** vivida a lo largo del último año queremos analizar cómo esta situación ha podido **afectar a la percepción** general a **nivel psicológico de los ciudadanos de Aragón**, y **cómo ha podido influir** este estado respecto a diferentes temáticas (inferidas o prefijadas) **en sus comentarios** en diferentes medios, redes sociales, prensa, etc.
+Ante la pandemia, nos propusimos explorar cómo cambiaba el lenguaje de los comentarios relacionados con Aragón en redes sociales y otros medios, tanto en general como respecto a temas concretos. El análisis de textos no permite medir directamente el bienestar psicológico de toda la ciudadanía.
 
 **Quizá, ¿demasiado ambicioso?…**
 
@@ -750,8 +752,8 @@ Se puede encontrar el código de este proyecto en [GitHub](https://github.com/S
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

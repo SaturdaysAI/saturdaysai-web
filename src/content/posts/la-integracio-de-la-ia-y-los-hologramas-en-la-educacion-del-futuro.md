@@ -80,7 +80,7 @@ Ojea nuestras publicaciones. 
 
 Más de Inteligencia Artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_. También realizamos proyectos y consultoría para organizaciones que quieren sacar el máximo partido de la IA.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Si como nosotros te gusta la tecnología, hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 

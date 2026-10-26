@@ -4,37 +4,57 @@
   "segments": [
     {
       "source": "Asunción",
-      "en": "Assumption",
+      "en": "Asunción",
       "es": "Asunción",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "PARAGUAY / AI SATURDAYS",
       "en": "PARAGUAY / AI SATURDAYS",
       "es": "PARAGUAY / AI SATURDAYS",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AI Saturdays Asunción",
       "en": "AI Saturdays Asunción",
       "es": "AI Saturdays Asunción",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Asunción.",
-      "en": "Assumption.",
+      "en": "Asunción.",
       "es": "Asunción.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Asunción.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Asunción.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Asunción.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -47,6 +67,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -65,25 +90,40 @@
     },
     {
       "source": "Queremos convertir Asunción y Paraguay en referente internacional en Inteligencia Artificial, haciendo la IA accesible a todos los públicos. ¿Os apuntas?",
-      "en": "We want to turn Asunción and Paraguay into an international reference in Artificial Intelligence, making AI accessible to all audiences. Are you in?",
-      "es": "Queremos convertir Asunción y Paraguay en referente internacional en Inteligencia Artificial, haciendo la IA accesible a todos los públicos. ¿Os apuntas?",
-      "reviewed": false,
+      "en": "We want to make artificial intelligence accessible to more people and strengthen the community in Asunción and Paraguay. Will you join us?",
+      "es": "Queremos acercar la inteligencia artificial a más personas y fortalecer la comunidad de Asunción y Paraguay. ¿Te sumas?",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": 14 sábados, TBA",
-      "en": ": 14 Saturdays, TBA",
-      "es": ": 14 sábados, TBA",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ": 14 Saturdays, with no dates confirmed in the original archive",
+      "es": ": 14 sábados, sin fechas confirmadas en el archivo original",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": TBA",
-      "en": ": TBA",
-      "es": ": TBA",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ": unconfirmed in the original archive",
+      "es": ": por confirmar en el archivo original",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pre-registro",
@@ -112,15 +152,25 @@
       "source": "Logo_IoTsens_2019_transp-300x300",
       "en": "Logo_IoTsens_2019_transp-300x300",
       "es": "Logo_IoTsens_2019_transp-300x300",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "uji-bueno",
       "en": "uji-good",
       "es": "uji-bueno",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "LOGOTIP ATHENEAEDU",
@@ -131,32 +181,162 @@
     },
     {
       "source": "Contactar Asunción City Lead",
-      "en": "Contact Asuncion City Lead",
-      "es": "Contactar Asunción City Lead",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Contact the Asunción team",
+      "es": "Contacta con el equipo de Asunción",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉",
-      "en": "Feel free to tell us anything, we'd love to know more about you 😉",
-      "es": "Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉",
-      "reviewed": false,
+      "en": "Tell us what interests you and how you would like to take part. We would love to hear from you.",
+      "es": "Cuéntanos qué te interesa y cómo te gustaría participar. Nos encantará conocerte.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "PROGRAMA EN DETALLE",
       "en": "PROGRAM IN DETAIL",
       "es": "PROGRAMA EN DETALLE",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ÚNETE AHORA",
       "en": "JOIN NOW",
       "es": "ÚNETE AHORA",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Saturdays.AI in Asunción",
+      "en": "Saturdays.AI in Asunción",
+      "es": "Saturdays.AI en Asunción",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "A community bringing artificial intelligence to Paraguay through learning and projects with a social purpose. Explore the programme and contact the team to find out which activities are available.",
+      "en": "A community bringing artificial intelligence to Paraguay through learning and projects with a social purpose. Explore the programme and contact the team to find out which activities are available.",
+      "es": "Una comunidad para acercar la inteligencia artificial a Paraguay y aprender a través de proyectos con impacto social. Explora el programa y ponte en contacto con el equipo para conocer las actividades disponibles.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Aerial view of Asunción",
+      "en": "Aerial view of Asunción",
+      "es": "Vista aérea de Asunción",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The AI Saturdays experience",
+      "en": "The AI Saturdays experience",
+      "es": "La experiencia de AI Saturdays",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The Asunción archive describes a proposed 14-Saturday machine learning programme, with sessions from 09:00 to 14:00. It does not confirm a date or venue for a new edition.",
+      "en": "The Asunción archive describes a proposed 14-Saturday machine learning programme, with sessions from 09:00 to 14:00. It does not confirm a date or venue for a new edition.",
+      "es": "El archivo de Asunción recoge una propuesta de 14 sábados dedicada al aprendizaje automático, con sesiones de 9:00 a 14:00. No consta una fecha ni una sede confirmada para una nueva edición.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Participants learn together, put concepts into practice and build projects. Check the requirements and schedule for each edition before registering.",
+      "en": "Participants learn together, put concepts into practice and build projects. Check the requirements and schedule for each edition before registering.",
+      "es": "Durante el programa, los participantes aprenden en equipo, ponen en práctica los conceptos y desarrollan proyectos. Consulta los requisitos y el calendario de cada convocatoria antes de inscribirte.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore the AI Saturdays programme",
+      "en": "Explore the AI Saturdays programme",
+      "es": "Conoce el programa AI Saturdays",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Take the next step",
+      "en": "Take the next step",
+      "es": "Da el siguiente paso",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "To learn Python or explore AI at your own pace, visit our course catalogue. If you are looking for a local activity or would like to help organise one, contact the Saturdays.AI team.",
+      "en": "To learn Python or explore AI at your own pace, visit our course catalogue. If you are looking for a local activity or would like to help organise one, contact the Saturdays.AI team.",
+      "es": "Si quieres aprender Python o explorar la IA a tu ritmo, consulta nuestro catálogo de cursos. Si buscas una actividad local o quieres ayudar a organizarla, escribe al equipo de Saturdays.AI.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Contact Saturdays.AI",
+      "en": "Contact Saturdays.AI",
+      "es": "Contacta con Saturdays.AI",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

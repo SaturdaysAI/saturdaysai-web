@@ -4,30 +4,50 @@
   "segments": [
     {
       "source": "Lo que aprendimos al construir AgroClaw, un agente experimental para el olivar: arquitectura, memoria técnica, herramientas y límites de la IA aplicada al conocimiento agrario.",
-      "en": "What we learned when building AgroClaw, an experimental agent for the olive grove: architecture, technical memory, tools and limits of AI applied to agricultural knowledge.",
+      "en": "Lessons from building AgroClaw, an experimental assistant for olive farming: architecture, technical knowledge, tools and the limits of AI in agriculture.",
       "es": "Lo que aprendimos al construir AgroClaw, un agente experimental para el olivar: arquitectura, memoria técnica, herramientas y límites de la IA aplicada al conocimiento agrario.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "18 may 2026",
       "en": "May 18, 2026",
       "es": "18 may 2026",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cuando las imágenes también importan",
       "en": "When images matter too",
       "es": "Cuando las imágenes también importan",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "De una colección de imágenes a una base visual documentada",
       "en": "From a collection of images to a documented visual base",
       "es": "De una colección de imágenes a una base visual documentada",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Índices visuales: la capa que empieza a convertir el knowledge en sistema experto",
@@ -41,63 +61,108 @@
       "source": "Modelos LLM, visión y modularidad del desempeño",
       "en": "LLM models, vision and performance modularity",
       "es": "Modelos LLM, visión y modularidad del desempeño",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por qué esto importa para una herramienta agraria real",
       "en": "Why this matters for a real agricultural tool",
       "es": "Por qué esto importa para una herramienta agraria real",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El potencial de AgroClaw en una cooperativa agraria",
       "en": "The potential of AgroClaw in an agricultural cooperative",
       "es": "El potencial de AgroClaw en una cooperativa agraria",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La última decisión: una demo local estable, grabable y reproducible",
-      "en": "The last decision: a stable, recordable and playable local demo",
+      "en": "The final decision: a stable local demo that can be recorded and reproduced",
       "es": "La última decisión: una demo local estable, grabable y reproducible",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Del prototipo local al repositorio reproducible",
       "en": "From local prototype to reproducible repository",
       "es": "Del prototipo local al repositorio reproducible",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Diseñar la demo teniendo en cuenta la latencia real",
       "en": "Design the demo with real latency in mind",
       "es": "Diseñar la demo teniendo en cuenta la latencia real",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Qué demuestra ahora AgroClaw",
       "en": "What AgroClaw proves now",
       "es": "Qué demuestra ahora AgroClaw",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Próxima frontera: producto, no solo despliegue",
       "en": "Next frontier: product, not just deployment",
       "es": "Próxima frontera: producto, no solo despliegue",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En inteligencia artificial aplicada, es fácil quedarse en la capa vistosa: la demo que responde, la interfaz que impresiona o el “chatbot” que parece saber de todo. Lo difícil empieza después: cuando se intenta construir un agente que no solo suene bien, sino que sea útil en un dominio técnico real. Eso es, precisamente, lo que nos ha enseñado AgroClaw.",
       "en": "In applied artificial intelligence, it is easy to stay at the flashy layer: the demo that responds, the interface that impresses or the “chatbot” that seems to know everything. The hard part starts later: when you're trying to build an agent that not only sounds good, but is useful in a real technical domain. That is precisely what AgroClaw has taught us.",
       "es": "En inteligencia artificial aplicada, es fácil quedarse en la capa vistosa: la demo que responde, la interfaz que impresiona o el “chatbot” que parece saber de todo. Lo difícil empieza después: cuando se intenta construir un agente que no solo suene bien, sino que sea útil en un dominio técnico real. Eso es, precisamente, lo que nos ha enseñado AgroClaw.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AgroClaw ha nacido como un asistente AgTech en español, con foco inicial en el olivar. Su objetivo no es ser un chatbot agrícola genérico, sino ayudar en tareas concretas: diagnóstico orientativo de plagas y enfermedades, uso de claves dicotómicas, interpretación de síntomas de campo, recomendaciones de riego e incluso lectura contextual de datos procedentes de sensores AIoT. Para ello, se montó sobre OpenClaw y se organizó con una arquitectura por capas: identidad, carácter, comportamiento global,",
@@ -116,14 +181,24 @@
       "source": "En el repositorio",
       "en": "In the repository",
       "es": "En el repositorio",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "puede verse la estructura del directorio del proyecto:",
-      "en": "You can see the project directory structure:",
+      "en": "you can see the project directory structure:",
       "es": "puede verse la estructura del directorio del proyecto:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "agroclaw-demo/",
@@ -311,15 +386,25 @@
       "source": "A continuación y en base a este planteamiento, presentamos una propuesta de diagrama UML para OpenClaw:",
       "en": "Below and based on this approach, we present a proposed UML diagram for OpenClaw:",
       "es": "A continuación y en base a este planteamiento, presentamos una propuesta de diagrama UML para OpenClaw:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Con la configuración adecuada, AgroClaw resulta ser la instancia producida por esta arquitectura.",
       "en": "With proper configuration, AgroClaw turns out to be the instance produced by this architecture.",
       "es": "Con la configuración adecuada, AgroClaw resulta ser la instancia producida por esta arquitectura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La gracia de este esquema es práctica: facilita mantener el sistema, localizar fallos y evolucionar una parte sin romper todas las demás. No es un detalle menor. Es lo que permite pasar de un",
@@ -371,35 +456,60 @@
     },
     {
       "source": "Imágenes de repilo del olivo utilizadas en la base de conocimiento de AgroClaw",
-      "en": "Images of repilo del olivo used in the AgroClaw knowledge base",
+      "en": "Images of olive peacock spot used in the AgroClaw knowledge base",
       "es": "Imágenes de repilo del olivo utilizadas en la base de conocimiento de AgroClaw",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Imágenes de repilo del olivo utilizadas en la base de conocimiento de AgroClaw.",
-      "en": "Olive repilo images used in the AgroClaw knowledge base.",
+      "en": "Images of olive peacock spot used in the AgroClaw knowledge base.",
       "es": "Imágenes de repilo del olivo utilizadas en la base de conocimiento de AgroClaw.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Syngenta",
       "en": "Syngenta",
       "es": "Syngenta",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Técnico Agrícola",
-      "en": "Agricultural Technician",
+      "en": "Técnico Agrícola",
       "es": "Técnico Agrícola",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "UPL Cátedra Olivar",
-      "en": "UPL Olivar Chair",
+      "en": "UPL Cátedra Olivar",
       "es": "UPL Cátedra Olivar",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sin embargo, el comportamiento real seguía siendo evasivo. AgroClaw diagnosticaba bien el repilo, pero a la hora de recomendar tratamiento tendía a refugiarse en tratamientos con cobre (preventivos, no curativos), en la cautela y en el clásico “consultar el registro de productos fitosanitarios”. Eso fue importante porque obligó a descartar una explicación muy habitual: “faltan",
@@ -456,10 +566,15 @@
     },
     {
       "source": "es dar vueltas en círculo. A veces, la arquitectura ya es correcta y el cuello de botella es el modelo.",
-      "en": "It is going around in a circle. Sometimes the architecture is already correct and the bottleneck is the model.",
+      "en": "can become unproductive.",
       "es": "es dar vueltas en círculo. A veces, la arquitectura ya es correcta y el cuello de botella es el modelo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En AgroClaw, esa frontera se hizo visible: el mini era suficiente para parte del trabajo, pero no para sostener bien la jerarquía de instrucciones cuando había tensión entre prudencia, conocimiento documental y necesidad de respuesta operativa. El modelo grande (GPT-5.4) sí lo hizo.",
@@ -498,17 +613,27 @@
     },
     {
       "source": "En la práctica, las imágenes tienen valor aunque no entren todavía de forma automática en la memoria del agente como lo hace el texto. Sirven, primero, para construir un corpus visual organizado del dominio: hojas con repilo, frutos con mosca, brotes con algodoncillo, ramas con barrenillo, síntomas compatibles con verticilosis o referencias de daños en distintos estados fenológicos. Eso ya convierte una carpeta de fotos dispersas en una biblioteca técnica reutilizable.",
-      "en": "In practice, images have value even if they do not yet automatically enter the agent's memory as text does. They serve, first, to build an organized visual corpus of the domain: leaves with repilus, fruits with flies, buds with milkweed, branches with borers, symptoms compatible with verticillosis or references of damage in different phenological states. That already turns a folder of scattered photos into a reusable technical library.",
+      "en": "Images are useful even when the agent does not automatically process their pixels. They form an organised visual collection: leaves with peacock spot, fruit affected by olive fruit fly, shoots with olive psyllid, branches affected by borers, symptoms consistent with Verticillium wilt and damage at different growth stages. This turns scattered photographs into a reusable technical library.",
       "es": "En la práctica, las imágenes tienen valor aunque no entren todavía de forma automática en la memoria del agente como lo hace el texto. Sirven, primero, para construir un corpus visual organizado del dominio: hojas con repilo, frutos con mosca, brotes con algodoncillo, ramas con barrenillo, síntomas compatibles con verticilosis o referencias de daños en distintos estados fenológicos. Eso ya convierte una carpeta de fotos dispersas en una biblioteca técnica reutilizable.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pero el punto importante es otro: en AgroClaw, el verdadero salto no está en guardar solo una imagen, sino en trabajar con el dúo imagen + Markdown. Es decir, cada imagen debe ir acompañada de una ficha .md que explique qué muestra, qué síntomas visuales son clave, con qué puede confundirse, cuál es su valor orientativo y dónde está almacenada. Ese dúo convierte una imagen aislada en una referencia visual documentada.",
-      "en": "But the important point is another: in AgroClaw, the real leap is not in saving just an image, but in working with the image + Markdown duo. That is, each image must be accompanied by a .md file that explains what it shows, what visual symptoms are key, what it can be confused with, what its indicative value is and where it is stored. This duo turns an isolated image into a documented visual reference.",
+      "en": "The key is the image + Markdown pair. Each image has a .md record explaining what it shows, its main visual symptoms, possible lookalikes, how it may support an assessment and where it is stored. The result is a documented visual reference rather than an isolated photograph.",
       "es": "Pero el punto importante es otro: en AgroClaw, el verdadero salto no está en guardar solo una imagen, sino en trabajar con el dúo imagen + Markdown. Es decir, cada imagen debe ir acompañada de una ficha .md que explique qué muestra, qué síntomas visuales son clave, con qué puede confundirse, cuál es su valor orientativo y dónde está almacenada. Ese dúo convierte una imagen aislada en una referencia visual documentada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ahí está hoy la base de la utilidad real de las imágenes en la base de conocimiento. Aunque la recuperación automática de imágenes no esté resuelta en el modelo GPT-5.4 del mismo modo que la de los documentos Markdown, la imagen acompañada por su ficha sí puede entrar en el razonamiento del agente. AgroClaw puede leer la descripción, entender la ruta o el nombre del archivo, usarla como referencia visual y, si se le pide, devolver al menos una lista de ejemplos visuales relevantes del problema consultado.",
@@ -519,10 +644,15 @@
     },
     {
       "source": "El avance más reciente del proyecto ha consistido precisamente en convertir esa idea en una práctica sistemática. La base visual del olivar empezó a crecer no como una carpeta de imágenes sueltas, sino como un conjunto organizado de referencias con nombre, ruta, fuente y ficha técnica asociada.",
-      "en": "The most recent advance of the project has consisted precisely in turning that idea into a systematic practice. The visual base of the olive grove began to grow not as a folder of loose images, but as an organized set of references with name, route, source and associated technical sheet.",
+      "en": "Our next step was to apply this consistently. The olive knowledge base grew into an organised collection of visual references, each with a name, file path, source and accompanying technical record.",
       "es": "El avance más reciente del proyecto ha consistido precisamente en convertir esa idea en una práctica sistemática. La base visual del olivar empezó a crecer no como una carpeta de imágenes sueltas, sino como un conjunto organizado de referencias con nombre, ruta, fuente y ficha técnica asociada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se añadieron y documentaron referencias visuales para problemas como algodoncillo,",
@@ -564,31 +694,51 @@
     },
     {
       "source": "Esto cambió la naturaleza del repositorio. Ya no se trataba únicamente de “tener fotos” para consultar manualmente. Las imágenes empezaron a funcionar como referencias visuales documentadas: cada una podía ser recuperada por su ficha, comparada con otras de la misma carpeta y utilizada por el agente como apoyo prudente en una interpretación diagnóstica.",
-      "en": "This changed the nature of the repository. It was no longer just about “having photos” to consult manually. The images began to function as documented visual references: each one could be retrieved by its file, compared with others in the same folder and used by the agent as prudent support in a diagnostic interpretation.",
+      "en": "This changed the repository from a collection of photos for manual browsing into a set of documented visual references. The agent could retrieve their records, compare the descriptions and use them cautiously to support a preliminary assessment.",
       "es": "Esto cambió la naturaleza del repositorio. Ya no se trataba únicamente de “tener fotos” para consultar manualmente. Las imágenes empezaron a funcionar como referencias visuales documentadas: cada una podía ser recuperada por su ficha, comparada con otras de la misma carpeta y utilizada por el agente como apoyo prudente en una interpretación diagnóstica.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Un ejemplo claro fue la carpeta de algodoncillo del olivo. Se construyó una pequeña serie visual con seis referencias: masas algodonosas en brotes e inflorescencias, detalles del insecto, ninfas, adultos, colonias y posibles efectos asociados como melaza o negrilla. Después, con AgroClaw ya funcionando, se probó si el agente era capaz de recuperar esa base visual.",
-      "en": "A clear example was the olive milkweed folder. A small visual series was constructed with six references: cottony masses in buds and inflorescences, details of the insect, nymphs, adults, colonies and possible associated effects such as honeydew or black blight. Later, with AgroClaw already working, it was tested whether the agent was capable of recovering that visual base.",
+      "en": "The olive psyllid folder provided a useful example. We assembled six visual references covering cottony deposits on shoots and flower clusters, insect details, nymphs, adults, colonies and associated effects such as honeydew or sooty mould. We then tested whether AgroClaw could retrieve this material.",
       "es": "Un ejemplo claro fue la carpeta de algodoncillo del olivo. Se construyó una pequeña serie visual con seis referencias: masas algodonosas en brotes e inflorescencias, detalles del insecto, ninfas, adultos, colonias y posibles efectos asociados como melaza o negrilla. Después, con AgroClaw ya funcionando, se probó si el agente era capaz de recuperar esa base visual.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La respuesta fue especialmente significativa. AgroClaw no solo enumeró correctamente las seis referencias (algodoncillo_01 a algodoncillo_06), sino que recuperó sus rutas locales, describió qué mostraba cada una y reconoció que cada imagen tenía su ficha .md asociada. Es decir, el agente no estaba “viendo” mágicamente las imágenes internas; estaba usando la capa documental que las convierte en conocimiento operativo.",
-      "en": "The response was especially significant. Not only did AgroClaw correctly enumerate all six references (milkweed_01 to milkweed_06), it retrieved their local paths, described what each one showed, and recognized that each image had its associated .md token. That is, the agent was not magically “seeing” the internal images; I was using the documentary layer that turns them into operational knowledge.",
+      "en": "AgroClaw listed all six references, algodoncillo_01 through algodoncillo_06, retrieved their local paths, described their contents and recognised that each had an associated .md record. It was not magically seeing the stored images; it was using their written documentation.",
       "es": "La respuesta fue especialmente significativa. AgroClaw no solo enumeró correctamente las seis referencias (algodoncillo_01 a algodoncillo_06), sino que recuperó sus rutas locales, describió qué mostraba cada una y reconoció que cada imagen tenía su ficha .md asociada. Es decir, el agente no estaba “viendo” mágicamente las imágenes internas; estaba usando la capa documental que las convierte en conocimiento operativo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El siguiente paso fue pedirle algo más exigente: ordenar esas referencias por utilidad diagnóstica práctica. AgroClaw clasificó las imágenes en grupos funcionales: síntomas en brote y floración, detalle del insecto, colonias o presencia múltiple, y posibles casos con melaza o negrilla asociada. Además, distinguió cuáles eran más útiles para diagnóstico rápido en campo y cuáles servían mejor para confirmar visualmente el insecto.",
-      "en": "The next step was to ask something more demanding: order those references by practical diagnostic utility. AgroClaw classified the images into functional groups: bud and flowering symptoms, details of the insect, colonies or multiple presence, and possible cases with associated honeydew or sooty mold. In addition, he distinguished which were more useful for rapid diagnosis in the field and which were better for visually confirming the insect.",
+      "en": "Next, we asked it to rank the references by their practical usefulness for a preliminary assessment. AgroClaw grouped them by shoot and flowering symptoms, insect detail, colonies or multiple insects, and associated honeydew or sooty mould. It also distinguished references useful for a quick field assessment from those showing the insect in more detail.",
       "es": "El siguiente paso fue pedirle algo más exigente: ordenar esas referencias por utilidad diagnóstica práctica. AgroClaw clasificó las imágenes en grupos funcionales: síntomas en brote y floración, detalle del insecto, colonias o presencia múltiple, y posibles casos con melaza o negrilla asociada. Además, distinguió cuáles eran más útiles para diagnóstico rápido en campo y cuáles servían mejor para confirmar visualmente el insecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esa prueba fue importante porque mostró que la base visual documentada no solo permite recuperar archivos. Permite construir criterio sobre ellos.",
@@ -611,17 +761,27 @@
     },
     {
       "source": "A partir de esa prueba apareció una mejora natural: crear índices visuales por carpeta. Si cada imagen tiene su ficha individual, un índice visual puede actuar como mapa diagnóstico del conjunto. No sustituye a las fichas, pero ayuda a saber qué referencia conviene usar según el tipo de imagen o síntoma que aporte el usuario.",
-      "en": "From that test a natural improvement appeared: creating visual indexes by folder. If each image has its individual card, a visual index can act as a diagnostic map of the whole. It does not replace the cards, but it helps to know which reference should be used depending on the type of image or symptom provided by the user.",
+      "en": "The test suggested a natural improvement: a visual index for each folder. Individual records describe each image; an index maps the collection and helps identify which references may be relevant to a symptom or an image supplied by the user.",
       "es": "A partir de esa prueba apareció una mejora natural: crear índices visuales por carpeta. Si cada imagen tiene su ficha individual, un índice visual puede actuar como mapa diagnóstico del conjunto. No sustituye a las fichas, pero ayuda a saber qué referencia conviene usar según el tipo de imagen o síntoma que aporte el usuario.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En el caso del algodoncillo se generó un primer índice diagnóstico visual, algodoncillo_visual_index.md, con descripción general de la carpeta, tabla de referencias, utilidad diagnóstica, límite principal de cada imagen y una nota de uso para AgroClaw. La idea es sencilla pero potente: cada carpeta temática puede tener sus fichas individuales y, además, un índice que explique cómo usarlas en conjunto.",
-      "en": "In the case of milkweed, a first visual diagnostic index was generated, algodoncillo_visual_index.md, with a general description of the folder, reference table, diagnostic utility, main limit of each image and a usage note for AgroClaw. The idea is simple but powerful: each thematic folder can have its individual files and, in addition, an index that explains how to use them together.",
+      "en": "For olive psyllid, we created algodoncillo_visual_index.md. It includes an overview of the folder, a reference table, the diagnostic relevance and main limitation of each image, and a usage note for AgroClaw. Each subject folder can therefore contain individual records and an index explaining how to use them together.",
       "es": "En el caso del algodoncillo se generó un primer índice diagnóstico visual, algodoncillo_visual_index.md, con descripción general de la carpeta, tabla de referencias, utilidad diagnóstica, límite principal de cada imagen y una nota de uso para AgroClaw. La idea es sencilla pero potente: cada carpeta temática puede tener sus fichas individuales y, además, un índice que explique cómo usarlas en conjunto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ese tipo de archivo convierte el",
@@ -641,8 +801,13 @@
       "source": "Ahí AgroClaw empezó a comportarse menos como una colección de documentos y más como una pequeña memoria técnica estructurada.",
       "en": "There AgroClaw began to behave less like a collection of documents and more like a small structured technical memory.",
       "es": "Ahí AgroClaw empezó a comportarse menos como una colección de documentos y más como una pequeña memoria técnica estructurada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un punto importante del diseño de AgroClaw es que no queda conceptualmente atado a un único modelo LLM. La arquitectura se apoya en una tríada estable —IDENTITY.md, SOUL.md y AGENTS.md— junto con",
@@ -660,17 +825,27 @@
     },
     {
       "source": "A partir de ahí, el modelo utilizado actúa como motor de interpretación y generación. Esto significa que el desempeño final de AgroClaw no depende solo de la calidad del prompt o de la base documental, sino también de las capacidades del modelo asociado en cada momento: razonamiento, seguimiento de instrucciones, prudencia técnica, recuperación contextual, visión, manejo de documentos o análisis multimodal.",
-      "en": "From there, the model used acts as an interpretation and generation engine. This means that the final performance of AgroClaw does not depend only on the quality of the prompt or the documentary base, but also on the capabilities of the associated model at each moment: reasoning, following instructions, technical prudence, contextual recovery, vision, document management or multimodal analysis.",
+      "en": "The model interprets the context and generates responses. AgroClaw’s performance therefore depends on more than its prompts and documents: it also depends on the model’s reasoning, instruction-following, handling of uncertainty, use of retrieved context, vision and other multimodal capabilities.",
       "es": "A partir de ahí, el modelo utilizado actúa como motor de interpretación y generación. Esto significa que el desempeño final de AgroClaw no depende solo de la calidad del prompt o de la base documental, sino también de las capacidades del modelo asociado en cada momento: razonamiento, seguimiento de instrucciones, prudencia técnica, recuperación contextual, visión, manejo de documentos o análisis multimodal.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esta distinción es clave. La base de conocimiento de AgroClaw puede estar organizada con documentos Markdown, fichas técnicas, imágenes, rutas, índices visuales y referencias agronómicas. Pero la forma en que todo ese material se aprovecha depende de la combinación entre arquitectura, motor LLM y capacidades de recuperación disponibles. Un modelo puede ser suficiente para conversación general, pero quedarse corto cuando debe sostener una jerarquía compleja de instrucciones técnicas. Otro modelo puede manejar mejor la tensión entre prudencia, utilidad operativa y conocimiento documental. Y otros pueden aportar capacidades más avanzadas en visión o tratamiento multimodal.",
-      "en": "This distinction is key. The AgroClaw knowledge base can be organized with Markdown documents, technical sheets, images, routes, visual indexes and agronomic references. But the way in which all that material is used depends on the combination of architecture, LLM engine and available recovery capabilities. A model may be sufficient for general conversation, but fall short when it must support a complex hierarchy of technical instructions. Another model may better handle the tension between prudence, operational utility, and documentary knowledge. And others may provide more advanced capabilities in vision or multimodal treatment.",
+      "en": "This distinction matters. The knowledge base can contain Markdown documents, technical records, images, paths, visual indexes and agronomic references. How effectively they are used depends on the architecture, model and retrieval tools working together. A model that handles general conversation well may struggle with complex technical instructions. Another may better balance caution, useful explanations and the reference material, or provide stronger vision capabilities.",
       "es": "Esta distinción es clave. La base de conocimiento de AgroClaw puede estar organizada con documentos Markdown, fichas técnicas, imágenes, rutas, índices visuales y referencias agronómicas. Pero la forma en que todo ese material se aprovecha depende de la combinación entre arquitectura, motor LLM y capacidades de recuperación disponibles. Un modelo puede ser suficiente para conversación general, pero quedarse corto cuando debe sostener una jerarquía compleja de instrucciones técnicas. Otro modelo puede manejar mejor la tensión entre prudencia, utilidad operativa y conocimiento documental. Y otros pueden aportar capacidades más avanzadas en visión o tratamiento multimodal.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por eso, el dúo imagen + Markdown sigue siendo una decisión sólida. La imagen aislada funciona como archivo técnico; la imagen acompañada por una ficha Markdown se convierte en conocimiento operativo. Esa ficha permite describir síntomas, órgano afectado, valor diagnóstico, posibles confusiones, limitaciones y fuente. Con ello, AgroClaw puede razonar sobre la imagen incluso cuando la recuperación visual directa no sea todavía el eje principal del sistema.",
@@ -681,38 +856,63 @@
     },
     {
       "source": "La ventaja de este enfoque es que AgroClaw queda preparado para evolucionar. Si se conecta a un modelo con mejores capacidades de visión, podrá aprovechar mejor las imágenes. Si se conecta a un modelo con mejor razonamiento técnico, podrá interpretar mejor las fichas y los índices. Si se conecta a un sistema de recuperación multimodal más avanzado, podrá integrar texto e imagen de forma más directa. La arquitectura no se rompe: se potencia.",
-      "en": "The advantage of this approach is that AgroClaw is prepared to evolve. By connecting to a model with better vision capabilities, you will be able to take better advantage of the images. By connecting to a model with better technical reasoning, you will be able to better interpret tokens and indices. By connecting to a more advanced multimodal retrieval system, you can integrate text and image more directly. Architecture is not broken: it is enhanced.",
+      "en": "This structure leaves room to evolve. A model with stronger vision capabilities could make better use of the images; better technical reasoning could help with records and indexes; and a more capable multimodal retrieval system could connect text and images more directly. Each change would need testing, but the central architecture could remain in place.",
       "es": "La ventaja de este enfoque es que AgroClaw queda preparado para evolucionar. Si se conecta a un modelo con mejores capacidades de visión, podrá aprovechar mejor las imágenes. Si se conecta a un modelo con mejor razonamiento técnico, podrá interpretar mejor las fichas y los índices. Si se conecta a un sistema de recuperación multimodal más avanzado, podrá integrar texto e imagen de forma más directa. La arquitectura no se rompe: se potencia.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Dicho de otro modo, AgroClaw no es solamente “un modelo respondiendo”. Es una memoria técnica visual-documental asistida por IA, donde el modelo puede cambiar, mejorar o especializarse sin abandonar la estructura central del agente. Esa modularidad es una de sus fortalezas: permite adaptar el sistema al nivel de exigencia del caso de uso, al coste disponible, a la latencia aceptable y a las capacidades multimodales necesarias.",
-      "en": "In other words, AgroClaw is not just “a responding model.” It is a visual-documentary technical memory assisted by AI, where the model can change, improve or specialize without abandoning the central structure of the agent. This modularity is one of its strengths: it allows the system to be adapted to the level of demand of the use case, the available cost, the acceptable latency and the necessary multimodal capabilities.",
+      "en": "AgroClaw combines an AI model with a structured collection of visual and written technical knowledge. The model can be changed or specialised while retaining that central structure. This modularity lets us adapt the system to the task’s requirements, available budget, acceptable latency and necessary multimodal capabilities.",
       "es": "Dicho de otro modo, AgroClaw no es solamente “un modelo respondiendo”. Es una memoria técnica visual-documental asistida por IA, donde el modelo puede cambiar, mejorar o especializarse sin abandonar la estructura central del agente. Esa modularidad es una de sus fortalezas: permite adaptar el sistema al nivel de exigencia del caso de uso, al coste disponible, a la latencia aceptable y a las capacidades multimodales necesarias.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esa arquitectura visual-documental es especialmente valiosa en agricultura. El conocimiento de campo no siempre llega en forma de tablas o manuales. Llega también en forma de fotos tomadas por técnicos, agricultores o ganaderos: una hoja con manchas, una rama con serrín, un brote deformado, un fruto picado, una parcela con síntomas repetidos tras varios días de humedad.",
-      "en": "This visual-documentary architecture is especially valuable in agriculture. Field knowledge does not always come in the form of tables or manuals. It also arrives in the form of photos taken by technicians, farmers or ranchers: a leaf with spots, a branch with sawdust, a deformed shoot, a chopped fruit, a plot with repeated symptoms after several days of humidity.",
+      "en": "Combining images and documentation is particularly useful in agriculture. Field knowledge arrives not only in tables and manuals, but in photographs taken by technicians, farmers and livestock producers: spotted leaves, branches with sawdust, deformed shoots, fruit damaged by insects or plots showing recurring symptoms after several damp days.",
       "es": "Esa arquitectura visual-documental es especialmente valiosa en agricultura. El conocimiento de campo no siempre llega en forma de tablas o manuales. Llega también en forma de fotos tomadas por técnicos, agricultores o ganaderos: una hoja con manchas, una rama con serrín, un brote deformado, un fruto picado, una parcela con síntomas repetidos tras varios días de humedad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Si cada una de esas imágenes se acompaña de una nota técnica clara, lo que se construye ya no es solo una colección de fotos, sino una base de conocimiento viva. Una base que puede servir para comparar, orientar, formar y transferir criterio entre personas y campañas.",
-      "en": "If each of these images is accompanied by a clear technical note, what is built is no longer just a collection of photos, but a living knowledge base. A base that can be used to compare, guide, train and transfer criteria between people and campaigns.",
+      "en": "Adding a clear technical note to each image creates a living knowledge base. It can support comparisons, preliminary assessments and training, while helping people share practical judgement across teams and growing seasons.",
       "es": "Si cada una de esas imágenes se acompaña de una nota técnica clara, lo que se construye ya no es solo una colección de fotos, sino una base de conocimiento viva. Una base que puede servir para comparar, orientar, formar y transferir criterio entre personas y campañas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por eso el dúo imagen + Markdown no es un parche temporal. Es una forma sólida de capturar conocimiento agronómico real con una estructura que puede crecer bien y, además, dejar el sistema preparado para una capa multimodal más avanzada cuando la infraestructura lo permita.",
       "en": "That's why the image + Markdown duo is not a temporary patch. It is a solid way to capture real agronomic knowledge with a structure that can grow well and also leave the system ready for a more advanced multimodal layer when the infrastructure allows it.",
       "es": "Por eso el dúo imagen + Markdown no es un parche temporal. Es una forma sólida de capturar conocimiento agronómico real con una estructura que puede crecer bien y, además, dejar el sistema preparado para una capa multimodal más avanzada cuando la infraestructura lo permita.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Y aquí aparece quizá la implicación más interesante de todas. AgroClaw no es solo una demo sobre olivar. Lo que se ha validado es una plantilla de trabajo. Si un agente puede organizarse por capas, usar",
@@ -730,24 +930,39 @@
     },
     {
       "source": "AgroClaw abre una posibilidad potente para cooperativas, empresas agrarias y organizaciones del sector: convertir en criterio útil el conocimiento disperso de técnicos, agricultores, ganaderos y observaciones reales de finca.",
-      "en": "AgroClaw opens up a powerful possibility for cooperatives, agricultural companies and organizations in the sector: converting the dispersed knowledge of technicians, farmers, ranchers and real farm observations into useful criteria.",
+      "en": "AgroClaw points to a useful possibility for cooperatives, agricultural businesses and other organisations: making practical use of knowledge scattered across technicians, farmers, livestock producers and field observations.",
       "es": "AgroClaw abre una posibilidad potente para cooperativas, empresas agrarias y organizaciones del sector: convertir en criterio útil el conocimiento disperso de técnicos, agricultores, ganaderos y observaciones reales de finca.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En muchos contextos agrarios como en las cooperativas agrarias, el conocimiento no está centralizado. Está repartido entre personas (agricultores que observan el campo a diario, técnicos que interpretan síntomas), campañas, incidencias repetidas, prácticas locales que funcionan, notas de campo, fotografías reales de finca, tratamientos aplicados, resultados observados, etc. que no siempre se convierten en una base documental reutilizable. Un agente como AgroClaw puede servir precisamente para eso: no solo para “responder preguntas”, sino para actuar como memoria técnica operativa de una organización. Una memoria que ayude a identificar, priorizar, orientar y transferir conocimiento sin perder el contexto real del terreno.",
-      "en": "In many agricultural contexts such as agricultural cooperatives, knowledge is not centralized. It is distributed among people (farmers who observe the field daily, technicians who interpret symptoms), campaigns, repeated incidents, local practices that work, field notes, real farm photographs, treatments applied, observed results, etc. that do not always become a reusable documentary base. An agent like AgroClaw can serve precisely that: not only to “answer questions”, but to act as an organization's technical operational memory. A memory that helps identify, prioritize, guide and transfer knowledge without losing the real context of the terrain.",
+      "en": "In agricultural cooperatives, knowledge is often distributed across people and growing seasons: farmers’ daily observations, technicians’ interpretations, recurring incidents, effective local practices, field notes, photographs, treatments and observed results. Much of it never becomes reusable documentation. An assistant such as AgroClaw could help an organisation retain that practical knowledge, supporting identification, prioritisation and learning while preserving the context of each case.",
       "es": "En muchos contextos agrarios como en las cooperativas agrarias, el conocimiento no está centralizado. Está repartido entre personas (agricultores que observan el campo a diario, técnicos que interpretan síntomas), campañas, incidencias repetidas, prácticas locales que funcionan, notas de campo, fotografías reales de finca, tratamientos aplicados, resultados observados, etc. que no siempre se convierten en una base documental reutilizable. Un agente como AgroClaw puede servir precisamente para eso: no solo para “responder preguntas”, sino para actuar como memoria técnica operativa de una organización. Una memoria que ayude a identificar, priorizar, orientar y transferir conocimiento sin perder el contexto real del terreno.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "De esta manera, con los avances realizados en la base visual de AgroClaw, se hizo aún más evidente esta aplicación práctica. En este sentido, cada observación relevante podría convertirse en una entrada estructurada: imagen, ficha Markdown, fuente, fecha, cultivo, órgano afectado, valor orientativo, posibles confusiones, límite diagnóstico y, cuando proceda, revisión técnica.",
-      "en": "In this way, with the advances made in the visual base of AgroClaw, this practical application became even more evident. In this sense, each relevant observation could become a structured entry: image, Markdown file, source, date, culture, affected organ, indicative value, possible confusion, diagnostic limit and, when appropriate, technical review.",
+      "en": "The visual knowledge base makes this application more tangible. Each relevant observation could become a structured entry with an image, Markdown record, source, date, crop, affected plant part, preliminary interpretation, possible lookalikes, diagnostic limitations and, where appropriate, a technical review.",
       "es": "De esta manera, con los avances realizados en la base visual de AgroClaw, se hizo aún más evidente esta aplicación práctica. En este sentido, cada observación relevante podría convertirse en una entrada estructurada: imagen, ficha Markdown, fuente, fecha, cultivo, órgano afectado, valor orientativo, posibles confusiones, límite diagnóstico y, cuando proceda, revisión técnica.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ese flujo tiene una ventaja muy clara: no sustituye al técnico agrícola. Le da memoria, orden y velocidad. Permite recuperar casos parecidos, comparar síntomas, formar a personas nuevas y reducir la pérdida de conocimiento práctico que pueden quedar dispersos entre visitas de campo, conversaciones, fotografías de móvil y experiencia individual.",
@@ -758,17 +973,27 @@
     },
     {
       "source": "De hecho, una vez alineados SOUL.md, IDENTITY.md y AGENTS.md, el trabajo cambia de naturaleza. Ya no se trata tanto de reinventar el agente, sino de alimentarlo bien. Un equipo podría dedicarse específicamente a documentar nuevas referencias, revisar fichas, ordenar carpetas, crear índices visuales y transformar observaciones de campo en conocimiento reutilizable.",
-      "en": "In fact, once SOUL.md, IDENTITY.md and AGENTS.md are aligned, the nature of the work changes. It is no longer so much about reinventing the agent, but rather about feeding it well. A team could be specifically dedicated to documenting new references, reviewing files, sorting folders, creating visual indexes, and transforming field observations into reusable knowledge.",
+      "en": "Once SOUL.md, IDENTITY.md and AGENTS.md are aligned, much of the work shifts towards maintaining the knowledge base. A team could document new references, review records, organise folders, create visual indexes and turn field observations into reusable material.",
       "es": "De hecho, una vez alineados SOUL.md, IDENTITY.md y AGENTS.md, el trabajo cambia de naturaleza. Ya no se trata tanto de reinventar el agente, sino de alimentarlo bien. Un equipo podría dedicarse específicamente a documentar nuevas referencias, revisar fichas, ordenar carpetas, crear índices visuales y transformar observaciones de campo en conocimiento reutilizable.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esta es quizá la conclusión más prometedora del estado actual del proyecto: AgroClaw empieza a parecer menos una prueba técnica aislada y más una infraestructura de conocimiento agrario. Una infraestructura pequeña, todavía inicial, pero con una dirección clara: convertir experiencia de campo en memoria operativa.",
       "en": "This is perhaps the most promising conclusion from the current state of the project: AgroClaw is beginning to look less like an isolated technical test and more like an agricultural knowledge infrastructure. A small infrastructure, still initial, but with a clear direction: convert field experience into operational memory.",
       "es": "Esta es quizá la conclusión más prometedora del estado actual del proyecto: AgroClaw empieza a parecer menos una prueba técnica aislada y más una infraestructura de conocimiento agrario. Una infraestructura pequeña, todavía inicial, pero con una dirección clara: convertir experiencia de campo en memoria operativa.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por eso el resultado final de este proceso no es solo que AgroClaw ya responda mejor sobre repilo o que pueda listar imágenes de algodoncillo. Es algo más amplio: que un agente especializado, bien diseñado y alimentado con conocimiento real, puede empezar a comportarse como una herramienta técnicamente defendible. Y eso, para agricultura, no es poca cosa.",
@@ -799,10 +1024,15 @@
     },
     {
       "source": "Pero precisamente por eso la decisión final de esta fase ha sido más madura: priorizar una demo local estable, grabable y reproducible. Antes de intentar que AgroClaw esté disponible desde cualquier navegador, tenía más sentido demostrar bien qué hace, cómo lo hace y por qué su arquitectura aporta valor.",
-      "en": "But precisely for this reason the final decision of this phase has been more mature: to prioritize a stable, recordable and playable local demo. Before trying to make AgroClaw available from any browser, it made more sense to clearly demonstrate what it does, how it does it, and why its architecture provides value.",
+      "en": "We therefore prioritised a stable local demo that could be recorded and reproduced. Before making AgroClaw accessible from any browser, we wanted to demonstrate what it does, how it works and what its architecture contributes.",
       "es": "Pero precisamente por eso la decisión final de esta fase ha sido más madura: priorizar una demo local estable, grabable y reproducible. Antes de intentar que AgroClaw esté disponible desde cualquier navegador, tenía más sentido demostrar bien qué hace, cómo lo hace y por qué su arquitectura aporta valor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La arquitectura local actual es sencilla de explicar y mucho más controlable: un",
@@ -884,23 +1114,38 @@
     },
     {
       "source": "El otro cambio relevante es que AgroClaw ha dejado de depender únicamente de una configuración artesanal en una máquina local. La plantilla del workspace se ha llevado al repositorio (",
-      "en": "The other relevant change is that AgroClaw has stopped relying solely on a handcrafted setup on a local machine. The workspace template has been moved to the repository (",
+      "en": "Another change was moving beyond a setup that existed only on one local machine. We added the workspace template to the repository (",
       "es": "El otro cambio relevante es que AgroClaw ha dejado de depender únicamente de una configuración artesanal en una máquina local. La plantilla del workspace se ha llevado al repositorio (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ") como un árbol versionado y saneado, bajo server/workspace-template/. Esa carpeta contiene los archivos que definen al agente —IDENTITY.md, SOUL.md, AGENTS.md y otros documentos de contexto—, las",
-      "en": ") as a versioned and sanitized tree, under server/workspace-template/. That folder contains the files that define the agent - IDENTITY.md, SOUL.md, AGENTS.md and other context documents -, the",
+      "en": ") as a versioned directory under server/workspace-template/, prepared for sharing. It contains the files defining the agent—IDENTITY.md, SOUL.md, AGENTS.md and other context documents—the",
       "es": ") como un árbol versionado y saneado, bajo server/workspace-template/. Esa carpeta contiene los archivos que definen al agente —IDENTITY.md, SOUL.md, AGENTS.md y otros documentos de contexto—, las",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "específicas del olivar y la base de conocimiento con documentos técnicos e imágenes ­documentadas.",
-      "en": "specific to the olive grove and the knowledge base with technical documents and documented images.",
+      "en": "for olive farming, along with technical documents and documented images.",
       "es": "específicas del olivar y la base de conocimiento con documentos técnicos e imágenes ­documentadas.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Este punto es más importante de lo que parece. En muchos proyectos con agentes LLM, la parte visible es el",
@@ -987,8 +1232,13 @@
       "source": "La latencia ha sido otro aprendizaje práctico. Las pruebas locales muestran tiempos de respuesta de decenas de segundos, especialmente cuando el agente tiene que activar OpenClaw, consultar conocimiento, razonar con prudencia y generar una respuesta completa. Lo relevante es que el cuello de botella no parece estar principalmente en Vite ni en Node/Express, sino en la combinación de OpenClaw, el modelo, la preparación del contexto y el propio razonamiento del agente.",
       "en": "Latency has been another practical learning. Local tests show response times of tens of seconds, especially when the agent has to activate OpenClaw, query knowledge, reason prudently, and generate a complete response. What is relevant is that the bottleneck does not seem to be primarily in Vite or Node/Express, but in the combination of OpenClaw, the model, the preparation of the context and the agent's own reasoning.",
       "es": "La latencia ha sido otro aprendizaje práctico. Las pruebas locales muestran tiempos de respuesta de decenas de segundos, especialmente cuando el agente tiene que activar OpenClaw, consultar conocimiento, razonar con prudencia y generar una respuesta completa. Lo relevante es que el cuello de botella no parece estar principalmente en Vite ni en Node/Express, sino en la combinación de OpenClaw, el modelo, la preparación del contexto y el propio razonamiento del agente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "También obliga a elegir bien los",
@@ -1008,8 +1258,13 @@
       "source": "La consecuencia es clara: de momento, la demo debe medirse por calidad técnica, trazabilidad y claridad. En un ámbito como el agrario, las respuestas a las consultas deben ser bien acotadas y apoyadas en memoria documental.",
       "en": "The consequence is clear: for now, the demo must be measured by technical quality, traceability and clarity. In an area such as agriculture, responses to queries must be well defined and supported by documentary memory.",
       "es": "La consecuencia es clara: de momento, la demo debe medirse por calidad técnica, trazabilidad y claridad. En un ámbito como el agrario, las respuestas a las consultas deben ser bien acotadas y apoyadas en memoria documental.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En su estado actual, AgroClaw demuestra varias cosas a la vez. La primera es que un agente especializado puede diseñarse con una arquitectura entendible: identidad, tono, reglas,",
@@ -1033,17 +1288,27 @@
     },
     {
       "source": "La cuarta quizá sea la más importante: AgroClaw empieza a tener una frontera profesional clara. No pretende sustituir al técnico agrícola, ni emitir recetas cerradas sin contexto, ni reemplazar registros oficiales, etiquetas o vademécums. Su valor está en otra parte: ayudar a recuperar conocimiento, estructurar observaciones, orientar hipótesis, explicar diferencias entre problemas y servir como memoria operativa para equipos técnicos.",
-      "en": "The fourth is perhaps the most important: AgroClaw is beginning to have a clear professional boundary. It is not intended to replace the agricultural technician, nor to issue closed recipes without context, nor to replace official records, labels or vademecums. Its value lies elsewhere: helping to retrieve knowledge, structuring observations, guiding hypotheses, explaining differences between problems, and serving as working memory for technical teams.",
+      "en": "Its intended professional boundary is equally important. AgroClaw does not replace agricultural professionals, issue treatment prescriptions without context or supersede official registers, product labels and technical references. Its purpose is to help retrieve knowledge, structure observations, explore hypotheses, explain differences between problems and support technical teams.",
       "es": "La cuarta quizá sea la más importante: AgroClaw empieza a tener una frontera profesional clara. No pretende sustituir al técnico agrícola, ni emitir recetas cerradas sin contexto, ni reemplazar registros oficiales, etiquetas o vademécums. Su valor está en otra parte: ayudar a recuperar conocimiento, estructurar observaciones, orientar hipótesis, explicar diferencias entre problemas y servir como memoria operativa para equipos técnicos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esto encaja muy bien con el tipo de producto que Saturdays.AI puede mostrar como ejemplo de IA aplicada. No se trata de enseñar “otro chatbot”, sino una forma de capturar conocimiento experto y hacerlo utilizable. AgroClaw muestra que un agente puede ser una interfaz conversacional, sí, pero también una arquitectura documental, una metodología de curación de conocimiento y una base para futuros flujos de campo.",
-      "en": "This fits very well with the type of product that Saturdays.AI can show as an example of applied AI. It is not about teaching “another chatbot”, but a way to capture expert knowledge and make it usable. AgroClaw shows that an agent can be a conversational interface, yes, but also a document architecture, a knowledge curation methodology, and a foundation for future field flows.",
+      "en": "This is a useful example of applied AI for Saturdays.AI: a way to capture expert knowledge and make it easier to use. AgroClaw brings together a conversational interface, a document structure and a knowledge-curation process that could support future field workflows.",
       "es": "Esto encaja muy bien con el tipo de producto que Saturdays.AI puede mostrar como ejemplo de IA aplicada. No se trata de enseñar “otro chatbot”, sino una forma de capturar conocimiento experto y hacerlo utilizable. AgroClaw muestra que un agente puede ser una interfaz conversacional, sí, pero también una arquitectura documental, una metodología de curación de conocimiento y una base para futuros flujos de campo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La demo local permite contar esa historia sin sobreactuar. Se puede enseñar el",
@@ -1091,8 +1356,13 @@
       "source": "Por eso, tener el workspace disponible en local no es un simple detalle técnico ni una solución provisional para grabar la demo. Es una condición central para que el agente pueda comportarse como AgroClaw: recuperar su memoria documental, aplicar sus reglas, usar sus capacidades específicas y apoyarse en las referencias visuales documentadas. La demo permite mostrar que esas referencias no son decoración, sino conocimiento estructurado dentro del sistema.",
       "en": "Therefore, having the workspace available locally is not a simple technical detail or a provisional solution to record the demo. It is a central condition for the agent to be able to behave like AgroClaw: recover its documentary memory, apply its rules, use its specific capabilities and rely on documented visual references. The demo shows that these references are not decoration, but structured knowledge within the system.",
       "es": "Por eso, tener el workspace disponible en local no es un simple detalle técnico ni una solución provisional para grabar la demo. Es una condición central para que el agente pueda comportarse como AgroClaw: recuperar su memoria documental, aplicar sus reglas, usar sus capacidades específicas y apoyarse en las referencias visuales documentadas. La demo permite mostrar que esas referencias no son decoración, sino conocimiento estructurado dentro del sistema.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esa narrativa es sólida porque no se trata solo de enseñar una interfaz que responde, sino de mostrar una arquitectura completa:",
@@ -1113,8 +1383,13 @@
       "source": "El despliegue público seguirá siendo una fase natural del proyecto. Habrá que resolver dominio, HTTPS, persistencia, seguridad, tiempos de respuesta y límites de infraestructura. Pero ahora esa discusión puede llegar en el momento adecuado: después de demostrar que AgroClaw merece ser desplegado, no antes.",
       "en": "Public deployment will continue to be a natural phase of the project. Domain, HTTPS, persistence, security, response times and infrastructure limits will have to be resolved. But now that discussion may come at the right time: after proving that AgroClaw deserves to be deployed, not before.",
       "es": "El despliegue público seguirá siendo una fase natural del proyecto. Habrá que resolver dominio, HTTPS, persistencia, seguridad, tiempos de respuesta y límites de infraestructura. Pero ahora esa discusión puede llegar en el momento adecuado: después de demostrar que AgroClaw merece ser desplegado, no antes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La prioridad inmediata ha sido grabar una demo local que sea estable y explicable. Esa grabación debe mostrar el valor del agente, no la complejidad de la infraestructura. Una vez validado el relato técnico y funcional, tendrá sentido volver a pensar en una arquitectura pública, quizá con un",
@@ -1138,10 +1413,15 @@
     },
     {
       "source": "La evolución natural de AgroClaw no pasa solo por “ponerlo online”. Pasa por convertirlo en producto: definir casos de uso, seleccionar cultivos o problemas prioritarios, ordenar el conocimiento, establecer revisiones técnicas, decidir qué respuestas puede dar y cuáles debe derivar, y diseñar flujos donde agricultores, técnicos y cooperativas puedan aportar observaciones reales de campo.",
-      "en": "The natural evolution of AgroClaw is not just about “putting it online”. It involves converting it into a product: defining use cases, selecting priority crops or problems, organizing knowledge, establishing technical reviews, deciding what answers it can give and which ones it should derive, and designing flows where farmers, technicians and cooperatives can provide real field observations.",
+      "en": "Turning AgroClaw into a product involves more than putting it online. It requires defined use cases, priority crops and problems, an organised knowledge base, technical review, clear boundaries on what the assistant can answer and when it should refer a case to a professional, and workflows for farmers, technicians and cooperatives to contribute field observations.",
       "es": "La evolución natural de AgroClaw no pasa solo por “ponerlo online”. Pasa por convertirlo en producto: definir casos de uso, seleccionar cultivos o problemas prioritarios, ordenar el conocimiento, establecer revisiones técnicas, decidir qué respuestas puede dar y cuáles debe derivar, y diseñar flujos donde agricultores, técnicos y cooperativas puedan aportar observaciones reales de campo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AgroClaw empezó como una prueba de agente AgTech sobre olivar, pero el proyecto ha terminado enseñando algo más amplio: cómo construir una memoria técnica asistida por IA. La combinación de OpenClaw, un modelo suficientemente capaz, una arquitectura por capas,",
@@ -1181,7 +1461,12 @@
       "source": "agricultura",
       "en": "agriculture",
       "es": "agricultura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AgroClaw",
@@ -1191,10 +1476,422 @@
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 may 2026.",
-      "en": "A history of the Saturdays.AI community. Originally published on May 18, 2026.",
+      "en": "A story from the Saturdays.AI community. Originally published on May 18, 2026.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 18 may 2026.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
+    },
+    {
+      "source": "Índices visuales: organizar la base de conocimiento para el trabajo técnico",
+      "en": "Visual indexes: organising the knowledge base for technical use",
+      "es": "Índices visuales: organizar la base de conocimiento para el trabajo técnico",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AgroClaw ha nacido como un asistente AgTech en español, con foco inicial en el olivar. Su objetivo no es ser un chatbot agrícola genérico, sino ayudar en tareas concretas: diagnóstico orientativo de plagas y enfermedades, uso de claves dicotómicas, interpretación de síntomas de campo, recomendaciones de riego e incluso lectura contextual de datos procedentes de sensores AIoT. Para ello, se montó sobre OpenClaw y se organizó con una arquitectura por capas: identidad, carácter, comportamiento global, skills y base documental.",
+      "en": "AgroClaw began as a Spanish-language AgTech assistant focused on olive farming. It aims to support specific tasks: preliminary assessment of pests and diseases, use of dichotomous identification keys, interpretation of field symptoms, irrigation guidance and contextual interpretation of AIoT sensor data. We built it on OpenClaw with a layered architecture covering identity, tone, working rules, skills and a knowledge base.",
+      "es": "AgroClaw ha nacido como un asistente AgTech en español, con foco inicial en el olivar. Su objetivo no es ser un chatbot agrícola genérico, sino ayudar en tareas concretas: diagnóstico orientativo de plagas y enfermedades, uso de claves dicotómicas, interpretación de síntomas de campo, recomendaciones de riego e incluso lectura contextual de datos procedentes de sensores AIoT. Para ello, se montó sobre OpenClaw y se organizó con una arquitectura por capas: identidad, carácter, comportamiento global, skills y base documental.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Esa arquitectura no es cosmética. Una de las ideas más útiles que ha dejado el proceso es que un agente LLM bien construido se parece, en su organización, a un sistema orientado a objetos. IDENTITY.md define quién es el agente; SOUL.md, cómo se expresa; AGENTS.md, cómo trabaja; las skills delimitan qué sabe hacer; y la base documental define qué sabe sobre el dominio.",
+      "en": "The architecture has a practical purpose. One useful insight was that an LLM agent can be organised somewhat like an object-oriented system. IDENTITY.md describes the agent’s identity; SOUL.md defines its tone; AGENTS.md sets out how it works; skills describe specific tasks; and the knowledge base provides domain references.",
+      "es": "Esa arquitectura no es cosmética. Una de las ideas más útiles que ha dejado el proceso es que un agente LLM bien construido se parece, en su organización, a un sistema orientado a objetos. IDENTITY.md define quién es el agente; SOUL.md, cómo se expresa; AGENTS.md, cómo trabaja; las skills delimitan qué sabe hacer; y la base documental define qué sabe sobre el dominio.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La gracia de este esquema es práctica: facilita mantener el sistema, localizar fallos y evolucionar una parte sin romper todas las demás. No es un detalle menor. Es lo que permite pasar de un prompt enorme e inmanejable a un sistema que puede crecer con criterio.",
+      "en": "The benefit is practical: the structure makes the system easier to maintain, helps us locate problems and lets us change one part without reworking everything else. It provides a path from one enormous, unwieldy prompt to a system that can grow in a more controlled way.",
+      "es": "La gracia de este esquema es práctica: facilita mantener el sistema, localizar fallos y evolucionar una parte sin romper todas las demás. No es un detalle menor. Es lo que permite pasar de un prompt enorme e inmanejable a un sistema que puede crecer con criterio.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La analogía tiene límites. Organizar un agente LLM como un sistema orientado a objetos no vuelve determinista su seguimiento de instrucciones. En este proyecto tuvimos que declarar y comprobar las prioridades entre identidad, tono, reglas, habilidades, documentación y peticiones del usuario. Las instrucciones claras ayudan, pero los límites críticos también requieren controles en el software que rodea al modelo. Un prompt no garantiza por sí solo el cumplimiento de todas las reglas.",
+      "en": "The analogy has limits. Organising an LLM agent like an object-oriented system does not make its instruction-following deterministic. In this project, we had to state and test priorities among identity, tone, rules, skills, reference material and user requests. Clear instructions help, but critical boundaries also require controls in the surrounding software. A prompt alone cannot guarantee that the model will follow every rule.",
+      "es": "La analogía tiene límites. Organizar un agente LLM como un sistema orientado a objetos no vuelve determinista su seguimiento de instrucciones. En este proyecto tuvimos que declarar y comprobar las prioridades entre identidad, tono, reglas, habilidades, documentación y peticiones del usuario. Las instrucciones claras ayudan, pero los límites críticos también requieren controles en el software que rodea al modelo. Un prompt no garantiza por sí solo el cumplimiento de todas las reglas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El caso del repilo del olivo nos sirvió para poner a prueba AgroClaw. Queríamos que propusiera una identificación orientativa y explicara los enfoques preventivos y curativos descritos en la documentación. Habíamos reescrito las habilidades, reforzado AGENTS.md, afinado la identidad y estructurado el conocimiento alrededor de este caso. Eran pruebas de respuesta del asistente, no una validación de un diagnóstico o tratamiento en campo.",
+      "en": "The olive peacock spot case was particularly useful for testing AgroClaw. We wanted it to suggest a preliminary identification and explain the preventive and curative approaches described in its reference material. We had rewritten the skills, reinforced AGENTS.md, refined the identity and structured the knowledge base around this specific case. These were tests of the assistant’s responses, not validation of a diagnosis or a treatment in the field.",
+      "es": "El caso del repilo del olivo nos sirvió para poner a prueba AgroClaw. Queríamos que propusiera una identificación orientativa y explicara los enfoques preventivos y curativos descritos en la documentación. Habíamos reescrito las habilidades, reforzado AGENTS.md, afinado la identidad y estructurado el conocimiento alrededor de este caso. Eran pruebas de respuesta del asistente, no una validación de un diagnóstico o tratamiento en campo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Las primeras respuestas no ofrecían el nivel de explicación que buscábamos. El agente proponía el repilo como problema probable, pero repetía referencias a tratamientos preventivos con cobre y a la consulta del registro de productos fitosanitarios sin explicar bien las diferencias entre los enfoques documentados. Consultar el registro seguía siendo imprescindible; lo que faltaba era una explicación más útil. Empezamos a sospechar que añadir instrucciones o documentos no bastaría para resolverlo.",
+      "en": "The early responses did not offer the level of explanation we wanted. The agent proposed peacock spot as the likely problem, but largely repeated references to preventive copper treatments and checking the plant protection product register, without clearly explaining the differences between the approaches documented in its knowledge base. Checking the register was still essential; the shortcoming was the lack of a more useful explanation. We began to suspect that adding more instructions or documents would not, by itself, resolve the issue.",
+      "es": "Las primeras respuestas no ofrecían el nivel de explicación que buscábamos. El agente proponía el repilo como problema probable, pero repetía referencias a tratamientos preventivos con cobre y a la consulta del registro de productos fitosanitarios sin explicar bien las diferencias entre los enfoques documentados. Consultar el registro seguía siendo imprescindible; lo que faltaba era una explicación más útil. Empezamos a sospechar que añadir instrucciones o documentos no bastaría para resolverlo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Durante varias iteraciones revisamos las habilidades, AGENTS.md y la organización documental. Mejoraron algunos aspectos del agente, pero no el problema que estábamos observando. En nuestras pruebas, cambiar de GPT-5.4-mini a GPT-5.4, con la misma arquitectura y documentación, produjo explicaciones más útiles.",
+      "en": "We revised the skills, AGENTS.md and document structure over several iterations. This improved parts of the assistant’s behaviour, but did not resolve the issue we were observing. In our tests, switching from GPT-5.4-mini to GPT-5.4 while keeping the same architecture and reference material produced more useful explanations.",
+      "es": "Durante varias iteraciones revisamos las habilidades, AGENTS.md y la organización documental. Mejoraron algunos aspectos del agente, pero no el problema que estábamos observando. En nuestras pruebas, cambiar de GPT-5.4-mini a GPT-5.4, con la misma arquitectura y documentación, produjo explicaciones más útiles.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En los ejemplos probados, GPT-5.4 distinguió mejor entre enfoques preventivos y curativos y explicó las materias activas recogidas en la documentación. Fue una observación del prototipo, no una comparación controlada ni una prueba de fiabilidad agronómica. Antes de cualquier tratamiento real siguen siendo necesarias la comprobación del diagnóstico, de las autorizaciones vigentes y de la etiqueta, con asesoramiento cualificado.",
+      "en": "In the examples we tested, GPT-5.4 distinguished preventive and curative approaches more clearly and discussed the active ingredients described in the reference material. This was an observation from the prototype, not a controlled comparison or proof of agronomic reliability. Before any real treatment, the diagnosis, current authorisations and product label still need to be checked with qualified advice.",
+      "es": "En los ejemplos probados, GPT-5.4 distinguió mejor entre enfoques preventivos y curativos y explicó las materias activas recogidas en la documentación. Fue una observación del prototipo, no una comparación controlada ni una prueba de fiabilidad agronómica. Antes de cualquier tratamiento real siguen siendo necesarias la comprobación del diagnóstico, de las autorizaciones vigentes y de la etiqueta, con asesoramiento cualificado.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Esta fue una de las lecciones técnicas más útiles del proyecto: añadir instrucciones no siempre basta. Reescribir prompts una y otra vez puede dejar de aportar mejoras. Si el avance se estanca, conviene evaluar el modelo junto con la arquitectura, la recuperación de información y la calidad de la documentación.",
+      "en": "This was one of the project’s most useful technical lessons: adding more instructions is not always enough. Repeatedly rewriting prompts can become unproductive. When progress stalls, it is worth examining the model alongside the architecture, retrieval process and quality of the documentation.",
+      "es": "Esta fue una de las lecciones técnicas más útiles del proyecto: añadir instrucciones no siempre basta. Reescribir prompts una y otra vez puede dejar de aportar mejoras. Si el avance se estanca, conviene evaluar el modelo junto con la arquitectura, la recuperación de información y la calidad de la documentación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En nuestras pruebas con AgroClaw, el modelo pequeño resolvía algunas tareas, mientras que GPT-5.4 explicaba mejor este caso concreto. El resultado nos ayudó a elegir la configuración de la demo, pero no establece una clasificación universal de ambos modelos.",
+      "en": "In our AgroClaw tests, the smaller model handled some tasks adequately, while GPT-5.4 produced better explanations in this particular case. That result helped us choose a configuration for the demo, but does not establish a universal ranking of the two models.",
+      "es": "En nuestras pruebas con AgroClaw, el modelo pequeño resolvía algunas tareas, mientras que GPT-5.4 explicaba mejor este caso concreto. El resultado nos ayudó a elegir la configuración de la demo, pero no establece una clasificación universal de ambos modelos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La segunda lección tiene que ver con el alcance del asistente. En esta fase no trabajamos con dosis exactas ni prescribimos formulados comerciales concretos. AgroClaw busca facilitar el acceso a información técnica; las autorizaciones vigentes, las etiquetas y el criterio profesional siguen siendo esenciales para decidir cualquier tratamiento real.",
+      "en": "A second lesson concerns the assistant’s scope. We did not work with exact doses or prescribe particular commercial formulations in this phase. AgroClaw is intended to support access to technical information, while current authorisations, product labels and professional judgement remain essential to any real treatment decision.",
+      "es": "La segunda lección tiene que ver con el alcance del asistente. En esta fase no trabajamos con dosis exactas ni prescribimos formulados comerciales concretos. AgroClaw busca facilitar el acceso a información técnica; las autorizaciones vigentes, las etiquetas y el criterio profesional siguen siendo esenciales para decidir cualquier tratamiento real.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El prototipo apunta a un posible valor para explorar causas probables, ordenar el razonamiento técnico, priorizar preguntas y explicar los enfoques preventivos o curativos de sus fuentes. No acredita la precisión diagnóstica ni la idoneidad de un tratamiento. Las dosis, los usos autorizados y las condiciones de la etiqueta deben verificarse por separado.",
+      "en": "The prototype suggests potential value in exploring likely causes, organising technical reasoning, prioritising questions and explaining preventive or curative approaches described in its sources. It does not establish diagnostic accuracy or the suitability of a treatment. Exact doses, authorised uses and label requirements must be verified separately.",
+      "es": "El prototipo apunta a un posible valor para explorar causas probables, ordenar el razonamiento técnico, priorizar preguntas y explicar los enfoques preventivos o curativos de sus fuentes. No acredita la precisión diagnóstica ni la idoneidad de un tratamiento. Las dosis, los usos autorizados y las condiciones de la etiqueta deben verificarse por separado.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Otra línea de aprendizaje relevante apareció al pensar en la base de conocimiento visual. A primera vista, podría parecer que guardar imágenes dentro del knowledge solo tiene sentido si el agente las “ve” automáticamente. Pero esa expectativa simplifica demasiado el problema.",
+      "en": "We learned something else while building the visual knowledge base. Storing images may seem useful only if the agent can automatically “see” them, but that overlooks the value of documenting and organising visual references.",
+      "es": "Otra línea de aprendizaje relevante apareció al pensar en la base de conocimiento visual. A primera vista, podría parecer que guardar imágenes dentro del knowledge solo tiene sentido si el agente las “ve” automáticamente. Pero esa expectativa simplifica demasiado el problema.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Así aportan valor las imágenes en esta implementación. La recuperación e inspección automática de sus píxeles no está integrada del mismo modo que la consulta de documentos Markdown. AgroClaw puede leer las descripciones, recuperar rutas y enumerar ejemplos relevantes cuando se le pide. Razonar a partir de esas fichas no debe confundirse con analizar directamente las imágenes.",
+      "en": "That is how the images currently support this implementation. Automatic retrieval and inspection of image pixels is not integrated in the same way as Markdown retrieval. AgroClaw can read the written descriptions, retrieve file paths and list relevant examples when asked. Reasoning from those descriptions should not be confused with directly analysing the images.",
+      "es": "Así aportan valor las imágenes en esta implementación. La recuperación e inspección automática de sus píxeles no está integrada del mismo modo que la consulta de documentos Markdown. AgroClaw puede leer las descripciones, recuperar rutas y enumerar ejemplos relevantes cuando se le pide. Razonar a partir de esas fichas no debe confundirse con analizar directamente las imágenes.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Se añadieron y documentaron referencias visuales para problemas como algodoncillo, Saissetia o cochinilla de la tizne, otiorrinco, tuberculosis del olivo, antracnosis, abichado del olivo por Euzophera, Xylella, barrenillo, verticilosis y prays. Cada imagen quedó acompañada por un archivo Markdown con una estructura estable: cultivo, órgano afectado, diagnóstico orientativo, descripción visual, valor diagnóstico, interpretación agronómica, limitaciones, nota de uso para AgroClaw y fuente.",
+      "en": "We added documented references for olive psyllid, Saissetia or black scale, Otiorhynchus weevils, olive knot, anthracnose, Euzophera damage, Xylella, bark borers, Verticillium wilt and the olive moth Prays. Each image received a Markdown record with the same structure: crop, affected plant part, tentative identification, visual description, diagnostic relevance, agronomic interpretation, limitations, a usage note for AgroClaw and the source.",
+      "es": "Se añadieron y documentaron referencias visuales para problemas como algodoncillo, Saissetia o cochinilla de la tizne, otiorrinco, tuberculosis del olivo, antracnosis, abichado del olivo por Euzophera, Xylella, barrenillo, verticilosis y prays. Cada imagen quedó acompañada por un archivo Markdown con una estructura estable: cultivo, órgano afectado, diagnóstico orientativo, descripción visual, valor diagnóstico, interpretación agronómica, limitaciones, nota de uso para AgroClaw y fuente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La prueba mostró que las referencias visuales documentadas permiten algo más que recuperar archivos: el agente pudo ordenarlas según los criterios de sus fichas. La utilidad práctica de esa clasificación sigue requiriendo revisión técnica.",
+      "en": "This test showed that documented visual references can support more than file retrieval: the agent could organise them according to the criteria in their descriptions. Whether that ranking is useful in practice still requires technical review.",
+      "es": "La prueba mostró que las referencias visuales documentadas permiten algo más que recuperar archivos: el agente pudo ordenarlas según los criterios de sus fichas. La utilidad práctica de esa clasificación sigue requiriendo revisión técnica.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Ese tipo de archivo convierte el knowledge en algo más parecido a una herramienta técnica mantenible. No obliga al agente a improvisar la organización de las imágenes cada vez. Le ofrece una capa intermedia: una guía interna de recuperación visual, útil para comparar síntomas, evitar confusiones y mantener prudencia diagnóstica.",
+      "en": "This makes the knowledge base easier to maintain. The agent does not have to invent an organisational scheme every time: it has an internal retrieval guide to help compare symptoms, identify possible confusion and keep its conclusions appropriately cautious.",
+      "es": "Ese tipo de archivo convierte el knowledge en algo más parecido a una herramienta técnica mantenible. No obliga al agente a improvisar la organización de las imágenes cada vez. Le ofrece una capa intermedia: una guía interna de recuperación visual, útil para comparar síntomas, evitar confusiones y mantener prudencia diagnóstica.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Un punto importante del diseño de AgroClaw es que no queda conceptualmente atado a un único modelo LLM. La arquitectura se apoya en una tríada estable —IDENTITY.md, SOUL.md y AGENTS.md— junto con skills y base de conocimiento. Esa estructura define quién es el agente, cómo debe comportarse, qué límites debe respetar y sobre qué documentación debe apoyarse.",
+      "en": "AgroClaw is not tied to one LLM. Its architecture centres on IDENTITY.md, SOUL.md and AGENTS.md, together with skills and a knowledge base. These describe the agent’s identity, behaviour, boundaries and supporting documentation.",
+      "es": "Un punto importante del diseño de AgroClaw es que no queda conceptualmente atado a un único modelo LLM. La arquitectura se apoya en una tríada estable —IDENTITY.md, SOUL.md y AGENTS.md— junto con skills y base de conocimiento. Esa estructura define quién es el agente, cómo debe comportarse, qué límites debe respetar y sobre qué documentación debe apoyarse.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Por eso, el dúo imagen + Markdown sigue siendo una decisión útil. La imagen actúa como referencia técnica y su ficha describe síntomas, órgano afectado, valor orientativo, posibles confusiones, limitaciones y fuente. AgroClaw puede utilizar esa descripción aunque la recuperación y el análisis directo de las imágenes todavía no sean el eje del sistema.",
+      "en": "The image + Markdown pair remains a useful design choice. The image is a technical reference, while its written record describes the symptoms, affected plant part, relevance to assessment, possible lookalikes, limitations and source. AgroClaw can use that description even when direct image retrieval and analysis are not central to the system.",
+      "es": "Por eso, el dúo imagen + Markdown sigue siendo una decisión útil. La imagen actúa como referencia técnica y su ficha describe síntomas, órgano afectado, valor orientativo, posibles confusiones, limitaciones y fuente. AgroClaw puede utilizar esa descripción aunque la recuperación y el análisis directo de las imágenes todavía no sean el eje del sistema.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "De la demo sobre olivar surge una lección más amplia: la estructura por capas ofrece una forma de trabajo que merece probarse en otros contextos. Unas habilidades bien delimitadas y una documentación de dominio cuidada pueden aportar tanto como la elección del modelo. El prototipo muestra cómo organizar ese trabajo; todavía no acredita su fiabilidad en el campo.",
+      "en": "A broader lesson is emerging from the olive-farming demo: the layered structure offers a working approach worth testing in other settings. Well-defined skills and domain documentation can contribute as much as model selection. The prototype demonstrates a way to organise that work; it does not yet establish reliability in field use.",
+      "es": "De la demo sobre olivar surge una lección más amplia: la estructura por capas ofrece una forma de trabajo que merece probarse en otros contextos. Unas habilidades bien delimitadas y una documentación de dominio cuidada pueden aportar tanto como la elección del modelo. El prototipo muestra cómo organizar ese trabajo; todavía no acredita su fiabilidad en el campo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Este flujo busca apoyar al técnico agrícola. Puede facilitar la recuperación, organización y comparación de casos, ayudar a formar a personas nuevas y reducir la pérdida de conocimiento práctico disperso entre visitas de campo, conversaciones, fotografías de móvil y experiencia individual.",
+      "en": "This workflow is intended to support agricultural professionals. It could make relevant knowledge easier to retrieve, organise and compare, help train new colleagues and reduce the loss of practical experience scattered across field visits, conversations, phone photographs and individual memories.",
+      "es": "Este flujo busca apoyar al técnico agrícola. Puede facilitar la recuperación, organización y comparación de casos, ayudar a formar a personas nuevas y reducir la pérdida de conocimiento práctico disperso entre visitas de campo, conversaciones, fotografías de móvil y experiencia individual.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El resultado va más allá de explicar mejor el repilo o enumerar imágenes de algodoncillo. Apunta a una vía para construir una herramienta especializada apoyada en conocimiento agrario documentado. Determinar su fiabilidad requerirá nuevas evaluaciones y revisión experta.",
+      "en": "The result goes beyond better explanations of peacock spot or lists of olive psyllid images. It suggests a path towards a specialised tool grounded in documented agricultural knowledge. Establishing how reliable that tool is will require further evaluation and expert review.",
+      "es": "El resultado va más allá de explicar mejor el repilo o enumerar imágenes de algodoncillo. Apunta a una vía para construir una herramienta especializada apoyada en conocimiento agrario documentado. Determinar su fiabilidad requerirá nuevas evaluaciones y revisión experta.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Los últimos avances del proyecto han añadido una lección adicional: no toda validación técnica necesita empezar por una demo pública compleja. Durante el proceso se exploró una arquitectura con frontend en Netlify, backend en Coolify, VPS, contenedor persistente y OpenClaw ejecutándose en remoto. Esa línea fue útil porque permitió entender mejor los requisitos reales de despliegue: HTTPS, dominio, exposición segura del backend, persistencia del workspace, tiempos de espera, arranque del agente, límites del contenedor y latencia de las respuestas.",
+      "en": "The latest stage added another lesson: technical testing does not always need to start with a complex public demo. We explored a remote architecture with a Netlify frontend, a backend managed through Coolify on a VPS, a persistent container and OpenClaw running remotely. This helped us understand the deployment requirements: HTTPS, a domain, secure backend access, workspace persistence, timeouts, agent startup, container limits and response latency.",
+      "es": "Los últimos avances del proyecto han añadido una lección adicional: no toda validación técnica necesita empezar por una demo pública compleja. Durante el proceso se exploró una arquitectura con frontend en Netlify, backend en Coolify, VPS, contenedor persistente y OpenClaw ejecutándose en remoto. Esa línea fue útil porque permitió entender mejor los requisitos reales de despliegue: HTTPS, dominio, exposición segura del backend, persistencia del workspace, tiempos de espera, arranque del agente, límites del contenedor y latencia de las respuestas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La arquitectura local actual es sencilla de explicar y mucho más controlable: un frontend Vite/React se comunica con un backend puente Node/Express; ese backend invoca OpenClaw; y OpenClaw utiliza el workspace de AgroClaw, donde viven la identidad, el tono, las reglas de trabajo, las skills y la base documental del olivar. En ese esquema, el workspace no es un proceso separado, sino la memoria técnica y operativa que da forma al comportamiento del agente.",
+      "en": "The local architecture is straightforward: a Vite/React frontend communicates with a Node/Express bridge backend, which invokes OpenClaw. OpenClaw uses the AgroClaw workspace containing its identity, tone, working rules, skills and olive-farming knowledge base. The workspace is not a separate running process; it stores the context that shapes the agent’s behaviour.",
+      "es": "La arquitectura local actual es sencilla de explicar y mucho más controlable: un frontend Vite/React se comunica con un backend puente Node/Express; ese backend invoca OpenClaw; y OpenClaw utiliza el workspace de AgroClaw, donde viven la identidad, el tono, las reglas de trabajo, las skills y la base documental del olivar. En ese esquema, el workspace no es un proceso separado, sino la memoria técnica y operativa que da forma al comportamiento del agente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Una demo local reduce los problemas de despliegue que pueden distraer de la evaluación del agente. Una presentación remota puede fallar por DNS, HTTPS, CORS, arranques en frío, tiempos de espera o persistencia del contenedor. Ejecutarla en local elimina algunas de esas dependencias, aunque la latencia del proveedor del modelo puede seguir afectando a las respuestas. Así podemos centrarnos en la recuperación del conocimiento, la calidad y prudencia de las explicaciones y su utilidad para el caso AgTech.",
+      "en": "A local demo reduces the number of deployment problems that can distract from testing the agent. A remote presentation can fail because of DNS, HTTPS, CORS, cold starts, timeouts or container persistence. Running locally removes some of those dependencies, although model-provider latency can still affect responses. This lets us focus on knowledge retrieval, the quality and caution of the explanations, and usefulness for the AgTech case.",
+      "es": "Una demo local reduce los problemas de despliegue que pueden distraer de la evaluación del agente. Una presentación remota puede fallar por DNS, HTTPS, CORS, arranques en frío, tiempos de espera o persistencia del contenedor. Ejecutarla en local elimina algunas de esas dependencias, aunque la latencia del proveedor del modelo puede seguir afectando a las respuestas. Así podemos centrarnos en la recuperación del conocimiento, la calidad y prudencia de las explicaciones y su utilidad para el caso AgTech.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Este punto es más importante de lo que parece. En muchos proyectos con agentes LLM, la parte visible es el frontend y la parte difícil queda escondida en una carpeta local difícil de reproducir. En AgroClaw, el avance ha consistido en convertir esa carpeta en una plantilla portable: sin credenciales, sin tokens, sin .env, sin rutas personales absolutas, sin estado privado y sin logs. Es decir, una base que puede reconstruirse en otra instalación sin exponer información sensible.",
+      "en": "In many LLM-agent projects, the frontend is visible but the important configuration is hidden in a local folder that is hard to reproduce. We prepared a portable template, removing credentials, tokens, .env files, personal absolute paths, private state and logs. The intention is to make the setup reproducible without sharing sensitive data.",
+      "es": "Este punto es más importante de lo que parece. En muchos proyectos con agentes LLM, la parte visible es el frontend y la parte difícil queda escondida en una carpeta local difícil de reproducir. En AgroClaw, el avance ha consistido en convertir esa carpeta en una plantilla portable: sin credenciales, sin tokens, sin .env, sin rutas personales absolutas, sin estado privado y sin logs. Es decir, una base que puede reconstruirse en otra instalación sin exponer información sensible.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Con esa decisión, el proyecto gana trazabilidad. Ya no estamos solo ante un agente que funcionó una vez en una sesión concreta. Estamos ante una arquitectura que puede reconstruirse: se clona la rama adecuada, se copia la plantilla al workspace real de OpenClaw y se arranca el backend y el frontend local. Esa reproducibilidad cambia la naturaleza del proyecto, porque permite explicar AgroClaw como una demo técnica verificable, no como una caja negra.",
+      "en": "This improves traceability. The setup can be reconstructed by cloning the relevant branch, copying the template into the actual OpenClaw workspace and starting the local backend and frontend. It makes the demo easier to inspect and reproduce instead of depending on one successful session on one machine.",
+      "es": "Con esa decisión, el proyecto gana trazabilidad. Ya no estamos solo ante un agente que funcionó una vez en una sesión concreta. Estamos ante una arquitectura que puede reconstruirse: se clona la rama adecuada, se copia la plantilla al workspace real de OpenClaw y se arranca el backend y el frontend local. Esa reproducibilidad cambia la naturaleza del proyecto, porque permite explicar AgroClaw como una demo técnica verificable, no como una caja negra.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "También se ha reflejado la rama de trabajo local en el repositorio de Saturdays.AI. La rama demo-local-backend concentra esta fase del proyecto: backend local, frontend preparado para consumirlo, documentación de la arquitectura y plantilla del workspace. Esto permite compartir el estado actual hasta que se produzca el despliegue público que todavía no es el objetivo inmediato.",
+      "en": "The demo-local-backend branch in the Saturdays.AI repository contains this stage of the work: the local backend, a frontend configured to use it, architecture documentation and the workspace template. It provides a way to share the prototype while public deployment remains a later step.",
+      "es": "También se ha reflejado la rama de trabajo local en el repositorio de Saturdays.AI. La rama demo-local-backend concentra esta fase del proyecto: backend local, frontend preparado para consumirlo, documentación de la arquitectura y plantilla del workspace. Esto permite compartir el estado actual hasta que se produzca el despliegue público que todavía no es el objetivo inmediato.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La latencia también obliga a elegir bien las preguntas. Bastan entre tres y cinco casos informativos: el ejemplo del repilo, la recuperación de referencias de algodoncillo que muestra el enfoque imagen + Markdown o una comparación prudente de síntomas asociados a verticilosis y Xylella.",
+      "en": "Latency also makes prompt selection important. The demo needs only three to five informative cases: the peacock spot example, retrieval of olive psyllid references showing the image + Markdown approach, or a cautious comparison of symptoms associated with Verticillium wilt and Xylella.",
+      "es": "La latencia también obliga a elegir bien las preguntas. Bastan entre tres y cinco casos informativos: el ejemplo del repilo, la recuperación de referencias de algodoncillo que muestra el enfoque imagen + Markdown o una comparación prudente de síntomas asociados a verticilosis y Xylella.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En su estado actual, AgroClaw demuestra varias cosas a la vez. La primera es que un agente especializado puede diseñarse con una arquitectura entendible: identidad, tono, reglas, skills y conocimiento. La segunda es que el conocimiento agrario no tiene por qué quedar reducido a texto plano; puede organizarse como una base visual-documental donde las imágenes se acompañan de fichas Markdown e índices por carpeta. La tercera es que el proyecto puede empaquetarse de forma reproducible mediante una plantilla de workspace saneada y versionada.",
+      "en": "At this stage, AgroClaw illustrates several design choices. A specialised agent can have a clear architecture built around identity, tone, rules, skills and knowledge. Agricultural references can combine images with Markdown records and folder indexes. And the setup can be packaged as a versioned workspace template designed for sharing and reproduction.",
+      "es": "En su estado actual, AgroClaw demuestra varias cosas a la vez. La primera es que un agente especializado puede diseñarse con una arquitectura entendible: identidad, tono, reglas, skills y conocimiento. La segunda es que el conocimiento agrario no tiene por qué quedar reducido a texto plano; puede organizarse como una base visual-documental donde las imágenes se acompañan de fichas Markdown e índices por carpeta. La tercera es que el proyecto puede empaquetarse de forma reproducible mediante una plantilla de workspace saneada y versionada.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La demo local permite contar esa historia sin sobreactuar. Se puede enseñar el frontend, lanzar preguntas preparadas, ver cómo responde el backend real y explicar que OpenClaw no funciona en abstracto, sino apoyándose en un workspace local que resulta fundamental para la configuración del agente. En ese workspace viven la identidad, el tono, las reglas de comportamiento, las skills y la base de conocimiento que convierten a OpenClaw en una instancia concreta: AgroClaw.",
+      "en": "The local demo makes that architecture visible. We can show the frontend, ask prepared questions and observe responses from the actual backend. OpenClaw relies on the local workspace, which contains the identity, tone, behavioural rules, skills and knowledge base that configure it as AgroClaw.",
+      "es": "La demo local permite contar esa historia sin sobreactuar. Se puede enseñar el frontend, lanzar preguntas preparadas, ver cómo responde el backend real y explicar que OpenClaw no funciona en abstracto, sino apoyándose en un workspace local que resulta fundamental para la configuración del agente. En ese workspace viven la identidad, el tono, las reglas de comportamiento, las skills y la base de conocimiento que convierten a OpenClaw en una instancia concreta: AgroClaw.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Esa narrativa es sólida porque no se trata solo de enseñar una interfaz que responde, sino de mostrar una arquitectura completa: frontend, backend puente, OpenClaw y workspace AgroClaw trabajando juntos de forma reproducible.",
+      "en": "The demo therefore shows more than a responsive interface: it shows the frontend, bridge backend, OpenClaw and AgroClaw workspace working together in a reproducible setup.",
+      "es": "Esa narrativa es sólida porque no se trata solo de enseñar una interfaz que responde, sino de mostrar una arquitectura completa: frontend, backend puente, OpenClaw y workspace AgroClaw trabajando juntos de forma reproducible.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La prioridad inmediata ha sido grabar una demo local que sea estable y explicable. Esa grabación debe mostrar el valor del agente, no la complejidad de la infraestructura. Una vez validado el relato técnico y funcional, tendrá sentido volver a pensar en una arquitectura pública, quizá con un backend persistente, endpoints protegidos, observabilidad, límites de uso y una estrategia clara de costes.",
+      "en": "Our immediate priority has been to record a stable demo that clearly explains the agent’s value. Once its technical and functional behaviour has been evaluated, we can return to a public architecture: a persistent backend, protected endpoints, observability, usage limits and a clear cost strategy.",
+      "es": "La prioridad inmediata ha sido grabar una demo local que sea estable y explicable. Esa grabación debe mostrar el valor del agente, no la complejidad de la infraestructura. Una vez validado el relato técnico y funcional, tendrá sentido volver a pensar en una arquitectura pública, quizá con un backend persistente, endpoints protegidos, observabilidad, límites de uso y una estrategia clara de costes.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AgroClaw empezó como una prueba de agente AgTech sobre olivar, pero el proyecto ha terminado enseñando algo más amplio: cómo construir una memoria técnica asistida por IA. La combinación de OpenClaw, un modelo suficientemente capaz, una arquitectura por capas, skills delimitadas, knowledge documental y referencias visuales con Markdown apunta a una vía de trabajo muy interesante para agricultura.",
+      "en": "AgroClaw began as an AgTech-agent experiment for olive farming and became an exploration of how to build an AI-assisted technical knowledge resource. OpenClaw, a capable model, a layered architecture, well-defined skills, source documents and images with Markdown records provide a promising foundation for further work in agriculture.",
+      "es": "AgroClaw empezó como una prueba de agente AgTech sobre olivar, pero el proyecto ha terminado enseñando algo más amplio: cómo construir una memoria técnica asistida por IA. La combinación de OpenClaw, un modelo suficientemente capaz, una arquitectura por capas, skills delimitadas, knowledge documental y referencias visuales con Markdown apunta a una vía de trabajo muy interesante para agricultura.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El último paso se ha centrado en hacer la configuración más reproducible, explicable y fácil de mostrar. La demo local enseña el flujo esencial: AgroClaw recupera conocimiento documentado, trabaja con ese contexto y devuelve una explicación a una pregunta técnica. La fiabilidad general y la seguridad siguen requiriendo sus propias evaluaciones.",
+      "en": "The latest stage focused on making the setup more reproducible, easier to explain and easier to demonstrate. The local demo shows the core workflow: AgroClaw retrieves documented knowledge, works with that context and returns an explanation for a technical question. Broader reliability and security still require their own evaluations.",
+      "es": "El último paso se ha centrado en hacer la configuración más reproducible, explicable y fácil de mostrar. La demo local enseña el flujo esencial: AgroClaw recupera conocimiento documentado, trabaja con ese contexto y devuelve una explicación a una pregunta técnica. La fiabilidad general y la seguridad siguen requiriendo sus propias evaluaciones.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El proyecto ofrece una base técnica y conceptual para explorar cómo la IA puede conservar, ordenar y aprovechar el conocimiento agrario. En un sector donde tanta experiencia valiosa está dispersa entre personas, campañas, visitas de campo, fotos y notas, esa memoria compartida puede ser tan importante como la respuesta inmediata del asistente.",
+      "en": "The project provides a technical and conceptual starting point for exploring how AI can preserve, organise and make use of agricultural knowledge. In a sector where valuable experience is scattered across people, growing seasons, field visits, photographs and notes, that shared knowledge can matter as much as the assistant’s immediate response.",
+      "es": "El proyecto ofrece una base técnica y conceptual para explorar cómo la IA puede conservar, ordenar y aprovechar el conocimiento agrario. En un sector donde tanta experiencia valiosa está dispersa entre personas, campañas, visitas de campo, fotos y notas, esa memoria compartida puede ser tan importante como la respuesta inmediata del asistente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

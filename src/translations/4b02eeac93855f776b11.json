@@ -14,86 +14,151 @@
       "source": "26 nov 2025",
       "en": "Nov 26, 2025",
       "es": "26 nov 2025",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Plato de comida con datos nutricionales",
       "en": "Food plate with nutritional data",
       "es": "Plato de comida con datos nutricionales",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La idea detrás de FoodCheck",
       "en": "The idea behind FoodCheck",
       "es": "La idea detrás de FoodCheck",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Herramientas",
       "en": "Tools",
       "es": "Herramientas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un frontend minimalista",
       "en": "A minimalist frontend",
       "es": "Un frontend minimalista",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Qué hay detrás de la foto (el pipeline real)",
-      "en": "What's behind the photo (the real pipeline)",
-      "es": "Qué hay detrás de la foto (el pipeline real)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "What happens after uploading a photo",
+      "es": "Qué ocurre después de subir la foto",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "1. Detección del alimento",
       "en": "1. Food detection",
       "es": "1. Detección del alimento",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Estimación de la porción",
       "en": "2. Portion estimation",
       "es": "2. Estimación de la porción",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. De nombres a nutrientes",
       "en": "3. From names to nutrients",
       "es": "3. De nombres a nutrientes",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. Visualización y registro local",
-      "en": "3. Viewing and local registration",
-      "es": "3. Visualización y registro local",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "4. Displaying results and saving them locally",
+      "es": "4. Visualización y registro local",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Desplegando en GitHub Pages y Cloudflare",
       "en": "Deploying to GitHub Pages and Cloudflare",
       "es": "Desplegando en GitHub Pages y Cloudflare",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Problemas reales y cómo los resolví",
       "en": "Real problems and how I solved them",
       "es": "Problemas reales y cómo los resolví",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Reflexión final",
       "en": "Final reflection",
       "es": "Reflexión final",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Registrar lo que comemos es útil, pero aburrido. Abrir una app, buscar “arroz”, comparar marcas, ajustar gramos… ¿Y si hiciéramos una foto y la IA reconociera el plato para darnos una estimación nutricional? Sin cuentas, sin subir nuestros datos a servidores misteriosos.",
@@ -104,9 +169,14 @@
     },
     {
       "source": "Así nace",
-      "en": "This is how it is born",
-      "es": "Así nace",
-      "reviewed": false
+      "en": "That is the idea behind",
+      "es": "Esta es la propuesta de",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "FoodCheck",
@@ -116,10 +186,15 @@
     },
     {
       "source": ", una web app estática desplegada en GitHub Pages que detecta alimentos en fotos, estima porciones y calcula nutrientes usando",
-      "en": ", a static web app deployed on GitHub Pages that detects foods in photos, estimates portions, and calculates nutrients using",
-      "es": ", una web app estática desplegada en GitHub Pages que detecta alimentos en fotos, estima porciones y calcula nutrientes usando",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ", an app with a static frontend on GitHub Pages that identifies possible foods in a photo and calculates nutritional estimates using data from",
+      "es": ", una aplicación con frontend estático en GitHub Pages que identifica posibles alimentos en una foto y calcula estimaciones nutricionales a partir de los datos de",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "OpenFoodFacts",
@@ -129,16 +204,26 @@
     },
     {
       "source": ". La “magia” de visión no va en el navegador ni en un backend tradicional, sino que la delegamos a un Cloudflare Worker que usa Workers AI (modelo LLaVA).",
-      "en": ". The vision “magic” does not go into the browser or a traditional backend, but rather we delegate it to a Cloudflare Worker that uses Workers AI (LLaVA model).",
-      "es": ". La “magia” de visión no va en el navegador ni en un backend tradicional, sino que la delegamos a un Cloudflare Worker que usa Workers AI (modelo LLaVA).",
-      "reviewed": false
+      "en": ". Image analysis runs in a serverless backend: a Cloudflare Worker connected to Workers AI, where I used the LLaVA model.",
+      "es": ". El procesamiento visual se realiza en un backend sin servidor: un Cloudflare Worker conectado a Workers AI, donde utilicé el modelo LLaVA.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El usuario abre la app, selecciona si tiene alguna enfermedad y arrastra una foto de la comida que quiere analizar. La aplicación detecta entonces los alimentos, estima cantidades y muestra la información nutricional. Luego puede ajustar gramos, añadir nuevos alimentos y guardar la comida del día.",
-      "en": "The user opens the app, selects if they have a disease and drags a photo of the food they want to analyze. The application then detects the foods, estimates quantities and displays nutritional information. You can then adjust grams, add new foods, and save the day's food.",
-      "es": "El usuario abre la app, selecciona si tiene alguna enfermedad y arrastra una foto de la comida que quiere analizar. La aplicación detecta entonces los alimentos, estima cantidades y muestra la información nutricional. Luego puede ajustar gramos, añadir nuevos alimentos y guardar la comida del día.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The user opens the app and drags in a food photo. The prototype also includes a health-condition selector, but it does not provide personalised advice or validate diets for medical conditions. After analysing the photo, it suggests foods and quantities that the user can correct before saving the meal.",
+      "es": "El usuario abre la aplicación y arrastra una foto de la comida. El prototipo también incluye un selector de condiciones de salud, pero no ofrece asesoramiento personalizado ni valida dietas para enfermedades. Tras analizar la foto, propone alimentos y cantidades que el usuario puede corregir antes de guardar la comida del día.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Todo se almacena en local, sin servidores externos.",
@@ -148,115 +233,200 @@
     },
     {
       "source": "Página principal de Foodcheck",
-      "en": "Foodcheck home page",
-      "es": "Página principal de Foodcheck",
-      "reviewed": false
+      "en": "FoodCheck home page",
+      "es": "Página principal de FoodCheck",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "HTML, Tailwind CSS y Javascript",
-      "en": "HTML, Tailwind CSS and Javascript",
-      "es": "HTML, Tailwind CSS y Javascript",
-      "reviewed": false
+      "en": "HTML, Tailwind CSS and JavaScript",
+      "es": "HTML, Tailwind CSS y JavaScript",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Google Fonts (Montserrat)",
       "en": "Google Fonts (Montserrat)",
       "es": "Google Fonts (Montserrat)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "OpenFoodFacts (API pública, sin API key)",
-      "en": "OpenFoodFacts (Public API, no API key)",
-      "es": "OpenFoodFacts (API pública, sin API key)",
-      "reviewed": false
+      "en": "Open Food Facts (public product-data API)",
+      "es": "Open Food Facts (API pública para consultar productos)",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
-      "en": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
+      "en": "Cloudflare Workers AI (model @cf/llava-hf/llava-1.5-7b-hf)",
       "es": "Cloudflare Workers AI (modelo @cf/llava-hf/llava-1.5-7b-hf)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
-      "en": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
+      "en": "Deployment: GitHub Pages (frontend) and Cloudflare Workers (proxy and AI)",
       "es": "Despliegue: GitHub Pages (frontend) + Cloudflare Workers (proxy e IA)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cuando queremos prototipar una idea rápidamente, a menudo menos es más. En el caso de FoodCheck, el frontend puede ser tan simple como un único archivo index.html. No necesitas frameworks pesados ni configuraciones complejas para empezar a experimentar.",
       "en": "When we want to prototype an idea quickly, less is often more. In the case of FoodCheck, the frontend can be as simple as a single index.html file. You don't need heavy frameworks or complex configurations to start experimenting.",
       "es": "Cuando queremos prototipar una idea rápidamente, a menudo menos es más. En el caso de FoodCheck, el frontend puede ser tan simple como un único archivo index.html. No necesitas frameworks pesados ni configuraciones complejas para empezar a experimentar.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para conseguir una interfaz simple pero funcional que permita al usuario subir una imagen y obtener resultados de análisis visual, usamos:",
       "en": "To achieve a simple but functional interface that allows the user to upload an image and obtain visual analysis results, we use:",
       "es": "Para conseguir una interfaz simple pero funcional que permita al usuario subir una imagen y obtener resultados de análisis visual, usamos:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tailwind CSS para estilos rápidos.",
       "en": "Tailwind CSS for quick styling.",
       "es": "Tailwind CSS para estilos rápidos.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Montserrat, una fuente elegante que mejora la estética general.",
       "en": "Montserrat, an elegant font that enhances the overall aesthetic.",
       "es": "Montserrat, una fuente elegante que mejora la estética general.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un pequeño script que gestiona el flujo de interacción con el backend (en este caso, un Worker de Cloudflare).",
       "en": "A small script that manages the flow of interaction with the backend (in this case, a Cloudflare Worker).",
       "es": "Un pequeño script que gestiona el flujo de interacción con el backend (en este caso, un Worker de Cloudflare).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Como guía, esta podría ser la estructura de tu index.html:",
-      "en": "As a guide, this could be the structure of your index.html:",
-      "es": "Como guía, esta podría ser la estructura de tu index.html:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Here is an initial index.html structure for the prototype. The snippets in this article illustrate parts of the app and rely on other variables, functions and configuration; they are not a complete application that can be copied and run as-is. They reflect the implementation used in this project.",
+      "es": "Esta es una estructura inicial de index.html para el prototipo. Los fragmentos del artículo muestran piezas de la aplicación y presuponen otras variables, funciones y configuración; no constituyen una aplicación completa lista para copiar y ejecutar. Reflejan la implementación utilizada en este proyecto.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cuando el usuario arrastra una foto al frontend de FoodCheck, el proceso real es el que es muestra en el siguiente diagrama:",
-      "en": "When the user drags a photo to the FoodCheck frontend, the actual process is shown in the following diagram:",
-      "es": "Cuando el usuario arrastra una foto al frontend de FoodCheck, el proceso real es el que es muestra en el siguiente diagrama:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "When the user drags a photo into FoodCheck, processing follows the steps in this diagram:",
+      "es": "Cuando el usuario arrastra una foto a FoodCheck, el proceso sigue los pasos de este diagrama:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pipeline de Foodcheck",
-      "en": "Foodcheck Pipeline",
-      "es": "Pipeline de Foodcheck",
-      "reviewed": false
+      "en": "FoodCheck processing flow",
+      "es": "Flujo de procesamiento de FoodCheck",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El frontend obtiene la URL del Worker desde el bloque de configuración JSON que ya incluimos en el del index.html y que hace de puente entre el navegador y el backend en Cloudflare Workers.",
-      "en": "The frontend obtains the URL of the Worker from the JSON configuration block that we already included in the index.html and that acts as a bridge between the browser and the backend in Cloudflare Workers.",
-      "es": "El frontend obtiene la URL del Worker desde el bloque de configuración JSON que ya incluimos en el del index.html y que hace de puente entre el navegador y el backend en Cloudflare Workers.",
-      "reviewed": false
+      "en": "The frontend obtains the Worker URL from the JSON configuration block in the head section of index.html. The Worker connects the browser to the image-analysis service.",
+      "es": "El frontend obtiene la URL del Worker del bloque JSON de configuración incluido en la cabecera de index.html. El Worker conecta el navegador con el servicio de análisis de imágenes.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cuando el usuario añade una imagen, la convertimos en Data URL con FileReader.readAsDataURL (formato data:image/…;base64,…):",
       "en": "When the user adds an image, we convert it to Data URL with FileReader.readAsDataURL (format data:image/…;base64,…):",
       "es": "Cuando el usuario añade una imagen, la convertimos en Data URL con FileReader.readAsDataURL (formato data:image/…;base64,…):",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Enviamos ese string como JSON al Worker mediante POST, junto con un prompt, y el Worker responde con un JSON que incluye las detecciones. Esas detecciones serán un JSON estructurado, ya que el Worker prepara previamente un prompt en español que le indica al modelo cómo responder, por ejemplo:",
-      "en": "We send that string as JSON to the Worker via POST, along with a prompt, and the Worker responds with a JSON that includes the detections. These detections will be a structured JSON, since the Worker previously prepares a prompt in Spanish that tells the model how to respond, for example:",
-      "es": "Enviamos ese string como JSON al Worker mediante POST, junto con un prompt, y el Worker responde con un JSON que incluye las detecciones. Esas detecciones serán un JSON estructurado, ya que el Worker prepara previamente un prompt en español que le indica al modelo cómo responder, por ejemplo:",
-      "reviewed": false
+      "en": "We send that string to the Worker in a POST request with a JSON body. The Worker prepares the model instructions and requests a structured list of detections in a format like this:",
+      "es": "Enviamos esa cadena al Worker en una petición POST con contenido JSON. El Worker prepara las instrucciones para el modelo y solicita una lista estructurada de detecciones, con un formato como este:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Así garantizamos que la respuesta sea estructurada, fácil de interpretar y lista para ser usada por el frontend.",
@@ -269,130 +439,225 @@
       "source": "A su vez, la llamada al modelo es directa:",
       "en": "In turn, the call to the model is direct:",
       "es": "A su vez, la llamada al modelo es directa:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Y LLaVA devuelve texto en result.description, de donde hay que extraer el bloque JSON aplicando, por ejemplo:",
-      "en": "And LLaVA returns text in result.description, from which the JSON block must be extracted by applying, for example:",
-      "es": "Y LLaVA devuelve texto en result.description, de donde hay que extraer el bloque JSON aplicando, por ejemplo:",
-      "reviewed": false
+      "en": "LLaVA returns text in result.description. After extracting a possible JSON block from that text, we try to parse it and check for a detections array. This snippet illustrates the parsing step:",
+      "es": "LLaVA devuelve texto en result.description. Tras extraer de ese texto un posible bloque JSON, intentamos analizarlo y comprobamos que contenga una lista de detecciones. Este fragmento ilustra el paso de parseo:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El frontend recibe entonces la respuesta limpia con {detections»:[…]}.",
-      "en": "The frontend then receives the clean response with {detections»:[…]}.",
-      "es": "El frontend recibe entonces la respuesta limpia con {detections»:[…]}.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The frontend receives an object containing a detections array. An empty array means that no usable detections were obtained; it does not confirm that the image contains no food.",
+      "es": "El frontend recibe un objeto con una lista detections. Una lista vacía indica que no se obtuvieron detecciones utilizables; no confirma que la imagen no contenga alimentos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Antes de usar los resultados, se validan nombres y se normaliza la confianza (0–1). Si el modelo de visión no devuelve una cantidad de porción, se asigna un valor por defecto:",
-      "en": "Before using the results, names are validated and confidence is normalized (0–1). If the vision model does not return a slice quantity, a default value is assigned:",
-      "es": "Antes de usar los resultados, se validan nombres y se normaliza la confianza (0–1). Si el modelo de visión no devuelve una cantidad de porción, se asigna un valor por defecto:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Before using the results, we check the names and constrain the confidence score to the range 0–1. That score is not a validated probability of correctness. If no portion estimate is available, the prototype uses 120 grams as an editable starting value:",
+      "es": "Antes de utilizar los resultados, comprobamos los nombres y acotamos la puntuación de confianza al intervalo de 0 a 1. Esa puntuación no equivale a una probabilidad de acierto validada. Si falta una estimación de la porción, el prototipo utiliza 120 gramos como valor inicial editable:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además, el usuario puede editar la cantidad y unidad (gramos, ml, pieza, taza) con conversiones predefinidas en el código (por ejemplo, 1 pieza ≈ 80 g, 1 taza ≈ 150 g):",
-      "en": "Additionally, the user can edit the quantity and unit (grams, ml, piece, cup) with predefined conversions in the code (e.g. 1 piece ≈ 80 g, 1 cup ≈ 150 g):",
-      "es": "Además, el usuario puede editar la cantidad y unidad (gramos, ml, pieza, taza) con conversiones predefinidas en el código (por ejemplo, 1 pieza ≈ 80 g, 1 taza ≈ 150 g):",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The user can edit the quantity and unit. The prototype includes fixed conversions, such as 80 g per item, 150 g per cup and 1 g per ml. These are illustrative approximations only: actual weight depends on the food, its density and portion size. Entering a measured weight in grams gives a better basis for the calculation.",
+      "es": "El usuario puede editar la cantidad y la unidad. El prototipo incluye equivalencias fijas, como 80 g por pieza, 150 g por taza y 1 g por ml, que solo sirven como aproximaciones de ejemplo: el peso real depende del alimento, su densidad y el tamaño de la porción. Conviene introducir el peso medido en gramos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cada alimento detectado se consulta en OpenFoodFacts para saber su composición nutricional. Se busca por nombre y nos quedamos únicamente con productos que tienen información completa sobre sus nutrientes. Para evitar problemas de CORS y tener un único punto de control, la app no llama a OpenFoodFacts directamente, sino a nuestro Worker (Cloudflare).",
-      "en": "Each detected food is consulted in OpenFoodFacts to find out its nutritional composition. We search by name and we are only left with products that have complete information about their nutrients. To avoid CORS problems and have a single point of control, the app does not call OpenFoodFacts directly, but rather our Worker (Cloudflare).",
-      "es": "Cada alimento detectado se consulta en OpenFoodFacts para saber su composición nutricional. Se busca por nombre y nos quedamos únicamente con productos que tienen información completa sobre sus nutrientes. Para evitar problemas de CORS y tener un único punto de control, la app no llama a OpenFoodFacts directamente, sino a nuestro Worker (Cloudflare).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We search each name in Open Food Facts and keep results containing a nutrient-data object. This does not guarantee complete data or a match with the photographed meal, especially for homemade dishes. The user needs to check the match, units and available data. Queries pass through our Worker, which centralises communication and CORS handling.",
+      "es": "Buscamos cada nombre en Open Food Facts y conservamos resultados que contengan un objeto de nutrientes. Esto no garantiza una ficha completa ni que el producto coincida con la comida fotografiada, especialmente si es un plato casero. El usuario debe revisar la coincidencia, las unidades y los datos disponibles. Las consultas pasan por nuestro Worker, que centraliza la comunicación y la gestión de CORS.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para llamar al Worker y hacer así las consultas, primero construimos una URL con parámetros de interés (texto que escribe el usuario, número de resultados…). Esta URL la llamamos a través del endpoint configurado en el (id foodcheck-config), reutilizando el mismo dominio del Worker de visión:",
-      "en": "To call the Worker and make the queries, we first build a URL with parameters of interest (text that the user writes, number of results...). We call this URL through the endpoint configured in (id foodcheck-config), reusing the same domain of the Vision Worker:",
-      "es": "Para llamar al Worker y hacer así las consultas, primero construimos una URL con parámetros de interés (texto que escribe el usuario, número de resultados…). Esta URL la llamamos a través del endpoint configurado en el (id foodcheck-config), reutilizando el mismo dominio del Worker de visión:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "To query the Worker, we build a URL with parameters such as the search text and result limit. We use the address defined in the foodcheck-config block in the HTML head, on the same domain as the image-analysis Worker:",
+      "es": "Para consultar el Worker, construimos una URL con parámetros como el texto de búsqueda y el número de resultados. Utilizamos la dirección definida en el bloque foodcheck-config de la cabecera del HTML, con el mismo dominio del Worker de visión:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El Worker recibe así los parámetros de búsqueda y hace la petición servidor a servidor a OpenFoodFacts:",
       "en": "The Worker thus receives the search parameters and makes the server-to-server request to OpenFoodFacts:",
       "es": "El Worker recibe así los parámetros de búsqueda y hace la petición servidor a servidor a OpenFoodFacts:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La respuesta devuelta al navegador es un producto con nutrientes por 100 gramos. La app ajusta los valores nutricionales a la porción estimada previamente calculada siguiendo esta fórmula:",
-      "en": "The response returned to the browser is a product with nutrients per 100 grams. The app adjusts the nutritional values ​​to the estimated portion previously calculated following this formula:",
-      "es": "La respuesta devuelta al navegador es un producto con nutrientes por 100 gramos. La app ajusta los valores nutricionales a la porción estimada previamente calculada siguiendo esta fórmula:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "For a product whose data is expressed per 100 grams, we scale each nutrient to the estimated portion using this formula. Units must be checked first: some products report values per 100 ml.",
+      "es": "Para un producto cuyos datos estén expresados por 100 gramos, ajustamos cada nutriente a la porción estimada mediante esta fórmula. Antes hay que comprobar las unidades: algunos productos indican valores por 100 ml.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los valores obtenidos en el paso anterior se muestran al usuario en un anillo de macronutrientes (kcal y % de energía) y en una tabla de nutrientes. Además, la interfaz muestra también la lista editable de alimentos detectados junto con su cantidad y un mensaje tipo “dietista virtual” con observaciones simples basadas en umbrales fijados:",
-      "en": "The values obtained in the previous step are shown to the user in a macronutrient ring (kcal and % energy) and in a nutrient table. In addition, the interface also shows the editable list of detected foods along with their quantity and a “virtual dietician” type message with simple observations based on set thresholds:",
-      "es": "Los valores obtenidos en el paso anterior se muestran al usuario en un anillo de macronutrientes (kcal y % de energía) y en una tabla de nutrientes. Además, la interfaz muestra también la lista editable de alimentos detectados junto con su cantidad y un mensaje tipo “dietista virtual” con observaciones simples basadas en umbrales fijados:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The interface displays the estimates in a macronutrient chart and table, alongside an editable list of foods and quantities. I also experimented with messages generated by simple rules. The example thresholds are prototype choices, not clinical recommendations or universal limits for a meal:",
+      "es": "La interfaz muestra las estimaciones en un gráfico de macronutrientes y una tabla, junto con una lista editable de alimentos y cantidades. También experimenté con mensajes generados mediante reglas sencillas. Los umbrales del ejemplo son decisiones del prototipo, no recomendaciones clínicas ni límites universales para una comida:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El usuario puede guardar cada comida. El registro diario suma automáticamente las comidas y muestra la información nutricional completa, y esto se logra mediante un guardado persistente de datos como el que mostramos aquí:",
-      "en": "User can save each meal. The daily log automatically adds up meals and displays full nutritional information, and this is achieved through persistent data saving like the one we show here:",
-      "es": "El usuario puede guardar cada comida. El registro diario suma automáticamente las comidas y muestra la información nutricional completa, y esto se logra mediante un guardado persistente de datos como el que mostramos aquí:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The user can save each meal. The daily log adds up the estimates for saved meals using localStorage. The data stays in that browser until its storage is cleared; it does not automatically sync across devices.",
+      "es": "El usuario puede guardar cada comida. El registro diario suma las estimaciones de las comidas guardadas mediante localStorage. Los datos permanecen en ese navegador mientras no se borre el almacenamiento; no se sincronizan automáticamente entre dispositivos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El despliegue es doble:",
       "en": "The deployment is twofold:",
       "es": "El despliegue es doble:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Frontend: repositorio estático en GitHub Pages.",
       "en": "Frontend: static repository on GitHub Pages.",
       "es": "Frontend: repositorio estático en GitHub Pages.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Worker: publicado en Cloudflare con binding env.AI. La URL generada al desplegar es la que usamos en el bloque de Javascript del HTML.",
-      "en": "Worker: Published on Cloudflare with env.AI binding. The URL generated when deploying is the one we use in the Javascript block of the HTML.",
-      "es": "Worker: publicado en Cloudflare con binding env.AI. La URL generada al desplegar es la que usamos en el bloque de Javascript del HTML.",
-      "reviewed": false
+      "en": "Worker: published on Cloudflare with a Workers AI binding available as env.AI. Its URL is added to the HTML’s JSON configuration block.",
+      "es": "Worker: se publica en Cloudflare con un enlace a Workers AI accesible como env.AI. Su URL se incorpora al bloque JSON de configuración del HTML.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Al principio, intenté conectar FoodCheck con OpenRouter para usar modelos de visión gratuitos. Sobre el papel sonaba bien, pero en la práctica no detectaba alimentos o devolvía respuestas vacías.",
       "en": "At first, I tried to connect FoodCheck with OpenRouter to use free vision models. On paper it sounded good, but in practice it didn't detect food or returned empty responses.",
       "es": "Al principio, intenté conectar FoodCheck con OpenRouter para usar modelos de visión gratuitos. Sobre el papel sonaba bien, pero en la práctica no detectaba alimentos o devolvía respuestas vacías.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fui intentando solucionar los principales problemas que surgían:",
-      "en": "I was trying to solve the main problems that arose:",
-      "es": "Fui intentando solucionar los principales problemas que surgían:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "I worked through the issues as they arose:",
+      "es": "Fui abordando los problemas que aparecían:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El modelo no veía la imagen, así que hice que le llegaran mensajes multimodales (texto e imagen).",
       "en": "The model did not see the image, so I made it receive multimodal messages (text and image).",
       "es": "El modelo no veía la imagen, así que hice que le llegaran mensajes multimodales (texto e imagen).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Errores de CORS, por lo que creé un Worker como proxy para gestionarlo.",
       "en": "CORS errors, so I created a Worker as proxy to manage it.",
       "es": "Errores de CORS, por lo que creé un Worker como proxy para gestionarlo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "JSON mal formado, teniendo que implementar un parseo defensivo en el frontend (limpiar el texto, extraer las llaves {} y reintentar JSON.parse()).",
-      "en": "Malformed JSON, having to implement defensive parsing on the frontend (clean up the text, extract the braces {} and retry JSON.parse()).",
-      "es": "JSON mal formado, teniendo que implementar un parseo defensivo en el frontend (limpiar el texto, extraer las llaves {} y reintentar JSON.parse()).",
-      "reviewed": false
+      "en": "Malformed JSON: I added defensive parsing to extract the expected content, catch errors and validate its structure before use.",
+      "es": "JSON mal formado: añadí un parseo defensivo para extraer el contenido esperado, capturar errores y validar su estructura antes de usarlo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Imágenes grandes o HEIC, así que las formateé a JPEG y limité su tamaño (ej.: .toDataURL(‘image/jpeg’, 0.85)).",
@@ -403,37 +668,62 @@
     },
     {
       "source": "A pesar de esos ajustes, el sistema seguía sin funcionar. El motivo probable es que los modelos gratuitos de baja prioridad quedaran en cola o expiraran sin respuesta si la red estaba saturada, especialmente sin cuenta de facturación asociada.",
-      "en": "Despite these adjustments, the system still did not work. The likely reason is that low-priority free models were queued or timed out without a response if the network was saturated, especially without an associated billing account.",
-      "es": "A pesar de esos ajustes, el sistema seguía sin funcionar. El motivo probable es que los modelos gratuitos de baja prioridad quedaran en cola o expiraran sin respuesta si la red estaba saturada, especialmente sin cuenta de facturación asociada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Despite those adjustments, my OpenRouter integration still did not work. I suspected queues or timeouts, but did not confirm the cause from service logs. I could not confidently attribute it to the models being free to use.",
+      "es": "Pese a esos ajustes, mi integración con OpenRouter seguía sin funcionar. Sospeché que podía haber colas o tiempos de espera, pero no confirmé la causa con los registros del servicio. No podía atribuirlo con certeza a que los modelos fueran gratuitos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Así que busqué otra alternativa que no implicara pagos ni registro sensible, y la encontré justo en Cloudflare Workers AI. Como ya tenía el proyecto desplegado en Workers, probé el modelo LLaVA de Workers AI y funcionó a la primera.",
-      "en": "So I looked for another alternative that didn't involve payments or sensitive registration, and I found it right in Cloudflare Workers AI. Since I already had the project deployed in Workers, I tried Workers AI's LLaVA model and it worked first time.",
-      "es": "Así que busqué otra alternativa que no implicara pagos ni registro sensible, y la encontré justo en Cloudflare Workers AI. Como ya tenía el proyecto desplegado en Workers, probé el modelo LLaVA de Workers AI y funcionó a la primera.",
-      "reviewed": false
+      "en": "I looked for an alternative that suited the prototype and tried Cloudflare Workers AI, since I was already using Workers. In my tests, the LLaVA model responded on the first attempt. Service availability, limits and costs should be checked when reproducing the project.",
+      "es": "Busqué una alternativa que encajara con el prototipo y probé Cloudflare Workers AI, porque ya utilizaba Workers. En mis pruebas, el modelo LLaVA respondió a la primera. La disponibilidad, los límites y los costes del servicio deben comprobarse al reproducir el proyecto.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Y es aquí donde Codex juega un papel importante. Lo utilicé como asistente para generar funciones, depurar errores y ajustar prompts. Fue un gran compañero de aprendizaje por su gran precisión y rapidez. Pero con él también aprendí una lección clave, y es que si no defines tú bien la arquitectura de la aplicación, la IA lo va a hacer por ti y es posible que no acierte.",
-      "en": "And this is where Codex plays an important role. I used it as a wizard to generate functions, debug errors and adjust prompts. He was a great learning partner due to his great precision and speed. But with it I also learned a key lesson, and that is that if you don't define the architecture of the application well, the AI ​​is going to do it for you and it may not get it right.",
-      "es": "Y es aquí donde Codex juega un papel importante. Lo utilicé como asistente para generar funciones, depurar errores y ajustar prompts. Fue un gran compañero de aprendizaje por su gran precisión y rapidez. Pero con él también aprendí una lección clave, y es que si no defines tú bien la arquitectura de la aplicación, la IA lo va a hacer por ti y es posible que no acierte.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Codex played an important part in this process: I used it to generate functions, debug errors and refine prompts. It helped me make progress and learn, but also taught me a clear lesson: unless you explain the required architecture, AI may suggest a solution that does not fit.",
+      "es": "Codex fue importante en este proceso: lo utilicé para generar funciones, depurar errores y ajustar prompts. Me ayudó a avanzar y aprender, pero también dejó una lección clara: si no explicas bien la arquitectura que necesitas, la IA puede proponer una solución que no encaje.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En mi caso, necesitaba una app 100% estática para GitHub Pages y, aunque le di las condiciones exactas, en algún momento propuso crear un servidor Node o usar variables de entorno (.env), lo cual no es posible ahí.",
-      "en": "In my case, I needed a 100% static app for GitHub Pages and, although I gave him the exact conditions, at some point he proposed creating a Node server or using environment variables (.env), which is not possible there.",
-      "es": "En mi caso, necesitaba una app 100% estática para GitHub Pages y, aunque le di las condiciones exactas, en algún momento propuso crear un servidor Node o usar variables de entorno (.env), lo cual no es posible ahí.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "I needed a static frontend for GitHub Pages and a separate Cloudflare backend. At one point Codex suggested a Node server, which GitHub Pages cannot run. Environment variables can be used during a build, but any value included in the frontend files is public: secrets must remain in the Worker.",
+      "es": "Necesitaba un frontend estático para GitHub Pages y un backend separado en Cloudflare. En algún momento Codex propuso un servidor Node, que GitHub Pages no ejecuta. Las variables de entorno sí pueden usarse durante la compilación, pero cualquier valor incluido en los archivos del frontend será público: los secretos deben quedarse en el Worker.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ahí comprendí que la clave es decidir primero la arquitectura y mantener los prompts coherentes con esa decisión para así usar la IA dentro de ese marco. Por tanto, mejor utiliza la IA para acelerar el trabajo, no para que decida por ti.",
-      "en": "There I understood that the key is to first decide the architecture and keep the prompts consistent with that decision in order to use AI within that framework. Therefore, it is better to use AI to speed up the work, not to decide for you.",
-      "es": "Ahí comprendí que la clave es decidir primero la arquitectura y mantener los prompts coherentes con esa decisión para así usar la IA dentro de ese marco. Por tanto, mejor utiliza la IA para acelerar el trabajo, no para que decida por ti.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "I realised that I needed to define the architecture first and keep my prompts consistent with it. AI could speed up the work, while I remained responsible for reviewing its suggestions and testing the results.",
+      "es": "Comprendí que debía definir primero la arquitectura y mantener los prompts coherentes con ella. La IA podía acelerar el trabajo, mientras yo seguía siendo responsable de revisar sus propuestas y probar el resultado.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "FoodCheck no pretende sustituir a un dietista, pero demuestra algo importante: con un poco de código y una IA bien usada, podemos crear herramientas útiles, privadas y educativas.",
@@ -443,29 +733,49 @@
     },
     {
       "source": "Por tanto, el futuro de la IA aplicada a la salud quizás no esté en los grandes servidores, sino en las manos de los desarrolladores curiosos.",
-      "en": "Therefore, the future of AI applied to health may not lie in large servers, but in the hands of curious developers.",
-      "es": "Por tanto, el futuro de la IA aplicada a la salud quizás no esté en los grandes servidores, sino en las manos de los desarrolladores curiosos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "That is the opportunity I take from this project: curious developers can build useful learning prototypes, provided they explain the limits, check the results and take care of users’ data.",
+      "es": "Me quedo con esa posibilidad: desarrolladores curiosos pueden construir prototipos útiles para aprender, siempre que expliquen sus límites, contrasten los resultados y cuiden los datos de quienes los utilizan.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "comida",
       "en": "food",
       "es": "comida",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "vibe coding",
       "en": "vibe coding",
       "es": "vibe coding",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 nov 2025.",
-      "en": "A history of the Saturdays.AI community. Originally published on Nov 26, 2025.",
+      "en": "A story from the Saturdays.AI community. Originally published on Nov 26, 2025.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 26 nov 2025.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "Registrar lo que comemos puede resultar tedioso: buscar alimentos, comparar marcas y ajustar cantidades. FoodCheck nació para explorar otra opción: partir de una foto y obtener una estimación nutricional editable. No requiere una cuenta en la aplicación, pero el análisis de las imágenes sí utiliza servicios externos.",
@@ -509,6 +819,50 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Archive Spanish and English wording"
+      }
+    },
+    {
+      "source": "FoodCheck combina un frontend en GitHub Pages, Cloudflare Workers AI y Open Food Facts para explorar estimaciones nutricionales editables a partir de fotografías.",
+      "en": "FoodCheck combines a GitHub Pages frontend, Cloudflare Workers AI and Open Food Facts to explore editable nutritional estimates from photographs.",
+      "es": "FoodCheck combina un frontend en GitHub Pages, Cloudflare Workers AI y Open Food Facts para explorar estimaciones nutricionales editables a partir de fotografías.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El frontend obtiene la URL del Worker desde el bloque de configuración JSON que ya incluimos en la cabecera de index.html y que hace de puente entre el navegador y el backend en Cloudflare Workers.",
+      "en": "The frontend obtains the Worker URL from the JSON configuration block in the head section of index.html. The Worker connects the browser to the image-analysis service.",
+      "es": "El frontend obtiene la URL del Worker del bloque JSON de configuración incluido en la cabecera de index.html. El Worker conecta el navegador con el servicio de análisis de imágenes.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Para llamar al Worker y hacer así las consultas, primero construimos una URL con parámetros de interés (texto que escribe el usuario, número de resultados…). Esta URL la llamamos a través del endpoint configurado en la cabecera del HTML (id foodcheck-config), reutilizando el mismo dominio del Worker de visión:",
+      "en": "To query the Worker, we build a URL with parameters such as the search text and result limit. We use the address defined in the foodcheck-config block in the HTML head, on the same domain as the image-analysis Worker:",
+      "es": "Para consultar el Worker, construimos una URL con parámetros como el texto de búsqueda y el número de resultados. Utilizamos la dirección definida en el bloque foodcheck-config de la cabecera del HTML, con el mismo dominio del Worker de visión:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Imágenes grandes o en formatos no admitidos: reduje el tamaño y exporté a JPEG mediante canvas. Para archivos HEIC, el navegador necesita poder decodificar la imagen o utilizar una conversión previa; cambiar la extensión no basta.",
+      "en": "Large images or unsupported formats: I reduced the size and exported to JPEG using canvas. For HEIC files, the browser must be able to decode the image or use a prior conversion step; changing the extension is not enough.",
+      "es": "Imágenes grandes o en formatos no admitidos: reduje el tamaño y exporté a JPEG mediante canvas. Para archivos HEIC, el navegador necesita poder decodificar la imagen o utilizar una conversión previa; cambiar la extensión no basta.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

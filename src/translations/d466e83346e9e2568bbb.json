@@ -6,7 +6,7 @@
       "source": "14 min de lectura",
       "en": "14 min read",
       "es": "14 min de lectura",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -18,6 +18,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -43,34 +48,54 @@
       "source": "El problema",
       "en": "The problem",
       "es": "El problema",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los niños no sólo son el futuro, también son el presente del mundo",
       "en": "Children are not only the future, they are also the present of the world",
       "es": "Los niños no sólo son el futuro, también son el presente del mundo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Génesis de conciencia ecológica",
       "en": "Genesis of ecological consciousness",
       "es": "Génesis de conciencia ecológica",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Pasos para seguir",
       "en": "Steps to follow",
       "es": "Pasos para seguir",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. Dataset",
@@ -84,7 +109,7 @@
       "source": "2. Procesamiento: el ABC",
       "en": "2. Processing: the ABC",
       "es": "2. Procesamiento: el ABC",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -96,29 +121,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "3. El modelo",
       "en": "3. The model",
       "es": "3. El modelo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4. Resultados:",
       "en": "4. Results:",
       "es": "4. Resultados:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "5. El prototipio: su crecimiento",
-      "en": "5. The prototype: its growth",
-      "es": "5. El prototipio: su crecimiento",
-      "reviewed": false,
+      "en": "5. Developing the prototype",
+      "es": "5. Desarrollo del prototipo",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -131,21 +171,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "6. Despliegue",
       "en": "6. Deployment",
       "es": "6. Despliegue",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Su futuro: Próximos pasos",
-      "en": "Your Future: Next Steps",
-      "es": "Su futuro: Próximos pasos",
-      "reviewed": false,
+      "en": "The future: next steps",
+      "es": "El futuro: próximos pasos",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -157,21 +207,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Repositorio:",
       "en": "Repository:",
       "es": "Repositorio:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "«Aprendí que nunca somos demasiado pequeños para hacer la diferencia»",
       "en": "\"I learned that we are never too small to make a difference\"",
       "es": "«Aprendí que nunca somos demasiado pequeños para hacer la diferencia»",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -184,21 +244,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Greta Thunberg",
       "en": "Greta Thunberg",
       "es": "Greta Thunberg",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es una de las frases celebres de Greta Thunberg, haciendo alusión al poder de los jóvenes de cambiarlo todo, en particular su forma de ver el mundo y las oportunidades de hacer cosas nuevas en pro de su futuro.",
-      "en": "It is one of Greta Thunberg's famous phrases, alluding to the power of young people to change everything, particularly their way of seeing the world and the opportunities to do new things for their future.",
-      "es": "Es una de las frases celebres de Greta Thunberg, haciendo alusión al poder de los jóvenes de cambiarlo todo, en particular su forma de ver el mundo y las oportunidades de hacer cosas nuevas en pro de su futuro.",
-      "reviewed": false,
+      "en": "The quote reminds us that young people can help change the world and shape their future.",
+      "es": "La frase recuerda que los jóvenes pueden contribuir a cambiar el mundo y construir su futuro.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -211,13 +281,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Pero… y sí ese futuro se ve gris y contaminado ¿Entonces cómo pueden hacer la diferencia hoy?",
-      "en": "But... and if that future looks gray and contaminated, then how can they make a difference today?",
-      "es": "Pero… y sí ese futuro se ve gris y contaminado ¿Entonces cómo pueden hacer la diferencia hoy?",
-      "reviewed": false,
+      "en": "But if that future looks polluted and bleak, how can they make a difference today?",
+      "es": "Pero, si ese futuro se ve gris y contaminado, ¿cómo pueden marcar la diferencia hoy?",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -230,13 +305,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Mascota de conciencIA ecológica",
-      "en": "Mascot of ecological conscience",
+      "en": "Mascot of ConciencIA Ecológica",
       "es": "Mascota de conciencIA ecológica",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -248,13 +328,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Actualmente, muchos jóvenes se preocupan por los problemas ambientales, volviéndose actores proactivos en la búsqueda de soluciones, esta urgencia de cambio nos motivó a crear ConciencIA Ecológica para enseñar a los niños la forma correcta de clasificar sus residuos de una manera divertida, promoviendo las prácticas de las (4R), Reducir, Reutilizar, Reciclar y Recuperar, utilizando tecnología e inteligencia artificial.",
-      "en": "Currently, many young people are concerned about environmental problems, becoming proactive actors in the search for solutions. This urgency for change motivated us to create Ecological Consciousness to teach children the correct way to classify their waste in a fun way, promoting the practices of the (4Rs), Reduce, Reuse, Recycle and Recover, using technology and artificial intelligence.",
-      "es": "Actualmente, muchos jóvenes se preocupan por los problemas ambientales, volviéndose actores proactivos en la búsqueda de soluciones, esta urgencia de cambio nos motivó a crear ConciencIA Ecológica para enseñar a los niños la forma correcta de clasificar sus residuos de una manera divertida, promoviendo las prácticas de las (4R), Reducir, Reutilizar, Reciclar y Recuperar, utilizando tecnología e inteligencia artificial.",
-      "reviewed": false,
+      "en": "Young people’s concern for the environment inspired ConciencIA Ecológica: a proposal to make learning to sort waste fun. We combine technology and AI to promote the four Rs: reduce, reuse, recycle and recover.",
+      "es": "La preocupación de muchos jóvenes por el medioambiente nos animó a crear ConciencIA Ecológica: una propuesta para enseñar a clasificar residuos de forma divertida. Combinamos tecnología e IA para promover las cuatro erres: reducir, reutilizar, reciclar y recuperar.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -267,13 +352,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Este equipo conformado por siete (07) apasionados de la inteligencia artificial ha unido tres países como: Ecuador, México y Venezuela, participando en la 2da edición de Saturdays.AI LATAM y a través de su método",
-      "en": "This team made up of seven (07) passionate about artificial intelligence has united three countries such as: Ecuador, Mexico and Venezuela, participating in the 2nd edition of Saturdays.AI LATAM and through its method",
-      "es": "Este equipo conformado por siete (07) apasionados de la inteligencia artificial ha unido tres países como: Ecuador, México y Venezuela, participando en la 2da edición de Saturdays.AI LATAM y a través de su método",
-      "reviewed": false,
+      "en": "Our team of seven people from Ecuador, Mexico and Venezuela took part in the second Saturdays.AI LATAM programme. Following its",
+      "es": "Nuestro equipo de siete personas de Ecuador, México y Venezuela participó en la segunda edición de Saturdays.AI LATAM. Con el enfoque",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -286,21 +376,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "build to learn",
       "en": "build to learn",
       "es": "construir para aprender",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "elaboró un proyecto basado en Deep Learning llamado ConciencIA Ecológica, enfocado en estudiantes de educación básica de la ciudad de Guayaquil — Ecuador.",
-      "en": "developed a project based on Deep Learning called Ecological Conscience, focused on basic education students in the city of Guayaquil — Ecuador.",
-      "es": "elaboró un proyecto basado en Deep Learning llamado ConciencIA Ecológica, enfocado en estudiantes de educación básica de la ciudad de Guayaquil — Ecuador.",
-      "reviewed": false,
+      "en": "approach, we developed ConciencIA Ecológica, a deep learning project for primary and lower-secondary school pupils in Guayaquil, Ecuador.",
+      "es": "desarrollamos ConciencIA Ecológica, un proyecto de deep learning orientado al alumnado de educación básica de Guayaquil, Ecuador.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -312,13 +412,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Si quieres saber más te invito a seguir leyendo.",
       "en": "If you want to know more, I invite you to continue reading.",
       "es": "Si quieres saber más te invito a seguir leyendo.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -330,13 +435,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Integrantes del equipo del proyecto ConciencIA Ecológica",
-      "en": "Members of the Ecological Conscience project team",
+      "en": "Members of the ConciencIA Ecológica project team",
       "es": "Integrantes del equipo del proyecto ConciencIA Ecológica",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -349,30 +459,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "De acuerdo al Instituto Nacional de Estadísticas y Censo",
       "en": "According to the National Institute of Statistics and Census",
       "es": "De acuerdo al Instituto Nacional de Estadísticas y Censo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(INEC)",
       "en": "(INEC)",
       "es": "(INEC)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", en el año 2017 cada ecuatoriano produjo 860 gramos de residuos sólidos en un día, a pesar de que este número se encontró por debajo del kilogramo de basura por día en América Latina y el Caribe, ese año se tuvo un crecimiento de 48% con respecto al año anterior, por lo que no es sorprendente imaginar, que si no se tomaron medidas a tiempo, estos números sean mayores hoy en día.",
-      "en": ", In 2017, each Ecuadorian produced 860 grams of solid waste in one day, although this number was below one kilogram of garbage per day in Latin America and the Caribbean, that year there was a growth of 48% compared to the previous year, so it is not surprising to imagine that if measures were not taken in time, these numbers would be higher today.",
-      "es": ", en el año 2017 cada ecuatoriano produjo 860 gramos de residuos sólidos en un día, a pesar de que este número se encontró por debajo del kilogramo de basura por día en América Latina y el Caribe, ese año se tuvo un crecimiento de 48% con respecto al año anterior, por lo que no es sorprendente imaginar, que si no se tomaron medidas a tiempo, estos números sean mayores hoy en día.",
-      "reviewed": false,
+      "en": ", in 2017 each Ecuadorian generated about 860 grams of solid waste per day, below the kilogram per day cited for Latin America and the Caribbean. The historical figures we gathered indicated a 48% increase over the previous year and motivated our interest in better waste sorting.",
+      "es": ", en 2017 cada ecuatoriano generó unos 860 gramos diarios de residuos sólidos, por debajo del kilogramo diario citado para América Latina y el Caribe. Las cifras históricas que reunimos señalaban un aumento del 48% respecto al año anterior y motivaron nuestro interés por mejorar la clasificación.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -385,13 +510,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "De la basura recolectada el 96% se entierra en rellenos sanitarios, celdas emergentes o botaderos a cielo abierto y solo el 4% se recicla. Para tener una idea de las razones por la que el reciclaje es bajo, en el 2016 el",
-      "en": "Of the garbage collected, 96% is buried in landfills, pop-up cells or open dumps and only 4% is recycled. To get an idea of the reasons why recycling is low, in 2016 the",
-      "es": "De la basura recolectada el 96% se entierra en rellenos sanitarios, celdas emergentes o botaderos a cielo abierto y solo el 4% se recicla. Para tener una idea de las razones por la que el reciclaje es bajo, en el 2016 el",
-      "reviewed": false,
+      "en": "The figures consulted for the project indicated that 96% of collected waste went to sanitary landfills, emergency disposal cells or open dumps, while 4% was recycled. In a 2016 household survey,",
+      "es": "Los datos consultados para el proyecto indicaban que el 96% de los residuos recogidos se destinaba a rellenos sanitarios, celdas emergentes o vertederos abiertos, y el 4% se reciclaba. En una encuesta de hogares de 2016, el",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -404,21 +534,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "INEC",
       "en": "INEC",
       "es": "INEC",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "realizó una encuesta de hogares detectando que el 59% de los hogares no clasificaron residuos.",
       "en": "conducted a household survey detecting that 59% of households did not classify waste.",
       "es": "realizó una encuesta de hogares detectando que el 59% de los hogares no clasificaron residuos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -431,13 +571,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Cuando se le preguntó las razones por las cuales no clasificaban, el 43% respondió por la falta de contenedores específicos. Sin embargo, el 57% restante se debió a problemas culturales: “no saben clasificar” (18%), “no le interesa” la clasificación de residuos (16%), dicen “no conocer los beneficios” (15%) o el restante (8%) no confía en los sistemas de recolección de basura.",
       "en": "When asked the reasons why they did not classify, 43% responded due to the lack of specific containers. However, the remaining 57% were due to cultural problems: “they do not know how to classify” (18%), “they are not interested” in waste classification (16%), they say “they do not know the benefits” (15%) or the remaining (8%) do not trust garbage collection systems.",
       "es": "Cuando se le preguntó las razones por las cuales no clasificaban, el 43% respondió por la falta de contenedores específicos. Sin embargo, el 57% restante se debió a problemas culturales: “no saben clasificar” (18%), “no le interesa” la clasificación de residuos (16%), dicen “no conocer los beneficios” (15%) o el restante (8%) no confía en los sistemas de recolección de basura.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -450,13 +595,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "De esta realidad, Guayaquil es la primera ciudad que produce basura generando el 28% del total de desechos diarios del país, y la más elevada a nivel de porcentaje de desinterés: el 29% de los ciudadanos no le interesa clasificar, el 15% no conoce los beneficios y el 6% no sabe clasificar, este desinterés es seguido por Ambato (20%), Machala (14%), Quito (11%), Cuenca (9%).",
-      "en": "From this reality, Guayaquil is the first city that produces garbage, generating 28% of the total daily waste in the country, and the highest in terms of percentage of disinterest: 29% of citizens are not interested in classifying, 15% do not know the benefits and 6% do not know how to classify, this disinterest is followed by Ambato (20%), Machala (14%), Quito (11%), Cuenca (9%).",
+      "en": "The historical figures collected for the project identified Guayaquil as the largest waste-producing city, accounting for 28% of the country’s daily total. Reported reasons for not sorting included lack of interest (29%), not knowing the benefits (15%) and not knowing how (6%). The cited lack-of-interest figures for other cities were Ambato 20%, Machala 14%, Quito 11% and Cuenca 9%.",
       "es": "De esta realidad, Guayaquil es la primera ciudad que produce basura generando el 28% del total de desechos diarios del país, y la más elevada a nivel de porcentaje de desinterés: el 29% de los ciudadanos no le interesa clasificar, el 15% no conoce los beneficios y el 6% no sabe clasificar, este desinterés es seguido por Ambato (20%), Machala (14%), Quito (11%), Cuenca (9%).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -469,13 +619,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Por esta razón nuestro proyecto centra sus esfuerzos en esta ciudad y abre su primer capítulo llamado Guayaquil.",
       "en": "For this reason our project focuses its efforts on this city and opens its first chapter called Guayaquil.",
       "es": "Por esta razón nuestro proyecto centra sus esfuerzos en esta ciudad y abre su primer capítulo llamado Guayaquil.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -488,13 +643,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Problema dectectado",
-      "en": "Problem detected",
-      "es": "Problema dectectado",
-      "reviewed": false,
+      "en": "Problem identified",
+      "es": "Problema detectado",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -506,13 +666,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Los niños de hoy serán los adultos del mañana, si queremos cambiar la forma como las personas interactúan con nuestro planeta, debemos empezar desde edades tempranas creando hábitos amigables con el ambiente, y estos pueden estimularse en la escuela a través de la educación y la creación de espacios destinados a las buenas prácticas ambientales.",
       "en": "Today's children will be tomorrow's adults. If we want to change the way people interact with our planet, we must start from an early age by creating environmentally friendly habits, and these can be encouraged at school through education and the creation of spaces for good environmental practices.",
       "es": "Los niños de hoy serán los adultos del mañana, si queremos cambiar la forma como las personas interactúan con nuestro planeta, debemos empezar desde edades tempranas creando hábitos amigables con el ambiente, y estos pueden estimularse en la escuela a través de la educación y la creación de espacios destinados a las buenas prácticas ambientales.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -525,13 +690,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Conscientes de los anterior nace la idea de ConciencIA Ecológica el cual busca enseñar a los niños a clasificar sus residuos de forma divertida.",
-      "en": "Aware of the above, the idea of Ecological Consciousness was born, which seeks to teach children to classify their waste in a fun way.",
-      "es": "Conscientes de los anterior nace la idea de ConciencIA Ecológica el cual busca enseñar a los niños a clasificar sus residuos de forma divertida.",
-      "reviewed": false,
+      "en": "This led to ConciencIA Ecológica: learning to sort waste through play.",
+      "es": "De esta idea nació ConciencIA Ecológica: aprender a clasificar residuos jugando.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -544,13 +714,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Este proyecto se enfoca en disminuir el desinterés y el desconocimiento en la clasificación de residuos de estudiantes de educación básica en la ciudad de Guayaquil, a través de contenedores con visión inteligente que oriente a niños desde los 5 años hasta los 14 años, en la correcta clasificación y gestión de residuos, promoviendo las prácticas de Reducir, Reutilizar, Reciclar y Recuperar (4R).",
       "en": "This project focuses on reducing disinterest and ignorance in the classification of waste among basic education students in the city of Guayaquil, through containers with intelligent vision that guide children from 5 years old to 14 years old, in the correct classification and management of waste, promoting the practices of Reduce, Reuse, Recycle and Recover (4R).",
       "es": "Este proyecto se enfoca en disminuir el desinterés y el desconocimiento en la clasificación de residuos de estudiantes de educación básica en la ciudad de Guayaquil, a través de contenedores con visión inteligente que oriente a niños desde los 5 años hasta los 14 años, en la correcta clasificación y gestión de residuos, promoviendo las prácticas de Reducir, Reutilizar, Reciclar y Recuperar (4R).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -563,13 +738,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La propuesta une varios conceptos, primero buscando que el niño desde la edad escolar se familiarice con la gestión de residuos, orientándose a través de audio y luces hacia el contenedor correcto, también que gestione correctamente el residuo en su contenedor contribuyendo a la clasificación desde el origen, y creando conciencia en el niño a través de mensajes educativos.",
       "en": "The proposal unites several concepts, first seeking to familiarize children from school age with waste management, guiding them through audio and lights towards the correct container, also to correctly manage the waste in their container, contributing to the classification from the source, and creating awareness in the child through educational messages.",
       "es": "La propuesta une varios conceptos, primero buscando que el niño desde la edad escolar se familiarice con la gestión de residuos, orientándose a través de audio y luces hacia el contenedor correcto, también que gestione correctamente el residuo en su contenedor contribuyendo a la clasificación desde el origen, y creando conciencia en el niño a través de mensajes educativos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -582,13 +762,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Los contenedores están pensados para poder medir el volumen de residuos y emitir una señal al encontrarse el recipiente lleno, esto permitirá a la escuela vaciarlo a tiempo y evitar daños en la compuerta del recipiente.",
       "en": "The containers are designed to be able to measure the volume of waste and emit a signal when the container is full, this will allow the school to empty it in time and avoid damage to the container gate.",
       "es": "Los contenedores están pensados para poder medir el volumen de residuos y emitir una señal al encontrarse el recipiente lleno, esto permitirá a la escuela vaciarlo a tiempo y evitar daños en la compuerta del recipiente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -601,13 +786,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En este punto existía dos decisiones para el módulo central de ConciencIA Ecológica, la primera ubicar un Jason Nano Nvidia, que condensa en su interior la cámara, la capacidad de cómputo y la posibilidad de conectar el micro controlador, o ubicar una Tablet reciclada, utilizar su cámara y alojar la capacidad de cómputo en la Tablet y que esta coordine la clasificación con las señales a los contenedores, las bocinas y las luces.",
-      "en": "At this point there were two decisions for the central module of Ecological Conscience, the first to locate a Jason Nano Nvidia, which condenses inside the camera, the computing capacity and the possibility of connecting the micro controller, or to locate a recycled Tablet, use its camera and house the computing capacity in the Tablet and have it coordinate the classification with the signals to the containers, the speakers and the lights.",
-      "es": "En este punto existía dos decisiones para el módulo central de ConciencIA Ecológica, la primera ubicar un Jason Nano Nvidia, que condensa en su interior la cámara, la capacidad de cómputo y la posibilidad de conectar el micro controlador, o ubicar una Tablet reciclada, utilizar su cámara y alojar la capacidad de cómputo en la Tablet y que esta coordine la clasificación con las señales a los contenedores, las bocinas y las luces.",
-      "reviewed": false,
+      "en": "We considered two options for the central module: an Nvidia Jetson Nano connected to a camera and microcontroller, or a reused tablet providing a camera, computing power and coordination of signals to bins, speakers and lights.",
+      "es": "Consideramos dos opciones para el módulo central: una Nvidia Jetson Nano conectada a una cámara y un microcontrolador, o una tableta reutilizada que aportara cámara, cómputo y coordinación de las señales hacia contenedores, altavoces y luces.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -620,13 +810,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La decisión se tomó considerando la base del presupuesto que puede tener una escuela, por lo que la segunda opción parece ser la más viable, ya que por menos presupuesto se podrían llevar ConciencIA Ecológica a más escuelas. El equipo estimo 70$ considerando la donación de una Tablet reciclada.",
-      "en": "The decision was made considering the budget base that a school may have, so the second option seems to be the most viable, since for less budget Ecological Consciousness could be brought to more schools. The team estimated $70 considering the donation of a recycled Tablet.",
-      "es": "La decisión se tomó considerando la base del presupuesto que puede tener una escuela, por lo que la segunda opción parece ser la más viable, ya que por menos presupuesto se podrían llevar ConciencIA Ecológica a más escuelas. El equipo estimo 70$ considerando la donación de una Tablet reciclada.",
-      "reviewed": false,
+      "en": "We chose a reused tablet for its lower cost and potential accessibility for schools. In 2021, the team estimated a $70 budget, assuming the tablet was donated.",
+      "es": "Optamos por la tableta reutilizada por su menor coste y su posible accesibilidad para las escuelas. En 2021, el equipo estimó un presupuesto de 70 dólares, suponiendo que la tableta fuera donada.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -639,13 +834,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Luego de decidir cómo realizar la clasificación, se pensó en qué se quería clasificar y utilizando la Norma Ecuatoriana INEN 2841, 2014, referente a la estandarización de colores para recipientes de depósito y almacenamiento temporal de residuos sólidos, se establecieron 5 clases: vidrio, papel, cartón, plástico, orgánico.",
       "en": "After deciding how to carry out the classification, we thought about what we wanted to classify and using the Ecuadorian Standard INEN 2841, 2014, regarding the standardization of colors for containers for deposit and temporary storage of solid waste, 5 classes were established: glass, paper, cardboard, plastic, organic.",
       "es": "Luego de decidir cómo realizar la clasificación, se pensó en qué se quería clasificar y utilizando la Norma Ecuatoriana INEN 2841, 2014, referente a la estandarización de colores para recipientes de depósito y almacenamiento temporal de residuos sólidos, se establecieron 5 clases: vidrio, papel, cartón, plástico, orgánico.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -658,13 +858,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Que finalmente se agruparon en:",
       "en": "Which were finally grouped into:",
       "es": "Que finalmente se agruparon en:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -676,37 +881,57 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En un contenedor de color verde: Orgánicos.",
       "en": "In a green container: Organic.",
       "es": "En un contenedor de color verde: Orgánicos.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En un contenedor de color azul: Plástico.",
       "en": "In a blue container: Plastic.",
       "es": "En un contenedor de color azul: Plástico.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En un contenedor de color blanco. Vidrio.",
       "en": "In a white container. Glass.",
       "es": "En un contenedor de color blanco. Vidrio.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En un contenedor de color gris: Cartón y Papel.",
       "en": "In a gray container: Cardboard and Paper.",
       "es": "En un contenedor de color gris: Cartón y Papel.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -718,13 +943,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En un contenedor negro: Desechos, el cual lo establecimientos como los porcentajes de predicción más bajo que presente el modelo.",
-      "en": "In a black container: Waste, which you establish as the lowest prediction percentages presented by the model.",
-      "es": "En un contenedor negro: Desechos, el cual lo establecimientos como los porcentajes de predicción más bajo que presente el modelo.",
-      "reviewed": false,
+      "en": "Black bin: items the model could not classify confidently enough. A low score alone does not establish that an item is non-recyclable.",
+      "es": "Contenedor negro: residuos sin una clasificación suficientemente clara según el umbral del modelo. Una puntuación baja no demuestra por sí sola que el residuo no sea reciclable.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -737,13 +967,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Los datos fueron seleccionados de tres fuentes: Un repositorio abierto de imágenes de desechos llamado",
-      "en": "The data was selected from three sources: An open repository of debris images called",
+      "en": "We selected data from three sources: an open collection of waste-image datasets called",
       "es": "Los datos fueron seleccionados de tres fuentes: Un repositorio abierto de imágenes de desechos llamado",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -756,13 +991,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Waste datasets review",
       "en": "Waste datasets review",
       "es": "Revisión de conjuntos de datos de residuos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -774,13 +1014,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "”, en particular con el data set",
       "en": "”, particularly with the data set",
       "es": "”, en particular con el data set",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -793,21 +1038,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Trashnet",
       "en": "Trashnet",
       "es": "Trashnet",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", que contiene 2527 imágenes; fotos en páginas web especializadas de fotografías y fotos captadas desde el celular relacionadas con productos que se consideró etiquetar relacionadas al ámbito escolar.",
-      "en": ", which contains 2527 images; photos on specialized photography websites and photos captured from cell phones related to products that were considered to be labeled related to the school environment.",
+      "en": ", containing 2,527 images; specialist photography websites; and phone photographs of items relevant to the school environment.",
       "es": ", que contiene 2527 imágenes; fotos en páginas web especializadas de fotografías y fotos captadas desde el celular relacionadas con productos que se consideró etiquetar relacionadas al ámbito escolar.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -820,13 +1075,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El dataset se construyó con un total de 5000 imágenes en 5 clases: vidrio, papel, cartón, plástico, orgánico. Para el proyecto no se consideró la clase metal. El dataset se dividió en 80% entrenamiento y 20% para validar.",
       "en": "The dataset was built with a total of 5000 images in 5 classes: glass, paper, cardboard, plastic, organic. The metal class was not considered for the project. The dataset was divided into 80% training and 20% for validation.",
       "es": "El dataset se construyó con un total de 5000 imágenes en 5 clases: vidrio, papel, cartón, plástico, orgánico. Para el proyecto no se consideró la clase metal. El dataset se dividió en 80% entrenamiento y 20% para validar.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -839,13 +1099,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Esta fue la fase más larga por el tiempo invertido para hacer los cuadros delimitadores (bounding box). Para el procesamiento se utilizó",
       "en": "This was the longest phase due to the time invested to make the bounding boxes. For processing, we used",
       "es": "Esta fue la fase más larga por el tiempo invertido para hacer los cuadros delimitadores (bounding box). Para el procesamiento se utilizó",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -858,6 +1123,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -870,9 +1140,9 @@
     },
     {
       "source": ", el cual es una herramienta gratuita de anotación de imágenes gráficas disponible en pip para python3.0 o superior.",
-      "en": ", which is a free graphical image annotation tool available in pip for python3.0 or higher.",
-      "es": ", el cual es una herramienta gratuita de anotación de imágenes gráficas disponible en pip para python3.0 o superior.",
-      "reviewed": false,
+      "en": ", a free image-annotation tool used with Python.",
+      "es": ", una herramienta gratuita para anotar imágenes, utilizada con Python.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -885,13 +1155,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Para cada etiquetado se cuidó encerrar el objeto dentro del cuadro delimitador, lo más ajustado posible a la imagen y haciendo tantos cuadros como objetos existieran.",
       "en": "For each labeling, care was taken to enclose the object within the bounding box, as tight as possible to the image and making as many boxes as there were objects.",
       "es": "Para cada etiquetado se cuidó encerrar el objeto dentro del cuadro delimitador, lo más ajustado posible a la imagen y haciendo tantos cuadros como objetos existieran.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -904,13 +1179,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Ejemplo de la utilización de la herramienta LabelImg",
       "en": "Example of using the LabelImg tool",
       "es": "Ejemplo de la utilización de la herramienta LabelImg",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -923,13 +1203,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Las imágenes fueron guardadas en formato Yolo (*.txt). Este formato establece la clase y las coordenadas de los cuadros delimitadores con la siguiente estructura:(c, xn, yn, wn, hn)",
-      "en": "The images were saved in Yolo format (*.txt). This format sets the class and coordinates of the bounding boxes with the following structure: (c, xn, yn, wn, hn)",
-      "es": "Las imágenes fueron guardadas en formato Yolo (*.txt). Este formato establece la clase y las coordenadas de los cuadros delimitadores con la siguiente estructura:(c, xn, yn, wn, hn)",
-      "reviewed": false,
+      "en": "Annotations were saved as YOLO-format TXT files. Each line contains a class and normalised bounding-box coordinates: (c, xn, yn, wn, hn).",
+      "es": "Las anotaciones se guardaron en archivos TXT con formato YOLO. Cada línea contiene la clase y las coordenadas normalizadas del cuadro delimitador: (c, xn, yn, wn, hn).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -942,13 +1227,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "5 Formato yolo (*.txt)",
-      "en": "5 Yolo format (*.txt)",
-      "es": "5 Formato yolo (*.txt)",
-      "reviewed": false,
+      "en": "YOLO annotation format (*.txt)",
+      "es": "Formato de anotaciones YOLO (*.txt)",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -960,30 +1250,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Donde:",
       "en": "Where:",
       "es": "Donde:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "c : es el número de la clase, en este proyecto hay 5 clases, donde c puede tomar el valor 0 para cartón, 1 papel, 2 vidrio, 3 plástico y 4 orgánico.",
       "en": "c: is the class number, in this project there are 5 classes, where c can take the value 0 for cardboard, 1 paper, 2 glass, 3 plastic and 4 organic.",
       "es": "c : es el número de la clase, en este proyecto hay 5 clases, donde c puede tomar el valor 0 para cartón, 1 papel, 2 vidrio, 3 plástico y 4 orgánico.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "xn: centro del cuadro delimitador normalizado en la dirección x.",
       "en": "xn: center of the normalized bounding box in the x direction.",
       "es": "xn: centro del cuadro delimitador normalizado en la dirección x.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -996,13 +1301,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "yn: centro del cuadro delimitador normalizado en la dirección y.",
       "en": "yn: center of the bounding box normalized in the y direction.",
       "es": "yn: centro del cuadro delimitador normalizado en la dirección y.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1015,13 +1325,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "wn: ancho normalizado del cuadro delimitador (x).",
       "en": "wn: normalized width of the bounding box (x).",
       "es": "wn: ancho normalizado del cuadro delimitador (x).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1034,13 +1349,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "hn: alto normalizado del cuadro delimitador (y).",
       "en": "hn: normalized height of the bounding box (y).",
       "es": "hn: alto normalizado del cuadro delimitador (y).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1053,13 +1373,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "El modelo seleccionado fue el",
       "en": "The selected model was",
       "es": "El modelo seleccionado fue el",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1072,13 +1397,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "YOLOv5",
       "en": "YOLOv5",
       "es": "YOLOv5",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1090,13 +1420,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "You Only Look Once",
       "en": "You Only Look Once",
       "es": "Sólo miras una vez",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1108,13 +1443,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "). Este es un sistema de código abierto para la",
       "en": "). This is an open source system for",
       "es": "). Este es un sistema de código abierto para la",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1127,21 +1467,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "detección de objetos",
       "en": "object detection",
       "es": "detección de objetos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "en tiempo real pre-entrenado con el dataset COCO, el cual hace uso de una única red neuronal convolucional (CNN) para detectar objetos en imágenes.",
       "en": "in real time pre-trained with the COCO dataset, which uses a single convolutional neural network (CNN) to detect objects in images.",
       "es": "en tiempo real pre-entrenado con el dataset COCO, el cual hace uso de una única red neuronal convolucional (CNN) para detectar objetos en imágenes.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1154,13 +1504,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "De acuerdo con la revisión bibliográfica, Yolo en su quinta versión es un buen algoritmo para detectar objetos en el campo de la",
       "en": "According to the literature review, Yolo in its fifth version is a good algorithm to detect objects in the field of",
       "es": "De acuerdo con la revisión bibliográfica, Yolo en su quinta versión es un buen algoritmo para detectar objetos en el campo de la",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1173,13 +1528,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "alimentación",
-      "en": "feeding",
+      "en": "food",
       "es": "alimentación",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1191,13 +1551,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "robótica",
       "en": "robotics",
       "es": "robótica",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1209,21 +1574,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "salud",
       "en": "health",
       "es": "salud",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", entre otros, logrando un buen posicionamiento y reconocimiento de objetos, más precisos que otros algoritmos, incluso versiones anteriores de Yolo. Este equipo seleccionó YoloV5, por considerarlo un algoritmo robusto con buenos resultados en investigaciones recientes relacionadas con detección.",
-      "en": ", among others, achieving good positioning and object recognition, more precise than other algorithms, even previous versions of Yolo. This team selected YoloV5, considering it a robust algorithm with good results in recent research related to detection.",
-      "es": ", entre otros, logrando un buen posicionamiento y reconocimiento de objetos, más precisos que otros algoritmos, incluso versiones anteriores de Yolo. Este equipo seleccionó YoloV5, por considerarlo un algoritmo robusto con buenos resultados en investigaciones recientes relacionadas con detección.",
-      "reviewed": false,
+      "en": ", among other areas. We selected YOLOv5 based on detection studies we reviewed and its suitability for the project’s resources.",
+      "es": ", entre otros. Seleccionamos YOLOv5 por los resultados que encontramos en trabajos de detección y por su adecuación a los recursos del proyecto.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1236,13 +1611,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El modelo se entrenó 4 veces utilizando la técnica de “Transferencia de aprendizaje, llegando a obtener una mejora del 50% en el último entrenamiento con respecto al primero. En el modelo se usaron las siguientes variables:",
-      "en": "The model was trained 4 times using the \"Transfer Learning\" technique, achieving a 50% improvement in the last training compared to the first. The following variables were used in the model:",
-      "es": "El modelo se entrenó 4 veces utilizando la técnica de “Transferencia de aprendizaje, llegando a obtener una mejora del 50% en el último entrenamiento con respecto al primero. En el modelo se usaron las siguientes variables:",
-      "reviewed": false,
+      "en": "We carried out four transfer-learning runs and observed improvements between the first and last. Final metrics are detailed below. We configured the following variables:",
+      "es": "Realizamos cuatro entrenamientos mediante transferencia de aprendizaje. El equipo observó mejoras entre el primero y el último; las métricas finales se detallan a continuación. Configuramos estas variables:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1255,13 +1635,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Modelo: Se usó la versión Small (Yolov5s) ya que es el más rápido de entrenar y permitió tener una buena idea del comportamiento de la base de dato y del modelo frente al problema. Sin embargo, la desventaja de la rapidez es que se sacrifica precisión en comparación con otras versiones como la Extra Large (Yolov5x)",
-      "en": "Model: The Small version (Yolov5s) was used since it is the fastest to train and allowed us to have a good idea of the behavior of the database and the model when faced with the problem. However, the downside to speed is that you sacrifice precision compared to other versions like the Extra Large (Yolov5x)",
-      "es": "Modelo: Se usó la versión Small (Yolov5s) ya que es el más rápido de entrenar y permitió tener una buena idea del comportamiento de la base de dato y del modelo frente al problema. Sin embargo, la desventaja de la rapidez es que se sacrifica precisión en comparación con otras versiones como la Extra Large (Yolov5x)",
-      "reviewed": false,
+      "en": "Model: we used YOLOv5s, the Small variant, to keep training requirements manageable. Choosing a larger variant would involve balancing resources, speed and performance.",
+      "es": "Modelo: utilizamos YOLOv5s, la variante Small, para realizar pruebas con un coste de entrenamiento manejable. Elegir una variante más grande supondría valorar el equilibrio entre recursos, velocidad y rendimiento.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1274,13 +1659,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Pesos (weights): para el primer entrenamiento se utilizó los pesos predeterminados en Yolo, los cuales provienen del entrenamiento del data set COCO, llamado “yolov5.pt. Durante cada entrenamiento se generó un archivo con el mejor peso encontrado, el cual se utilizó para el siguiente entrenamiento.",
-      "en": "Weights: for the first training, the default weights in Yolo were used, which come from the training of the COCO data set, called “yolov5.pt. During each training, a file was generated with the best weight found, which was used for the next training.",
-      "es": "Pesos (weights): para el primer entrenamiento se utilizó los pesos predeterminados en Yolo, los cuales provienen del entrenamiento del data set COCO, llamado “yolov5.pt. Durante cada entrenamiento se generó un archivo con el mejor peso encontrado, el cual se utilizó para el siguiente entrenamiento.",
-      "reviewed": false,
+      "en": "Weights: we started with COCO-pretrained weights. After each run, we saved the best checkpoint and used it as the starting point for the next.",
+      "es": "Pesos: comenzamos con pesos preentrenados en COCO. Al terminar cada ejecución, guardamos el checkpoint con mejor resultado y lo utilizamos como punto de partida para la siguiente.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1293,13 +1683,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Épocas: Se inició el entrenamiento con 10 épocas, llegando hasta 30 épocas.",
       "en": "Epochs: Training began with 10 epochs, reaching up to 30 epochs.",
       "es": "Épocas: Se inició el entrenamiento con 10 épocas, llegando hasta 30 épocas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1312,13 +1707,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Batch, se mantuvo fijo en 6 para todo el entrenamiento.",
       "en": "Batch, remained fixed at 6 for the entire training.",
       "es": "Batch, se mantuvo fijo en 6 para todo el entrenamiento.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1331,13 +1731,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Tamaño de imágenes: El data set se configuro para que cada imagen tuviera un tamaño de 640 x 640.",
       "en": "Image size: The data set was configured so that each image had a size of 640 x 640.",
       "es": "Tamaño de imágenes: El data set se configuro para que cada imagen tuviera un tamaño de 640 x 640.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1350,38 +1755,58 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Se aprecia las ultimas variables de entrenamiento",
-      "en": "The latest training variables are appreciated",
-      "es": "Se aprecia las ultimas variables de entrenamiento",
-      "reviewed": false,
+      "en": "Configuration of the final run",
+      "es": "Configuración de la última ejecución",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los resultados de",
       "en": "The results of",
       "es": "Los resultados de",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Precisión y Sensibilidad (Recall)",
       "en": "Precision and Sensitivity (Recall)",
       "es": "Precisión y Sensibilidad (Recall)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La matriz de confusión indica que tipo de error está cometiendo el modelo, en el caso de",
       "en": "The confusion matrix indicates what type of error the model is making, in the case of",
       "es": "La matriz de confusión indica que tipo de error está cometiendo el modelo, en el caso de",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1394,21 +1819,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Yolo para el cálculo",
       "en": "Yolo for calculation",
       "es": "Yolo para el cálculo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "utiliza una confianza de 0,25 y un límite de IoU (Intersection over Union) de 0,45. Esto quiere decir que para clasificar un objeto este debe tener un 50% de probabilidad de estar en una clase.",
-      "en": "uses a confidence of 0.25 and an IoU (Intersection over Union) limit of 0.45. This means that to classify an object it must have a 50% probability of being in a class.",
-      "es": "utiliza una confianza de 0,25 y un límite de IoU (Intersection over Union) de 0,45. Esto quiere decir que para clasificar un objeto este debe tener un 50% de probabilidad de estar en una clase.",
-      "reviewed": false,
+      "en": "we used a confidence threshold of 0.25 and an IoU threshold of 0.45. These are different criteria: confidence filters detections, while IoU measures overlap between boxes. Neither implies a 50% probability of belonging to a class.",
+      "es": "empleamos un umbral de confianza de 0,25 y un umbral de IoU de 0,45. Son criterios distintos: la confianza filtra las detecciones y la IoU mide el solapamiento entre cuadros. Ninguno implica una probabilidad del 50% de pertenecer a una clase.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1421,13 +1856,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La clase para la matriz de confusión en el cálculo de confianza de 0,25 y un límite de IoU (Intersection over Union) de 0,45",
       "en": "The class for the confusion matrix in the confidence calculation of 0.25 and an IoU (Intersection over Union) limit of 0.45",
       "es": "La clase para la matriz de confusión en el cálculo de confianza de 0,25 y un límite de IoU (Intersection over Union) de 0,45",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1440,13 +1880,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Yolo presenta su matriz en valores relativos, donde cada elemento de la matriz está normalizado al total de la columna, por lo que la suma de los valores de cada columna es igual a 1.",
       "en": "Yolo presents its matrix in relative values, where each element of the matrix is normalized to the total of the column, so the sum of the values in each column is equal to 1.",
       "es": "Yolo presenta su matriz en valores relativos, donde cada elemento de la matriz está normalizado al total de la columna, por lo que la suma de los valores de cada columna es igual a 1.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1459,13 +1904,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Para el data set, tenemos que el cartón lo clasifica relativamente bien, en el 72% de los casos reconoció esta clase, mientras el restante 24% lo clasificó como background. El vidrio lo reconoció en el 85% de los casos, mientras un 10% lo confundió con plástico quizás por la similitud de la transparencia. El papel un 59%, siendo este el valor más bajo, compartiendo un 8% con cartón, y un 32% con el background. Para el caso del plástico se obtuvo un 64% de asertividad, y el restante 34% con el background. Por último, en orgánico se obtuvo un 85% de verdaderos positivos y apenas un 13% de background.",
-      "en": "For the data set, we have that the cardboard is classified relatively well, in 72% of the cases it was recognized as this class, while the remaining 24% classified it as background. They recognized glass in 85% of the cases, while 10% confused it with plastic, perhaps due to the similarity of transparency. Paper 59%, this being the lowest value, sharing 8% with cardboard, and 32% with the background. In the case of plastic, 64% assertiveness was obtained, and the remaining 34% with the background. Finally, in organic, 85% true positives were obtained and only 13% background.",
-      "es": "Para el data set, tenemos que el cartón lo clasifica relativamente bien, en el 72% de los casos reconoció esta clase, mientras el restante 24% lo clasificó como background. El vidrio lo reconoció en el 85% de los casos, mientras un 10% lo confundió con plástico quizás por la similitud de la transparencia. El papel un 59%, siendo este el valor más bajo, compartiendo un 8% con cartón, y un 32% con el background. Para el caso del plástico se obtuvo un 64% de asertividad, y el restante 34% con el background. Por último, en orgánico se obtuvo un 85% de verdaderos positivos y apenas un 13% de background.",
-      "reviewed": false,
+      "en": "The main percentages in the matrix were: cardboard, 72% correct and 24% missed; glass, 85% correct and 10% mistaken for plastic; paper, 59% correct, 8% mistaken for cardboard and 32% missed; plastic, 64% correct and 34% missed; organic waste, 85% correct and 13% missed. These rounded figures do not list every error for each class.",
+      "es": "Los porcentajes principales de la matriz fueron: cartón, 72% de detecciones correctas y 24% de casos no detectados; vidrio, 85% correctos y 10% confundidos con plástico; papel, 59% correctos, 8% confundidos con cartón y 32% no detectados; plástico, 64% correctos y 34% no detectados; orgánico, 85% correctos y 13% no detectados. Son valores redondeados y no enumeran todos los errores de cada clase.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1477,13 +1927,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La precisión promedio de todas las clases del modelo fue 0.748, la cual para este tipo de algoritmo es buena, nos indica que de cada 10 imágenes, aproximadamente 7 la clasifica correctamente. Su sensibilidad (Recall) fue 0.723, lo que es una buena medida de la cantidad de objetos por clase clasificados correctamente, en una clase determinada de cada 10 imágenes 7 son correctas, apenas 3 son falsos positivos.",
-      "en": "The average precision of all classes of the model was 0.748, which for this type of algorithm is good, it tells us that out of every 10 images, approximately 7 are classified correctly. Its sensitivity (Recall) was 0.723, which is a good measure of the number of objects per class classified correctly; in a given class, out of every 10 images, 7 are correct, only 3 are false positives.",
-      "es": "La precisión promedio de todas las clases del modelo fue 0.748, la cual para este tipo de algoritmo es buena, nos indica que de cada 10 imágenes, aproximadamente 7 la clasifica correctamente. Su sensibilidad (Recall) fue 0.723, lo que es una buena medida de la cantidad de objetos por clase clasificados correctamente, en una clase determinada de cada 10 imágenes 7 son correctas, apenas 3 son falsos positivos.",
-      "reviewed": false,
+      "en": "Reported mean precision was 0.748 and recall was 0.723. Precision compares correct detections with all detections made; recall compares correctly detected objects with all objects that should have been detected. Misses in recall are false negatives, not false positives. These figures concern object detections, not directly the percentage of whole images classified correctly.",
+      "es": "La precisión media reportada fue 0,748 y el recall, 0,723. La precisión relaciona las detecciones correctas con todas las detecciones realizadas; el recall relaciona los objetos detectados correctamente con los que debían detectarse. Los casos que faltan en recall son falsos negativos, no falsos positivos. Estas cifras se refieren a detecciones de objetos, no directamente al porcentaje de imágenes completas bien clasificadas.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1496,13 +1951,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Resultados de las métricas que nos muestra al obtener de la matriz de confusión",
       "en": "Results of the metrics that it shows us when obtaining from the confusion matrix",
       "es": "Resultados de las métricas que nos muestra al obtener de la matriz de confusión",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1515,13 +1975,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Es importante mencionar que el alcance del proyecto se limitó a realizar el prototipado de ConciencIA Ecológica que consistió en el despliegue, la simulación de los componentes del hardware y un bosquejo de una aplicación que conecta la predicción del modelo con el hardware para clasificar imágenes de seis (6) tipos de residuos: orgánicos, vidrio, plástico, papel, cartón, desechos.",
-      "en": "It is important to mention that the scope of the project was limited to carrying out the prototyping of Ecological Conscience, which consisted of the deployment, the simulation of the hardware components and a sketch of an application that connects the prediction of the model with the hardware to classify images of six (6) types of waste: organic, glass, plastic, paper, cardboard, waste.",
-      "es": "Es importante mencionar que el alcance del proyecto se limitó a realizar el prototipado de ConciencIA Ecológica que consistió en el despliegue, la simulación de los componentes del hardware y un bosquejo de una aplicación que conecta la predicción del modelo con el hardware para clasificar imágenes de seis (6) tipos de residuos: orgánicos, vidrio, plástico, papel, cartón, desechos.",
-      "reviewed": false,
+      "en": "The scope was limited to a prototype: model deployment, hardware simulation and an application sketch connecting the two. Five classes were trained; “general waste” was proposed as a fallback for low-confidence results, not a sixth learned class.",
+      "es": "El alcance se limitó a un prototipo: despliegue del modelo, simulación del hardware y boceto de una aplicación que conecta ambos. Se entrenaron cinco clases; «desechos» se planteó como categoría de reserva para resultados con poca confianza, no como una sexta clase aprendida.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1534,16 +1999,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "A continuación se explicará el funcionamiento del prototipo.",
       "en": "The operation of the prototype will be explained below.",
       "es": "A continuación se explicará el funcionamiento del prototipo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Concienc",
@@ -1586,15 +2061,20 @@
       "source": "Diseño propuesto",
       "en": "Proposed design",
       "es": "Diseño propuesto",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se buscará que el aprendizaje se realice a través de la interacción del niño con los contenedores, para ello el niño presentará un residuo a la cámara de la Tablet y a través de un modelo, se podrá reconocer hasta seis (6) tipos de residuos: orgánicos, vidrio, plástico, papel, cartón y desechos en general. Luego de reconocer el residuo, se enviará la predicción a una App alojada en la Tablet en el módulo central, la cual mostrará en pantalla lo reconocido y emitirá un sonido con el nombre del material categorizado y el color del contenedor.",
-      "en": "The aim will be for learning to be carried out through the child's interaction with the containers, for this the child will present a waste to the Tablet camera and through a model, up to six (6) types of waste will be recognized: organic, glass, plastic, paper, cardboard and waste in general. After recognizing the waste, the prediction will be sent to an App hosted on the Tablet in the central module, which will show what has been recognized on the screen and emit a sound with the name of the categorized material and the color of the container.",
-      "es": "Se buscará que el aprendizaje se realice a través de la interacción del niño con los contenedores, para ello el niño presentará un residuo a la cámara de la Tablet y a través de un modelo, se podrá reconocer hasta seis (6) tipos de residuos: orgánicos, vidrio, plástico, papel, cartón y desechos en general. Luego de reconocer el residuo, se enviará la predicción a una App alojada en la Tablet en el módulo central, la cual mostrará en pantalla lo reconocido y emitirá un sonido con el nombre del material categorizado y el color del contenedor.",
-      "reviewed": false,
+      "en": "A child would show an item to the camera. The model would estimate one of its five classes, with a fallback for uncertain results. The application would display the category and announce the material and the appropriate bin colour.",
+      "es": "El niño mostraría un residuo a la cámara. El modelo estimaría una de sus cinco clases, con una opción de reserva para resultados inciertos. La aplicación mostraría la categoría y reproduciría el nombre del material y el color del contenedor correspondiente.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1607,13 +2087,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Se presenta un bosquejo del proceso del prototipo",
       "en": "An outline of the prototype process is presented",
       "es": "Se presenta un bosquejo del proceso del prototipo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1626,13 +2111,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Al mismo tiempo, la Tablet enviará una señal a un micro controlador para abrir el contenedor destinado a recolectar el residuo y se enviará una señal que encenderá una luz ubicada en el contenedor. La App emitirá información sobre la práctica de las 4R para promover su uso. El niño finalmente se dirigirá al contenedor señalado y deposita el residuo.",
       "en": "At the same time, the Tablet will send a signal to a microcontroller to open the container intended to collect the waste and a signal will be sent that will turn on a light located in the container. The App will issue information about the practice of the 4Rs to promote its use. The child will finally go to the indicated container and deposit the waste.",
       "es": "Al mismo tiempo, la Tablet enviará una señal a un micro controlador para abrir el contenedor destinado a recolectar el residuo y se enviará una señal que encenderá una luz ubicada en el contenedor. La App emitirá información sobre la práctica de las 4R para promover su uso. El niño finalmente se dirigirá al contenedor señalado y deposita el residuo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1645,13 +2135,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En cada contenedor se instalará un sensor ultrasónico para medir el volumen de residuos acumulados, el sensor enviará una señal a tres led´s que indicarán tres niveles: Disponible (verde), Intermedio (amarillo) y Lleno (rojo). Esto con el fin de evitar que los contenedores rebasen su capacidad, ya que, de producirse, pueden obstaculizar la apertura de la puerta con la entrada de residuos produciendo daños a los servomotores.",
       "en": "An ultrasonic sensor will be installed in each container to measure the volume of accumulated waste. The sensor will send a signal to three LEDs that will indicate three levels: Available (green), Intermediate (yellow) and Full (red). This is in order to prevent the containers from exceeding their capacity, since, if this occurs, they can hinder the opening of the door with the entry of waste, causing damage to the servomotors.",
       "es": "En cada contenedor se instalará un sensor ultrasónico para medir el volumen de residuos acumulados, el sensor enviará una señal a tres led´s que indicarán tres niveles: Disponible (verde), Intermedio (amarillo) y Lleno (rojo). Esto con el fin de evitar que los contenedores rebasen su capacidad, ya que, de producirse, pueden obstaculizar la apertura de la puerta con la entrada de residuos produciendo daños a los servomotores.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1664,13 +2159,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Estructura interna del contenedor (arriba sensor ultrasónico)",
       "en": "Internal structure of the container (ultrasonic sensor above)",
       "es": "Estructura interna del contenedor (arriba sensor ultrasónico)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1683,13 +2183,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Por otro lado, la aplicación en esta fase no tendrá interacción física con el niño, por el momento servirá como centralizador de la información que viene del modelo y que dirige la acción de la apertura de los contenedores, mostrar en pantalla el resultado, emitir sonido y prender las luces de los contenedores.",
-      "en": "On the other hand, the application in this phase will not have physical interaction with the child, for the moment it will serve as a centralizer of the information that comes from the model and that directs the action of opening the containers, showing the result on the screen, emitting sound and turning on the lights of the containers.",
-      "es": "Por otro lado, la aplicación en esta fase no tendrá interacción física con el niño, por el momento servirá como centralizador de la información que viene del modelo y que dirige la acción de la apertura de los contenedores, mostrar en pantalla el resultado, emitir sonido y prender las luces de los contenedores.",
-      "reviewed": false,
+      "en": "At this stage, the application would centralise model output and coordinate the display, sounds, lights and bin opening; interaction was still at the design stage.",
+      "es": "En esta fase, la aplicación centralizaría la salida del modelo y coordinaría la pantalla, los sonidos, las luces y la apertura de los contenedores; la interacción se encontraba todavía en fase de diseño.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1702,13 +2207,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La App debe ser iniciada por el administrador, el cual podrá comenzar a ejecutar Conciencia Ecológica a través de su usuario y contraseña.",
-      "en": "The App must be started by the administrator, who can start running Ecological Consciousness through his username and password.",
+      "en": "The App must be started by the administrator, who can start running ConciencIA Ecológica through his username and password.",
       "es": "La App debe ser iniciada por el administrador, el cual podrá comenzar a ejecutar Conciencia Ecológica a través de su usuario y contraseña.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1721,22 +2231,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Diseño de la aplicación propuesta",
       "en": "Design of the proposed application",
       "es": "Diseño de la aplicación propuesta",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Inmediatamente, se despliega un menú el cual mostrará un botón de “comenzar a reciclar” que pondrá a Conciencia Ecológica en modo de reconocimiento de residuos. Al darle al botón se enciende el sensor de aproximación y el sensor óptico (cámara); a futuro se tiene pensado implementar un módulo de estadísticas visible en el menú, a los efectos de esta idea de proyecto se colocará como deshabilitado.",
-      "en": "Immediately, a menu is displayed which will show a “start recycling” button that will put Ecological Consciousness in waste recognition mode. Pressing the button turns on the proximity sensor and the optical sensor (camera); In the future we plan to implement a statistics module visible in the menu, for the purposes of this project idea it will be placed as disabled.",
+      "en": "Immediately, a menu is displayed which will show a “start recycling” button that will put ConciencIA Ecológica in waste recognition mode. Pressing the button turns on the proximity sensor and the optical sensor (camera); In the future we plan to implement a statistics module visible in the menu, for the purposes of this project idea it will be placed as disabled.",
       "es": "Inmediatamente, se despliega un menú el cual mostrará un botón de “comenzar a reciclar” que pondrá a Conciencia Ecológica en modo de reconocimiento de residuos. Al darle al botón se enciende el sensor de aproximación y el sensor óptico (cámara); a futuro se tiene pensado implementar un módulo de estadísticas visible en el menú, a los efectos de esta idea de proyecto se colocará como deshabilitado.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1749,13 +2269,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Diseño de la aplicación propuesta-iniciando el proceso",
       "en": "Design of the proposed application - starting the process",
       "es": "Diseño de la aplicación propuesta-iniciando el proceso",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1768,13 +2293,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En el modo reconocimiento, cuando el sensor de aproximación se activa, se mostrará un mensaje para que el niño presente el objeto a la cámara, cuando detecte el objeto se realizará la predicción.",
       "en": "In recognition mode, when the approach sensor is activated, a message will be displayed for the child to present the object to the camera; when the object is detected, the prediction will be made.",
       "es": "En el modo reconocimiento, cuando el sensor de aproximación se activa, se mostrará un mensaje para que el niño presente el objeto a la cámara, cuando detecte el objeto se realizará la predicción.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1787,13 +2317,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "App en Android para clasificación, mostrando la categorización en tiempo real.",
       "en": "Android app for classification, showing categorization in real time.",
       "es": "App en Android para clasificación, mostrando la categorización en tiempo real.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1806,13 +2341,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Una vez realizada, se mostrará en la pantalla la clase identificada y emitirá un sonido con el nombre del contenedor, luego emitirá un corto mensaje educativo.",
       "en": "Once done, the identified class will be displayed on the screen and will emit a sound with the name of the container, then it will emit a short educational message.",
       "es": "Una vez realizada, se mostrará en la pantalla la clase identificada y emitirá un sonido con el nombre del contenedor, luego emitirá un corto mensaje educativo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1825,22 +2365,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Diseño de la aplicación propuesta con la interacción del sonido",
       "en": "Design of the proposed application with sound interaction",
       "es": "Diseño de la aplicación propuesta con la interacción del sonido",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al mismo tiempo la App enviará la información por bluetooth al micro controlador, el cual se encargará de abrir la compuerta correcta y emitir la señal para encender los led´s. Abajo se muestra un diagrama simulado en Tinkercad.",
       "en": "At the same time, the App will send the information via Bluetooth to the microcontroller, which will be responsible for opening the correct gate and emitting the signal to turn on the LEDs. Below is a simulated diagram in Tinkercad.",
       "es": "Al mismo tiempo la App enviará la información por bluetooth al micro controlador, el cual se encargará de abrir la compuerta correcta y emitir la señal para encender los led´s. Abajo se muestra un diagrama simulado en Tinkercad.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1853,13 +2403,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Bosquejo del circuito",
       "en": "Circuit sketch",
       "es": "Bosquejo del circuito",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1871,13 +2426,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Hasta este punto, tenemos una idea de cómo Conciencia Ecológica de una forma sencilla puede orientar a los niños en la creación de hábitos para Reducir, Reutilizar, Reciclar y Recuperar. Pero…",
-      "en": "Up to this point, we have an idea of how Ecological Consciousness in a simple way can guide children in creating habits to Reduce, Reuse, Recycle and Recover. But...",
+      "en": "Up to this point, we have an idea of how ConciencIA Ecológica in a simple way can guide children in creating habits to Reduce, Reuse, Recycle and Recover. But...",
       "es": "Hasta este punto, tenemos una idea de cómo Conciencia Ecológica de una forma sencilla puede orientar a los niños en la creación de hábitos para Reducir, Reutilizar, Reciclar y Recuperar. Pero…",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1890,13 +2450,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "¿hasta aquí llegamos?",
       "en": "have we come this far?",
       "es": "¿hasta aquí llegamos?",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1908,13 +2473,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "A corto plazo, lo primero sería llevar esta conceptualización a la realidad, mejorando cada uno de los aspectos técnicos contemplados en el prototipo. El financiamiento de la Municipalidad de Guayaquil o una institución interesada seria la chispa para propulsar el proyecto.",
       "en": "In the short term, the first thing would be to bring this conceptualization to reality, improving each of the technical aspects contemplated in the prototype. Financing from the Municipality of Guayaquil or an interested institution would be the spark to propel the project.",
       "es": "A corto plazo, lo primero sería llevar esta conceptualización a la realidad, mejorando cada uno de los aspectos técnicos contemplados en el prototipo. El financiamiento de la Municipalidad de Guayaquil o una institución interesada seria la chispa para propulsar el proyecto.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1927,13 +2497,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "A mediano plazo, aumentar la base datos e incluir otros materiales para la clasificación, como por ejemplo metal e incluso escalarse el proyecto a empresas para materiales peligrosos como baterías, bombillos ahorradores, bombillo fluorescentes, que están ocasionando un grave problema al ambiente.",
       "en": "In the medium term, increase the database and include other materials for classification, such as metal, and even scale the project to companies for hazardous materials such as batteries, energy-saving light bulbs, fluorescent light bulbs, which are causing a serious problem for the environment.",
       "es": "A mediano plazo, aumentar la base datos e incluir otros materiales para la clasificación, como por ejemplo metal e incluso escalarse el proyecto a empresas para materiales peligrosos como baterías, bombillos ahorradores, bombillo fluorescentes, que están ocasionando un grave problema al ambiente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1946,13 +2521,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En principio, el diseño de los contenedores educativos esta ajustados a las necesidades de cada región e incluso país, ya que actualmente no existe una regulación internacional que dicte las normas de los colores de los contenedores o qué tipo de material se recicla, se puede adaptar Conciencia Ecológica a las necesidades del usuario.",
-      "en": "In principle, the design of educational containers is adjusted to the needs of each region and even country, since currently there is no international regulation that dictates the standards for the colors of the containers or what type of material is recycled, Ecological Consciousness can be adapted to the needs of the user.",
-      "es": "En principio, el diseño de los contenedores educativos esta ajustados a las necesidades de cada región e incluso país, ya que actualmente no existe una regulación internacional que dicte las normas de los colores de los contenedores o qué tipo de material se recicla, se puede adaptar Conciencia Ecológica a las necesidades del usuario.",
-      "reviewed": false,
+      "en": "The design can be adapted to each region’s colours, materials and collection systems. Local rules and practices would need checking before deployment.",
+      "es": "El diseño se puede adaptar a los colores, materiales y sistemas de recogida de cada región. Antes de implantarlo, habría que comprobar las normas y las prácticas locales.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1965,13 +2545,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "¿Por qué no buscamos que la inteligencia artificial le responda al niño sus inquietudes y dudas?. La App puede ser mejorada para incluir la interacción con el niño y se podría tener una conversación de reciclaje y de aspectos de interés para la educación de los niños de acuerdo a los programas educativos de cada región o país.",
-      "en": "Why don't we look for artificial intelligence to answer the child's concerns and doubts? The App can be improved to include interaction with the child and a conversation could be had about recycling and aspects of interest for the education of children according to the educational programs of each region or country.",
+      "en": "Could the app also answer children’s questions? A future version could support age-appropriate conversations about recycling, aligned with local educational programmes and subject to suitable supervision.",
       "es": "¿Por qué no buscamos que la inteligencia artificial le responda al niño sus inquietudes y dudas?. La App puede ser mejorada para incluir la interacción con el niño y se podría tener una conversación de reciclaje y de aspectos de interés para la educación de los niños de acuerdo a los programas educativos de cada región o país.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1984,13 +2569,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Pensando en el futuro de la información. El sensor ultrasónico, podría generar datos a través de la estimación de volumen de cada contenedor. Estos datos ayudarán a llevar la estadística acumulada en el tiempo, sea por contenedor y en sus 5 categorías; así como también por escuelas.",
-      "en": "Thinking about the future of information. The ultrasonic sensor could generate data through the volume estimation of each container. These data will help keep the statistics accumulated over time, both by container and in its 5 categories; as well as by schools.",
-      "es": "Pensando en el futuro de la información. El sensor ultrasónico, podría generar datos a través de la estimación de volumen de cada contenedor. Estos datos ayudarán a llevar la estadística acumulada en el tiempo, sea por contenedor y en sus 5 categorías; así como también por escuelas.",
-      "reviewed": false,
+      "en": "Ultrasonic sensors could also estimate waste volume and track it over time by bin, category and school.",
+      "es": "Los sensores ultrasónicos también permitirían estimar el volumen de residuos y estudiar su evolución por contenedor, categoría y escuela.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2003,13 +2593,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Esta información se alojará en una base de datos para posteriormente alimentar un dashboard de indicadores que permitirá su monitoreo, así como otras funcionalidades como: el control de dispositivos que no estén en funcionando; las escuelas que no están siendo proactivas; tiempo de contenedores llenos sin gestionar; entre otros. En fin una serie de indicadores primordiales, que permita a través de los entes encargados llevar un control de unidades “contenedores” por escuela e incentivar a estas para que su alumnado aprenda jugando.",
-      "en": "This information will be housed in a database to later feed a dashboard of indicators that will allow its monitoring, as well as other functionalities such as: control of devices that are not working; schools that are not being proactive; unmanaged full container time; inter alia. In short, a series of primary indicators, which allows the entities in charge to monitor “container” units per school and encourage them so that their students learn by playing.",
-      "es": "Esta información se alojará en una base de datos para posteriormente alimentar un dashboard de indicadores que permitirá su monitoreo, así como otras funcionalidades como: el control de dispositivos que no estén en funcionando; las escuelas que no están siendo proactivas; tiempo de contenedores llenos sin gestionar; entre otros. En fin una serie de indicadores primordiales, que permita a través de los entes encargados llevar un control de unidades “contenedores” por escuela e incentivar a estas para que su alumnado aprenda jugando.",
-      "reviewed": false,
+      "en": "A database and dashboard could track volumes, devices needing repair and full bins awaiting emptying. The aim is to help schools maintain the system and support learning through play.",
+      "es": "Una base de datos y un panel de indicadores permitirían revisar volúmenes, dispositivos fuera de servicio y contenedores llenos pendientes de vaciar. La idea es ayudar a las escuelas a mantener el sistema y apoyar el aprendizaje mediante el juego.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2022,87 +2617,142 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Luis Reyes",
       "en": "Luis Reyes",
       "es": "Luis Reyes",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Lady Sangacha",
       "en": "Lady Sangacha",
       "es": "Lady Sangacha",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Jostin Maldonado",
       "en": "Jostin Maldonado",
       "es": "Jostin Maldonado",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Karely Mayorquín",
       "en": "Karely Mayorquín",
       "es": "Karely Mayorquín",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Jorge Chiquito",
       "en": "Jorge Chiquito",
       "es": "Jorge Chiquito",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Verónica Abad",
-      "en": "Veronica Abad",
+      "en": "Verónica Abad",
       "es": "Verónica Abad",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Carlos González",
       "en": "Carlos González",
       "es": "Carlos González",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "GitHub:",
       "en": "GitHub:",
       "es": "GitHub:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ciudades y Comunidades Sostenibles",
       "en": "Sustainable Cities and Communities",
       "es": "Ciudades y Comunidades Sostenibles",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Medio Ambiente",
       "en": "Environment",
       "es": "Medio Ambiente",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Inteligencia artificial para la detección de Aglomeración de Basura",
@@ -2126,6 +2776,28 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Curated bilingual site copy"
+      }
+    },
+    {
+      "source": "ConciencIA Ecológica propone contenedores inteligentes para que niños de Guayaquil aprendan a separar residuos mediante imágenes, sonidos y luces.",
+      "en": "ConciencIA Ecológica proposes smart bins to help children in Guayaquil learn waste sorting through images, sounds and lights.",
+      "es": "ConciencIA Ecológica propone contenedores inteligentes para que niños de Guayaquil aprendan a separar residuos mediante imágenes, sonidos y luces.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "ConciencIA Ecológica se diseñó con cinco contenedores de distintos colores y un módulo central con una tableta y cámara. El tamaño y la apertura de los contenedores se pensaron para facilitar su uso por niños.",
+      "en": "ConciencIA Ecológica was designed around five differently coloured bins and a central tablet-and-camera module. Bin size and openings were planned with children’s ease of use in mind.",
+      "es": "ConciencIA Ecológica se diseñó con cinco contenedores de distintos colores y un módulo central con una tableta y cámara. El tamaño y la apertura de los contenedores se pensaron para facilitar su uso por niños.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

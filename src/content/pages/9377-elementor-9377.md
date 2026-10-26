@@ -71,9 +71,9 @@ Estas son alguna de las [ediciones previas](https://drive.google.com/drive/folde
 
 Nuestro equipo está formado por personas apasionadas que creen en la construcción de una sociedad mejor. Somos conscientes de los desafíos actuales que enfrentamos y estamos dispuestos a enfrentarlos.
 
-# Algunos de nuestros
+# Colabora con la comunidad
 
-##### [¿Te interesa](https://drive.google.com/file/d/1x7piubpt2d-l5f5pPZ5_ww1NbrBVlCtm/view?usp=sharing) ? Ve a la siguiente presentación para conocer cómo puedes apoyarnos, haciendo click [aquí](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20)
+[Conoce las formas de colaborar](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20)
 
 [![](/media/46eee7536c83ece8.webp)](https://www.linkedin.com/in/basiliokaramanos/)
 

@@ -1,8 +1,8 @@
 ---
 title: ¿Reemplazará la IA al humano en el trabajo?
-description: Introducción Hace tiempo que hay un debate muy interesante sobre la
-  mesa . El debate es, ¿reemplazará la IA a los humanos en el trabajo? Y en caso
-  de que esto sucediese, ¿sería capaz el humano de reciclarse y adaptarse a un…
+description: "Una reflexión sobre IA y empleo: qué cambia al automatizar tareas,
+  qué oportunidades aparecen y cómo hacer una transición que tenga en cuenta a
+  las personas."
 pubDate: 2022-06-18
 author: Info Saturdays
 category: Community

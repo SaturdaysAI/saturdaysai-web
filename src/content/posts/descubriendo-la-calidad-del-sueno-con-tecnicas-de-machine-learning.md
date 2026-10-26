@@ -1,9 +1,8 @@
 ---
 title: Descubriendo la calidad del sueño con técnicas de Machine Learning
-description: Latam online. Segunda Edición. 2021 El brote de COVID-19 y las
-  respuestas sociales adoptadas para combatir su propagación (por ejemplo, el
-  confinamiento y el distanciamiento social) han tenido consecuencias de gran
-  alcance,…
+description: Un proyecto analiza encuestas de sueño durante la pandemia con
+  Random Forest y Gradient Boosting, explicando sus resultados y límites de
+  interpretación.
 pubDate: 2022-03-09
 author: Info Saturdays
 category: AI for good
@@ -141,6 +140,6 @@ En el futuro, este proyecto se podría mejorar aumentando el número de muestras
 
 ## **¡Más Inteligencia Artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

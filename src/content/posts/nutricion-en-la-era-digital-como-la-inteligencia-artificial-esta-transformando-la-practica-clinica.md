@@ -29,7 +29,7 @@ draft: false
 
 ![Nutrición e inteligencia artificial](/media/80fa821c87cc8f09.webp)
 
-Juan está ingresado en el hospital y le sirven su comida. El personal sanitario pasa un _smartphone_ por encima de su bandeja y, en segundos, una aplicación identifica y cuantifica los alimentos que contiene, estimando también sus nutrientes. Cuando termina de comer, el dispositivo vuelve a analizar la bandeja para determinar lo que realmente ha ingerido y evaluar posibles riesgos nutricionales.
+Imaginemos a Juan, ingresado en un hospital, cuando le sirven la comida. El personal sanitario fotografía su bandeja con un móvil y una aplicación estima los alimentos, las cantidades y los nutrientes que contiene. Al terminar, una segunda imagen permite estimar cuánto ha comido. El equipo puede combinar estos datos con la valoración clínica para evaluar su estado nutricional.
 
 ¿Puede una máquina ayudarnos a comprender mejor cómo nos alimentamos y a detectar problemas de nutrición con mayor precisión? La inteligencia artificial (IA) está respondiendo de forma sorprendente a esta pregunta. Estas tecnologías se aplican ya en centros sanitarios y en laboratorios para analizar la dieta de una forma más exacta, diseñar tratamientos ajustados a cada persona y apoyar la investigación de enfermedades relacionadas con la alimentación.
 
@@ -39,7 +39,7 @@ Desde algoritmos que procesan miles de datos hasta dispositivos capaces de monit
 
 Conocer de manera precisa qué y cuánto comemos es uno de los grandes retos en nutrición. Si los métodos que existían hasta ahora podían dar lugar a errores ya que dependían de la sinceridad y de la memoria de las personas, la IA ya es capaz de hacer unas estimaciones más exactas.
 
-Gracias a la visión por computador, [una](https://pubmed.ncbi.nlm.nih.gov/32752007/) [simple](https://pubmed.ncbi.nlm.nih.gov/32752007/) [fotografía](https://pubmed.ncbi.nlm.nih.gov/32752007/) de un plato puede bastar para identificar los alimentos que contiene. A través de los algoritmos de _deep learning_, se puede incluso estimar el tamaño de las porciones y calcular los nutrientes presentes. 
+La visión por computador permite estimar los alimentos y las porciones a partir de imágenes. Por ejemplo, [el sistema goFOOD](https://pubmed.ncbi.nlm.nih.gov/32752007/) utiliza dos imágenes o un vídeo breve para reconocer los alimentos, estimar su volumen y calcular su contenido energético y de macronutrientes. La calidad de la captura y los alimentos que el sistema reconoce influyen en el resultado.
 
 ![Fotografía de plato de comida](/media/d68fe7f9fec50c7d.webp)
 

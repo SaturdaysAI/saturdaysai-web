@@ -13,365 +13,640 @@
       "source": "7 jun 2023",
       "en": "Jun 7, 2023",
       "es": "7 jun 2023",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Cuál es nuestra motivación?",
       "en": "What is our motivation?",
       "es": "¿Cuál es nuestra motivación?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿En qué consiste nuestra solución?",
       "en": "What is our solution?",
       "es": "¿En qué consiste nuestra solución?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. El dataset: Shmoop Corpus",
       "en": "1. The dataset: Shmoop Corpus",
       "es": "1. El dataset: Shmoop Corpus",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Procesamiento de textos: Summarizer",
       "en": "2. Word processing: Summarizer",
       "es": "2. Procesamiento de textos: Summarizer",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. Generación de imágenes: VQGAN + CLIP",
       "en": "3. Image generation: VQGAN + CLIP",
       "es": "3. Generación de imágenes: VQGAN + CLIP",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4. Generación de cuentos: PDF generator",
       "en": "4. Story generation: PDF generator",
       "es": "4. Generación de cuentos: PDF generator",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Próximos pasos y reflexiones",
       "en": "Next steps and reflections",
       "es": "Próximos pasos y reflexiones",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AImagining Tales es un proyecto que nace en la quinta edición del curso de",
-      "en": "AImagining Tales is a project that was born in the fifth edition of the",
-      "es": "AImagining Tales es un proyecto que nace en la quinta edición del curso de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AImagining Tales began during the fifth edition of the course run by",
+      "es": "AImagining Tales nació en la quinta edición del curso de",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Saturdays AI Madrid",
       "en": "Saturdays AI Madrid",
       "es": "Saturdays AI Madrid",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", como propuesta para el desafío de crear un proyecto de impacto social utilizando la Inteligencia Artificial.",
       "en": ", as a proposal for the challenge of creating a social impact project using Artificial Intelligence.",
       "es": ", como propuesta para el desafío de crear un proyecto de impacto social utilizando la Inteligencia Artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La finalidad de este proyecto es ser capaces de ilustrar cuentos.",
       "en": "The purpose of this project is to be able to illustrate stories.",
       "es": "La finalidad de este proyecto es ser capaces de ilustrar cuentos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Generación de imagen por AImagining Tales",
       "en": "Image Generation by AImagining Tales",
       "es": "Generación de imagen por AImagining Tales",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los integrantes del equipo pertenecemos al itinerario de Deep Learning. Desde el principio hemos estado muy interesados en el procesamiento de imágenes y texto, así que, ¿por qué no combinar ambas?",
-      "en": "The members of the team belong to the Deep Learning itinerary. From the beginning we have been very interested in image and text processing, so why not combine both?",
-      "es": "Los integrantes del equipo pertenecemos al itinerario de Deep Learning. Desde el principio hemos estado muy interesados en el procesamiento de imágenes y texto, así que, ¿por qué no combinar ambas?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Our team followed the Deep Learning track. We were interested in both image and text processing from the start, so we decided to combine them.",
+      "es": "El equipo pertenece al itinerario de aprendizaje profundo (Deep Learning). Desde el principio nos interesaban el procesamiento de imágenes y el de texto, así que decidimos combinarlos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "David Cayuelas García",
       "en": "David Cayuelas García",
       "es": "David Cayuelas García",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Marta Díez Díez",
-      "en": "Marta Diez Diez",
+      "en": "Marta Díez Díez",
       "es": "Marta Díez Díez",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Alejandra De Francisco Rus",
       "en": "Alejandra De Francisco Rus",
       "es": "Alejandra De Francisco Rus",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Claudia Lucio Sarsa",
       "en": "Claudia Lucio Sarsa",
       "es": "Claudia Lucio Sarsa",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Pablo Rodríguez Lapetra",
       "en": "Pablo Rodríguez Lapetra",
       "es": "Pablo Rodríguez Lapetra",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A través de esta iniciativa apostamos por el uso de la Inteligencia Artificial como ayuda a personas (en particular, niños) con problemas de aprendizaje, proporcionándoles una herramienta muy atractiva y visual de representación de textos.",
-      "en": "Through this initiative we are committed to the use of Artificial Intelligence to help people (particularly children) with learning problems, providing them with a very attractive and visual tool for representing texts.",
-      "es": "A través de esta iniciativa apostamos por el uso de la Inteligencia Artificial como ayuda a personas (en particular, niños) con problemas de aprendizaje, proporcionándoles una herramienta muy atractiva y visual de representación de textos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We want to explore whether visual representations of texts can help people with learning difficulties, particularly children. That is the motivation behind this prototype; we have not yet evaluated its educational effectiveness.",
+      "es": "Queremos explorar si una representación visual de los textos puede ayudar a personas con dificultades de aprendizaje, especialmente a niños y niñas. Es la motivación de este prototipo; todavía no hemos evaluado su eficacia educativa.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Adicionalmente, buscamos potenciar la escritura infantil, de forma que el niño pueda imaginar y escribir un cuento y, a continuación, verlo plasmado en imágenes autogeneradas.",
       "en": "Additionally, we seek to promote children's writing, so that the child can imagine and write a story and then see it captured in self-generated images.",
       "es": "Adicionalmente, buscamos potenciar la escritura infantil, de forma que el niño pueda imaginar y escribir un cuento y, a continuación, verlo plasmado en imágenes autogeneradas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "De algún modo nos recuerda a las coloridas vidrieras de las iglesias. Su finalidad original era representar pasajes bíblicos para transmitir al pueblo, en su mayoría analfabeto, sus enseñanzas, a las que de otra manera no eran capaces de acceder.",
       "en": "In some way it reminds us of the colorful stained glass windows of churches. Its original purpose was to represent biblical passages to transmit to the people, most of whom were illiterate, its teachings, which they were not otherwise able to access.",
       "es": "De algún modo nos recuerda a las coloridas vidrieras de las iglesias. Su finalidad original era representar pasajes bíblicos para transmitir al pueblo, en su mayoría analfabeto, sus enseñanzas, a las que de otra manera no eran capaces de acceder.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AImagining Tales nace con la intención de eliminar las principales barreras de acceso a la lectura y escritura.",
-      "en": "AImagining Tales was born with the intention of eliminating the main barriers to access to reading and writing.",
-      "es": "AImagining Tales nace con la intención de eliminar las principales barreras de acceso a la lectura y escritura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AImagining Tales aims to make reading and writing more approachable.",
+      "es": "AImagining Tales nace con la intención de facilitar el acercamiento a la lectura y la escritura.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Queremos construir una herramienta capaz de ilustrar cuentos a través de la Inteligencia Artificial.",
       "en": "We want to build a tool capable of illustrating stories through Artificial Intelligence.",
       "es": "Queremos construir una herramienta capaz de ilustrar cuentos a través de la Inteligencia Artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En su concepción básica, nuestra herramienta procesaría el texto de un cuento como entrada para generar una imagen representativa de su contenido. Los textos originales, acompañados de sus correspondientes imágenes, se recopilarían en un documento PDF.",
       "en": "In its basic conception, our tool would process the text of a story as input to generate an image representative of its content. The original texts, accompanied by their corresponding images, would be compiled in a PDF document.",
       "es": "En su concepción básica, nuestra herramienta procesaría el texto de un cuento como entrada para generar una imagen representativa de su contenido. Los textos originales, acompañados de sus correspondientes imágenes, se recopilarían en un documento PDF.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la generación de las imágenes vamos a utilizar alguna de las soluciones (modelos) existentes más innovadoras de generación de imágenes: VQGAN+CLIP. No obstante, estas soluciones presentan restricciones en cuanto al tamaño del texto que reciben como entrada, por lo que será necesario un tratamiento para reducir el número de palabras.",
-      "en": "To generate the images we are going to use one of the most innovative existing solutions (models) for image generation: VQGAN+CLIP. However, these solutions present restrictions regarding the size of the text they receive as input, so treatment will be necessary to reduce the number of words.",
-      "es": "Para la generación de las imágenes vamos a utilizar alguna de las soluciones (modelos) existentes más innovadoras de generación de imágenes: VQGAN+CLIP. No obstante, estas soluciones presentan restricciones en cuanto al tamaño del texto que reciben como entrada, por lo que será necesario un tratamiento para reducir el número de palabras.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "For image generation, we chose VQGAN+CLIP, a combination of models that interested us at the time of the project. Because input length is limited, we need to summarise passages before generating illustrations.",
+      "es": "Para generar las imágenes elegimos VQGAN+CLIP, una combinación de modelos que nos resultó interesante en el momento del proyecto. Como el texto de entrada tiene límites de longitud, necesitamos resumir los pasajes antes de generar las ilustraciones.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se ha optado por desarrollar un modelo de Procesamiento del Lenguaje Natural (NLP) para resumir los textos originales. Dicho modelo estará basado en modelos de sumarización existentes, reentrenados para nuestra tarea específica: la interpretación y resumen de cuentos.",
       "en": "It has been decided to develop a Natural Language Processing (NLP) model to summarize the original texts. This model will be based on existing summary models, retrained for our specific task: the interpretation and summary of stories.",
       "es": "Se ha optado por desarrollar un modelo de Procesamiento del Lenguaje Natural (NLP) para resumir los textos originales. Dicho modelo estará basado en modelos de sumarización existentes, reentrenados para nuestra tarea específica: la interpretación y resumen de cuentos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Finalmente, texto e imágenes serán recopilados en un documento en formato PDF.",
       "en": "Finally, text and images will be compiled into a document in PDF format.",
       "es": "Finalmente, texto e imágenes serán recopilados en un documento en formato PDF.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Con todo ello, el flujo sería el siguiente:",
       "en": "With all this, the flow would be the following:",
       "es": "Con todo ello, el flujo sería el siguiente:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El cuento pasaría por un modelo NLP de sumarización, que daría como salida el texto resumido. Este resultado sería la entrada de la red VQGAN+CLIP, de la que se obtendría su representación. Una vez completadas las etapas, el texto del cuento y sus imágenes se combinarían en un documento PDF para su uso (más adelante se ilustra cada paso).",
       "en": "The story would go through an NLP summary model, which would output the summarized text. This result would be the input of the VQGAN+CLIP network, from which its representation would be obtained. Once the stages were completed, the story text and its images would be combined into a PDF document for your use (each step is illustrated below).",
       "es": "El cuento pasaría por un modelo NLP de sumarización, que daría como salida el texto resumido. Este resultado sería la entrada de la red VQGAN+CLIP, de la que se obtendría su representación. Una vez completadas las etapas, el texto del cuento y sus imágenes se combinarían en un documento PDF para su uso (más adelante se ilustra cada paso).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A la hora de entrenar una herramienta como el summarizer se plantea un reto muy importante: se necesitan cuentos o historias resumidas por personas y, además, que incluyan tanto descripciones como diálogos. Esta tarea es costosa y podría suponer una limitación crucial para la viabilidad del proyecto.",
-      "en": "When training a tool like the summarizer, a very important challenge arises: you need stories or stories summarized by people and, furthermore, that include both descriptions and dialogues. This task is costly and could pose a crucial limitation to the viability of the project.",
-      "es": "A la hora de entrenar una herramienta como el summarizer se plantea un reto muy importante: se necesitan cuentos o historias resumidas por personas y, además, que incluyan tanto descripciones como diálogos. Esta tarea es costosa y podría suponer una limitación crucial para la viabilidad del proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Training a summariser presents an important challenge: we need narratives containing descriptions and dialogue, paired with human-written summaries. Preparing that material is costly and can limit a project’s feasibility.",
+      "es": "Entrenar un resumidor plantea un reto importante: necesitamos narraciones con descripciones y diálogos, acompañadas de resúmenes escritos por personas. Preparar ese material es costoso y puede limitar la viabilidad del proyecto.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Afortunadamente, nos encontramos con que un grupo de investigadores de la Universidad de Toronto ya se había enfrentado a este problema. Para poder trabajar sobre modelos de sumarización, proponen su propio conjunto de datos:",
       "en": "Fortunately, we found that a group of researchers at the University of Toronto had already faced this problem. In order to work on summary models, they propose their own data set:",
       "es": "Afortunadamente, nos encontramos con que un grupo de investigadores de la Universidad de Toronto ya se había enfrentado a este problema. Para poder trabajar sobre modelos de sumarización, proponen su propio conjunto de datos:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Shmoop Corpus",
       "en": "Shmoop Corpus",
       "es": "Shmoop Corpus",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Shmoop Corpus consta de 231 historias con 7.234 capítulos en total, con sus correspondientes resúmenes. Las historias, tal y como se indica en el",
       "en": "Shmoop Corpus consists of 231 stories with 7,234 chapters in total, with their corresponding summaries. The stories, as indicated in the",
       "es": "Shmoop Corpus consta de 231 historias con 7.234 capítulos en total, con sus correspondientes resúmenes. Las historias, tal y como se indica en el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "paper original",
       "en": "original paper",
       "es": "paper original",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", han sido extraídas del Proyecto Gutenberg y los resúmenes desde la web de Shmoop, que da nombre al corpus. El verdadero elemento diferenciador en este dataset es que, además, proporcionan las claves para relacionar el par texto-resumen.",
       "en": ", have been extracted from Project Gutenberg and the summaries from the Shmoop website, which gives its name to the corpus. The true differentiating element in this dataset is that, in addition, they provide the keys to relate the text-summary pair.",
       "es": ", han sido extraídas del Proyecto Gutenberg y los resúmenes desde la web de Shmoop, que da nombre al corpus. El verdadero elemento diferenciador en este dataset es que, además, proporcionan las claves para relacionar el par texto-resumen.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El equipo de Shmoop Corpus proporciona el conjunto de ficheros que contienen tanto las historias completas organizadas en carpetas (una por cada capítulo) como los ficheros en los que se indica el alineamiento/claves texto-resumen. Para la obtención de los resúmenes desde la web de Shmoop hemos recurrido a prácticas de raspado web (",
       "en": "The Shmoop Corpus team provides the set of files that contain both the complete stories organized in folders (one for each chapter) and the files in which the text-summary alignment/keys are indicated. To obtain the summaries from the Shmoop website we have resorted to web scraping practices (",
       "es": "El equipo de Shmoop Corpus proporciona el conjunto de ficheros que contienen tanto las historias completas organizadas en carpetas (una por cada capítulo) como los ficheros en los que se indica el alineamiento/claves texto-resumen. Para la obtención de los resúmenes desde la web de Shmoop hemos recurrido a prácticas de raspado web (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Extracto de ejemplo de par texto-resumen del paper original de Shmoop Corpus.",
-      "en": "Excerpt of an example of a text-abstract pair from the original Shmoop Corpus paper.",
-      "es": "Extracto de ejemplo de par texto-resumen del paper original de Shmoop Corpus.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Example of a text-summary pair from the original Shmoop Corpus paper.",
+      "es": "Ejemplo de un par texto-resumen del artículo original de Shmoop Corpus.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para agrupar estos datos y obtener finalmente un dataset en el formato adecuado para entrenar el modelo, se lleva a cabo una tarea de agregación de la información desagregada en diferentes niveles de archivos (textos, resúmenes, claves texto-resumen).",
       "en": "To group these data and finally obtain a dataset in the appropriate format to train the model, an aggregation task is carried out on the disaggregated information at different file levels (texts, summaries, text-summary keys).",
       "es": "Para agrupar estos datos y obtener finalmente un dataset en el formato adecuado para entrenar el modelo, se lleva a cabo una tarea de agregación de la información desagregada en diferentes niveles de archivos (textos, resúmenes, claves texto-resumen).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El resultado de este procesamiento, un dataframe con una columna de párrafos y otra de resúmenes, es el input de entrenamiento del summarizer.",
       "en": "The result of this processing, a dataframe with a column of paragraphs and another of summaries, is the training input of the summarizer.",
       "es": "El resultado de este procesamiento, un dataframe con una columna de párrafos y otra de resúmenes, es el input de entrenamiento del summarizer.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tras la recopilación y procesamiento de los datos, estamos preparados para entrenar nuestro modelo sumarizador, en adelante el",
       "en": "After collecting and processing the data, we are ready to train our summarizing model, hereinafter the",
       "es": "Tras la recopilación y procesamiento de los datos, estamos preparados para entrenar nuestro modelo sumarizador, en adelante el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "summarizer",
       "en": "summarizer",
       "es": "summarizer",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un modelo de sumarización es un modelo de NLP capaz de procesar un texto para devolver una versión reducida del mismo, de manera que se retenga la información más importante. El resumen obtenido puede ser un extracto del texto original, un texto generado por el propio modelo en base a su interpretación o una combinación de ambas, como es el caso de nuestro",
-      "en": "A summary model is an NLP model capable of processing text to return a reduced version of it, so that the most important information is retained. The summary obtained can be an extract from the original text, a text generated by the model itself based on its interpretation or a combination of both, as is the case of our",
-      "es": "Un modelo de sumarización es un modelo de NLP capaz de procesar un texto para devolver una versión reducida del mismo, de manera que se retenga la información más importante. El resumen obtenido puede ser un extracto del texto original, un texto generado por el propio modelo en base a su interpretación o una combinación de ambas, como es el caso de nuestro",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "A summarisation model aims to produce a shorter version that preserves the main information. Extractive methods select original passages; abstractive methods generate new text. T5 is a generative model that may reuse parts of the original, but its summaries can also omit details or introduce errors.",
+      "es": "Un modelo de resumen busca producir una versión más breve que conserve la información principal. Los métodos extractivos seleccionan fragmentos originales; los abstractivos generan texto nuevo. T5 es un modelo generativo que puede reutilizar partes del original, pero sus resúmenes también pueden omitir detalles o introducir errores.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Resumen de un texto tras pasarlo por el Summarizer.",
       "en": "Summary of a text after passing it through the Summarizer.",
       "es": "Resumen de un texto tras pasarlo por el Summarizer.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Actualmente, existen multitud de modelos preentrenados con este propósito, la mayoría de ellos basados en",
       "en": "Currently, there are many pre-trained models for this purpose, most of them based on",
       "es": "Actualmente, existen multitud de modelos preentrenados con este propósito, la mayoría de ellos basados en",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Estos están recogidos en la plataforma",
       "en": ". These are collected on the platform",
       "es": ". Estos están recogidos en la plataforma",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", un proyecto especializado en tareas de NLP y que persigue democratizar el acceso a la IA facilitando herramientas, datasets, modelos, etc. en abierto y para la comunidad.",
       "en": ", a project specialized in NLP tasks and that seeks to democratize access to AI by providing tools, datasets, models, etc. open and for the community.",
       "es": ", un proyecto especializado en tareas de NLP y que persigue democratizar el acceso a la IA facilitando herramientas, datasets, modelos, etc. en abierto y para la comunidad.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En particular, en este proyecto hemos tomado como base tanto el",
       "en": "In particular, in this project we have taken as a basis both the",
       "es": "En particular, en este proyecto hemos tomado como base tanto el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "tokenizer",
       "en": "tokenizer",
       "es": "tokenizer",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "como el",
       "en": "like him",
       "es": "como el",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "summerizer",
-      "en": "summerizer",
-      "es": "summerizer",
-      "reviewed": false
+      "en": "summariser",
+      "es": "resumidor",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "del modelo",
       "en": "of the model",
       "es": "del modelo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "t5",
-      "en": "t5",
-      "es": "t5",
-      "reviewed": false
+      "en": "T5",
+      "es": "T5",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "de Google",
       "en": "from Google",
       "es": "de Google",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "y lo hemos reentrenado con nuestro propio conjunto de datos para que sea capaz de interpretar y resumir no solo narraciones sino también diálogos. Este procedimiento de reentrenamiento para adaptarlo a una nueva tarea es lo que se conoce como",
       "en": "and we have retrained it with our own data set so that it is able to interpret and summarize not only narrations but also dialogues. This retraining procedure to adapt it to a new task is what is known as",
       "es": "y lo hemos reentrenado con nuestro propio conjunto de datos para que sea capaz de interpretar y resumir no solo narraciones sino también diálogos. Este procedimiento de reentrenamiento para adaptarlo a una nueva tarea es lo que se conoce como",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nota a navegantes extraviados: La tokenización es el paso previo al entrenamiento del modelo en tareas de NLP. Las redes neuronales habituales se entrenan realizando un montón de operaciones tensoriales con datos en formato numérico. Cuando trabajamos con texto es necesario convertirlo a formato numérico para que la red sea capaz de interpretarlo. Un tokenizador es el componente encargado de llevar a cabo dicha conversión, generalmente basado en mecanismos de",
@@ -394,143 +669,248 @@
     },
     {
       "source": "Una vez entrenado con nuestros datos, el nuevo modelo debería ser capaz de resumir el contenido literario mejor que el original. Este resumen de salida del",
-      "en": "Once trained with our data, the new model should be able to summarize literary content better than the original. This output summary of",
-      "es": "Una vez entrenado con nuestros datos, el nuevo modelo debería ser capaz de resumir el contenido literario mejor que el original. Este resumen de salida del",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "By fine-tuning on our data, we aim to improve literary summaries. That improvement needs to be evaluated; retraining does not guarantee it. The text produced by the",
+      "es": "Al ajustarlo a nuestros datos, buscamos mejorar los resúmenes literarios. Esa mejora debe comprobarse; no está garantizada por el reentrenamiento. El texto generado por el",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "va a ser consumido por el modelo generador de imágenes.",
-      "en": "It will be consumed by the image generating model.",
-      "es": "va a ser consumido por el modelo generador de imágenes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "will serve as input to the image generator.",
+      "es": "servirá de entrada al generador de imágenes.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Tras aplicar el summarizer sobre nuestros textos, es hora de usar estos resúmenes para generar las imágenes que ilustrarán nuestras historias. Para ello, nos hemos centrado en modelos de generación de imágenes a partir de texto.",
       "en": "After applying the summarizer to our texts, it is time to use these summaries to generate the images that will illustrate our stories. To do this, we have focused on image generation models from text.",
       "es": "Tras aplicar el summarizer sobre nuestros textos, es hora de usar estos resúmenes para generar las imágenes que ilustrarán nuestras historias. Para ello, nos hemos centrado en modelos de generación de imágenes a partir de texto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Después de hacer la correspondiente investigación del actual estado del arte (más allá de DALL-E y DALL-E 2), encontramos una implementación muy interesante que une VQGAN y CLIP (",
       "en": "After doing the corresponding investigation of the current state of the art (beyond DALL-E and DALL-E 2), we found a very interesting implementation that unites VQGAN and CLIP (",
       "es": "Después de hacer la correspondiente investigación del actual estado del arte (más allá de DALL-E y DALL-E 2), encontramos una implementación muy interesante que une VQGAN y CLIP (",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Vector Quantized Generative Adversarial Network and Contrastive Language–Image Pre-training",
       "en": "Vector Quantized Generative Adversarial Network and Contrastive Language–Image Pre-training",
       "es": "Vector Quantized Generative Adversarial Network and Contrastive Language–Image Pre-training",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las redes GANs (",
       "en": "GAN networks (",
       "es": "Las redes GANs (",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Generative Adversial Networks",
-      "en": "Generative Adversial Networks",
-      "es": "Generative Adversial Networks",
-      "reviewed": false
+      "en": "Generative Adversarial Networks",
+      "es": "Generative Adversarial Networks",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ") son sistemas compuestos por dos redes neuronales, que básicamente “se enfrentan” una contra otra. Un",
       "en": ") are systems composed of two neural networks, which basically “face off” against each other. A",
       "es": ") son sistemas compuestos por dos redes neuronales, que básicamente “se enfrentan” una contra otra. Un",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "generador",
       "en": "generator",
       "es": "generador",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que sintetiza imágenes o datos, y un",
       "en": "that synthesizes images or data, and a",
       "es": "que sintetiza imágenes o datos, y un",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "discriminador",
       "en": "discriminator",
       "es": "discriminador",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", que puntúa la actuación del anterior. El proceso es recursivo, por lo que ambas redes mejoran sus resultados tras el correspondiente entrenamiento.",
-      "en": ", which scores the performance of the previous one. The process is recursive, so both networks improve their results after the corresponding training.",
-      "es": ", que puntúa la actuación del anterior. El proceso es recursivo, por lo que ambas redes mejoran sus resultados tras el correspondiente entrenamiento.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ", which learns to distinguish generated data from real data. Training alternates between the two components, but does not guarantee continuous improvement.",
+      "es": ", que aprende a distinguir los datos generados de los reales. El entrenamiento alterna ambos componentes, aunque no garantiza una mejora continua.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En este concepto se basa nuestro modelo.",
       "en": "Our model is based on this concept.",
       "es": "En este concepto se basa nuestro modelo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "VQGAN",
       "en": "VQGAN",
       "es": "VQGAN",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "es la red neuronal generativa, entrenada para generar imágenes similares a otras. Mientras que CLIP, es la red neuronal capaz de determinar “cómo de bien” el texto de entrada coincide con la imagen generada.",
-      "en": "It is the generative neural network, trained to generate images similar to others. While CLIP is the neural network capable of determining “how well” the input text matches the generated image.",
-      "es": "es la red neuronal generativa, entrenada para generar imágenes similares a otras. Mientras que CLIP, es la red neuronal capaz de determinar “cómo de bien” el texto de entrada coincide con la imagen generada.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "provides the generative image representation, while CLIP scores the correspondence between text and image. That score guides generation towards the input text.",
+      "es": "aporta la representación generativa de las imágenes, mientras que CLIP puntúa la correspondencia entre texto e imagen. Esa puntuación sirve para orientar la generación hacia el texto de entrada.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además, en este proceso se pueden añadir multitud de parámetros: imágenes de referencia, estilos, más de un único texto, el tamaño de la imagen generada, etc.",
       "en": "Additionally, in this process you can add a multitude of parameters: reference images, styles, more than a single text, the size of the generated image, etc.",
       "es": "Además, en este proceso se pueden añadir multitud de parámetros: imágenes de referencia, estilos, más de un único texto, el tamaño de la imagen generada, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Representación de “Fantasy city on a sunny day” con diferentes estilos.",
       "en": "Representation of “Fantasy city on a sunny day” with different styles.",
       "es": "Representación de “Fantasy city on a sunny day” con diferentes estilos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por supuesto, el reto ha sido entender este modelo ya entrenado, para saber qué parámetros se ajustan mejor a nuestro proyecto, así como los textos de entrada que mejores resultados dan (ni muy cortos, ni muy largos, diferencias entre un único texto con sentido o conceptos clave…).",
       "en": "Of course, the challenge has been to understand this already trained model, to know which parameters best fit our project, as well as the input texts that give the best results (not too short, not too long, differences between a single meaningful text or key concepts...).",
       "es": "Por supuesto, el reto ha sido entender este modelo ya entrenado, para saber qué parámetros se ajustan mejor a nuestro proyecto, así como los textos de entrada que mejores resultados dan (ni muy cortos, ni muy largos, diferencias entre un único texto con sentido o conceptos clave…).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por último, es hora de unir el resultado de todos los pasos en nuestro cuento ilustrado.",
       "en": "Finally, it is time to join the result of all the steps in our illustrated story.",
       "es": "Por último, es hora de unir el resultado de todos los pasos en nuestro cuento ilustrado.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para ello, hemos desarrollado una serie de funciones que crean el cuento en formato PDF. Aquí unimos los textos iniciales, junto con las imágenes generadas a partir de los resúmenes.",
       "en": "To do this, we have developed a series of functions that create the story in PDF format. Here we join the initial texts, along with the images generated from the summaries.",
       "es": "Para ello, hemos desarrollado una serie de funciones que crean el cuento en formato PDF. Aquí unimos los textos iniciales, junto con las imágenes generadas a partir de los resúmenes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tras barajar diferentes opciones de librerías de Python que ofrecen esta funcionalidad (",
       "en": "After considering different Python library options that offer this functionality (",
       "es": "Tras barajar diferentes opciones de librerías de Python que ofrecen esta funcionalidad (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ReportLab",
@@ -548,7 +928,12 @@
       "source": "), nos decidimos por",
       "en": "), we decided on",
       "es": "), nos decidimos por",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "PyFPDF",
@@ -560,49 +945,84 @@
       "source": "por el manejo más sencillo.",
       "en": "for the simplest handling.",
       "es": "por el manejo más sencillo.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Evidentenmente, la primera página constará de una portada con título e imagen generada a partir de él, mientras que para el resto de páginas podemos encontrar diferentes formatos, que se diferencian en la situación de la imagen.",
-      "en": "Obviously, the first page will consist of a cover with a title and an image generated from it, while for the rest of the pages we can find different formats, which differ in the location of the image.",
-      "es": "Evidentenmente, la primera página constará de una portada con título e imagen generada a partir de él, mientras que para el resto de páginas podemos encontrar diferentes formatos, que se diferencian en la situación de la imagen.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The first page is a cover with the title and an image generated from it. For subsequent pages, we offer layouts that vary the position of the illustration.",
+      "es": "La primera página es una portada con el título y una imagen generada a partir de él. Para las páginas siguientes ofrecemos varios formatos que cambian la posición de la ilustración.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además, hemos decidido dar un estilo de cuento a nuestros documentos, con un borde y detalles en las esquinas.",
       "en": "Additionally, we have decided to give our documents a storybook style, with a border and details in the corners.",
       "es": "Además, hemos decidido dar un estilo de cuento a nuestros documentos, con un borde y detalles en las esquinas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“La Bella y la Bestia” ilustrado por AImagining Tales.",
       "en": "“Beauty and the Beast” illustrated by AImagining Tales.",
       "es": "“La Bella y la Bestia” ilustrado por AImagining Tales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta propuesta es una primera iteración, una prueba de concepto, el resultado del trabajo colaborativo de nuestro equipo a lo largo de seis semanas.",
       "en": "This proposal is a first iteration, a proof of concept, the result of the collaborative work of our team over six weeks.",
       "es": "Esta propuesta es una primera iteración, una prueba de concepto, el resultado del trabajo colaborativo de nuestro equipo a lo largo de seis semanas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A través de nuestro proyecto queremos poner en valor el inmenso potencial que ofrece la Inteligencia Artificial para dar soluciones a problemas reales de actualidad, soluciones que están al alcance de todos.",
       "en": "Through our project we want to highlight the immense potential that Artificial Intelligence offers to provide solutions to real current problems, solutions that are within everyone's reach.",
       "es": "A través de nuestro proyecto queremos poner en valor el inmenso potencial que ofrece la Inteligencia Artificial para dar soluciones a problemas reales de actualidad, soluciones que están al alcance de todos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aún queda por hacer para que AImagining Tales sea una realidad.",
       "en": "There is still more to be done to make AImagining Tales a reality.",
       "es": "Aún queda por hacer para que AImagining Tales sea una realidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Y colorín colorado…",
@@ -619,21 +1039,58 @@
       "source": "Si te has quedado con ganas de más y quieres revisar el código en mayor profundidad, te invitamos a visitar",
       "en": "If you have been left wanting more and want to review the code in greater depth, we invite you to visit",
       "es": "Si te has quedado con ganas de más y quieres revisar el código en mayor profundidad, te invitamos a visitar",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "nuestro repositorio de Github",
       "en": "our Github repository",
       "es": "nuestro repositorio de Github",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 jun 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on June 7, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on June 7, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 jun 2023.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
+    },
+    {
+      "source": "Un prototipo de Saturdays.AI Madrid que resume cuentos con T5, genera ilustraciones con VQGAN+CLIP y reúne texto e imágenes en un PDF.",
+      "en": "A Saturdays.AI Madrid prototype that summarises stories with T5, generates illustrations with VQGAN+CLIP and combines text and images in a PDF.",
+      "es": "Un prototipo de Saturdays.AI Madrid que resume cuentos con T5, genera ilustraciones con VQGAN+CLIP y reúne texto e imágenes en un PDF.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Nota para orientarse: el tokenizador divide el texto en unidades llamadas tokens y les asigna identificadores numéricos. El modelo transforma esos identificadores en representaciones vectoriales o embeddings. Tokenizar y crear embeddings son pasos relacionados, pero distintos.",
+      "en": "A quick guide: a tokenizer splits text into units called tokens and assigns them numerical IDs. The model transforms those IDs into vector representations, or embeddings. Tokenisation and embedding are related but distinct steps.",
+      "es": "Nota para orientarse: el tokenizador divide el texto en unidades llamadas tokens y les asigna identificadores numéricos. El modelo transforma esos identificadores en representaciones vectoriales o embeddings. Tokenizar y crear embeddings son pasos relacionados, pero distintos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

@@ -10,34 +10,30 @@ draft: false
 kind: city
 ---
 
-## **Saturdays.AI Copenhagen**
+## Saturdays.AI Copenhagen
 
-Hej københavn!
+Hello, Copenhagen! Explore the first Saturdays.AI edition in Denmark and the programme announced for the second. Our mission is to open more paths into AI learning and apply it to projects with social impact.
 
-Check out how our [1st edition of SaturdaysAI](https://www.linkedin.com/posts/saturdaysai-copenhagen_machinelearning-team-diversity-activity-6939826022770991104-ghZ-?utm_source=share&utm_medium=member_desktop) in Denmark went! We will be posting more info about the **2nd edition** soon!
+[Explore the first edition](https://www.linkedin.com/posts/saturdaysai-copenhagen_machinelearning-team-diversity-activity-6939826022770991104-ghZ-?utm_source=share&utm_medium=member_desktop)
 
-🌍 Our mission is to empower anyone to learn #AI beyond the conventional education path while delivering social impact🚀
+### The announced programme
 
-**When**: TBD
+The archived edition was planned at Monta headquarters, with a machine learning track. The original page did not confirm a start date.
 
-**Where**: [Monta headquarters](https://g.page/Monta-app?share)
+The programme included more than thirteen in-person sessions of five hours, held on Saturdays from 9 a.m. to 2 p.m., in two phases:
 
-**Program**: Machine Learning
+- Code 2 Learn: learn the foundations of machine learning through collaborative coding exercises.
+- Build 2 Learn: develop complete AI prototypes, share the code and explore their potential social impact.
 
-:  2999DKK / 1999DKK\*
+[Read the archived programme](https://docs.google.com/document/d/1Spxgu1IsqMqi8ntkLprs0eNrMVt27b19MXsxxw7znpk/edit#) | [Ask the team about the next edition](mailto:guillermo.trujillo@saturdays.ai)
 
-[Join us now!](https://ti.to/saturdaysai/ai-saturdays-copenhagen-2/with/general-ticket)
+### Learn with the community
+
+The Copenhagen community brings together people interested in learning and building with AI. You can also explore the experiences of other communities.
+
+[Discover previous editions](https://drive.google.com/drive/folders/1OKCHICxQWprNCRptZ9-tc7tZa8p3GVZR?usp=sharing)
 
 ![](/media/af6b180f5fa5ffb4.webp)
-
-#### How is it joining us?
-
-Our program consist of 13+ in-person sessions of **5h each scheduled on** **Saturdays (9-14h)** so that everyone has an opportunity to **learn while building projects** powered by AI. Our philosophy is based on these two pillars:
-
--   **“Code 2 Learn”**: learn the basics of machine learning through coding exercises in a collaborative manner.
--   **“Build 2 Learn”**: build end2end prototypes of Artificial Intelligence that have a positive impact and are open-source
-
-[Get more details about our program!](https://docs.google.com/document/d/1Spxgu1IsqMqi8ntkLprs0eNrMVt27b19MXsxxw7znpk/edit#)
 
 ![](/media/aad3c993c071d715.webp)
 
@@ -47,7 +43,7 @@ Our program consist of 13+ in-person sessions of **5h each scheduled on** **Satu
 
 ![](/media/f121006702504b78.webp)
 
-![grupo jovenes aprendiendo inteligencia artificial](/media/0ef120ccb4ffe457.webp)
+![](/media/0ef120ccb4ffe457.webp)
 
 ![](/media/4668c4d4ba408b17.webp)
 
@@ -61,28 +57,16 @@ Our program consist of 13+ in-person sessions of **5h each scheduled on** **Satu
 
 ![](/media/4b85cd84580803d6.webp)
 
-#### Meet the AI community in Copenhagen
-
-Denmark is the most digitised country in Europe with a tech-savvy population that demands advanced digital solutions in every aspect of their daily lives.
-
-Have a look at some of our [previous editions](https://drive.google.com/drive/folders/1OKCHICxQWprNCRptZ9-tc7tZa8p3GVZR?usp=sharing) across different countries!
-
-#### What do our fellows say?
-
-_«… Saturdays.AI takes the difficulty curve out of A.I. by not making it a thing for engineers or mathematicians, and allows many other people to create projects with the help of mentors and their community.»_
-
-# Our team
-
-Our team is formed by passionate people who believes in building a better society. We are aware of the current challenges we do face and willing to tackle them. 
-
-# Our team
-
-Our team is formed by passionate people who believes in building a better society. We are aware of the current challenges we do face and willing to tackle them. 
-
-# Some of our global partners
-
-##### [Are you interested in](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20) collaborate with us? Learn more about the different ways you can do by clicking [here](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20)
-
 ![](/media/c4c771f49d69fe34.webp)
 
-# [Contact](mailto:guillermo.trujillo@saturdays.ai) us!
+### The fellows’ experience
+
+The testimonial on the original page highlighted how support from mentors and the community helps people from different backgrounds, beyond engineering and mathematics, build their own AI projects.
+
+### The team
+
+We share a desire to contribute to a better society. We learn together to understand the challenges around us and explore how we can address them.
+
+### Work with the community
+
+[Explore ways to collaborate](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20) or [write to us](mailto:guillermo.trujillo@saturdays.ai).

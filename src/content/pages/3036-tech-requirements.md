@@ -10,29 +10,26 @@ draft: false
 kind: page
 ---
 
-## Technology Requirements
+## Prepare your device for learning
 
-Please read the following information to ensure your device is compatible with the Saturdays.AI learning platform, community & experience.
+Requirements depend on the course and the tools it uses. This checklist covers the basics; read the specific curriculum before installing software or choosing a device.
 
-#### Browser
+### Browser and operating system
 
--   An up-to-date version of Chrome, Firefox, Safari, Opera or Microsoft Edge.
+Use an up-to-date browser, such as Chrome, Firefox, Safari or Edge, and an operating system that receives security updates. Keep both updated.
 
-#### Connectivity
+### Connection
 
--   Download: 2+ Mbps recommended; minimum 1 Mbps.
--   Upload: 0.5 Mbps.
--   Mobile Data: Reliable Wi-Fi or cellular data connection.
+You need a stable connection to access materials and play videos. Live sessions and dataset downloads may need more capacity than reading notes or completing simple exercises.
 
-#### OS
+### Computer and tools
 
--   PC: Windows 7 or higher with the latest updates installed.
--   Mac: OS X 10.11 or higher with latest updates installed.
--   Linux: Any recent distribution that has the supported browsers installed.
--   Ubuntu: 17.10+ or 14.04 LTS+.
+For coding, a computer with a keyboard is more practical than a phone. Some courses let you work with cloud notebooks; others require software installation. Follow the instructions for your chosen learning path.
 
-#### Cloud computing
+Not every exercise requires your own GPU. Check which resources the course offers or requires first.
 
-#### Youtube
+### Videos and external services
 
-Ability to watch YouTube videos is required.
+Some materials may be hosted on YouTube or other platforms. Check that you can access the services listed by the course and review their terms.
+
+[Ask the team a technical question](https://saturdays.ai/contacto/)

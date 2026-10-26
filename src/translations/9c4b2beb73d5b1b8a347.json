@@ -4,21 +4,26 @@
   "segments": [
     {
       "source": "Podcast T3/E7 – María Grandury – IA´s que Hablan Español",
-      "en": "Podcast S3/E7 – María Grandury – AI that speaks Spanish",
-      "es": "Podcast T3/E7 – María Grandury – IA que habla español",
+      "en": "Podcast S3/E07: María Grandury — AI that speaks Spanish",
+      "es": "Podcast T3/E07: María Grandury — IA que habla español",
       "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Spanish and English wording"
+        "date": "2026-10-26",
+        "scope": "Full article review; wording correction"
       }
     },
     {
       "source": "T3 / E7",
       "en": "S3/E7",
       "es": "T3 / E7",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Suscríbete en Spotify, Apple Podcast o Youtube para escuchar a nuevos expertos cada mes. En este episodio intrevistamos a María Grandury, la Ingeniera de Machine Learning, La creadora de la comunidad «NLP en Español». Nos…",
@@ -31,7 +36,12 @@
       "source": "27 ene 2022",
       "en": "Jan 27, 2022",
       "es": "27 ene 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este episodio intrevistamos a María Grandury, la Ingeniera de Machine Learning, La creadora de la comunidad «NLP en Español».",
@@ -78,27 +88,37 @@
       "source": "– Presentación María ¿Quién es?",
       "en": "– Meet María",
       "es": "– Presentación María ¿Quién es?",
-      "reviewed": false,
-      "sourceLanguage": "es"
-    },
-    {
-      "source": "– María de 12 años, ¿Quién ha sido?",
-      "en": "– What was María like at 12?",
-      "es": "– María de 12 años, ¿Quién ha sido?",
       "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Archive wording correction"
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "– María de 12 años, ¿Quién ha sido?",
+      "en": "– What was María like at 12?",
+      "es": "– ¿Cómo era María a los doce años?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full article review; wording correction"
       }
     },
     {
       "source": "Sobre «Big Science» y «Hugging Face»",
       "en": "About \"Big Science\" and \"Hugging Face\"",
       "es": "Sobre «Big Science» y «Hugging Face»",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Sobre los problemas con mucha computación en los Modelos",
@@ -114,57 +134,97 @@
     },
     {
       "source": "– Sobre los Modelos de NLP y la Comunidad de María «NLP en español»",
-      "en": "– About the NLP Models and the Community of María «NLP in Spanish»",
+      "en": "– NLP models and María’s community, NLP en español",
       "es": "– Sobre los Modelos de NLP y la Comunidad de María «NLP en español»",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Cuáles fueron tus expectativas de la AI y NLP de hace 5 años?",
-      "en": "– What were your expectations of AI and NLP 5 years ago?",
-      "es": "– ¿Cuáles fueron tus expectativas de la AI y NLP de hace 5 años?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– What did you expect from AI and natural language processing five years ago?",
+      "es": "– ¿Qué esperabas de la IA y el procesamiento del lenguaje natural hace cinco años?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– ¿Qué será posible hacer en 10 años?",
       "en": "– What will it be possible to do in 10 years?",
       "es": "– ¿Qué será posible hacer en 10 años?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Sobre la Regulación en Europa de NLP de la Protección de Datos. ¿Hasta qué punto puede ayudar?",
-      "en": "– About the NLP Regulation of Data Protection in Europe. To what extent can you help?",
-      "es": "– Sobre la Regulación en Europa de NLP de la Protección de Datos. ¿Hasta qué punto puede ayudar?",
-      "reviewed": false
+      "en": "– NLP regulation and data protection in Europe: how can they help?",
+      "es": "– Regulación del NLP y protección de datos en Europa: ¿cómo pueden ayudar?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Retos que hay en el NLP y ML",
       "en": "– Challenges in NLP and ML",
       "es": "– Retos que hay en el NLP y ML",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Recomendaciones y la Influencia de la Ciencia Ficción en la percepción de AI",
-      "en": "– Recommendations and the Influence of Science Fiction on the perception of AI",
-      "es": "– Recomendaciones y la Influencia de la Ciencia Ficción en la percepción de AI",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– Recommendations and how science fiction shapes our view of AI",
+      "es": "– Recomendaciones y cómo influye la ciencia ficción en nuestra visión de la IA",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– ¿Hay que aprender Machine Learning en la actualidad?",
       "en": "- Should we learn Machine Learning today?",
       "es": "– ¿Hay que aprender Machine Learning en la actualidad?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 27 ene 2022.",
-      "en": "A history of the Saturdays.AI community. Originally published on Jan 27, 2022.",
+      "en": "A story from the Saturdays.AI community. Originally published on Jan 27, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 27 ene 2022.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "María Grandury nos acerca al procesamiento del lenguaje natural en español y a la comunidad que creó para impulsarlo.",

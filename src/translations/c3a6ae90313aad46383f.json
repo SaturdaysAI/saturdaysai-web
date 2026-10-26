@@ -6,26 +6,46 @@
       "source": "DENMARK / AI SATURDAYS",
       "en": "DENMARK / AI SATURDAYS",
       "es": "DINAMARCA / AI Saturdays",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AI Saturdays Copenhagen",
       "en": "AI Saturdays Copenhagen",
       "es": "AI Saturdays Copenhague",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Copenhagen.",
       "en": "Copenhagen.",
       "es": "Copenhague.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Copenhagen.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Copenhagen.",
-      "es": "Aprenda inteligencia artificial, conozca a su comunidad local y cree proyectos con impacto social en Copenhague.",
-      "reviewed": false,
-      "sourceLanguage": "en"
+      "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Copenhague.",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "A view of Copenhagen",
@@ -37,7 +57,12 @@
       "source": "Saturdays.AI Copenhagen",
       "en": "Saturdays.AI Copenhagen",
       "es": "Saturdays.AI Copenhague",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Hej københavn!",
@@ -330,6 +355,215 @@
       "en": "soon!",
       "es": "próximamente",
       "reviewed": true
+    },
+    {
+      "source": "Hello, Copenhagen! Explore the first Saturdays.AI edition in Denmark and the programme announced for the second. Our mission is to open more paths into AI learning and apply it to projects with social impact.",
+      "en": "Hello, Copenhagen! Explore the first Saturdays.AI edition in Denmark and the programme announced for the second. Our mission is to open more paths into AI learning and apply it to projects with social impact.",
+      "es": "¡Hola, Copenhague! Aquí puedes conocer la primera edición de Saturdays.AI en Dinamarca y el programa anunciado para la segunda. Nuestra misión es abrir más caminos para aprender IA y aplicarla a proyectos con impacto social.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore the first edition",
+      "en": "Explore the first edition",
+      "es": "Conoce la primera edición",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The announced programme",
+      "en": "The announced programme",
+      "es": "El programa anunciado",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The archived edition was planned at Monta headquarters, with a machine learning track. The original page did not confirm a start date.",
+      "en": "The archived edition was planned at Monta headquarters, with a machine learning track. The original page did not confirm a start date.",
+      "es": "La edición archivada se planteó en la sede de Monta, con un itinerario de machine learning. La página original no llegó a confirmar una fecha de inicio.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The programme included more than thirteen in-person sessions of five hours, held on Saturdays from 9 a.m. to 2 p.m., in two phases:",
+      "en": "The programme included more than thirteen in-person sessions of five hours, held on Saturdays from 9 a.m. to 2 p.m., in two phases:",
+      "es": "El programa incluía más de trece sesiones presenciales de cinco horas, los sábados de 9:00 a 14:00, organizadas en dos fases:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Code 2 Learn: learn the foundations of machine learning through collaborative coding exercises.",
+      "en": "Code 2 Learn: learn the foundations of machine learning through collaborative coding exercises.",
+      "es": "Code 2 Learn: aprender los fundamentos del machine learning mediante ejercicios de programación en colaboración.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Build 2 Learn: develop complete AI prototypes, share the code and explore their potential social impact.",
+      "en": "Build 2 Learn: develop complete AI prototypes, share the code and explore their potential social impact.",
+      "es": "Build 2 Learn: desarrollar prototipos completos de IA, compartir el código y explorar su posible impacto social.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Read the archived programme",
+      "en": "Read the archived programme",
+      "es": "Consulta el programa archivado",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Ask the team about the next edition",
+      "en": "Ask the team about the next edition",
+      "es": "Consulta con el equipo la próxima edición",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn with the community",
+      "en": "Learn with the community",
+      "es": "Aprende con la comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The Copenhagen community brings together people interested in learning and building with AI. You can also explore the experiences of other communities.",
+      "en": "The Copenhagen community brings together people interested in learning and building with AI. You can also explore the experiences of other communities.",
+      "es": "La comunidad de Copenhague reúne a personas interesadas en aprender y crear con IA. Puedes explorar también cómo han sido las experiencias de otras comunidades.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Discover previous editions",
+      "en": "Discover previous editions",
+      "es": "Descubre ediciones anteriores",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The fellows’ experience",
+      "en": "The fellows’ experience",
+      "es": "La experiencia de nuestros fellows",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The testimonial on the original page highlighted how support from mentors and the community helps people from different backgrounds, beyond engineering and mathematics, build their own AI projects.",
+      "en": "The testimonial on the original page highlighted how support from mentors and the community helps people from different backgrounds, beyond engineering and mathematics, build their own AI projects.",
+      "es": "El testimonio recogido en la página original destaca que el apoyo de mentores y de la comunidad ayuda a personas de distintos perfiles, más allá de la ingeniería o las matemáticas, a crear sus propios proyectos de IA.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The team",
+      "en": "The team",
+      "es": "El equipo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We share a desire to contribute to a better society. We learn together to understand the challenges around us and explore how we can address them.",
+      "en": "We share a desire to contribute to a better society. We learn together to understand the challenges around us and explore how we can address them.",
+      "es": "Nos une el deseo de contribuir a una sociedad mejor. Aprendemos juntos para comprender los retos de nuestro entorno y explorar cómo podemos abordarlos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Work with the community",
+      "en": "Work with the community",
+      "es": "Colabora con la comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore ways to collaborate",
+      "en": "Explore ways to collaborate",
+      "es": "Explora formas de colaborar",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "write to us",
+      "en": "write to us",
+      "es": "escríbenos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

@@ -1,9 +1,7 @@
 ---
 title: El deporte inteligente
-description: Deporte, según la RAE «Actividad física, ejercida como juego o
-  competición, cuya práctica supone entrenamiento y sujeción a normas». Que no
-  nos extrañe que en un futuro en los diccionarios se recoja la definición de
-  «Deporte…
+description: "Datos, IA y realidad virtual en el deporte: entrenamiento,
+  arbitraje, fichajes y el debate sobre tecnología y equidad competitiva."
 pubDate: 2022-08-25
 author: Info Saturdays
 category: Community
@@ -79,8 +77,8 @@ Alejandro Ferrer
 
 ## !Más inteligencia artificial¡
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master de inteligencia artificial en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

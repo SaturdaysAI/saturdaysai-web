@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "La Inteligencia Artificial (IA) está revolucionando el periodismo, ofreciendo herramientas avanzadas que optimizan la redacción y edición de contenido. Esta tecnología no sólo acelera el proceso editorial, sino que también…",
-      "en": "Artificial Intelligence (AI) is revolutionizing journalism, offering advanced tools that optimize the writing and editing of content. This technology not only speeds up the editorial process, but also…",
-      "es": "La Inteligencia Artificial (IA) está revolucionando el periodismo, ofreciendo herramientas avanzadas que optimizan la redacción y edición de contenido. Esta tecnología no sólo acelera el proceso editorial, sino que también…",
-      "reviewed": false,
+      "en": "AI can speed up newsroom tasks, but accuracy still requires source checking and editorial review. We explore useful tools and their limits.",
+      "es": "La IA puede agilizar tareas periodísticas, pero la precisión exige contrastar fuentes y revisar los resultados. Exploramos herramientas y límites para las redacciones.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -19,13 +19,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "3 nov 2023",
       "en": "Nov 3, 2023",
       "es": "3 nov 2023",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -37,13 +42,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "oficina de un medio de comunicación que usa las últimas herramientas en inteligencia artificial",
       "en": "office of a media company that uses the latest tools in artificial intelligence",
       "es": "oficina de un medio de comunicación que usa las últimas herramientas en inteligencia artificial",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -56,13 +66,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Herramientas de inteligencia artificial que debes utilizar como periodista",
-      "en": "Artificial intelligence tools that you should use as a journalist",
-      "es": "Herramientas de inteligencia artificial que debes utilizar como periodista",
-      "reviewed": false,
+      "en": "Tools that can support journalistic work",
+      "es": "Herramientas que pueden ayudar en el trabajo periodístico",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -75,15 +90,25 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Información acerca de Saturdays.ai",
       "en": "Information about Saturdays.ai",
       "es": "Información acerca de Saturdays.ai",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Inteligencia Artificial (IA) está revolucionando el periodismo, ofreciendo herramientas avanzadas que optimizan la redacción y edición de contenido. Esta tecnología no sólo acelera el proceso editorial, sino que también eleva la precisión y fiabilidad del periodismo. Con la verificación de hechos en tiempo real y la mejora de la calidad de escritura, la IA se convierte en un aliado clave en la lucha contra la desinformación y las noticias falsas. Su integración en las salas de redacción modernas garantiza una entrega de noticias más rápida y una información de calidad que los lectores pueden confiar.",
@@ -108,7 +133,7 @@
       "source": "Periodista usando herramientas de inteligencia artificial que le ayudan a hacer más fácil su trabajo",
       "en": "Journalist using artificial intelligence tools that help make his job easier",
       "es": "Periodista usando herramientas de inteligencia artificial que le ayudan a hacer más fácil su trabajo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -121,13 +146,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La Inteligencia Artificial está ayudando a los periodistas a trabajar más rápido y con mayor precisión. Estas herramientas de IA son muy útiles, ya que ofrecen consejos para escribir mejor, corrigen la gramática y verifican los hechos al momento.",
-      "en": "Artificial Intelligence is helping journalists work faster and more accurately. These AI tools are very useful as they offer tips for better writing, correct grammar, and check facts on the spot.",
-      "es": "La Inteligencia Artificial está ayudando a los periodistas a trabajar más rápido y con mayor precisión. Estas herramientas de IA son muy útiles, ya que ofrecen consejos para escribir mejor, corrigen la gramática y verifican los hechos al momento.",
-      "reviewed": false,
+      "en": "AI tools can help with drafting, editing and organising information. Their usefulness depends on the task: a style suggestion is not a fact-check, and generated answers do not replace consulting sources.",
+      "es": "Las herramientas de IA pueden ayudar a redactar, corregir y organizar información. Su utilidad depende de la tarea: una sugerencia de estilo no es una comprobación de hechos, y ninguna respuesta generada sustituye la consulta de fuentes.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -140,13 +170,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El objetivo principal de escribir noticias es compartir información de forma clara y correcta. La Inteligencia Artificial ayuda a los periodistas dándoles consejos instantáneos para escribir mejor y más claro. Herramientas como",
       "en": "The main objective of writing news is to share information clearly and correctly. Artificial Intelligence helps journalists by giving them instant tips to write better and clearer. Tools like",
       "es": "El objetivo principal de escribir noticias es compartir información de forma clara y correcta. La Inteligencia Artificial ayuda a los periodistas dándoles consejos instantáneos para escribir mejor y más claro. Herramientas como",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -159,29 +194,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Grammarly",
       "en": "Grammarly",
       "es": "Grammarly",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hemingway Editor",
       "en": "Hemingway Editor",
       "es": "Hemingway Editor",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ofrecen ayuda en el momento para que la escritura sea más directa y comprensible.",
-      "en": "They offer help in the moment to make writing more direct and understandable.",
-      "es": "ofrecen ayuda en el momento para que la escritura sea más directa y comprensible.",
-      "reviewed": false,
+      "en": "can suggest changes to make writing more direct and readable.",
+      "es": "pueden sugerir cambios para que un texto resulte más directo y comprensible.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -194,13 +244,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La Inteligencia Artificial también es muy buena corrigiendo la gramática. A veces, los periodistas no ven pequeños errores por la prisa o por tener que actualizar constantemente sus artículos. Pero las herramientas de IA como",
-      "en": "Artificial Intelligence is also very good at correcting grammar. Sometimes journalists miss small errors because they are in a hurry or because they have to constantly update their articles. But AI tools like",
-      "es": "La Inteligencia Artificial también es muy buena corrigiendo la gramática. A veces, los periodistas no ven pequeños errores por la prisa o por tener que actualizar constantemente sus artículos. Pero las herramientas de IA como",
-      "reviewed": false,
+      "en": "Grammar tools can also help. Deadlines and frequent updates make small mistakes easy to miss. A checker such as",
+      "es": "La revisión gramatical también puede beneficiarse de estas herramientas. Las prisas y las actualizaciones frecuentes hacen fácil pasar por alto pequeños errores. Un corrector como",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -213,13 +268,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Language Too",
-      "en": "Language Too",
-      "es": "Idioma también",
-      "reviewed": false,
+      "en": "LanguageTool",
+      "es": "LanguageTool",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -231,13 +291,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "l pueden encontrar y arreglar estos errores rápido, para que los textos sean de alta calidad antes de que se publiquen.",
-      "en": "They can find and fix these errors quickly, so that the texts are of high quality before they are published.",
-      "es": "l pueden encontrar y arreglar estos errores rápido, para que los textos sean de alta calidad antes de que se publiquen.",
-      "reviewed": false,
+      "en": "can flag them, while the newsroom retains responsibility for meaning and style.",
+      "es": "puede señalarlos, aunque la decisión final sobre el estilo y el sentido corresponde a la redacción.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -250,13 +315,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Verificar que lo que se dice es muy importante para que las noticias sean confiables. Programas de IA como",
-      "en": "Verifying that what is said is very important for the news to be reliable. AI programs like",
-      "es": "Verificar que lo que se dice es muy importante para que las noticias sean confiables. Programas de IA como",
-      "reviewed": false,
+      "en": "Checking facts is essential to reliable reporting. Fact-checking organisations such as",
+      "es": "Contrastar los hechos es esencial para producir información fiable. Organizaciones de verificación como",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -269,29 +339,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Newtral",
       "en": "Newtral",
       "es": "Newtral",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Snopes",
       "en": "Snopes",
       "es": "Snopes",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ayudan a los periodistas a comprobar los datos rápidamente antes de difundir una noticia. Esto no solo hace que la información sea más precisa, sino que también ayuda a luchar contra las noticias falsas, que son un problema grande hoy en día.",
-      "en": "They help journalists quickly check facts before reporting a story. This not only makes the information more accurate, but also helps fight fake news, which is a big problem today.",
-      "es": "ayudan a los periodistas a comprobar los datos rápidamente antes de difundir una noticia. Esto no solo hace que la información sea más precisa, sino que también ayuda a luchar contra las noticias falsas, que son un problema grande hoy en día.",
-      "reviewed": false,
+      "en": "publish fact-checks and explain their sources and methods. They are reporting resources, not AI programs that automatically guarantee a story’s accuracy.",
+      "es": "publican verificaciones y explican sus fuentes y métodos. Son recursos para la investigación periodística, no programas de IA que garanticen automáticamente la veracidad de una noticia.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -304,13 +389,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Redacción de noticias futurista",
-      "en": "Futuristic news writing",
-      "es": "Redacción de noticias futurista",
-      "reviewed": false,
+      "en": "Futuristic newsroom",
+      "es": "Redacción periodística futurista",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -322,13 +412,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La Inteligencia Artificial no busca reemplazar a los periodistas, sino fortalecer su labor, permitiendo que se enfoquen en lo que mejor hacen:",
-      "en": "Artificial Intelligence does not seek to replace journalists, but rather to strengthen their work, allowing them to focus on what they do best:",
-      "es": "La Inteligencia Artificial no busca reemplazar a los periodistas, sino fortalecer su labor, permitiendo que se enfoquen en lo que mejor hacen:",
-      "reviewed": false,
+      "en": "Used well, these tools can free up time for journalists to",
+      "es": "Bien utilizadas, estas herramientas pueden liberar tiempo para que los periodistas se concentren en",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -341,13 +436,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "investigar, analizar y contar historias que importan",
-      "en": "research, analyze and tell stories that matter",
+      "en": "investigate, analyse and tell stories that matter",
       "es": "investigar, analizar y contar historias que importan",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -359,13 +459,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ". En un mundo inundado de información, la IA se presenta como una herramienta poderosa para asegurar la calidad, precisión y rapidez en el periodismo contemporáneo.",
-      "en": ". In a world flooded with information, AI is presented as a powerful tool to ensure quality, accuracy and speed in contemporary journalism.",
-      "es": ". En un mundo inundado de información, la IA se presenta como una herramienta poderosa para asegurar la calidad, precisión y rapidez en el periodismo contemporáneo.",
-      "reviewed": false,
+      "en": ". Editorial responsibility remains human: checking facts, protecting sources and explaining how information was obtained.",
+      "es": ". La responsabilidad editorial sigue siendo humana: comprobar los datos, proteger las fuentes y explicar cómo se ha obtenido la información.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -378,6 +483,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -392,15 +502,20 @@
       "source": "periodismo",
       "en": "journalism",
       "es": "periodismo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 3 nov 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on Nov 3, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on Nov 3, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 3 nov 2023.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -413,6 +528,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
       }
     },
     {
@@ -424,6 +544,28 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "La revisión gramatical también puede beneficiarse de estas herramientas. Las prisas y las actualizaciones frecuentes hacen fácil pasar por alto pequeños errores. Un corrector como",
+      "en": "Grammar tools can also help. Deadlines and frequent updates make small mistakes easy to miss. A checker such as",
+      "es": "La revisión gramatical también puede beneficiarse de estas herramientas. Las prisas y las actualizaciones frecuentes hacen fácil pasar por alto pequeños errores. Un corrector como",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "puede señalarlos, aunque la decisión final sobre el estilo y el sentido corresponde a la redacción.",
+      "en": "can flag them, while the newsroom retains responsibility for meaning and style.",
+      "es": "puede señalarlos, aunque la decisión final sobre el estilo y el sentido corresponde a la redacción.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

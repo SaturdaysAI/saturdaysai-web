@@ -4,80 +4,135 @@
   "segments": [
     {
       "source": "Machine Learning para la detección de COVID-19",
-      "en": "Machine Learning for the detection of COVID-19",
-      "es": "Machine Learning para la detección de COVID-19",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Classifying X-rays with machine learning: the project’s scope and limitations",
+      "es": "Clasificación de radiografías con machine learning: alcance y límites del proyecto",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos…",
       "en": "COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31, 2019, when it was informed of a group of cases...",
       "es": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos…",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China). En este artículo intentaremos describir la forma de aplicar Machine Learning para detectar el Covid-19.",
-      "en": "COVID-19 is the disease caused by the new coronavirus known as SARS-CoV-2. The WHO first learned of the existence of this new virus on December 31, 2019, when it was informed of a group of cases of \"viral pneumonia\" that had been declared in Wuhan (People's Republic of China). In this article we will try to describe how to apply Machine Learning to detect Covid-19.",
-      "es": "La COVID-19 es la enfermedad causada por el nuevo coronavirus conocido como SARS-CoV-2. La OMS tuvo noticia por primera vez de la existencia de este nuevo virus el 31 de diciembre de 2019, al ser informada de un grupo de casos de «neumonía vírica» que se habían declarado en Wuhan (República Popular China). En este artículo intentaremos describir la forma de aplicar Machine Learning para detectar el Covid-19.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "COVID-19 is caused by the SARS-CoV-2 virus. This project began during the pandemic with the aim of exploring machine learning for X-rays. However, the dataset used distinguishes normal images from pneumonia, not COVID-19 cases. We therefore present the work as an educational image-classification experiment.",
+      "es": "La COVID-19 está causada por el virus SARS-CoV-2. Este proyecto surgió durante la pandemia con la intención de explorar el uso de machine learning en radiografías. Sin embargo, el conjunto utilizado distingue imágenes normales y neumonía, no casos de COVID-19. Por eso presentamos el trabajo como una prueba educativa de clasificación de imágenes.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "RADIOGRAFÍA DE TÓRAX",
       "en": "CHEST X-RAY",
       "es": "RADIOGRAFÍA DE TÓRAX",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "PROBLEMÁTICA",
       "en": "PROBLEM",
       "es": "PROBLEMÁTICA",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "SELECCIÓN DEL MODELO Y TÉCNICAS IMPLEMENTADAS",
       "en": "MODEL SELECTION AND IMPLEMENTED TECHNIQUES",
       "es": "SELECCIÓN DEL MODELO Y TÉCNICAS IMPLEMENTADAS",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la construcción del modelo de Machine Learning para detectar el Covid-19 se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
-      "en": "To build the Machine Learning model to detect Covid-19, Convolutional Neural Networks were used, because they are neural networks designed and widely used to work with images.",
-      "es": "Para la construcción del modelo de Machine Learning para detectar el Covid-19 se utilizó Redes Neuronales Convolucionales, porque son redes neuronales diseñadas y ampliamente usadas para trabajar con imágenes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used convolutional neural networks, an architecture widely used in image-processing tasks, to build the X-ray classifier.",
+      "es": "Utilizamos redes neuronales convolucionales, una arquitectura ampliamente empleada en tareas de procesamiento de imágenes, para construir el clasificador de radiografías.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y para el desarrollo del modelo Machine Learning para detectar el Covid-19 se utilizó los servicios de colab.research de Google.",
-      "en": "Because it is a small proof of concept of image classification for an introductory course to Deep Learning, the dataset images have been uploaded to a Google Drive folder and Google's colab.research services were used to develop the Machine Learning model to detect Covid-19.",
-      "es": "Debido a que es una pequeña prueba de concepto de clasificación de imágenes para un curso introductorio a Deep Learning, se ha subido las imágenes del dataset a una carpeta de google drive y para el desarrollo del modelo Machine Learning para detectar el Covid-19 se utilizó los servicios de colab.research de Google.",
-      "reviewed": false
+      "en": "As this was a proof of concept for an introductory deep-learning course, we stored the images in Google Drive and developed the classifier in Google Colab.",
+      "es": "Como se trataba de una prueba de concepto para un curso introductorio de deep learning, alojamos las imágenes en Google Drive y desarrollamos el clasificador en Google Colab.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "EVALUACIÓN DEL MODELO",
       "en": "MODEL EVALUATION",
       "es": "EVALUACIÓN DEL MODELO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando Machine Learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
-      "en": "The covid diagnosis model through X-ray images using Machine Learning could be applied in our environment as another diagnostic alternative.",
-      "es": "El modelo de diagnóstico del covid a través de imágenes de rayos X usando Machine Learning, podría aplicarse en nuestro medio como otra alternativa de diagnóstico.",
-      "reviewed": false
+      "en": "The exercise provides experience in X-ray classification but does not demonstrate an ability to diagnose COVID-19. Any healthcare use would require suitable data, independent validation and clinical oversight.",
+      "es": "El ejercicio permite aprender sobre clasificación de radiografías, pero no demuestra capacidad para diagnosticar COVID-19. Cualquier uso sanitario exigiría datos apropiados, validación independiente y supervisión clínica.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Cómo funcionan y en qué se diferencian las PCR y los test rápidos de coronavirus?",
       "en": "How do PCR and rapid coronavirus tests work and how are they different?",
       "es": "¿Cómo funcionan y en qué se diferencian las PCR y los test rápidos de coronavirus?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
       "en": "Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning",
       "es": "Detección de COVID-19 en imágenes de rayos X con Keras, TensorFlow y Deep Learning",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -90,13 +145,23 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Cnn",
       "en": "CNN",
       "es": "Cnn",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

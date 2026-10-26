@@ -6,281 +6,481 @@
       "source": "3 min de lectura",
       "en": "3 min read",
       "es": "3 min de lectura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Paz. 2021 El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y…",
       "en": "La Paz. 2021 The project began with this question: Will it be possible to improve decision making in the textile industry with Machine Learning? After deciding that we wanted to answer the question, we decided on the industry and…",
       "es": "La Paz. 2021 El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en la industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y…",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Jhonpoolcastro Jcs",
       "en": "Jhonpoolcastro Jcs",
       "es": "Jhonpoolcastro Jcs",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en al Industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y como sabemos en Bolivia y encontramos a la industria textilera que hasta el 2015, tuvo una contribución de la industria textil boliviana al Producto Interno Bruto (PIB) era del 0,9%, equivalente a 451 millones de dólares,sin embargo este sector se ve severamente afectado por varios problemas tales como:",
-      "en": "The project began with this question: Will it be possible to improve decision making in the textile industry with Machine Learning? After deciding that we wanted to answer the unknown, we decided on the industry and as we know in Bolivia and we found the textile industry that until 2015, the contribution of the Bolivian textile industry to the Gross Domestic Product (GDP) was 0.9%, equivalent to 451 million dollars, however this sector is severely affected by several problems such as:",
-      "es": "El proyecto comenzó con esta pregunta: ¿Será posible mejorar la toma de decisiones en la industria textil con Machine Learning? Después de decidir que queríamos responder a la incógnita decidimos la industria y como sabemos en Bolivia y encontramos a la industria textilera que hasta el 2015, tuvo una contribución de la industria textil boliviana al Producto Interno Bruto (PIB) era del 0,9%, equivalente a 451 millones de dólares,sin embargo este sector se ve severamente afectado por varios problemas tales como:",
-      "reviewed": false,
+      "en": "The project began with a question: can machine learning improve decision-making in the textile industry? We chose this sector because of its importance to Bolivia and the challenges identified by the team, including competition from imports and informal trade. Our aim was to explore productivity prediction using a publicly available dataset.",
+      "es": "El proyecto comenzó con una pregunta: ¿podemos mejorar la toma de decisiones en la industria textil con machine learning? Elegimos este sector por su importancia para Bolivia y por las dificultades que señalaba el equipo, entre ellas la competencia de productos importados y el comercio informal. Nuestro objetivo fue explorar la predicción de la productividad con un conjunto de datos disponible públicamente.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Mercadería Ilegal que ingresa al País",
       "en": "Illegal merchandise entering the country",
       "es": "Mercadería Ilegal que ingresa al País",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ropa usada",
       "en": "Used clothes",
       "es": "Ropa usada",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prendas chinas",
       "en": "Chinese garments",
       "es": "Prendas chinas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Porque vimos estos problemas y creemos que Bolivia puede mejorar su competitividad escogimos al sector de la industria textil para aplicarle Machine Learning.",
       "en": "Because we saw these problems and believe that Bolivia can improve its competitiveness, we chose the textile industry sector to apply Machine Learning.",
       "es": "Porque vimos estos problemas y creemos que Bolivia puede mejorar su competitividad escogimos al sector de la industria textil para aplicarle Machine Learning.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "DESARROLLO",
       "en": "DEVELOPMENT",
       "es": "DESARROLLO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Encontramos el dataset en Kaggle, este tenía las siguientes variables (están traducidas al español al lado):",
       "en": "We found the dataset on Kaggle, it had the following variables (they are translated into Spanish next to it):",
       "es": "Encontramos el dataset en Kaggle, este tenía las siguientes variables (están traducidas al español al lado):",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Fecha ()",
       "en": "– Date()",
       "es": "– Fecha ()",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "smv – valor promedio por trabajo",
       "en": "smv – average value per job",
       "es": "smv – valor promedio por trabajo",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "day",
       "en": "day",
       "es": "day",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Dia (Lun-Dom)",
       "en": "– Day (Mon-Sun)",
       "es": "– Dia (Lun-Dom)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "wip – trabajos en cola",
       "en": "wip – queued jobs",
       "es": "wip – trabajos en cola",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "quarter",
       "en": "quarter",
       "es": "quarter",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– 5 periodos / mes",
       "en": "– 5 periods / month",
       "es": "– 5 periodos / mes",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "over time – sobrehora",
       "en": "over time",
       "es": "over time – sobrehora",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "department –",
       "en": "department –",
       "es": "department –",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "departamento",
       "en": "department",
       "es": "departamento",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "incentive – incentivo",
       "en": "incentive – incentive",
       "es": "incentive – incentivo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "teamno",
       "en": "teamno",
       "es": "teamno",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– # de equipo",
       "en": "– Team #",
       "es": "– # de equipo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "idle time – tiempos ociosos",
       "en": "idle time – idle times",
       "es": "idle time – tiempos ociosos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "no of workers",
       "en": "no of workers",
       "es": "no of workers",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– # de trabajadores",
       "en": "– # of workers",
       "es": "– # de trabajadores",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "idleman",
       "en": "idleman",
       "es": "idleman",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– # de trabajadores ociosos",
       "en": "– # of idle workers",
       "es": "– # de trabajadores ociosos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "no of style change",
       "en": "no of style change",
       "es": "no of style change",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– # de cambios",
       "en": "– # of changes",
       "es": "– # de cambios",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "actual productivity – productividad actual",
       "en": "current productivity – current productivity",
       "es": "actual productivity – productividad actual",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "targeted_productivity",
       "en": "targeted_productivity",
       "es": "targeted_productivity",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– productividad esperada",
       "en": "– expected productivity",
       "es": "– productividad esperada",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nuestro dataset obtenido de Kaggle tenía esas características, después de ver las variables vimos que la variable SMV valor (promedio de trabajo) tenía algunos huecos,por lo que viendo su distribución decidimos rellenarla con la tendencia de la media y así ya obtuvimos todos los datos listos para trabajar.",
-      "en": "Our dataset obtained from Kaggle had these characteristics, after seeing the variables we saw that the variable SMV value (working average) had some gaps, so seeing its distribution we decided to fill it with the trend of the average and thus we obtained all the data ready to work.",
-      "es": "Nuestro dataset obtenido de Kaggle tenía esas características, después de ver las variables vimos que la variable SMV valor (promedio de trabajo) tenía algunos huecos,por lo que viendo su distribución decidimos rellenarla con la tendencia de la media y así ya obtuvimos todos los datos listos para trabajar.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "After exploring the variables in the Kaggle dataset, we found missing values in SMV. We examined its distribution and chose to replace those values with the mean to prepare the data for modelling.",
+      "es": "Tras explorar las variables del conjunto de Kaggle, detectamos valores ausentes en SMV. Examinamos su distribución y decidimos sustituir esos valores por la media para preparar los datos para el modelado.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Comenzamos con la idea de regresión pero los métodos parecían no servir o nos daban unos resultados muy bajos por lo cual tuvimos que cambiar de aproach, después se procedió a un problema de clasificación, realizamos una normalización de los datos y ya con los datos trabajados comenzamos a trabajar,acá un ejemplo de la matriz de correlación que logramos obtener una vez pasamos a la parte de clasificación de datos con datos ya normalizados.",
-      "en": "We started with the idea of regression but the methods seemed not to work or gave us very low results so we had to change our approach, then we proceeded to a classification problem, we carried out a normalization of the data and with the data worked on we began to work, here is an example of the correlation matrix that we managed to obtain once we moved on to the data classification part with already normalized data.",
-      "es": "Comenzamos con la idea de regresión pero los métodos parecían no servir o nos daban unos resultados muy bajos por lo cual tuvimos que cambiar de aproach, después se procedió a un problema de clasificación, realizamos una normalización de los datos y ya con los datos trabajados comenzamos a trabajar,acá un ejemplo de la matriz de correlación que logramos obtener una vez pasamos a la parte de clasificación de datos con datos ya normalizados.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We initially framed the task as regression, but the early results were unsatisfactory. We decided to turn the target into categories and try classification models. We normalised the data and examined the correlation matrix shown below.",
+      "es": "Comenzamos planteando un problema de regresión, pero los resultados iniciales no fueron satisfactorios. Decidimos reformular la variable objetivo como categorías y probar modelos de clasificación. Normalizamos los datos y examinamos la matriz de correlación que se muestra a continuación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Después se comenzó a probar modelos,el con mejores resultados predictivos fue ADAboost(insertamos imagen referencial)",
-      "en": "Afterwards, models began to be tested, the one with the best predictive results was ADAboost (we insert reference image)",
-      "es": "Después se comenzó a probar modelos,el con mejores resultados predictivos fue ADAboost(insertamos imagen referencial)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We then tested several classification models. AdaBoost achieved the best predictive result in our evaluation.",
+      "es": "Después probamos distintos modelos de clasificación. AdaBoost obtuvo el mejor resultado predictivo en nuestra evaluación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Logramos un 0.82 de accuracy lo cual fue simplemente increible despues de ver como otros métodos no llegaban ni al 0.50, decidimos probar con varios modelos adicionales como Random Forest, pero la precisión era menor (no por mucho)",
       "en": "We achieved an accuracy of 0.82 which was simply incredible. After seeing how other methods did not even reach 0.50, we decided to try several additional models such as Random Forest, but the precision was lower (not by much).",
       "es": "Logramos un 0.82 de accuracy lo cual fue simplemente increible despues de ver como otros métodos no llegaban ni al 0.50, decidimos probar con varios modelos adicionales como Random Forest, pero la precisión era menor (no por mucho)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al final nos quedamos con Adaboost y logramos un trabajo excelente.",
       "en": "In the end we stayed with Adaboost and did an excellent job.",
       "es": "Al final nos quedamos con Adaboost y logramos un trabajo excelente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Con los modelos de regresión de acuerdo al rendimiento (scores de 0.5) calculado, no se acomodan al dataset propuesto, se realizó un tratamiento al target para volver un problema de clasificación.",
       "en": "With the regression models according to the performance (scores of 0.5) calculated, they do not fit the proposed dataset, a treatment was carried out on the target to become a classification problem.",
       "es": "Con los modelos de regresión de acuerdo al rendimiento (scores de 0.5) calculado, no se acomodan al dataset propuesto, se realizó un tratamiento al target para volver un problema de clasificación.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los modelos de clasificación aplicados al dataset dieron resultados favorables en especial Adaboost con un score de 0.82",
       "en": "The classification models applied to the dataset gave favorable results, especially Adaboost with a score of 0.82.",
       "es": "Los modelos de clasificación aplicados al dataset dieron resultados favorables en especial Adaboost con un score de 0.82",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los mecanismos y procesos de machine learning permitieron en el problema reutilizar el modelo como uno de clasificación.",
-      "en": "The machine learning mechanisms and processes allowed the problem to reuse the model as one of the classification.",
-      "es": "Los mecanismos y procesos de machine learning permitieron en el problema reutilizar el modelo como uno de clasificación.",
-      "reviewed": false,
+      "en": "The process helped us learn how to reformulate a regression problem as classification. Metrics from the two tasks are not directly comparable.",
+      "es": "El proceso nos permitió aprender a reformular un problema de regresión como uno de clasificación. Las métricas de ambas tareas no son directamente comparables.",
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Adaboost",
       "en": "Adaboost",
       "es": "Adaboost",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AdaBoost",

@@ -4,400 +4,705 @@
   "segments": [
     {
       "source": "Donostia. Primera edición. 2020 Introducción En la vida cotidiana, ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas veces has…",
-      "en": "Donostia. First edition. 2020 Introduction In everyday life, how many times does it happen to us that we ask a person how they are, and the answer is positive while their face indicates the opposite? How many times have you…",
-      "es": "Donostia. Primera edición. 2020 Introducción En la vida cotidiana, ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas veces has…",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "A Donostia project explores convolutional networks for facial-expression classification and reflects on the limits of its results.",
+      "es": "Un proyecto de Donostia explora redes convolucionales para clasificar expresiones faciales y reflexiona sobre las limitaciones de sus resultados.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Definición del problema",
       "en": "Problem definition",
       "es": "Definición del problema",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La aproximación",
       "en": "The approach",
       "es": "La aproximación",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Construyendo el model",
       "en": "Building the model",
-      "es": "Construyendo el model",
-      "reviewed": false
+      "es": "Construcción del modelo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Predicción",
       "en": "Prediction",
       "es": "Predicción",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Próximos pasos",
       "en": "Next steps",
       "es": "Próximos pasos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Primera edición. 2020",
       "en": ". First edition. 2020",
       "es": ". Primera edición. 2020",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la vida cotidiana, ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas veces has ido a la peluquería y has pretendido salir contenta cuando realmente, no te gustaba el resultado final? ¿Alguna vez has querido recibir el feedback de miles de personas en una conferencia o en el transcurso de ella?",
       "en": "In everyday life, how many times does it happen to us that we ask a person how they are, and the answer is positive while their face indicates the opposite? How many times have you gone to the hairdresser and pretended to leave happy when you really didn't like the final result? Have you ever wanted to receive feedback from thousands of people at or during a conference?",
       "es": "En la vida cotidiana, ¿Cuántas veces nos ocurre que preguntamos a una persona qué tal está, y la respuesta es positiva mientras que su rostro indica lo contrario? ¿Cuántas veces has ido a la peluquería y has pretendido salir contenta cuando realmente, no te gustaba el resultado final? ¿Alguna vez has querido recibir el feedback de miles de personas en una conferencia o en el transcurso de ella?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Frase de Carl Rogers",
       "en": "Carl Rogers quote",
       "es": "Frase de Carl Rogers",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Si nos ponemos a reflexionar sobre las cuestiones mencionadas, probablemente nos daremos cuenta de que muchas veces se miente cuando se tratan las emociones, ¿pero nuestra cara también miente?",
-      "en": "If we start to reflect on the aforementioned issues, we will probably realize that we often lie when dealing with emotions, but does our face also lie?",
-      "es": "Si nos ponemos a reflexionar sobre las cuestiones mencionadas, probablemente nos daremos cuenta de que muchas veces se miente cuando se tratan las emociones, ¿pero nuestra cara también miente?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "These questions led us to explore the relationship between expression and feeling. A facial expression alone cannot establish an emotion or tell us whether someone is being truthful.",
+      "es": "Estas preguntas nos llevaron a explorar la relación entre lo que expresamos y lo que sentimos. Una expresión facial no basta para determinar una emoción ni para saber si alguien está diciendo la verdad.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Muchas veces se da más importancia a lo que se dice con la voz, que a lo que se dice con la expresión facial, siendo más fácil mentir o esconder la realidad con la primera de ellas. Con este proyecto queríamos, además de desplegar un proyecto real de inteligencia artificial, hacer algo que pudiese ser útil, pudiese detectar las emociones de las personas según su cara, mediante una imagen o la detección de la cara con una webcam. Las emociones surgen cuando ocurre algo relevante. Aparecen rápidamente, de forma automática, y hacen cambiar nuestro foco de atención.",
-      "en": "Many times more importance is given to what is said with the voice than to what is said with the facial expression, making it easier to lie or hide reality with the former. With this project we wanted, in addition to deploying a real artificial intelligence project, to do something that could be useful, that could detect people's emotions based on their face, through an image or by detecting the face with a webcam. Emotions arise when something relevant happens. They appear quickly, automatically, and change our focus of attention.",
-      "es": "Muchas veces se da más importancia a lo que se dice con la voz, que a lo que se dice con la expresión facial, siendo más fácil mentir o esconder la realidad con la primera de ellas. Con este proyecto queríamos, además de desplegar un proyecto real de inteligencia artificial, hacer algo que pudiese ser útil, pudiese detectar las emociones de las personas según su cara, mediante una imagen o la detección de la cara con una webcam. Las emociones surgen cuando ocurre algo relevante. Aparecen rápidamente, de forma automática, y hacen cambiar nuestro foco de atención.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We wanted to build an AI application and explore facial-expression classification using images or a webcam. We started with questions about non-verbal communication, but recognising a visual pattern is not the same as knowing a person’s emotional state.",
+      "es": "Con este proyecto queríamos desarrollar una aplicación de inteligencia artificial y explorar la clasificación de expresiones faciales a partir de imágenes o de una webcam. Partimos de preguntas sobre la comunicación no verbal, pero reconocer un patrón visual no equivale a conocer el estado emocional de una persona.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La inteligencia emocional es algo que ha ido adquiriendo mucha relevancia los últimos años, la importancia en percibir, usar, comprender y manejar las emociones, tanto las correspondientes a uno mismo como a las del resto. Para ello, es evidente que necesitamos emociones reales, por lo que queríamos facilitar la forma en la que se pueden percibir las emociones. ¿Será una máquina capaz de detectar y clasificar las emociones mejor que el ser humano?",
       "en": "Emotional intelligence is something that has become very relevant in recent years, the importance of perceiving, using, understanding and managing emotions, both those corresponding to oneself and those of others. To do this, it is clear that we need real emotions, so we wanted to facilitate the way in which emotions can be perceived. Will a machine be able to detect and classify emotions better than humans?",
       "es": "La inteligencia emocional es algo que ha ido adquiriendo mucha relevancia los últimos años, la importancia en percibir, usar, comprender y manejar las emociones, tanto las correspondientes a uno mismo como a las del resto. Para ello, es evidente que necesitamos emociones reales, por lo que queríamos facilitar la forma en la que se pueden percibir las emociones. ¿Será una máquina capaz de detectar y clasificar las emociones mejor que el ser humano?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Facial Expression Recogniser será una aplicación encargada de detectar las emociones a tiempo real. En esta primera versión se utilizarán las imágenes y, a continuación, su función será clasificar las emociones en cuanto la cámara pueda detectar caras.",
-      "en": "Facial Expression Recogniser will be an application in charge of detecting emotions in real time. In this first version, images will be used and, then, its function will be to classify emotions as soon as the camera can detect faces.",
-      "es": "Facial Expression Recogniser será una aplicación encargada de detectar las emociones a tiempo real. En esta primera versión se utilizarán las imágenes y, a continuación, su función será clasificar las emociones en cuanto la cámara pueda detectar caras.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Facial Expression Recogniser is a prototype that classifies images using the dataset’s labels. The first version works with still images; webcam integration remained a possible future development.",
+      "es": "Facial Expression Recogniser es un prototipo para clasificar imágenes según las etiquetas del conjunto de datos. La primera versión trabaja con imágenes; la integración con una webcam quedó como una posibilidad futura.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El dataset utilizado para el desarrollo de este proyecto, que se obtuvo en Kaggle, consistía en una serie de imágenes divididas en carpetas en función de la expresión de rostro. Las etiquetas de las carpetas se dividían según la siguiente clasificación:",
       "en": "The dataset used for the development of this project, which was obtained from Kaggle, consisted of a series of images divided into folders based on facial expression. The folder labels were divided according to the following classification:",
       "es": "El dataset utilizado para el desarrollo de este proyecto, que se obtuvo en Kaggle, consistía en una serie de imágenes divididas en carpetas en función de la expresión de rostro. Las etiquetas de las carpetas se dividían según la siguiente clasificación:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "0 — Angry",
       "en": "0 — Angry",
       "es": "0 — Angry",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1 — Disgust",
       "en": "1 — Disgust",
       "es": "1 — Disgust",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2 — Fear",
       "en": "2 — Fear",
       "es": "2 — Fear",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3 — Happy emotions",
       "en": "3 — Happy emotions",
       "es": "3 — Happy emotions",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4 — Sad",
       "en": "4 — Sad",
       "es": "4 — Sad",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "5 — Surprise",
       "en": "5 — Surprise",
       "es": "5 — Surprise",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "6 — Neutral",
       "en": "6 — Neutral",
       "es": "6 — Neutral",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo principal del proyecto era detectar y clasificar las emociones según estas etiquetas. Para dicha predicción, se usaría imágenes obtenidas mediante la webcam.",
       "en": "The main objective of the project was to detect and classify emotions according to these labels. For this prediction, images obtained through the webcam would be used.",
       "es": "El objetivo principal del proyecto era detectar y clasificar las emociones según estas etiquetas. Para dicha predicción, se usaría imágenes obtenidas mediante la webcam.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Data train",
       "en": "data train",
       "es": "Data train",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tal y como ha sido mencionado con anterioridad, a la hora de describir el dataset utilizado, se ha visto que se contaba con imágenes y con las etiquetas de las emociones correspondientes. Esto ha hecho que el proceso de EDA haya restado importancia en este proyecto.",
       "en": "As mentioned previously, when describing the dataset used, it was seen that it had images and the corresponding emotion labels. This has made the EDA process less important in this project.",
       "es": "Tal y como ha sido mencionado con anterioridad, a la hora de describir el dataset utilizado, se ha visto que se contaba con imágenes y con las etiquetas de las emociones correspondientes. Esto ha hecho que el proceso de EDA haya restado importancia en este proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sin embargo, si ha sido necesario cierto análisis y transformación de los datos. Para empezar, se ha tenido que crear dataframes partiendo del dataset. Para ello, se ha pasado de las fotos que se tenían a pixeles, y se han creado dos columnas en dicha tabla, una la relacionada con la emoción y la otra con los píxeles.",
       "en": "However, some analysis and transformation of the data has been necessary. To begin with, dataframes had to be created from the dataset. To do this, the photos we had were converted to pixels, and two columns were created in said table, one related to emotion and the other to pixels.",
       "es": "Sin embargo, si ha sido necesario cierto análisis y transformación de los datos. Para empezar, se ha tenido que crear dataframes partiendo del dataset. Para ello, se ha pasado de las fotos que se tenían a pixeles, y se han creado dos columnas en dicha tabla, una la relacionada con la emoción y la otra con los píxeles.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Formato dataset",
       "en": "Dataset format",
       "es": "Formato dataset",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Además, cabe destacar que desde un inicio se contaba con una clasificación del dataset entre train y test, por lo que la transformación de imágenes a pixels se hizo dos veces, terminando así con dos dataframes: train_data y test_data",
       "en": "Furthermore, it should be noted that from the beginning there was a classification of the dataset between train and test, so the transformation of images to pixels was done twice, thus ending with two dataframes: train_data and test_data",
       "es": "Además, cabe destacar que desde un inicio se contaba con una clasificación del dataset entre train y test, por lo que la transformación de imágenes a pixels se hizo dos veces, terminando así con dos dataframes: train_data y test_data",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tamaño de tablas",
       "en": "Table size",
       "es": "Tamaño de tablas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El proyecto realizado se basa en Deep Learning, por lo que ha sido necesario el uso de redes neuronales. En nuestro caso, se han utilizado redes neuronales convolucionales, las cuales se utilizan sobre todo para tareas de visión artificial, pues son muy efectivas en la clasificación y segmentación de imágenes, entre otras aplicaciones.",
       "en": "The project carried out is based on Deep Learning, which is why the use of neural networks has been necessary. In our case, convolutional neural networks have been used, which are mainly used for artificial vision tasks, as they are very effective in image classification and segmentation, among other applications.",
       "es": "El proyecto realizado se basa en Deep Learning, por lo que ha sido necesario el uso de redes neuronales. En nuestro caso, se han utilizado redes neuronales convolucionales, las cuales se utilizan sobre todo para tareas de visión artificial, pues son muy efectivas en la clasificación y segmentación de imágenes, entre otras aplicaciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para ello, se ha presentado un modelo secuencial, lo que permite apilar capas secuenciales en orden de entrada a salida.",
       "en": "For this purpose, a sequential model has been presented, allowing sequential layers to be stacked in order from input to output.",
       "es": "Para ello, se ha presentado un modelo secuencial, lo que permite apilar capas secuenciales en orden de entrada a salida.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las capas añadidas al modelo han sido:",
       "en": "The layers added to the model have been:",
       "es": "Las capas añadidas al modelo han sido:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Conv2D",
       "en": "– Conv2D",
       "es": "– Conv2D",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Batch Normalization",
       "en": "– Batch Normalization",
       "es": "– Batch Normalization",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– MaxPooling2D",
       "en": "– MaxPooling2D",
       "es": "– MaxPooling2D",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Flatten",
       "en": "–Flatten",
       "es": "– Flatten",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Dense",
       "en": "– Dense",
       "es": "– Dense",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Activation",
       "en": "– Activation",
       "es": "– Activation",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Dropout",
       "en": "– Dropout",
       "es": "– Dropout",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para crear el modelo anteriormente mencionado, se ha utilizado Tensorflow y Keras. Este último es una biblioteca de Redes Neuronales escrita en Python. Es capaz de ejecutarse sobre TensorFlow. Este último satisface las necesidades de los sistemas capaces de construir y entrenar redes neuronales para detectar y descifrar patrones y correlaciones.",
       "en": "To create the aforementioned model, Tensorflow and Keras have been used. The latter is a Neural Networks library written in Python. It is capable of running on top of TensorFlow. The latter meets the needs of systems capable of building and training neural networks to detect and decipher patterns and correlations.",
       "es": "Para crear el modelo anteriormente mencionado, se ha utilizado Tensorflow y Keras. Este último es una biblioteca de Redes Neuronales escrita en Python. Es capaz de ejecutarse sobre TensorFlow. Este último satisface las necesidades de los sistemas capaces de construir y entrenar redes neuronales para detectar y descifrar patrones y correlaciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Después de crear el modelo se inició el entrenamiento del modelo. Al principio, se entrenó el modelo con un solo epoch, lo que además de tardar mucho tiempo, solo obtuvo un accuracy del 0,29. Es por esto por lo que se tuvo que modificar el entrenamiento del modelo, aumentando los epochs, cambiando los pasos a dar en cada epoch, etc.",
       "en": "After creating the model, training of the model began. At first, the model was trained with a single epoch, which in addition to taking a long time, only obtained an accuracy of 0.29. This is why the training of the model had to be modified, increasing the epochs, changing the steps to take in each epoch, etc.",
       "es": "Después de crear el modelo se inició el entrenamiento del modelo. Al principio, se entrenó el modelo con un solo epoch, lo que además de tardar mucho tiempo, solo obtuvo un accuracy del 0,29. Es por esto por lo que se tuvo que modificar el entrenamiento del modelo, aumentando los epochs, cambiando los pasos a dar en cada epoch, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Además, debido a un problema de guardado se tuvo que crear un callback al ModelCheckpoint, para que almacenará un checkpoint cada vez que un epoch finalizara, así, se pudo obtener un modelo final con más epochs.",
       "en": "Furthermore, due to a saving problem, a callback had to be created to the ModelCheckpoint, so that it would store a checkpoint every time an epoch ended, thus, a final model with more epochs could be obtained.",
       "es": "Además, debido a un problema de guardado se tuvo que crear un callback al ModelCheckpoint, para que almacenará un checkpoint cada vez que un epoch finalizara, así, se pudo obtener un modelo final con más epochs.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al final, el modelo obtenido ha conseguido un accuracy final del 0.9602. Esto indica la precisión de lo que se entrenó. Sin embargo, si analizamos el val_accuracy, el cual se refiere a cuánto funciona su modelo en general para casos fuera del conjunto de entrenamiento, el valor obtenido ha sido del 0.6035.",
-      "en": "In the end, the model obtained has achieved a final accuracy of 0.9602. This indicates the accuracy of what was trained. However, if we analyze the val_accuracy, which refers to how well your model works in general for cases outside the training set, the value obtained was 0.6035.",
-      "es": "Al final, el modelo obtenido ha conseguido un accuracy final del 0.9602. Esto indica la precisión de lo que se entrenó. Sin embargo, si analizamos el val_accuracy, el cual se refiere a cuánto funciona su modelo en general para casos fuera del conjunto de entrenamiento, el valor obtenido ha sido del 0.6035.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The model achieved training accuracy of 0.9602 and validation accuracy of 0.6035. The gap indicates that performance on the training data does not carry over to different images.",
+      "es": "El modelo alcanzó una exactitud de entrenamiento de 0,9602 y una exactitud de validación de 0,6035. La diferencia entre ambas indica que el resultado sobre los datos de entrenamiento no se mantiene al evaluar imágenes distintas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sin embargo, si calculamos la precisión del modelo con el dataset utilizado para el testeo, veremos que el accuracy es bastante bajo, del 0,1733, lo que implica tener mucho margen de mejora este modelo.",
-      "en": "However, if we calculate the precision of the model with the dataset used for testing, we will see that the accuracy is quite low, 0.1733, which implies there is a lot of room for improvement in this model.",
-      "es": "Sin embargo, si calculamos la precisión del modelo con el dataset utilizado para el testeo, veremos que el accuracy es bastante bajo, del 0,1733, lo que implica tener mucho margen de mejora este modelo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "On the test set, accuracy was 0.1733. This is a low result and calls for reviewing data preparation, evaluation and the model before considering a practical application.",
+      "es": "En el conjunto de prueba, la exactitud fue de 0,1733. Este resultado es bajo y exige revisar la preparación de los datos, la evaluación y el modelo antes de plantear una aplicación práctica.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una vez tuviésemos el modelo listo, había que predecir y probarlo. Para ello, se codificó de forma que nos indicase aquellas emociones que se podían considerar en la expresión facial de la imagen introducida, y según el porcentaje, concluir con el sentimiento más significativo. Por ejemplo:",
       "en": "Once we had the model ready, we had to predict and test it. To do this, it was coded in a way that indicated those emotions that could be considered in the facial expression of the entered image, and according to the percentage, concluded with the most significant feeling. For example:",
       "es": "Una vez tuviésemos el modelo listo, había que predecir y probarlo. Para ello, se codificó de forma que nos indicase aquellas emociones que se podían considerar en la expresión facial de la imagen introducida, y según el porcentaje, concluir con el sentimiento más significativo. Por ejemplo:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Imagen a predecir",
       "en": "Image to predict",
       "es": "Imagen a predecir",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Introducimos esta primera imagen, donde es evidente que el chico está mostrando cierto enfado. De esta forma, nuestro modelo lo ha clasificado de la siguiente manera:",
       "en": "We introduce this first image, where it is evident that the boy is showing some anger. In this way, our model has classified it as follows:",
       "es": "Introducimos esta primera imagen, donde es evidente que el chico está mostrando cierto enfado. De esta forma, nuestro modelo lo ha clasificado de la siguiente manera:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Recalcando que el enfado es el sentimiento que predomina en la imagen. Si utilizamos nuestro modelo, con el fin de detectar alguna otra emoción, veremos que también funciona.",
       "en": "Emphasizing that anger is the feeling that predominates in the image. If we use our model, in order to detect some other emotion, we will see that it also works.",
       "es": "Recalcando que el enfado es el sentimiento que predomina en la imagen. Si utilizamos nuestro modelo, con el fin de detectar alguna otra emoción, veremos que también funciona.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Imagen predecida",
       "en": "Predicted image",
       "es": "Imagen predecida",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tal y como se mencionara en las conclusiones, la intención era incorporar la detección de caras mediante las webcam y así, poder detectar las emociones de una forma más real.",
       "en": "As mentioned in the conclusions, the intention was to incorporate face detection through webcams and thus be able to detect emotions in a more real way.",
       "es": "Tal y como se mencionara en las conclusiones, la intención era incorporar la detección de caras mediante las webcam y así, poder detectar las emociones de una forma más real.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez finalizado el proyecto, en una reflexión grupal, se comentó lo mucho que se ha aprendido en el desarrollo de este mismo, además de habernos dado cuenta de lo lejos que puede llegar la tecnología, y para ser más precisos la inteligencia artificial.",
       "en": "Once the project was finished, in a group reflection, we commented on how much we had learned in its development, in addition to realizing how far technology can go, and to be more precise, artificial intelligence.",
       "es": "Una vez finalizado el proyecto, en una reflexión grupal, se comentó lo mucho que se ha aprendido en el desarrollo de este mismo, además de habernos dado cuenta de lo lejos que puede llegar la tecnología, y para ser más precisos la inteligencia artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hemos visto que en este ámbito de reconocimiento facial se están dando grandes avances, existen modelos que reconocen rostros incluso llevando la mascarilla puesta, y las aplicaciones de esta tecnología sólo están limitadas por nuestra imaginación. Desde el punto de vista de marketing, recoger el feedback de los usuarios y clientes es un proceso muy importante, pero obtener esta información suele costar, casi nadie nos paramos a rellenar un formulario para decir cómo ha sido nuestra experiencia a menos que haya sido negativa.",
       "en": "We have seen that great advances are being made in this area of facial recognition, there are models that recognize faces even when wearing a mask, and the applications of this technology are only limited by our imagination. From a marketing point of view, collecting feedback from users and customers is a very important process, but obtaining this information is usually costly; almost no one stops to fill out a form to say what our experience has been like unless it was negative.",
       "es": "Hemos visto que en este ámbito de reconocimiento facial se están dando grandes avances, existen modelos que reconocen rostros incluso llevando la mascarilla puesta, y las aplicaciones de esta tecnología sólo están limitadas por nuestra imaginación. Desde el punto de vista de marketing, recoger el feedback de los usuarios y clientes es un proceso muy importante, pero obtener esta información suele costar, casi nadie nos paramos a rellenar un formulario para decir cómo ha sido nuestra experiencia a menos que haya sido negativa.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es por ello que si somos capaces de detectar puntos rojos en la experiencia de los usuarios sin que suponga para ellos un esfuerzo más se podría mejorar el servicio, y gracias a esta tecnología esto sí es posible.",
-      "en": "That is why if we are able to detect red spots in the user experience without requiring them to make any additional effort, the service could be improved, and thanks to this technology this is possible.",
-      "es": "Es por ello que si somos capaces de detectar puntos rojos en la experiencia de los usuarios sin que suponga para ellos un esfuerzo más se podría mejorar el servicio, y gracias a esta tecnología esto sí es posible.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Identifying difficulties in a user experience could help improve a service, but our prototype has not demonstrated that it can measure satisfaction from a face. That goal would require other evaluation methods and participation from users.",
+      "es": "Detectar dificultades en una experiencia de usuario podría ayudar a mejorar un servicio, pero nuestro prototipo no ha demostrado que pueda medir la satisfacción a partir de una cara. Ese objetivo requeriría otros métodos de evaluación y la participación de las personas usuarias.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los próximos pasos que se darán con este proyecto están directamente relacionados con los problemas que se han tenido en la culminación del proyecto. La primera dificultad sufrida por el equipo fue la correspondiente al despliegue en Amazon Web Services, lo que debía facilitar el entrenamiento, hizo que el proyecto quedase parado dada la inexperiencia de los integrantes del equipo con dicha herramienta. Esto ha hecho que el entrenamiento no se pudiese hacer en los servidores de Amazon, lo que ha tardado mucho tiempo y dificulta cualquier modificación y ejecución en el modelo. Es por esto por lo que, próximamente, se intentará realizar dicho despliegue para poder trabajar de una manera más eficiente y eficaz.",
       "en": "The next steps that will be taken with this project are directly related to the problems that have been encountered in the completion of the project. The first difficulty suffered by the team was the one corresponding to the deployment in Amazon Web Services, which was supposed to facilitate training, causing the project to come to a standstill given the inexperience of the team members with said tool. This has meant that training could not be done on Amazon's servers, which has taken a long time and made any modification and execution of the model difficult. This is why, soon, an attempt will be made to carry out this deployment in order to work in a more efficient and effective way.",
       "es": "Los próximos pasos que se darán con este proyecto están directamente relacionados con los problemas que se han tenido en la culminación del proyecto. La primera dificultad sufrida por el equipo fue la correspondiente al despliegue en Amazon Web Services, lo que debía facilitar el entrenamiento, hizo que el proyecto quedase parado dada la inexperiencia de los integrantes del equipo con dicha herramienta. Esto ha hecho que el entrenamiento no se pudiese hacer en los servidores de Amazon, lo que ha tardado mucho tiempo y dificulta cualquier modificación y ejecución en el modelo. Es por esto por lo que, próximamente, se intentará realizar dicho despliegue para poder trabajar de una manera más eficiente y eficaz.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este problema hizo que la desviación sufrida en el tiempo fuese muy elevada, lo que dificultó la culminación de toda la funcionalidad que previmos en primera instancia. Además, esto también estaba directamente relacionado con el pequeño margen que nos quedaba para entrenar el modelo, lo que implica que la eficacia y precisión del modelo no sea la óptima, y aun quede un margen bastante amplio de mejora. Es por esto por lo que se podría, mediante más entrenamientos, obtener un modelo de mayor calidad.",
       "en": "This problem caused the deviation suffered over time to be very high, which made it difficult to complete all the functionality that we anticipated in the first instance. Furthermore, this was also directly related to the small margin we had left to train the model, which implies that the efficiency and precision of the model is not optimal, and there is still a fairly large margin for improvement. This is why, through more training, a higher quality model could be obtained.",
       "es": "Este problema hizo que la desviación sufrida en el tiempo fuese muy elevada, lo que dificultó la culminación de toda la funcionalidad que previmos en primera instancia. Además, esto también estaba directamente relacionado con el pequeño margen que nos quedaba para entrenar el modelo, lo que implica que la eficacia y precisión del modelo no sea la óptima, y aun quede un margen bastante amplio de mejora. Es por esto por lo que se podría, mediante más entrenamientos, obtener un modelo de mayor calidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "No considerábamos tener tantos problemas cuando definimos el proyecto que queríamos realizar, debido a la inexperiencia que teníamos en este ámbito. Una de las funcionalidades que planteamos al principio era la incorporación de una Web Cam que nos permitiera sacar fotos al instante y poder clasificar las emociones de dicha imagen, para poder hacerlo más real. Sin embargo, debido a la falta de tiempo, es un aspecto que no se ha podido desarrollar pero que sería lo primero que realizaríamos en el futuro.",
       "en": "We did not consider having so many problems when we defined the project we wanted to carry out, due to the inexperience we had in this area. One of the functionalities that we proposed at the beginning was the incorporation of a Web Cam that would allow us to take photos instantly and be able to classify the emotions in said image, in order to make it more real. However, due to lack of time, it is an aspect that has not been able to be developed but would be the first thing we would do in the future.",
       "es": "No considerábamos tener tantos problemas cuando definimos el proyecto que queríamos realizar, debido a la inexperiencia que teníamos en este ámbito. Una de las funcionalidades que planteamos al principio era la incorporación de una Web Cam que nos permitiera sacar fotos al instante y poder clasificar las emociones de dicha imagen, para poder hacerlo más real. Sin embargo, debido a la falta de tiempo, es un aspecto que no se ha podido desarrollar pero que sería lo primero que realizaríamos en el futuro.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sería muy útil integrar nuestro modelo con webcams en las entradas/salidas de todos aquellos lugares que quieran valorar la satisfacción o experiencia del cliente en dicho lugar. Por ejemplo, restaurantes, tiendas, conferencias, etc.",
-      "en": "It would be very useful to integrate our model with webcams at the entrances/exits of all those places that want to assess customer satisfaction or experience in said place. For example, restaurants, shops, conferences, etc.",
-      "es": "Sería muy útil integrar nuestro modelo con webcams en las entradas/salidas de todos aquellos lugares que quieran valorar la satisfacción o experiencia del cliente en dicho lugar. Por ejemplo, restaurantes, tiendas, conferencias, etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "One possible technical direction would be to study webcam integration in controlled settings with participants who have explicitly agreed. That possibility should not be confused with validation of customer-satisfaction monitoring.",
+      "es": "Una posible línea técnica sería estudiar la integración con webcams en entornos controlados y con participantes que hayan aceptado expresamente. No debe confundirse esa posibilidad con una validación del seguimiento de la satisfacción de clientes.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además, en el futuro sería genial programar que la aplicación fuese capaz de reconocer una imagen tomada en la salida de un lugar con aquella imagen tomada en la entrada a la misma persona. Eso haría que se pudiese comparar eficientemente los resultados de todos los usuarios, y sería un paso adelante enorme ya que dotaríamos a la empresa/institución que lo utilice de inteligencia empresarial. Si a eso le sumásemos una serie de gráficos que visualicen los resultados en una especie de dashboard, podría ayudar a los directivos a tomar diversas decisiones en base a la satisfacción del cliente.",
       "en": "Furthermore, in the future it would be great to program the application to be able to recognize an image taken at the exit of a place with that image taken at the entrance of the same person. This would make it possible to efficiently compare the results of all users, and it would be a huge step forward since we would provide the company/institution that uses it with business intelligence. If we added to that a series of graphs that display the results in a kind of dashboard, it could help managers make various decisions based on customer satisfaction.",
       "es": "Además, en el futuro sería genial programar que la aplicación fuese capaz de reconocer una imagen tomada en la salida de un lugar con aquella imagen tomada en la entrada a la misma persona. Eso haría que se pudiese comparar eficientemente los resultados de todos los usuarios, y sería un paso adelante enorme ya que dotaríamos a la empresa/institución que lo utilice de inteligencia empresarial. Si a eso le sumásemos una serie de gráficos que visualicen los resultados en una especie de dashboard, podría ayudar a los directivos a tomar diversas decisiones en base a la satisfacción del cliente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Paul Hernandez Guridi",
       "en": "Paul Hernandez Guridi",
       "es": "Paul Hernandez Guridi",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Iñaki Segurola Olaizola",
       "en": "Iñaki Segurola Olaizola",
       "es": "Iñaki Segurola Olaizola",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nerea Solabarrieta Saizar",
       "en": "Nerea Solabarrieta Saizar",
       "es": "Nerea Solabarrieta Saizar",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Jon Zabaleta Peña",
       "en": "Jon Zabaleta Peña",
       "es": "Jon Zabaleta Peña",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

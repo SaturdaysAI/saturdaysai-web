@@ -13,7 +13,7 @@ kind: section
 ##   
 AI4All is AI4Good
 
-**Learn** Artificial Intelligence; **Build** social impact projects; **together** with passionate people like you.
+Learn artificial intelligence and build projects with social impact alongside people who share your curiosity.
 
 [START LEARNING AI](https://saturdays.ai/online/)
 
@@ -69,7 +69,7 @@ You can use AI to solve social problems, such as climate change, education, dise
 
 ![](/media/1db206ffccc63da9.webp)
 
-We connect individuals and organizations through communities to create social impact. Our flagship programme, **AI Saturdays,**  is suitable for anyone that wants to start in AI, learning by doing AI projects with social impact in their community. 
+AI Saturdays combines practical learning, mentor support and team projects with social impact in mind. Each community confirms its edition’s prerequisites.
 
 We also have many online courses to get you started in AI, in addition to news, scientific papers, tutorials and code to deep dive in any part of the Artificial Intelligence stack.
 
@@ -105,15 +105,15 @@ Participating in Saturdays, as a student, mentor, volunteer or staff, have helpe
 
 Our participants come from all walks of life, developers, researchers, entrepreneurs, product managers, students…
 
-[Reproducir](/media/d1018e6e89eae0c2.webp)
+[Ver imagen de la comunidad](/media/d1018e6e89eae0c2.webp)
 
-[Reproducir](/media/9e5aa4d8f16d4143.webp)
+[Ver imagen de la comunidad](/media/9e5aa4d8f16d4143.webp)
 
-[Reproducir](/media/1968ee09e32aba1b.webp)
+[Ver imagen de la comunidad](/media/1968ee09e32aba1b.webp)
 
-[Reproducir](/media/da2f1376880816f4.webp)
+[Ver imagen de la comunidad](/media/da2f1376880816f4.webp)
 
-[Reproducir](/media/8c5a66b831f7dfd6.webp)
+[Ver imagen de la comunidad](/media/8c5a66b831f7dfd6.webp)
 
 [MORE STORIES](https://saturdays.ai/testimonios/)
 

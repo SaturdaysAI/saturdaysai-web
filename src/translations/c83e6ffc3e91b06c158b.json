@@ -6,23 +6,33 @@
       "source": "AI Saturdays Mallorca",
       "en": "AI Saturdays Mallorca",
       "es": "AI Saturdays Mallorca",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mallorca.",
       "en": "Mallorca.",
       "es": "Mallorca.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Mallorca.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Mallorca.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Mallorca.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -35,6 +45,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -52,6 +67,28 @@
       "reviewed": false,
       "translationVersion": 2,
       "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Connect with the Mallorca community",
+      "en": "Connect with the Mallorca community",
+      "es": "Conecta con la comunidad de Mallorca",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "To find out about upcoming activities in Mallorca, contact the Saturdays.AI team. We can help you connect with the local community and explore ways to take part.",
+      "en": "To find out about upcoming activities in Mallorca, contact the Saturdays.AI team. We can help you connect with the local community and explore ways to take part.",
+      "es": "Para conocer las próximas actividades en Mallorca, contacta con el equipo de Saturdays.AI. Te orientaremos sobre la comunidad local y las opciones para participar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

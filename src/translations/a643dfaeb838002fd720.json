@@ -4,162 +4,267 @@
   "segments": [
     {
       "source": "Temario:",
-      "en": "Agenda:",
+      "en": "Curriculum:",
       "es": "Temario:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Fernando Silva 🇧🇴",
       "en": "Fernando Silva 🇧🇴",
       "es": "Fernando Silva 🇧🇴",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Adriana Romero Soriano 🇪🇸",
       "en": "Adriana Romero Soriano 🇪🇸",
       "es": "Adriana Romero Soriano 🇪🇸",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Rodrigo Beceiro 🇺🇾",
       "en": "Rodrigo Beceiro 🇺🇾",
       "es": "Rodrigo Beceiro 🇺🇾",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Evelin Fonseca Cruz 🇨🇺",
       "en": "Evelin Fonseca Cruz 🇨🇺",
       "es": "Evelin Fonseca Cruz 🇨🇺",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Henry Ruiz 🇨🇴",
       "en": "Henry Ruiz 🇨🇴",
       "es": "Henry Ruiz 🇨🇴",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mercè Vintró Ricart 🇪🇸",
       "en": "Mercè Vintró Ricart 🇪🇸",
       "es": "Mercè Vintró Ricart 🇪🇸",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Danna Calle",
       "en": "Danna Calle",
       "es": "Danna Calle",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Felipe San Martín",
-      "en": "Felipe San Martin",
+      "en": "Felipe San Martín",
       "es": "Felipe San Martín",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sofía Trejo 🇲🇽",
-      "en": "Sofia Trejo 🇲🇽",
+      "en": "Sofía Trejo 🇲🇽",
       "es": "Sofía Trejo 🇲🇽",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¡Inscríbete ahora mismo!",
-      "en": "Sign up right now!",
-      "es": "¡Inscríbete ahora mismo!",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Original edition announcement",
+      "es": "Convocatoria de la edición original",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¡Cupos llenos!",
-      "en": "Seats full!",
-      "es": "¡Cupos llenos!",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "The original edition was fully booked",
+      "es": "La edición original completó sus plazas",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AI Saturdays La Paz Deep Learning",
       "en": "AI Saturdays La Paz Deep Learning",
       "es": "AI Saturdays La Paz Aprendizaje Profundo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿El programa es sólo para la ciudad de La Paz?",
       "en": "Is the program only for the city of La Paz?",
       "es": "¿El programa es sólo para la ciudad de La Paz?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nuestros",
-      "en": "Our",
-      "es": "Nuestros",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Our community",
+      "es": "Nuestra comunidad",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Aprende Inteligencia Artificial junto a nosotros!",
       "en": "Learn Artificial Intelligence with us!",
       "es": "Aprende Inteligencia Artificial junto a nosotros!",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": Agostoo",
-      "en": ": August",
-      "es": ": Agostoo",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ": August, according to the original announcement (year not specified)",
+      "es": ": agosto, según el anuncio original (sin año indicado)",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": Online",
-      "en": ":Online",
-      "es": ": Online",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ": online",
+      "es": ": en línea",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": Deep Learning 2º edición",
-      "en": ": Deep Learning 2nd edition",
-      "es": ": Deep Learning 2º edición",
-      "reviewed": false,
+      "en": ": second deep learning edition (archive)",
+      "es": ": segunda edición de deep learning (archivo)",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Lista de espera para la segunda edición",
-      "en": "Waiting list for the second edition",
-      "es": "Lista de espera para la segunda edición",
-      "reviewed": false,
+      "en": "Original announcement for the second edition",
+      "es": "Convocatoria original de la segunda edición",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Lead Saturdays AI La Paz",
-      "en": "Lead Saturdays AI La Paz",
-      "es": "Lead Saturdays AI La Paz",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "AI Saturdays La Paz lead",
+      "es": "Coordinador de AI Saturdays La Paz",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Machine Learning, Deep Learning, Data Science",
       "en": "Machine Learning, Deep Learning, Data Science",
       "es": "Aprendizaje automático, aprendizaje profundo, ciencia de datos",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -172,20 +277,30 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Machine Learning Engineer",
-      "en": "Machine Learning Engineer",
-      "es": "Machine Learning Engineer",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Machine learning engineering",
+      "es": "Ingeniería de machine learning",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Machine Learning Engineer with more than 15 years of experience in the Software Industry. She started her career as a teacher in University of Havana. She has also worked as Senior Software Developer and AI Developer. Now, she is pursuing her second Master Degree in Machine Learning at MILA.",
-      "en": "Machine Learning Engineer with more than 15 years of experience in the Software Industry. She started her career as a teacher in University of Havana. She has also worked as Senior Software Developer and AI Developer. Now, she is pursuing her second Master Degree in Machine Learning at MILA.",
-      "es": "Ingeniero en Machine Learning con más de 15 años de experiencia en la Industria del Software. Inició su carrera como docente en la Universidad de La Habana. También ha trabajado como desarrolladora senior de software y desarrolladora de inteligencia artificial. Ahora está cursando su segunda Maestría en Aprendizaje Automático en MILA.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Evelin is a machine learning engineer with more than 15 years of experience in the software industry. She began her career teaching at the University of Havana and has also worked as a senior software developer and AI developer. At the time of this edition, she was pursuing her second master’s degree, in machine learning, at Mila.",
+      "es": "Biografía de la edición original: Evelin es ingeniera de machine learning con más de 15 años de experiencia en la industria del software. Comenzó como docente en la Universidad de La Habana y también ha trabajado como desarrolladora sénior de software y de IA. En esta edición cursaba su segunda maestría, dedicada al aprendizaje automático, en Mila.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -198,36 +313,61 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Ph.D. Student at Texas A&M University",
-      "en": "Ph.D. Student at Texas A&M University",
-      "es": "Ph.D. Student at Texas A&M University",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "PhD student at Texas A&M University at the time of this edition",
+      "es": "Doctorando en Texas A&M University en esta edición",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Google Developer Expert(GDE) en Machine Learning, Ingeniero en ciencias de la computación y máster en Inteligencia artificial de la Universidad Autónoma de Baja California. Actualmente trabajando como investigador asociado y realizando su doctorado en la Universidad de Texas A&M. Desarrollador de software con más de 10 años de experiencia y apasionado por los proyectos open-source. En los últimos 3 años su investigación se ha enfocado a resolver problemas en el campo de la agricultura usando Machine Learning y Deep Learning. Su investigación de postgrado se ha centrado en el uso de herramientas de geofísica (Ground Penetrating Radar), simulación matemática, electromagnetismo, procesamiento de señales y Machine Learning.",
-      "en": "Google Developer Expert (GDE) in Machine Learning, Computer Science Engineer and Master in Artificial Intelligence from the Autonomous University of Baja California. Currently working as a research associate and pursuing his doctorate at Texas A&M University. Software developer with more than 10 years of experience and passionate about open-source projects. In the last 3 years his research has focused on solving problems in the field of agriculture using Machine Learning and Deep Learning. His postgraduate research has focused on the use of geophysics tools (Ground Penetrating Radar), mathematical simulation, electromagnetism, signal processing and Machine Learning.",
-      "es": "Google Developer Expert(GDE) en Machine Learning, Ingeniero en ciencias de la computación y máster en Inteligencia artificial de la Universidad Autónoma de Baja California. Actualmente trabajando como investigador asociado y realizando su doctorado en la Universidad de Texas A&M. Desarrollador de software con más de 10 años de experiencia y apasionado por los proyectos open-source. En los últimos 3 años su investigación se ha enfocado a resolver problemas en el campo de la agricultura usando Machine Learning y Deep Learning. Su investigación de postgrado se ha centrado en el uso de herramientas de geofísica (Ground Penetrating Radar), simulación matemática, electromagnetismo, procesamiento de señales y Machine Learning.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Henry is a Google Developer Expert (GDE) in Machine Learning, a computer science engineer and a master’s graduate in Artificial Intelligence from the Universidad Autónoma de Baja California. At the time of this edition, he was a research associate and PhD student at Texas A&M University. He had more than ten years of software development experience and a strong interest in open-source projects. Over the preceding three years, his research had explored machine learning and deep learning applications in agriculture. His postgraduate research combined geophysical tools such as ground-penetrating radar with mathematical simulation, electromagnetism, signal processing and machine learning.",
+      "es": "Biografía de la edición original: Henry es Google Developer Expert (GDE) en Machine Learning, ingeniero en Ciencias de la Computación y máster en Inteligencia Artificial por la Universidad Autónoma de Baja California. En esta edición trabajaba como investigador asociado y cursaba su doctorado en Texas A&M University. Contaba con más de diez años de experiencia en desarrollo de software y un gran interés por el código abierto. En los tres años anteriores había investigado aplicaciones de machine learning y deep learning a la agricultura. Su investigación de posgrado combinaba herramientas geofísicas, como el georradar, con simulación matemática, electromagnetismo, procesamiento de señales y aprendizaje automático.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "NLP Data Scientist",
-      "en": "NLP Data Scientist",
-      "es": "NLP Data Scientist",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "NLP data scientist",
+      "es": "Científica de datos especializada en NLP",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Mercè es una lingüista computacional sénior en el equipo de I&D de Data Science en Shell. Es graduada en Traducción e Interpretación por la Universidad Pompeu Fabra (Barcelona) y tiene un máster en Procesamiento del Habla y del Lenguaje por la Universidad de Edimburgo. Antes de unirse a Shell, Mercè trabajó en la comunidad de startups de Londres como ingeniera de I&D especializada en el Procesamiento del Lenguaje Natural (NLP) y se centró en solucionar problemas de la vida real relacionados con el lenguaje humano. Desde que se unió a Shell en 2018 Mercè ha encabezado el desarrollo de las capabilidades de NLP en el Centro de Excelencia Digital de Shell. También ha contribuido en varios proyectos centrados alrededor de Machine Learning y Deep Learning para NLP. En su tiempo libre le gusta viajar, montar a caballo y tocar el piano.",
-      "en": "Mercè is a Senior Computational Linguist in the Data Science R&D team at Shell. She graduated in Translation and Interpreting from the Pompeu Fabra University (Barcelona) and has a master's degree in Speech and Language Processing from the University of Edinburgh. Before joining Shell, Mercè worked in the London startup community as an R&D engineer specializing in Natural Language Processing (NLP), focusing on solving real-life problems related to human language. Since joining Shell in 2018 Mercè has led the development of NLP capabilities in Shell's Digital Center of Excellence. He has also contributed to several projects centered around Machine Learning and Deep Learning for NLP. In his free time he enjoys traveling, horseback riding and playing the piano.",
-      "es": "Mercè es una lingüista computacional sénior en el equipo de I&D de Data Science en Shell. Es graduada en Traducción e Interpretación por la Universidad Pompeu Fabra (Barcelona) y tiene un máster en Procesamiento del Habla y del Lenguaje por la Universidad de Edimburgo. Antes de unirse a Shell, Mercè trabajó en la comunidad de startups de Londres como ingeniera de I&D especializada en el Procesamiento del Lenguaje Natural (NLP) y se centró en solucionar problemas de la vida real relacionados con el lenguaje humano. Desde que se unió a Shell en 2018 Mercè ha encabezado el desarrollo de las capabilidades de NLP en el Centro de Excelencia Digital de Shell. También ha contribuido en varios proyectos centrados alrededor de Machine Learning y Deep Learning para NLP. En su tiempo libre le gusta viajar, montar a caballo y tocar el piano.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Biography from the original edition: Mercè was a senior computational linguist in Shell’s Data Science R&D team. She holds a degree in Translation and Interpreting from Universitat Pompeu Fabra and a master’s in Speech and Language Processing from the University of Edinburgh. Before joining Shell, she worked as an R&D engineer in London startups, applying natural language processing (NLP) to real-world problems. She joined Shell in 2018 and led the development of NLP capabilities at its Digital Centre of Excellence. She also contributed to machine learning and deep learning projects for NLP. In her free time, she enjoys travelling, riding horses and playing the piano.",
+      "es": "Biografía de la edición original: Mercè era lingüista computacional sénior en el equipo de I+D de ciencia de datos de Shell. Es graduada en Traducción e Interpretación por la Universitat Pompeu Fabra y tiene un máster en Procesamiento del Habla y del Lenguaje por la Universidad de Edimburgo. Antes de incorporarse a Shell, trabajó como ingeniera de I+D en startups de Londres, aplicando procesamiento del lenguaje natural (NLP) a problemas reales. Se incorporó a Shell en 2018 y lideró el desarrollo de capacidades de NLP en su Centro de Excelencia Digital. También contribuyó a proyectos de machine learning y deep learning para NLP. En su tiempo libre disfruta viajando, montando a caballo y tocando el piano.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "F****ernandez 🇧🇴",
@@ -238,16 +378,21 @@
     },
     {
       "source": "Agile Methodologies, UX/VR",
-      "en": "Agile Methodologies, UX/VR",
-      "es": "Agile Methodologies, UX/VR",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Agile methods, user experience and virtual reality",
+      "es": "Metodologías ágiles, experiencia de usuario y realidad virtual",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Active volunteer lifestyle for more than 7 years in differents non profit organizations. She has been selected as 1 to 140 social entrepreneurs people around the word for participate of the program Global Entrepreneur summer school in Mexico, and the next year she got an scholarship for participate in the High Impact entrepreneurship Program in New York. She won in both programs the first place with two social tech projects for farmers and child with TDH. Actually she is founder and co founder of aurorasoft, qhali, iris360grados and human design group. Graduated of Commercial Engineering, Minor of brand creation at Catholic University and studying a digital business master. She likes to share her experiences and knowledge giving talks about topics of agile, tech, management,social entrepreneurship and gender. She is proactive and worry to solve problems of her community as she demonstrated participated in many contexts of startup weekends, hackathons, and won five times the first place on them. she believes the key is work with a multidisciplinary teams and see in perspective, for truly understand with empathy the segment of people as a human first.",
-      "en": "Active volunteer lifestyle for more than 7 years in differents non profit organizations. She has been selected as 1 to 140 social entrepreneurs people around the word for participate of the program Global Entrepreneur summer school in Mexico, and the next year she got an scholarship for participate in the High Impact entrepreneurship Program in New York. She won in both programs the first place with two social tech projects for farmers and child with TDH. Actually she is founder and co founder of aurorasoft, qhali, iris360grados and human design group. Graduated of Commercial Engineering, Minor of brand creation at Catholic University and studying a digital business master. She likes to share her experiences and knowledge giving talks about topics of agile, tech, management,social entrepreneurship and gender. She is proactive and worry to solve problems of her community as she demonstrated participated in many contexts of startup weekends, hackathons, and won five times the first place on them. she believes the key is work with a multidisciplinary teams and see in perspective, for truly understand with empathy the segment of people as a human first.",
-      "es": "Vida voluntaria activa durante más de 7 años en diferentes organizaciones sin fines de lucro. Ha sido seleccionada como 1 entre 140 emprendedores sociales de todo el mundo para participar del programa Global Entrepreneur summer school en México, y al año siguiente obtuvo una beca para participar en el Programa de emprendimiento de Alto Impacto en Nueva York. En ambos programas ganó el primer lugar con dos proyectos de tecnología social para agricultores y niños con TDH. Actualmente es fundadora y cofundadora de aurorasoft, qhali, iris360grados y human design group. Egresada de Ingeniería Comercial, Mención de creación de marca en la Universidad Católica y cursando una maestría en negocios digitales. Le gusta compartir sus experiencias y conocimientos dando charlas sobre temas de agilidad, tecnología, gestión, emprendimiento social y género. Es proactiva y se preocupa por resolver los problemas de su comunidad, como demostró participó en muchos contextos de fines de semana de startups, hackathons y ganó cinco veces el primer lugar en ellos. Ella cree que la clave es trabajar con equipos multidisciplinarios y ver en perspectiva, para comprender verdaderamente con empatía al segmento de las personas como ser humano primero.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Danna had volunteered with non-profit organisations for more than seven years. She was one of 140 people selected for the Global Entrepreneurship Summer School in Mexico and received a scholarship for a high-impact entrepreneurship programme in New York the following year. Her biography reports first prizes in both programmes for social technology projects supporting farmers and children with attention difficulties. She is the founder or co-founder of Aurorasoft, Qhali, Iris360grados and Human Design Group. She graduated in Commercial Engineering, with a minor in brand creation at the Universidad Católica, and was pursuing a master’s in digital business at the time of this edition. She shares her experience through talks on agile methods, technology, management, social entrepreneurship and gender. Her biography records five first prizes at startup weekends and hackathons. She believes in multidisciplinary teamwork and understanding people with empathy before designing solutions.",
+      "es": "Biografía de la edición original: Danna llevaba más de siete años como voluntaria en organizaciones sin fines de lucro. Fue una de las 140 personas seleccionadas para participar en la Global Entrepreneurship Summer School en México y, al año siguiente, obtuvo una beca para un programa de emprendimiento de alto impacto en Nueva York. Según su biografía, ganó el primer premio en ambos programas con proyectos de tecnología social para agricultores y para niños con dificultades de atención. Es fundadora o cofundadora de Aurorasoft, Qhali, Iris360grados y Human Design Group. Se graduó en Ingeniería Comercial, con una mención en creación de marcas en la Universidad Católica, y en esta edición cursaba una maestría en negocios digitales. Comparte su experiencia en charlas sobre metodologías ágiles, tecnología, gestión, emprendimiento social y género. Ha participado en startup weekends y hackathons, con cinco primeros premios recogidos en su biografía. Cree en el trabajo multidisciplinar y en comprender con empatía a las personas antes de diseñar soluciones.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -260,82 +405,137 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Vásquez 🇨🇱",
-      "en": "Vasquez 🇨🇱",
+      "en": "Vásquez 🇨🇱",
       "es": "Vásquez 🇨🇱",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Computer Vision Engineer",
-      "en": "Computer Vision Engineer",
-      "es": "Computer Vision Engineer",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Computer vision engineering",
+      "es": "Ingeniería de visión artificial",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Felipe es Ingeniero Civil Eléctrico y Master en Ingeniería Eléctrica de la Universidad de Chile. Trabajó durante más de 4 años en proyectos de I+D en temas de Computer Vision (CV), desarrollando soluciones para la industria desde la academia. Además, ha sido parte del equipo docente del curso de robótica móvil Duckietown Engineering Chile en la Universidad de Chile, enfocándose especialmente en el área de CV y Machine Learning. Felipe actualmente es presidente de Corporación Cuac, organización sin fines de lucro que busca enseñar y realizar divulgación científica sobre temas de Robótica, Inteligencia Artificial y Ciencia de Datos, con el fin de democratizar dicho conocimiento. Actualmente se desempeña como Computer Vision Engineer para TOC Biometrics.",
-      "en": "Felipe is a Civil Electrical Engineer and has a Master in Electrical Engineering from the University of Chile. He worked for more than 4 years on R&D projects on Computer Vision (CV) issues, developing solutions for the industry from academia. Additionally, he has been part of the teaching team for the Duckietown Engineering Chile mobile robotics course at the University of Chile, focusing especially on the area of ​​CV and Machine Learning. Felipe is currently president of Corporación Cuac, a non-profit organization that seeks to teach and carry out scientific dissemination on topics of Robotics, Artificial Intelligence and Data Science, in order to democratize said knowledge. He currently works as a Computer Vision Engineer for TOC Biometrics.",
-      "es": "Felipe es Ingeniero Civil Eléctrico y Master en Ingeniería Eléctrica de la Universidad de Chile. Trabajó durante más de 4 años en proyectos de I+D en temas de Computer Vision (CV), desarrollando soluciones para la industria desde la academia. Además, ha sido parte del equipo docente del curso de robótica móvil Duckietown Engineering Chile en la Universidad de Chile, enfocándose especialmente en el área de CV y Machine Learning. Felipe actualmente es presidente de Corporación Cuac, organización sin fines de lucro que busca enseñar y realizar divulgación científica sobre temas de Robótica, Inteligencia Artificial y Ciencia de Datos, con el fin de democratizar dicho conocimiento. Actualmente se desempeña como Computer Vision Engineer para TOC Biometrics.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Felipe holds an engineering degree and a master’s in Electrical Engineering from the Universidad de Chile. He spent more than four years on computer vision R&D projects, developing industry applications in an academic setting. He also taught on Duckietown Engineering Chile, a mobile robotics course at the Universidad de Chile, focusing on computer vision and machine learning. At the time of this edition, he was president of Corporación Cuac, a non-profit organisation teaching and sharing knowledge about robotics, AI and data science, and a computer vision engineer at TOC Biometrics.",
+      "es": "Biografía de la edición original: Felipe es ingeniero civil eléctrico y máster en Ingeniería Eléctrica por la Universidad de Chile. Trabajó más de cuatro años en proyectos de I+D en visión artificial, desarrollando soluciones para la industria desde la universidad. También formó parte del equipo docente de Duckietown Engineering Chile, un curso de robótica móvil de la Universidad de Chile, centrado en visión artificial y machine learning. En esta edición era presidente de Corporación Cuac, una organización sin fines de lucro dedicada a la enseñanza y divulgación de robótica, IA y ciencia de datos, y trabajaba como ingeniero de visión artificial en TOC Biometrics.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ética de la Inteligencia Artificial, Matemáticas Teóricas, Sistemas Dinámicos",
       "en": "Ethics of Artificial Intelligence, Theoretical Mathematics, Dynamic Systems",
       "es": "Ética de la Inteligencia Artificial, Matemáticas Teóricas, Sistemas Dinámicos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sofía nació y creció en la Ciudad de México. Estudió Matemáticas en la Universidad Nacional Autónoma de México (UNAM) y es Doctora en Matemáticas por la Universidad de Warwick (Reino Unido). Ha trabajado como investigadora en la Universidad de São Paulo (Brasil) y en Imperial College London (Reino Unido). Actualmente, desarrolla proyectos relacionados con la Ética de la Inteligencia Artificial (IA). Fue la líder de investigación del Grupo de Ética de la Agenda Nacional de Inteligencia Artificial para México; trabajó con la Alianza en Inteligencia Artificial del Consejo Nacional de Ciencia y Tecnología (Conacyt) de México; y forma parte del proyecto ‘Learning Community’ del Instituto de Ética de la Inteligencia Artificial de Montreal (Canadá). Ha organizado e impartido seminarios especializados en Ética de la IA en las principales universidades de México y ha colaborado en la elaboración de reportes internacionales sobre IA. Está interesada en estudiar las intersecciones entre la IA, los derechos humanos y el género y en promover el entendimiento público de la tecnología.",
-      "en": "Sofia was born and raised in Mexico City. She studied Mathematics at the National Autonomous University of Mexico (UNAM) and has a PhD in Mathematics from the University of Warwick (United Kingdom). She has worked as a researcher at the University of São Paulo (Brazil) and at Imperial College London (United Kingdom). Currently, he develops projects related to the Ethics of Artificial Intelligence (AI). She was the research leader of the Ethics Group of the National Artificial Intelligence Agenda for Mexico; worked with the Artificial Intelligence Alliance of the National Council of Science and Technology (Conacyt) of Mexico; and is part of the 'Learning Community' project of the Institute of Ethics of Artificial Intelligence of Montreal (Canada). He has organized and taught specialized seminars on AI Ethics at the main universities in Mexico and has collaborated in the preparation of international reports on AI. She is interested in studying the intersections between AI, human rights and gender and promoting public understanding of the technology.",
-      "es": "Sofía nació y creció en la Ciudad de México. Estudió Matemáticas en la Universidad Nacional Autónoma de México (UNAM) y es Doctora en Matemáticas por la Universidad de Warwick (Reino Unido). Ha trabajado como investigadora en la Universidad de São Paulo (Brasil) y en Imperial College London (Reino Unido). Actualmente, desarrolla proyectos relacionados con la Ética de la Inteligencia Artificial (IA). Fue la líder de investigación del Grupo de Ética de la Agenda Nacional de Inteligencia Artificial para México; trabajó con la Alianza en Inteligencia Artificial del Consejo Nacional de Ciencia y Tecnología (Conacyt) de México; y forma parte del proyecto ‘Learning Community’ del Instituto de Ética de la Inteligencia Artificial de Montreal (Canadá). Ha organizado e impartido seminarios especializados en Ética de la IA en las principales universidades de México y ha colaborado en la elaboración de reportes internacionales sobre IA. Está interesada en estudiar las intersecciones entre la IA, los derechos humanos y el género y en promover el entendimiento público de la tecnología.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Sofía was born and raised in Mexico City. She studied Mathematics at UNAM and received her PhD in Mathematics from the University of Warwick. She has conducted research at the University of São Paulo and Imperial College London. Her work addresses AI ethics. She led research for the Ethics Group of Mexico’s National Artificial Intelligence Agenda, worked with Conacyt’s Artificial Intelligence Alliance and participated in the Montreal AI Ethics Institute’s Learning Community project. She has organised and taught specialist seminars at Mexican universities and contributed to international AI reports. Her interests include the relationships between AI, human rights and gender, and improving public understanding of technology.",
+      "es": "Biografía de la edición original: Sofía nació y creció en la Ciudad de México. Estudió Matemáticas en la UNAM y se doctoró en Matemáticas en la Universidad de Warwick. Ha investigado en la Universidad de São Paulo y en Imperial College London. Su trabajo aborda la ética de la IA. Lideró la investigación del Grupo de Ética de la Agenda Nacional de Inteligencia Artificial para México, colaboró con la Alianza en Inteligencia Artificial del Conacyt y participó en el proyecto Learning Community del Montreal AI Ethics Institute. Ha organizado e impartido seminarios especializados en universidades mexicanas y colaborado en informes internacionales sobre IA. Le interesan las relaciones entre IA, derechos humanos y género, así como promover la comprensión pública de la tecnología.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Inscripciones del 27 de abril al 25 de mayo",
-      "en": "Registration from April 27 to May 25",
-      "es": "Inscripciones del 27 de abril al 25 de mayo",
-      "reviewed": false,
+      "en": "Original registration period: 27 April to 25 May",
+      "es": "Inscripción de la edición original: del 27 de abril al 25 de mayo",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Duración del curso: 27 de mayo – 03 de julio",
-      "en": "Course duration: May 27 – July 3",
-      "es": "Duración del curso: 27 de mayo – 03 de julio",
-      "reviewed": false,
+      "en": "Original course dates: 27 May to 3 July",
+      "es": "Fechas del curso original: del 27 de mayo al 3 de julio",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Martes, Jueves y Sábado",
       "en": "Tuesday, Thursday and Saturday",
       "es": "Martes, Jueves y Sábado",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Modalidad: Online",
-      "en": "Modality: Online",
-      "es": "Modalidad: Online",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Format: online",
+      "es": "Modalidad: en línea",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Horario: Martes (21:00 – 22:00), Jueves (19:00 – 22:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
       "en": "Schedule: Tuesday (21:00 – 22:00), Thursday (19:00 – 22:00), Saturday (09:00 – 12:00) UTC – 4 (Bolivian time)",
       "es": "Horario: Martes (21:00 – 22:00), Jueves (19:00 – 22:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "120 USD / Bs. 840",
@@ -346,19 +546,29 @@
     },
     {
       "source": "Avísame cuando inicie inscripciones de la 2º edición",
-      "en": "Notify me when registration for the 2nd edition begins",
-      "es": "Avísame cuando inicie inscripciones de la 2º edición",
-      "reviewed": false,
+      "en": "Ask about upcoming editions",
+      "es": "Consulta las próximas ediciones",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Descarga nuestro folleto para información más detallada de nuestro programa de Deep Learning.",
       "en": "Download our brochure for more detailed information about our Deep Learning program.",
       "es": "Descarga nuestro folleto para información más detallada de nuestro programa de Deep Learning.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Saturdays.AILa Paz Aprende Inteligencia Artificial junto a nosotros! Cuando: AgostooDonde: OnlinePrograma: Deep Learning 2º edición Lista de espera para la segunda edición Estructura del curso: Code2Learn Durante la primera…",

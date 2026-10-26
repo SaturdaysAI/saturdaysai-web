@@ -56,6 +56,4 @@ Ya sea global o local, apreciamos el apoyo de nuestros socios para que nos ayude
 
 Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
 
-\
-
 ![](/media/178cce5ebd88a719.webp)

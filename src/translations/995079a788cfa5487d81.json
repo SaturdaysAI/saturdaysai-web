@@ -4,16 +4,26 @@
   "segments": [
     {
       "source": "Herramienta para el control del TIE (Trastorno de Inestabilidad Emocional)",
-      "en": "Tool to control EID (Emotional Instability Disorder)",
-      "es": "Herramienta para el control del TIE (Trastorno de Inestabilidad Emocional)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Facial-expression classification prototype",
+      "es": "Prototipo de clasificación de expresiones faciales",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "5 min de lectura",
       "en": "5 min reading",
       "es": "5 min de lectura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Paz. Deep Learning. 2021 INTRODUCCIÓN Uno de los problemas que la mayoría de los jóvenes padece hoy en día son los distintos trastornos mentales que existen, dentro de estos se encuentra el Trastorno de Inestabilidad…",
@@ -31,13 +41,23 @@
       "source": "13 oct 2021",
       "en": "Oct 13, 2021",
       "es": "13 oct 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "INTRODUCCIÓN",
       "en": "INTRODUCTION",
       "es": "INTRODUCCIÓN",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Uno de los problemas que la mayoría de los jóvenes padece hoy en día son los distintos trastornos mentales que existen, dentro de estos se encuentra el Trastorno de Inestabilidad Emocional (TIE), el cual afecta de manera contundente la vida de las personas que lo padecen.",
@@ -70,7 +90,12 @@
       "source": "DESCRIPCIÓN DEL PROBLEMA",
       "en": "PROBLEM DESCRIPTION",
       "es": "DESCRIPCIÓN DEL PROBLEMA",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Debido a que la mayor característica del TIE es el cambio repentino de emociones existen diferentes terapias para tratar este trastorno, pero una de la más recomendadas es la terapia icónica que fue explicada anteriormente.",
@@ -90,7 +115,12 @@
       "source": "OBJETIVO",
       "en": "OBJECTIVE",
       "es": "OBJETIVO",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Realizar un código el cual será usado como herramienta para controlar y evaluar más a fondo el progreso del paciente, más específicamente para la terapia icónica, usando una cámara que monitoree al paciente, guardando en tiempo real en un archivo, las diferentes emociones que presentó al mostrarle las imágenes y/o iconos, de tal manera que ayude a los psicólogos y/o psiquiatras a la evaluación de su trastorno.",
@@ -103,7 +133,12 @@
       "source": "DATASET",
       "en": "DATASET",
       "es": "DATASET",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se utilizó un dataset existente y de acceso libre, el cual se encontraba en la página web llamada kaggle, el cual fue creado por Jonathan Oheix. En este archivo se clasifican expresiones faciales de 35900 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y tiene el formato en el que solo se ve su rostro con la expresión facial correspondiente. Este dataset cuenta con dos carpetas (train y validation) las cuales tienen 7 sentimientos: enojo, disgusto, miedo, feliz,neutral,triste y sorprendido",
@@ -116,21 +151,36 @@
       "source": "SELECCIÓN DEL/LOS MODELOS",
       "en": "SELECTION OF THE MODEL(S)",
       "es": "SELECCIÓN DEL/LOS MODELOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Debido a que existen diversos modelos en el campo del Deep Learning, se optó por el modelo de ResNet50, esto debido a que luego de un análisis de modelos en el que se tomó en cuenta el tiempo que llevaba entrenarlos, su optimización, entre otros aspectos, fue el que tuvo mejores resultados entre todas las variantes que se tomaron en cuenta.",
-      "en": "Because there are various models in the field of Deep Learning, the ResNet50 model was chosen, this is because after a model analysis in which the time it took to train them was taken into account, its optimization, among other aspects, was the one that had the best results among all the variants that were taken into account.",
-      "es": "Debido a que existen diversos modelos en el campo del Deep Learning, se optó por el modelo de ResNet50, esto debido a que luego de un análisis de modelos en el que se tomó en cuenta el tiempo que llevaba entrenarlos, su optimización, entre otros aspectos, fue el que tuvo mejores resultados entre todas las variantes que se tomaron en cuenta.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We selected ResNet50 after comparing several architectures on results, training time and optimisation options. It best suited the prototype’s resources and goals.",
+      "es": "Elegimos ResNet50 tras comparar varias arquitecturas en cuanto a resultados, tiempo de entrenamiento y posibilidades de optimización. Fue la opción que mejor se ajustó a los recursos y objetivos del prototipo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El ResNet50 se utilizó debido a que es una red neuronal convolucional que posee 50 capas de profundidad. Esta puede cargar una versión previamente entrenada de la red, en el caso de este proyecto se utilizó la database mencionada anteriormente.",
-      "en": "ResNet50 was used because it is a convolutional neural network that is 50 layers deep. This can load a pre-trained version of the network, in the case of this project the database mentioned above was used.",
-      "es": "El ResNet50 se utilizó debido a que es una red neuronal convolucional que posee 50 capas de profundidad. Esta puede cargar una versión previamente entrenada de la red, en el caso de este proyecto se utilizó la database mencionada anteriormente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "ResNet50 is a 50-layer convolutional neural network. It can use pretrained weights; for this project, we worked with the image dataset described above.",
+      "es": "ResNet50 es una red neuronal convolucional de 50 capas. Puede partir de pesos preentrenados; en este proyecto trabajamos con el conjunto de imágenes descrito anteriormente.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Otros de los modelos implementados en el proyecto fueron:",
@@ -141,127 +191,222 @@
     },
     {
       "source": "Keras: Se uso esta biblioteca de código abierto escrita en Python, ya que se basa principalmente en facilitar un proceso de experimentación rápida, además como es una interfaz de uso intuitivo , nos permitio acceder a frameworks de aprendizaje automático, en este caso se hizo uso de TensorFlow.",
-      "en": "Keras: This open source library written in Python was used, since it is mainly based on facilitating a rapid experimentation process, and since it is an intuitive interface, it allowed us to access machine learning frameworks, in this case TensorFlow was used.",
-      "es": "Keras: Se uso esta biblioteca de código abierto escrita en Python, ya que se basa principalmente en facilitar un proceso de experimentación rápida, además como es una interfaz de uso intuitivo , nos permitio acceder a frameworks de aprendizaje automático, en este caso se hizo uso de TensorFlow.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Keras: we used this Python library for its accessible interface for experimenting with neural networks, with TensorFlow as the underlying framework.",
+      "es": "Keras: utilizamos esta biblioteca de Python por su interfaz accesible para experimentar con redes neuronales. En este proyecto trabajamos con TensorFlow.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además para completar todos los aspectos del proyecto se utilizó OpenCv y Numpy",
-      "en": "Additionally, OpenCv and Numpy were used to complete all aspects of the project.",
-      "es": "Además para completar todos los aspectos del proyecto se utilizó OpenCv y Numpy",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We also used OpenCV and NumPy.",
+      "es": "También utilizamos OpenCV y NumPy.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "EVALUACIÓN DE MODELOS",
       "en": "MODEL EVALUATION",
       "es": "EVALUACIÓN DE MODELOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se hizo pruebas con los siguientes modelos:",
-      "en": "Tests were carried out with the following models:",
-      "es": "Se hizo pruebas con los siguientes modelos:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We tested the following models:",
+      "es": "Hicimos pruebas con los siguientes modelos:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-AlexNet:",
       "en": "-AlexNet:",
       "es": "-AlexNet:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta red es de las más populares, pero tiene pocas capas e igualmente se obtuvo una precisión suficiente.",
-      "en": "This network is one of the most popular, but it has few layers and sufficient precision was still obtained.",
-      "es": "Esta red es de las más populares, pero tiene pocas capas e igualmente se obtuvo una precisión suficiente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "This architecture has relatively few layers and produced results the team considered sufficient for an initial test.",
+      "es": "Esta arquitectura tiene relativamente pocas capas y ofreció resultados que el equipo consideró suficientes para una primera prueba.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-Face Recognizer:",
       "en": "-Face Recognizer:",
       "es": "-Face Recognizer:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se llegó a entrar un modelo con este método pero al momento de querer levantar el modelo para evaluarlo a tiempo real este consumía demasiados recursos de la computadora, por lo que no era apropiado si se quería usar en dispositivos más simples.",
-      "en": "A model was entered with this method, but when it came time to create the model to evaluate it in real time, it consumed too many computer resources, so it was not appropriate if one wanted to use it on simpler devices.",
-      "es": "Se llegó a entrar un modelo con este método pero al momento de querer levantar el modelo para evaluarlo a tiempo real este consumía demasiados recursos de la computadora, por lo que no era apropiado si se quería usar en dispositivos más simples.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We trained a model using this method, but running it in real time required too many resources for the lower-powered devices we had in mind.",
+      "es": "Llegamos a entrenar un modelo con este método, pero ejecutarlo en tiempo real consumía demasiados recursos para los dispositivos más sencillos que teníamos en mente.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-EfficientNet:",
       "en": "-EfficientNet:",
       "es": "-EfficientNet:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta red se trató de entrenar con tres épocas pero no se logró debido al largo periodo de entrenamiento que requería.",
-      "en": "An attempt was made to train this network with three epochs but it was not achieved due to the long training period it required.",
-      "es": "Esta red se trató de entrenar con tres épocas pero no se logró debido al largo periodo de entrenamiento que requería.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We attempted to train this network for three epochs but could not complete the process within the time available.",
+      "es": "Intentamos entrenar esta red durante tres épocas, pero no pudimos completar el proceso por el tiempo que requería.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-ResNet2:",
       "en": "-ResNet2:",
       "es": "-ResNet2:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta red presentó dificultades al comienzo de su entrenamiento, siendo el caso que no pasó de la etapa número uno, habiendo transcurrido 3 horas.",
-      "en": "This network presented difficulties at the beginning of its training, being the case that it did not pass stage number one, after 3 hours had passed.",
-      "es": "Esta red presentó dificultades al comienzo de su entrenamiento, siendo el caso que no pasó de la etapa número uno, habiendo transcurrido 3 horas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "This variant ran into training difficulties: after three hours, it had not completed its first epoch.",
+      "es": "Esta variante presentó dificultades de entrenamiento: después de tres horas no había completado la primera época.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-ResNet50:",
       "en": "-ResNet50:",
       "es": "-ResNet50:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta red fue la que usamos en el proyecto ya que pudimos entrenar 100 épocas utilizando la GPU de colaboratory y el tiempo utilizado fue de 1hora 45 minutos.",
-      "en": "This network was the one we used in the project since we were able to train 100 epochs using the collaborative GPU and the time used was 1 hour 45 minutes.",
-      "es": "Esta red fue la que usamos en el proyecto ya que pudimos entrenar 100 épocas utilizando la GPU de colaboratory y el tiempo utilizado fue de 1hora 45 minutos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We selected this network for the prototype, completing 100 epochs in one hour and 45 minutes using a Google Colab GPU.",
+      "es": "Fue la red seleccionada para el prototipo. Completamos 100 épocas en una hora y 45 minutos utilizando una GPU de Google Colab.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "ANÁLISIS DE RESULTADOS",
       "en": "ANALYSIS OF RESULTS",
       "es": "ANÁLISIS DE RESULTADOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la gráfica que se muestra corresponde al accuracy que se logró luego de haberlo entrenado con 100 etapas, debido a esto y a la ResNet, se puedo lograr estos resultados",
-      "en": "The graph shown corresponds to the accuracy that was achieved after having trained it with 100 stages, due to this and the ResNet, these results can be achieved",
-      "es": "En la gráfica que se muestra corresponde al accuracy que se logró luego de haberlo entrenado con 100 etapas, debido a esto y a la ResNet, se puedo lograr estos resultados",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The chart shows how accuracy evolved over 100 epochs of ResNet50 training.",
+      "es": "La gráfica muestra la evolución de la exactitud (accuracy) durante las 100 épocas de entrenamiento de ResNet50.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "A diferencia de la anterior gráfica, esta corresponde al loss del modelo",
-      "en": "Unlike the previous graph, this one corresponds to the loss of the model",
-      "es": "A diferencia de la anterior gráfica, esta corresponde al loss del modelo",
-      "reviewed": false
+      "en": "This second chart shows the model’s loss.",
+      "es": "Esta segunda gráfica muestra la función de pérdida del modelo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CONCLUSIÓN Y RECOMENDACIONES",
       "en": "CONCLUSION AND RECOMMENDATIONS",
       "es": "CONCLUSIÓN Y RECOMENDACIONES",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se recomienda verificar el dataset correctamente antes de ingresar a la red, ya que muchos de ellos vienen con imágenes que no corresponden. Igualmente en la medida de posible se recomienda entrenar con una GPU física, si no es el caso se recomienda utilizar la GPU de colaboratory. Si es el caso utilizar un dataset con más imágenes, ya que esto elevará la precisión del entrenamiento.",
-      "en": "It is recommended to verify the dataset correctly before entering the network, since many of them come with images that do not correspond. Likewise, to the extent possible, it is recommended to train with a physical GPU, if this is not the case, it is recommended to use the collaborative GPU. If this is the case, use a dataset with more images, since this will increase the precision of the training.",
-      "es": "Se recomienda verificar el dataset correctamente antes de ingresar a la red, ya que muchos de ellos vienen con imágenes que no corresponden. Igualmente en la medida de posible se recomienda entrenar con una GPU física, si no es el caso se recomienda utilizar la GPU de colaboratory. Si es el caso utilizar un dataset con más imágenes, ya que esto elevará la precisión del entrenamiento.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We recommend checking images and labels before training. A local GPU or one available through Google Colab can help. Adding relevant, representative images may improve performance, but more data alone does not guarantee better results: improvements must be checked on independent evaluation data.",
+      "es": "Recomendamos revisar las imágenes y sus etiquetas antes de entrenar. Una GPU local o la disponible en Google Colab puede facilitar el proceso. Ampliar el dataset con imágenes pertinentes y representativas podría ayudar, pero añadir más datos no garantiza por sí solo una mejora: hay que comprobarla con datos de evaluación independientes.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Con el modelo escogido gracias a la evaluación de modelos se pudo elegir el más eficiente para realizar el código, además de lograr el objetivo de detectar emociones para que sirvan de herramienta a psiquiatras y psicólogos que tratan con pacientes con TIE.",
@@ -272,46 +417,81 @@
     },
     {
       "source": "WRITTEN BY",
-      "en": "WRITTEN BY",
-      "es": "WRITTEN BY",
-      "reviewed": false
+      "en": "Written by",
+      "es": "Autoría",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Alejandra Rodrigo",
       "en": "Alejandra Rodrigo",
       "es": "Alejandra Rodrigo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Deep Learning",
       "en": "Deep Learning",
       "es": "Deep Learning",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Imagenes",
       "en": "Images",
       "es": "Imagenes",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Machine Learning",
       "en": "Machine Learning",
       "es": "Machine Learning",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Recurrent Neural Network",
       "en": "Recurrent Neural Network",
       "es": "Recurrent Neural Network",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 13 oct 2021.",
-      "en": "A history of the Saturdays.AI community. Originally published on Oct 13, 2021.",
+      "en": "A story from the Saturdays.AI community. Originally published on Oct 13, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 13 oct 2021.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "17 min read",
@@ -321,41 +501,71 @@
     },
     {
       "source": "Detector distancia mínima COVID-19 mediante Inteligencia artificial",
-      "en": "COVID-19 minimum distance detector using artificial intelligence",
-      "es": "Detector distancia mínima COVID-19 mediante Inteligencia artificial",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "An AI prototype for monitoring physical distancing during COVID-19",
+      "es": "Detector de distancia mínima frente a la COVID-19 mediante inteligencia artificial",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "12 min read",
       "en": "12 min read",
       "es": "12 min read",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Focus On Driving: Redes Neuronales aplicadas a la Seguridad Vial",
       "en": "Focus On Driving: Neural Networks applied to Road Safety",
       "es": "Focus On Driving: Redes Neuronales aplicadas a la Seguridad Vial",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "5 min read",
       "en": "5 min read",
       "es": "5 min read",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Transformación de Imágenes de Angiotomografía por medio del uso de Inteligencia Artificial.",
       "en": "Transformation of Angiotomography Images through the use of Artificial Intelligence.",
       "es": "Transformación de Imágenes de Angiotomografía por medio del uso de Inteligencia Artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mar 9, 2022",
       "en": "Mar 9, 2022",
       "es": "Mar 9, 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Expresiones faciales y bienestar emocional: un prototipo con deep learning",

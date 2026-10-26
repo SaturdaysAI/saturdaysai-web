@@ -25,15 +25,20 @@
       "source": "28 oct 2025",
       "en": "28 oct 2025",
       "es": "28 oct 2025",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fase 1. Planificación y elección del stack",
       "en": "Phase 1. Planning and choosing the stack",
       "es": "Fase 1. Planificación y elección del stack",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -46,13 +51,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Fase 2. Inicialización del proyecto en Visual Studio Code",
       "en": "Phase 2. Initialization of the project in Visual Studio Code",
       "es": "Fase 2. Inicialización del proyecto en Visual Studio Code",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -65,22 +75,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Fase 3. Diseño de la estructura base",
       "en": "Phase 3. Design of the base structure",
       "es": "Fase 3. Diseño de la estructura base",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fase 4. Subir la app a GitHub Pages",
       "en": "Phase 4. Upload the app to GitHub Pages",
       "es": "Fase 4. Subir la app a GitHub Pages",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -92,13 +112,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Fase 5 : Recopilación de datos e importar a JSON",
-      "en": "Phase 5: Collect data and import to JSON",
-      "es": "Fase 5 : Recopilación de datos e importar a JSON",
-      "reviewed": false,
+      "en": "Phase 5. Collecting data and importing it into JSON",
+      "es": "Fase 5. Recopilar datos e importarlos a JSON",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -110,13 +135,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Fase 6. Normalización de datos con IA",
       "en": "Phase 6. Data normalization with AI",
       "es": "Fase 6. Normalización de datos con IA",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -129,22 +159,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Fase 7. Creación de la interfaz React",
       "en": "Phase 7. Creation of the React interface",
       "es": "Fase 7. Creación de la interfaz React",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fase 8. Añadir La «memoria» offline",
-      "en": "Phase 8. Add offline “memory”",
-      "es": "Fase 8. Añadir La «memoria» offline",
-      "reviewed": false,
+      "en": "Phase 8. Adding offline “memory”",
+      "es": "Fase 8. Añadir la «memoria» sin conexión",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -156,13 +196,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
       "en": "Phase 9. UX/UI design improvement with ChatGPT",
       "es": "Fase 9. Mejora de diseño UX/UI con ChatGPT",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -175,22 +220,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Fase 10. Despliegue final y pruebas",
       "en": "Phase 10. Final deployment and testing",
       "es": "Fase 10. Despliegue final y pruebas",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Conclusiones y aprendizajes",
       "en": "Conclusions and learnings",
       "es": "Conclusiones y aprendizajes",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -202,21 +257,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Recursos y enlaces",
       "en": "Resources and links",
       "es": "Recursos y enlaces",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sobre el autor",
       "en": "About the author",
       "es": "Sobre el autor",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -228,6 +293,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -258,9 +328,14 @@
       "source": "Wikiloc",
       "en": "Wikiloc",
       "es": "Wikiloc",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "me daba el GPS,",
@@ -274,9 +349,14 @@
       "source": "Descente-Canyon",
       "en": "Descente-Canyon",
       "es": "Descente-Canyon",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "los datos técnicos, pero nada estaba unificado y, sobre todo, nada funcionaba bien sin cobertura en mitad de la nada.",
@@ -289,9 +369,9 @@
     },
     {
       "source": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
-      "en": "So I decided to build it myself, here is the link to the result:",
-      "es": "Así que decidí construirla yo mismo, aquí tienes el enlace al resultado:",
-      "reviewed": false,
+      "en": "So I decided to build it myself. Here is the result:",
+      "es": "Así que decidí construirla yo mismo. Aquí está el resultado:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -304,13 +384,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
-      "en": "I wanted a simple website: filters, maps and that works 100% offline. But this time, I decided not to do it alone. And not only that, but you wouldn't write a line of code. So I looked for two colleagues to do it for me:",
-      "es": "Quería una web sencilla: filtros, mapas y que funciona 100% offline. Pero esta vez, decidí no hacerlo solo. Y no solo eso, sino que no escribiría una línea de código. Asi que busqué dos compañeros que lo hicieran por mi:",
-      "reviewed": false,
+      "en": "I wanted a simple website with filters, maps and offline access to saved data. This time I decided to work with AI and write none of the code by hand. I chose two collaborators:",
+      "es": "Quería una web sencilla, con filtros, mapas y acceso sin conexión a los datos guardados. Esta vez decidí apoyarme en la IA y no escribir el código a mano. Busqué dos compañeros para hacerlo:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -323,13 +408,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ", como consultor técnico y de UX.",
       "en": ", as a technical and UX consultant.",
       "es": ", como consultor técnico y de UX.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -341,21 +431,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "(integrado en",
       "en": "(integrated into",
       "es": "(integrado en",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "), como programador ejecutor.",
-      "en": "), as executing programmer.",
-      "es": "), como programador ejecutor.",
-      "reviewed": false,
+      "en": "), as my coding assistant.",
+      "es": "), como asistente de programación.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -367,13 +467,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
-      "en": "My goal: to demonstrate that, with good planning and precise prompts, a single person can build a functional application, from scratch, using only AI.",
-      "es": "Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sola persona puede construir una aplicación funcional, desde cero, usando solo IA.",
-      "reviewed": false,
+      "en": "My goal was to see how far one person could get in building an app from scratch with AI, using careful planning, clear instructions and a review of the results.",
+      "es": "Mi objetivo era comprobar hasta dónde podía llegar una sola persona, con buena planificación, instrucciones precisas y revisión de los resultados, al crear una aplicación desde cero con ayuda de IA.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -386,13 +491,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
       "en": "Before writing a line of code, I needed a solid plan. My first interaction was with ChatGPT, to define the technological architecture.",
       "es": "Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -405,39 +515,59 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Prompt clave a ChatGPT:",
-      "en": "Prompt clave a ChatGPT:",
+      "en": "Key prompt for ChatGPT:",
       "es": "Prompt clave a ChatGPT:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La IA recomendó Vite + React por su rapidez y facilidad para configurar Service Workers, esenciales para el modo offline. Con eso, ya tenía la brújula técnica del proyecto.",
-      "en": "The IA recommended Vite + React for its speed and ease to configure Service Workers, essential for offline mode. With that, it already had the technical compass of the project.",
-      "es": "La IA recomendó Vite + React por su rapidez y facilidad para configurar Service Workers, esenciales para el modo offline. Con eso, ya tenía la brújula técnica del proyecto.",
-      "reviewed": false,
+      "en": "The AI recommended Vite and React for the interface, together with a service worker to cache resources and serve them offline. I now had a technical direction for the project.",
+      "es": "La IA me recomendó Vite y React para desarrollar la interfaz, junto con un service worker para guardar recursos y servirlos sin conexión. Ya tenía una dirección técnica para el proyecto.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Abrí una nueva carpeta (",
       "en": "I opened a new folder (",
       "es": "Abrí una nueva carpeta (",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
-      "en": ") and, from Visual Studio Code, I launched Codex in agent mode. I selected the AI ​​GPT-5 Codex Preview and asked it to start the project step by step. Introducing the prompt that ChatGPT had provided me, modifying the format a little so that it adapted to my needs, incorporating stops and providing feedback during the process.",
-      "es": ") y, desde Visual Studio Code, lancé Codex en modo agente. Seleccioné la IA GPT-5 Codex Preview y le pedí iniciar el proyecto paso a paso. Introduciendo el prompt que me había facilitado ChatGPT modificando un poco el formato para que lo adaptada a mis necesitades, incorporando paradas y que hubiera retroalimentación durante el proceso.",
-      "reviewed": false,
+      "en": ") and launched Codex in agent mode from Visual Studio Code. For this project I used GPT-5 Codex Preview. I adapted the prompt ChatGPT had given me to include pauses where I could review each stage and give feedback before continuing.",
+      "es": ") y lancé Codex en modo agente desde Visual Studio Code. En esta experiencia utilicé GPT-5 Codex Preview. Partí del prompt que me había dado ChatGPT y lo adapté a mis necesidades, con pausas para revisar cada fase y dar feedback antes de continuar.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -450,30 +580,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El siguiente paso fue definir la estructura de navegación antes de cargar datos o diseñar la interfaz.",
       "en": "The next step was to define the navigation structure before loading data or designing the interface.",
       "es": "El siguiente paso fue definir la estructura de navegación antes de cargar datos o diseñar la interfaz.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prompt de ChatGPT a Codex:",
-      "en": "Prompt de ChatGPT a Codex:",
+      "en": "Prompt from ChatGPT for Codex:",
       "es": "Prompt de ChatGPT a Codex:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
-      "en": "We will develop a static PWA-type web app with descriptive sheets of each ravine, necessary material and external links (Wikiloc for approach and return). I want you to help me step by step with this structured workflow:",
-      "es": "Desarrollaremos una web app estática tipo PWA con fichas descriptivas de cada barranco, material necesario y enlaces externos (Wikiloc para aproximación y retorno).Quiero que me ayudes paso a paso con este flujo de trabajo estructurado:",
-      "reviewed": false,
+      "en": "We will develop a static progressive web app with details of each canyon, required equipment and external Wikiloc links for the approach and return routes. Help me follow this workflow step by step:",
+      "es": "Desarrollaremos una web app estática de tipo PWA con fichas de cada barranco, material necesario y enlaces externos a Wikiloc para la aproximación y el retorno. Quiero que me ayudes paso a paso con este flujo de trabajo:",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -485,13 +630,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
-      "en": "Land the idea (concept): define the purpose, the key functionalities, and the technological stack (React + Vite or pure JS).",
-      "es": "Aterriza la idea (concepto): define el propósito, las funcionalidades clave, y el stack tecnológico (React + Vite o JS puro).",
-      "reviewed": false,
+      "en": "Define the concept: set out the purpose, key features and technology stack (React and Vite or plain JavaScript).",
+      "es": "Concreta la idea: define el propósito, las funciones clave y las tecnologías que utilizaremos (React y Vite o JavaScript sin framework).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -504,13 +654,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
-      "en": "Plan the architecture: folder structure, use of localStorage instead of database, no authentication, all client-side, suitable for deployment in GitHub Pages.",
-      "es": "Planifica la arquitectura: estructura de carpetas, uso de localStorage en lugar de base de datos, sin autenticación, todo client-side, apto para despliegue en GitHub Pages.",
-      "reviewed": false,
+      "en": "Plan the architecture: folder structure and localStorage for user preferences, with no remote database or authentication. Everything must run on the client and be suitable for deployment to GitHub Pages.",
+      "es": "Planifica la arquitectura: estructura de carpetas y uso de localStorage para las preferencias del usuario, sin base de datos remota ni autenticación. Todo debe ejecutarse en el cliente y poder desplegarse en GitHub Pages.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -523,13 +678,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
-      "en": "Build the project: create the code base with documentation in comments and guide me phase by phase (structure, home page, tabs, map, local persistence, filters, layout, PWA).",
+      "en": "Build the project: create the initial code with explanatory comments, and guide me through each stage (structure, home page, canyon details, map, local storage, filters, design and PWA features).",
       "es": "Construye el proyecto: crea el código base con documentación en comentarios y guíame fase por fase (estructura, página principal, fichas, mapa, persistencia local, filtros, diseño, PWA).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -542,13 +702,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
-      "en": "Document the process: each step should include brief explanations, commented code, and notes so you can then write an article/tutorial.",
+      "en": "Document the process: include short explanations, commented code and notes at each stage so I can later write an article or tutorial.",
       "es": "Documenta el proceso: cada paso debe incluir explicaciones breves, código comentado, y notas para poder luego redactar un artículo/tutorial.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -561,13 +726,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
-      "en": "Prepare Deployment: Show how to configure vite.config.ts or index.html for GitHub Pages.Conditions:",
-      "es": "Prepara el despliegue: muestra cómo configurar vite.config.ts o index.html para GitHub Pages.Condiciones:",
-      "reviewed": false,
+      "en": "Prepare deployment: explain how to configure Vite and the application paths for GitHub Pages. Requirements:",
+      "es": "Prepara el despliegue: explica cómo configurar Vite y las rutas para GitHub Pages. Condiciones:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -580,31 +750,46 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Toda la persistencia debe hacerse con localStorage.",
       "en": "All persistence must be done with localStorage.",
       "es": "Toda la persistencia debe hacerse con localStorage.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "No usar ningún backend ni login.",
       "en": "Do not use any backend or login.",
       "es": "No usar ningún backend ni login.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Código modular, limpio y comentado.",
       "en": "Modular, clean and commented code.",
       "es": "Código modular, limpio y comentado.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -616,13 +801,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Usa inglés en el código, pero español en las explicaciones.",
       "en": "Use English in the code, but Spanish in the explanations.",
       "es": "Usa inglés en el código, pero español en las explicaciones.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -635,13 +825,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Pide validación antes de avanzar a cada fase.",
       "en": "Ask for validation before advancing to each phase.",
       "es": "Pide validación antes de avanzar a cada fase.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -654,13 +849,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
       "en": "The app must be responsive and light. Start with phase 1 (concept) and wait for me before moving on to the next phase. When I say 'continue', you move on to the next one.",
       "es": "La app debe ser responsive y ligera. Empieza con la fase 1 (concepto) y espérame antes de pasar a la siguiente fase. Cuando te diga ‘sigue’, pasas a la siguiente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -673,13 +873,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
-      "en": "Generates the React component structure (by folders) and the code to manage this 5-tab navigation and nested detail path»",
-      "es": "Genera la estructura de componentes de React (por carpetas) y el código de para gestionar esta navegación de 5 pestañas y la ruta de detalle anidada»",
-      "reviewed": false,
+      "en": "Generate the React component folder structure and the code for five navigation tabs and a nested detail route.",
+      "es": "Genera la estructura de componentes de React por carpetas y el código para gestionar las cinco pestañas de navegación y la ruta de detalle anidada.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -692,13 +897,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
-      "en": "Next he asked me several questions in relation to what I had understood (codex) to continue, the with the execution:",
-      "es": "A continuación me solicitó varias preguntas en relación a lo que había entendido (codex) para seguir, la con la ejecución:",
-      "reviewed": false,
+      "en": "Codex then asked several questions to check its understanding before continuing:",
+      "es": "A continuación, Codex me hizo varias preguntas para confirmar lo que había entendido antes de continuar:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -711,13 +921,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
-      "en": "In each of the answers he gave me, I asked ChatGPT if Codex was doing it correctly, and if so, I continued with the execution:",
-      "es": "En cada una de las respuestas que me iba dando le consultaba a ChatGPT si Codex lo estaba haciendo correctamente, en caso afirmativo proseguía con la ejecución:",
-      "reviewed": false,
+      "en": "I asked ChatGPT for a second opinion on Codex’s responses and reviewed the results before continuing:",
+      "es": "Consultaba las respuestas de Codex con ChatGPT como segunda opinión y revisaba el resultado antes de seguir:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -730,13 +945,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
       "en": "The result was a modular skeleton of components with routes, pages and a professional folder structure. Codex took care of creating the initial files, dependencies and configuration of the project automatically.",
       "es": "El resultado fue un esqueleto modular de componentes con rutas, páginas y una estructura de carpetas profesional. Codex se encargó de crear los archivos iniciales, dependencias y configuración del proyecto automáticamente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -749,13 +969,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
-      "en": "Now, Codex started working, generating folders and files, during the process it is asked if you want to execute some system and debugging instructions, to which you say yes so that you can make the modifications it has to do.",
-      "es": "Ahora sí, Codex empezó a trabajar, generando carpetas y archivos, durante el proceso va preguntado si quieres ejecutar algunas instrucciones de sistema y de depuración, a lo que le dices que si para que hagas las modificaciones que tiene que hacer.",
-      "reviewed": false,
+      "en": "Codex started creating folders and files. During the process it requested permission to run some system and debugging commands; I reviewed the proposed actions before approving them.",
+      "es": "Codex empezó a crear carpetas y archivos. Durante el proceso pidió permiso para ejecutar algunas instrucciones del sistema y de depuración; revisé qué iba a hacer antes de autorizarlas.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -768,13 +993,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
       "en": "After a few minutes, Codex generated the entire folder structure, dependencies and scripts.",
       "es": "Tras unos minutos, Codex generó toda la estructura de carpetas, dependencias y scripts.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -787,13 +1017,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
-      "en": "The best of all is that the project compiled without any compilation or execution errors, simply incredible... Once finished, I tried starting the server locally. But I didn't know how to build the web app so I asked him:",
-      "es": "Lo mejor de todo es que el proyecto compilaba sin ningún error de compilación ni de ejecución, simplemente increíble… Una vez finalizado probé en arrancar el servidor en local. Pero no sabía cómo levantar la web app así que le pregunté:",
-      "reviewed": false,
+      "en": "The best part was that the project compiled without errors. That felt incredible, although I still needed to test it in the browser. I did not know how to start the local server, so I asked Codex:",
+      "es": "Lo mejor fue que el proyecto compiló sin errores. Me pareció increíble, pero todavía tenía que probarlo en el navegador. Como no sabía arrancar el servidor local, le pregunté a Codex:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -806,13 +1041,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
-      "en": "Now there are several options: either you run it from an external console or in my case use the one that is already installed in VSC in the intermediate terminal tab:",
-      "es": "Ahora hay varias opciones: o lo ejecutas desde una consola externa o en mi caso use la que ya está instalada en VSC en la pestaña intermedia terminal:",
-      "reviewed": false,
+      "en": "I could run it from an external console or from Visual Studio Code’s integrated terminal. I used the latter:",
+      "es": "Se podía ejecutar desde una consola externa o desde la terminal integrada de Visual Studio Code, que fue la opción que utilicé:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -825,13 +1065,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
-      "en": "Once the web app is launched, I try to connect to the browser to check if it works:",
-      "es": "Una vez lanzada la web app, intento conectarme al navegador para comprobar si funciona:",
-      "reviewed": false,
+      "en": "Once the app was running, I opened it in the browser to check that it worked:",
+      "es": "Una vez arrancada la aplicación, la abrí en el navegador para comprobar que funcionaba:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -844,21 +1089,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La página funcionaba.",
       "en": "The page worked.",
       "es": "La página funcionaba.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¡En menos de 30 min ya tenía una página lista!",
       "en": "In less than 30 minutes I already had a page ready!",
       "es": "¡En menos de 30 min ya tenía una página lista!",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -871,13 +1126,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
-      "en": "The initial idea was to take advantage of the service that GitHub has to host the web app, so I asked codex for help on how to do it correctly:",
-      "es": "La idea inicial era aprovechar el servicio que dispone GitHub para alojar la web app, por lo que pedí ayuda a codex a como realizarlo correctamente:",
-      "reviewed": false,
+      "en": "I wanted to host the app on GitHub Pages, so I asked Codex to guide me through the process:",
+      "es": "Quería alojar la aplicación en GitHub Pages, así que pedí a Codex que me guiara en el proceso:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -890,13 +1150,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Antes de empezar si no tenemos cuenta de",
-      "en": "Before starting if we do not have an account",
-      "es": "Antes de empezar si no tenemos cuenta de",
-      "reviewed": false,
+      "en": "If you do not yet have a",
+      "es": "Si todavía no tienes cuenta en",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -909,13 +1174,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
-      "en": ", you create one, it is completely free. Once created, we create the repository, it is very important that it be named after your project folder since otherwise the dependencies will not work correctly.",
-      "es": ", se crea una, es totalmente gratuita. Una vez creada, creamos el repositorio, es muy importante que se llame como vuestra carpeta de proyecto ya que si no las dependencias no funcionarán correctamente.",
-      "reviewed": false,
+      "en": " account, you can create one and then create a repository. The repository does not have to share the local folder’s name. For a GitHub Pages project site, the important setting is Vite’s base path, which must match the repository name, such as /barranquismo/.",
+      "es": ", puedes crear una y abrir un repositorio. El repositorio no tiene que llamarse igual que la carpeta local. Lo importante para una web de proyecto en GitHub Pages es configurar la ruta base de Vite con el nombre del repositorio, por ejemplo /barranquismo/.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -928,13 +1198,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
       "en": "If we do not have Git we will have to install it, you can download it",
       "es": "Si no tenemos Git habrá que instalarlo, lo puedes descargar",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -947,13 +1222,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": ". Una vez",
       "en": ". once",
       "es": ". Una vez",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -965,15 +1245,25 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "instalado",
       "en": "installed",
       "es": "instalado",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "// Vincula tu repositorio con GitHub.",
@@ -996,9 +1286,9 @@
     },
     {
       "source": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
-      "en": "Now we have uploaded the same repository that we have locally with GitHub, now for every change we want to make we will have to start the steps from step 2 and it is very important to give the commits names of the modifications that we are making, so that later it is easier to return to a previous state knowing what modifications we made at that moment.",
-      "es": "Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.",
-      "reviewed": false,
+      "en": "The local project was now on GitHub. For later changes, I reviewed the modified files, staged them with git add, created a descriptive commit and ran git push. A clear history makes changes easier to understand and earlier versions easier to recover.",
+      "es": "Con esto, el proyecto local quedaba subido a GitHub. Para enviar cambios posteriores, revisaba los archivos modificados, los añadía con git add, creaba un commit descriptivo y ejecutaba git push. Un historial claro facilita entender cada cambio y recuperar versiones anteriores.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1011,13 +1301,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
-      "en": "Once we have the repository, we ask codex how to upload it to GitHub pages correctly:",
-      "es": "Una vez ya tenemos el repositorio le preguntamos a codex como subirlo a GitHub pages correctamente:",
-      "reviewed": false,
+      "en": "With the repository ready, I asked Codex how to configure deployment to GitHub Pages:",
+      "es": "Una vez creado el repositorio, pregunté a Codex cómo configurar el despliegue en GitHub Pages:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1030,21 +1325,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "seguimos las instrucciones:",
-      "en": "We follow the instructions:",
-      "es": "seguimos las instrucciones:",
-      "reviewed": false,
+      "en": "I followed the instructions:",
+      "es": "Seguí las instrucciones:",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "y accedemos a la web app desde GitHub:",
-      "en": "and we access the web app from GitHub:",
-      "es": "y accedemos a la web app desde GitHub:",
-      "reviewed": false,
+      "en": "Then I opened the app published on GitHub Pages:",
+      "es": "Y accedí a la aplicación publicada en GitHub Pages:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1057,13 +1362,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
       "en": "As we can see, the initial version is functional but the data in JSON format is missing and the aesthetics need to be improved.",
       "es": "Como podemos comprobar, la versión inicial es funcional pero faltan los datos en formato JSON y mejorar la estética.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1075,13 +1385,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
-      "en": "Collecting data from each of the ravines one by one is very tedious, and you also run the risk of making mistakes when extrapolating the data, so I ask Codex if he can help me:",
-      "es": "Recopilar datos de cada uno de los barrancos uno a uno es muy tedioso, además corres el riesgo de equivocarte al extrapolar los datos, por lo que le pregunto a Codex si me puede ayudar:",
-      "reviewed": false,
+      "en": "Collecting details of every canyon by hand was tedious and could introduce transcription errors. I asked Codex to help automate the task:",
+      "es": "Recopilar los datos de cada barranco a mano era tedioso y podía introducir errores de transcripción. Pregunté a Codex si podía ayudarme a automatizar la tarea:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1094,13 +1409,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Su respuesta es un script",
-      "en": "Your response is a script",
-      "es": "Su respuesta es un script",
-      "reviewed": false,
+      "en": "It responded with a script.",
+      "es": "Su respuesta fue un script.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1113,13 +1433,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
-      "en": "We go one step further, we tell it to generate a script itself and execute it itself and also save it in the JSON file with the gullies that we made fictitious.",
-      "es": "Vamos un paso más allá, le decimos que genere el mismo un script y que él mismo lo ejecute y que además lo guarde en el el archivo JSON con los barrancos que pusimos ficticios.",
-      "reviewed": false,
+      "en": "I went a step further: I asked it to generate and run the script, then save the data in the JSON file that had previously contained fictional sample canyons.",
+      "es": "Di un paso más: le pedí que generase y ejecutase el script, y guardase los datos en el archivo JSON que hasta entonces contenía barrancos ficticios de ejemplo.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1131,6 +1456,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -1170,18 +1500,23 @@
     },
     {
       "source": "Como datos de los barrancos provenían de distintas fuentes (",
-      "en": "As data from the ravines came from different sources (",
-      "es": "Como datos de los barrancos provenían de distintas fuentes (",
-      "reviewed": false,
+      "en": "The canyon data came from several sources (",
+      "es": "Los datos de los barrancos procedían de distintas fuentes (",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
-      "en": ", etc.), and they were disordered and in different formats. I needed a script in Node.js to clean them up and unify them.",
-      "es": ", etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.",
-      "reviewed": false,
+      "en": ", and others) and used different formats. I needed a Node.js script to clean and standardise them.",
+      "es": ", etc.) y tenían formatos diferentes. Necesitaba un script de Node.js para limpiarlos y unificarlos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1194,13 +1529,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Prompt a Codex:",
-      "en": "Prompt a Codex:",
-      "es": "Solicitar un Codex:",
-      "reviewed": false,
+      "en": "Prompt for Codex:",
+      "es": "Prompt para Codex:",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1212,13 +1552,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
       "en": "Codex generated an automated cleanup script. The result: a file",
       "es": "Codex generó un script de limpieza automatizado. El resultado: un archivo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1230,13 +1575,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "consolidado, que serviría como base de datos local de la aplicación.",
       "en": "consolidated, which would serve as the application's local database.",
       "es": "consolidado, que serviría como base de datos local de la aplicación.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1249,13 +1599,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
-      "en": "With the dataset ready, it was time to visualize the data. Instead of writing components manually, I ordered them directly from Codex.",
+      "en": "With the dataset ready, it was time to display it. Instead of writing components by hand, I asked Codex to create them.",
       "es": "Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1268,13 +1623,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Prompt 1:",
       "en": "Prompt 1:",
-      "es": "Pregunta 1:",
-      "reviewed": false,
+      "es": "Prompt 1:",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1286,30 +1646,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Prompt 2:",
       "en": "Prompt 2:",
       "es": "Prompt 2:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Codex generó la estructura React completa y los componentes necesarios. Incluso añadió un mapa interactivo con",
       "en": "Codex generated the complete React structure and the necessary components. He even added an interactive map with",
       "es": "Codex generó la estructura React completa y los componentes necesarios. Incluso añadió un mapa interactivo con",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Leaflet",
       "en": "Leaflet",
-      "es": "Folleto",
-      "reviewed": false,
+      "es": "Leaflet",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1321,21 +1696,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "tras otro prompt específico.",
       "en": "after another specific prompt.",
       "es": "tras otro prompt específico.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
-      "en": "The app needed to “remember” user data, such as the checklist and ratings.",
-      "es": "La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.",
-      "reviewed": false,
+      "en": "The app needed to remember the user’s ratings and checklist.",
+      "es": "La aplicación necesitaba recordar las valoraciones del usuario y su lista de comprobación.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1348,13 +1733,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
-      "en": "Codex implemented local storage logic and automatic recovery. Then we configured the Service Worker to make the app fully functional offline: it was already an installable and usable PWA without coverage.",
-      "es": "Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.",
-      "reviewed": false,
+      "en": "Codex implemented local data storage and retrieval. We then configured the service worker to provide offline access to cached resources. That gave me an installable PWA, although content had to be loaded beforehand: external links and uncached maps still required a connection.",
+      "es": "Codex implementó el guardado y la recuperación de datos locales. Después configuramos el service worker para acceder sin conexión a los recursos almacenados. Así obtuve una PWA instalable, aunque había que cargar previamente el contenido: los enlaces externos y los mapas no guardados seguían necesitando conexión.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1367,13 +1757,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
       "en": "The functionality was ready, but the interface needed a professional touch. I returned to ChatGPT, this time as a UX designer specialized in outdoor environments.",
       "es": "La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1386,29 +1781,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Prompt clave:",
-      "en": "Prompt clave:",
+      "en": "Key prompt:",
       "es": "Prompt clave:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "# CONTEXTO DEL PROYECTO",
       "en": "# PROJECT CONTEXT",
       "es": "# CONTEXTO DEL PROYECTO",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
-      "en": "I am developing a PWA in React + Vite called “Canyoning”, designed to be used in mountains and natural environments.",
+      "en": "I am developing a React and Vite PWA called “Barranquismo”, designed for use in the mountains and other outdoor settings.",
       "es": "Estoy desarrollando una PWA en React + Vite llamada “Barranquismo”, pensada para usarse en montaña y entornos naturales.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1420,22 +1830,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Los usuarios la consultarán en condiciones reales de campo: con luz solar intensa, reflejos, guantes, y conexión limitada.",
       "en": "Users will consult it in real field conditions: with intense sunlight, reflections, gloves, and limited connection.",
       "es": "Los usuarios la consultarán en condiciones reales de campo: con luz solar intensa, reflejos, guantes, y conexión limitada.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
-      "en": "The app shows canyon files with difficulty, material, times and links to Wikiloc.",
+      "en": "The app shows canyon details, including difficulty, equipment, estimated times and Wikiloc links.",
       "es": "La app muestra fichas de barrancos con dificultad, material, tiempos y enlaces a Wikiloc.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1448,13 +1868,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
       "en": "It has no backend - everything works on the client (localStorage, local JSON) and will be deployed to GitHub Pages.",
       "es": "No tiene backend: todo funciona en el cliente (localStorage, JSON local) y se desplegará en GitHub Pages.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1466,13 +1891,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "# OBJETIVO",
       "en": "# OBJECTIVE",
       "es": "#OBJETIVO",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1484,13 +1914,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
-      "en": "I want you to act as a **professional UX/UI designer specialized in outdoor environments, accessibility and functional design**.",
-      "es": "Quiero que actúes como un **diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional**.",
-      "reviewed": false,
+      "en": "I want you to act as a professional UX/UI designer specialized in outdoor environments, accessibility and functional design.",
+      "es": "Quiero que actúes como un diseñador profesional de UX/UI especializado en entornos outdoor, accesibilidad y diseño funcional.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1503,13 +1938,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
-      "en": "Your task is to improve the visual design and user experience of the application **so that it is beautiful, readable and professional**, without losing simplicity or performance.",
-      "es": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación **para que sea bonita, legible y profesional**, sin perder simplicidad ni rendimiento.",
-      "reviewed": false,
+      "en": "Your task is to improve the visual design and user experience of the application so that it is beautiful, readable and professional, without losing simplicity or performance.",
+      "es": "Tu tarea es mejorar el diseño visual y la experiencia de uso de la aplicación para que sea bonita, legible y profesional, sin perder simplicidad ni rendimiento.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1522,13 +1962,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
       "en": "Give me detailed design suggestions and, if possible, code snippets (JSX, CSS or Tailwind) ready to implement.",
       "es": "Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (JSX, CSS o Tailwind) listos para implementar.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1541,13 +1986,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "# QUÉ QUIERO CONSEGUIR",
       "en": "# WHAT I WANT TO ACHIEVE",
       "es": "# QUÉ QUIERO CONSEGUIR",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1559,13 +2009,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
-      "en": "– A **beautiful and coherent** interface, worthy of a professional product.",
-      "es": "– Una interfaz **bonita y coherente**, digna de un producto profesional.",
-      "reviewed": false,
+      "en": "– A beautiful and coherent interface, worthy of a professional product.",
+      "es": "– Una interfaz bonita y coherente, digna de un producto profesional.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1578,13 +2033,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
-      "en": "– **High readability under the sun**: large texts, clear fonts and strong contrast.",
-      "es": "– **Alta legibilidad bajo el sol**: textos grandes, fuentes claras y contraste fuerte.",
-      "reviewed": false,
+      "en": "– High readability under the sun: large texts, clear fonts and strong contrast.",
+      "es": "– Alta legibilidad bajo el sol: textos grandes, fuentes claras y contraste fuerte.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1597,13 +2057,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
-      "en": "– **Visually attractive components** but easy to render in React (no heavy dependencies).",
-      "es": "– **Componentes visualmente atractivos** pero sencillos de renderizar en React (sin dependencias pesadas).",
-      "reviewed": false,
+      "en": "– Visually attractive components but easy to render in React (no heavy dependencies).",
+      "es": "– Componentes visualmente atractivos pero sencillos de renderizar en React (sin dependencias pesadas).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1616,13 +2081,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
-      "en": "– **Clear visual hierarchy** (well-defined colors, sizes and spaces).",
-      "es": "– **Jerarquía visual clara** (colores, tamaños y espacios bien definidos).",
-      "reviewed": false,
+      "en": "– Clear visual hierarchy (well-defined colors, sizes and spaces).",
+      "es": "– Jerarquía visual clara (colores, tamaños y espacios bien definidos).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1635,13 +2105,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
-      "en": "– **Outdoor style**, natural and modern (inspired by apps like Komoot, AllTrails or Wikiloc).",
-      "es": "– **Estilo outdoor**, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
-      "reviewed": false,
+      "en": "– Outdoor style, natural and modern (inspired by apps like Komoot, AllTrails or Wikiloc).",
+      "es": "– Estilo outdoor, natural y moderno (inspirado en apps como Komoot, AllTrails o Wikiloc).",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1653,13 +2128,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
-      "en": "– **Comfortable tactile interaction** (large buttons, immediate visual feedback).",
-      "es": "– **Interacción táctil cómoda** (botones amplios, feedback visual inmediato).",
-      "reviewed": false,
+      "en": "– Comfortable touch interaction (large buttons and immediate visual feedback).",
+      "es": "– Interacción táctil cómoda (botones amplios, feedback visual inmediato).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1672,22 +2152,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– **Adaptación móvil total** (mobile-first con breakpoints a tablet).",
-      "en": "- * * Total mobile adaptation * * (mobile-first with breakpoints to tablet).",
-      "es": "– **Adaptación móvil total** (mobile-first con breakpoints a tablet).",
-      "reviewed": false,
+      "en": "– Full mobile support (a mobile-first layout that adapts to tablet screens).",
+      "es": "– Adaptación móvil total (mobile-first con breakpoints a tablet).",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
-      "en": "– That respects good **accessibility practices (WCAG 2.1)**.",
-      "es": "– Que respete buenas prácticas de **accesibilidad (WCAG 2.1)**.",
-      "reviewed": false,
+      "en": "– That respects good accessibility practices (WCAG 2.1).",
+      "es": "– Que respete buenas prácticas de accesibilidad (WCAG 2.1).",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1700,13 +2190,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
-      "en": "– That proposes a **professional color palette and typography**, ideal for direct sun and natural contexts.",
-      "es": "– Que proponga una **paleta de colores y tipografía profesional**, ideal para sol directo y contextos naturales.",
-      "reviewed": false,
+      "en": "– A professional colour palette and typography suited to direct sunlight and outdoor use.",
+      "es": "– Que proponga una paleta de colores y tipografía profesional, ideal para sol directo y contextos naturales.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1719,13 +2214,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "# PUNTOS CLAVE QUE DEBES CUBRIR",
       "en": "# KEY POINTS YOU SHOULD COVER",
       "es": "# PUNTOS CLAVE QUE DEBES CUBRIR",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1738,13 +2238,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "1. **Tipografía**",
-      "en": "1. **Typography**",
-      "es": "1. **Tipografía**",
-      "reviewed": false,
+      "en": "1. Typography",
+      "es": "1. Tipografía",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1756,13 +2261,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
       "en": "– Use readable sans-serif fonts (e.g. Inter, Poppins, Nunito, Roboto Flex).",
       "es": "– Usa fuentes sans-serif legibles (ej. Inter, Poppins, Nunito, Roboto Flex).",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1774,13 +2284,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
       "en": "– Sizes: minimum 16–18px for text, 22–28px for titles.",
       "es": "– Tamaños: mínimo 16–18px para texto, 22–28px para títulos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1793,13 +2308,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
-      "en": "– Good spacing (`letter-spacing`, `line-height`) for reading under reflections.",
+      "en": "– Appropriate letter-spacing and line-height for readability in glare.",
       "es": "– Buen espaciado (`letter-spacing`, `line-height`) para lectura bajo reflejos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1812,13 +2332,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "2. **Colores y contraste**",
-      "en": "2. **Colors and contrast**",
-      "es": "2. **Colores y contraste**",
-      "reviewed": false,
+      "en": "2. Colors and contrast",
+      "es": "2. Colores y contraste",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1830,13 +2355,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Contraste alto (WCAG AAA) entre fondo y texto.",
       "en": "– High contrast (WCAG AAA) between background and text.",
       "es": "– Contraste alto (WCAG AAA) entre fondo y texto.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1848,13 +2378,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
       "en": "– Propose a professional palette inspired by nature (blues, beige, dark greens, warm grays).",
       "es": "– Propón una paleta profesional inspirada en la naturaleza (azules, beige, verdes oscuros, grises cálidos).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1867,13 +2402,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Incluye un modo alto contraste o “modo exterior”.",
-      "en": "– Includes a high contrast mode or “outdoor mode”.",
+      "en": "– Include a high-contrast or “outdoor” mode.",
       "es": "– Incluye un modo alto contraste o “modo exterior”.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1885,13 +2425,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "3. **Componentes y botones**",
-      "en": "3. **Components and buttons**",
-      "es": "3. **Componentes y botones**",
-      "reviewed": false,
+      "en": "3. Components and buttons",
+      "es": "3. Componentes y botones",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1903,13 +2448,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Áreas táctiles grandes (mínimo 44x44px).",
       "en": "– Large touch areas (minimum 44x44px).",
       "es": "– Áreas táctiles grandes (mínimo 44x44px).",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1921,13 +2471,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Botones redondeados con sombra suave o borde definido.",
       "en": "– Rounded buttons with soft shadow or defined edge.",
       "es": "– Botones redondeados con sombra suave o borde definido.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1939,13 +2494,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
       "en": "– Visual feedback when clicking (change color, opacity or elevation).",
       "es": "– Feedback visual al pulsar (cambio de color, opacidad o elevación).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1958,13 +2518,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Mantén consistencia en iconos, sombras y radios.",
       "en": "– Maintain consistency in icons, shadows and radii.",
       "es": "– Mantén consistencia en iconos, sombras y radios.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -1977,13 +2542,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "4. **Diseño visual**",
-      "en": "4. **Visual design**",
-      "es": "4. **Diseño visual**",
-      "reviewed": false,
+      "en": "4. Visual design",
+      "es": "4. Diseño visual",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -1995,13 +2565,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
       "en": "– Functional minimalism: without being overloaded, but visually pleasing.",
       "es": "– Minimalismo funcional: sin recargar, pero agradable visualmente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2014,13 +2589,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
-      "en": "– Clear distribution: fixed header, list of ravines with well-separated cards and accessible details.",
+      "en": "– A clear layout: a fixed header, well-separated canyon cards and easy-to-access details.",
       "es": "– Distribución clara: encabezado fijo, lista de barrancos con tarjetas (cards) bien separadas y detalles accesibles.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2033,13 +2613,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
       "en": "– Balanced use of color for hierarchy: titles, primary buttons, secondary actions.",
       "es": "– Uso equilibrado de color para jerarquía: títulos, botones primarios, acciones secundarias.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2051,13 +2636,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "5. **Estilo global**",
-      "en": "5. **Global style**",
-      "es": "5. **Estilo global**",
-      "reviewed": false,
+      "en": "5. Global style",
+      "es": "5. Estilo global",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2069,6 +2659,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -2102,7 +2697,7 @@
       "source": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
       "en": "– Subtle animations (fade, scale) only if they do not affect performance.",
       "es": "– Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2115,13 +2710,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Bordes suaves, sombras naturales, espacios amplios.",
       "en": "– Soft edges, natural shadows, wide spaces.",
       "es": "– Bordes suaves, sombras naturales, espacios amplios.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2133,13 +2733,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Consistencia entre Home, Detail y Checklist.",
       "en": "– Consistency between Home, Detail and Checklist.",
       "es": "– Consistencia entre Home, Detail y Checklist.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2151,13 +2756,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "6. **PWA y rendimiento**",
-      "en": "6. **PWA and performance**",
-      "es": "6. **PWA y rendimiento**",
-      "reviewed": false,
+      "en": "6. PWA and performance",
+      "es": "6. PWA y rendimiento",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2169,13 +2779,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Fuentes y colores precargados.",
-      "en": "– Preloaded fonts and colors.",
-      "es": "– Fuentes y colores precargados.",
-      "reviewed": false,
+      "en": "– Load only the fonts needed and define a consistent colour palette.",
+      "es": "– Carga solo las fuentes necesarias y define una paleta coherente.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2188,13 +2803,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
       "en": "– Don't use heavy images, use SVG or vector icons.",
       "es": "– No uses imágenes pesadas, usa SVG o íconos vectoriales.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2207,13 +2827,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Optimiza para modo offline (mínimo CSS y assets).",
       "en": "– Optimize for offline mode (minimal CSS and assets).",
       "es": "– Optimiza para modo offline (mínimo CSS y assets).",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2225,13 +2850,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "7. **Accesibilidad**",
-      "en": "7. **Accessibility**",
-      "es": "7. **Accesibilidad**",
-      "reviewed": false,
+      "en": "7. Accessibility",
+      "es": "7. Accesibilidad",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2243,13 +2873,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Contraste mínimo 4.5:1 en todos los textos.",
-      "en": "– Minimum contrast 4.5:1 in all texts.",
-      "es": "– Contraste mínimo 4.5:1 en todos los textos.",
-      "reviewed": false,
+      "en": "– A minimum contrast ratio of 4.5:1 for normal text; aim for 7:1 where possible to improve outdoor readability.",
+      "es": "– Contraste mínimo de 4,5:1 para el texto normal; busca 7:1 cuando sea posible para facilitar la lectura al aire libre.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2262,13 +2897,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Colores accesibles para daltónicos (usa color+forma).",
-      "en": "– Colors accessible to colorblind people (use color+shape).",
-      "es": "– Colores accesibles para daltónicos (usa color+forma).",
-      "reviewed": false,
+      "en": "– Do not rely on colour alone: combine it with shapes or labels.",
+      "es": "– No dependas solo del color: combínalo con formas o etiquetas.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2280,13 +2920,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– Texto alternativo en iconos, roles ARIA en botones.",
-      "en": "– Alt text on icons, ARIA roles on buttons.",
-      "es": "– Texto alternativo en iconos, roles ARIA en botones.",
-      "reviewed": false,
+      "en": "– Accessible control labels and native HTML buttons; use ARIA where needed.",
+      "es": "– Etiquetas accesibles para los controles y botones HTML nativos; usa ARIA cuando sea necesario.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2298,13 +2943,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "# FORMATO DE RESPUESTA ESPERADO",
       "en": "# EXPECTED RESPONSE FORMAT",
       "es": "# FORMATO DE RESPUESTA ESPERADO",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2317,13 +2967,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
       "en": "– ✅ List of UX/UI recommendations ordered by priority (high, medium, low).",
       "es": "– ✅ Lista de recomendaciones de UX/UI ordenadas por prioridad (alta, media, baja).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2336,13 +2991,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
-      "en": "– 🎨 Proposal for a professional **color palette and typography**.",
-      "es": "– 🎨 Propuesta de **paleta de colores y tipografía** profesional.",
-      "reviewed": false,
+      "en": "– 🎨 Proposal for a professional color palette and typography.",
+      "es": "– 🎨 Propuesta de paleta de colores y tipografía profesional.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2355,13 +3015,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
       "en": "– 💻 Concrete examples of CSS or Tailwind to implement.",
       "es": "– 💻 Ejemplos concretos de CSS o Tailwind para implementar.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2373,13 +3038,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
       "en": "– 🧠 Brief justification for each suggestion (why it improves visibility, aesthetics or usability).",
       "es": "– 🧠 Justificación breve de cada sugerencia (por qué mejora la visibilidad, estética o usabilidad).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2392,13 +3062,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
-      "en": "– 📱 Textual or wireframe mockup (optional) for the ideal structure of the main screen.",
+      "en": "– An optional text mockup or wireframe showing the ideal main-screen structure.",
       "es": "– 📱 Mockup textual o wireframe (opcional) para la estructura ideal de la pantalla principal.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2410,21 +3085,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "# TECNOLOGÍAS",
       "en": "# TECHNOLOGIES",
       "es": "# TECNOLOGÍAS",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– React + Vite",
       "en": "– React + Vite",
       "es": "– React + Vite",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2436,13 +3121,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Tailwind o CSS Modules",
       "en": "– Tailwind or CSS Modules",
       "es": "– Tailwind o Módulos CSS",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2454,13 +3144,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– LocalStorage",
       "en": "–LocalStorage",
       "es": "– LocalStorage",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2472,13 +3167,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– GitHub Pages (PWA estática)",
       "en": "– GitHub Pages (Static PWA)",
       "es": "– GitHub Pages (PWA estática)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2490,21 +3190,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "# INSTRUCCIÓN FINAL",
       "en": "# FINAL INSTRUCTION",
       "es": "# INSTRUCCIÓN FINAL",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Actúa como un diseñador UX/UI profesional.",
       "en": "Act like a professional UX/UI designer.",
       "es": "Actúa como un diseñador UX/UI profesional.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2517,13 +3227,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
-      "en": "Don't give theory: **give me proposals ready to apply** with specific code or styles.",
-      "es": "No des teoría: **dame propuestas listas para aplicar** con código o estilos concretos.",
-      "reviewed": false,
+      "en": "Don't give theory: give me proposals ready to apply with specific code or styles.",
+      "es": "No des teoría: dame propuestas listas para aplicar con código o estilos concretos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2536,13 +3251,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
-      "en": "Balances **beauty, usability and outdoor functionality**.",
-      "es": "Equilibra **belleza, usabilidad y funcionalidad outdoor**.",
-      "reviewed": false,
+      "en": "Balance beauty, usability and outdoor functionality.",
+      "es": "Equilibra belleza, usabilidad y funcionalidad outdoor.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2555,13 +3275,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
       "en": "The result should look like it was made by an expert designer, but optimized for React and lightweight PWAs.",
       "es": "El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2573,6 +3298,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -2681,9 +3411,9 @@
     },
     {
       "source": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
-      "en": "Once he requested those changes from Codex, he modified what he considered necessary, after a few minutes (it is fascinating to see how he modifies the code in real time) a version was ready as he needed:",
-      "es": "Una vez pedido esos cambios a Codex, modificó lo que consideró necesario, después de unos minutos (es fascinante ver como va modificando a tiempo real el código) ya estaba lista una versión como ya que necesitaba:",
-      "reviewed": false,
+      "en": "After requesting these changes, I watched Codex update the code in real time. Within a few minutes, I had a version closer to what I wanted:",
+      "es": "Después de pedir estos cambios a Codex, observé cómo modificaba el código en tiempo real. En unos minutos tuve una versión más cercana a lo que buscaba:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2696,13 +3426,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "volví a visualizar la página ejecutando en consola:",
-      "en": "I viewed the page again by executing in the console:",
-      "es": "volví a visualizar la página ejecutando en consola:",
-      "reviewed": false,
+      "en": "I started the app again by running the command in the terminal:",
+      "es": "Volví a abrir la aplicación ejecutando el comando en la terminal:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2715,13 +3450,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "entro en el navegador y…",
-      "en": "I go into the browser and…",
-      "es": "entro en el navegador y…",
-      "reviewed": false,
+      "en": "I opened the browser and…",
+      "es": "Abrí el navegador y…",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2734,13 +3474,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
       "en": "The page I had created was now ready and functional. After verifying the changes, I ran a new",
       "es": "La página que había creado ya estaba lista y era funcional. Tras verificar los cambios, ejecuté un nuevo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2753,13 +3498,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
-      "en": "and waited for the update of GitHub Pages. Sometimes changes take a while to be reflected by caching or localStorage, but after cleaning the browser, the new version worked perfectly.",
-      "es": "y esperé la actualización de GitHub Pages. A veces los cambios tardan en reflejarse por el almacenamiento en caché o localStorage, pero tras limpiar el navegador, la nueva versión funcionaba perfectamente.",
-      "reviewed": false,
+      "en": "and waited for the GitHub Pages deployment to finish. If the browser still showed an older version, I checked the deployment and the service worker cache. Clearing site data can also erase saved preferences and ratings, so it is worth checking what will be lost first.",
+      "es": "y esperé a que terminara el despliegue de GitHub Pages. Si el navegador seguía mostrando una versión anterior, comprobaba el despliegue y la caché del service worker. Borrar los datos del sitio puede eliminar también las preferencias y valoraciones guardadas, por lo que no conviene hacerlo sin revisar qué se perderá.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2772,13 +3522,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "View linked image or resource",
       "en": "View linked image or resource",
       "es": "Ver imagen o recurso vinculado",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2790,6 +3545,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -2803,9 +3563,9 @@
     },
     {
       "source": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
-      "en": "Developing this application was much more than programming: it was learning to communicate with an AI. The role of the developer changes: it is no longer about writing code, but about",
-      "es": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. El rol del desarrollador cambia: ya no se trata de escribir código, sino de",
-      "reviewed": false,
+      "en": "Developing this app was about more than programming: it meant learning to communicate with AI. In this project, my work focused on",
+      "es": "Desarrollar esta aplicación fue mucho más que programar: fue aprender a comunicarme con una IA. En este proyecto, mi trabajo se centró en",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2818,16 +3578,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "formular problemas, guiar al sistema y validar resultados.",
-      "en": "formulate problems, guide the system and validate results.",
+      "en": "defining problems, guiding the system and validating the results.",
       "es": "formular problemas, guiar al sistema y validar resultados.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La precisión de los prompts lo es todo**.** Un buen contexto genera código limpio y funcional.",
@@ -2851,16 +3621,21 @@
       "source": "El flujo de trabajo híbrido (ChatGPT + Codex) es tremendamente eficiente para proyectos personales o prototipos.",
       "en": "The hybrid workflow (ChatGPT + Codex) is tremendously efficient for personal projects or prototypes.",
       "es": "El flujo de trabajo híbrido (ChatGPT + Codex) es tremendamente eficiente para proyectos personales o prototipos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
-      "en": "GitHub Pages and PWA are the perfect pair for projects without a backend.",
-      "es": "GitHub Pages y PWA son la pareja perfecta para proyectos sin backend.",
-      "reviewed": false,
+      "en": "GitHub Pages and PWA features were a good fit for this project without a backend.",
+      "es": "GitHub Pages y las PWA encajaron bien en este proyecto sin backend.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2872,29 +3647,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Framework:",
-      "en": "Framework:",
-      "es": "Marco:",
-      "reviewed": false,
+      "en": "Technologies:",
+      "es": "Tecnologías:",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "React + Vite",
       "en": "React + Vite",
       "es": "React + Vite",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "IA utilizadas:",
       "en": "AI used:",
       "es": "IA utilizadas:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2906,13 +3696,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
       "en": "ChatGPT (UX and technical assistant) and Codex (code generation)",
       "es": "ChatGPT (asistente técnico y UX) y Codex (generación de código)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -2925,13 +3720,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Librerías clave:",
       "en": "Key libraries:",
       "es": "Librerías clave:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2943,29 +3743,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Leaflet, Workbox, TailwindCSS",
-      "en": "Leaflet, Workbox, TailwindCSS",
-      "es": "Folleto, Caja de trabajo, TailwindCSS",
-      "reviewed": false,
+      "en": "Leaflet, Workbox, Tailwind CSS",
+      "es": "Leaflet, Workbox, Tailwind CSS",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Despliegue:",
       "en": "Deployment:",
       "es": "Despliegue:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "GitHub Pages (PWA estática)",
       "en": "GitHub Pages (Static PWA)",
       "es": "GitHub Pages (PWA estática)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -2977,29 +3792,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Web",
       "en": "Web",
       "es": "Web",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "José Ramón García",
       "en": "José Ramón García",
       "es": "José Ramón García",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
-      "en": "Computer Engineering student, passionate about technology applied to nature. He combines his professional experience in the food industry with software projects and outdoor apps. Explore how",
-      "es": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y apps outdoor. Explora cómo",
-      "reviewed": false,
+      "en": "A Computer Engineering student with a passion for applying technology to the outdoors. He combines his professional experience in the food industry with software projects and outdoor apps. At",
+      "es": "Estudiante de Ingeniería Informática, apasionado por la tecnología aplicada a la naturaleza. Combina su experiencia profesional en la industria alimentaria con proyectos de software y aplicaciones para actividades al aire libre. En",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -3012,13 +3842,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "utiliza",
-      "en": "uses",
-      "es": "utilizar",
-      "reviewed": false,
+      "en": "he explores how to use",
+      "es": "explora cómo utilizar",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -3030,30 +3865,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "la inteligencia artificial para potenciar la creatividad y la productividad humana",
-      "en": "artificial intelligence to enhance human creativity and productivity",
+      "en": "artificial intelligence to support human creativity and productivity",
       "es": "la inteligencia artificial para potenciar la creatividad y la productividad humana",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "en entornos reales.",
       "en": "in real environments.",
       "es": "en entornos reales.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
-      "en": "A history of the Saturdays.AI community. Originally published on Oct 28, 2025.",
+      "en": "A story from the Saturdays.AI community. Originally published on Oct 28, 2025.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 28 oct 2025.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -3066,25 +3916,183 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
       }
     },
     {
       "source": "Ya tenía una app completa, funcional, ligera y 100% generada con IA.",
-      "en": "I now had a complete, functional, lightweight app generated entirely with AI.",
-      "es": "Ya tenía una app completa, funcional, ligera y 100% generada con IA.",
-      "reviewed": true
+      "en": "I now had a working, lightweight app, with AI-generated code and decisions reviewed by me.",
+      "es": "Ya tenía una aplicación funcional y ligera, con código generado por IA y decisiones revisadas por mí.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La precisión de los prompts lo es todo. Un buen contexto genera código limpio y funcional.",
-      "en": "Precision in prompts is everything. Good context produces clean, functional code.",
-      "es": "La precisión de los prompts lo es todo. Un buen contexto genera código limpio y funcional.",
-      "reviewed": true
+      "en": "Clear prompts help. Good context guides code generation, but it does not replace testing.",
+      "es": "Los prompts precisos ayudan. Un buen contexto orienta la generación de código, pero no sustituye las pruebas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La validación humana sigue siendo esencial. La IA propone, pero tú decides qué aceptar o ajustar.",
       "en": "Human validation remains essential. AI makes suggestions, but you decide what to accept or adjust.",
       "es": "La validación humana sigue siendo esencial. La IA propone, pero tú decides qué aceptar o ajustar.",
       "reviewed": true
+    },
+    {
+      "source": "Cómo creé una aplicación de barranquismo con ChatGPT y Codex: planificación, datos, mapas, modo sin conexión y despliegue en GitHub Pages.",
+      "en": "How I built a canyoning app with ChatGPT and Codex: planning, data, maps, offline features and deployment to GitHub Pages.",
+      "es": "Cómo creé una aplicación de barranquismo con ChatGPT y Codex: planificación, datos, mapas, modo sin conexión y despliegue en GitHub Pages.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Aplicación de barranquismo creada con ayuda de IA",
+      "en": "Canyoning app created with AI assistance",
+      "es": "Aplicación de barranquismo creada con ayuda de IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Como muchos amantes de la montaña, quería una página minimalista donde encontrar información de barrancos y consultar los recorridos sin cobertura, sin saltar entre diez webs. Wikiloc me daba los tracks y Descente-Canyon los datos técnicos, pero nada estaba unificado ni respondía bien a lo que necesitaba en mitad de la montaña.",
+      "en": "Like many mountain enthusiasts, I wanted a minimalist site where I could find canyon information and consult routes without a signal, rather than jumping between ten websites. Wikiloc provided the tracks and Descente-Canyon the technical details, but nothing brought them together in a way that met my needs out in the mountains.",
+      "es": "Como muchos amantes de la montaña, quería una página minimalista donde encontrar información de barrancos y consultar los recorridos sin cobertura, sin saltar entre diez webs. Wikiloc me daba los tracks y Descente-Canyon los datos técnicos, pero nada estaba unificado ni respondía bien a lo que necesitaba en mitad de la montaña.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“Quiero construir una web para un inventario de barrancos. Los usuarios deben poder filtrar por dificultad y ver mapas. Lo más importante: debe funcionar offline. No quiero usar backend y planeo desplegarla gratis en GitHub Pages. ¿Qué stack tecnológico me recomiendas y cómo debería estructurar el proyecto?”",
+      "en": "“I want to build a website with a canyon inventory. Users should be able to filter by difficulty and view maps. Most importantly, it must work offline. I do not want a backend and plan to deploy it on GitHub Pages. What technology stack would you recommend, and how should I structure the project?”",
+      "es": "“Quiero construir una web para un inventario de barrancos. Los usuarios deben poder filtrar por dificultad y ver mapas. Lo más importante: debe funcionar offline. No quiero usar backend y planeo desplegarla gratis en GitHub Pages. ¿Qué stack tecnológico me recomiendas y cómo debería estructurar el proyecto?”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Una vez creado un repositorio vacío en GitHub, ejecuta estos comandos desde la carpeta raíz del proyecto local. Sustituye TU_USUARIO y NOMBRE_REPOSITORIO por tus datos:",
+      "en": "After creating an empty repository on GitHub, run these commands from your local project’s root folder. Replace TU_USUARIO and NOMBRE_REPOSITORIO with your username and repository name:",
+      "es": "Una vez creado un repositorio vacío en GitHub, ejecuta estos comandos desde la carpeta raíz del proyecto local. Sustituye TU_USUARIO y NOMBRE_REPOSITORIO por tus datos:",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El mayor desafío era la información: las fuentes utilizaban formatos y descripciones distintos para cada atributo, así que los datos recopilados no eran coherentes entre sí. Necesitaba un proceso de limpieza. Automatizar la extracción no garantizaba que los datos fueran correctos o estuvieran actualizados: tenía que contrastarlos con las fuentes antes de utilizarlos para preparar una salida.",
+      "en": "The biggest challenge was the information itself: sources used different formats and descriptions for each attribute, so the collected data was inconsistent. I needed a cleaning process. Automating extraction did not guarantee correct or current information: I still needed to check it against the sources before using it to plan a trip.",
+      "es": "El mayor desafío era la información: las fuentes utilizaban formatos y descripciones distintos para cada atributo, así que los datos recopilados no eran coherentes entre sí. Necesitaba un proceso de limpieza. Automatizar la extracción no garantizaba que los datos fueran correctos o estuvieran actualizados: tenía que contrastarlos con las fuentes antes de utilizarlos para preparar una salida.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“Tengo varios JSON con datos de barrancos. Necesito un script que lea todos, normalice los nombres, extraiga coordenadas y unifique los niveles de dificultad. Exporta un único dataset.json final.”",
+      "en": "“I have several JSON files containing canyon data. I need a script to read them all, standardise names, extract coordinates and harmonise difficulty levels. Export a single final dataset.json file.”",
+      "es": "“Tengo varios JSON con datos de barrancos. Necesito un script que lea todos, normalice los nombres, extraiga coordenadas y unifique los niveles de dificultad. Exporta un único dataset.json final.”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“Crea un componente que importe 'dataset.json'. Debe incluir buscador y filtros dinámicos (por dificultad y zona). Mapea los resultados en tarjetas (‘BarrancoCard’) enlazadas a una vista de detalle.”",
+      "en": "“Create a component that imports 'dataset.json'. Include a search box and dynamic filters for difficulty and area. Display the results in ‘BarrancoCard’ cards linked to a detail view.”",
+      "es": "“Crea un componente que importe 'dataset.json'. Debe incluir buscador y filtros dinámicos (por dificultad y zona). Mapea los resultados en tarjetas (‘BarrancoCard’) enlazadas a una vista de detalle.”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“Crea un componente ‘FichaDetalle’. Muestra datos del barranco: rápel máximo, tiempos, coordenadas y enlaces.”",
+      "en": "“Create a ‘FichaDetalle’ component showing canyon details: maximum abseil length, estimated times, coordinates and links.”",
+      "es": "“Crea un componente ‘FichaDetalle’. Muestra datos del barranco: rápel máximo, tiempos, coordenadas y enlaces.”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“En mi app, los usuarios deben valorar un barranco con estrellas y añadirlo a una ‘Checklist’. Estos datos deben persistir incluso sin conexión. Usa localStorage.”",
+      "en": "“In my app, users should be able to rate a canyon with stars and add it to a ‘Checklist’. This data must persist even offline. Use localStorage.”",
+      "es": "“En mi app, los usuarios deben valorar un barranco con estrellas y añadirlo a una ‘Checklist’. Estos datos deben persistir incluso sin conexión. Usa localStorage.”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "“Estoy diseñando esta app para usarla en montaña, bajo sol intenso y con reflejos. Dame recomendaciones de UX/UI y un prompt detallado para Codex como si fuera un diseñador profesional.”",
+      "en": "“I am designing this app for mountain use, in strong sunlight and glare. Give me UX/UI recommendations and a detailed prompt for Codex from the perspective of a professional designer.”",
+      "es": "“Estoy diseñando esta app para usarla en montaña, bajo sol intenso y con reflejos. Dame recomendaciones de UX/UI y un prompt detallado para Codex como si fuera un diseñador profesional.”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "– Inspiración en Material Design y Fluent UI, adaptada al uso al aire libre.",
+      "en": "– Draw on Material Design and Fluent UI, adapted for outdoor use.",
+      "es": "– Inspiración en Material Design y Fluent UI, adaptada al uso al aire libre.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El resultado fue una guía completa: tipografías legibles como Inter y Poppins, alto contraste, botones grandes, una jerarquía visual clara y un estilo inspirado en Komoot y AllTrails. Codex aplicó las propuestas y la interfaz ganó claridad y coherencia; todavía correspondía comprobar la accesibilidad con pruebas.",
+      "en": "The result was a comprehensive guide: readable fonts such as Inter and Poppins, high contrast, large buttons, a clear visual hierarchy and a style inspired by Komoot and AllTrails. Codex applied the suggestions, making the interface clearer and more consistent; accessibility still needed to be tested.",
+      "es": "El resultado fue una guía completa: tipografías legibles como Inter y Poppins, alto contraste, botones grandes, una jerarquía visual clara y un estilo inspirado en Komoot y AllTrails. Codex aplicó las propuestas y la interfaz ganó claridad y coherencia; todavía correspondía comprobar la accesibilidad con pruebas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

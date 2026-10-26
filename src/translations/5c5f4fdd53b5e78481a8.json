@@ -6,8 +6,13 @@
       "source": "Descubriendo la calidad del sueño con técnicas de Machine Learning",
       "en": "Discovering sleep quality with Machine Learning techniques",
       "es": "Descubriendo la calidad del sueño con técnicas de Machine Learning",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Latam online. Segunda Edición. 2021 El brote de COVID-19 y las respuestas sociales adoptadas para combatir su propagación (por ejemplo, el confinamiento y el distanciamiento social) han tenido consecuencias de gran alcance,…",
@@ -20,290 +25,490 @@
       "source": "Análisis del dataset",
       "en": "Dataset analysis",
       "es": "Análisis del dataset",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Clasificación",
       "en": "Classification",
       "es": "Clasificación",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El brote de COVID-19 y las respuestas sociales adoptadas para combatir su propagación (por ejemplo, el confinamiento y el distanciamiento social) han tenido consecuencias de gran alcance, pero han brindando también una oportunidad única para examinar los efectos que el estrés crónico y la incertidumbre pueden tener en los patrones de sueño de la población en general.",
       "en": "The outbreak of COVID-19 and the societal responses adopted to combat its spread (e.g., lockdowns and social distancing) have had far-reaching consequences, but have also provided a unique opportunity to examine the effects that chronic stress and uncertainty can have on sleep patterns in the general population.",
       "es": "El brote de COVID-19 y las respuestas sociales adoptadas para combatir su propagación (por ejemplo, el confinamiento y el distanciamiento social) han tenido consecuencias de gran alcance, pero han brindado también una oportunidad única para examinar los efectos que el estrés crónico y la incertidumbre pueden tener en los patrones de sueño de la población en general.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Está bien documentado que el sueño puede verse afectado cuando se está bajo estrés y que los cambios en el sueño pueden tener consecuencias negativas en las emociones y el bienestar mental. Un metanálisis reciente mostró que la pandemia de COVID-19",
-      "en": "It is well documented that sleep can be affected when under stress and that changes in sleep can have negative consequences on emotions and mental well-being. A recent meta-analysis showed that the COVID-19 pandemic",
-      "es": "Está bien documentado que el sueño puede verse afectado cuando se está bajo estrés y que los cambios en el sueño pueden tener consecuencias negativas en las emociones y el bienestar mental. Un metanálisis reciente mostró que la pandemia de COVID-19",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Stress and sleep are related, and disrupted sleep can accompany emotional difficulties. The cited meta-analysis of the COVID-19 pandemic",
+      "es": "El estrés y el sueño están relacionados, y los cambios en el descanso pueden acompañarse de dificultades emocionales. El metanálisis citado sobre la pandemia de COVID-19",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "ha provocado una alta prevalencia de trastornos del sueño, que afectan aproximadamente al 40 % de las personas de la población general.",
-      "en": "has led to a high prevalence of sleep disorders, affecting approximately 40% of people in the general population.",
-      "es": "ha provocado una alta prevalencia de trastornos del sueño, que afectan aproximadamente al 40 % de las personas de la población general.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "estimated a pooled prevalence of sleep problems of 32.3% in the general population, with variation between studies. This association does not by itself show that every case was caused by the pandemic.",
+      "es": "estimó una prevalencia agrupada de problemas de sueño del 32,3% en la población general, con variación entre estudios. Esta asociación no demuestra por sí sola que todos los casos fueran causados por la pandemia.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se sabe que además del estrés debido a la pandemia por COVID-19, hay otros factores que podrían alterar la resiliencia mostrada bajo estrés, por ejemplo,la falta de interacción social, la falta de ejercicio físico, el bienestar económico etc.",
       "en": "It is known that in addition to stress due to the COVID-19 pandemic, there are other factors that could alter the resilience shown under stress, for example, lack of social interaction, lack of physical exercise, economic well-being, etc.",
       "es": "Se sabe que además del estrés debido a la pandemia por COVID-19, hay otros factores que podrían alterar la resiliencia mostrada bajo estrés, por ejemplo,la falta de interacción social, la falta de ejercicio físico, el bienestar económico etc.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este proyecto tiene como objetivo determinar qué factores pueden afectar la calidad del sueño de la población cuando están sujetas a situaciones de estrés crónico como es el caso de una pandemia. Predecir dichos factores permitiría emitir consejos útiles para la población, de tal forma que estén mejor preparados para futuras pandemias y/o situaciones de estrés crónico que permitan mitigar el impacto emocional causado por la mala calidad de sueño.",
-      "en": "This project aims to determine what factors can affect the quality of the population's sleep when they are subject to chronic stress situations, such as a pandemic. Predicting these factors would allow us to issue useful advice to the population, so that they are better prepared for future pandemics and/or situations of chronic stress that allow us to mitigate the emotional impact caused by poor quality sleep.",
-      "es": "Este proyecto tiene como objetivo determinar qué factores pueden afectar la calidad del sueño de la población cuando están sujetas a situaciones de estrés crónico como es el caso de una pandemia. Predecir dichos factores permitiría emitir consejos útiles para la población, de tal forma que estén mejor preparados para futuras pandemias y/o situaciones de estrés crónico que permitan mitigar el impacto emocional causado por la mala calidad de sueño.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The project explores associations between sleep quality and personal and contextual variables during prolonged stress. Its aim is to generate questions and hypotheses for further study, not clinical advice based on the model.",
+      "es": "El proyecto explora asociaciones entre la calidad del sueño y variables personales y contextuales durante una situación de estrés prolongado. El objetivo es generar preguntas e hipótesis que puedan investigarse, no emitir recomendaciones clínicas a partir del modelo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La base de datos seleccionada para este proyecto ha sido la publicada por la Universidad de Boston2, que consiste de una serie de encuestas realizadas a 1,518 personas a través de redes sociales para evaluar el impacto de la pandemia en el bienestar emocional y mental de las personas dependiendo diversos factores como la edad, el impacto económico, la condición de minoría y o el estado de riesgo.",
-      "en": "The database selected for this project has been published by Boston University2, which consists of a series of surveys conducted with 1,518 people through social networks to evaluate the impact of the pandemic on the emotional and mental well-being of people depending on various factors such as age, economic impact, minority status, and risk status.",
-      "es": "La base de datos seleccionada para este proyecto ha sido la publicada por la Universidad de Boston2, que consiste de una serie de encuestas realizadas a 1,518 personas a través de redes sociales para evaluar el impacto de la pandemia en el bienestar emocional y mental de las personas dependiendo diversos factores como la edad, el impacto económico, la condición de minoría y o el estado de riesgo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used the Boston College sleep and wellbeing survey described by Cunningham and colleagues in 2021. The project initially worked with data from 1,518 participants recruited through social media, including variables such as age, economic circumstances, minority status and risk factors.",
+      "es": "Utilizamos la encuesta de sueño y bienestar de Boston College, descrita por Cunningham y colaboradores en 2021. El proyecto trabajó inicialmente con datos de 1.518 participantes reclutados a través de redes sociales, con variables como edad, situación económica, pertenencia a minorías y factores de riesgo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una vez seleccionada la base de datos proseguimos a la limpieza y procesamiento de los datos. Después de este proceso, el número de variables de nuestra base de datos fue de 216 y el tamaño de la muestra se redujo a 839 sujetos debido a que no toda la información estaba completa.",
       "en": "Once the database is selected, we continue to clean and process the data. After this process, the number of variables in our database was 216 and the sample size was reduced to 839 subjects because not all the information was complete.",
       "es": "Una vez seleccionada la base de datos proseguimos a la limpieza y procesamiento de los datos. Después de este proceso, el número de variables de nuestra base de datos fue de 216 y el tamaño de la muestra se redujo a 839 sujetos debido a que no toda la información estaba completa.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las variables principales incluyen información demográfica (edad, identidad de género, ingresos, etc.), información relativa a los hábitos de sueño, niveles de ansiedad, regulación emocional cognitiva, y personalidad, entre otras.",
       "en": "The main variables include demographic information (age, gender identity, income, etc.), information related to sleep habits, anxiety levels, cognitive emotional regulation, and personality, among others.",
       "es": "Las variables principales incluyen información demográfica (edad, identidad de género, ingresos, etc.), información relativa a los hábitos de sueño, niveles de ansiedad, regulación emocional cognitiva, y personalidad, entre otras.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La métrica elegida para evaluar la calidad del sueño fue la variable del índice total de calidad del sueño de Pittsburgh (PSQI), que tiene una escala de 0 a 21. En dicha escala, una puntuación global de 5 o más indica una mala calidad del sueño; cuanto mayor sea la puntuación, peor será la calidad.",
-      "en": "The metric chosen to evaluate sleep quality was the Pittsburgh Sleep Quality Index (PSQI) variable, which has a scale from 0 to 21. On this scale, a global score of 5 or more indicates poor sleep quality; The higher the score, the worse the quality.",
-      "es": "La métrica elegida para evaluar la calidad del sueño fue la variable del índice total de calidad del sueño de Pittsburgh (PSQI), que tiene una escala de 0 a 21. En dicha escala, una puntuación global de 5 o más indica una mala calidad del sueño; cuanto mayor sea la puntuación, peor será la calidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We used the total Pittsburgh Sleep Quality Index (PSQI) score, which ranges from 0 to 21. Higher scores indicate poorer perceived sleep quality. This questionnaire measure does not replace clinical assessment.",
+      "es": "Utilizamos la puntuación total del índice de calidad del sueño de Pittsburgh (PSQI), que va de 0 a 21. Cuanto mayor es la puntuación, peor es la calidad del sueño percibida. Es una medida de cuestionario y no sustituye una evaluación clínica.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Observamos la distribución de los datos",
       "en": "We observe the distribution of the data",
       "es": "Observamos la distribución de los datos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Histograma Calidad del sueño por género",
       "en": "Sleep quality histogram by gender",
       "es": "Histograma Calidad del sueño por género",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Puntuación sueño",
       "en": "Sleep score",
       "es": "Puntuación sueño",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Barplot Calidad del sueño por estado civil",
       "en": "Barplot Sleep quality by marital status",
       "es": "Barplot Calidad del sueño por estado civil",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Barplot Calidad del sueño por ingresos",
       "en": "Barplot Sleep quality by income",
       "es": "Barplot Calidad del sueño por ingresos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Observamos la correlación que entra la calidad de sueño con otras variables no asociadas al sueño:",
-      "en": "We observe the correlation between sleep quality and other variables not associated with sleep:",
-      "es": "Observamos la correlación que entra la calidad de sueño con otras variables no asociadas al sueño:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We explored correlations between the sleep score and other variables:",
+      "es": "Exploramos la correlación de la puntuación del sueño con otras variables:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Diferencia de cronotipo pre y post covid",
-      "en": "Difference in pre and post covid chronotype",
-      "es": "Diferencia de cronotipo pre y post covid",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Chronotype difference before and during the pandemic",
+      "es": "Diferencia de cronotipo antes y durante la pandemia",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Variable de ansiedad (No consigue dejar de preocuparse)",
       "en": "Anxiety variable (Can't stop worrying)",
       "es": "Variable de ansiedad (No consigue dejar de preocuparse)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Variable de personalidad (Se considera relajado)",
       "en": "Personality variable (Considered relaxed)",
       "es": "Variable de personalidad (Se considera relajado)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Variable de ansiedad social (Miedo a extraños post covid)",
       "en": "Social anxiety variable (Fear of strangers post covid)",
       "es": "Variable de ansiedad social (Miedo a extraños post covid)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En el conjunto de datos, nuestra métrica elegida para evaluar toma valores del 0 al 18 (no se han observado casos de 19 a 21). Si tomamos estos valores como si fueran clases o subconjuntos podemos aplicar un método de clasificación.",
       "en": "In the data set, our chosen metric for evaluation takes values from 0 to 18 (no cases from 19 to 21 have been observed). If we take these values ​​as if they were classes or subsets we can apply a classification method.",
       "es": "En el conjunto de datos, nuestra métrica elegida para evaluar toma valores del 0 al 18 (no se han observado casos de 19 a 21). Si tomamos estos valores como si fueran clases o subconjuntos podemos aplicar un método de clasificación.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hemos elegido aplicar el algoritmo de RandomForestClassifier con el que en un principio obtenemos valores muy bajos de precisión rondando el 0,20. A continuación, probamos a recudir las clases agrupando los valores originales de la métrica. A medida que vamos reduciendo las clases observamos que los valores de precisión van mejorando, para 6 clases el resultado mejora en torno a 0,5 y para 4 clases el resultado llega a 0,7.",
-      "en": "We have chosen to apply the RandomForestClassifier algorithm with which we initially obtain very low precision values around 0.20. Next, we try to reduce the classes by grouping the original values ​​of the metric. As we reduce the classes we observe that the precision values ​​improve, for 6 classes the result improves around 0.5 and for 4 classes the result reaches 0.7.",
-      "es": "Hemos elegido aplicar el algoritmo de RandomForestClassifier con el que en un principio obtenemos valores muy bajos de precisión rondando el 0,20. A continuación, probamos a recudir las clases agrupando los valores originales de la métrica. A medida que vamos reduciendo las clases observamos que los valores de precisión van mejorando, para 6 clases el resultado mejora en torno a 0,5 y para 4 clases el resultado llega a 0,7.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "RandomForestClassifier initially achieved a score near 0.20. Grouping values into fewer classes raised it to around 0.5 for six classes and 0.7 for four. These are different classification tasks, so the figures are not directly comparable improvements on the same problem.",
+      "es": "RandomForestClassifier obtuvo inicialmente una puntuación cercana a 0,20. Al agrupar los valores en menos clases, el resultado aumentó: aproximadamente 0,5 con seis clases y 0,7 con cuatro. Las tareas resultantes son distintas, por lo que estas cifras no representan una mejora directamente comparable del mismo problema.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para tener una explicación de estos resultados mostramos los shap values de las predicciones:",
       "en": "To have an explanation of these results we show the shap values of the predictions:",
       "es": "Para tener una explicación de estos resultados mostramos los shap values de las predicciones:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Podemos observar que las variables que aparecen con más peso, son las que están directamente ligadas con datos de sueño (psqi_*). Las primeras de todas ellas son si la persona ha recurrido a medicinas para dormir, la percepción que declara de su calidad de sueño, y el tiempo que tarda en conciliar el sueño. Dentro de estas variables también observamos que tienen impacto datos de personalidad (big5_*) , como si se considera una persona relajada, o ansiedad (gad_*), como la capacidad de dejar las preocupaciones.",
       "en": "We can observe that the variables that appear with the most weight are those that are directly linked to sleep data (psqi_*). The first of all are whether the person has resorted to sleeping medicines, their self-reported perception of their sleep quality, and the time it takes to fall asleep. Within these variables we also observe that personality data (big5_*) has an impact, such as whether one considers oneself a relaxed person, or anxiety (gad_*), such as the ability to let go of worries.",
       "es": "Podemos observar que las variables que aparecen con más peso, son las que están directamente ligadas con datos de sueño (psqi_*). Las primeras de todas ellas son si la persona ha recurrido a medicinas para dormir, la percepción que declara de su calidad de sueño, y el tiempo que tarda en conciliar el sueño. Dentro de estas variables también observamos que tienen impacto datos de personalidad (big5_*) , como si se considera una persona relajada, o ansiedad (gad_*), como la capacidad de dejar las preocupaciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Según lo observado podemos concluir que el algoritmo está funcionando correctamente y que los datos en los que se basa para realizar las estimaciones son los esperados. Creemos que el número de observaciones con las que contamos son muy bajas para el número de clases a predecir y que aumentando los datos se podrían mejorar las predicciones.",
-      "en": "Based on what we have observed, we can conclude that the algorithm is working correctly and that the data on which it is based to make the estimates are as expected. We believe that the number of observations we have is very low for the number of classes to predict and that increasing the data could improve the predictions.",
-      "es": "Según lo observado podemos concluir que el algoritmo está funcionando correctamente y que los datos en los que se basa para realizar las estimaciones son los esperados. Creemos que el número de observaciones con las que contamos son muy bajas para el número de clases a predecir y que aumentando los datos se podrían mejorar las predicciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "It is unsurprising that PSQI questionnaire variables have high importance, but this limits interpretation: using components of the index to predict its total may simply reconstruct the score. Studying external factors would require excluding those components and evaluating again. The sample is also small for distinguishing so many classes.",
+      "es": "Que las variables del propio cuestionario PSQI tengan mucho peso es esperable, pero limita la interpretación: si se usan componentes del índice para predecir su total, el modelo puede estar reconstruyendo la puntuación. Para estudiar factores externos habría que excluir esos componentes y volver a evaluar. Además, la muestra es pequeña para distinguir tantas clases.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para la regresión hemos elegido cuatro algoritmos distintos: RandomForest, Logistic, GradientBoosting y HistGradientBoosting.",
-      "en": "For the regression we have chosen four different algorithms: RandomForest, Logistic, GradientBoosting and HistGradientBoosting.",
-      "es": "Para la regresión hemos elegido cuatro algoritmos distintos: RandomForest, Logistic, GradientBoosting y HistGradientBoosting.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "To estimate the score, we explored Random Forest, Gradient Boosting and HistGradientBoosting. The original list also included logistic regression, which is a classification method rather than regression for a continuous score.",
+      "es": "Para estimar la puntuación exploramos Random Forest, Gradient Boosting y HistGradientBoosting. El listado original también incluía regresión logística, que corresponde a clasificación y no a regresión de una puntuación continua.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El algoritmo que produjo el mayor coeficiente de determinación fue el de GradientBoosting, con un R2=0.9. Lo que significa que el 90% de los puntos se ajustan a la línea de regresión.",
-      "en": "The algorithm that produced the highest coefficient of determination was GradientBoosting, with R2=0.9. Which means that 90% of the points fit the regression line.",
-      "es": "El algoritmo que produjo el mayor coeficiente de determinación fue el de GradientBoosting, con un R2=0.9. Lo que significa que el 90% de los puntos se ajustan a la línea de regresión.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Gradient Boosting achieved the highest reported coefficient of determination, R² = 0.9. This summarises explained variance relative to a constant baseline prediction; it does not mean that 90% of points lie on a line or that 90% of predictions are correct.",
+      "es": "Gradient Boosting obtuvo el mayor coeficiente de determinación reportado: R² = 0,9. Esta cifra resume la varianza explicada respecto a una predicción constante de referencia; no significa que el 90% de los puntos coincida con una recta ni que haya un 90% de aciertos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una vez seleccionado el mejor algoritmo intentamos utilizar la optimización de los argumentos usando RandomizedSearchCV pero no obtuvimos nada mejor. Además probamos reducir el número de variables mediante el uso de PCA. Obtuvimos el número óptimo de variables y redujimos el tamaño de la base de datos a ese número, en este caso 138, pero los resultados empeoraron, la R2 disminuyó hasta 0.57.",
-      "en": "Once the best algorithm was selected we tried to use optimization of the arguments using RandomizedSearchCV but we did not get anything better. We also tried to reduce the number of variables by using PCA. We obtained the optimal number of variables and reduced the size of the database to that number, in this case 138, but the results worsened, the R2 decreased to 0.57.",
-      "es": "Una vez seleccionado el mejor algoritmo intentamos utilizar la optimización de los argumentos usando RandomizedSearchCV pero no obtuvimos nada mejor. Además probamos reducir el número de variables mediante el uso de PCA. Obtuvimos el número óptimo de variables y redujimos el tamaño de la base de datos a ese número, en este caso 138, pero los resultados empeoraron, la R2 disminuyó hasta 0.57.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We tried hyperparameter search with RandomizedSearchCV without improving the result. We also reduced the inputs to 138 PCA components, but R² fell to 0.57.",
+      "es": "Probamos la búsqueda de hiperparámetros con RandomizedSearchCV sin mejorar el resultado. También redujimos las variables a 138 componentes mediante PCA, pero el R² bajó a 0,57.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Análisis PCA para reducir el número de variables",
       "en": "PCA analysis to reduce the number of variables",
       "es": "Análisis PCA para reducir el número de variables",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por esta razón decidimos quedarnos con el resultado obtenido con el algoritmo de GradientBooster como la mejor opción para predecir la calidad del sueño.",
       "en": "For this reason we decided to stick with the result obtained with the GradientBooster algorithm as the best option to predict sleep quality.",
       "es": "Por esta razón decidimos quedarnos con el resultado obtenido con el algoritmo de GradientBooster como la mejor opción para predecir la calidad del sueño.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es posible predecir la calidad del sueño con un 90% de precisión. Pudimos observar que la calidad del sueño depende en mayor medida de variables relacionadas con:",
-      "en": "It is possible to predict sleep quality with 90% accuracy. We were able to observe that sleep quality depends to a greater extent on variables related to:",
-      "es": "Es posible predecir la calidad del sueño con un 90% de precisión. Pudimos observar que la calidad del sueño depende en mayor medida de variables relacionadas con:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The R² result of 0.9 must be read with the limitations above, particularly the inclusion of variables that form part of the index itself. Variables highlighted by the model included:",
+      "es": "El resultado de R² = 0,9 debe interpretarse con las limitaciones anteriores, especialmente la inclusión de variables que forman parte del propio índice. Entre las variables destacadas por el modelo estaban:",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Medicación",
       "en": "Medication",
       "es": "Medicación",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tiempo que toma a la persona conciliar el sueño",
       "en": "Time it takes for a person to fall asleep",
       "es": "Tiempo que toma a la persona conciliar el sueño",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Entusiasmo por llevar a cabo cosas",
       "en": "Enthusiasm for doing things",
       "es": "Entusiasmo por llevar a cabo cosas",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Manejo del estrés",
       "en": "Stress management",
       "es": "Manejo del estrés",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Control de las preocupaciones",
       "en": "Controlling worries",
       "es": "Control de las preocupaciones",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta predicción, aunque intuitiva, puede ser de utilidad para implantar medidas que puedan ayudar a la población a mejorar la calidad del sueño en situaciones de estrés crónico como la sufrida durante una pandemia.",
-      "en": "This prediction, although intuitive, can be useful to implement measures that can help the population improve the quality of sleep in situations of chronic stress such as that suffered during a pandemic.",
-      "es": "Esta predicción, aunque intuitiva, puede ser de utilidad para implantar medidas que puedan ayudar a la población a mejorar la calidad del sueño en situaciones de estrés crónico como la sufrida durante una pandemia.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "These associations may guide further research, but they do not establish causes of poor sleep or justify prescribed interventions. Model inputs and generalisation would need further evaluation first.",
+      "es": "Estas asociaciones pueden orientar investigaciones posteriores, pero no demuestran causas de la mala calidad del sueño ni permiten prescribir intervenciones. Antes habría que revisar las entradas del modelo y validar su generalización.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En el futuro, este proyecto se podría mejorar aumentando el número de muestras de la base de datos actual.",
-      "en": "In the future, this project could be improved by increasing the number of samples in the current database.",
-      "es": "En el futuro, este proyecto se podría mejorar aumentando el número de muestras de la base de datos actual.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Next steps would include expanding the sample, checking for information leakage and evaluating on independent data.",
+      "es": "El siguiente paso sería ampliar la muestra, revisar posibles fugas de información y evaluar con datos independientes.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "1. Jahrami, H.",
       "en": "1. Jahrami, H.",
       "es": "1. Jahrami, H.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "et al",
       "en": "et al",
       "es": "et al",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Sleep problems during COVID-19 pandemic by population: a systematic review and meta-analysis.",
       "en": ". Sleep problems during COVID-19 pandemic by population: a systematic review and meta-analysis.",
       "es": ". Problemas del sueño durante la pandemia de COVID-19 por población: una revisión sistemática y un metanálisis.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -316,25 +521,40 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "J Clin Sleep Med",
       "en": "J Clin Sleep Med",
       "es": "J Clin Sleep Med",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", jcsm-8930. (2020).",
       "en": ", jcsm-8930. (2020).",
       "es": ", jcsm-8930. (2020).",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Cunningham, T.J., Fields, E.C. & Kensinger, E.A. (2021) Boston College daily sleep and well-being survey data during early phase of the COVID-19 pandemic. Sci Data 8, 110.",
       "en": "2. Cunningham, T.J., Fields, E.C. & Kensinger, E.A. (2021) Boston College daily sleep and well-being survey data during early phase of the COVID-19 pandemic. Sci Data 8, 110.",
       "es": "2. Cunningham, TJ, Fields, EC y Kensinger, EA. (2021) Datos de la encuesta de bienestar y sueño diario de Boston College durante la fase inicial de la pandemia de COVID-19. Datos de ciencia 8, 110.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -347,19 +567,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Ana Galindo Alonso",
       "en": "Ana Galindo Alonso",
       "es": "Ana Galindo Alonso",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Bianey Palma",
       "en": "Bianey Palma",
       "es": "Bianey Palma",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Un proyecto analiza encuestas de sueño durante la pandemia con Random Forest y Gradient Boosting, explicando sus resultados y límites de interpretación.",
+      "en": "A project analyses pandemic sleep surveys with Random Forest and Gradient Boosting, explaining the results and their interpretation limits.",
+      "es": "Un proyecto analiza encuestas de sueño durante la pandemia con Random Forest y Gradient Boosting, explicando sus resultados y límites de interpretación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

@@ -20,7 +20,6 @@ Participa en la comunidad de Inteligencia Artificial de la antigua capital de Hi
 
 **Programa**: Machine Learning
 
-: (a determinar)
 
 [Únete ahora de la próxima](https://ti.to/saturdaysai/ai-saturdays-tarragona-2-edicion)
 
@@ -34,11 +33,7 @@ Participa en la comunidad de Inteligencia Artificial de la antigua capital de Hi
 
 #### Agenda
 
-**Sesiones online:**
-
-**Sesiones presenciales:**
-
-**Demoday:** 
+La agenda del archivo contemplaba sesiones online, sesiones presenciales y un Demo Day, sin concretar sus fechas.
 
 \* Las sesiones presenciales están destinadas a mejorar la experiencia de equipo y serán opcionales. Se realizarán de acuerdo a las indicaciones de las autoridades sanitarias.
 
@@ -50,7 +45,7 @@ Participa en la comunidad de Inteligencia Artificial de la antigua capital de Hi
 
 #### Requisitos
 
-**Programación:**
+**Programación:** consulta con el equipo los conocimientos previos requeridos.
 
 **Ordenador:**
 
@@ -74,7 +69,7 @@ Podrás obtener un diploma del curso, siempre que completes los siguientes requi
 
 Conferencia sobre Coches Autonomos y Paisaje Urbano de la mano de Pablo Romero Quinteros. En el minuto 1:29:00 habla sobre AI Saturdays Tarragona.
 
-[Únete ahora](https://ti.to/saturdaysai/ai-saturdays-madrid-4-edicion)
+[Únete ahora](https://saturdays.ai/contacto/)
 
 # Nuestro Equipo
 
@@ -83,7 +78,5 @@ Nuestro equipo es apasionado por la IA y el progreso humano, creemos firmemente 
 # Contactar Tarragona City Lead
 
 Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
 
 ![](/media/178cce5ebd88a719.webp)

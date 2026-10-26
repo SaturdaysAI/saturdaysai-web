@@ -13,7 +13,7 @@ sourceUrl: https://saturdays.ai/2021/12/21/2x11-ines-huertas-inclusion-de-genero
 sourceId: 5020
 language: es
 draft: false
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 ---
 
 ![](/media/27c03542e34c607c.webp)
@@ -29,8 +29,6 @@ Inés Huertas reflexiona sobre su trayectoria en big data y machine learning y s
 **00:00** – Introducción
 
 **01:08** – Presentación Inés
-
-**06:00** – Sobre NEURE\_ y la ética
 
 **02:10** – ¿Inés con 10 años podía imaginar que iba a dedicarse a la AI?
 

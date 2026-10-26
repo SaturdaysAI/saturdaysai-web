@@ -1,9 +1,7 @@
 ---
 title: "res.txt: Resumen y traducción de texto con Machine Learning"
-description: La Paz. 2021 Introducción El resumen de texto es el proceso de
-  extraer la información más importante de un texto fuente para producir una
-  versión abreviada para un usuario. Los seres humanos llevamos a cabo la tarea
-  de…
+description: res.txt combina un modelo BART de resumen y otro de traducción para
+  ayudar a leer documentos en inglés. Compartimos el proceso y los resultados.
 pubDate: 2021-11-22
 author: Miguel Guerrero
 category: AI for good
@@ -76,96 +74,120 @@ HuggingFace es una plataforma Open Source que se enfoca en NLP, nos ayuda a cons
 
 ### Entrenamiento del modelo
 
+Los siguientes fragmentos conservan las API utilizadas en el proyecto de 2021. Hemos recuperado el formato del código; para ejecutarlo con versiones actuales habría que adaptar las dependencias y sus interfaces.
+
 El proyecto fue realizado en base a los modelos provistos por la página de Hugging Face, la cual posee una gran colección tanto de modelos como de datasets para tareas de NLP (Procesamiento de Lenguaje Natural). De todas las opciones se seleccionó el modelo de sumarización abstractiva BART.
 
 El código hace uso de las librerías “datasets” y “transformers” de HuggingFace, además de nltk para realizar la evaluación.
 
-\# Imported libraries  
-from datasets import load\_dataset, load\_metric  
-from transformers import AutoTokenizer  
-from transformers import AutoModelForSeq2SeqLM,   
-DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer  
-import nltk  
-import numpy as np  
-from transformers import pipeline
+```python
+# Imported libraries
+from datasets import load_dataset, load_metric
+from transformers import (
+    AutoTokenizer, AutoModelForSeq2SeqLM, DataCollatorForSeq2Seq,
+    Seq2SeqTrainingArguments, Seq2SeqTrainer, pipeline,
+)
+import nltk
+import numpy as np
+```
 
 Para realizar el fine tuning se hizo uso del dataset “cnn\_dailymail”, para la evaluación se utilizó la métrica “rouge”, y el modelo base que se usó fue “facebook/bart-base”.
 
-raw\_datasets = load\_dataset(“cnn\_dailymail”, “3.0.0”)  
-metric = load\_metric(“rouge”)  
-model\_checkpoint = “facebook/bart-base”
+```python
+raw_datasets = load_dataset("cnn_dailymail", "3.0.0")
+metric = load_metric("rouge")
+model_checkpoint = "facebook/bart-base"
+```
 
 Se cargaron un tokenizer y un modelo haciendo referencia al modelo base seleccionado.
 
-tokenizer = AutoTokenizer.from\_pretrained(model\_checkpoint)model = AutoModelForSeq2SeqLM.from\_pretrained(model\_checkpoint)
+```python
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
+```
 
 Del dataset “cnn\_dailymail” se extrajeron los elementos que se encuentran bajo las etiquetas de “article” y “highlights” como datos de entrada y salida respectivamente.
 
-max\_input\_length = 512  
-max\_target\_length = 128def preprocess\_function(examples):  
- inputs = \[doc for doc in examples\[“article”\]\] model\_inputs = tokenizer(inputs, max\_length=max\_input\_length, truncation=True)  
-\# Setup the tokenizer for targets  
- with tokenizer.as\_target\_tokenizer():  
- labels = tokenizer(examples\[“highlights”\], max\_length=max\_target\_length,   
- truncation=True)model\_inputs\[“labels”\] = labels\[“input\_ids”\] return model\_inputstokenized\_datasets = raw\_datasets.map(preprocess\_function, batched=True)
+```python
+max_input_length = 512
+max_target_length = 128
+
+def preprocess_function(examples):
+    inputs = [doc for doc in examples["article"]]
+    model_inputs = tokenizer(inputs, max_length=max_input_length, truncation=True)
+    with tokenizer.as_target_tokenizer():
+        labels = tokenizer(examples["highlights"], max_length=max_target_length, truncation=True)
+    model_inputs["labels"] = labels["input_ids"]
+    return model_inputs
+
+tokenized_datasets = raw_datasets.map(preprocess_function, batched=True)
+```
 
 Antes de entrenar el modelo se realiza la configuración de hiperparámetros.
 
-batch\_size = 4  
-args = Seq2SeqTrainingArguments(  
- “BART\_Finetuned\_CNN\_dailymail”,  
- evaluation\_strategy = “epoch”,  
- learning\_rate=2e-5,  
- per\_device\_train\_batch\_size=batch\_size,  
- per\_device\_eval\_batch\_size=batch\_size,  
- gradient\_accumulation\_steps=2,  
- weight\_decay=0.01,  
- save\_total\_limit=2,  
- num\_train\_epochs=1,  
- predict\_with\_generate=True,  
- fp16=True,  
+```python
+batch_size = 4
+args = Seq2SeqTrainingArguments(
+ "BART_Finetuned_CNN_dailymail",
+ evaluation_strategy = "epoch",
+ learning_rate=2e-5,
+ per_device_train_batch_size=batch_size,
+ per_device_eval_batch_size=batch_size,
+ gradient_accumulation_steps=2,
+ weight_decay=0.01,
+ save_total_limit=2,
+ num_train_epochs=1,
+ predict_with_generate=True,
+ fp16=True,
 )
+```
 
 Se crea una función para realizar el cómputo de métricas haciendo uso de rouge score.
 
-def compute\_metrics(eval\_pred):  
- predictions, labels = eval\_pred  
- decoded\_preds = tokenizer.batch\_decode(predictions, skip\_special\_tokens=True)  
- # Replace -100 in the labels as we can’t decode them.  
- labels = np.where(labels != -100, labels, tokenizer.pad\_token\_id)  
- decoded\_labels = tokenizer.batch\_decode(labels, skip\_special\_tokens=True)
-
-\# Rouge expects a newline after each sentence  
-decoded\_preds = \[“\\n”.join(nltk.sent\_tokenize(pred.strip())) for pred in decoded\_preds\]decoded\_labels = \[“\\n”.join(nltk.sent\_tokenize(label.strip())) for label in decoded\_labels\]
-
-result = metric.compute(predictions=decoded\_preds, references=decoded\_labels, use\_stemmer=True)  
-\# Extract a few results  
-result = {key: value.mid.fmeasure \* 100 for key, value in result.items()}
-
-\# Add mean generated length  
-prediction\_lens = \[np.count\_nonzero(pred != tokenizer.pad\_token\_id) for pred in predictions\]result\[“gen\_len”\] = np.mean(prediction\_lens)
-
-return {k: round(v, 4) for k, v in result.items()}
+```python
+def compute_metrics(eval_pred):
+    predictions, labels = eval_pred
+    decoded_preds = tokenizer.batch_decode(predictions, skip_special_tokens=True)
+    # Replace -100 in the labels before decoding.
+    labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
+    decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+    # ROUGE expects a newline after each sentence.
+    decoded_preds = ["\n".join(nltk.sent_tokenize(pred.strip())) for pred in decoded_preds]
+    decoded_labels = ["\n".join(nltk.sent_tokenize(label.strip())) for label in decoded_labels]
+    result = metric.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+    result = {key: value.mid.fmeasure * 100 for key, value in result.items()}
+    prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in predictions]
+    result["gen_len"] = np.mean(prediction_lens)
+    return {k: round(v, 4) for k, v in result.items()}
+```
 
 Una vez inicializado el modelo, definidos los hiperparámetros, datasets, tokenizer y métricas creamos un Trainer.
 
-trainer = Seq2SeqTrainer(  
- model,  
- args,  
- train\_dataset=tokenized\_datasets\[“train”\],  
- eval\_dataset=tokenized\_datasets\[“validation”\],  
- data\_collator=data\_collator,  
- tokenizer=tokenizer,  
- compute\_metrics=compute\_metrics  
+```python
+data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+trainer = Seq2SeqTrainer(
+ model,
+ args,
+ train_dataset=tokenized_datasets["train"],
+ eval_dataset=tokenized_datasets["validation"],
+ data_collator=data_collator,
+ tokenizer=tokenizer,
+ compute_metrics=compute_metrics
 )
+```
 
 Descargamos punkt tokenizer que nos permite transformar un texto por oraciones.
 
-nltk.download(‘punkt’)
+```python
+nltk.download('punkt')
+```
 
 Finalmente realizamos el entrenamiento y la evaluación
 
-trainer.train()trainer.evaluate()  
+```python
+trainer.train()
+trainer.evaluate()
+```
 
 ### Resultados
 
@@ -227,11 +249,11 @@ Josmar Suarez. — [www.linkedin.com/in/josmar-suarez-l](http://www.linkedin.co
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) a la vez que se realizan proyectos para el bien (_#ai4good_). Los talleres que realizamos forman parte del programa [AI 4 Schools](https://saturdays.ai/ai-4-schools/) para que cualquier persona “_aprenda haciendo_” IA sin importar su especialidad o nivel de partida.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este [link](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 WRITTEN BY
 

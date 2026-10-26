@@ -4,18 +4,23 @@
   "segments": [
     {
       "source": "FindPet: Identificación de mascotas perdidas con Inteligencia Artificial",
-      "en": "FindPet: Identification of lost pets with Artificial Intelligence",
-      "es": "FindPet: Identificación de mascotas perdidas con Inteligencia Artificial",
-      "reviewed": false,
+      "en": "FindPet: using AI to identify lost pets",
+      "es": "FindPet: identificación de mascotas perdidas con inteligencia artificial",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La Paz. Deep Learning. 2021 En este artículo utilizaremos técnicas de Inteligencia Artificial para encontrar mascotas perdidas. Aquellas personas que han perdido a una mascota por diferentes motivos saben que aunque muchas…",
-      "en": "La Paz. Deep Learning. 2021 In this article we will use Artificial Intelligence techniques to find lost pets. Those people who have lost a pet for different reasons know that although many...",
-      "es": "La Paz. Deep Learning. 2021 En este artículo utilizaremos técnicas de Inteligencia Artificial para encontrar mascotas perdidas. Aquellas personas que han perdido a una mascota por diferentes motivos saben que aunque muchas…",
-      "reviewed": false,
+      "en": "FindPet combines breed classification, face detection and individual dog identification to explore how AI could help reunite lost pets with their families.",
+      "es": "FindPet combina clasificación de razas, detección facial e identificación de perros para explorar cómo la IA puede ayudar a reunir a las mascotas con sus familias.",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -30,15 +35,15 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Mishel Carrion Lopez",
-      "en": "Mishel Carrion Lopez",
+      "en": "Mishel Carrión López",
       "es": "Mishel Carrión López",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -50,13 +55,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En este artículo utilizaremos técnicas de Inteligencia Artificial para encontrar mascotas perdidas. Aquellas personas que han perdido a una mascota por diferentes motivos saben que aunque muchas regresan a sus dueños un gran porcentaje no logra el reencuentro. Unas 420,000 mascotas, entre perros y gatos principalmente, se pierden anualmente en el Perú y son muy pocas las que son encontradas o devueltas a sus dueños, debido a que es muy difícil identificarlas.",
       "en": "In this article we will use Artificial Intelligence techniques to find lost pets. Those people who have lost a pet for different reasons know that although many return to their owners, a large percentage does not achieve the reunion. About 420,000 pets, mainly dogs and cats, are lost annually in Peru and very few are found or returned to their owners, because it is very difficult to identify them.",
       "es": "En este artículo utilizaremos técnicas de Inteligencia Artificial para encontrar mascotas perdidas. Aquellas personas que han perdido a una mascota por diferentes motivos saben que aunque muchas regresan a sus dueños un gran porcentaje no logra el reencuentro. Unas 420,000 mascotas, entre perros y gatos principalmente, se pierden anualmente en el Perú y son muy pocas las que son encontradas o devueltas a sus dueños, debido a que es muy difícil identificarlas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -69,13 +79,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "La identificación de mascotas por lo general se hace a través de plaquitas metálicas colgadas en su cuello, con su nombre y el teléfono del propietario. Otros optan por insertarles un chip bajo la piel y algunos pocos, por lo costoso, prefieren los GPS e, incluso, tatuarlas. Ante la pérdida de sus mascotas, las personas optan por buscarlas mediante carteles pegados en postes, a través de redes sociales, anuncios en medios de comunicación u ofreciendo recompensas en dinero o con entradas a conciertos o partidos de fútbol. Es por ello, que el objetivo de este proyecto es poder ayudar a las personas a encontrar a sus mascotas perdidas mediante Inteligencia Artificial y Deep Learning para la identificación de sus mascotas de manera rápida, precisa y económica.",
       "en": "Pet identification is usually done through metal tags hung around their neck, with their name and the owner's phone number. Others choose to insert a chip under the skin and a few, because of the cost, prefer GPS and even tattoo them. When they lose their pets, people choose to look for them through posters posted on posts, through social networks, advertisements in the media or by offering rewards in money or with tickets to concerts or soccer games. That is why the objective of this project is to help people find their lost pets through Artificial Intelligence and Deep Learning to identify their pets quickly, accurately and economically.",
       "es": "La identificación de mascotas por lo general se hace a través de plaquitas metálicas colgadas en su cuello, con su nombre y el teléfono del propietario. Otros optan por insertarles un chip bajo la piel y algunos pocos, por lo costoso, prefieren los GPS e, incluso, tatuarlas. Ante la pérdida de sus mascotas, las personas optan por buscarlas mediante carteles pegados en postes, a través de redes sociales, anuncios en medios de comunicación u ofreciendo recompensas en dinero o con entradas a conciertos o partidos de fútbol. Es por ello, que el objetivo de este proyecto es poder ayudar a las personas a encontrar a sus mascotas perdidas mediante Inteligencia Artificial y Deep Learning para la identificación de sus mascotas de manera rápida, precisa y económica.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -88,13 +103,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Diariamente, se calcula que se extravían aproximadamente entre 30 y 40 animales domésticos, entre perros y gatos, solamente en Lima. Sin embargo, se estima que esta cifra puede ser mayor, no solo al contabilizar el resto de las ciudades de Perú, sino también porque muchas personas no saben cómo o dónde pueden reportar la pérdida o extravío de su mascota. Muy pocas mascotas son encontradas o retornadas con sus dueños, debido a que es difícil poder identificarlas y hacer el rastreo correcto. Como consecuencia de ello, muchas de las mascotas terminan como animales callejeros causando sobrepoblación que terminan contaminando la ciudad con sus heces y los parásitos que son expulsados a través de estas.",
       "en": "Every day, it is estimated that approximately 30 to 40 domestic animals, including dogs and cats, are lost in Lima alone. However, it is estimated that this figure may be higher, not only when accounting for the rest of the cities in Peru, but also because many people do not know how or where they can report the loss or loss of their pet. Very few pets are found or returned to their owners, because it is difficult to identify them and do the correct tracking. As a consequence, many pets end up as stray animals, causing overpopulation that ends up contaminating the city with their feces and the parasites that are expelled through them.",
       "es": "Diariamente, se calcula que se extravían aproximadamente entre 30 y 40 animales domésticos, entre perros y gatos, solamente en Lima. Sin embargo, se estima que esta cifra puede ser mayor, no solo al contabilizar el resto de las ciudades de Perú, sino también porque muchas personas no saben cómo o dónde pueden reportar la pérdida o extravío de su mascota. Muy pocas mascotas son encontradas o retornadas con sus dueños, debido a que es difícil poder identificarlas y hacer el rastreo correcto. Como consecuencia de ello, muchas de las mascotas terminan como animales callejeros causando sobrepoblación que terminan contaminando la ciudad con sus heces y los parásitos que son expulsados a través de estas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -107,30 +127,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Desarrollar una aplicación que ayude a las personas a reportar y encontrar mascotas perdidas de manera rápida usando Inteligencia Artificial con técnicas de Deep Learning.",
       "en": "Develop an application that helps people report and find lost pets quickly using Artificial Intelligence with Deep Learning techniques.",
       "es": "Desarrollar una aplicación que ayude a las personas a reportar y encontrar mascotas perdidas de manera rápida usando Inteligencia Artificial con técnicas de Deep Learning.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Datasets",
       "en": "Datasets",
       "es": "Datasets",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se utilizaron datasets existentes y de acceso libre, para la clasificación de razas se utilizaron los datasets de",
-      "en": "Existing and open access datasets were used, for the classification of breeds the datasets from",
-      "es": "Se utilizaron datasets existentes y de acceso libre, para la clasificación de razas se utilizaron los datasets de",
-      "reviewed": false,
+      "en": "We used openly available datasets. For breed classification, we used the dataset from",
+      "es": "Utilizamos conjuntos de datos de acceso libre. Para clasificar las razas, empleamos el de",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -143,6 +178,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -157,7 +197,7 @@
       "source": "que contiene imágenes de 120 razas de perros de todo el mundo y",
       "en": "containing images of 120 dog breeds from around the world and",
       "es": "que contiene imágenes de 120 razas de perros de todo el mundo y",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -170,21 +210,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Thudogs",
       "en": "Thudogs",
       "es": "Thudogs",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que contiene 130 razas de perros junto con los bounding boxes de todo el cuerpo y la cabeza del perro en cada imagen; mientras que para la identificación de mascotas se utilizó",
-      "en": "containing 130 dog breeds along with bounding boxes of the entire body and head of the dog in each image; while for the identification of pets,",
-      "es": "que contiene 130 razas de perros junto con los bounding boxes de todo el cuerpo y la cabeza del perro en cada imagen; mientras que para la identificación de mascotas se utilizó",
-      "reviewed": false,
+      "en": ", containing 130 breeds with bounding boxes for each dog’s body and head. To identify individual dogs, we used an image dataset from",
+      "es": ", con 130 razas y cajas delimitadoras del cuerpo y la cabeza en cada imagen. Para identificar perros individuales utilizamos un conjunto de imágenes de",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -197,21 +247,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Flickr",
       "en": "Flickr",
       "es": "Flickr",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que contiene sólo los rostros del perro y está dividido por nombre del perro perteneciendo solo a dos tipos de raza: pugs y huskies.",
-      "en": "which contains only the faces of the dog and is divided by name of the dog belonging to only two types of breed: pugs and huskies.",
-      "es": "que contiene sólo los rostros del perro y está dividido por nombre del perro perteneciendo solo a dos tipos de raza: pugs y huskies.",
-      "reviewed": false,
+      "en": ", containing the faces of pugs and huskies, grouped by each dog’s name.",
+      "es": ", formado por rostros de perros de las razas pug y husky, agrupados por el nombre de cada animal.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -224,13 +284,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Proceso de Identificación de Mascotas",
       "en": "Pet Identification Process",
       "es": "Proceso de Identificación de Mascotas",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -243,13 +308,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "El proceso de identificación de mascotas perdidas mediante Inteligencia Artificial consta de cuatro fases como se muestra en la siguiente figura, a continuación se detalla cada una de ellas.",
       "en": "The process of identifying lost pets using Artificial Intelligence consists of four phases as shown in the following figure, each of them is detailed below.",
       "es": "El proceso de identificación de mascotas perdidas mediante Inteligencia Artificial consta de cuatro fases como se muestra en la siguiente figura, a continuación se detalla cada una de ellas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -262,13 +332,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "FASE GRUESA: Clasificación de Razas",
-      "en": "GROSS PHASE: Breed Classification",
-      "es": "FASE GRUESA: Clasificación de Razas",
-      "reviewed": false,
+      "en": "Coarse stage: breed classification",
+      "es": "Fase inicial: clasificación de razas",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -281,13 +356,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En esta fase, ingresa la imagen de un perro perdido o encontrado y se evalúa con el modelo de clasificación de razas y como output se obtiene el top N de razas a la que pertenece el perro, esto sirve como input para la fase media donde solo ingresarán las imágenes que se tenga en base de perros encontrados o perdidos que se tenga de estas “N” razas.",
-      "en": "In this phase, the image of a lost or found dog is entered and it is evaluated with the breed classification model and as output the top N of breeds to which the dog belongs is obtained. This serves as input for the middle phase where only the images obtained based on found or lost dogs of these \"N\" breeds will be entered.",
-      "es": "En esta fase, ingresa la imagen de un perro perdido o encontrado y se evalúa con el modelo de clasificación de razas y como output se obtiene el top N de razas a la que pertenece el perro, esto sirve como input para la fase media donde solo ingresarán las imágenes que se tenga en base de perros encontrados o perdidos que se tenga de estas “N” razas.",
-      "reviewed": false,
+      "en": "First, the classifier takes a photo of the lost or found dog and returns the N most likely breeds. These predictions help select candidate images from the stored records for the next stage.",
+      "es": "Primero, el clasificador recibe la foto del perro perdido o encontrado y devuelve las N razas más probables. Esas predicciones permiten seleccionar, entre las imágenes almacenadas, los candidatos que pasarán a la siguiente fase.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -300,13 +380,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "FASE MEDIA: Detección de Rostro",
       "en": "MIDDLE PHASE: Face Detection",
       "es": "FASE MEDIA: Detección de Rostro",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -319,13 +404,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En esta fase, se tiene como input la imagen del perro encontrado y el resultado de la clasificación de esta imagen obteniendo las imágenes de top N de las razas, para ser evaluados por el modelo de detección de rostros, en este caso yolo v5, obteniendo como output los bounding boxes del rostro del perro para cada imagen.",
-      "en": "In this phase, the image of the found dog and the result of the classification of this image are taken as input, obtaining the top N images of the breeds, to be evaluated by the face detection model, in this case yolo v5, obtaining as output the bounding boxes of the dog's face for each image.",
-      "es": "En esta fase, se tiene como input la imagen del perro encontrado y el resultado de la clasificación de esta imagen obteniendo las imágenes de top N de las razas, para ser evaluados por el modelo de detección de rostros, en este caso yolo v5, obteniendo como output los bounding boxes del rostro del perro para cada imagen.",
-      "reviewed": false,
+      "en": "Next, YOLOv5 processes the dog’s image and the selected candidate images. It returns bounding boxes around the faces so that this region can be cropped in each image.",
+      "es": "Después, YOLOv5 procesa la imagen del perro y las de los candidatos seleccionados. El modelo devuelve las cajas delimitadoras de los rostros, que permiten recortar esa región en cada imagen.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -338,13 +428,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "FASE FINA: Identificación de la mascota",
       "en": "FINE PHASE: Identification of the pet",
       "es": "FASE FINA: Identificación de la mascota",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -357,13 +452,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En esta fase, ingresa como input las imágenes del perro encontrado o perdido junto con las imágenes del top N ya recortadas el rostro utilizando los bounding boxes obtenidos de la fase media, para hacer el entrenamiento del modelo de identificación de rostro.",
-      "en": "In this phase, the images of the found or lost dog are entered as input along with the images of the top N and the face already cropped using the bounding boxes obtained from the middle phase, to train the face identification model.",
-      "es": "En esta fase, ingresa como input las imágenes del perro encontrado o perdido junto con las imágenes del top N ya recortadas el rostro utilizando los bounding boxes obtenidos de la fase media, para hacer el entrenamiento del modelo de identificación de rostro.",
-      "reviewed": false,
+      "en": "The identification stage uses cropped face images of the dog being sought and the candidates. These images are used to train and run the model that distinguishes individual animals in the dataset.",
+      "es": "La fase de identificación utiliza los recortes de los rostros del perro buscado y de los candidatos. Con estas imágenes se entrena y utiliza el modelo que distingue entre los animales del conjunto de datos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -376,21 +476,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "DECISIÓN SUPERVISADA",
       "en": "SUPERVISED DECISION",
       "es": "DECISIÓN SUPERVISADA",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Finalmente, para hacer una decisión más precisa utilizamos decisión supervisada con parámetros como la edad y el género del perro, para poder acotar y tener más precisión para identificar al perro correcto.",
-      "en": "Finally, to make a more precise decision we use supervised decision with parameters such as the age and gender of the dog, to be able to narrow down and have more precision to identify the correct dog.",
-      "es": "Finalmente, para hacer una decisión más precisa utilizamos decisión supervisada con parámetros como la edad y el género del perro, para poder acotar y tener más precisión para identificar al perro correcto.",
-      "reviewed": false,
+      "en": "Finally, we include details such as the dog’s age and sex to narrow down possible matches and support review of the results.",
+      "es": "Finalmente, incorporamos datos como la edad y el sexo del perro para acotar las posibles coincidencias y apoyar la revisión de los resultados.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -403,43 +513,58 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Modelos",
       "en": "Models",
       "es": "Modelos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la construcción del modelo de clasificación de razas e identificación de mascotas se utilizó Redes Neuronales Convolucionales, específicamene Inception v3 y Xception, ya que que se trata de un problema de clasificación de imágenes con N posibles salidas, donde N es el número de razas o número de nombres de perros, en el caso del dataset de Stanford N tiene un valor de 120 , para Thudogs 130 y Flickr 42. Para la construcción del modelo de detección de rostro de la mascota se usó Yolo v5.",
-      "en": "The breed classification and pet identification model used convolutional neural networks, specifically Inception v3 and Xception. This is an image classification problem with N possible outputs, where N is the number of breeds or individual dog names: 120 for the Stanford dataset, 130 for Thudogs and 42 for Flickr. The pet face detection model used YOLO v5.",
-      "es": "Para la construcción del modelo de clasificación de razas e identificación de mascotas se utilizó Redes Neuronales Convolucionales, específicamene Inception v3 y Xception, ya que que se trata de un problema de clasificación de imágenes con N posibles salidas, donde N es el número de razas o número de nombres de perros, en el caso del dataset de Stanford N tiene un valor de 120 , para Thudogs 130 y Flickr 42. Para la construcción del modelo de detección de rostro de la mascota se usó Yolo v5.",
+      "en": "We used convolutional neural networks, specifically Inception v3 and Xception, to classify breeds and identify individual dogs. Each task has N possible outputs: 120 breeds in Stanford, 130 in Thudogs and 42 dogs in Flickr. We used YOLOv5 for face detection.",
+      "es": "Para clasificar las razas e identificar perros individuales utilizamos redes neuronales convolucionales, concretamente Inception v3 y Xception. Cada tarea tiene N posibles salidas: 120 razas en Stanford, 130 en Thudogs y 42 perros en Flickr. Para detectar los rostros utilizamos YOLOv5.",
       "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Inception v3",
       "en": "Inception v3",
       "es": "Inception v3",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Inception-v3 es una arquitectura de red neuronal convolucional de la familia Inception que realiza varias mejoras, incluido el uso de Label Smoothing, convoluciones factorizadas 7 x 7 y el uso de un clasificador auxiliar para propagar información de etiquetas en la parte inferior de la red, junto con el uso de batch normalización para capas en la cabecera lateral.",
       "en": "Inception-v3 is a convolutional neural network architecture from the Inception family that makes several improvements, including the use of Label Smoothing, 7 x 7 factored convolutions, and the use of an auxiliary classifier to propagate label information at the bottom of the network, along with the use of batch normalization for layers in the head-end.",
       "es": "Inception-v3 es una arquitectura de red neuronal convolucional de la familia Inception que realiza varias mejoras, incluido el uso de Label Smoothing, convoluciones factorizadas 7 x 7 y el uso de un clasificador auxiliar para propagar información de etiquetas en la parte inferior de la red, junto con el uso de batch normalización para capas en la cabecera lateral.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -452,13 +577,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "A continuación, se muestra el diagrama de arquitectura de Inception v3:",
       "en": "Below is the architecture diagram of Inception v3:",
       "es": "A continuación, se muestra el diagrama de arquitectura de Inception v3:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -471,21 +601,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Xception",
       "en": "Xception",
       "es": "Xception",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Xception significa “xtreme inception”. Esta arquitectura replantea la forma en que vemos las redes neuronales, en particular las redes convolucionales. Y, como sugiere el nombre, lleva los principios de Inception al extremo.",
       "en": "Xception means “xtreme inception”. This architecture rethinks the way we view neural networks, particularly convolutional networks. And, as the name suggests, it takes the principles of Inception to the extreme.",
       "es": "Xception significa “xtreme inception”. Esta arquitectura replantea la forma en que vemos las redes neuronales, en particular las redes convolucionales. Y, como sugiere el nombre, lleva los principios de Inception al extremo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -498,13 +638,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En una red convolucional tradicional, las capas convolucionales buscan correlaciones tanto en el espacio como en la profundidad. En Inception, comenzamos a separar los dos ligeramente. Usamos convoluciones 1×1 para proyectar la entrada original en varios espacios de entrada más pequeños y separados, y de cada uno de esos espacios de entrada usamos un tipo diferente de filtro para transformar esos bloques de datos 3D más pequeños. Xception lleva esto un paso más allá. En lugar de dividir los datos de entrada en varios fragmentos comprimidos, asigna las correlaciones espaciales para cada canal de salida por separado y luego realiza una convolución en profundidad 1×1 para capturar la correlación entre canales.",
-      "en": "In a traditional convolutional network, convolutional layers look for correlations in both space and depth. In Inception, we started to separate the two slightly. We use 1x1 convolutions to project the original input into several separate smaller input spaces, and from each of those input spaces we use a different type of filter to transform those smaller 3D blocks of data. Xception takes this one step further. Instead of splitting the input data into multiple compressed chunks, it maps the spatial correlations to each output channel separately and then performs a 1x1 depthwise convolution to capture the correlation between channels.",
-      "es": "En una red convolucional tradicional, las capas convolucionales buscan correlaciones tanto en el espacio como en la profundidad. En Inception, comenzamos a separar los dos ligeramente. Usamos convoluciones 1×1 para proyectar la entrada original en varios espacios de entrada más pequeños y separados, y de cada uno de esos espacios de entrada usamos un tipo diferente de filtro para transformar esos bloques de datos 3D más pequeños. Xception lleva esto un paso más allá. En lugar de dividir los datos de entrada en varios fragmentos comprimidos, asigna las correlaciones espaciales para cada canal de salida por separado y luego realiza una convolución en profundidad 1×1 para capturar la correlación entre canales.",
-      "reviewed": false,
+      "en": "Conventional convolutions jointly learn spatial patterns and relationships between channels. Inception partly separates these operations into different branches. Xception takes this further with depthwise separable convolutions: a spatial operation on each channel, followed by a pointwise 1×1 convolution that combines information across channels.",
+      "es": "Las convoluciones convencionales combinan el aprendizaje de patrones espaciales y de relaciones entre canales. Inception separa parcialmente estas operaciones mediante distintas ramas. Xception lleva la idea más lejos con convoluciones separables en profundidad: una operación espacial por canal, seguida de una convolución puntual de 1×1 que combina la información entre canales.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -517,13 +662,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "A continuación, se presenta el diagrama de arquitectura de Xception, donde los datos pasan primero por el flujo de entrada, luego por el flujo medio que se repite ocho veces y finalmente por el flujo de salida. Tenga en cuenta que todas las capas de convolución y convolución separable van seguidas de la normalización por lotes.",
       "en": "Below is the architecture diagram of Xception, where the data first passes through the input stream, then through the middle stream that is repeated eight times, and finally through the output stream. Note that all convolution and separable convolution layers are followed by batch normalization.",
       "es": "A continuación, se presenta el diagrama de arquitectura de Xception, donde los datos pasan primero por el flujo de entrada, luego por el flujo medio que se repite ocho veces y finalmente por el flujo de salida. Tenga en cuenta que todas las capas de convolución y convolución separable van seguidas de la normalización por lotes.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -536,13 +686,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Yolo v5 es un modelo de detección de objetos, y su primera versión oficial fue lanzada por Ultralytics. Como YOLO v5 es un detector de objetos de una sola etapa, tiene tres partes importantes como cualquier otro detector de objetos de una sola etapa.",
       "en": "Yolo v5 is an object detection model, and its first official version was released by Ultralytics. As YOLO v5 is a single-stage object detector, it has three important parts like any other single-stage object detector.",
       "es": "Yolo v5 es un modelo de detección de objetos, y su primera versión oficial fue lanzada por Ultralytics. Como YOLO v5 es un detector de objetos de una sola etapa, tiene tres partes importantes como cualquier otro detector de objetos de una sola etapa.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -555,13 +710,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Model Backbone:",
       "en": "Model Backbone:",
       "es": "Columna vertebral del modelo:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -573,13 +733,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "se utiliza principalmente para extraer características importantes de la imagen de entrada dada. En YOLO v5, las CSP — Cross Stage Partial Networks se utilizan como backbone para extraer una gran cantidad de características informativas de una imagen de entrada.",
       "en": "It is mainly used to extract important features from the given input image. In YOLO v5, CSPs — Cross Stage Partial Networks are used as a backbone to extract a large number of informative features from an input image.",
       "es": "se utiliza principalmente para extraer características importantes de la imagen de entrada dada. En YOLO v5, las CSP — Cross Stage Partial Networks se utilizan como backbone para extraer una gran cantidad de características informativas de una imagen de entrada.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -591,21 +756,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Model Neck",
       "en": "Model Neck",
       "es": "Model Neck",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": se utiliza principalmente para generar pirámides de características. Las pirámides de características ayudan a los modelos a generalizarse bien en la escala de objetos. Ayuda a identificar el mismo objeto con diferentes tamaños y escalas. Las pirámides de características son muy útiles y ayudan a los modelos a funcionar bien con datos invisibles. Hay otros modelos que utilizan diferentes tipos de técnicas de pirámide de características como FPN, BiFPN, PANet, etc.",
-      "en": ": Mainly used to generate feature pyramids. Feature pyramids help models generalize well to the object scale. Helps identify the same object with different sizes and scales. Feature pyramids are very useful and help models perform well with unseen data. There are other models that use different types of feature pyramid techniques like FPN, BiFPN, PANet, etc.",
-      "es": ": se utiliza principalmente para generar pirámides de características. Las pirámides de características ayudan a los modelos a generalizarse bien en la escala de objetos. Ayuda a identificar el mismo objeto con diferentes tamaños y escalas. Las pirámides de características son muy útiles y ayudan a los modelos a funcionar bien con datos invisibles. Hay otros modelos que utilizan diferentes tipos de técnicas de pirámide de características como FPN, BiFPN, PANet, etc.",
-      "reviewed": false,
+      "en": ": generates feature pyramids to detect objects at different scales. This structure helps recognise objects of different sizes; other architectures use variants such as FPN, BiFPN or PANet.",
+      "es": ": genera pirámides de características para detectar objetos a distintas escalas. Este tipo de estructura ayuda a reconocer objetos de diferentes tamaños; otras arquitecturas utilizan variantes como FPN, BiFPN o PANet.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -618,21 +793,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Model Head",
       "en": "Model Head",
       "es": "Model Head",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": se utiliza principalmente para realizar la parte de detección final. Aplicó anchor boxes en features y genera vectores de salida finales con probabilidades de clase, objectness scores, y bounding boxes.",
-      "en": ": Mainly used to perform the final detection part. Applied anchor boxes in features and generates final output vectors with class probabilities, objectness scores, and bounding boxes.",
-      "es": ": se utiliza principalmente para realizar la parte de detección final. Aplicó anchor boxes en features y genera vectores de salida finales con probabilidades de clase, objectness scores, y bounding boxes.",
-      "reviewed": false,
+      "en": ": performs the final detection using the extracted features and anchor boxes. It produces class probabilities, objectness scores and bounding boxes.",
+      "es": ": realiza la detección final a partir de las características extraídas y de cajas de referencia. Produce probabilidades de clase, puntuaciones de presencia de objetos y cajas delimitadoras.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -645,13 +830,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "A continuación se muestra el diagrama de arquitectura de Yolo v5:",
       "en": "Below is the architecture diagram of Yolo v5:",
       "es": "A continuación se muestra el diagrama de arquitectura de Yolo v5:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -664,13 +854,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase gruesa de clasificación de razas, se concluye que el modelo más óptimo es Inception v3 con un accuracy de 83.35% usando el dataset de Stanford y 78.28% para el de Thudogs.",
       "en": "In the coarse breed classification phase, it is concluded that the most optimal model is Inception v3 with an accuracy of 83.35% using the Stanford dataset and 78.28% for the Thudogs dataset.",
       "es": "En la fase gruesa de clasificación de razas, se concluye que el modelo más óptimo es Inception v3 con un accuracy de 83.35% usando el dataset de Stanford y 78.28% para el de Thudogs.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -683,13 +878,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase media de detección de rostros, se probó únicamente el modelo Yolo v5 obteniendo un MAP de 98.5%.",
       "en": "In the middle phase of face detection, only the Yolo v5 model was tested, obtaining a MAP of 98.5%.",
       "es": "En la fase media de detección de rostros, se probó únicamente el modelo Yolo v5 obteniendo un MAP de 98.5%.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -702,31 +902,46 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase fina de identificación de rostros, se concluye que el modelo más óptimo es Xception con un accuracy de 67.5% para el dataset de Flickr una vez realizado el data augmentation.",
       "en": "In the fine phase of face identification, it is concluded that the most optimal model is Xception with an accuracy of 67.5% for the Flickr dataset once the data augmentation has been performed.",
       "es": "En la fase fina de identificación de rostros, se concluye que el modelo más óptimo es Xception con un accuracy de 67.5% para el dataset de Flickr una vez realizado el data augmentation.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El uso de modelos de deep learning en la identificación de mascotas perdidas disminuirá el tiempo de retorno de la mascota a su hogar, permitiendo hacer el rastreo correcto.",
-      "en": "The use of deep learning models in identifying lost pets will reduce the pet's return time to your home, allowing for the right tracking.",
-      "es": "El uso de modelos de deep learning en la identificación de mascotas perdidas disminuirá el tiempo de retorno de la mascota a su hogar, permitiendo hacer el rastreo correcto.",
-      "reviewed": false,
+      "en": "The team proposes that this combination of models could help identify lost pets. Determining whether it reduces the time needed to reunite them with their families would require evaluation in real cases.",
+      "es": "El equipo propone que esta combinación de modelos podría ayudar a identificar mascotas perdidas. Comprobar si reduce el tiempo de reencuentro requeriría una evaluación con casos reales.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la fase fina se recomienda probar GAN’s para data augmentation.",
       "en": "In the fine phase it is recommended to try GANs for data augmentation.",
       "es": "En la fase fina se recomienda probar GAN’s para data augmentation.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -738,13 +953,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase gruesa, se sugiere combinar los datasets de Stanford y Thudogs, y probar los modelos desarrollados.",
       "en": "In the coarse phase, it is suggested to combine the Stanford and Thudogs datasets, and test the developed models.",
       "es": "En la fase gruesa, se sugiere combinar los datasets de Stanford y Thudogs, y probar los modelos desarrollados.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -757,13 +977,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase gruesa, se recomienda crear un dataset propio para identificación.",
       "en": "In the coarse phase, it is recommended to create your own dataset for identification.",
       "es": "En la fase gruesa, se recomienda crear un dataset propio para identificación.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -776,13 +1001,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En la fase media, se sugiere probar nuevos modelos adicionales a yolo v5.",
       "en": "In the middle phase, it is suggested to try new models additional to yolo v5.",
       "es": "En la fase media, se sugiere probar nuevos modelos adicionales a yolo v5.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -795,13 +1025,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Dog Identification using Biometrics and Neural Networks",
       "en": "Dog Identification using Biometrics and Neural Networks",
       "es": "Identificación de perros mediante biometría y redes neuronales",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -814,13 +1049,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Dog Breed Identification Using Deep Learning",
       "en": "Dog Breed Identification Using Deep Learning",
       "es": "Identificación de razas de perros mediante aprendizaje profundo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -833,13 +1073,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Train Custom Data - ultralytics/yolov5 Wiki? This guide explains how to train your own custom dataset with YOLOv5 ?. UPDATED 25 July 2021. Clone this repo…github.com",
-      "en": "Train Custom Data - ultralytics/yolov5 Wiki? This guide explains how to train your own custom dataset with YOLOv5 ?. UPDATED 25 July 2021. Clone this repo…github.com",
-      "es": "¿Entrenar datos personalizados - ultralytics/yolov5 Wiki? Esta guía explica cómo entrenar su propio conjunto de datos personalizado con YOLOv5. ACTUALIZADO el 25 de julio de 2021. Clona este repositorio…github.com",
-      "reviewed": false,
+      "en": "Ultralytics guide to training YOLOv5 on a custom dataset, in the version consulted in July 2021.",
+      "es": "Guía de Ultralytics para entrenar YOLOv5 con un conjunto de datos propio, en la versión consultada en julio de 2021.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -852,13 +1097,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Convolution Neural Net",
       "en": "Convolution Neural Net",
       "es": "Convolution Neural Net",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -870,21 +1120,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Inception V3",
       "en": "Inception V3",
       "es": "Inception V3",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Vida de Ecosistemas Terrestres",
       "en": "Life of Terrestrial Ecosystems",
       "es": "Vida de Ecosistemas Terrestres",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -896,16 +1156,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Deep Learning aplicado a detección temprana de incendios forestales",
       "en": "Deep Learning applied to early detection of forest fires",
       "es": "Deep Learning aplicado a detección temprana de incendios forestales",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

@@ -67,8 +67,6 @@ Por eso mantuve una separación clara entre la **parte visual**, la **lógica 
 
 #### **AUTENTICACIÓN, SESIÓN Y ROLES**
 
-**AUTENTICACIÓN, SESIÓN Y ROLES**
-
 En una aplicación como esta, iniciar sesión no era lo más importante. El verdadero reto estaba en decidir bien qué puede hacer cada persona y en qué contexto.
 
 La sesión se resuelve con **JWT** guardado en una cookie httpOnly, lo que permite validar accesos y proteger rutas según el rol.
@@ -77,7 +75,9 @@ Puede parecer un detalle pequeño, pero en una plataforma con varios perfiles es
 
 Una de las partes más importantes era proteger bien los recorridos según el perfil. Este fragmento resume cómo la app comprueba la sesión y redirige a cada usuario a su espacio correcto.
 
-				`const PROTECTED = ["/dashboard", "/profile", "/projects/new"];  export async function proxy(req: NextRequest) {   const { pathname } = req.nextUrl;   const needsAuth = PROTECTED.some(     (p) => pathname === p || pathname.startsWith(p + "/")   );   if (!needsAuth) return NextResponse.next();    const session = await readSession(req);   if (!session) {     return NextResponse.redirect(new URL("/auth/login", req.url));   }    if (pathname.startsWith("/dashboard/student") && session.role === "mentor") {     return NextResponse.redirect(new URL("/dashboard/mentor", req.url));   }    return NextResponse.next(); }`
+```typescript
+const PROTECTED = ["/dashboard", "/profile", "/projects/new"];  export async function proxy(req: NextRequest) {   const { pathname } = req.nextUrl;   const needsAuth = PROTECTED.some(     (p) => pathname === p || pathname.startsWith(p + "/")   );   if (!needsAuth) return NextResponse.next();    const session = await readSession(req);   if (!session) {     return NextResponse.redirect(new URL("/auth/login", req.url));   }    if (pathname.startsWith("/dashboard/student") && session.role === "mentor") {     return NextResponse.redirect(new URL("/dashboard/mentor", req.url));   }    return NextResponse.next(); }
+```
 
 
 Puede parecer una lógica pequeña, pero este tipo de control es justo lo que evita recorridos incoherentes cuando conviven varios roles dentro del mismo producto.
@@ -112,7 +112,9 @@ Además, la parte de **comunicados** la resolví reutilizando esa misma base d
 
 En la parte de mensajería opté por una solución bastante pragmática: reutilizar la infraestructura de mensajes para enviar comunicados vinculados a un proyecto concreto.
 
-				``const bodyWithFlag = `[BC:P${projectId}] ${parsed.data.message}`;  await prisma.messages.createMany({   data: applications.map((app) => ({     sender_id: BigInt(session.uid),     receiver_id: app.student_id,     body: bodyWithFlag,   })), });  return NextResponse.json({ ok: true, sent: applications.length });``
+```typescript
+const bodyWithFlag = `[BC:P${projectId}] ${parsed.data.message}`;  await prisma.messages.createMany({   data: applications.map((app) => ({     sender_id: BigInt(session.uid),     receiver_id: app.student_id,     body: bodyWithFlag,   })), });  return NextResponse.json({ ok: true, sent: applications.length });
+```
 
 
 Eso me permitió resolver una necesidad real del MVP sin levantar un sistema paralelo solo para actualizaciones internas.
@@ -135,7 +137,9 @@ También aparecieron ajustes más concretos, como el comportamiento del sistema 
 
 Otro ajuste importante apareció al pensar en el sistema funcionando de verdad, no solo en local con todo perfecto. El healthcheck pasó a responder de forma clara cuando la base de datos no está disponible.
 
-				``export async function GET() {   try {     const [{ now }] =       await prisma.$queryRaw<{ now: Date }[]>`SELECT NOW() AS now`;      return Response.json({ ok: true, database: "up", dbTime: now });   } catch {     return Response.json(       { ok: false, database: "down", error: "Database unavailable" },       { status: 503 },     );   } }``
+```typescript
+export async function GET() {   try {     const [{ now }] =       await prisma.$queryRaw<{ now: Date }[]>`SELECT NOW() AS now`;      return Response.json({ ok: true, database: "up", dbTime: now });   } catch {     return Response.json(       { ok: false, database: "down", error: "Database unavailable" },       { status: 503 },     );   } }
+```
 
 
 No es una funcionalidad visible para el usuario final, pero sí una de esas decisiones que marcan la diferencia cuando toca diagnosticar, desplegar y mantener una aplicación.

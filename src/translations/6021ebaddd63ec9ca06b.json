@@ -28,9 +28,14 @@
     },
     {
       "source": "¿Quieres aprender I.A.?",
-      "en": "Do you want to learn A.I.?",
-      "es": "¿Quieres aprender I.A.?",
-      "reviewed": false
+      "en": "Do you want to learn AI?",
+      "es": "¿Quieres aprender IA?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Lo que aprenderás",
@@ -40,9 +45,14 @@
     },
     {
       "source": "Aprender I.A. es más que un curso",
-      "en": "Learn A.I. It's more than a course",
-      "es": "Aprender I.A. es más que un curso",
-      "reviewed": false
+      "en": "Learning AI goes beyond a course",
+      "es": "Aprender IA es más que hacer un curso",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Qué más incluye el programa?",
@@ -319,9 +329,14 @@
     },
     {
       "source": "“La hoja de ruta para comenzar tu viaje desde 0 hasta aprender a programar I.A.”",
-      "en": "“The roadmap to start your journey from 0 to learning to program A.I.”",
-      "es": "“La hoja de ruta para comenzar tu viaje desde 0 hasta aprender a programar I.A.”",
-      "reviewed": false
+      "en": "“The roadmap to start your journey from 0 to learning to program AI”",
+      "es": "“La hoja de ruta para comenzar tu viaje desde 0 hasta aprender a programar IA”",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Python 4 AI Aprende a programar en I.A. desde 0. Para ello, hemos preparado una hoja de ruta personalizada para transformar tus skills de python en poco tiempo, de forma divertida y menos estresante. Ínscríbete ahora Descargar…",
@@ -339,6 +354,281 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Python for your first steps in AI",
+      "en": "Python for your first steps in AI",
+      "es": "Python para dar tus primeros pasos en IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "How the programme was organised",
+      "en": "How the programme was organised",
+      "es": "Cómo se organizaba el programa",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Previous knowledge",
+      "en": "Previous knowledge",
+      "es": "Conocimientos previos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learning together",
+      "en": "Learning together",
+      "es": "Aprender en compañía",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Access, pace and certificates",
+      "en": "Access, pace and certificates",
+      "es": "Acceso, ritmo y certificado",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Frequently asked questions",
+      "en": "Frequently asked questions",
+      "es": "Preguntas frecuentes",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Is it suitable for complete beginners?",
+      "en": "Is it suitable for complete beginners?",
+      "es": "¿Es adecuado para empezar desde cero?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "How will I know I am learning?",
+      "en": "How will I know I am learning?",
+      "es": "¿Cómo sabré si estoy aprendiendo?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Do I have to finish in six weeks?",
+      "en": "Do I have to finish in six weeks?",
+      "es": "¿Tengo que terminar en seis semanas?",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn the foundations of programming through exercises and projects. Python 4 AI was designed as a practical introduction for people who want to continue learning data science and artificial intelligence.",
+      "en": "Learn the foundations of programming through exercises and projects. Python 4 AI was designed as a practical introduction for people who want to continue learning data science and artificial intelligence.",
+      "es": "Aprende los fundamentos de la programación con ejercicios y proyectos. Python 4 AI se diseñó como una introducción práctica para quienes quieren seguir aprendiendo ciencia de datos e inteligencia artificial.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We have supported more than 30,000 AI fellows across our community programmes. If you are unsure where to begin, Python can be a useful first step.",
+      "en": "We have supported more than 30,000 AI fellows across our community programmes. If you are unsure where to begin, Python can be a useful first step.",
+      "es": "Hemos acompañado a más de 30.000 AI fellows en distintos programas de la comunidad. Si no sabes por dónde empezar, Python puede ser un buen primer paso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore current courses",
+      "en": "Explore current courses",
+      "es": "Explora los cursos actuales",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The archived edition had six modules and suggested around five hours of work each week over six weeks. This was a guide for planning your learning, not a guarantee that everyone would progress at the same pace.",
+      "en": "The archived edition had six modules and suggested around five hours of work each week over six weeks. This was a guide for planning your learning, not a guarantee that everyone would progress at the same pace.",
+      "es": "La edición descrita en el archivo tenía seis módulos y proponía unas cinco horas de trabajo a la semana durante seis semanas. Era una orientación para organizar el aprendizaje, no una garantía de que todas las personas avanzaran al mismo ritmo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Each module combined explanations, exercises with solutions and challenges to check understanding. The content covered Python foundations and data libraries such as Pandas and NumPy. The aim was to prepare a small project, without attempting to cover all of computer science.",
+      "en": "Each module combined explanations, exercises with solutions and challenges to check understanding. The content covered Python foundations and data libraries such as Pandas and NumPy. The aim was to prepare a small project, without attempting to cover all of computer science.",
+      "es": "Cada módulo combinaba explicaciones, ejercicios con soluciones y retos para comprobar lo aprendido. El contenido incluía los fundamentos de Python y bibliotecas de datos como Pandas y NumPy. Su objetivo era preparar un pequeño proyecto, sin pretender abarcar toda la informática.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "No programming experience was required. Learners were expected to be comfortable with secondary-school mathematics and basic computer tasks such as opening files, using applications, copying and pasting.",
+      "en": "No programming experience was required. Learners were expected to be comfortable with secondary-school mathematics and basic computer tasks such as opening files, using applications, copying and pasting.",
+      "es": "No se exigía experiencia en programación. Se recomendaba manejar las matemáticas de secundaria y las operaciones básicas del ordenador: abrir archivos, utilizar aplicaciones, copiar y pegar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "If you already code in another language, the path can help you learn Python’s syntax and tools.",
+      "en": "If you already code in another language, the path can help you learn Python’s syntax and tools.",
+      "es": "Si ya programas en otro lenguaje, el itinerario puede ayudarte a conocer la sintaxis y las herramientas de Python.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The archived programme included videos, documentation, exercises, forums and feedback from mentors. It also described a Discord channel and support from an AI assistant. Ask the team which channels and resources are currently available.",
+      "en": "The archived programme included videos, documentation, exercises, forums and feedback from mentors. It also described a Discord channel and support from an AI assistant. Ask the team which channels and resources are currently available.",
+      "es": "El programa archivado incluía vídeos, documentación, ejercicios, foros y comentarios de mentores. También describía un canal de Discord y apoyo de un asistente de IA. Consulta con el equipo qué canales y recursos están disponibles actualmente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Sharing questions, progress and projects helps maintain motivation and prepare for the next step: a more advanced course or a local AI Saturdays edition.",
+      "en": "Sharing questions, progress and projects helps maintain motivation and prepare for the next step: a more advanced course or a local AI Saturdays edition.",
+      "es": "Compartir dudas, avances y proyectos con otras personas ayuda a mantener la motivación y a preparar el siguiente paso: un curso más avanzado o una edición local de AI Saturdays.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The original information suggested completing roughly one module a week and offered a certificate after passing the assessments. Access, support and certification conditions may vary; check the course details before enrolling.",
+      "en": "The original information suggested completing roughly one module a week and offered a certificate after passing the assessments. Access, support and certification conditions may vary; check the course details before enrolling.",
+      "es": "La información original proponía avanzar aproximadamente un módulo por semana y contemplaba un certificado tras superar las pruebas. Las condiciones de acceso, acompañamiento y certificación pueden variar; consulta las que figuren en el curso antes de inscribirte.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "To take part individually or explore training for an organisation,",
+      "en": "To take part individually or explore training for an organisation,",
+      "es": "Para participar como persona individual o explorar formación para una organización,",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "contact the team",
+      "en": "contact the team",
+      "es": "contacta con el equipo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "It is designed as an introduction to Python for data and AI. Check the prerequisites of your chosen course and set aside time to practise.",
+      "en": "It is designed as an introduction to Python for data and AI. Check the prerequisites of your chosen course and set aside time to practise.",
+      "es": "Está pensado como una introducción a Python aplicada a datos e IA. Comprueba los requisitos del curso que elijas y reserva tiempo para practicar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Try the exercises, review the solutions and build a small project. Explaining your code and sharing your questions are part of learning, too.",
+      "en": "Try the exercises, review the solutions and build a small project. Explaining your code and sharing your questions are part of learning, too.",
+      "es": "Prueba los ejercicios, revisa las soluciones y construye un proyecto pequeño. Explicar tu código y compartir tus dudas también forma parte del aprendizaje.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Six weeks was the suggested pace for the archived programme. The time you need depends on your availability and experience; confirm the deadlines and conditions of the current option.",
+      "en": "Six weeks was the suggested pace for the archived programme. The time you need depends on your availability and experience; confirm the deadlines and conditions of the current option.",
+      "es": "Las seis semanas eran el ritmo orientativo del programa archivado. La duración dependerá de tu disponibilidad y experiencia; confirma los plazos y las condiciones de la opción actual.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Find your next course",
+      "en": "Find your next course",
+      "es": "Encuentra tu próximo curso",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

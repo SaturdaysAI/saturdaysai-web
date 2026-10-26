@@ -1,9 +1,8 @@
 ---
 title: Contenedor de residuos educativo inteligente
-description: «Aprendí que nunca somos demasiado pequeños para hacer la
-  diferencia» Greta Thunberg Latam online. Segunda Edición. 2021 Es una de las
-  frases celebres de Greta Thunberg, haciendo alusión al poder de los jóvenes de
-  cambiarlo…
+description: ConciencIA Ecológica propone contenedores inteligentes para que
+  niños de Guayaquil aprendan a separar residuos mediante imágenes, sonidos y
+  luces.
 pubDate: 2022-03-09
 author: Info Saturdays
 category: AI for good
@@ -175,7 +174,7 @@ Es importante mencionar que el alcance del proyecto se limitó a realizar el pro
 
 A continuación se explicará el funcionamiento del prototipo.
 
-Concienc**IA** Ecológica consistirá en cinco (05) contenedores de diferentes colores y un módulo central donde se encontrará una Tablet con cámara. Los contenedores se diseñaron pensando en el tamaño de los niños y la forma más fácil de depositar el residuo en estos.
+ConciencIA Ecológica se diseñó con cinco contenedores de distintos colores y un módulo central con una tableta y cámara. El tamaño y la apertura de los contenedores se pensaron para facilitar su uso por niños.
 
 ![](/media/2ca1741bd5edae5b.webp)
 
@@ -271,6 +270,6 @@ GitHub: [https://github.com/SaturdaysAI/Projects/tree/master/LATAM\_remote/Conc
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

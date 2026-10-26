@@ -1,9 +1,8 @@
 ---
 title: Inteligencia Artificial y la Creación de Contenidos
-description: La inteligencia artificial (IA) está transformando la creación de
-  contenidos en redes sociales, ofreciendo ventajas en eficiencia y
-  personalización, pero también planteando desafíos como la desinformación y los
-  filtros…
+description: "Cómo puede ayudar la IA a crear contenidos para redes sociales y
+  qué exige usarla con criterio: edición, transparencia, verificación y
+  responsabilidad."
 pubDate: 2023-04-17
 author: Info Saturdays
 category: Community
@@ -26,7 +25,9 @@ draft: false
 
 Prompt: Digital art of a robot at a desk, typing a story on an old typewriter
 
-La **inteligencia artificial (IA)** ha experimentado un crecimiento exponencial en los últimos años, y su impacto en la creación de contenidos en redes sociales es innegable. [En el artículo anterior analizamos su impacto en los algoritmos.](https://saturdays.ai/2023/04/11/la-inteligencia-artificial-en-las-redes-sociales/) En este artículo, analizaremos los **efectos de la IA en la generación de contenido**, explorando tanto sus aspectos positivos como los riesgos asociados con la desinformación y los filtros burbuja. Además, examinaremos el papel que desempeñan los creadores de contenido y los gestores de redes sociales en este panorama cambiante.
+La inteligencia artificial ha ampliado las herramientas disponibles para crear contenidos en redes sociales. En este artículo exploramos sus posibilidades, los riesgos de desinformación y el papel de quienes crean y gestionan esos contenidos.
+
+[En el artículo anterior analizamos el papel de la IA en los algoritmos de las redes sociales.](https://saturdays.ai/2023/04/11/la-inteligencia-artificial-en-las-redes-sociales/)
 
 ## Ventajas de la IA en la creación de contenidos
 
@@ -92,8 +93,8 @@ Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., … &
 
 ## Más inteligencia artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

@@ -1,9 +1,8 @@
 ---
 title: Descubre Cómo Usar AlphaFold en Google Colab en Pocos Pasos
-description: ¿Sabías que la estructura 3D de las proteínas es clave para
-  entender su función y desarrollar medicamentos? Descubre cómo AlphaFold, una
-  herramienta de inteligencia artificial revolucionaria, facilita este proceso
-  con Google…
+description: "Una introducción a AlphaFold 2 con ColabFold: secuencias,
+  ejecución en Google Colab, visualización y lectura crítica de la confianza y
+  los límites del modelo."
 pubDate: 2024-12-10
 author: Alan
 category: Community
@@ -47,7 +46,7 @@ Usar AlphaFold es sorprendentemente sencillo, incluso para aquellos con conocimi
 1.  **Accede a la Herramienta**  
     Abre el [notebook de ColabFold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb), una versión optimizada para la nube.
 2.  **Introduce la Secuencia de tu Proteína**  
-    Usa el código de una letra para los aminoácidos (por ejemplo, `_MKTAYIAKQRQISFVKSHFSRQ_`) y pégalo en el lugar indicado. Estas secuencias se encuentran fácilmente en bases de datos como UniProt.
+    Usa el código de una letra para los aminoácidos (por ejemplo, `MKTAYIAKQRQISFVKSHFSRQ`) y pégalo en el lugar indicado. Estas secuencias se encuentran fácilmente en bases de datos como UniProt.
 3.  **Ejecuta el Código**  
     El notebook está diseñado para guiarte paso a paso. Al final del proceso, obtendrás un archivo .pdb con la estructura 3D de la proteína.
 4.  **Visualiza el Modelo**  

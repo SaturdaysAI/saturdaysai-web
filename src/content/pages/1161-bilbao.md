@@ -20,8 +20,6 @@ Bilbao promueve la atracción, la creación y el crecimiento de empresas que gen
 
 **Programa**: Machine Learning
 
-: _por definir_
-
 [Avísame de la próxima](https://ti.to/saturdaysai/ai-saturdays-bilbao)
 
 [¿No sabes Python?](https://saturdays.ai/python-4-a-i/)
@@ -34,9 +32,7 @@ Bilbao promueve la atracción, la creación y el crecimiento de empresas que gen
 
 #### Conoce la comunidad de I.A. en Bilbao
 
-Empezaremos en Marzo 2021, primero con una sesión introductoria y contextualizadora de la relevancia de la IA y el _Machine Learning_ en esta época en la que vivimos.
-
-A partir de ahí, estaremos juntos 14 sesiones más; siendo la última de estas el esperado _Demo Day_.
+La edición anunciada para marzo de 2021 comenzaba con una introducción a la IA y el machine learning. Después se proponían otras catorce sesiones, incluida la presentación final en el Demo Day.
 
 #### AI Saturdays Bilbao 1ª Edición
 
@@ -83,7 +79,5 @@ Ya sea global o local, apreciamos el apoyo de nuestros socios para que nos ayude
 # Contactar Bilbao City Lead
 
 Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
 
 ![](/media/178cce5ebd88a719.webp)

@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "Curso ChatGPT y prompt engineering basico",
-      "en": "Curso ChatGPT y prompt engineering basico",
-      "es": "Curso ChatGPT y pronta ingeniería básica",
-      "reviewed": false,
+      "en": "ChatGPT and an introduction to prompt engineering",
+      "es": "ChatGPT e introducción a la ingeniería de prompts",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -18,6 +18,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -262,6 +267,105 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Learn to work with ChatGPT",
+      "en": "Learn to work with ChatGPT",
+      "es": "Aprende a trabajar con ChatGPT",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn to check the results, too",
+      "en": "Learn to check the results, too",
+      "es": "Aprende también a comprobar los resultados",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Practise writing clear instructions, providing context and evaluating a language model’s responses. Prompt engineering helps you explore specific uses of AI, with examples you can adapt to your tasks.",
+      "en": "Practise writing clear instructions, providing context and evaluating a language model’s responses. Prompt engineering helps you explore specific uses of AI, with examples you can adapt to your tasks.",
+      "es": "Practica cómo formular instrucciones claras, aportar contexto y evaluar las respuestas de un modelo de lenguaje. La ingeniería de prompts te ayuda a explorar usos concretos de la IA, con ejemplos que puedes adaptar a tus tareas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The generative and multimodal AI course builds on these foundations. Check the content, language and access details on our learning platform.",
+      "en": "The generative and multimodal AI course builds on these foundations. Check the content, language and access details on our learning platform.",
+      "es": "El curso de IA generativa y multimodal amplía estos fundamentos. Consulta en nuestra plataforma el contenido, el idioma y las condiciones de acceso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "View the course in Spanish",
+      "en": "View the course in Spanish",
+      "es": "Ver el curso en español",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "View the course in English",
+      "en": "View the course in English",
+      "es": "Ver el curso en inglés",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Illustration from the programming and AI course",
+      "en": "Illustration from the programming and AI course",
+      "es": "Ilustración del curso de programación e IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "A convincing response can contain errors. Verify important information and avoid entering personal or confidential data without permission.",
+      "en": "A convincing response can contain errors. Verify important information and avoid entering personal or confidential data without permission.",
+      "es": "Una respuesta convincente puede contener errores. Contrasta la información relevante y evita introducir datos personales o confidenciales sin autorización.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore the introduction to AI Safety / Security",
+      "en": "Explore the introduction to AI Safety / Security",
+      "es": "Explora la introducción a la Seguridad de la IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

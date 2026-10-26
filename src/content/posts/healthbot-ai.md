@@ -60,4 +60,4 @@ La realización de este trabajo fue posible con el apoyo en todo momento, de nue
 
 ## ¡Más inteligencia artificial!
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) a la vez que se realizan proyectos de impacto social (_#ai4good_). Si quieres aprender más sobre este proyecto (y otros) únete a nuestra [comunidad](http://community.saturdays.ai/) en o aprende a crear los tuyos en nuestro programa AI Saturdays.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.

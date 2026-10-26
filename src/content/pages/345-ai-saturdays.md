@@ -12,141 +12,103 @@ kind: page
 
 ## From curiosity to a project you can share
 
-AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and work together on a project with social impact. A Demo Day gives each team a chance to share what it has built and learned.
+AI Saturdays is our community learning programme. You practise AI with other learners, get support from mentors and build a team project with social impact in mind. Demo Day is a chance to share what you have created and learned.
 
-Editions typically run over 12 to 15 Saturdays. Each community confirms its format, prerequisites and dates. The programme archive below shows how previous editions worked.
+We have supported more than 30,000 AI fellows. Editions typically run over 12 to 15 Saturdays; each community confirms its dates, format and prerequisites.
 
-[Ask about the next edition](https://saturdays.ai/contacto/) | [Explore learning resources](https://saturdays.ai/online/)
+[Ask about the next edition](https://saturdays.ai/contacto/) | [Explore online courses](https://cursos.saturdays.ai/)
 
 ## Archive of previous editions
 
-## AI Saturdays
+The outline below preserves the structure of previous editions: 12 to 15 sessions of around five hours, held on Saturdays. Ask your local team which elements are included in its next edition.
 
-Our flagship program AI Saturdays lasts about 12-15 sessions of 5h each. 
-
-It is always scheduled on Saturdays, so that everyone has the opportunity to learn while building projects powered by AI. 
-
-![grupo jovenes aprendiendo inteligencia artificial](/media/0ef120ccb4ffe457.webp)
+![](/media/0ef120ccb4ffe457.webp)
 
 ![](/media/dbbefc86ca2b67af.webp)
 
-![saturdaysai2](/media/e37a50afe341f0d6.webp)
+![](/media/e37a50afe341f0d6.webp)
 
 ![](/media/4668c4d4ba408b17.webp)
 
-#### Watch what it's like
-
 ![](/media/151bf085bb82ad9b.webp)
 
-#### 1º - Code 2 Learn
+### 1. Code 2 Learn
 
-During the first half of the program, we learn the foundations of Machine Learning or Deep Learning through **coding exercises** on GPU enabled environments in a collaborative way. You will be assisted by facilitators and mentors all along this stage.
+The first half of the programme focuses on the foundations of machine learning or deep learning. We learn through coding exercises in GPU-enabled environments, supported by facilitators and mentors.
 
-We follow a top-down approach to learning by programming. To start, you will need some knowledge in Python and to know how to handle the basics of data science libraries. We go for challenges that encourage thinking.
+The approach starts with practice to help explain the theory. You need some Python knowledge and familiarity with basic data science libraries. The challenges encourage you to experiment, reason through problems and share what you learn.
 
-Practice > Theory
+### 2. Build 2 Learn
 
-#### 2º - Build 2 Learn
+In the second half, we develop a complete prototype using what we have learned. Each team chooses data and models to address a real problem with potential for social impact. We bring different backgrounds together so we can learn from one another.
 
-In the second half of the program, we **build end2end AI powered prototypes** using what we have just learnt. Working with both a dataset and a model of your choice, we address a real problem with AI, looking for social impact ideas. 
-
-For the projects, we put together multidisciplinary teams where diversity stands out. You can flip through all the projects we developed [here](https://medium.com/saturdays-ai).
+[Discover community projects](https://saturdays.ai/proyectos/)
 
 ![](/media/14900d7ad76de572.webp)
 
 ![](/media/a6d88589a9f5a04c.webp)
 
-#### 3º - DemoDay
+### 3. Demo Day
 
-Finally, after completing the Saturdays sessions, you **deliver a presentation** on DemoDay. This day, you can reveal to the community what you have accomplished and we all celebrate your project showcase. 
+Each team finishes by presenting its work to the community. The process includes publishing an article about the project and sharing its open-source code on GitHub, while respecting data usage conditions and third-party rights.
 
-To submit your project you will need to display your work beforehand in an article in our blog and publish the code in open source through Github.
+### Learning paths
 
-#### How is the programme built?
-
-You can choose different curriculums in Machine Learning or Deep Learning depending on your knowledge and interests in AI. You will learn in group with your mentors through coding exercises and share with your partners.
+Your choice of machine learning or deep learning depends on your knowledge and interests. You work with other learners and mentors through coding exercises.
 
 ![](/media/055b8201a6329654.webp)
 
-# Machine Learning Curriculum
+#### Machine learning: beginner level
 
-This programme consists of a minimum of 6 weeks, that can be extended at the discretion of the city manager. Here you can take a look at the basic content you will learn. 
+The foundations phase lasts at least six weeks and may be extended depending on the edition. Its goal is to help you apply machine learning techniques in practical exercises; it does not aim to cover the entire discipline.
 
-During the weeks of the Code2Learn phase we are not seeking for a complete training, but rather for you to develop the ability to use Machine Learning in practical exercises.
+#### Deep learning: intermediate level
 
-**Level:** beginner
-
-#### Deep Learning Curriculum
-
-The Deep Learning curriculum also consists of a minimum of 6 weeks. To enroll, you will need a minimum of experience with key Machine Learning concepts, preferably through a project.
-
-Here you can look at the basic curriculum, although each city has the possibility to extend it. Ask your city lead. 
-
-**Level:** intermediate
+This path also devotes at least six weeks to the foundations. It requires previous experience with key machine learning concepts, preferably through a project. The local team can extend the curriculum and confirm the prerequisites.
 
 ![](/media/8e55aa0f342c5ee4.webp)
 
-#### AI Saturdays program include:
+### What the experience includes
 
-![aprendiendo inteligencia artificial](/media/ebeba62b0616f110.webp)
+#### Projects with a purpose
 
-#### Social impact projects
+You develop practical skills by building a group project and exploring how AI could help address a social problem.
 
-With social impact projects and immersive content built in groups, you’ll master the A.I. skills you need.
+![](/media/ebeba62b0616f110.webp)
 
-Not only will you learn by creating a project, but you will be able to have a real and social impact in the field you choose.
+#### Mentor support
 
-#### Technical mentor support
-
-Our mentors will guide your learning and are focused on answering your questions, motivating you and keeping you on track.
-
-The reason why anyone can learn A.I. is to be able to count on mentors from different backgrounds with experience in machine learning.
+Mentors bring different experiences, answer questions and help you move forward. Learning in a community means being able to ask for help and share what you discover.
 
 ![](/media/11c0df2b78b4453c.webp)
 
 ![](/media/1e965252dd5b27b8.webp)
 
-#### A learning experience done right
+#### Resources to keep learning
 
-Access to recorded classes, forums, exercises and more resources. 
-
-Thanks to the help of Eduflow you will be able to train yourself through tests, exercises, corrections and feedback between students, etc.
+The archived editions included recorded classes, forums, exercises and activities on Eduflow, with assessments and peer feedback. Check which resources and platform are used by the edition you are interested in.
 
 #### Certificate of completion
 
-Get your certificate of completion after the successful completion of your project. It is a certificate issued by Saturdays.AI as an organization so you can present it on your CV or Linkedin.
-
-You will have to complete the entire course, from the exercises of the code2learn phase, to creating a group project and presenting it at the demoday.
+The programme offers a Saturdays.AI certificate after you complete the exercises, develop a team project and present it at Demo Day. You can include it on your CV or LinkedIn profile; confirm your edition’s criteria with the team.
 
 ![](/media/c80f6bbc8c2aa077.webp)
 
-#### +4,000
+### A community that keeps growing
 
-##### Happy AI Fellows
+The original archive recorded more than 4,000 fellows, over 300 projects and more than 100 machine learning exercises. Those figures describe that earlier stage; today, we have supported more than 30,000 AI fellows.
 
-have benefited from learning Artificial Intelligence as part of the AI Saturdays movement, creating an awesome community of AI enthusiasts and practitioners.
+Projects included prototypes and proofs of concept for non-profit organisations, as well as initiatives exploring a future as businesses. Learning, experimenting and sharing remain at the heart of the experience.
 
-#### +300
+### Meet our community
 
-##### AI Projects Delivered
+Participants come from diverse backgrounds, including software development, research, entrepreneurship, product management and studies across different disciplines.
 
-Our participants have built high-impact AI prototypes and proof of concepts (POC) during AI Saturdays, many for non-profit organizations and several on their way of becoming Start-ups.
+[Read their stories](https://saturdays.ai/testimonios/)
 
-#### +100
+### Find your local community
 
-##### Machine Learning Exercises
-
-To deliver on our commitment of making you AI fluent, we employ the best learning tools. We know that the learning experience is as good as the community that you are part of plus the lessons you follow. 
-
-#### Meet our fellows
-
-Our participants come from all walks of life. We are developers, researchers, entrepreneurs, product managers, students… Diversity is the bedrock on our mission.
-
-[MORE STORIES](https://saturdays.ai/testimonios/)
-
-#### Find your campus
-
-[See all campus](https://www.saturdays.ai/cities)
+[See all communities](https://saturdays.ai/comunidad/)
 
 [![Barcelona](/media/58dd1c3507f65f37.webp) Barcelona](https://www.saturdays.ai/cities)
 
@@ -170,8 +132,10 @@ Our participants come from all walks of life. We are developers, researchers, en
 
 [![Costa Rica](/media/c216695624dbcfd9.webp) Costa Rica](https://www.saturdays.ai/cities)
 
-#### Can't find your campus?
 
-Become an **community leader** of Saturdays.AI
 
-[CREATE YOUR COMMUNITY](https://saturdays.ai/create-your-own-ai-saturdays/)
+### Can’t find a community near you?
+
+You can help start a local Saturdays.AI community.
+
+[Create your community](https://saturdays.ai/create-your-own-ai-saturdays/)

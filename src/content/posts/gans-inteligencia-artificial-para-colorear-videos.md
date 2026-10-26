@@ -1,9 +1,7 @@
 ---
 title: "GANs: Inteligencia Artificial para colorear videos"
-description: La Paz. Deep Learning. 2021 Durante la última década, la explosión
-  de la cantidad de datos disponibles, la optimización de algoritmos y la
-  evolución constante de la potencia informática han permitido que la
-  inteligencia…
+description: Un equipo de La Paz utiliza U-Net-GAN para dar color a vídeos
+  históricos de Bolivia y comparte su proceso, resultados y limitaciones.
 pubDate: 2022-01-02
 author: Miguel Guerrero
 category: AI for good
@@ -137,11 +135,11 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esa a
 ##   
 ¡Más inteligencia artificial!
 
-La misión de [Saturdays.ai](http://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](http://www.saturdays.ai/) ¡te esperamos! [Saturdays.AI](https://medium.com/saturdays-ai?source=post_sidebar--------------------------post_sidebar--------------)
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 -   [Deep Learning](https://medium.com/saturdays-ai/tagged/deep-learning)
 -   [Gans](https://medium.com/saturdays-ai/tagged/gans)

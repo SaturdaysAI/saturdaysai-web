@@ -10,13 +10,15 @@ draft: false
 kind: page
 ---
 
-#### Partners
+## Your organisation can help open more doors
 
-## Your organization on Saturdays.AI
+Work with Saturdays.AI to make artificial intelligence accessible to more people. We connect learners, mentors and organisations through practical learning, open projects and community events.
 
-![](/media/a2ec70fdcbd9ae3e.webp)
+We have supported more than 30,000 AI fellows. We want everyone to find opportunities to learn, share their experience and apply AI with a purpose.
 
-#### Our partners
+[Let’s discuss a collaboration](mailto:partners@saturdays.ai)
+
+### Organisations in our network
 
 [![](/media/ca5419732b197c0e.webp)](https://ingenieriadesoftware.com.mx)
 
@@ -30,19 +32,35 @@ kind: page
 
 [![](/media/14627da87053ff7a.webp)](https://www.bitbrain.com/es)
 
-#### ¿What is Saturdays.AI?
 
-Saturdays.AI is a leading social impact organization dedicated to democratize artificial intelligence (AI4All), while building open-source projects (AI4Good).
 
-##### Learn in community
+### How we learn and share
 
-We learn in community through our platform: it includes private forums where people can ask their questions and get in touch other students.
+AI Saturdays brings together people from different backgrounds to learn AI techniques and build a team project. Editions typically run over 12 to 15 Saturdays; the local team confirms the format and prerequisites.
+
+The community is a place to share questions, resources and experiences. Our podcast and talks also introduce learners to the work of practitioners and creators.
+
+[Discover the podcast](https://saturdays.ai/podcast/) | [Explore AI Saturdays](https://saturdays.ai/ai-saturdays/)
+
+### A shared journey
+
+Historical partnership materials recorded a presence in more than 30 cities, over 500 projects, more than 50,000 followers and over 300 volunteers. They also estimated that around half of participants were considering a career change. These figures describe the archive and are not an updated count.
+
+Our commitment remains to connect learning with the people and organisations that can help it grow.
+
+### Ways to collaborate
+
+- Share tools and resources that help people learn and experiment with AI.
+- Bring professional experience into the community through mentoring, talks and projects.
+- Support open technology and knowledge that others can reuse.
+- Help organise activities and events that share our values.
+- Explore joint content for the podcast, website or community channels.
+
+Each collaboration is agreed with the team around its purpose and the community’s needs.
+
+![](/media/a2ec70fdcbd9ae3e.webp)
 
 ![](/media/61ede60d440dbc49.webp)
-
-##### Social A.I. bootcamp
-
-Our flagship program, AI Saturdays, is a 4-month-long, in-person bootcamp held on Saturdays. It brings together participants from diverse backgrounds, united by a shared passion for learning artificial intelligence and making a meaningful impact through collaborative projects.
 
 ![](/media/1400d68f528d9681.webp)
 
@@ -50,68 +68,10 @@ Our flagship program, AI Saturdays, is a 4-month-long, in-person bootcamp held o
 
 ![](/media/4740a4a0f8e3cc22.webp)
 
-Talks with great creator & experts
-
-We also interview creators and experts who provide a more complete and rigorous vision of artificial intelligence. Take a look at our podcast. 
-
 ![](/media/daeff9bda5e99586.webp)
 
 ![](/media/1e5a850234c3c5f0.webp)
 
 ![](/media/a293e1a753bb0860.webp)
 
-+30.000
-
-ALUMNI
-
-+30
-
-CITIES
-
-≈ 50 %
-
-LOOKING FOR A CAREER CHANGE
-
-+500
-
-SOCIAL IMPACT PROJECTS
-
-+50.000
-
-FOLLOWERS
-
-+300
-
-VOLUNTEERS
-
-#### Our Data
-
-More than half of our students are **looking for a change**. We want to provide the best ecosystem for them to seek their future within the field of AI and Data Science. 
-
-Whether your intention is to recruit student or professional talent or to promote your technology and services, this is your spot. 
-
-#### Our Mission
-
-At Saturdays.AI we aspire to make AI accessible to everyone through the formation of communities. And we also want to bring the **professional world** closer to our community. 
-
-To do this, in AI Saturdays (our flagship programme) we work with students for 12 to 15 Saturdays to learn ML techniques to end up creating a real AI project. No doubt this is the ideal environment to **recruit talent** or to **coach your employees.**
-
-We also organise other initiatives such as talks, podcasts or events in our community that can be the perfect opportunity to showcase your work.
-
--   To promote knowledge of new technologies
-
--   To advocate open technology initiatives
--   To bring the professional world closer to our community
--   To support organizations and events that share our values
-
-#### How we can partner?
-
-#### Tools
-
-We can reach an agreement to use one of your tools to help students in all communities.
-
-#### Mailing, Podcast & Web
-
-#### Contact us
-
-[partners@saturdays.ai](mailto:partners@saturdays.ai)
+[Write to partners@saturdays.ai](mailto:partners@saturdays.ai)

@@ -29,4 +29,4 @@ Available in Spanish only
 
 [Apple](https://podcasts.apple.com/es/podcast/saturdaysai-podcast/id1519310444)
 
-[Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTQ3OTkxLnJzcw?sa=X&ved=0CAMQ4aUDahcKEwjY0rXMptHxAhUAAAAAHQAAAAAQAQ&hl=es)
+[RSS](https://feeds.buzzsprout.com/1147991.rss)

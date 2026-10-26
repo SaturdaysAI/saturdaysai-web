@@ -6,9 +6,14 @@
       "source": "AI 4 Business",
       "en": "AI 4 Business",
       "es": "AI 4 Business",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Coding",
@@ -531,6 +536,182 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Technology with a purpose",
+      "en": "Technology with a purpose",
+      "es": "Tecnología con propósito",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Business goals",
+      "en": "Business goals",
+      "es": "Objetivos de negocio",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Practical applications",
+      "en": "Practical applications",
+      "es": "Aplicación práctica",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Team training",
+      "en": "Team training",
+      "es": "Formación para equipos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AI consulting",
+      "en": "AI consulting",
+      "es": "Consultoría en IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AI training and consulting for organisations that want to turn an idea into practical skills, prototypes and useful projects.",
+      "en": "AI training and consulting for organisations that want to turn an idea into practical skills, prototypes and useful projects.",
+      "es": "Formación y consultoría en IA para organizaciones que quieren convertir una idea en capacidades prácticas, prototipos y proyectos útiles.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Contact the team",
+      "en": "Contact the team",
+      "es": "Contacta con el equipo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We start with the problem you need to solve, then identify the data, tools and skills your project requires.",
+      "en": "We start with the problem you need to solve, then identify the data, tools and skills your project requires.",
+      "es": "Partimos del problema que necesitas resolver para identificar los datos, las herramientas y los conocimientos que requiere tu proyecto.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We connect your organisation’s goals with what the technology can and cannot do.",
+      "en": "We connect your organisation’s goals with what the technology can and cannot do.",
+      "es": "Conectamos los objetivos de tu organización con las posibilidades y los límites de la tecnología.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "We explore how to introduce AI into your processes and evaluate the results before expanding its use.",
+      "en": "We explore how to introduce AI into your processes and evaluate the results before expanding its use.",
+      "es": "Exploramos cómo incorporar la IA a tus procesos y cómo evaluar los resultados antes de ampliar su uso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Practical training in artificial intelligence, machine learning and data science.",
+      "en": "Practical training in artificial intelligence, machine learning and data science.",
+      "es": "Formación práctica en inteligencia artificial, machine learning y ciencia de datos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Support from practitioners to develop prototypes for your use cases.",
+      "en": "Support from practitioners to develop prototypes for your use cases.",
+      "es": "Acompañamiento de profesionales para desarrollar prototipos adaptados a tus casos de uso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Business-focused content or deeper technical work, depending on your team’s needs.",
+      "en": "Business-focused content or deeper technical work, depending on your team’s needs.",
+      "es": "Contenidos orientados al negocio o con mayor profundidad técnica, según las necesidades del equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "From the foundations to computer vision, language models, generative AI and predictive analytics: we work with your team to define the problem, develop prototypes and assess how to bring them into production.",
+      "en": "From the foundations to computer vision, language models, generative AI and predictive analytics: we work with your team to define the problem, develop prototypes and assess how to bring them into production.",
+      "es": "Desde los fundamentos hasta aplicaciones de visión artificial, modelos de lenguaje, IA generativa o análisis predictivo: trabajamos con tu equipo para definir el problema, desarrollar prototipos y valorar cómo llevarlos a producción.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The aim is to build useful solutions and share the knowledge needed to maintain them. Each project’s scope, requirements and evaluation are agreed with the organisation.",
+      "en": "The aim is to build useful solutions and share the knowledge needed to maintain them. Each project’s scope, requirements and evaluation are agreed with the organisation.",
+      "es": "El objetivo es construir soluciones útiles y compartir el conocimiento necesario para mantenerlas. El alcance, los requisitos y la evaluación de cada proyecto se acuerdan con la organización.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Let’s discuss your project",
+      "en": "Let’s discuss your project",
+      "es": "Hablemos de tu proyecto",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

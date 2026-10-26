@@ -80,7 +80,7 @@ Pero bueno dando por hecho que eres el número fan de IA, seguro que ya estás r
 
 Una vez dentro de la sala, ya solo nos queda crear. 
 
-Escribimos »_/imagine.prompt »_ y la definición que nos ha dado ChatGPT (si es inglés Midjurney funcionará mucho mejor)
+Escribimos /imagine y pegamos la descripción preparada con ChatGPT. En nuestro caso utilizamos prompts en inglés.
 
 ![](/media/2c29c3580372443b.webp)
 
@@ -162,37 +162,25 @@ Sé que hemos recorrido un camino lleno de detalles y herramientas mágicas de I
 
 Antes de nada define tu idea principal. Después contextualiza y pregunta a ChatGPT sobre la trama y personajes.
 
-Haz clic aquí
-
 2º Detalla con ChatGPT
 
 A llegado el momento de solicitar personajes, escenarios y diálogos a chatGPT. Termina refinando la trama y estructura del cuento.
-
-Haz clic aquí
 
 3º Visualización con MidJourney
 
 Usa MidJourney para buscar y seleccionar imágenes basadas en los prompts. ¡No elvides pedirle a chatGPT los prompts!
 
-Haz clic aquí
-
 4º Diseño con Canva
 
 Primero escoge una una plantilla adecuada y añade las imágenes y el texto. ¡Personaliza con tipografías, colores y efectos.!
-
-Haz clic aquí
 
 5º Sonorización con Genny
 
 Selecciona el tono y estilo de voz para cada personaje. Y después tan solo introduce el texto y Genny lo hará todo ¡Añade efectos sonoros si es necesario!
 
-Haz clic aquí
-
 ¡Publica y comparte!
 
 Una vez que tu cuento esté completo, ¡está listo para ser compartido con el mundo!.
-
-Haz clic aquí
 
 Hemos navegado juntos por un viaje que combina la magia de la narrativa con la precisión de la tecnología. A través de este proceso, hemos visto cómo la inteligencia artificial puede ser una aliada invaluable en la creación de contenido, transformando una simple idea en una historia vibrante y visualmente cautivadora.
 
@@ -212,7 +200,7 @@ Para ayudarte en tu inspiración te dejamos ojeando nuestras publicaciones. 
 
 Más de Inteligencia Artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_. También realizamos proyectos y consultoría para organizaciones que quieren sacar el máximo partido de la IA.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Si como nosotros te gusta la tecnología, hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 

@@ -1,9 +1,7 @@
 ---
 title: Deep Learning para detectar el cansancio y la inantención del conductor.
-description: Latam online. Segunda Edición. 2021 En Ecuador, el uso del celular
-  mientras se conduce un vehículo registró un incremento en los primeros nueve
-  meses del 2021; entre enero y septiembre de 2021 se reportaron 15,393
-  siniestros…
+description: GuardIAn combina YOLOv5 y puntos de referencia facial para explorar
+  alertas de distracción y somnolencia al volante.
 pubDate: 2022-02-27
 author: Info Saturdays
 category: AI for good
@@ -202,6 +200,6 @@ El presente proyecto tiene la intención de llevar a las siguientes empresas:
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

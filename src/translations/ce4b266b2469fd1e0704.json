@@ -6,31 +6,46 @@
       "source": "ECUADOR / AI SATURDAYS",
       "en": "ECUADOR / AI SATURDAYS",
       "es": "ECUADOR / AI SATURDAYS",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "AI Saturdays Guayaquil",
       "en": "AI Saturdays Guayaquil",
       "es": "AI Saturdays Guayaquil",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Guayaquil.",
       "en": "Guayaquil.",
       "es": "Guayaquil.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Guayaquil.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Guayaquil.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Guayaquil.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -43,6 +58,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -52,6 +72,28 @@
       "reviewed": false,
       "translationVersion": 2,
       "provider": "Argos automatic translation"
+    },
+    {
+      "source": "Connect with the Guayaquil community",
+      "en": "Connect with the Guayaquil community",
+      "es": "Conecta con la comunidad de Guayaquil",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "To find out about upcoming activities in Guayaquil, contact the Saturdays.AI team. We can help you connect with the local community and explore ways to take part.",
+      "en": "To find out about upcoming activities in Guayaquil, contact the Saturdays.AI team. We can help you connect with the local community and explore ways to take part.",
+      "es": "Para conocer las próximas actividades en Guayaquil, contacta con el equipo de Saturdays.AI. Te orientaremos sobre la comunidad local y las opciones para participar.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

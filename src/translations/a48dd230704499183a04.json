@@ -6,8 +6,13 @@
       "source": "Inteligencia Artificial y la Creación de Contenidos",
       "en": "Artificial Intelligence and Content Creation",
       "es": "Inteligencia Artificial y la Creación de Contenidos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La inteligencia artificial (IA) está transformando la creación de contenidos en redes sociales, ofreciendo ventajas en eficiencia y personalización, pero también planteando desafíos como la desinformación y los filtros…",
@@ -20,72 +25,122 @@
       "source": "17 abr 2023",
       "en": "Apr 17, 2023",
       "es": "17 abr 2023",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ventajas de la IA en la creación de contenidos",
       "en": "Advantages of AI in content creation",
       "es": "Ventajas de la IA en la creación de contenidos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Personalización y segmentación",
       "en": "Personalization and segmentation",
       "es": "Personalización y segmentación",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Análisis de sentimiento y moderación",
       "en": "Sentiment analysis and moderation",
       "es": "Análisis de sentimiento y moderación",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Riesgos de la IA en la creación de contenidos",
       "en": "Risks of AI in content creation",
       "es": "Riesgos de la IA en la creación de contenidos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Desinformación y noticias falsas:",
       "en": "Disinformation and fake news:",
       "es": "Desinformación y noticias falsas:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Filtros burbuja y polarización",
-      "en": "Bubble and polarization filters",
+      "en": "Filter bubbles and polarisation",
       "es": "Filtros burbuja y polarización",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Pérdida de autenticidad y creatividad",
       "en": "Loss of authenticity and creativity",
       "es": "Pérdida de autenticidad y creatividad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El papel de los creadores de contenido y los gestores de redes sociales",
       "en": "The role of content creators and social media managers",
       "es": "El papel de los creadores de contenido y los gestores de redes sociales",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Escrito por",
       "en": "Written by",
       "es": "Escrito por",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Digital art of a robot at a desk, typing a story on an old typewriter",
       "en": "Digital art of a robot at a desk, typing a story on an old typewriter",
       "es": "Arte digital de un robot en un escritorio, escribiendo una historia en una vieja máquina de escribir",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -98,13 +153,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Prompt: Digital art of a robot at a desk, typing a story on an old typewriter",
-      "en": "Prompt: Digital art of a robot at a desk, typing a story on an old typewriter",
-      "es": "Mensaje: Arte digital de un robot en un escritorio, escribiendo una historia en una vieja máquina de escribir",
-      "reviewed": false,
+      "en": "Prompt: digital art of a robot writing a story on an old typewriter.",
+      "es": "Prompt: arte digital de un robot escribiendo una historia en una máquina de escribir antigua.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -117,6 +177,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -157,106 +222,176 @@
       "source": "Una clara ventaja de la IA en la creación de contenidos es la",
       "en": "A clear advantage of AI in content creation is the",
       "es": "Una clara ventaja de la IA en la creación de contenidos es la",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "mejora de la eficiencia y la productividad",
       "en": "improved efficiency and productivity",
       "es": "mejora de la eficiencia y la productividad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". La IA permite a los creadores de contenido generar material de alta calidad en menos tiempo, lo que se traduce en una mayor eficiencia y productividad. Las herramientas basadas en IA pueden ayudar en la generación automática de textos, imágenes y videos, lo que facilita la creación de contenidos atractivos y relevantes para el público objetivo.",
-      "en": ". AI allows content creators to generate high-quality material in less time, resulting in greater efficiency and productivity. AI-based tools can help in the automatic generation of texts, images and videos, making it easier to create engaging and relevant content for the target audience.",
-      "es": ". La IA permite a los creadores de contenido generar material de alta calidad en menos tiempo, lo que se traduce en una mayor eficiencia y productividad. Las herramientas basadas en IA pueden ayudar en la generación automática de textos, imágenes y videos, lo que facilita la creación de contenidos atractivos y relevantes para el público objetivo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ". Tools can help produce drafts, images and videos more quickly. Quality is not guaranteed: editing, fact-checking and judgement are needed to make the material useful to its audience.",
+      "es": ". Las herramientas pueden ayudar a preparar borradores, imágenes y vídeos en menos tiempo. La calidad no está garantizada: hacen falta edición, comprobación de datos y criterio para que el material sea útil para su audiencia.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La IA puede analizar grandes cantidades de datos y extraer patrones de comportamiento, lo que permite a los creadores de contenido y a las plataformas de redes sociales ofrecer experiencias más personalizadas y segmentadas a los usuarios. És decir, el",
-      "en": "AI can analyze large amounts of data and extract behavioral patterns, allowing content creators and social media platforms to offer more personalized and segmented experiences to users. That is, the",
-      "es": "La IA puede analizar grandes cantidades de datos y extraer patrones de comportamiento, lo que permite a los creadores de contenido y a las plataformas de redes sociales ofrecer experiencias más personalizadas y segmentadas a los usuarios. És decir, el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AI can help analyse usage patterns and preferences to personalise content, while taking account of how the data was obtained and its limitations. This can give each",
+      "es": "La IA puede ayudar a analizar patrones de uso y preferencias para personalizar contenidos, siempre teniendo en cuenta cómo se obtuvieron los datos y sus límites. Así, cada",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "creador de contenido puede tener una forma de conocer a su propia audiencia",
-      "en": "content creator may have a way to know his own audience",
-      "es": "creador de contenido puede tener una forma de conocer a su propia audiencia",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "creator a better understanding of their audience",
+      "es": "creador puede conocer mejor a su audiencia",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ", hecho que le puede llevar a crear contenido más especifico. Esto puede mejorar la satisfacción del usuario y aumentar la retención y el compromiso.",
-      "en": ", a fact that can lead you to create more specific content. This can improve user satisfaction and increase retention and engagement.",
-      "es": ", hecho que le puede llevar a crear contenido más especifico. Esto puede mejorar la satisfacción del usuario y aumentar la retención y el compromiso.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": " and help them plan more specific content. The effect on satisfaction and engagement needs to be evaluated.",
+      "es": " y plantear contenidos más específicos. El efecto sobre la satisfacción y la participación debe evaluarse.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La IA también puede utilizarse para analizar el sentimiento de los usuarios y moderar el contenido en función de las políticas de la plataforma. Esto puede contribuir a la",
       "en": "AI can also be used to analyze user sentiment and moderate content based on platform policies. This can contribute to the",
       "es": "La IA también puede utilizarse para analizar el sentimiento de los usuarios y moderar el contenido en función de las políticas de la plataforma. Esto puede contribuir a la",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "detección de contenidos ofensivos o inapropiados",
       "en": "detection of offensive or inappropriate content",
       "es": "detección de contenidos ofensivos o inapropiados",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", así como a mejorar la calidad de las interacciones en las redes sociales.",
       "en": ", as well as improving the quality of interactions on social networks.",
       "es": ", así como a mejorar la calidad de las interacciones en las redes sociales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La IA puede generar contenido falso o manipulado con gran precisión, lo que aumenta el riesgo de desinformación y noticias falsas en las redes sociales.",
-      "en": "AI can generate false or manipulated content with great precision, increasing the risk of misinformation and fake news on social media.",
-      "es": "La IA puede generar contenido falso o manipulado con gran precisión, lo que aumenta el riesgo de desinformación y noticias falsas en las redes sociales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AI can generate convincing false or manipulated content, increasing the risk of disinformation.",
+      "es": "La IA puede generar contenido falso o manipulado que resulte convincente, lo que aumenta el riesgo de desinformación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los llamados «deepfakes», por ejemplo, pueden utilizarse para difamar a personas, interferir en la política o manipular la opinión pública.",
       "en": "So-called \"deepfakes\", for example, can be used to defame people, interfere in politics or manipulate public opinion.",
       "es": "Los llamados «deepfakes», por ejemplo, pueden utilizarse para difamar a personas, interferir en la política o manipular la opinión pública.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al ofrecer contenidos personalizados basados en las preferencias de los usuarios, la IA puede contribuir a la creación de filtros burbuja y a la polarización de la opinión pública. Esto puede conducir a la división social y al debilitamiento del discurso democrático.",
-      "en": "By offering personalized content based on user preferences, AI can contribute to the creation of filter bubbles and the polarization of public opinion. This can lead to social division and the weakening of democratic discourse.",
-      "es": "Al ofrecer contenidos personalizados basados en las preferencias de los usuarios, la IA puede contribuir a la creación de filtros burbuja y a la polarización de la opinión pública. Esto puede conducir a la división social y al debilitamiento del discurso democrático.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Personalisation can reduce the diversity of content someone sees and reinforce certain preferences. Its relationship with polarisation depends on the system, context and how people use the platform; it is not an automatic effect of all AI.",
+      "es": "La personalización puede reducir la diversidad de contenidos que ve una persona y reforzar ciertas preferencias. Su relación con la polarización depende del sistema, del contexto y de cómo las personas usan la plataforma; no es un efecto automático de toda IA.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "A medida que la IA se convierte en una herramienta común para la creación de contenidos, existe el riesgo de que los creadores humanos sean desplazados y que se pierda la autenticidad y la creatividad que solo pueden aportar las personas.",
       "en": "As AI becomes a common tool for content creation, there is a risk that human creators will be displaced and the authenticity and creativity that only people can bring will be lost.",
       "es": "A medida que la IA se convierte en una herramienta común para la creación de contenidos, existe el riesgo de que los creadores humanos sean desplazados y que se pierda la autenticidad y la creatividad que solo pueden aportar las personas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "a robot helping a human programmer. Both programming together, with several monitors.",
       "en": "a robot helping a human programmer. Both programming together, with several monitors.",
       "es": "un robot ayudando a un programador humano. Ambos programando juntos, con varios monitores.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prompt: a robot helping a human programmer. Both programming together, with several monitors.",
       "en": "Prompt: a robot helping a human programmer. Both programming together, with several monitors.",
       "es": "Mensaje: un robot ayudando a un programador humano. Ambos programando juntos, con varios monitores.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -269,142 +404,242 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Para abordar estos desafíos, los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque proactivo y colaborativo.",
       "en": "To address these challenges, content creators and social media managers must take a proactive and collaborative approach.",
       "es": "Para abordar estos desafíos, los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque proactivo y colaborativo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Establecer estándares y políticas claras:",
       "en": "Establish clear standards and policies:",
       "es": "Establecer estándares y políticas claras:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las plataformas de redes sociales deben establecer políticas y estándares claros para garantizar que la IA se utilice de manera responsable y ética en la creación de contenidos.",
       "en": "Social media platforms must establish clear policies and standards to ensure that AI is used responsibly and ethically in content creation.",
       "es": "Las plataformas de redes sociales deben establecer políticas y estándares claros para garantizar que la IA se utilice de manera responsable y ética en la creación de contenidos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Promover la transparencia y la responsabilidad",
       "en": "Promote transparency and accountability",
       "es": "Promover la transparencia y la responsabilidad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": Los creadores de contenido y las plataformas de redes sociales deben ser transparentes acerca del uso de la IA en la generación de contenidos, y deben asumir la responsabilidad de garantizar que se utilice de manera ética y segura.",
       "en": ": Content creators and social media platforms must be transparent about the use of AI in content generation, and must take responsibility for ensuring it is used ethically and safely.",
       "es": ": Los creadores de contenido y las plataformas de redes sociales deben ser transparentes acerca del uso de la IA en la generación de contenidos, y deben asumir la responsabilidad de garantizar que se utilice de manera ética y segura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fomentar la educación y la concienciación",
       "en": "Promote education and awareness",
       "es": "Fomentar la educación y la concienciación",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": Es importante educar y concienciar a los usuarios sobre los riesgos y beneficios asociados con la IA en la creación de contenidos. Esto puede incluir la promoción de la alfabetización mediática y digital, así como la enseñanza de habilidades críticas para evaluar la autenticidad y la fiabilidad de los contenidos en línea.",
       "en": ": It is important to educate and raise awareness among users about the risks and benefits associated with AI in content creation. This may include promoting media and digital literacy, as well as teaching critical skills to evaluate the authenticity and trustworthiness of online content.",
       "es": ": Es importante educar y concienciar a los usuarios sobre los riesgos y beneficios asociados con la IA en la creación de contenidos. Esto puede incluir la promoción de la alfabetización mediática y digital, así como la enseñanza de habilidades críticas para evaluar la autenticidad y la fiabilidad de los contenidos en línea.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Innovación y colaboración entre humanos y IA",
       "en": "Innovation and collaboration between humans and AI",
       "es": "Innovación y colaboración entre humanos y IA",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": Los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque híbrido que combine la creatividad humana y la eficiencia de la IA. Esto puede incluir el desarrollo de nuevas formas de colaboración entre humanos y máquinas, así como la exploración de nuevas oportunidades creativas que surjan de la interacción entre ambos.",
       "en": ": Content creators and social media managers must adopt a hybrid approach that combines human creativity and AI efficiency. This may include developing new forms of collaboration between humans and machines, as well as exploring new creative opportunities that arise from the interaction between the two.",
       "es": ": Los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque híbrido que combine la creatividad humana y la eficiencia de la IA. Esto puede incluir el desarrollo de nuevas formas de colaboración entre humanos y máquinas, así como la exploración de nuevas oportunidades creativas que surjan de la interacción entre ambos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Vigilancia y adaptación",
-      "en": "Surveillance and adaptation",
-      "es": "Vigilancia y adaptación",
-      "reviewed": false
+      "en": "Monitoring and adaptation",
+      "es": "Seguimiento y adaptación",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": Dado que la tecnología de IA sigue evolucionando rápidamente, los creadores de contenido y los gestores de redes sociales deben estar siempre alerta y adaptarse a los cambios. Esto implica mantenerse informado sobre las últimas tendencias y desarrollos en IA y estar dispuesto a ajustar las estrategias y enfoques según sea necesario.",
       "en": ": As AI technology continues to evolve rapidly, content creators and social media managers must always be alert and adapt to changes. This involves staying informed about the latest trends and developments in AI and being willing to adjust strategies and approaches as necessary.",
       "es": ": Dado que la tecnología de IA sigue evolucionando rápidamente, los creadores de contenido y los gestores de redes sociales deben estar siempre alerta y adaptarse a los cambios. Esto implica mantenerse informado sobre las últimas tendencias y desarrollos en IA y estar dispuesto a ajustar las estrategias y enfoques según sea necesario.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La inteligencia artificial tiene el",
       "en": "Artificial intelligence has the",
       "es": "La inteligencia artificial tiene el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "potencial de revolucionar la creación de contenidos",
       "en": "potential to revolutionize content creation",
       "es": "potencial de revolucionar la creación de contenidos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "en las redes sociales, ofreciendo oportunidades para mejorar la eficiencia, la personalización y la moderación. Sin embargo, también",
       "en": "on social networks, offering opportunities to improve efficiency, personalization and moderation. However, also",
       "es": "en las redes sociales, ofreciendo oportunidades para mejorar la eficiencia, la personalización y la moderación. Sin embargo, también",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "presenta riesgos significativos",
-      "en": "presents significant risks",
+      "en": "it also presents significant risks",
       "es": "presenta riesgos significativos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "en términos de desinformación, filtros burbuja y pérdida de autenticidad.",
       "en": "in terms of misinformation, filter bubbles and loss of authenticity.",
       "es": "en términos de desinformación, filtros burbuja y pérdida de autenticidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para aprovechar al máximo las oportunidades y abordar los riesgos, los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque proactivo y colaborativo, estableciendo políticas claras, promoviendo la transparencia, fomentando la educación y la concienciación, y explorando nuevas formas de innovación y colaboración entre humanos y la inteligencia artificial.",
       "en": "To make the most of the opportunities and address the risks, content creators and social media managers must take a proactive and collaborative approach, establishing clear policies, promoting transparency, encouraging education and awareness, and exploring new forms of human-AI innovation and collaboration.",
       "es": "Para aprovechar al máximo las oportunidades y abordar los riesgos, los creadores de contenido y los gestores de redes sociales deben adoptar un enfoque proactivo y colaborativo, estableciendo políticas claras, promoviendo la transparencia, fomentando la educación y la concienciación, y explorando nuevas formas de innovación y colaboración entre humanos y la inteligencia artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Josep Moré Gili",
-      "en": "Josep More Gili",
+      "en": "Josep Moré Gili",
       "es": "Josep Moré Gili",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Holgado, R. (2022). Así usan la IA para crear rostros falsos de personas: «Los ‘deepfakes’ evolucionan a un ritmo vertiginoso» 20 Minutos.",
       "en": "Holgado, R. (2022). This is how they use AI to create fake faces of people: “Deepfakes are evolving at a dizzying pace” 20 Minutes.",
       "es": "Holgado, R. (2022). Así usan la IA para crear rostros falsos de personas: «Los ‘deepfakes’ evolucionan a un ritmo vertiginoso» 20 Minutos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Chesney, R., & Citron, D. K. (2018). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753-1809.",
       "en": "Chesney, R., & Citron, D. K. (2018). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753-1809.",
-      "es": "Chesney, R. y Citron, DK (2018). Deep fakes: un desafío inminente para la privacidad, la democracia y la seguridad nacional. Revisión de la ley de California, 107, 1753-1809.",
-      "reviewed": false,
+      "es": "Chesney, R., & Citron, D. K. (2018). Deep fakes: A looming challenge for privacy, democracy, and national security. California Law Review, 107, 1753-1809.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -417,13 +652,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., … & Trench, M. (2017). Artificial intelligence: The next digital frontier?. McKinsey Global Institute.",
       "en": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P., … & Trench, M. (2017). Artificial intelligence: The next digital frontier?. McKinsey Global Institute.",
       "es": "Bughin, J., Hazan, E., Ramaswamy, S., Chui, M., Allas, T., Dahlström, P.,… y Trench, M. (2017). Inteligencia artificial: ¿la próxima frontera digital?. Instituto Global McKinsey.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -436,6 +676,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -454,10 +699,48 @@
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 17 abr 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on Apr 17, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on Apr 17, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 17 abr 2023.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
+    },
+    {
+      "source": "Cómo puede ayudar la IA a crear contenidos para redes sociales y qué exige usarla con criterio: edición, transparencia, verificación y responsabilidad.",
+      "en": "How AI can help create social-media content and what responsible use requires: editing, transparency, verification and accountability.",
+      "es": "Cómo puede ayudar la IA a crear contenidos para redes sociales y qué exige usarla con criterio: edición, transparencia, verificación y responsabilidad.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La inteligencia artificial ha ampliado las herramientas disponibles para crear contenidos en redes sociales. En este artículo exploramos sus posibilidades, los riesgos de desinformación y el papel de quienes crean y gestionan esos contenidos.",
+      "en": "Artificial intelligence has expanded the tools available for creating social-media content. This article explores their possibilities, the risks of disinformation and the role of the people who create and manage that content.",
+      "es": "La inteligencia artificial ha ampliado las herramientas disponibles para crear contenidos en redes sociales. En este artículo exploramos sus posibilidades, los riesgos de desinformación y el papel de quienes crean y gestionan esos contenidos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En el artículo anterior analizamos el papel de la IA en los algoritmos de las redes sociales.",
+      "en": "The previous article explored AI’s role in social-media algorithms.",
+      "es": "En el artículo anterior analizamos el papel de la IA en los algoritmos de las redes sociales.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

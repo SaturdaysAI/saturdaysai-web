@@ -1,8 +1,8 @@
 ---
 title: Can AI boost tradition?
-description: Tradition, from latin tradere, to transmit, is the act of sharing a
-  behavior or belief from generation to generation. And as such, this heritage
-  becomes part of our ourselves, our identity. Innovation, in contrast, is the…
+description: "MiliaGAN explora cómo generar melodías para el bertsolarismo con
+  redes generativas adversarias: tradición vasca, experimentación y mucho
+  aprendizaje."
 pubDate: 2021-11-22
 author: Miguel Guerrero
 category: AI for good
@@ -185,8 +185,8 @@ Will MiliaGAN revolutionize the world of bertsolarism? We frankly doubt it, but 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) a la vez que se realizan proyectos de impacto social (_#ai4good_). Si quieres aprender más sobre este proyecto (y otros) únete a nuestra [comunidad](http://community.saturdays.ai/) en o aprende a crear los tuyos en nuestro programa AI Saturdays.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

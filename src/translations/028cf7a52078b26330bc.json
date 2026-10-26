@@ -19,178 +19,288 @@
       "source": "2 ene 2022",
       "en": "Jan 2, 2022",
       "es": "2 ene 2022",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Daniela Centellas Yucra",
       "en": "Daniela Centellas Yucra",
       "es": "Daniela Centellas Yucra",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Durante la última década, la explosión de la cantidad de datos disponibles, la optimización de algoritmos y la evolución constante de la potencia informática han permitido que la inteligencia artificial (IA) realice cada vez más tareas humanas [1]. Y desde hace un tiempo la inteligencia artificial se ha convertido en una poderosa herramienta para devolvernos al pasado. Lo demuestran la cada vez mayor cantidad de imágenes y videos restaurados a través de diferentes técnicas de inteligencia artificial, como por ejemplo la capacidad de colorear videos en blanco y negro.",
       "en": "Over the past decade, the explosion in the amount of data available, the optimization of algorithms, and the constant evolution of computing power have enabled artificial intelligence (AI) to perform more and more human tasks [1]. And for some time now, artificial intelligence has become a powerful tool to take us back to the past. This is demonstrated by the increasing number of images and videos restored through different artificial intelligence techniques, such as the ability to colorize black and white videos.",
       "es": "Durante la última década, la explosión de la cantidad de datos disponibles, la optimización de algoritmos y la evolución constante de la potencia informática han permitido que la inteligencia artificial (IA) realice cada vez más tareas humanas [1]. Y desde hace un tiempo la inteligencia artificial se ha convertido en una poderosa herramienta para devolvernos al pasado. Lo demuestran la cada vez mayor cantidad de imágenes y videos restaurados a través de diferentes técnicas de inteligencia artificial, como por ejemplo la capacidad de colorear videos en blanco y negro.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En términos de coloración de imágenes y videos la Inteligencia artificial ha evolucionado y durante los últimos años se ha observado una mejora significativa. Ya que la coloración manual requiere una gran cantidad de tiempo y es un proceso costoso, la aplicación de técnicas de inteligencia artificial es una gran opción para este tipo de tareas porque es capaz de trabajar por sí misma y colorear automáticamente en un corto periodo de tiempo [2].",
       "en": "In terms of image and video colorization, Artificial Intelligence has evolved and significant improvement has been observed in recent years. Since manual coloring requires a large amount of time and is an expensive process, the application of artificial intelligence techniques is a great option for this type of task because it is capable of working on its own and coloring automatically in a short period of time [2].",
       "es": "En términos de coloración de imágenes y videos la Inteligencia artificial ha evolucionado y durante los últimos años se ha observado una mejora significativa. Ya que la coloración manual requiere una gran cantidad de tiempo y es un proceso costoso, la aplicación de técnicas de inteligencia artificial es una gran opción para este tipo de tareas porque es capaz de trabajar por sí misma y colorear automáticamente en un corto periodo de tiempo [2].",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Existen pocos registros filmográficos que capturen la vida cotidiana de antaño de nuestro país es por ello que quisimos tener otra perspectiva de estos videos añadiendo color a los pocos que encontramos.",
       "en": "There are few film records that capture the daily life of our country in the past, which is why we wanted to have another perspective on these videos by adding color to the few we found.",
       "es": "Existen pocos registros filmográficos que capturen la vida cotidiana de antaño de nuestro país es por ello que quisimos tener otra perspectiva de estos videos añadiendo color a los pocos que encontramos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Extraer imágenes de videos antiguos para darles color haciendo uso de una red GAN, para posteriormente generar un video a color.",
       "en": "Extract images from old videos to give them color using a GAN network, to later generate a color video.",
       "es": "Extraer imágenes de videos antiguos para darles color haciendo uso de una red GAN, para posteriormente generar un video a color.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El dataset se pudo obtener a partir de videos encontrados en youtube, de tipo documental y grabaciones de los distintos paisajes de Bolivia, se usaron 10 videos distintos ya que se tienen videos antiguos a color, que tienen un color más opaco, otros videos de los paisajes con un color más definido pero con una calidad no mayor a 480p, y otro con una calidad mayor. No se tomaron todos los frames de estos ya que se optó por usar los frames significativos y asi no tener varios frames de una misma escena.",
-      "en": "The dataset could be obtained from videos found on YouTube, documentary type and recordings of the different landscapes of Bolivia, 10 different videos were used since there are old color videos, which have a more opaque color, other videos of the landscapes with a more defined color but with a quality no higher than 480p, and another with a higher quality. Not all of these frames were taken since it was decided to use the significant frames and thus not have several frames from the same scene.",
-      "es": "El dataset se pudo obtener a partir de videos encontrados en youtube, de tipo documental y grabaciones de los distintos paisajes de Bolivia, se usaron 10 videos distintos ya que se tienen videos antiguos a color, que tienen un color más opaco, otros videos de los paisajes con un color más definido pero con una calidad no mayor a 480p, y otro con una calidad mayor. No se tomaron todos los frames de estos ya que se optó por usar los frames significativos y asi no tener varios frames de una misma escena.",
-      "reviewed": false,
+      "en": "We built the dataset from ten YouTube videos: documentaries and recordings of Bolivian landscapes. They included older colour footage with muted tones, videos up to 480p and higher-quality material. We selected representative frames to avoid including many near-duplicates from the same scene.",
+      "es": "Construimos el dataset a partir de diez vídeos de YouTube: documentales y grabaciones de paisajes de Bolivia. Incluimos material antiguo en color, con tonos apagados, vídeos de hasta 480p y otros de mayor calidad. Seleccionamos fotogramas representativos para evitar repetir muchas imágenes de una misma escena.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Selección del modelo y técnicas usadas",
       "en": "Model selection and techniques used",
       "es": "Selección del modelo y técnicas usadas",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La arquitectura usada para colorear mediante Inteligencia Artificial fue la de Unet-GAN por su gran capacidad para sintetizar las características de las imágenes lo que mejora ampliamente los resultados finales.",
       "en": "The architecture used for coloring using Artificial Intelligence was Unet-GAN due to its great capacity to synthesize the characteristics of the images, which greatly improves the final results.",
       "es": "La arquitectura usada para colorear mediante Inteligencia Artificial fue la de Unet-GAN por su gran capacidad para sintetizar las características de las imágenes lo que mejora ampliamente los resultados finales.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una red generativa antagonica (GAN) tiene dos redes. Una es el discriminador que intentará discriminar entre imágenes reales y falsas. Y la segunda red de la GAN ​​es el generador que se encargará de generar imágenes falsas pero muy cercanas a las imágenes originales más bien podemos decir que las imágenes falsas estarán en la misma distribución de las imágenes originales.",
-      "en": "A generative adversarial network (GAN) has two networks. One is the discriminator that will try to discriminate between real and fake images. And the second network of the GAN is the generator that will be responsible for generating false images but very close to the original images. Rather, we can say that the false images will be in the same distribution as the original images.",
-      "es": "Una red generativa antagonica (GAN) tiene dos redes. Una es el discriminador que intentará discriminar entre imágenes reales y falsas. Y la segunda red de la GAN ​​es el generador que se encargará de generar imágenes falsas pero muy cercanas a las imágenes originales más bien podemos decir que las imágenes falsas estarán en la misma distribución de las imágenes originales.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "A generative adversarial network (GAN) combines a generator and a discriminator. The generator creates images, while the discriminator tries to distinguish them from real ones. Training aims to bring the generated images closer to the distribution of the original data.",
+      "es": "Una red generativa adversaria (GAN) combina un generador y un discriminador. El generador crea imágenes y el discriminador intenta distinguirlas de las reales. El entrenamiento busca que las imágenes generadas se parezcan a la distribución de los datos originales.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "UNET se utiliza básicamente en problemas de segmentación de imágenes donde las dimensiones de entrada y salida son las mismas. GAN intenta generar nuevas imágenes a partir de un ruido aleatorio. Entonces, el generador de GAN tiene muy pocas dimensiones en la entrada, pero la salida es en gran dimensión. Puede usar UNET como generador en el GAN ​​(pix2pix usa esto).",
-      "en": "UNET is basically used in image segmentation problems where the input and output dimensions are the same. GAN tries to generate new images from random noise. So, the GAN generator has very low dimensions at the input, but the output is high dimensional. You can use UNET as a generator in the GAN (pix2pix uses this).",
-      "es": "UNET se utiliza básicamente en problemas de segmentación de imágenes donde las dimensiones de entrada y salida son las mismas. GAN intenta generar nuevas imágenes a partir de un ruido aleatorio. Entonces, el generador de GAN tiene muy pocas dimensiones en la entrada, pero la salida es en gran dimensión. Puede usar UNET como generador en el GAN ​​(pix2pix usa esto).",
-      "reviewed": false,
+      "en": "U-Net is commonly used for segmentation, with similarly sized inputs and outputs. It can also serve as the generator in a conditional GAN, as in pix2pix, where the output depends on an input image rather than only random noise.",
+      "es": "U-Net se utiliza habitualmente en segmentación, con entradas y salidas de tamaño similar. También puede actuar como generador de una GAN condicionada, como en pix2pix, donde la salida depende de una imagen de entrada en vez de partir únicamente de ruido aleatorio.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En este caso, generará imágenes falsas no a partir de ruido aleatorio sino de otra imagen de referencia. Tiene otras opciones como red deconvolución, codificador automático, etc.",
       "en": "In this case, it will generate fake images not from random noise but from another reference image. It has other options like deconvolution network, autoencoder, etc.",
       "es": "En este caso, generará imágenes falsas no a partir de ruido aleatorio sino de otra imagen de referencia. Tiene otras opciones como red deconvolución, codificador automático, etc.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al inicio se realizó la obtención de videos, se segmentó los videos en frames que se usaron como ground truths, se estandarizó las imágenes a un tamaño y se hizo la conversión de los frames RGB a grayscale para usarlos como inputs. Al finalizar con el proceso de colorización se unió los frames resultantes para convertirlos de nuevo en video.",
-      "en": "At the beginning, videos were obtained, the videos were segmented into frames that were used as ground truths, the images were standardized to a size and the RGB frames were converted to grayscale to use them as inputs. At the end of the colorization process, the resulting frames were joined to convert them back into video.",
-      "es": "Al inicio se realizó la obtención de videos, se segmentó los videos en frames que se usaron como ground truths, se estandarizó las imágenes a un tamaño y se hizo la conversión de los frames RGB a grayscale para usarlos como inputs. Al finalizar con el proceso de colorización se unió los frames resultantes para convertirlos de nuevo en video.",
-      "reviewed": false,
+      "en": "We extracted video frames, standardised their dimensions and kept the RGB images as reference targets. We converted them to greyscale for use as inputs. After colourising the frames, we combined them to reconstruct the video.",
+      "es": "Extraímos fotogramas de los vídeos, unificamos sus dimensiones y conservamos las imágenes RGB como referencias. Después las convertimos a escala de grises para utilizarlas como entradas. Una vez coloreados los fotogramas, los unimos para reconstruir el vídeo.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la gráfica 1 podemos observar la pérdida del discriminador y la del generador y se puede ver que existe una tendencia exponencial y que la pérdida es estacionaria en el valor 0.4 para el discriminador y 0 para el generador.",
       "en": "In graph 1 we can observe the loss of the discriminator and the generator and it can be seen that there is an exponential trend and that the loss is stationary at the value 0.4 for the discriminator and 0 for the generator.",
       "es": "En la gráfica 1 podemos observar la pérdida del discriminador y la del generador y se puede ver que existe una tendencia exponencial y que la pérdida es estacionaria en el valor 0.4 para el discriminador y 0 para el generador.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Gráfica 1. Pérdida del discriminador y del generador",
       "en": "Graph 1. Loss of the discriminator and the generator",
       "es": "Gráfica 1. Pérdida del discriminador y del generador",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se puede apreciar en las imágenes de entrenamiento con 600 épocas que se llega a tener un color correcto, pero no tan intenso como en las imágenes RGB reales, también se puede ver que llega a tener errores cuando se tiene una sección con mayor brillo en la imagen, como ser rayos del sol o secciones de blanco.",
-      "en": "It can be seen in the training images with 600 epochs that the color is correct, but not as intense as in the real RGB images. It can also be seen that there are errors when there is a brighter section in the image, such as sun rays or white sections.",
-      "es": "Se puede apreciar en las imágenes de entrenamiento con 600 épocas que se llega a tener un color correcto, pero no tan intenso como en las imágenes RGB reales, también se puede ver que llega a tener errores cuando se tiene una sección con mayor brillo en la imagen, como ser rayos del sol o secciones de blanco.",
-      "reviewed": false,
+      "en": "After 600 epochs, the training examples showed plausible colours, although less intense than the originals. Errors also appeared in bright regions such as sunlight or white surfaces.",
+      "es": "Tras 600 épocas, los ejemplos de entrenamiento mostraban colores plausibles, aunque menos intensos que los originales. También aparecían errores en zonas muy luminosas, como rayos de sol o superficies blancas.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Con las imágenes de testeo se puede ver que las imágenes se llegan a colorear pero se sigue teniendo el problema con las secciones de brillo y que tiene una mayor predisposición a la gama de rojos y azules.",
-      "en": "With the test images you can see that the images are colored but there is still a problem with the brightness sections and that there is a greater predisposition to the range of reds and blues.",
-      "es": "Con las imágenes de testeo se puede ver que las imágenes se llegan a colorear pero se sigue teniendo el problema con las secciones de brillo y que tiene una mayor predisposición a la gama de rojos y azules.",
-      "reviewed": false,
+      "en": "Test images still showed errors in bright regions and a tendency towards red and blue tones.",
+      "es": "En las imágenes de prueba persistían los errores en zonas luminosas y cierta tendencia hacia tonos rojos y azules.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En las imagenes del video en blanco y negro elegido para poner a prueba nuestro modelo se tiene una buena coloracion siendo que al ser una grabacion de la ciudad de La Paz-Bolivia se tiene más imagenes de edificios no se necesita tener una gran variedad de colores, el color más intenso que se ve es en el cielo.",
-      "en": "In the images of the black and white video chosen to test our model, there is a good coloration and since it is a recording of the city of La Paz-Bolivia, there are more images of buildings, it is not necessary to have a great variety of colors, the most intense color that is seen is in the sky.",
-      "es": "En las imagenes del video en blanco y negro elegido para poner a prueba nuestro modelo se tiene una buena coloracion siendo que al ser una grabacion de la ciudad de La Paz-Bolivia se tiene más imagenes de edificios no se necesita tener una gran variedad de colores, el color más intenso que se ve es en el cielo.",
-      "reviewed": false,
+      "en": "The black-and-white test video showed buildings in La Paz. We found the colourisation visually plausible, with particularly vivid sky colours. These are model estimates, not a verified recovery of the original historical colours.",
+      "es": "El vídeo en blanco y negro utilizado como prueba mostraba edificios de La Paz. La colorización nos pareció visualmente plausible y el cielo destacó por su intensidad. Estos colores son una estimación del modelo, no una recuperación comprobada de los colores históricos.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Conclusión y recomendaciones",
       "en": "Conclusion and recommendations",
       "es": "Conclusión y recomendaciones",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se logró implementar un modelo con arquitectura Unet-GAN capaz de colorear imágenes en blanco y negro y con el conjunto de las imagenes coloreadas se obtuvo un video a color, todo este proceso nos permitio familiarizarnos con modelos de Inteligencia Artificial del tipo Deep Unsupervised Learning, preparación de datasets, lenguaje Python, librerias especializadas en Deep learning y Colab como herramienta para la implementacion de nuestro modelo. Los resultados son aceptables sin embargo quedan algunas falencias que subsanar como que ciertas imágenes con brillo que forman parte de nuestro dataset de entrenamiento presentan error al momento de ser reproducidas por la GAN, además algunas colorizaciones no son completas, esto debido a que el dataset no contaba con muchas variaciones de color, por lo tanto es recomendable ampliar la paleta de colores con las que se realiza el entrenamiento.",
-      "en": "It was possible to implement a model with Unet-GAN architecture capable of coloring black and white images and with the set of colored images a color video was obtained. This whole process allowed us to become familiar with Artificial Intelligence models of the Deep Unsupervised Learning type, preparation of datasets, Python language, libraries specialized in Deep learning and Colab as a tool for the implementation of our model. The results are acceptable, however, there are some shortcomings that need to be corrected, such as certain bright images that are part of our training dataset that present errors when reproduced by the GAN, and some colorizations are not complete, this is because the dataset did not have many color variations, therefore it is advisable to expand the color palette with which the training is carried out.",
-      "es": "Se logró implementar un modelo con arquitectura Unet-GAN capaz de colorear imágenes en blanco y negro y con el conjunto de las imagenes coloreadas se obtuvo un video a color, todo este proceso nos permitio familiarizarnos con modelos de Inteligencia Artificial del tipo Deep Unsupervised Learning, preparación de datasets, lenguaje Python, librerias especializadas en Deep learning y Colab como herramienta para la implementacion de nuestro modelo. Los resultados son aceptables sin embargo quedan algunas falencias que subsanar como que ciertas imágenes con brillo que forman parte de nuestro dataset de entrenamiento presentan error al momento de ser reproducidas por la GAN, además algunas colorizaciones no son completas, esto debido a que el dataset no contaba con muchas variaciones de color, por lo tanto es recomendable ampliar la paleta de colores con las que se realiza el entrenamiento.",
-      "reviewed": false,
+      "en": "We implemented a U-Net-GAN model to colourise black-and-white frames and reconstruct a video. The process gave us practice with data preparation, Python, deep learning and Google Colab. Bright areas and incomplete colourisation remain problems. Expanding the dataset’s range of colours and scenes is a potential improvement to evaluate.",
+      "es": "Implementamos un modelo U-Net-GAN para colorear fotogramas en blanco y negro y reconstruir un vídeo. El proceso nos permitió practicar preparación de datos, Python, deep learning y Google Colab. Quedan errores en zonas brillantes y colorizaciones incompletas. Ampliar la variedad de colores y escenas del dataset es una línea de mejora que habrá que evaluar.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "project_color.mp4Edit descriptiondrive.google.com",
-      "en": "project_color.mp4Edit descriptiondrive.google.com",
-      "es": "project_color.mp4Edit descriptiondrive.google.com",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Watch the colourised video",
+      "es": "Ver el vídeo coloreado",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una introducción básica a las GAN (Generative Adversarial Networks)",
       "en": "A basic introduction to GANs (Generative Adversarial Networks)",
       "es": "Una introducción básica a las GAN (Generative Adversarial Networks)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". (n.d.). Retrieved December 4, 2021, from",
-      "en": ". (n.d.). Retrieved December 4, 2021, from",
-      "es": ". (Dakota del Norte.). Recuperado el 4 de diciembre de 2021 de",
-      "reviewed": false,
+      "en": ". (n.d.). Accessed 4 December 2021 at",
+      "es": ". (s. f.). Consultado el 4 de diciembre de 2021 en",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -203,13 +313,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "film colorization, colorize video, colorize black and white videos, colorize video software, film colorization software, colorization of film",
       "en": "film colorization, colorize video, colorize black and white videos, colorize video software, film colorization software, colorization of film",
       "es": "colorear películas, colorear videos, colorear videos en blanco y negro, software para colorear videos, software para colorear películas, colorear películas",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -221,76 +336,137 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Códigos",
       "en": "Codes",
       "es": "Códigos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Código para la recoleccion del dataset a partir de videos descargados de youtube",
       "en": "Code for collecting the dataset from videos downloaded from YouTube",
       "es": "Código para la recoleccion del dataset a partir de videos descargados de youtube",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Coloracion-de-videos-/Recoleccion_Dataset.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "en": "Coloracion-de-videos-/Recoleccion_Dataset.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Saturdays AI final project, consists of coloring videos with GANs…github.com",
-      "es": "Coloracion-de-videos-/Recoleccion_Dataset.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "reviewed": false,
+      "en": "Dataset collection notebook on GitHub",
+      "es": "Notebook de recopilación del dataset en GitHub",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Código para el entrenamiento del modelo",
       "en": "Code for training the model",
       "es": "Código para el entrenamiento del modelo",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Coloracion-de-videos-/Entrenamiento_modelo_Proyecto.ipynb at…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "en": "Coloracion-de-videos-/Entrenamiento_modelo_Proyecto.ipynb at…Saturdays AI final project, consists of colorizing videos with GANs…github.com",
-      "es": "Coloracion-de-videos-/Entrenamiento_modelo_Proyecto.ipynb at…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "reviewed": false,
+      "en": "Model training notebook on GitHub",
+      "es": "Notebook de entrenamiento del modelo en GitHub",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Código para la implementación de los pesos del modelo previamente guardados",
       "en": "Code for the implementation of previously saved model weights",
       "es": "Código para la implementación de los pesos del modelo previamente guardados",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Coloracion-de-videos-/Implementacion_modelo.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "en": "Coloracion-de-videos-/Implementacion_modelo.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Saturdays AI final project, consists of coloring videos with GANs…github.com",
-      "es": "Coloracion-de-videos-/Implementacion_modelo.ipynb at 41b78017da7ae1f54cff0276e1407a57892d8090 -…Proyecto final Saturdays AI, consiste en la coloración de videos con GANs …github.com",
-      "reviewed": false,
+      "en": "Model inference notebook on GitHub",
+      "es": "Notebook de inferencia del modelo en GitHub",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Photography",
       "en": "Photography",
       "es": "Photography",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 ene 2022.",
-      "en": "A history of the Saturdays.AI community. Originally published on Jan 2, 2022.",
+      "en": "A story from the Saturdays.AI community. Originally published on Jan 2, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 2 ene 2022.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
+    },
+    {
+      "source": "Un equipo de La Paz utiliza U-Net-GAN para dar color a vídeos históricos de Bolivia y comparte su proceso, resultados y limitaciones.",
+      "en": "A La Paz team uses U-Net-GAN to colourise historical Bolivian footage and shares its process, results and limitations.",
+      "es": "Un equipo de La Paz utiliza U-Net-GAN para dar color a vídeos históricos de Bolivia y comparte su proceso, resultados y limitaciones.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

@@ -26,6 +26,8 @@ draft: false
 
 Prompt: a man in a suit talk with a robot
 
+Nota de contexto: este artículo se publicó en mayo de 2023 y describe los debates de aquel momento. La Unión Europea aprobó su Reglamento de Inteligencia Artificial en 2024; las referencias a propuestas y gobiernos deben leerse en ese contexto histórico.
+
 ## Los gobiernos preocupados por la IA
 
 El avance vertiginoso de la **inteligencia artificial (IA)** y sus aplicaciones en distintos ámbitos de la sociedad, como la economía, la seguridad y la educación, ha generado preocupación en los gobiernos de todo el mundo. [La reciente convocatoria del Gobierno de Estados Unidos a los CEO de Google, Microsoft, OpenAI y Anthropic para discutir la seguridad de la IA](https://www.lavanguardia.com/andro4all/tecnologia/la-casa-blanca-convoca-a-los-ceo-de-microsoft-google-y-openai-a-una-reunion-urgente) es una clara señal de que el tema de la regulación gubernamental está cobrando relevancia. 
@@ -86,8 +88,8 @@ Josep Moré Gili
 
 ## Más inteligencia artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

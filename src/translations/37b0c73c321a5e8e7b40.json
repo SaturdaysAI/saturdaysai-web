@@ -36,8 +36,13 @@
       "source": "Choose your learning level",
       "en": "Choose your learning level",
       "es": "Elige tu nivel de aprendizaje",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "All paths",
@@ -64,8 +69,13 @@
       "source": "Search courses",
       "en": "Search courses",
       "es": "Buscar cursos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Python, generative AI, data…",
@@ -91,8 +101,13 @@
       "source": "Python for AI",
       "en": "Python for AI",
       "es": "Python para IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Build your foundations. Go from your first line of Python to thinking in code.",
@@ -111,8 +126,13 @@
       "source": "Explore Python for AI",
       "en": "Explore Python for AI",
       "es": "Explora Python para IA",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Explore course",
@@ -125,9 +145,14 @@
       "source": "Explore language models, image generation and the creative possibilities of AI.",
       "en": "Explore language models, image generation and the creative possibilities of AI.",
       "es": "Explora modelos de lenguaje, generación de imágenes y las posibilidades creativas de la IA.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "English & Spanish",
@@ -140,8 +165,13 @@
       "source": "Explore Generative AI",
       "en": "Explore Generative AI",
       "es": "Explora la IA generativa",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "View programme",
@@ -227,9 +257,14 @@
     {
       "source": "Pandas for data science",
       "en": "Pandas for data science",
-      "es": "Pandas para la ciencia de datos",
-      "reviewed": false,
-      "translationVersion": 2
+      "es": "Pandas para ciencia de datos",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Learn to clean, explore and transform data with one of Python’s essential tools.",
@@ -248,15 +283,25 @@
       "source": "Explore Pandas for data science",
       "en": "Explore Pandas for data science",
       "es": "Explora Pandas para la ciencia de datos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Reinforcement learning",
       "en": "Reinforcement learning",
       "es": "Aprendizaje por refuerzo",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Explore agents that learn by doing, from Q-learning to deep reinforcement learning.",
@@ -327,8 +372,13 @@
       "source": "BETTER TOGETHER",
       "en": "BETTER TOGETHER",
       "es": "MEJOR JUNTOS",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Questions welcome.",
@@ -883,7 +933,7 @@
       "source": "All learning paths are listed below. Search and level filters require JavaScript.",
       "en": "All learning paths are listed below. Search and level filters require JavaScript.",
       "es": "Todas las rutas de aprendizaje se enumeran a continuación. Los filtros de búsqueda y nivel requieren JavaScript.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -895,6 +945,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -1059,6 +1114,303 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Learn AI at your own pace",
+      "en": "Learn AI at your own pace",
+      "es": "Aprende IA a tu ritmo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Start with Python and data science, explore generative AI or go deeper into machine learning techniques. Choose a resource that fits your experience and put it into practice.",
+      "en": "Start with Python and data science, explore generative AI or go deeper into machine learning techniques. Choose a resource that fits your experience and put it into practice.",
+      "es": "Empieza por Python y ciencia de datos, explora la IA generativa o profundiza en técnicas de machine learning. Elige un recurso que encaje con tu experiencia y ponlo en práctica.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Foundations for further learning",
+      "en": "Foundations for further learning",
+      "es": "Una base para seguir aprendiendo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The learning paths combine explanations, exercises and projects. Some include concept maps and other supporting materials. Check each course’s prerequisites, access conditions and certificate criteria, where a certificate is offered.",
+      "en": "The learning paths combine explanations, exercises and projects. Some include concept maps and other supporting materials. Check each course’s prerequisites, access conditions and certificate criteria, where a certificate is offered.",
+      "es": "Los itinerarios combinan explicaciones, ejercicios y proyectos. Algunos incluyen mapas conceptuales y otros materiales de apoyo. Consulta en cada curso sus requisitos, condiciones de acceso y criterios para obtener un certificado, cuando lo ofrezca.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "If you want to share what you learn,",
+      "en": "If you want to share what you learn,",
+      "es": "Si quieres compartir lo que aprendes,",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "contact the community",
+      "en": "contact the community",
+      "es": "contacta con la comunidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "More resources from the archive",
+      "en": "More resources from the archive",
+      "es": "Más recursos del archivo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "This selection brings together learning paths from our past offerings. The course platform provides current information on content and availability.",
+      "en": "This selection brings together learning paths from our past offerings. The course platform provides current information on content and availability.",
+      "es": "Esta selección reúne itinerarios que han formado parte de nuestra oferta. La plataforma de cursos contiene la información actual sobre contenidos y disponibilidad.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Advanced prompt engineering",
+      "en": "Advanced prompt engineering",
+      "es": "Ingeniería de prompts avanzada",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore context, caching, planning, RAG and agents. This course is intended for learners who already know the foundations. Taught in Spanish.",
+      "en": "Explore context, caching, planning, RAG and agents. This course is intended for learners who already know the foundations. Taught in Spanish.",
+      "es": "Profundiza en el contexto, el almacenamiento en caché, la planificación, RAG y los agentes. El curso está pensado para quienes ya conocen los fundamentos. En español.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "View the resource",
+      "en": "View the resource",
+      "es": "Consulta el recurso",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Start coding with exercises organised into modules. Build the foundations for further learning in data science and AI. The link opens the English course.",
+      "en": "Start coding with exercises organised into modules. Build the foundations for further learning in data science and AI. The link opens the English course.",
+      "es": "Empieza a programar con ejercicios organizados por módulos. Aprende las bases para seguir avanzando en ciencia de datos e IA. El enlace lleva al curso en inglés.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Generative and multimodal AI",
+      "en": "Generative and multimodal AI",
+      "es": "IA generativa y multimodal",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore language models, image generation, diffusion models and prompt engineering. Experiment with creative tools and evaluate the results. Spanish and English paths are available.",
+      "en": "Explore language models, image generation, diffusion models and prompt engineering. Experiment with creative tools and evaluate the results. Spanish and English paths are available.",
+      "es": "Explora modelos de lenguaje, generación de imágenes, modelos de difusión e ingeniería de prompts. Experimenta con herramientas creativas y evalúa los resultados. Hay itinerarios en español e inglés.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Data mining and Hugging Face",
+      "en": "Data mining and Hugging Face",
+      "es": "Minería de datos y Hugging Face",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn data mining through a practical project and deploy a model on Hugging Face. Check the platform for language options.",
+      "en": "Learn data mining through a practical project and deploy a model on Hugging Face. Check the platform for language options.",
+      "es": "Aprende minería de datos mediante un proyecto práctico y despliega un modelo en Hugging Face. Consulta en la plataforma las opciones de idioma.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Study how agents learn by interacting with an environment. Practise Q-learning and deep reinforcement learning, and explore applications in games, robotics and recommendation systems. Taught in Spanish.",
+      "en": "Study how agents learn by interacting with an environment. Practise Q-learning and deep reinforcement learning, and explore applications in games, robotics and recommendation systems. Taught in Spanish.",
+      "es": "Estudia cómo aprenden los agentes al interactuar con un entorno. Practica Q-learning y aprendizaje por refuerzo profundo, y explora aplicaciones en juegos, robótica y sistemas de recomendación. En español.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Data science foundations",
+      "en": "Data science foundations",
+      "es": "Fundamentos de ciencia de datos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The archive records an English learning path with short videos, concept maps, exercises and a practical project. Check the current catalogue for available resources.",
+      "en": "The archive records an English learning path with short videos, concept maps, exercises and a practical project. Check the current catalogue for available resources.",
+      "es": "El archivo recoge un itinerario en inglés con vídeos breves, mapas conceptuales, ejercicios y un proyecto práctico. Consulta el catálogo actual para encontrar los recursos disponibles.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn to load, prepare, transform and analyse data with Pandas. Check the platform for course content and language options.",
+      "en": "Learn to load, prepare, transform and analyse data with Pandas. Check the platform for course content and language options.",
+      "es": "Aprende a cargar, preparar, transformar y analizar datos con Pandas. Consulta en la plataforma el contenido y las opciones de idioma.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "NumPy for data science",
+      "en": "NumPy for data science",
+      "es": "NumPy para ciencia de datos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Work with arrays and numerical data in Python. Explore how to organise data and perform calculations efficiently. Check the platform for language options.",
+      "en": "Work with arrays and numerical data in Python. Explore how to organise data and perform calculations efficiently. Check the platform for language options.",
+      "es": "Trabaja con matrices y datos numéricos en Python. Explora cómo organizar datos y realizar cálculos de forma eficiente. Consulta en la plataforma las opciones de idioma.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "SciPy for data science",
+      "en": "SciPy for data science",
+      "es": "SciPy para ciencia de datos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore scientific computing tools for optimisation, linear algebra, integration, interpolation, Fourier transforms and signal processing. The path also covers differential equations and other scientific and engineering applications. Taught in Spanish.",
+      "en": "Explore scientific computing tools for optimisation, linear algebra, integration, interpolation, Fourier transforms and signal processing. The path also covers differential equations and other scientific and engineering applications. Taught in Spanish.",
+      "es": "Conoce herramientas de cálculo científico para optimización, álgebra lineal, integración, interpolación, transformadas de Fourier y procesamiento de señales. El itinerario también aborda ecuaciones diferenciales y otras aplicaciones de ciencia e ingeniería. En español.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AI for video games",
+      "en": "AI for video games",
+      "es": "IA para videojuegos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Explore the learning path on AI for video games. Check the platform for the curriculum, prerequisites and language.",
+      "en": "Explore the learning path on AI for video games. Check the platform for the curriculum, prerequisites and language.",
+      "es": "Explora el itinerario de IA aplicada a videojuegos. Consulta en la plataforma el programa, los requisitos y el idioma.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Browse the full catalogue",
+      "en": "Browse the full catalogue",
+      "es": "Consulta todo el catálogo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

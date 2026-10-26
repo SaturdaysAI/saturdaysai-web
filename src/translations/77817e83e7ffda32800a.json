@@ -12,21 +12,36 @@
     {
       "source": "Read our",
       "en": "Read our",
-      "es": "Lea nuestro",
-      "reviewed": false
+      "es": "Consulta nuestra",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "complete privacy policy",
       "en": "complete privacy policy",
       "es": "política de privacidad completa",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "for the policy text published by Saturdays.AI.",
       "en": "for the policy text published by Saturdays.AI.",
       "es": "para el texto de política publicado por Saturdays.AI.",
-      "reviewed": false,
-      "sourceLanguage": "en"
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Read the privacy policy published by Saturdays.AI.",

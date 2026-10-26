@@ -6,7 +6,7 @@
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in La Paz.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in La Paz.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en La Paz.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -19,6 +19,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -31,7 +36,12 @@
       "source": "Cursos:",
       "en": "Courses:",
       "es": "Cursos:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Machine",
@@ -41,15 +51,25 @@
     },
     {
       "source": "3º Edition",
-      "en": "3rd Edition",
-      "es": "3º Edition",
-      "reviewed": false
+      "en": "Third edition (archive)",
+      "es": "Tercera edición (archivo)",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Inicio: 06 de Julio",
-      "en": "Start: July 6",
-      "es": "Inicio: 06 de Julio",
-      "reviewed": false
+      "en": "Start announced for the original edition: 6 July",
+      "es": "Inicio anunciado en la edición original: 6 de julio",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Deep",
@@ -59,33 +79,58 @@
     },
     {
       "source": "2º Edition",
-      "en": "2nd Edition",
-      "es": "2º Edition",
-      "reviewed": false
+      "en": "Second edition (archive)",
+      "es": "Segunda edición (archivo)",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Inicio: 24 de agosto",
-      "en": "Start: August 24",
-      "es": "Inicio: 24 de agosto",
-      "reviewed": false
+      "en": "Start announced for the original edition: 24 August",
+      "es": "Inicio anunciado en la edición original: 24 de agosto",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Anotarme en la lista de espera",
       "en": "Sign me up on the waiting list",
       "es": "Anotarme en la lista de espera",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1º Edition",
-      "en": "1st Edition",
-      "es": "1º Edition",
-      "reviewed": false
+      "en": "First edition (archive)",
+      "es": "Primera edición (archivo)",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Inicio: Proximamente",
-      "en": "Home: Coming soon",
-      "es": "Inicio: Proximamente",
-      "reviewed": false
+      "en": "The original announcement did not specify a start date",
+      "es": "La convocatoria original no indicaba una fecha de inicio",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Math for",
@@ -97,14 +142,24 @@
       "source": "AI Saturdays La Paz",
       "en": "AI Saturdays La Paz",
       "es": "AI Saturdays La Paz",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Descarga nuestro folleto para información más detallada de nuestro actual programa de Deep Learning.",
-      "en": "Download our brochure for more detailed information on our current Deep Learning program.",
-      "es": "Descarga nuestro folleto para información más detallada de nuestro actual programa de Deep Learning.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Read the original edition’s brochure for details of its deep learning programme.",
+      "es": "Consulta el folleto de la edición original para conocer el programa de deep learning.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Math for Machine Learning",

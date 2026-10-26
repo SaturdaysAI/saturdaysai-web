@@ -78,12 +78,12 @@ Nuestro equipo está formado por personas apasionadas que creen en la construcci
 
 **Eric Garza** es líder de tecnología  para AMI Automation, especializado en desarrollo de software, inteligencia artificial, sistemas en la nube y sistemas de control para la industria del acero. ric aporta más de tres décadas de experiencia en la entrega de soluciones innovadoras. También le apasiona compartir sus conocimientos, interactuando con colegas y profesionales de la industria para fomentar una cultura de aprendizaje y crecimiento.
 
-# Algunos de nuestros
+# Colabora con la comunidad
 
 [Digital HUB Monterrey Haz clic aquí](https://mtydigitalhub.com/)
 
 [AI4Good México Haz clic aquí](https://mtydigitalhub.com/)
 
-##### [¿Te interesa](https://drive.google.com/file/d/1x7piubpt2d-l5f5pPZ5_ww1NbrBVlCtm/view?usp=sharing) ? Ve a la siguiente presentación para conocer cómo puedes apoyarnos, haciendo click [aquí](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20)
+[Conoce las formas de colaborar](https://docs.google.com/presentation/d/1bSwLab2FppNdXBnwlVunV2_XsNrlZSvqX3JBcccOQCw/edit#slide=id.g8a7ebda831_0_20)
 
 # [Contactanos](mailto:monterrey@saturdays.ai) !

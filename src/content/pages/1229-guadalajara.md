@@ -28,7 +28,7 @@ kind: city
 
 AI Saturdays Guadalajara forma parte de un **movimiento comunitario,** **sin fines de lucro y global.** Comprometido a hacer que la educación en Inteligencia Artificial sea de la calidad y el rigor de las mejores universidades del mundo, accesible a todos, y a través de desarrollo de proyectos de impacto social.
 
-Se trata de una **formación práctica** desde el primer día, un enfoque didáctico distinto a lo usual en cualquier entorno educativo.
+Una formación práctica desde el primer día, con aprendizaje en equipo y proyectos aplicados.
 
 ![](/media/477c6d3b73f36098.webp)
 
@@ -37,7 +37,7 @@ Equipo Ganador
 
 ![](/media/297201d72458df10.webp)
 
-_Te invitamos a leer su artículo dando **click** en el siguiente icono de Medium._
+Conoce el trabajo del equipo ganador y los proyectos de esta edición.
 
 
 
@@ -186,26 +186,10 @@ de la 4ta edición
 
 ## Nuestros Proyectos
 
-_Te invitamos a dar **click** sobre los nombres de los proyectos para conocerlos y dar **click** sobre la imagen para leer los _artículos_ en **Medium** de cada equipo._
+Selecciona la imagen de cada proyecto para leer el artículo de su equipo en Medium.
 
 
-Sysv**IA**
-
-
-Urbalud
-
-
-Sm**a**rt  
-Secur**i**ty
-
-
-VAK.**AI**
-
-
-**I**nfr**A**ccionesGDL
-
-
-Sysv**IA**
+SysvIA
 
 [![](/media/75a63ecc8a15206f.webp)](https://medium.com/saturdays-ai/segmentaci%C3%B3n-de-usuarios-mibici-mediante-modelos-de-clustering-db8a6a65e934)
 
@@ -215,18 +199,17 @@ Urbalud
 [![](/media/3cf8f2720bcb3a2b.webp)](https://medium.com/saturdays-ai/urbalud-ia-que-identifica-si-existe-suficiencia-de-centros-de-salud-en-%C3%A1reas-urbanas-de-jalisco-a7b767f8319c)
 
 
-Sm**a**rt  
-Secur**i**ty
+Smart Security
 
 [![](/media/2dd1f8b19c2fb04a.webp)](https://medium.com/saturdays-ai/smartsecurity-una-propuesta-basada-en-datos-para-la-seguridad-p%C3%BAblica-ab990bf1f571)
 
 
-VAK.**AI**
+VAK.AI
 
 [![](/media/989d9cc9712eb01b.webp)](https://medium.com/saturdays-ai/vak-ai-ia-para-la-detecci%C3%B3n-automatizada-de-estrategias-de-aprendizaje-en-grupos-de-estudiantes-dc87fb78ec9e)
 
 
-**I**nfr**A**ccionesGDL
+InfrAccionesGDL
 
 [![](/media/fbdcb9521ab106c0.webp)](https://medium.com/saturdays-ai/infraccionesgdl-mejoramiento-de-la-cultura-vial-763efa7d52b6)
 

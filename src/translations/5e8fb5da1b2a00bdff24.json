@@ -4,9 +4,14 @@
   "segments": [
     {
       "source": "IA EN LA ENFERMERÍA",
-      "en": "AI IN NURSING",
-      "es": "IA EN LA ENFERMERÍA",
-      "reviewed": false
+      "en": "AI in nursing",
+      "es": "La IA en enfermería",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La enfermería es una de las profesiones consideradas con más contacto directo con las personas. A día de hoy, se estudia cómo implementar nuevas estrategias tecnológicas para la sustitución de tareas en este campo con el fin…",
@@ -19,8 +24,13 @@
       "source": "¿Hasta qué punto estamos dispuestos a reemplazar seres humanos en el trabajo por robots que funcionen a partir de la IA?",
       "en": "To what extent are we willing to replace human beings at work with robots powered by AI?",
       "es": "¿Hasta qué punto estamos dispuestos a reemplazar seres humanos en el trabajo por robots que funcionen a partir de la IA?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RothmanIndex",
@@ -32,96 +42,161 @@
       "source": "IA y enfermería en la actualidad",
       "en": "AI and nursing today",
       "es": "IA y enfermería en la actualidad",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El futuro…",
       "en": "The future…",
       "es": "El futuro…",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La enfermería es una de las profesiones consideradas con más contacto directo con las personas. A día de hoy, se estudia cómo implementar nuevas estrategias tecnológicas, con el fin de reducir la carga de tareas de sus profesionales, aportando una notable mejoría en el trato con sus pacientes. La implementación de la IA en la enfermería va a ser imprescindible.",
-      "en": "Nursing is one of the professions considered to have the most direct contact with people. Today, they are studying how to implement new technological strategies, in order to reduce the workload of their professionals, providing a notable improvement in their treatment of their patients. The implementation of AI in nursing is going to be essential.",
-      "es": "La enfermería es una de las profesiones consideradas con más contacto directo con las personas. A día de hoy, se estudia cómo implementar nuevas estrategias tecnológicas, con el fin de reducir la carga de tareas de sus profesionales, aportando una notable mejoría en el trato con sus pacientes. La implementación de la IA en la enfermería va a ser imprescindible.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Nursing involves direct contact with people. AI technologies may help reduce some tasks and organise clinical information, with the aim of leaving more time for care. Their benefits depend on how they are validated and integrated into daily practice.",
+      "es": "La enfermería es una profesión de contacto directo con las personas. Las tecnologías de IA pueden ayudar a reducir algunas tareas y a organizar la información clínica, con el objetivo de dejar más tiempo para el cuidado. Sus beneficios dependen de cómo se validen e integren en el trabajo diario.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "De este modo, se ha visto cómo la IA ayuda a la resolución de problemas de manera más eficaz. Si tenemos como referencia a los pacientes, nos permite hacer un mejor análisis a partir de la información considerada más relevante, obteniendo una mejor respuesta en la atención clínica y así actuar en el momento preciso.",
-      "en": "In this way, we have seen how AI helps solve problems more effectively. If we have patients as a reference, it allows us to do a better analysis based on the information considered most relevant, obtaining a better response in clinical care and thus acting at the right time.",
-      "es": "De este modo, se ha visto cómo la IA ayuda a la resolución de problemas de manera más eficaz. Si tenemos como referencia a los pacientes, nos permite hacer un mejor análisis a partir de la información considerada más relevante, obteniendo una mejor respuesta en la atención clínica y así actuar en el momento preciso.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "One area of research is bringing together relevant patient information to help detect changes in their condition. This information needs to be interpreted alongside the healthcare team’s assessment.",
+      "es": "Una de las aplicaciones estudiadas es reunir información relevante del paciente para apoyar la detección de cambios en su estado. Esa información debe interpretarse junto con la valoración del equipo sanitario.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Ejemplo de ello es el caso que sucedió en el Yale New Haven Hospital, en Estados Unidos, ya que se utilizó la técnica de",
-      "en": "An example of this is the case that happened at the Yale New Haven Hospital, in the United States, since the technique of",
-      "es": "Ejemplo de ello es el caso que sucedió en el Yale New Haven Hospital, en Estados Unidos, ya que se utilizó la técnica de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Nancy Robert’s 2019 article describes the use at Yale New Haven Hospital in the United States of the",
+      "es": "El artículo de Nancy Robert de 2019 describe el uso en Yale New Haven Hospital, en Estados Unidos, del",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "donde se podía ver la relación existente entre el nivel de severidad de la enfermedad del paciente y el riesgo que padecía este de padecer una crisis.",
-      "en": "where the relationship between the level of severity of the patient's illness and the patient's risk of suffering a crisis could be seen.",
-      "es": "donde se podía ver la relación existente entre el nivel de severidad de la enfermedad del paciente y el riesgo que padecía este de padecer una crisis.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "to track patient acuity and the risk of deterioration.",
+      "es": "para seguir la gravedad del estado del paciente y el riesgo de deterioro.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El RothmanIndex incluyó información relacionada con 26 variables clínicas, 11 de las cuales estaban relacionadas con la enfermería. Aunque al principio pocos daban crédito a la implementación de esta estrategia de IA, posteriormente se concluyó el impacto positivo significativo que este tuvo en la relación al trato enfermero con los pacientes.",
-      "en": "The RothmanIndex included information related to 26 clinical variables, 11 of which were nursing-related. Although at first few believed in the implementation of this AI strategy, the significant positive impact it had on the relationship between nurses and patients was later concluded.",
-      "es": "El RothmanIndex incluyó información relacionada con 26 variables clínicas, 11 de las cuales estaban relacionadas con la enfermería. Aunque al principio pocos daban crédito a la implementación de esta estrategia de IA, posteriormente se concluyó el impacto positivo significativo que este tuvo en la relación al trato enfermero con los pacientes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The Rothman Index described in that publication used 26 clinical variables, including 11 nursing assessments. The case illustrates how a monitoring tool can bring together information useful for care; its results should not automatically be generalised to every hospital or patient.",
+      "es": "El Rothman Index descrito en esa publicación utilizaba 26 variables clínicas, incluidas 11 valoraciones de enfermería. El caso ilustra cómo una herramienta de seguimiento puede reunir información útil para la atención; sus resultados no deben extrapolarse automáticamente a cualquier centro o paciente.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por otro lado, actualmente, también sabemos de la introducción de robots con funciones de enfermería asignadas, entre las cuales podemos destacar: soporte de deambulación, toma de las constantes vitales o administración de medicación entre otros. Se sabe que el uso de estos aparatos, puede reducir entre un 8-16% del tiempo de los profesionales permitiendo que éstos dediquen más tiempo a sus pacientes.",
-      "en": "On the other hand, currently, we also know of the introduction of robots with assigned nursing functions, among which we can highlight: ambulation support, taking vital signs or administering medication, among others. It is known that the use of these devices can reduce between 8-16% of professionals' time, allowing them to dedicate more time to their patients.",
-      "es": "Por otro lado, actualmente, también sabemos de la introducción de robots con funciones de enfermería asignadas, entre las cuales podemos destacar: soporte de deambulación, toma de las constantes vitales o administración de medicación entre otros. Se sabe que el uso de estos aparatos, puede reducir entre un 8-16% del tiempo de los profesionales permitiendo que éstos dediquen más tiempo a sus pacientes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The cited literature also explores robots that support mobility, measure vital signs or assist with medication-related and logistical tasks. Any time savings depend on the task and setting; there is no universal reduction that applies to all nursing work.",
+      "es": "La literatura citada también explora robots para apoyar la movilidad, medir constantes o ayudar con tareas de medicación y logística. El tiempo que puedan ahorrar depende de la tarea y del entorno: no existe una reducción universal aplicable a todo el trabajo de enfermería.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por lo tanto, en la actualidad y en un futuro muy próximo los profesionales de este sector de la salud tendrán que aprender cómo integrar los resultados que les proporcionará la AI en la práctica de evidencia científica tratando de hacer balance de estos con la experiencia de su trayectoria profesional.",
-      "en": "Therefore, currently and in the very near future, professionals in this health sector will have to learn how to integrate the results that AI will provide them in the practice of scientific evidence, trying to balance these with the experience of their professional career.",
-      "es": "Por lo tanto, en la actualidad y en un futuro muy próximo los profesionales de este sector de la salud tendrán que aprender cómo integrar los resultados que les proporcionará la AI en la práctica de evidencia científica tratando de hacer balance de estos con la experiencia de su trayectoria profesional.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Integrating these tools means combining their outputs with scientific evidence, professional experience and each patient’s needs.",
+      "es": "Integrar estas herramientas exige combinar sus resultados con la evidencia científica, la experiencia profesional y las necesidades de cada paciente.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En resumen, la necesidad de profesionales de enfermería persistirá. No obstante, la implementación de estas técnicas como el ejemplo de RothmanIndex facilitará el trabajo a los enfermeros haciendo que estos sean el centro integrador de la información proporcionada, los que tomarán las decisiones una vez analizadas las posibilidades que ofrece la IA y los proveedores del cuidado humano a sus pacientes.",
-      "en": "In short, the need for nursing professionals will persist. However, the implementation of these techniques, such as the example of RothmanIndex, will facilitate the work of nurses by making them the integrating center of the information provided, those who will make decisions once the possibilities offered by AI and human care providers to their patients have been analyzed.",
-      "es": "En resumen, la necesidad de profesionales de enfermería persistirá. No obstante, la implementación de estas técnicas como el ejemplo de RothmanIndex facilitará el trabajo a los enfermeros haciendo que estos sean el centro integrador de la información proporcionada, los que tomarán las decisiones una vez analizadas las posibilidades que ofrece la IA y los proveedores del cuidado humano a sus pacientes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Human care remains central. Tools such as the Rothman Index can support data interpretation, while nursing professionals provide context, participate in decisions and care for people.",
+      "es": "El cuidado humano sigue siendo central. Herramientas como el Rothman Index pueden apoyar la interpretación de datos, mientras que los profesionales de enfermería aportan contexto, participan en las decisiones y atienden a las personas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Si quieres formarte para llegar a desarrollar técnicas como el RothmanIndex, no dudes en consultar nuestra página",
-      "en": "If you want to train to develop techniques like the RothmanIndex, do not hesitate to consult our page",
-      "es": "Si quieres formarte para llegar a desarrollar técnicas como el RothmanIndex, no dudes en consultar nuestra página",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "If you want to learn the foundations behind these applications, visit our",
+      "es": "Si te interesa aprender los fundamentos de estas aplicaciones, visita nuestra",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "web",
       "en": "website",
       "es": "web",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para formarte sobre inteligencia artificial y comenzar a desarrollar tus proyectos.",
-      "en": "to train you on artificial intelligence and start developing your projects.",
-      "es": "para formarte sobre inteligencia artificial y comenzar a desarrollar tus proyectos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "and discover how to start developing AI projects.",
+      "es": "y descubre cómo comenzar a desarrollar proyectos de IA.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "1.- Robert N. How artificial intelligence is changing nursing. Nurs mAnage. 2019 Sep;50 (9):30-39. doi:10.1097/01.NUMA.0000578988.56622.21.PMID:31425440; PMCID: PMC7597764.",
-      "en": "1.- Robert N. How artificial intelligence is changing nursing. Nurs mAnage. 2019 Sep;50 (9):30-39. doi:10.1097/01.NUMA.0000578988.56622.21.PMID:31425440; PMCID: PMC7597764.",
-      "es": "1.- Robert N. Cómo la inteligencia artificial está cambiando la enfermería. Las enfermeras gestionan. 2019 septiembre;50 (9):30-39. doi:10.1097/01.NUMA.0000578988.56622.21.PMID:31425440; PMCID: PMC7597764.",
-      "reviewed": false,
+      "en": "1.- Robert N. How artificial intelligence is changing nursing. Nurs Manage. 2019 Sep;50(9):30-39. doi:10.1097/01.NUMA.0000578988.56622.21. PMID:31425440; PMCID:PMC7597764.",
+      "es": "1.- Robert N. How artificial intelligence is changing nursing. Nurs Manage. 2019 Sep;50(9):30-39. doi:10.1097/01.NUMA.0000578988.56622.21. PMID:31425440; PMCID:PMC7597764.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -134,13 +209,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "2.- Kathrin Seibert, Dominik Domhoff, Dominik Bruch, Matthias Schulte-Althoff, Daniel Fürstenau, Felix Biessmann, y Karin Wolf-Ostermann. Application Scenarios for Artificial Intelligence in Nursing Care: Rapid Review. J Med Internet Res. 2021 Nov; 23(11): e26522.",
       "en": "2.- Kathrin Seibert, Dominik Domhoff, Dominik Bruch, Matthias Schulte-Althoff, Daniel Fürstenau, Felix Biessmann, y Karin Wolf-Ostermann. Application Scenarios for Artificial Intelligence in Nursing Care: Rapid Review. J Med Internet Res. 2021 Nov; 23(11): e26522.",
       "es": "2.- Kathrin Seibert, Dominik Domhoff, Dominik Bruch, Matthias Schulte-Althoff, Daniel Fürstenau, Felix Biessmann y Karin Wolf-Ostermann. Escenarios de aplicación de la inteligencia artificial en la atención de enfermería: revisión rápida. J Med Internet Res. 2021 noviembre; 23(11): e26522.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -153,46 +233,92 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Blog",
-      "en": "blog",
+      "en": "Blog",
       "es": "Blog",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Enfermería",
       "en": "Nursing",
       "es": "Enfermería",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "COMBATE EL ESTRÉS LABORAL CON IA",
-      "en": "FIGHT WORK STRESS WITH AI",
-      "es": "COMBATE EL ESTRÉS LABORAL CON IA",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "AI and workplace stress: possibilities and limitations",
+      "es": "IA y estrés laboral: posibilidades y límites",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Mar 23, 2022",
       "en": "Mar 23, 2022",
       "es": "Mar 23, 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "IA EN EL SECTOR AGROALIMENTARIO",
       "en": "AI IN THE AGRI-FOOD SECTOR",
       "es": "IA EN EL SECTOR AGROALIMENTARIO",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mujeres Referentes en la IA",
       "en": "Leading Women in AI",
       "es": "Mujeres Referentes en la IA",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Cómo la IA y la robótica pueden apoyar al personal de enfermería: información clínica, organización de tareas y cuidado centrado en las personas.",
+      "en": "How AI and robotics can support nursing staff through clinical information, task organisation and care centred on people.",
+      "es": "Cómo la IA y la robótica pueden apoyar al personal de enfermería: información clínica, organización de tareas y cuidado centrado en las personas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

@@ -1,8 +1,7 @@
 ---
 title: COMBATE EL ESTRÉS LABORAL CON IA
-description: El estrés laboral es uno de los principales problemas de salud en
-  el ámbito laboral y del buen funcionamiento de las entidades. El estrés puede
-  dar lugar a comportamientos disfuncionales y no habituales en el trabajo y…
+description: Una mirada a las propuestas de IA para estudiar el estrés laboral,
+  sus límites y la importancia de mejorar las condiciones de trabajo.
 pubDate: 2022-03-23
 author: Info Saturdays
 category: Community
@@ -20,7 +19,7 @@ draft: false
 
 ![](/media/4245ef9047db8813.webp)
 
-El **estrés laboral** es uno de los principales problemas de salud en el ámbito laboral y del buen funcionamiento de las entidades. El estrés puede dar lugar a comportamientos disfuncionales y no habituales en el trabajo y contribuir a una mala salud física y mental. 
+El estrés laboral puede afectar tanto a la salud física y mental de las personas como al funcionamiento de las organizaciones. Este artículo explora algunas propuestas tecnológicas y sus límites.
 
 Si nos encontramos con un mayor nivel de estrés, somos más propensos a enfermar, a ser menos productivos, e incluso a tener una menor seguridad laboral. Ello a su vez repercute en la entidad en la que el trabajador desarrolle su actividad, ya que tendrá una menor perspectiva de éxitos en un mercado competitivo. Por ello deben promoverse prácticas óptimas para gestionar el estrés son:
 

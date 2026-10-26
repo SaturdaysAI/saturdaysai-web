@@ -21,7 +21,7 @@ draft: false
 
 ## Introducción
 
-La inteligencia artificial entra en guerra. Este es el titular que se nos viene a la cabeza al ver las novedades que nos llegan de la guerra entre Rusia y Ucrania. Son innumerables los campos en los que la inteligencia artificial empieza a ser esencial, y el ámbito militar no iba a ser menos. Ya en 2017 el presidente ruso, Vladimir Putin afirmaba: _«Quién sea líder de la inteligencia artificial, dominará el mundo»_. Y no se equivocaba, países como EEUU, Rusia, China o Inglaterra están llevando a cabo grandes esfuerzos para reforzarse en este campo ya que realmente puede ser decisivo en el futuro. Tendremos campañas de desinformación en redes sociales, creación de bots, análisis de datos, identificación de objetos y personas… La guerra del futuro ya está aquí.
+La inteligencia artificial entra en guerra. Esa es la impresión que dejan muchas noticias sobre la invasión rusa de Ucrania en 2022, cuando se publicó este artículo. Estados Unidos, Rusia, China y el Reino Unido llevan años invirtiendo en aplicaciones militares de la IA. En 2017, Vladimir Putin llegó a afirmar que quien liderara este campo dominaría el mundo. La frase expresa una ambición geopolítica, no una certeza: la desinformación, los bots, el análisis de datos y la identificación de objetos o personas plantean tanto posibilidades como riesgos.
 
 ## La guerra del futuro
 
@@ -49,13 +49,13 @@ Ucrania ha empezado a utilizar este reconocedor facial con el objetivo de facili
 
 Estaremos de acuerdo en que utilizar inteligencia artificial en un ámbito como la guerra, en el que cada decisión cuenta, de primeras debería parecer un gran avance. Pero también es verdad que sus algoritmos podrían ser increíblemente fáciles de engañar para que vean cosas que no existen y viceversa. Entonces, cualquier persona que aprendiese a confundir los sistemas de sus rivales obtendría una gran ventaja respecto a los demás. Un ejemplo claro de uno de los talones de Aquiles que podría tener la IA lo tenemos en un experimento realizado por investigadores del MIT. En este experimento conseguían que la IA de Google confundiese una tortuga con un rifle. Consiguieron esto gracias a la modificación del objeto en versión 3D, y aunque a simple vista (humana) es fácilmente reconocible, la IA daba con un 90% de fiabilidad que no se trataba de una tortuga sino de un rifle.
 
-Aquí es donde encontramos un talón de Aquiles claro, los investigadores del MIT desarrollaron **un algoritmo capaz de engañar de manera fiable a un modelo de aprendizaje automático.** Es decir, se podría engañar a los enemigos camuflando los tanques, aviones, militares etc.… para que no fuesen reconocidos por sus sistemas.
+Estos ejemplos adversarios muestran por qué hay que evaluar la robustez de los sistemas. Pasar de una demostración de laboratorio a una conclusión sobre su comportamiento en un entorno militar real requiere pruebas adicionales; no basta con asumir que el resultado se trasladará a cualquier modelo o escenario.
 
 ![](/media/4f7242a038b27020.webp)
 
 ## Ética
 
-El gobierno de los EEUU contaba con un proyecto cuyo objetivo era automatizar la identificación de objetos aéreos en imágenes. Para dicho proyecto estaba contratada la empresa americana «Google». La compañía abandonó el proyecto a causa de las protestas de sus trabajadores. Después de estas protestas internas en la multinacional, crearon un nuevo código ético para el uso de la IA. En él nos dicen que **no usarán sus algoritmos para desarrollar armas, u otras tecnologías** **cuyo objetivo principal o implementación sea causar o facilitar directamente lesiones a la gente.** Es por ello que se abre un debate, **¿debemos utilizar la inteligencia artificial para producir daño?**, **¿realmente queremos que la inteligencia artificial entre en guerra?**
+El debate también llegó a Google por su participación en Project Maven, destinado al análisis de imágenes militares. Tras las protestas de trabajadores, la empresa decidió no renovar aquel contrato. Sus principios de IA de 2018 incluían el compromiso de no desarrollar armas ni tecnologías cuya finalidad principal fuera causar daño directo. Es una referencia histórica: Google actualizó sus principios en febrero de 2025. La pregunta de fondo permanece: qué usos de la IA debemos aceptar y cómo garantizar responsabilidad, control humano y protección de las personas.
 
 ## Bibliografía
 
@@ -79,8 +79,8 @@ Alejandro Ferrer
 
 ## ¡Más inteligencia artificial!
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master de inteligencia artificial en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

@@ -27,15 +27,15 @@ La inteligencia artificial tarde o temprano creará ventajas para la viticultura
 
 ## Ventajas
 
-Con la utilización de la inteligencia artificial, se trata de ayudar al productor a conseguir múltiples ventajas. Por una parte, la decisión de **seleccionar el momento óptimo de cosecha**, **identificar los parámetros nutricionales de las plantas** o **predecir las áreas dónde tendrán la producción adecuada** para crear diferentes tipos de vinos.
+La IA puede ayudar a decidir cuándo cosechar, analizar las necesidades nutricionales de las plantas y estimar qué zonas reúnen las condiciones adecuadas para producir distintos tipos de vino.
 
-En segundo lugar, con la implementación de nuevas estrategias tecnológicas, se tratará de **reducir los costes generales** incluso **mejorando la calidad del vino producido**. A partir de estos nuevos parámetros, seremos conocedores de los lugares de estrés hídrico, mediremos los nutrientes de la tierra o alertaremos de posibles enfermedades que puedan padecer las vides.
+Otro objetivo es reducir costes y mejorar la calidad. Los datos pueden ayudar a localizar zonas con estrés hídrico, evaluar los nutrientes del suelo y detectar señales de posibles enfermedades de la vid.
 
 ![](/media/070fa66f3d769cea.webp)
 
 Figura 1. Fuente: PixaBay
 
-Por otro lado, también mejoraremos el riego en los viñedos así como la disminución de sulfitos en bodega. Para conseguirlo, las técnicas utilizadas incorporarán algoritmos híbridos de inteligencia artificial y _DeepReinforcementLearning_ capaces de homogeneizar los procesos y transferir la información a un sistema, para así garantizar la calidad y salubridad del vino que llega al consumidor.
+Proyectos como INTELWINES investigan el uso de IA para optimizar el riego y gestionar el contenido de sulfitos en bodega. Su propuesta combina algoritmos de IA y aprendizaje profundo por refuerzo para trasladar conocimiento experto a sistemas de apoyo a la producción. Son objetivos de investigación, no una garantía automática de calidad o seguridad alimentaria.
 
 ## Proyectos
 

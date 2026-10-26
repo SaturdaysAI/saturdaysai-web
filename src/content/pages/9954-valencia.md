@@ -24,7 +24,6 @@ En Valencia somos líderes en Inteligencia Artificial, ¿sabes cómo? Apúntate
 
 [¿No sabes Python?](https://ti.to/saturdaysai/python-4-ai-program)
 
-![foto de grupo participantes AI Saturdays Alicante](/media/342a40d04bfb4795.webp)
 
 # ¿Cómo es la experiencia?
 

@@ -4,22 +4,27 @@
   "segments": [
     {
       "source": "Podcast T3/E9 – Lewis Tunstall – Las Partículas del Machine Learning",
-      "en": "Podcast S3/E9 – Lewis Tunstall – The building blocks of machine learning",
-      "es": "Podcast T3/E9 – Lewis Tunstall – Las Partículas del Machine Learning",
+      "en": "Podcast S3/E09: Lewis Tunstall — From particle physics to machine learning",
+      "es": "Podcast T3/E09: Lewis Tunstall — De la física de partículas al machine learning",
       "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Curated bilingual site copy"
+        "date": "2026-10-26",
+        "scope": "Full article review; wording correction"
       }
     },
     {
       "source": "T3 / E9",
       "en": "S3/E9",
       "es": "T3 / E9",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Lewis Tunstall, Ingeniero de Machine Learning en Hugging Face y PhD en física de partículas, nos explica su transición desde el mundo académico a científico de datos. Hablamos sobre Transformers, Hugging Face y si la AGI…",
@@ -31,7 +36,12 @@
       "source": "9 feb 2022",
       "en": "Feb 9, 2022",
       "es": "9 feb 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este episodio entrevistamos a Lewis Tunstall, Ingeniero de Machine Learning.",
@@ -59,7 +69,12 @@
       "source": "transformers",
       "en": "transformers",
       "es": "transformers",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "y su labor en Hugging Face.",
@@ -79,27 +94,47 @@
       "source": "Sobre Lewis",
       "en": "About Lewis",
       "es": "Sobre Lewis",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Twitter",
       "en": "Twitter",
       "es": "Twitter",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Presentación Lewis ¿Quién es?",
       "en": "– Meet Lewis",
       "es": "– Presentación Lewis ¿Quién es?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Qué quería ser de pequeño? Sobre el fútbol y la música",
       "en": "– What did you want to be when you were little? About football and music",
       "es": "– ¿Qué quería ser de pequeño? Sobre el fútbol y la música",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sobre el traspaso de físico de partículas al científico de datos",
@@ -114,89 +149,154 @@
     },
     {
       "source": "– Sobre el labor en Hugging Face y optimización de",
-      "en": "– About the work on Hugging Face and optimization",
-      "es": "– Sobre el labor en Hugging Face y optimización de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "– Working at Hugging Face and optimising",
+      "es": "– Sobre el trabajo en Hugging Face y optimización de",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Qué retos encuentras en tu trabajo?",
       "en": "– What challenges do you encounter in your work?",
       "es": "– ¿Qué retos encuentras en tu trabajo?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Por qué es necesario el español en la ciencia de datos?",
       "en": "– Why is Spanish necessary in data science?",
       "es": "– ¿Por qué es necesario el español en la ciencia de datos?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Hemos llegado al punto muerto de los",
-      "en": "– Have we reached the impasse of the",
+      "en": "– Have we reached a dead end with",
       "es": "– ¿Hemos llegado al punto muerto de los",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Qué te gustaría ver en 10 años de la AI capaz de hacer?",
       "en": "– What would you like to see AI capable of doing in 10 years?",
-      "es": "– ¿Qué te gustaría ver en 10 años de la AI capaz de hacer?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "es": "– ¿Qué te gustaría que la IA fuera capaz de hacer dentro de diez años?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Sobre AGI (Inteligencia Artificial General)",
       "en": "– About AGI (Artificial General Intelligence)",
       "es": "– Sobre AGI (Inteligencia Artificial General)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Cómo mides tu impacto?",
       "en": "– How do you measure your impact?",
       "es": "– ¿Cómo mides tu impacto?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ¿Qué recomendarías a nuestros estudiantes y los que quieren entrar en el mundo de ML y DL?",
       "en": "– What would you recommend to our students and those who want to enter the world of ML and DL?",
       "es": "– ¿Qué recomendarías a nuestros estudiantes y los que quieren entrar en el mundo de ML y DL?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "deep tech",
       "en": "deep tech",
       "es": "deep tech",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "entrevista",
       "en": "interview",
       "es": "entrevista",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "fisica",
       "en": "physics",
       "es": "fisica",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "hugging face",
       "en": "hugging face",
       "es": "hugging face",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 9 feb 2022.",
-      "en": "A history of the Saturdays.AI community. Originally published on February 9, 2022.",
+      "en": "A story from the Saturdays.AI community. Originally published on February 9, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 9 feb 2022.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "Lewis Tunstall cuenta cómo pasó de la física de partículas a la ciencia de datos y al aprendizaje automático.",

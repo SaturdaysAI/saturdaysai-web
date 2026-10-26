@@ -93,13 +93,13 @@ Ejemplos típicos:
 Para mostrar eso bien en una web tuvimos que resolver muchas pequeñas dificultades:
 
 -   interpretar códigos §
--   interpretar formatos
--   alternativos como %%light\_purple%%  
-    diferenciar entre símbolo, número y texto
+-   interpretar formatos alternativos como %%light\_purple%%
+-   diferenciar entre símbolo, número y texto
 -   respetar el “+” sin romper el color del stat
 -   aplicar colores distintos según el atributo
 
-mantener la legibilidad visual sin perder el estilo del juego  
+-   mantener la legibilidad visual sin perder el estilo del juego
+
 Aquí la IA fue especialmente útil como herramienta de iteración rápida. Nos ayudó a convertir reglas visuales informales en reglas concretas de renderizado. Y, quizás más importante, a corregir decenas de bugs pequeños que aparecen cuando se trabaja con texto muy irregular.
 
 Muchos de esos errores habrían costado bastante tiempo si hubiéramos ido caso por caso. Con IA, fue mucho más fácil detectar patrones, revisar excepciones y ajustar el resultado hasta que se sintiera bien.
@@ -303,7 +303,7 @@ Todo ello sin backend tradicional, manteniendo una arquitectura ligera y fácil 
 ## Código y aplicación
 
 Podéis acceder al código fuente en:  
-[https://github.com/SaturdaysAI/SkyblockCodexAPI/tree/masterhttps://github.com/KenjiEtsu/SkyblockCodexAPI](https://github.com/SaturdaysAI/SkyblockCodexAPI/tree/master)
+[Código fuente de SkyBlockCodexAPI](https://github.com/SaturdaysAI/SkyblockCodexAPI/tree/master)
 
 Y tenéis acceso a la aplicación en:  
-[https://saturdaysai.github.io/SkyblockCodexAPI/museum.htmlhttps://kenjietsu.gitwhub.io/SkyblockCodexAPI/index.html](https://saturdaysai.github.io/SkyblockCodexAPI/museum.html)
+[Explorar el museo en la aplicación](https://saturdaysai.github.io/SkyblockCodexAPI/museum.html)

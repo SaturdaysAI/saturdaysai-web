@@ -6,50 +6,90 @@
       "source": "Latam online. Segunda Edición. 2021 En la actualidad, los desechos municipales a nivel mundial podrían aumentar un 70% en los próximos 30 años, provocando así montones de basura acumulados alrededor del mundo (Banco Mundial,…",
       "en": "Latam online. Second Edition. 2021 Currently, municipal waste worldwide could increase by 70% in the next 30 years, thus causing piles of garbage to accumulate around the world (World Bank,…",
       "es": "Latam online. Segunda Edición. 2021 En la actualidad, los desechos municipales a nivel mundial podrían aumentar un 70% en los próximos 30 años, provocando así montones de basura acumulados alrededor del mundo (Banco Mundial,…",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Cómo nace nuestro proyecto?",
       "en": "How is our project born?",
       "es": "¿Cómo nace nuestro proyecto?",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Integrantes del proyecto",
       "en": "Project members",
       "es": "Integrantes del proyecto",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Experiencia del equipo",
       "en": "Team experience",
       "es": "Experiencia del equipo",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Planteamiento de la solución",
       "en": "Solution approach",
       "es": "Planteamiento de la solución",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Conjunto de datos",
       "en": "Data set",
       "es": "Conjunto de datos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Data augmentation",
       "en": "Data augmentation",
       "es": "Data augmentation",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Keras Tuner",
       "en": "Keras Tuner",
       "es": "Keras Tuner",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "InceptionV3",
@@ -61,892 +101,1562 @@
       "source": "Predicción de la carpeta test",
       "en": "Test folder prediction",
       "es": "Predicción de la carpeta test",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Primera prueba sin basura",
       "en": "First test without garbage",
       "es": "Primera prueba sin basura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Segunda prueba con basura",
       "en": "Second test with garbage",
       "es": "Segunda prueba con basura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tercera prueba con imagen y muchos colores",
       "en": "Third test with image and many colors",
       "es": "Tercera prueba con imagen y muchos colores",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Predicción de la carpeta de test",
       "en": "Test folder prediction",
       "es": "Predicción de la carpeta de test",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tercera prueba con imagen de diferentes colores",
       "en": "Third test with image of different colors",
       "es": "Tercera prueba con imagen de diferentes colores",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Métricas del modelo elegido: InceptionV3",
       "en": "Metrics of the chosen model: InceptionV3",
       "es": "Métricas del modelo elegido: InceptionV3",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Métricas",
       "en": "Metrics",
       "es": "Métricas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aplicación móvil (“Ciudad Limpia”)",
       "en": "Mobile application (“Clean City”)",
       "es": "Aplicación móvil (“Ciudad Limpia”)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por qué elegimos App Inventor?",
       "en": "Why do we choose App Inventor?",
       "es": "Por qué elegimos App Inventor?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Conexión de App Inventor con Google Colab",
       "en": "Connecting App Inventor with Google Colab",
       "es": "Conexión de App Inventor con Google Colab",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Funcionalidad de la aplicación «Ciudad Limpia»",
       "en": "Functionality of the “Clean City” application",
       "es": "Funcionalidad de la aplicación «Ciudad Limpia»",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Almacenamiento de datos",
       "en": "Data storage",
       "es": "Almacenamiento de datos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Funcionamiento de la interfaz",
       "en": "Interface operation",
       "es": "Funcionamiento de la interfaz",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Herramienta BI",
       "en": "BI tool",
       "es": "Herramienta BI",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Extracción de datos",
       "en": "Data extraction",
       "es": "Extracción de datos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Recursos",
       "en": "Resources",
       "es": "Recursos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Presentacion del proyecto: DemoDay",
       "en": "Project presentation: DemoDay",
       "es": "Presentacion del proyecto: DemoDay",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 1.- Acumulación de basura en las calles.",
       "en": "Figure 1.- Accumulation of garbage in the streets.",
       "es": "Figura 1.- Acumulación de basura en las calles.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la actualidad, los desechos municipales a nivel mundial podrían aumentar un 70% en los próximos 30 años, provocando así montones de basura acumulados alrededor del mundo (Banco Mundial, 2019). Es por esto que, si no se toman medidas urgentes, se espera un futuro donde el convivir con basura sea algo normal para la sociedad.",
       "en": "Currently, municipal waste worldwide could increase by 70% in the next 30 years, thus causing piles of garbage to accumulate around the world (World Bank, 2019). This is why, if urgent measures are not taken, a future is expected where living with garbage is normal for society.",
       "es": "En la actualidad, los desechos municipales a nivel mundial podrían aumentar un 70% en los próximos 30 años, provocando así montones de basura acumulados alrededor del mundo (Banco Mundial, 2019). Es por esto que, si no se toman medidas urgentes, se espera un futuro donde el convivir con basura sea algo normal para la sociedad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Debido a las consecuencias de las acumulaciones de basura no controladas ni planificadas se deben tomar diferentes estrategias que amortigüen sus ocurrencias en distintos puntos del mundo.",
       "en": "Due to the consequences of uncontrolled and unplanned garbage accumulations, different strategies must be taken to cushion their occurrences in different parts of the world.",
       "es": "Debido a las consecuencias de las acumulaciones de basura no controladas ni planificadas se deben tomar diferentes estrategias que amortigüen sus ocurrencias en distintos puntos del mundo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El problema de la acumulación de basura no solo radica en el mal olor que se percibe, sino la imagen de insalubridad, desorden y hasta de inseguridad que la basura se desparrama en las calles genera. En las calles se puede encontrar desde cartones y pañales, hasta cáscaras de frutas, plástico y sábanas viejas. Todo esto al pie del canal de aguas lluvias, en cuyas bases también es común ver flotando todo tipo de desechos.",
       "en": "The problem of the accumulation of garbage not only lies in the bad smell that is perceived, but also in the image of unhealthiness, disorder and even insecurity that the garbage scattered in the streets generates. In the streets you can find everything from cardboard and diapers to fruit peels, plastic and old sheets. All this at the foot of the rainwater channel, at whose bases it is also common to see all types of debris floating.",
       "es": "El problema de la acumulación de basura no solo radica en el mal olor que se percibe, sino la imagen de insalubridad, desorden y hasta de inseguridad que la basura se desparrama en las calles genera. En las calles se puede encontrar desde cartones y pañales, hasta cáscaras de frutas, plástico y sábanas viejas. Todo esto al pie del canal de aguas lluvias, en cuyas bases también es común ver flotando todo tipo de desechos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Según el Ministerio del Ambiente, en el Ecuador la más crítica es la Costa, en donde apenas el 10% de los municipios dispone de un relleno sanitario, manual o mecanizado; en la región Sierra son 25%, y en el Oriente, el 24%. Por lo que las cifras de basura dentro del país aumentan diariamente tal y como se visualiza en la Figura 2.",
       "en": "According to the Ministry of the Environment, in Ecuador the most critical is the Coast, where only 10% of the municipalities have a sanitary landfill, manual or mechanized; in the Sierra region they are 25%, and in the East, 24%. Therefore, the garbage figures within the country increase daily as seen in Figure 2.",
       "es": "Según el Ministerio del Ambiente, en el Ecuador la más crítica es la Costa, en donde apenas el 10% de los municipios dispone de un relleno sanitario, manual o mecanizado; en la región Sierra son 25%, y en el Oriente, el 24%. Por lo que las cifras de basura dentro del país aumentan diariamente tal y como se visualiza en la Figura 2.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 2.- Cifras de la basura en el Ecuador.",
       "en": "Figure 2.- Garbage figures in Ecuador.",
       "es": "Figura 2.- Cifras de la basura en el Ecuador.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la figura 2.1, se visualizan algunas de las consecuencias de la acumulación de basura como lo son: daños en la infraestructura pública, aumento de enfermedades y plagas, inundaciones en las calles, obstrucción en los alcantarillados y entre otros.",
       "en": "Figure 2.1 shows some of the consequences of the accumulation of garbage, such as: damage to public infrastructure, increase in diseases and pests, flooding in the streets, obstruction in sewers and among others.",
       "es": "En la figura 2.1, se visualizan algunas de las consecuencias de la acumulación de basura como lo son: daños en la infraestructura pública, aumento de enfermedades y plagas, inundaciones en las calles, obstrucción en los alcantarillados y entre otros.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 2.1.- Consecuencias de la acumulación de basura.",
       "en": "Figure 2.1.- Consequences of garbage accumulation.",
       "es": "Figura 2.1.- Consecuencias de la acumulación de basura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la ciudad de Guayaquil, las penas por desechar desechos sólidos no peligrosos al margen de la frecuencia y horarios establecidos y acumular la basura en parterres y aceras; van desde los",
       "en": "In the city of Guayaquil, penalties for disposing of non-hazardous solid waste outside the established frequency and schedule and accumulating garbage in flower beds and sidewalks; they range from",
       "es": "En la ciudad de Guayaquil, las penas por desechar desechos sólidos no peligrosos al margen de la frecuencia y horarios establecidos y acumular la basura en parterres y aceras; van desde los",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "$80 a $500",
       "en": "$80 to $500",
       "es": "$80 a $500",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ciudad Limpia",
       "en": "Clean City",
       "es": "Ciudad Limpia",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "se basó en la siguiente pregunta",
       "en": "was based on the following question",
       "es": "se basó en la siguiente pregunta",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Cómo identificar de manera oportuna la acumulación de la basura no controlada en la ciudad de Guayaquil para minimizar el impacto en la sociedad? Por tal motivo creamos una aplicación que nos permite contribuir en la recolección de basura. Haciendo participe a la ciudadanía en mejorar la limpieza de la ciudad y que alguna empresa se interese en nuestra herramienta tecnológica basada en Inteligencia artificial.",
       "en": "How to identify in a timely manner the accumulation of uncontrolled garbage in the city of Guayaquil to minimize the impact on society? For this reason we created an application that allows us to contribute to garbage collection. Involving citizens in improving the cleanliness of the city and getting some companies interested in our technological tool based on Artificial Intelligence.",
       "es": "¿Cómo identificar de manera oportuna la acumulación de la basura no controlada en la ciudad de Guayaquil para minimizar el impacto en la sociedad? Por tal motivo creamos una aplicación que nos permite contribuir en la recolección de basura. Haciendo participe a la ciudadanía en mejorar la limpieza de la ciudad y que alguna empresa se interese en nuestra herramienta tecnológica basada en Inteligencia artificial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 3.- Equipo morado — SaturdayAI –ÉPICO 2021",
       "en": "Figure 3.- Purple team — SaturdayAI –EPIC 2021",
       "es": "Figura 3.- Equipo morado — SaturdayAI –ÉPICO 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Manuel Ahumada",
       "en": "Manuel Ahumada",
       "es": "Manuel Ahumada",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“Fue una experiencia de aprendizaje práctico: enfocado en el hacer para adquirir los temas y conceptos presentados. Eso refuerza el conocimiento.”.",
       "en": "\"It was a practical learning experience: focused on doing to acquire the topics and concepts presented. That reinforces knowledge.\"",
       "es": "“Fue una experiencia de aprendizaje práctico: enfocado en el hacer para adquirir los temas y conceptos presentados. Eso refuerza el conocimiento.”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Patricia Andrade",
       "en": "Patricia Andrade",
       "es": "Patricia Andrade",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“Mi experiencia fue muy enriquecedora debido a todo el nuevo conocimiento que aprendí. Además, me gustó mucho el compartir ideas con compañeros de distintos campos para solucionar un problema práctico”.",
       "en": "\"My experience was very enriching due to all the new knowledge I learned. In addition, I really liked sharing ideas with colleagues from different fields to solve a practical problem.\"",
       "es": "“Mi experiencia fue muy enriquecedora debido a todo el nuevo conocimiento que aprendí. Además, me gustó mucho el compartir ideas con compañeros de distintos campos para solucionar un problema práctico”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "César Villarroel",
       "en": "Cesar Villarroel",
       "es": "César Villarroel",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“Fue una experiencia de aprendizaje práctico: enfocado en el hacer para lograr adquirir los temas y conceptos presentados. Eso refuerza el conocimiento.”.",
       "en": "\"It was a practical learning experience: focused on doing to achieve the acquisition of the topics and concepts presented. That reinforces knowledge.\"",
       "es": "“Fue una experiencia de aprendizaje práctico: enfocado en el hacer para lograr adquirir los temas y conceptos presentados. Eso refuerza el conocimiento.”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ingrid León",
       "en": "Ingrid Leon",
       "es": "Ingrid León",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“La experiencia que se obtiene en esta modalidad es buena, El poder compartir conocimientos, desafíos y riesgos hacen que seamos más profesiones. Me quedo con una frase “«Son dos las opciones básicas: aceptar las condiciones como existen o aceptar la responsabilidad de modificarlas»”, entonces podemos mejorar siempre”.",
       "en": "\"The experience obtained in this modality is good. Being able to share knowledge, challenges and risks makes us more professional. I am left with a phrase \"There are two basic options: accept the conditions as they exist or accept the responsibility of modifying them\", then we can always improve.\"",
       "es": "“La experiencia que se obtiene en esta modalidad es buena, El poder compartir conocimientos, desafíos y riesgos hacen que seamos más profesiones. Me quedo con una frase “«Son dos las opciones básicas: aceptar las condiciones como existen o aceptar la responsabilidad de modificarlas»”, entonces podemos mejorar siempre”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la siguiente figura 4, se puede visualizar la idea principal del proyecto.",
       "en": "In the following figure 4, you can see the main idea of the project.",
       "es": "En la siguiente figura 4, se puede visualizar la idea principal del proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Desarrollar una aplicación basada en Inteligencia Artificial que permita identificar aglomeraciones de basura en la vía pública de zonas urbanas.",
       "en": "Develop an application based on Artificial Intelligence that allows identifying agglomerations of garbage on public roads in urban areas.",
       "es": "Desarrollar una aplicación basada en Inteligencia Artificial que permita identificar aglomeraciones de basura en la vía pública de zonas urbanas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 4.- Propuesta de valor del proyecto.",
       "en": "Figure 4.- Project value proposition.",
       "es": "Figura 4.- Propuesta de valor del proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se proyecta que mediante la colaboración de los ciudadanos se cree una concientización donde formen parte de la limpieza y cuidado de la ciudad. ¿Cómo lo van a hacer? Fácil, a través de la app",
       "en": "It is projected that through the collaboration of citizens, awareness will be created where they are part of the cleanliness and care of the city. How are they going to do it? Easy, through the app",
       "es": "Se proyecta que mediante la colaboración de los ciudadanos se cree una concientización donde formen parte de la limpieza y cuidado de la ciudad. ¿Cómo lo van a hacer? Fácil, a través de la app",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“Ciudad Limpia”",
       "en": "“Clean City”",
       "es": "“Ciudad Limpia”",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", en donde pueden tomar una foto para identificar y reportar la acumulación de basura de un sector determinado. Además, la aplicación registra la fecha, hora y ubicación del problema. Dicha aplicación estará basada en Inteligencia Artificial que permitirá identificar aglomeraciones de basura en la vía pública de zonas urbanas y fomentar un plan de acción inmediata para las autoridades sanitarias.",
       "en": ", where they can take a photo to identify and report the accumulation of garbage in a certain sector. Additionally, the application records the date, time and location of the problem. This application will be based on Artificial Intelligence that will allow identifying agglomerations of garbage on public roads in urban areas and promoting an immediate action plan for health authorities.",
       "es": ", en donde pueden tomar una foto para identificar y reportar la acumulación de basura de un sector determinado. Además, la aplicación registra la fecha, hora y ubicación del problema. Dicha aplicación estará basada en Inteligencia Artificial que permitirá identificar aglomeraciones de basura en la vía pública de zonas urbanas y fomentar un plan de acción inmediata para las autoridades sanitarias.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 5.- Diagrama General de la solución.",
       "en": "Figure 5.- General Diagram of the solution.",
       "es": "Figura 5.- Diagrama General de la solución.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El conjunto de datos que se formó fue basado en descarga de imágenes de manera individual desde el Internet, videos transformados en fotogramas. Además, se sacó la plataforma de Kaggle y Google Street view donde se pudo obtener una gran cantidad de dataset de imágenes de aglomeración de basura.",
-      "en": "The data set that was formed was based on downloading images individually from the Internet, videos transformed into frames. In addition, the Kaggle and Google Street view platform was released where a large number of datasets of garbage agglomeration images could be obtained.",
-      "es": "El conjunto de datos que se formó fue basado en descarga de imágenes de manera individual desde el Internet, videos transformados en fotogramas. Además, se sacó la plataforma de Kaggle y Google Street view donde se pudo obtener una gran cantidad de dataset de imágenes de aglomeración de basura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We built the dataset from images downloaded from the internet and frames extracted from videos. We also used images from Kaggle and Google Street View to gather examples of waste accumulation.",
+      "es": "Construimos el conjunto de datos con imágenes descargadas de Internet y fotogramas extraídos de vídeos. También utilizamos imágenes de Kaggle y Google Street View para reunir ejemplos de acumulaciones de basura.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 6.- Medios para obtener el conjunto de datos",
       "en": "Figure 6.- Means to obtain the data set",
       "es": "Figura 6.- Medios para obtener el conjunto de datos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para la selección de los modelos se obtuvo las siguientes consideraciones:",
       "en": "For the selection of the models, the following considerations were obtained:",
       "es": "Para la selección de los modelos se obtuvo las siguientes consideraciones:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Fácil implementación.",
       "en": "Easy implementation.",
       "es": "Fácil implementación.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "CCN Personalizado.",
-      "en": "CCN Custom.",
-      "es": "CCN Personalizado.",
-      "reviewed": false
+      "en": "Custom CNN.",
+      "es": "CNN personalizada.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "VGG-16.",
       "en": "VGG-16.",
       "es": "VGG-16.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "inicioV3.",
-      "en": "homeV3.",
-      "es": "inicioV3.",
-      "reviewed": false
+      "en": "InceptionV3.",
+      "es": "InceptionV3.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La principal técnica utilizada para compensar el conjunto de datos de tamaño limitado por la limitación de búsqueda de imágenes en Google fue la “aumentación de datos” realizada por la librería de keras “ImageDataGenerator”.",
       "en": "The main technique used to compensate for the limited data set size due to the Google image search limitation was “data augmentation” performed by the “ImageDataGenerator” keras library.",
       "es": "La principal técnica utilizada para compensar el conjunto de datos de tamaño limitado por la limitación de búsqueda de imágenes en Google fue la “aumentación de datos” realizada por la librería de keras “ImageDataGenerator”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El aumento de datos es la generación artificial de datos por medio de perturbaciones en los datos originales. Esto nos permite aumentar tanto en tamaño como en diversidad nuestro conjunto de datos de entrenamiento. En el computer vision, esta técnica se convirtió en un estándar de regularización, y también para mejorar el rendimiento y combatir el overfitting en CNNs.",
       "en": "Data augmentation is the artificial generation of data through perturbations to the original data. This allows us to increase both the size and diversity of our training data set. In computer vision, this technique became a regularization standard, and also to improve performance and combat overfitting in CNNs.",
       "es": "El aumento de datos es la generación artificial de datos por medio de perturbaciones en los datos originales. Esto nos permite aumentar tanto en tamaño como en diversidad nuestro conjunto de datos de entrenamiento. En el computer vision, esta técnica se convirtió en un estándar de regularización, y también para mejorar el rendimiento y combatir el overfitting en CNNs.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 7.- Ejemplo de aumento de datos.",
       "en": "Figure 7.- Example of data augmentation.",
       "es": "Figura 7.- Ejemplo de aumento de datos.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En los tres modelos seleccionados se consideraron la técnica de aumento de datos con el objetivo de normalizar o re-escalar los píxeles en un rango de 0 a 1. Además de modificar las imágenes del conjunto tren con el objetivo de que existe una distinción en cada una de las imágenes seleccionadas tanto de ancho, largo, amplitud, rotación y escalamiento. A continuación, se observa el código donde se transforman las imágenes de entrenamiento con los parámetros seleccionados:",
       "en": "In the three selected models, the data augmentation technique was considered with the objective of normalizing or re-scaling the pixels in a range from 0 to 1. In addition to modifying the images of the train set with the objective that there is a distinction in each of the selected images in terms of width, length, amplitude, rotation and scaling. Below is the code where the training images are transformed with the selected parameters:",
       "es": "En los tres modelos seleccionados se consideraron la técnica de aumento de datos con el objetivo de normalizar o re-escalar los píxeles en un rango de 0 a 1. Además de modificar las imágenes del conjunto tren con el objetivo de que existe una distinción en cada una de las imágenes seleccionadas tanto de ancho, largo, amplitud, rotación y escalamiento. A continuación, se observa el código donde se transforman las imágenes de entrenamiento con los parámetros seleccionados:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 8.- Código del entrenamiento de imágenes.",
       "en": "Figure 8.- Image training code.",
       "es": "Figura 8.- Código del entrenamiento de imágenes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En el modelo CNN personalizado se aplicaron técnicas de regulación, callbacks y por último keras tuner.",
       "en": "In the personalized CNN model, regulation techniques, callbacks and finally keras tuner were applied.",
       "es": "En el modelo CNN personalizado se aplicaron técnicas de regulación, callbacks y por último keras tuner.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Keras Tuner es una librería muy sencilla de utilizar que simplifica en gran medida complejidad el proceso de aplicar de optimización de hiper-parámetros sobre redes de neuronas profundas construidas mediante Keras, ofreciéndonos un amplio grado de versatilidad para optimizar tanto la estructura de nuestra red como la configuración de los parámetros de algunos de los algoritmos implicados en el proceso de entrenamiento.",
-      "en": "Keras Tuner is a very easy-to-use library that greatly simplifies the complexity process of applying hyper-parameter optimization to deep neural networks built using Keras, offering us a wide degree of versatility to optimize both the structure of our network and the configuration of the parameters of some of the algorithms involved in the training process.",
-      "es": "Keras Tuner es una librería muy sencilla de utilizar que simplifica en gran medida complejidad el proceso de aplicar de optimización de hiper-parámetros sobre redes de neuronas profundas construidas mediante Keras, ofreciéndonos un amplio grado de versatilidad para optimizar tanto la estructura de nuestra red como la configuración de los parámetros de algunos de los algoritmos implicados en el proceso de entrenamiento.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Keras Tuner simplifies hyperparameter search for networks built with Keras. It lets us compare architecture and training configurations and select the one with the best result on the chosen validation metric.",
+      "es": "Keras Tuner simplifica la búsqueda de hiperparámetros en redes construidas con Keras. Permite comparar configuraciones de la arquitectura y del entrenamiento para elegir la que obtiene mejores resultados en la métrica de validación seleccionada.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 9.- se puede constatar el valor del ensayo y exactitud",
       "en": "Figure 9.- the value of the test and accuracy can be verified",
       "es": "Figura 9.- se puede constatar el valor del ensayo y exactitud",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Keras Tuner mientras va analizando cada trial, verifica el mejor valor de val accuracy infiriendo que es la mejor configuración de la arquitectura y la procede a guardar la mejor configuración de la arquitectura del modelo (número de capas) con el cual tiende a lograr la mejor métrico.",
       "en": "While analyzing each trial, Keras Tuner verifies the best val accuracy value, inferring that it is the best configuration of the architecture, and proceeds to save the best configuration of the model architecture (number of layers) with which it tends to achieve the best metric.",
       "es": "Keras Tuner mientras va analizando cada trial, verifica el mejor valor de val accuracy infiriendo que es la mejor configuración de la arquitectura y la procede a guardar la mejor configuración de la arquitectura del modelo (número de capas) con el cual tiende a lograr la mejor métrico.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 10.- código del modelo cnn",
       "en": "Figure 10.- cnn model code",
       "es": "Figura 10.- código del modelo cnn",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Arquitectura del modelo cnn personalizado cuenta con regularizadores, convolución, keras tuner",
       "en": "Custom cnn model architecture features regularizers, convolution, keras tuner",
       "es": "Arquitectura del modelo cnn personalizado cuenta con regularizadores, convolución, keras tuner",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 11.- muestra el pre-entrenamiento",
       "en": "Figure 11.- shows the pre-training",
       "es": "Figura 11.- muestra el pre-entrenamiento",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se define el modelo pre-entrenado inceptionv3, valida el tamaño de las imágenes de input con que se entrena:",
       "en": "The inceptionv3 pre-trained model is defined, validating the size of the input images with which it is trained:",
       "es": "Se define el modelo pre-entrenado inceptionv3, valida el tamaño de las imágenes de input con que se entrena:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 12.- uso de la arquitectura mixed7",
       "en": "Figure 12.- use of the mixed7 architecture",
       "es": "Figura 12.- uso de la arquitectura mixed7",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se congela la arquitectura en la capa “mixed7” para después alterarla añadiendo capas basadas en la predicción de nuestro modelo que es una clasificación binaria por el cual la última capa tiene activación sigmoidal la cual nos ofrece como resultado la probabilidad de que si un caso es positivo o negativo",
       "en": "The architecture is frozen in the “mixed7” layer and then altered by adding layers based on the prediction of our model, which is a binary classification by which the last layer has sigmoidal activation which offers us the probability of whether a case is positive or negative.",
       "es": "Se congela la arquitectura en la capa “mixed7” para después alterarla añadiendo capas basadas en la predicción de nuestro modelo que es una clasificación binaria por el cual la última capa tiene activación sigmoidal la cual nos ofrece como resultado la probabilidad de que si un caso es positivo o negativo",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 13.- Características adicionales con VGG16",
       "en": "Figure 13.- Additional features with VGG16",
       "es": "Figura 13.- Características adicionales con VGG16",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se define el modelo pre-entrenado vgg16 y valida el size de las imágenes de input con que se entrena",
       "en": "The pre-trained vgg16 model is defined and validates the size of the input images with which it is trained",
       "es": "Se define el modelo pre-entrenado vgg16 y valida el size de las imágenes de input con que se entrena",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 14.- aumento de capas (clasificación binaria)",
       "en": "Figure 14.- increase in layers (binary classification)",
       "es": "Figura 14.- aumento de capas (clasificación binaria)",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se procede a aumentar las capas basadas en la predicción de nuestro modelo que es una clasificación binaria por lo cual la última capa tiene activación sigmoidal la cual nos ofrece como resultado la probabilidad de que si un caso es positivo o negativo",
       "en": "We proceed to increase the layers based on the prediction of our model, which is a binary classification, so the last layer has sigmoidal activation which offers us as a result the probability that if a case is positive or negative",
       "es": "Se procede a aumentar las capas basadas en la predicción de nuestro modelo que es una clasificación binaria por lo cual la última capa tiene activación sigmoidal la cual nos ofrece como resultado la probabilidad de que si un caso es positivo o negativo",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 15.- gráfica del modelo cnn personalizado con 20 épocas",
       "en": "Figure 15.- graph of the personalized cnn model with 20 epochs",
       "es": "Figura 15.- gráfica del modelo cnn personalizado con 20 épocas",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la evaluación del modelo se entrenó con 20 épocas. Sé puede verificar que no logra converger en su totalidad. Logra una accuracy de la evaluación del conjunto test del 78 %",
-      "en": "In the evaluation of the model, it was trained with 20 epochs. I know it can be verified that it does not manage to converge in its entirety. Achieves an accuracy of the test set evaluation of 78%",
-      "es": "En la evaluación del modelo se entrenó con 20 épocas. Sé puede verificar que no logra converger en su totalidad. Logra una accuracy de la evaluación del conjunto test del 78 %",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The custom CNN was trained for 20 epochs. Its curve does not show full convergence, and test-set accuracy was 78%.",
+      "es": "La CNN personalizada se entrenó durante 20 épocas. La curva no muestra una convergencia completa y la exactitud en el conjunto de prueba fue del 78 %.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 16.- grafica del modelo pre-entrenado con 50 épocas",
       "en": "Figure 16.- graph of the pre-trained model with 50 epochs",
       "es": "Figura 16.- grafica del modelo pre-entrenado con 50 épocas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la evaluación del modelo el cual se entrenó con 50 épocas se puede analizar que logra converger en totalidad a partir de la época 28 en adelante, con una precisión de la evaluación del conjunto test del 85 %",
       "en": "In the evaluation of the model which was trained with 50 epochs, it can be analyzed that it manages to converge completely from epoch 28 onwards, with an evaluation precision of the test set of 85%.",
       "es": "En la evaluación del modelo el cual se entrenó con 50 épocas se puede analizar que logra converger en totalidad a partir de la época 28 en adelante, con una precisión de la evaluación del conjunto test del 85 %",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 17.- gráfica del modelo pre-entrenado con 10 épocas",
       "en": "Figure 17.- graph of the pre-trained model with 10 epochs",
       "es": "Figura 17.- gráfica del modelo pre-entrenado con 10 épocas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la evaluación del modelo el cual se entrenó con 10 épocas se puede analizar que logra converger, con una precisión de la evaluación del conjunto test del 84 %",
       "en": "In the evaluation of the model which was trained with 10 epochs, it can be analyzed that it manages to converge, with a precision of the evaluation of the test set of 84%.",
       "es": "En la evaluación del modelo el cual se entrenó con 10 épocas se puede analizar que logra converger, con una precisión de la evaluación del conjunto test del 84 %",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A continuación, mostramos las predicciones de los modelos:",
       "en": "Below we show the model predictions:",
       "es": "A continuación, mostramos las predicciones de los modelos:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se obtiene las probabilidades de predicción del conjunto test",
       "en": "The prediction probabilities of the test set are obtained",
       "es": "Se obtiene las probabilidades de predicción del conjunto test",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prueba del modelo prediciendo una imagen sin basura dando como resultado una probabilidad menor a un umbral de 0.5 se la identifica como una",
       "en": "Testing the model predicting an image without garbage resulting in a probability less than a threshold of 0.5 is identified as a",
       "es": "Prueba del modelo prediciendo una imagen sin basura dando como resultado una probabilidad menor a un umbral de 0.5 se la identifica como una",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "no aglomeración",
-      "en": "no crowding",
-      "es": "no aglomeración",
-      "reviewed": false
+      "en": "no waste accumulation",
+      "es": "sin acumulación de basura",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Prueba del modelo prediciendo una imagen con basura generando una probabilidad mayor a un umbral de 0.5 se la identifica como una aglomeración.",
       "en": "Testing the model predicting an image with garbage, generating a probability greater than a threshold of 0.5, identifies it as an agglomeration.",
       "es": "Prueba del modelo prediciendo una imagen con basura generando una probabilidad mayor a un umbral de 0.5 se la identifica como una aglomeración.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prueba del modelo prediciendo una imagen falsa positiva intentando romper la predicción en consecuencia se obtiene una probabilidad menor a un umbral de 0.5 se la identifica como una",
       "en": "Test the model predicting a false positive image, trying to break the prediction, consequently obtaining a probability less than a threshold of 0.5, it is identified as a",
       "es": "Prueba del modelo prediciendo una imagen falsa positiva intentando romper la predicción en consecuencia se obtiene una probabilidad menor a un umbral de 0.5 se la identifica como una",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se obtienen las probabilidades de predicción del conjunto test",
       "en": "The prediction probabilities of the test set are obtained",
       "es": "Se obtienen las probabilidades de predicción del conjunto test",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prueba del modelo prediciendo una imagen con basura mostrando una probabilidad mayor a un umbral de 0.5 se la identifica como una",
       "en": "Testing the model predicting an image with garbage showing a probability greater than a threshold of 0.5, it is identified as a",
       "es": "Prueba del modelo prediciendo una imagen con basura mostrando una probabilidad mayor a un umbral de 0.5 se la identifica como una",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "aglomeración",
-      "en": "agglomeration",
-      "es": "aglomeración",
-      "reviewed": false
+      "en": "waste accumulation",
+      "es": "acumulación de basura",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la matriz de confusión podemos deducir que está prediciendo aceptablemente, pero puede mejorar la predicción de los falsos negativos esto se puede solucionar aumentando imágenes de positivos para que el entrenamiento del modelo mejore los positivos",
-      "en": "In the confusion matrix we can deduce that it is predicting acceptably, but it can improve the prediction of false negatives. This can be solved by increasing images of positives so that the model training improves the positives.",
-      "es": "En la matriz de confusión podemos deducir que está prediciendo aceptablemente, pero puede mejorar la predicción de los falsos negativos esto se puede solucionar aumentando imágenes de positivos para que el entrenamiento del modelo mejore los positivos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The confusion matrix shows promising results as well as false negatives that need to be reduced. Adding more varied positive examples is one possible improvement, but its effect must be checked on separate evaluation data.",
+      "es": "La matriz de confusión muestra resultados prometedores y también falsos negativos que deben reducirse. Añadir ejemplos positivos más variados es una posible mejora, pero su efecto debe comprobarse con datos de evaluación separados.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Las métricas obtenidas son aceptables con un f1 score del 85 % de predicción para casos negativos y un 84 % para casos positivos, esto confirmaría la teoría de aumentar los datos en positivos",
-      "en": "The metrics obtained are acceptable with an f1 score of 85% prediction for negative cases and 84% for positive cases, this would confirm the theory of increasing the data in positive cases.",
-      "es": "Las métricas obtenidas son aceptables con un f1 score del 85 % de predicción para casos negativos y un 84 % para casos positivos, esto confirmaría la teoría de aumentar los datos en positivos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We obtained an F1 score of 85% for the negative class and 84% for the positive class. These results guide further testing; they do not by themselves establish that adding positive examples will resolve the errors.",
+      "es": "Obtuvimos un F1 del 85 % para la clase negativa y del 84 % para la positiva. Estos resultados orientan las siguientes pruebas; no demuestran por sí solos que aumentar los ejemplos positivos vaya a resolver los errores.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En la actualidad, existen muchas maneras de desarrollar aplicaciones en dispositivos móviles que cumplen con una función en específico y son compatibles con distintos sistemas operativos.",
       "en": "Currently, there are many ways to develop applications on mobile devices that fulfill a specific function and are compatible with different operating systems.",
       "es": "En la actualidad, existen muchas maneras de desarrollar aplicaciones en dispositivos móviles que cumplen con una función en específico y son compatibles con distintos sistemas operativos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es por esto, que se seleccionó como herramienta de programación y desarrollo de nuestra App “Ciudad Limpia” al entorno de",
-      "en": "This is why the environment of",
-      "es": "Es por esto, que se seleccionó como herramienta de programación y desarrollo de nuestra App “Ciudad Limpia” al entorno de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We therefore chose",
+      "es": "Por eso elegimos el entorno de",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "App Inventor",
       "en": "App Inventor",
       "es": "App Inventor",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Mediante esta plataforma se puede programar en JavaScript de manera fácil y sencilla debido a que utiliza una programación en bloques que permite un mayor entendimiento y uso por parte del usuario.",
-      "en": ". Through this platform you can program in JavaScript easily and simply because it uses block programming that allows greater understanding and use by the user.",
-      "es": ". Mediante esta plataforma se puede programar en JavaScript de manera fácil y sencilla debido a que utiliza una programación en bloques que permite un mayor entendimiento y uso por parte del usuario.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "to develop Ciudad Limpia. Its visual block-based programming let us build the app’s interface and logic in an accessible way.",
+      "es": "para desarrollar Ciudad Limpia. Su programación visual por bloques nos permitió construir la interfaz y la lógica de la aplicación de forma accesible.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 18.-",
       "en": "Figure 18.-",
       "es": "Figura 18.-",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Entorno de App Inventor",
       "en": "App Inventor environment",
       "es": "Entorno de App Inventor",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Con respecto a la arquitectura de nuestra aplicación “Ciudad Limpia”, se tiene los siguientes pasos a seguir, tal como se observa en la siguiente ilustración ():",
       "en": "With respect to the architecture of our “Clean City” application, we have the following steps to follow, as seen in the following illustration ():",
       "es": "Con respecto a la arquitectura de nuestra aplicación “Ciudad Limpia”, se tiene los siguientes pasos a seguir, tal como se observa en la siguiente ilustración ():",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 19.- Arquitectura de la aplicación",
       "en": "Figure 19.- Application architecture",
       "es": "Figura 19.- Arquitectura de la aplicación",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La conexión de la aplicación “Ciudad Limpia” con el modelo creado a través de Google Colab se realiza a través de la creación de un servidor local expuesto al Internet para el acceso de la aplicación móvil utilizando ngrok. Realizando una petición POST desde APP Inventor, se realiza el envío de la imagen codificada en bit64 al servidor el cual ejecuta el modelo y devuelve el resultado obtenido clasificado como aglomeración o no aglomeración de basura.",
-      "en": "The connection of the “Clean City” application with the model created through Google Colab is done through the creation of a local server exposed to the Internet for access to the mobile application using ngrok. By making a POST request from APP Inventor, the image encoded in bit64 is sent to the server which executes the model and returns the result obtained classified as garbage agglomeration or non-agglomeration.",
-      "es": "La conexión de la aplicación “Ciudad Limpia” con el modelo creado a través de Google Colab se realiza a través de la creación de un servidor local expuesto al Internet para el acceso de la aplicación móvil utilizando ngrok. Realizando una petición POST desde APP Inventor, se realiza el envío de la imagen codificada en bit64 al servidor el cual ejecuta el modelo y devuelve el resultado obtenido clasificado como aglomeración o no aglomeración de basura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We connected Ciudad Limpia to the Google Colab model through a server exposed via ngrok. The app sends a Base64-encoded image in a POST request. The server runs the model and returns its classification: with or without waste accumulation.",
+      "es": "Conectamos la aplicación Ciudad Limpia con el modelo de Google Colab mediante un servidor accesible a través de ngrok. La aplicación envía una imagen codificada en Base64 en una petición POST. El servidor ejecuta el modelo y devuelve su clasificación: con o sin acumulación de basura.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Con respecto al entorno y manejo de la App “Ciudad Limpia” se consideran tres botones dentro de la interfaz con distintas funciones al momento de procesar una fotografía:",
       "en": "With respect to the environment and management of the “Clean City” App, three buttons are considered within the interface with different functions when processing a photograph:",
       "es": "Con respecto al entorno y manejo de la App “Ciudad Limpia” se consideran tres botones dentro de la interfaz con distintas funciones al momento de procesar una fotografía:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Usuario “toma foto”:",
       "en": "User “take photo”:",
       "es": "Usuario “toma foto”:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este caso, el usuario utiliza la cámara de su dispositivo para capturar la imagen de la aglomeración de basura en su sector.",
       "en": "In this case, the user uses their device's camera to capture the image of the agglomeration of garbage in their area.",
       "es": "En este caso, el usuario utiliza la cámara de su dispositivo para capturar la imagen de la aglomeración de basura en su sector.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Usuario selecciona “foto de galería”:",
       "en": "User selects “gallery photo”:",
       "es": "Usuario selecciona “foto de galería”:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este caso, el usuario selecciona una foto que tenga registrado sobre la aglomeración de basura en su sector que encuentre dentro de su galería de imágenes de su celular.",
       "en": "In this case, the user selects a photo that he has recorded about the agglomeration of garbage in his sector that he finds within his cell phone image gallery.",
       "es": "En este caso, el usuario selecciona una foto que tenga registrado sobre la aglomeración de basura en su sector que encuentre dentro de su galería de imágenes de su celular.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Usuario “sube foto”:",
       "en": "User “upload photo”:",
       "es": "Usuario “sube foto”:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este caso, el usuario sube la foto de la aglomeración de basura en su sector para que sea registrado y notificado a las autoridades pertinentes y se pueda visualizar dentro de la aplicación el resultado de si existe o no una aglomeración.",
       "en": "In this case, the user uploads the photo of the garbage agglomeration in his sector so that it is registered and notified to the relevant authorities and the result of whether or not an agglomeration exists can be displayed within the application.",
       "es": "En este caso, el usuario sube la foto de la aglomeración de basura en su sector para que sea registrado y notificado a las autoridades pertinentes y se pueda visualizar dentro de la aplicación el resultado de si existe o no una aglomeración.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez realizada la predicción de la aglomeración de la basura dentro de la aplicación se procede a crear una base de datos a través de la aplicación de Google drive en extensión .csv, en donde se consideran los siguientes parámetros:",
       "en": "Once the prediction of the agglomeration of garbage within the application has been made, a database is created through the Google Drive application in .csv extension, where the following parameters are considered:",
       "es": "Una vez realizada la predicción de la aglomeración de la basura dentro de la aplicación se procede a crear una base de datos a través de la aplicación de Google drive en extensión .csv, en donde se consideran los siguientes parámetros:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Longitud",
-      "en": "– Length",
+      "en": "– Longitude",
       "es": "– Longitud",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "– Latitud",
       "en": "– Latitude",
       "es": "– Latitud",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Resultado de la predicción del modelo",
       "en": "– Model prediction result",
       "es": "– Resultado de la predicción del modelo",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– ID de la imagen capturada.",
       "en": "– ID of the captured image.",
       "es": "– ID de la imagen capturada.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A continuación, se puede observar el archivo final generado con todos los datos que ha recolectado:",
       "en": "Below, you can see the final file generated with all the data you have collected:",
       "es": "A continuación, se puede observar el archivo final generado con todos los datos que ha recolectado:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "De acuerdo a los resultados que genera el modelo y los datos que guarda la aplicación web. Hemos considerado por uso en el mercado, la facilidad de uso, mejor visualización de objetos y desarrollar el tablero en Power BI.",
       "en": "According to the results generated by the model and the data saved by the web application. We have considered for use in the market, ease of use, better visualization of objects and developing the dashboard in Power BI.",
       "es": "De acuerdo a los resultados que genera el modelo y los datos que guarda la aplicación web. Hemos considerado por uso en el mercado, la facilidad de uso, mejor visualización de objetos y desarrollar el tablero en Power BI.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Power BI es una herramienta que se utiliza principalmente para crear cuadros de mando que facilitan la toma de decisiones.",
       "en": "Power BI is a tool that is mainly used to create dashboards that facilitate decision making.",
       "es": "Power BI es una herramienta que se utiliza principalmente para crear cuadros de mando que facilitan la toma de decisiones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La información se puede actualizar de manera automatizada o manual y permite la compartición de los informes mediante la propia herramienta.",
       "en": "The information can be updated automatically or manually and allows the sharing of reports through the tool itself.",
       "es": "La información se puede actualizar de manera automatizada o manual y permite la compartición de los informes mediante la propia herramienta.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por todo lo antes mencionado se procedió en la utilización de dicha herramienta.",
       "en": "For all the aforementioned reasons, the use of said tool was carried out.",
       "es": "Por todo lo antes mencionado se procedió en la utilización de dicha herramienta.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez que la aplicación web guardó los datos, realizamos los siguientes pasos que muestra la siguiente gráfica.",
       "en": "Once the web application saved the data, we performed the following steps shown in the following graph.",
       "es": "Una vez que la aplicación web guardó los datos, realizamos los siguientes pasos que muestra la siguiente gráfica.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 20.- pasos de la extracción de datos",
       "en": "Figure 20.- data extraction steps",
       "es": "Figura 20.- pasos de la extracción de datos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mediante los campos: latitud, longitud, timestamp, aglomeración (",
       "en": "Using the fields: latitude, longitude, timestamp, agglomeration (",
       "es": "Mediante los campos: latitud, longitud, timestamp, aglomeración (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1-Si",
       "en": "1-Yes",
       "es": "1-Si",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "0-No",
       "en": "0-No",
       "es": "0-No",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "). Creamos un tablero que contenga varios objetos como KPI ‘s, gráficos de barras, gráficos pastel y hasta mapas. Así de manera visual tener una mejor comprensión de los resultados.",
       "en": "). We create a dashboard that contains various objects such as KPIs, bar charts, pie charts and even maps. Thus visually have a better understanding of the results.",
       "es": "). Creamos un tablero que contenga varios objetos como KPI ‘s, gráficos de barras, gráficos pastel y hasta mapas. Así de manera visual tener una mejor comprensión de los resultados.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 21.- Mapa de calor de la ciudad de Guayaquil",
       "en": "Figure 21.- Heat map of the city of Guayaquil",
       "es": "Figura 21.- Mapa de calor de la ciudad de Guayaquil",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dicha información nos permite poder identificar a través de un mapa en qué puntos de la ciudad tenemos más aglomeraciones de basura, en qué fechas y día se identificó la mayor cantidad de aglomeración y hacer una mejora en cuanto a la recolección de basura.",
       "en": "This information allows us to identify through a map in which points of the city we have the most garbage agglomerations, on what dates and days the greatest amount of agglomeration was identified and to make an improvement in terms of garbage collection.",
       "es": "Dicha información nos permite poder identificar a través de un mapa en qué puntos de la ciudad tenemos más aglomeraciones de basura, en qué fechas y día se identificó la mayor cantidad de aglomeración y hacer una mejora en cuanto a la recolección de basura.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "- Basura: los números rojos de Ecuador. (2019, 6 marzo). Plan V.",
       "en": "- Garbage: Ecuador's red numbers. (2019, March 6). Plan V.",
       "es": "- Basura: los números rojos de Ecuador. (2019, 6 marzo). Plan V.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "- F., & de Franspg, V. T. L. E. (2020, 20 septiembre). Generación de datos artificiales (Data Augmentation).",
       "en": "- F., & de Franspg, V. T. L. E. (2020, September 20). Generation of artificial data (Data Augmentation).",
       "es": "- F., & de Franspg, V. T. L. E. (2020, 20 septiembre). Generación de datos artificiales (Data Augmentation).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "- World Bank Group. (2019, 6 marzo). Convivir con basura: el futuro que no queremos. World Bank.",
       "en": "-World Bank Group. (2019, March 6). Living with garbage: the future we don't want. World Bank.",
       "es": "- World Bank Group. (2019, 6 marzo). Convivir con basura: el futuro que no queremos. World Bank.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ingrid León A.",
       "en": "Ingrid León A.",
       "es": "Ingrid León A.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Alessandra Palacios",
       "en": "Alessandra Palacios",
       "es": "Alessandra Palacios",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "César Villarroet",
-      "en": "Cesar Villarroet",
-      "es": "César Villarroet",
-      "reviewed": false
+      "en": "César Villarroel",
+      "es": "César Villarroel",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Iván Ortiz",
-      "en": "Ivan Ortiz",
+      "en": "Iván Ortiz",
       "es": "Iván Ortiz",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Diana López",
-      "en": "Diana Lopez",
+      "en": "Diana López",
       "es": "Diana López",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Diego Sánchez",
-      "en": "Diego Sanchez",
+      "en": "Diego Sánchez",
       "es": "Diego Sánchez",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Toda la explicación en cuanto a implementación, código, entrenamiento del modelo, uso de interfaz y herramienta BI se puede encontrar en el siguiente link:",
       "en": "The entire explanation regarding implementation, code, model training, use of interface and BI tool can be found in the following link:",
       "es": "Toda la explicación en cuanto a implementación, código, entrenamiento del modelo, uso de interfaz y herramienta BI se puede encontrar en el siguiente link:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

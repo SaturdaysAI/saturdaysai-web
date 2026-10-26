@@ -4,9 +4,14 @@
   "segments": [
     {
       "source": "DAWIA – Título superior con IA",
-      "en": "DAWIA – Higher degree with AI",
-      "es": "DAWIA – Título superior con IA",
-      "reviewed": false
+      "en": "DAWIA: web development and artificial intelligence",
+      "es": "DAWIA: desarrollo web e inteligencia artificial",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "DAW + IA",
@@ -256,6 +261,204 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "DAW + AI",
+      "en": "DAW + AI",
+      "es": "DAW + IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Three areas of study",
+      "en": "Three areas of study",
+      "es": "Tres áreas de formación",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The proposed learning approach",
+      "en": "The proposed learning approach",
+      "es": "Cómo se planteó el aprendizaje",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "DAWIA is an initiative from Saturdays.AI and Escola Joan XXIII that combines web application development, artificial intelligence and cloud technologies. The proposal brings together teachers and AI tools to support learning.",
+      "en": "DAWIA is an initiative from Saturdays.AI and Escola Joan XXIII that combines web application development, artificial intelligence and cloud technologies. The proposal brings together teachers and AI tools to support learning.",
+      "es": "DAWIA es una iniciativa de Saturdays.AI con la Escola Joan XXIII que combina desarrollo de aplicaciones web, inteligencia artificial y tecnologías en la nube. La propuesta incorpora docentes y herramientas de IA para apoyar el aprendizaje.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "This page describes the programme as originally announced. Contact DAWIA to confirm the current offer, entry requirements and recognition of each qualification.",
+      "en": "This page describes the programme as originally announced. Contact DAWIA to confirm the current offer, entry requirements and recognition of each qualification.",
+      "es": "La información de esta página describe el programa anunciado originalmente. Consulta con DAWIA la oferta vigente, los requisitos de acceso y el reconocimiento de cada formación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visit the DAWIA website",
+      "en": "Visit the DAWIA website",
+      "es": "Consulta la web de DAWIA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Saturdays.AI training",
+      "en": "Saturdays.AI training",
+      "es": "Formación de Saturdays.AI",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "CFGS DAW: Spain’s higher vocational qualification in Web Application Development.",
+      "en": "CFGS DAW: Spain’s higher vocational qualification in Web Application Development.",
+      "es": "CFGS DAW: Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Specialisation in artificial intelligence and big data.",
+      "en": "Specialisation in artificial intelligence and big data.",
+      "es": "Especialización en inteligencia artificial y big data.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Preparation for AWS cloud developer certification.",
+      "en": "Preparation for AWS cloud developer certification.",
+      "es": "Preparación para la certificación de desarrollo en la nube de AWS.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The programme was designed to run over two years. Preparing for a certification does not mean automatically receiving it: each qualification or certification has its own assessment requirements.",
+      "en": "The programme was designed to run over two years. Preparing for a certification does not mean automatically receiving it: each qualification or certification has its own assessment requirements.",
+      "es": "El programa se planteó para dos años. La preparación para una certificación no equivale a obtenerla: cada título o certificación tiene sus propios requisitos de evaluación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "AI4Schools educational programme",
+      "en": "AI4Schools educational programme",
+      "es": "Programa educativo AI4Schools",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Personalised AI support for practice and questions, alongside guidance from teachers.",
+      "en": "Personalised AI support for practice and questions, alongside guidance from teachers.",
+      "es": "Apoyo de IA personalizado para practicar y resolver dudas, junto con el acompañamiento docente.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Work with software development tools such as React, AWS, Google Cloud, Azure DevOps, Confluence and Jira.",
+      "en": "Work with software development tools such as React, AWS, Google Cloud, Azure DevOps, Confluence and Jira.",
+      "es": "Trabajo con herramientas utilizadas en desarrollo de software, como React, AWS, Google Cloud, Azure DevOps, Confluence y Jira.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Teaching from technology practitioners.",
+      "en": "Teaching from technology practitioners.",
+      "es": "Formación impartida por profesionales del sector tecnológico.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The announced format was online and mainly asynchronous, with an emphasis on placements at organisations that work remotely. Ask the team about current placement conditions and availability.",
+      "en": "The announced format was online and mainly asynchronous, with an emphasis on placements at organisations that work remotely. Ask the team about current placement conditions and availability.",
+      "es": "El formato anunciado era online y principalmente asíncrono, con orientación hacia prácticas en organizaciones que trabajan en remoto. Consulta con el equipo las condiciones y la disponibilidad actual de las prácticas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Find out about the current programme",
+      "en": "Find out about the current programme",
+      "es": "Infórmate sobre el programa actual",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Python4AI resources",
+      "en": "Python4AI resources",
+      "es": "Recursos de Python4AI",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

@@ -109,7 +109,7 @@ El registro continuo de este tipo de datos requiere un programa de aseguramiento
 2.  Se revisó si existe alguna dependencia con rezago en las horas para cada parámetro.
 3.  Se realizó la exploración asociada a la dirección del viento, para identificar alguna dependencia relacionada con la dirección de donde proviene el viento.
 
-Para el análisis exploratorio se empleó la librería [**_Open air_**](http://www.openair.com/) de r-project.
+Para el análisis exploratorio se empleó la librería [**_Open air_**](https://openair-project.github.io/openair/) de r-project.
 
 ## Relleno de datos faltantes
 
@@ -144,7 +144,7 @@ En el caso de los regresores (o covariables) se estandarizan los datos en cada v
 
 ## Ajustar modelos
 
-La librería **_Prophet_** de facebook (**_fbprophet_**),permite pronosticar datos de series de tiempo basado en un modelo aditivo donde las tendencias no lineales se ajustan a la estacionalidad anual, semanal y diaria, más los efectos de los días festivos. Funciona mejor con series de tiempo que tienen marcados efectos estacionales y varias temporadas de datos históricos. Prophet es robusto ante los datos faltantes y los cambios de tendencia, y normalmente maneja bien los valores atípicos.
+La biblioteca Prophet de Facebook (fbprophet en la versión utilizada) permite modelar series temporales mediante una combinación de tendencia, estacionalidad y efectos de días festivos. En este proyecto la utilizamos para explorar los patrones anuales, semanales y diarios de la concentración de contaminantes.
 
 Para modelar la serie temporal Prophet, separamos la señal en los siguientes componentes aditivos:
 
@@ -355,8 +355,8 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esa a
 
 ## **¡Más Inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

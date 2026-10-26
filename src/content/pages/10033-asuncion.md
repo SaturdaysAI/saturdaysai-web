@@ -10,54 +10,24 @@ draft: false
 kind: city
 ---
 
-## Saturdays.AI - Asunción
+## Saturdays.AI in Asunción
 
-Queremos convertir Asunción y Paraguay en referente internacional en Inteligencia Artificial, haciendo la IA accesible a todos los públicos. ¿Os apuntas?
+A community bringing artificial intelligence to Paraguay through learning and projects with a social purpose. Explore the programme and contact the team to find out which activities are available.
 
-**Cuándo**: 14 sábados, TBA
+![Aerial view of Asunción](/media/cee6bc647c0637cd.webp)
 
-**Dónde**: TBA
+## The AI Saturdays experience
 
-**Programa**: Machine Learning
+The Asunción archive describes a proposed 14-Saturday machine learning programme, with sessions from 09:00 to 14:00. It does not confirm a date or venue for a new edition.
 
-: TBA
+Participants learn together, put concepts into practice and build projects. Check the requirements and schedule for each edition before registering.
 
-Pre-registro
+[Explore the AI Saturdays programme](https://saturdays.ai/ai-saturdays/)
 
-[¿No sabes Python?](https://ti.to/saturdaysai/python-4-ai-program)
+## Take the next step
 
-![Asuncion vista aerea](/media/cee6bc647c0637cd.webp)
+To learn Python or explore AI at your own pace, visit our course catalogue. If you are looking for a local activity or would like to help organise one, contact the Saturdays.AI team.
 
-# ¿Cómo es la experiencia?
+[Explore the courses](https://cursos.saturdays.ai/)
 
-#### AI Saturdays Asunción 1ª Edición
-
-Nuestros grupos de estudio tienen lugar los sábados de 9am a 2pm para que todos los apasionados de la IA tengan la oportunidad de aprender mientras construyen proyectos.
-
-[Conoce el programa en detalle](https://tinyurl.com/saicastellon)
-
-![](/media/9b765255de4abe66.webp)
-
-# Nuestros partners locales
-
-Ya sea global o local, apreciamos el apoyo de nuestros socios para que nos ayuden a capacitar a cualquier persona para aprender Inteligencia Artificial.
-
-![Logo\_IoTsens\_2019\_transp-300x300](/media/b3097780fd315cb5.webp)
-
-![uji-bueno](/media/9e11cb661b256d84.webp)
-
-![LOGOTIP ATHENEAEDU](/media/98a8a0738081210d.webp)
-
-# Contactar Asunción City Lead
-
-Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
-
-![](/media/178cce5ebd88a719.webp)
-
-# AI Saturdays Asunción
-
-[PROGRAMA EN DETALLE](https://drive.google.com/file/d/1MmgC3_ME9mK1Ib8Uuy5SlafnFgRw16vo/view)
-
-ÚNETE AHORA
+[Contact Saturdays.AI](https://saturdays.ai/contact/)

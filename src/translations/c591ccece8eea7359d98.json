@@ -6,19 +6,29 @@
       "source": "AI Saturdays Valencia",
       "en": "AI Saturdays Valencia",
       "es": "AI Saturdays Valencia",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Valencia.",
       "en": "Valencia.",
       "es": "Valencia.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Valencia.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Valencia.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Valencia.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -31,6 +41,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -43,34 +58,59 @@
       "source": "Saturdays.AI - Valencia",
       "en": "Saturdays.AI - Valencia",
       "es": "Saturdays.AI - Valencia",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En Valencia somos líderes en Inteligencia Artificial, ¿sabes cómo? Apúntate",
-      "en": "In Valencia we are leaders in Artificial Intelligence, do you know how? Sign up",
-      "es": "En Valencia somos líderes en Inteligencia Artificial, ¿sabes cómo? Apúntate",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Learn artificial intelligence with the Valencia community.",
+      "es": "Aprende inteligencia artificial con la comunidad de Valencia.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": Sábados, empezamos el 7/2/2024",
-      "en": ": Saturdays, we start on 2/7/2024",
-      "es": ": Sábados, empezamos el 7/2/2024",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ": date listed in the archive: 7 February 2024",
+      "es": ": fecha indicada en el archivo: 7 de febrero de 2024",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": Universitat de Valencia",
       "en": ": University of Valencia",
       "es": ": Universitat de Valencia",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Dudas? Contacta al equipo de Valencia:",
       "en": "Doubts? Contact the Valencia team:",
       "es": "¿Dudas? Contacta al equipo de Valencia:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

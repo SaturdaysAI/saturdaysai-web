@@ -4,10 +4,15 @@
   "segments": [
     {
       "source": "Curso-IA-Generativa",
-      "en": "Curso-AI-Generativa",
-      "es": "Curso-IA-Generativa",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Generative AI course",
+      "es": "Curso de IA generativa",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Generative AI ⚔ Multimodal",
@@ -51,8 +56,13 @@
       "source": ": online",
       "en": ": online",
       "es": ": en línea",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Free",
@@ -193,6 +203,193 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Explore generative and multimodal AI",
+      "en": "Explore generative and multimodal AI",
+      "es": "Explora la IA generativa y multimodal",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual examples from the course",
+      "en": "Visual examples from the course",
+      "es": "Ejemplos visuales del curso",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Create thoughtfully",
+      "en": "Create thoughtfully",
+      "es": "Crea con criterio",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Discover how tools generate text, images and other types of content. Learn the foundations of prompt engineering and what it means to work with multimodal models.",
+      "en": "Discover how tools generate text, images and other types of content. Learn the foundations of prompt engineering and what it means to work with multimodal models.",
+      "es": "Descubre cómo funcionan las herramientas que generan texto, imágenes y otros tipos de contenido. Aprende los fundamentos de la ingeniería de prompts y qué significa trabajar con modelos multimodales.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Experiment with practical examples to develop ideas and explore new ways to create. You will also learn to assess the quality of outputs and recognise the limits of these tools.",
+      "en": "Experiment with practical examples to develop ideas and explore new ways to create. You will also learn to assess the quality of outputs and recognise the limits of these tools.",
+      "es": "Experimenta con ejemplos prácticos para desarrollar ideas y explorar nuevas formas de crear. Aprenderás también a valorar la calidad de los resultados y a reconocer los límites de estas herramientas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "The course is available through our online learning platform. Check the curriculum, language and access details there.",
+      "en": "The course is available through our online learning platform. Check the curriculum, language and access details there.",
+      "es": "El curso se encuentra en nuestra plataforma de aprendizaje online. Consulta allí el programa, el idioma y las condiciones de acceso.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 1",
+      "en": "Visual example from the generative AI course 1",
+      "es": "Ejemplo visual del curso de IA generativa 1",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 2",
+      "en": "Visual example from the generative AI course 2",
+      "es": "Ejemplo visual del curso de IA generativa 2",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 3",
+      "en": "Visual example from the generative AI course 3",
+      "es": "Ejemplo visual del curso de IA generativa 3",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 4",
+      "en": "Visual example from the generative AI course 4",
+      "es": "Ejemplo visual del curso de IA generativa 4",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 5",
+      "en": "Visual example from the generative AI course 5",
+      "es": "Ejemplo visual del curso de IA generativa 5",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 6",
+      "en": "Visual example from the generative AI course 6",
+      "es": "Ejemplo visual del curso de IA generativa 6",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 7",
+      "en": "Visual example from the generative AI course 7",
+      "es": "Ejemplo visual del curso de IA generativa 7",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 8",
+      "en": "Visual example from the generative AI course 8",
+      "es": "Ejemplo visual del curso de IA generativa 8",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Visual example from the generative AI course 9",
+      "en": "Visual example from the generative AI course 9",
+      "es": "Ejemplo visual del curso de IA generativa 9",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Creativity goes hand in hand with responsibility. Check the results, respect privacy and consider how the content you generate may affect others.",
+      "en": "Creativity goes hand in hand with responsibility. Check the results, respect privacy and consider how the content you generate may affect others.",
+      "es": "La creatividad va de la mano de la responsabilidad. Comprueba los resultados, respeta la privacidad y considera cómo puede afectar a otras personas lo que generas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Learn about AI Safety / Security",
+      "en": "Learn about AI Safety / Security",
+      "es": "Aprende sobre Seguridad de la IA",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

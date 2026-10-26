@@ -57,9 +57,11 @@ If you want to know more about why to use the Laplace kernel, you can take a loo
 
 Although we initially performed data augmentation, which we will detail below, we decided not to use it as we didn’t notice a difference in the results and the dataset was already diverse.
 
-To **extract the faces** of the videos and images from the dataset, we have used the MTCNN pre-trained model. We imported it with the following line of code:
+To extract faces from the videos and images in the dataset, we used the pretrained MTCNN model and imported it with the following line of code:
 
-**\>>from** facenet\_pytorch **import** MTCNN
+```python
+from facenet_pytorch import MTCNN
+```
 
 This model is explained in the following [medium article](https://medium.com/@iselagradilla94/multi-task-cascaded-convolutional-networks-mtcnn-for-face-detection-and-facial-landmark-alignment-7c21e8007923). In summary, it is a model of 3 consecutive convolutional stages, in which the first one is a CNN where the image is taken and resized at different scales to build an image pyramid. The second stage is a FCN, which is used to obtain the candidate windows and their bounding box regression vectors.
 
@@ -79,7 +81,7 @@ Code of the data augmentation
 
 **Binary Image Classifier using Transfer Learning**
 
-[ResNetV1](https://arxiv.org/pdf/1409.4842v1.pdf) is a model launched in 2015. Before it existed, there were several ways to avoid the leakage gradient problem, however, none of them solved it completely.
+[ResNetV1](https://arxiv.org/abs/1512.03385) is a model launched in 2015. Before it existed, there were several ways to avoid the leakage gradient problem, however, none of them solved it completely.
 
 The ResNet problem allowed us to solve the vanishing gradient problem.
 
@@ -93,7 +95,9 @@ If you want to know more about ResNet and its variants, we recommend this [artic
 
 To load the model in PyTorch you need this line of code:
 
-**\>>from** facenet\_pytorch **import** InceptionResnetV1
+```python
+from facenet_pytorch import InceptionResnetV1
+```
 
 We have configured RESNET so that the last layer has a single class to perform a binary classification between “Real” and “Fake”.
 
@@ -159,8 +163,8 @@ The code can be found in our [GitHub repository](https://github.com/aaronespasa/
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

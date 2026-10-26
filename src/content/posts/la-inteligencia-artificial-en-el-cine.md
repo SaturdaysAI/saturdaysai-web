@@ -22,7 +22,7 @@ draft: false
 
 La inteligencia artificial en el cine parece algo actual, pero, desde que en el año 1902 se estrenó «Viaje a la luna» (primera película de ciencia ficción),en el cine se han desarrollado una gran cantidad de películas en las que la inteligencia artificial está involucrada. Para el gran público, las tramas que giran en torno a máquinas, robots y derivados siempre son de gran interés, habiéndose creado con el tiempo una serie de personajes icónicos.
 
-Personajes como: HAL900 (_**2001:Odisea en el espacio**_, 1968), Wall-E (_**Wall-E**_, 2008), C-3PO y R2-D2 (**_Saga Star Wars_**, desde 1977) o David (**_Inteligencia Aritificial_**, 2001). Esos son algunos de los ejemplos que se nos viene a la cabeza cuando pensamos en personajes míticos del séptimo arte que representan a sistemas inteligentes.
+HAL 9000, de 2001: Una odisea del espacio (1968); WALL-E (2008); C-3PO y R2-D2, de Star Wars, desde 1977; o David, de A.I. Inteligencia Artificial (2001), son algunos de los personajes que recordamos cuando pensamos en sistemas inteligentes en la pantalla.
 
 ![](/media/46599528d1bbe38a.webp)
 
@@ -32,11 +32,11 @@ HAL900
 
 ### Yo, Robot
 
-Existen una gran cantidad de películas y series basadas en los escritos de Isaac Asimov (1920-1992), considerado como el padre de la palabra «robótica» y de las consideradas como «leyes de la robótica». **_«Yo, Robot»_** es una de estas películas, el filme protagonizado por Will Smith transcurre en uno de estos universos creados por Asimov. En la película, Sonny, un robot humanoide, es acusado de matar a su creador, rompiendo así las «leyes de la robótica».
+Isaac Asimov (1920-1992) popularizó las tres leyes de la robótica en sus relatos. Yo, robot, protagonizada por Will Smith, toma ideas de ese universo, aunque no es una adaptación directa del libro del mismo título. Su trama gira en torno a Sonny, un robot humanoide sospechoso de matar a su creador, lo que parece contradecir esas leyes.
 
 ### Terminator
 
-Terminator es una de las sagas más icónicas de la historia del cine, que dejó para el recuerdo frases como _«sayonara, baby»_. En ella podemos ver un escenario de destrucción en el que la inteligencia artificial llamada _«skynet»_ pretende controlar el mundo y exterminar a la humanidad. **Esta película de James Cameron pone el foco en la necesidad del desarrollo de una IA siguiendo una serie de valores éticos.** Eso si no queremos vernos envueltos en una pelea contra un robot exterminador.
+Terminator es una de las sagas más icónicas del cine y nos dejó frases como «sayonara, baby» en su doblaje español. En ella, la IA Skynet busca exterminar a la humanidad. La ficción de James Cameron invita a pensar en las consecuencias de delegar poder en sistemas que escapan al control humano. Más allá del robot exterminador, esa pregunta sigue siendo relevante.
 
 ![](/media/57dbd51aa5f37a5f.webp)
 
@@ -44,7 +44,7 @@ Terminator
 
 ### Be right back (Black Mirror)
 
-No es una película, pero en Black Mirror tenemos una gran serie de Netflix que nunca deja indiferente, y en la que hemos podido ver escenarios algo distópicos (y otros que pasado el tiempo ya no lo son tanto). _**«Be right back»**_ gira en torno a una pareja de jóvenes, Ash y Martha. Ash es asesinado y surge la posibilidad de poder seguir en contacto con él una vez fallecido creando una copia de carne sintética y creando sus «recuerdos» en base a la presencia en redes de Ash. El problema de esta nueva «relación» llega cuando ve que **no tiene ningún tipo de emoción o rasgo de personalidad** sin que ella se lo pida. Entonces, el debate en el que entramos es, **¿nos ayudaría una copia de un ser querido a soportar su pérdida?**
+Aunque no es una película, Black Mirror merece un lugar en esta selección. En el episodio Vuelvo enseguida (Be Right Back), Ash muere en un accidente de tráfico y su pareja, Martha, utiliza un servicio que recrea su forma de comunicarse a partir de su actividad en internet. Después adquiere una réplica física. La distancia entre esa imitación y la persona que conocía abre una pregunta difícil: ¿una copia de alguien querido puede ayudarnos a afrontar su pérdida?
 
 ### Her
 
@@ -56,11 +56,11 @@ Her
 
 ### Blade Runner
 
-El test de Turing hecho película. Eso es la película de Ridley Scott estrenada en 1982, **una prueba en la que tendremos que distinguir entre una inteligencia artificial y un humano, y en el caso de las inteligencias artificiales, si estas pueden llegar a tener tal conciencia que merezcan los mismos derechos que nosotros.** El final de la película deja varias preguntas muy interesantes en el aire acerca de estos temas, una razón más para ver esta gran película.
+Blade Runner, de Ridley Scott, se estrenó en 1982 y plantea qué nos hace humanos a través de sus replicantes, seres artificiales de apariencia humana. La película emplea una prueba ficticia de empatía, distinta del test de Turing. Sus preguntas sobre identidad, conciencia y derechos quedan abiertas hasta el final y son una buena razón para volver a verla.
 
 ## ¿Realidad o ficción?
 
-¿Cuánto de realidad hay en estas películas? Es una pregunta que puede hacerse el público una vez acabada _«Blade Runner»_ o _«Her»_. Y para tranquilizaros, no, los robots exterminadores o IAs asesinas no existen y están lejos de hacerlo, las máquinas que piensan por sí mismas con el objetivo de conseguir beneficio propio es una realidad que en el mundo del cine tiene éxito pero que en el mundo real no tiene recorrido (de momento). Aunque por otra parte, hay que decir que la IA ha cambiado nuestras vidas y eso es sí que es una realidad.
+¿Cuánto de realidad hay en estas historias? El cine combina posibilidades técnicas con metáforas y especulación. Sus personajes no son descripciones de los sistemas actuales ni predicciones fiables del futuro. Eso no significa que los riesgos de la IA sean ficticios: los errores, los sesgos, la manipulación o los usos dañinos merecen atención. Disfrutar de estas películas también puede ser una forma de empezar a debatir qué tecnología queremos construir.
 
 ## Bibliografía
 
@@ -80,8 +80,8 @@ Alejandro Ferrer
 
 ## ¡Más inteligencia artificial!
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master de inteligencia artificial en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

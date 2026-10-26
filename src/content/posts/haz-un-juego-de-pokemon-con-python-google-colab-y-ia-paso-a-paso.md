@@ -61,7 +61,8 @@ El proceso de desarrollo se fue armando paso a paso, y aquí te lo cuento de for
 
 5.  Como resultado, **ChatGPT** me devolvió este código donde se crean para que el juego se vea como se muestran en las capturas anteriores asegurando un estilo coherente y atractivo:
 
-<!-- Inyectamos CSS personalizado para lograr una estética inspirada en Pokémon -->
+```python
+# Estilos de ejemplo para el cuaderno de Pokémon Quiz
 display(HTML('''
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
@@ -72,7 +73,7 @@ body {
   color: #FFF;
   margin: 0;
   padding: 0;
-  min-height: 100vh; /\* Asegura que el cuerpo ocupe toda la altura de la ventana \*/
+  min-height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
 }
 .main-container {
   display: flex;
@@ -83,7 +84,7 @@ body {
   min-height: 100vh;
   padding: 20px;
 }
-/\* Estilo para el splash con fondo y bordes \*/
+/* Estilo para el splash con fondo y bordes */
 .splash {
   border: 5px solid #3D7DCA;
   border-radius: 20px;
@@ -96,7 +97,7 @@ body {
   align-items: center;
 }
 
-/\* Clase para el título Pokémon Quiz \*/
+/* Clase para el título Pokémon Quiz */
 .pokemon-quiz-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 36px;
@@ -104,7 +105,7 @@ body {
   text-shadow: 2px 2px #FFCB05;
 }
 
-/\* Clase para el botón PLAY con tipografía retro \*/
+/* Clase para el botón PLAY con tipografía retro */
 .play-button {
   background-color: #3D7DCA;
   border: none;
@@ -117,32 +118,32 @@ body {
   cursor: pointer;
 }
 
-/\* Clase para la sección de selección de generación \*/
+/* Clase para la sección de selección de generación */
 .gen-selection-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%; /\* Ocupa todo el ancho de la pantalla \*/
-  margin: 20px 0; /\* Añade un margen arriba y abajo \*/
+  width: 100%; /* Ocupa todo el ancho de la pantalla */
+  margin: 20px 0; /* Añade un margen arriba y abajo */
 }
 
-/\* Estilos para el dropdown de generaciones \*/
+/* Estilos para el dropdown de generaciones */
 .widget-dropdown select {
   font-family: 'Press Start 2P', cursive !important;
-  font-size: 16px !important; /\* Aumenta el tamaño de la fuente \*/
-  background-color: #3D7DCA !important; /\* Fondo azul \*/
-  color: #FFCB05 !important; /\* Texto amarillo \*/
-  border: 2px solid #FFCB05 !important; /\* Borde amarillo \*/
-  border-radius: 10px !important; /\* Bordes redondeados \*/
-  padding: 5px !important; /\* Relleno interno \*/
+  font-size: 16px !important; /* Aumenta el tamaño de la fuente */
+  background-color: #3D7DCA !important; /* Fondo azul */
+  color: #FFCB05 !important; /* Texto amarillo */
+  border: 2px solid #FFCB05 !important; /* Borde amarillo */
+  border-radius: 10px !important; /* Bordes redondeados */
+  padding: 5px !important; /* Relleno interno */
   width: auto !important;
-  appearance: none; /\* Elimina el estilo por defecto del dropdown \*/
-  -webkit-appearance: none; /\* Safari y Chrome \*/
-  -moz-appearance: none; /\* Firefox \*/
-  cursor: pointer; /\* Cambia el cursor a "pointer" \*/
+  appearance: none; /* Elimina el estilo por defecto del dropdown */
+  -webkit-appearance: none; /* Safari y Chrome */
+  -moz-appearance: none; /* Firefox */
+  cursor: pointer; /* Cambia el cursor a "pointer" */
 }
 
-/\* Estilos para el botón "Iniciar Juego" \*/
+/* Estilos para el botón "Iniciar Juego" */
 .start-button-style{
     background-color: #3D7DCA;
     border: none;
@@ -155,33 +156,33 @@ body {
     cursor: pointer;
 }
 
-/\* Se asegura que todos los demás botones utilicen la tipografía retro \*/
+/* Se asegura que todos los demás botones utilicen la tipografía retro */
 .widget-button {
   font-family: 'Press Start 2P', cursive !important;
   font-size: 14px !important;
 }
 
-/\* Estilo para imágenes decorativas si se necesitan \*/
+/* Estilo para imágenes decorativas si se necesitan */
 .decor-image {
   width: 100px;
   height: auto;
   margin: 0 20px;
 }
 
-/\* Ajustes para los dropdown\*/
+/* Ajustes para los dropdown*/
 .widget-dropdown .dropdown-label {
     font-family: 'Press Start 2P', cursive;
 }
 .widget-dropdown .dropdown-options {
     font-family: 'Press Start 2P', cursive;
 }
-/\* Estilos para las opciones del dropdown \*/
+/* Estilos para las opciones del dropdown */
 .widget-dropdown select option {
-  background-color: #3D7DCA !important; /\* Fondo azul \*/
-  color: #FFCB05 !important; /\* Texto amarillo \*/
-  font-family: 'Press Start 2P', cursive !important; /\* Tipografía retro \*/
-  font-size: 14px !important; /\* Tamaño de fuente \*/
-  border: 2px solid #FFCB05 !important; /\* Borde amarillo \*/
+  background-color: #3D7DCA !important; /* Fondo azul */
+  color: #FFCB05 !important; /* Texto amarillo */
+  font-family: 'Press Start 2P', cursive !important; /* Tipografía retro */
+  font-size: 14px !important; /* Tamaño de fuente */
+  border: 2px solid #FFCB05 !important; /* Borde amarillo */
   border-radius: 10px !important;
 }
 </style>
@@ -210,6 +211,7 @@ body {
   });
 </script>
 '''))
+```
 
 
 ## **🎯** Conclusión

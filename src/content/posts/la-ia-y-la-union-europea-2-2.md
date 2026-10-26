@@ -20,6 +20,10 @@ draft: false
 
 ![](/media/9fbd0a46790e552c.webp)
 
+Nota editorial: este artículo describe el debate europeo y las propuestas disponibles en marzo de 2022. El Reglamento de IA se aprobó posteriormente, en 2024; las fechas y propuestas que siguen deben leerse en su contexto histórico.
+
+[Marco europeo de IA: información actualizada](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+
 La inteligencia artificial (IA) está cada vez más presente en nuestras vidas y por ello cabe plantearse algunas cuestiones sobre ella desde el plano político y económico. Desde cómo regular su uso hasta pensar en cómo ser una de las potencias punteras en su investigación y producción pueden ser cuestiones clave que los países se planteen. Este es el caso de la Unión Europea, que lucha por convertirse en la potencia mundial en inteligencia artificial frente de EEUU y China.
 
 Para conseguirlo se están creando grandes bases de datos disponibles para empresas europeas e invirtiendo más de 20.000 millones al año para los desarrolladores europeos, teniendo presente la creación de millones de puestos de trabajo en los próximos 5 años enfocado en la IA. Pero, todas estas actividades deberían de realizarse bajo un marco jurídico adecuado en el que se marque una acción conjunta de los países europeos respecto al avance de la implementación de la tecnología de la inteligencia artificial.

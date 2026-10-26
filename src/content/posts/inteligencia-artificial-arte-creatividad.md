@@ -38,8 +38,6 @@ Fabian Ignacio, más conocido como Norero.ve en Instagram y TikTok, donde tiene 
 
 ## **Pablo Talavante: La IA Como una Nueva Herramienta Artística**
 
-**Pablo Talavante: La IA como una Revolución en el Arte Contemporáneo**
-
 Pablo Talavante, un experto en inteligencia artificial y aprendizaje automático, ofrece una perspectiva innovadora sobre la integración de la IA en el arte, comparable a revoluciones pasadas como la fotografía, resaltando su potencial para desbloquear nuevas formas de expresión creativa. Al abordar temas clave como «Inteligencia Artificial en el Arte» y «Derechos de Autor en la Era Digital», Talavante plantea preocupaciones sobre la transparencia y la legislación en el entrenamiento de modelos de IA, un tópico relevante para la audiencia interesada en «Innovación en Arte Digital». Subraya la importancia de la intencionalidad en la creación artística, independientemente de las herramientas utilizadas, lo que resuena con los temas de «Creatividad y Tecnología». Su enfoque en la democratización del arte a través de la IA y la necesidad de equilibrar innovación con respeto a los derechos de autor refleja una comprensión profunda de las complejidades del arte en la era digital, ofreciendo una visión crítica y reflexiva que enriquece el debate sobre cómo la IA está reconfigurando el panorama artístico contemporáneo.
 
 [Aquí](https://saturdays.ai/2023/11/27/redefiniendo-arte-era-ia-pablo-talavante/) puedes leer más sobre lo que opina Talavante sobre arte y inteligencia artificial.
@@ -68,8 +66,8 @@ Dicotomía entre la inteligencia artificial (IA) y el arte.
 
 ## **Información acerca de Saturdays.ai**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

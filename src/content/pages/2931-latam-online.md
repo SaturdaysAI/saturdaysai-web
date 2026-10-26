@@ -37,71 +37,39 @@ Conoce a nuestros alumnos graduados de los cursos de machine learning y deep lea
 
 ![](/media/870f93ea4b066ca1.webp)
 
-Conéctate con nosotros y conoce los **7 proyectos** de  **impacto social** con inteligencia artificial aplicada que nuestros **aifellows** de esta edición implementaron en equipo.
+Conoce los siete proyectos de IA con impacto social que desarrollaron en equipo los AI Fellows de esta edición.
 
 Conoce en qué consiste cada proyecto y a quienes integran el equipo de desarrollo.
 
 dar click en el proyecto de interés
 
-Te invitamos a conocer más sobre los **proyectos** implementados, lee su artículo!
+Lee los artículos de los equipos para conocer sus proyectos.
 
-**1**  
-Angiop.**IA**
-
-**1**  
-Concienc**IA**  
-Ecológica
-
-**2**  
-Ciudad  
-Limp**IA**
-
-**3**  
-Guard**IA**n
-
-**3**  
-Tótem **IA**
-
-**4**  
-Ciclope**IA**
-
-**5**  
-V**IA**Segura
-
-**1**  
-Angiop.**IA**
+Angiop.IA
 
 [![](/media/7c22168383fc949e.webp)](https://medium.com/saturdays-ai/angiop-ai-sistema-de-transformaci%C3%B3n-de-im%C3%A1genes-de-angiotomograf%C3%ADa-por-medio-del-uso-de-e8a93962ab1)
 
-**1**  
-Concienc**IA**  
-Ecológica
+ConciencIA Ecológica
 
 [![](/media/dea5dae916b9d935.webp)](https://medium.com/saturdays-ai/conciencia-ecol%C3%B3gica-contenedor-educativo-inteligente-para-la-gesti%C3%B3n-de-residuos-cap%C3%ADtulo-cd4265fce98c)
 
-**2**  
-Ciudad  
-Limp**IA**
+Ciudad LimpIA
 
 [![](/media/4697a10d8a95a03a.webp)](https://medium.com/saturdays-ai/detecci%C3%B3n-de-aglomeraci%C3%B3n-de-basura-391b015f850f)
 
-**3**  
-Guard**IA**n
+GuardIAn
 
 [![](/media/f85cfba85616fc67.webp)](https://medium.com/saturdays-ai/guardian-deep-learning-como-herramienta-para-reducir-siniestros-de-tr%C3%A1nsito-mediante-la-detecci%C3%B3n-967b20cff3b0)
 
-**3**  
-Tótem **IA**
+Tótem IA
 
 [![](/media/77bd0ab545e72212.webp)](https://medium.com/saturdays-ai/saturdays-ai-grooming-online-5cf7694d4407)
 
-**4**  
-Ciclope**IA**
+CiclopeIA
 
 [![](/media/830139fd65a7129b.webp)](https://medium.com/saturdays-ai/ciclopeia-imaginando-tu-entorno-14dd3781a7ac)
 
-**5**  
-V**IA**Segura
+VIASegura
 
 [![](/media/af86fe08ba49ad10.webp)](https://medium.com/saturdays-ai/viasegura-modelo-predictivo-del-grado-de-severidad-de-siniestros-viales-distribuidos-en-cb740c99b441)
 
@@ -424,8 +392,6 @@ La experiencia online está preparada como un reto intenso para aprender, a la v
 # Contactar LATAM City Lead
 
 Siéntete libre de contarnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
 
 ![](/media/178cce5ebd88a719.webp)
 

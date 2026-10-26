@@ -44,7 +44,7 @@ En otros artículos ya hemos mencionado algunas cuestiones acerca de la categori
 3.  **Sistemas que piensan racionalmente**. Intenta emular nuestro pensamiento lógico-racional que haría posible los dos puntos anteriores.
 4.  **Sistemas que actúan racionalmente.**  Intenta emular el comportamiento racional humano, lo que podría entenderse como una comprensión y unión de los tres puntos anteriores.
 
-Además, hemos de tener presente también la diferenciación entre inteligencia artificial convencional y computacional. Mientras que la primera es conocida como una IA simbólico-deductiva, la otra es conocida como una IA subsimbólica-deductiva. **La IA simbólica deductiva** se basa en un modo de operar, tal y como su nombre indica, deductivo; se basa en un análisis formal y estadístico, a partir del cual escoge la solución a un determinado problema. Puede autorregularse y goza de autonomía. Mientras que **la IA subsimbólica- deductiva**, que se basa en el desarrollo o aprendizaje interactivo, que toma como base datos empíricos.
+Otra distinción útil es la que separa los enfoques simbólicos de los subsimbólicos. No es una división absoluta: pueden combinarse en un mismo sistema. La IA simbólica deductiva representa conocimiento mediante símbolos y reglas explícitas para extraer conclusiones. Por su parte, la IA subsimbólica puede aprender patrones a partir de datos, como ocurre con las redes neuronales.
 
 ## Para reflexionar
 

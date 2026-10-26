@@ -11,42 +11,67 @@
     },
     {
       "source": "Starcoder, es un LLM de código abierto y ético para la generación de código y la asistencia técnica para programadores, ¿mejor que ChatGPT?",
-      "en": "Starcoder, is an open source and ethical LLM for code generation and support for programmers, better than ChatGPT?",
-      "es": "Starcoder, es un LLM de código abierto y ético para la generación de código y la asistencia técnica para programadores, ¿mejor que ChatGPT?",
-      "reviewed": false,
+      "en": "Released in 2023, StarCoder opened up new possibilities for coding with language models. We explore its results, licence and limitations.",
+      "es": "StarCoder, presentado en 2023, abrió nuevas posibilidades para programar con modelos de lenguaje. Repasamos sus resultados, licencia y limitaciones.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "19 may 2023",
       "en": "May 19, 2023",
       "es": "19 may 2023",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un modelo de lenguaje abierto, permisivo y ético para la programación",
-      "en": "An open, permissive and ethical language model for programming",
-      "es": "Un modelo de lenguaje abierto, permisivo y ético para la programación",
-      "reviewed": false,
+      "en": "A language model for programming, with open weights and a responsible-use licence",
+      "es": "Un modelo de lenguaje para programar, con pesos abiertos y una licencia de uso responsable",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "BigCode: democratizando el acceso a herramientas de programación avanzadas.",
       "en": "BigCode: democratizing access to advanced programming tools.",
       "es": "BigCode: democratizando el acceso a herramientas de programación avanzadas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Code LLM: Tecnología de IA para la generación de código de programación",
       "en": "Code LLM: AI technology for programming code generation",
       "es": "Code LLM: Tecnología de IA para la generación de código de programación",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "?StarCoder: la promesa open source de los Code LLM",
@@ -58,86 +83,141 @@
     },
     {
       "source": "Puede ?StarCoder y la alianza rebelde (open-source) desafiar al Imperio (modelos cerrados)?",
-      "en": "Can StarCoder and the rebel alliance (open-source) challenge the Empire (closed models)?",
-      "es": "Puede ?StarCoder y la alianza rebelde (open-source) desafiar al Imperio (modelos cerrados)?",
-      "reviewed": false,
+      "en": "Can StarCoder’s open alliance challenge the empire of closed models?",
+      "es": "¿Puede StarCoder y su alianza abierta desafiar al Imperio de los modelos cerrados?",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Más Allá de la Programación: Lenguaje Natural",
       "en": "Beyond Programming: Natural Language",
       "es": "Más Allá de la Programación: Lenguaje Natural",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ética y Seguridad: Un Compromiso Firme",
       "en": "Ethics and Safety: A Firm Commitment",
       "es": "Ética y Seguridad: Un Compromiso Firme",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aplicaciones Prácticas: Mejorando la Vida de Desarrolladores y usuarios",
       "en": "Practical Applications: Improving the Lives of Developers and Users",
       "es": "Aplicaciones Prácticas: Mejorando la Vida de Desarrolladores y usuarios",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Resumen de Fortalezas y Desafíos de ?StarCoder",
-      "en": "Summary of Strengths and Challenges of ?StarCoder",
-      "es": "Resumen de Fortalezas y Desafíos de ?StarCoder",
-      "reviewed": false,
+      "en": "StarCoder’s strengths and challenges",
+      "es": "Fortalezas y desafíos de StarCoder",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Puntos fuertes",
       "en": "Strengths",
       "es": "Puntos fuertes",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Desafíos",
       "en": "Challenges",
       "es": "Desafíos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Anexo",
       "en": "Annex",
       "es": "Anexo",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Resumen de las características de StarCoder:",
       "en": "Summary of StarCoder Features:",
       "es": "Resumen de las características de StarCoder:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Links para saber más:",
       "en": "Links to know more:",
       "es": "Links para saber más:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Magnitudes básicas para desarrollar LLMs:",
       "en": "Basic quantities to develop LLMs:",
       "es": "Magnitudes básicas para desarrollar LLMs:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "StarCoder",
@@ -148,11 +228,16 @@
     },
     {
       "source": "es un modelo de lenguaje de gran tamaño (LLM por sus siglas en inglés), desarrollado por la comunidad",
-      "en": "is a community-developed large language model (LLM).",
-      "es": "es un modelo de lenguaje de gran tamaño (LLM por sus siglas en inglés), desarrollado por la comunidad",
-      "reviewed": false,
+      "en": "is a large language model (LLM) developed by the",
+      "es": "es un modelo de lenguaje de gran tamaño (LLM) desarrollado por la comunidad",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "BigCode",
@@ -163,41 +248,66 @@
     },
     {
       "source": ", que se lanzó en mayo de 2023. Este modelo ha sido diseñado para trabajar con código de programación y se presenta como una alternativa open source a herramientas como",
-      "en": ", which was launched in May 2023. This model has been designed to work with programming code and is presented as an open source alternative to tools such as",
-      "es": ", que se lanzó en mayo de 2023. Este modelo ha sido diseñado para trabajar con código de programación y se presenta como una alternativa open source a herramientas como",
-      "reviewed": false,
+      "en": " community and released in May 2023. Designed to work with code, it offers an open-weight option alongside services such as",
+      "es": ", lanzado en mayo de 2023. Está diseñado para trabajar con código y ofrece una opción de pesos abiertos frente a servicios como",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "GitHub Copilot",
       "en": "GitHub Copilot",
       "es": "GitHub Copilot",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", o el mismísimo ChatGPT.",
       "en": ", or ChatGPT itself.",
       "es": ", o el mismísimo ChatGPT.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo es mejorar la eficiencia y la productividad de los desarrolladores al generar automáticamente código y corregir errores de sintaxis, entre otras tareas. Pero antes de seguir, veamos quiénes son los responsables que hay detrás de este nuevo modelo, qué significa Code LLM y qué nos aporta StarCoder.",
       "en": "The goal is to improve developer efficiency and productivity by automatically generating code and fixing syntax errors, among other tasks. But before continuing, let's see who are the people behind this new model, what Code LLM means and what StarCoder brings us.",
       "es": "El objetivo es mejorar la eficiencia y la productividad de los desarrolladores al generar automáticamente código y corregir errores de sintaxis, entre otras tareas. Pero antes de seguir, veamos quiénes son los responsables que hay detrás de este nuevo modelo, qué significa Code LLM y qué nos aporta StarCoder.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "es una colaboración de ingenieros y científicos que busca mejorar la forma en que se escribe y se entiende el código, haciendo que la programación sea más accesible y eficiente para todos, desarrollando modelos de lenguaje de programación de alta calidad como StarCoder. Cuenta con el apoyo de ?",
-      "en": "is a collaboration of engineers and scientists that seeks to improve the way code is written and understood, making programming more accessible and efficient for everyone, by developing high-quality programming language models like StarCoder. Does it have the support of?",
-      "es": "es una colaboración de ingenieros y científicos que busca mejorar la forma en que se escribe y se entiende el código, haciendo que la programación sea más accesible y eficiente para todos, desarrollando modelos de lenguaje de programación de alta calidad como StarCoder. Cuenta con el apoyo de ?",
-      "reviewed": false,
+      "en": "is an open scientific collaboration developing language models for code. It aims to make programming more accessible and efficient. It is jointly led by",
+      "es": "es una colaboración científica abierta que desarrolla modelos de lenguaje para código. Busca hacer la programación más accesible y eficiente. Está liderada conjuntamente por",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "HuggingFace",
@@ -215,41 +325,66 @@
     },
     {
       "source": ", aunque es un proyecto abierto y totalmente comunitario.",
-      "en": ", although it is an open and totally community project.",
-      "es": ", aunque es un proyecto abierto y totalmente comunitario.",
-      "reviewed": false,
+      "en": ", with participation from the research community.",
+      "es": ", con participación de la comunidad investigadora.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "StarCoder es fruto de esta colaboración. Otro fruto es",
       "en": "StarCoder is the result of this collaboration. Another fruit is",
       "es": "StarCoder es fruto de esta colaboración. Otro fruto es",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "The Stack,",
       "en": "The Stack,",
       "es": "The Stack,",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "el conjunto de datos de entrenamiento más grande disponible para la programación. Además, BigCode también se preocupa por la responsabilidad en la creación de estos modelos, y trabaja para asegurarse de que sean éticos y justos en su uso.",
-      "en": "the largest training data set available for programming. In addition, BigCode also cares about responsibility in the creation of these models, and works to ensure that they are ethical and fair in their use.",
-      "es": "el conjunto de datos de entrenamiento más grande disponible para la programación. Además, BigCode también se preocupa por la responsabilidad en la creación de estos modelos, y trabaja para asegurarse de que sean éticos y justos en su uso.",
-      "reviewed": false,
+      "en": "a large code dataset with permissive licences. BigCode also investigates responsible model development and ways to reduce the risks of using these systems.",
+      "es": "un gran conjunto de datos de código con licencias permisivas. BigCode también investiga cómo desarrollar estos modelos de forma responsable y reducir los riesgos de su uso.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Características de “The Stack”",
       "en": "Features of “The Stack”",
       "es": "Características de “The Stack”",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los modelos de lenguaje de gran tamaño (",
@@ -293,9 +428,14 @@
       "source": "Como resultado, son capaces de entender el lenguaje de programación y aprender a escribir código a partir de los patrones y la estructura del código en el entrenamiento",
       "en": "As a result, they are able to understand the programming language and learn to write code from the patterns and code structure in the training.",
       "es": "Como resultado, son capaces de entender el lenguaje de programación y aprender a escribir código a partir de los patrones y la estructura del código en el entrenamiento",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta habilidad para",
@@ -336,11 +476,16 @@
     },
     {
       "source": "La comunidad BigCode ha presentado el Code LLM “StarCoder”, que ha su vez se divide en los modelos StarCoder y StarCoderBase. Estos modelos no solo son capaces de completar fragmentos de código, sino que también pueden realizar inferencias rápidas con grandes cantidades de datos.",
-      "en": "The BigCode community has presented the Code LLM “StarCoder”, which is in turn divided into the StarCoder and StarCoderBase models. These models are not only capable of completing code snippets, but they can also perform fast inferences with large amounts of data.",
-      "es": "La comunidad BigCode ha presentado el Code LLM “StarCoder”, que ha su vez se divide en los modelos StarCoder y StarCoderBase. Estos modelos no solo son capaces de completar fragmentos de código, sino que también pueden realizar inferencias rápidas con grandes cantidades de datos.",
-      "reviewed": false,
+      "en": "BigCode introduced two related models: StarCoderBase and StarCoder. Both can complete code and support batch inference; StarCoder adds Python-specific training.",
+      "es": "BigCode presentó dos modelos relacionados: StarCoderBase y StarCoder. Ambos pueden completar código y admiten inferencia por lotes; StarCoder añade entrenamiento específico en Python.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "¿Cómo se ha hecho? Para entrenar estos modelos, BigCode utilizó un conjunto seleccionado y curado de un billón de tokens provenientes de GitHub. Después de este entrenamiento inicial, StarCoderBase fue afinado específicamente para Python. Este proceso de ajuste fino (",
@@ -368,7 +513,7 @@
       "source": "Interfaz en Chat Conversacional de StarCoder",
       "en": "StarCoder Conversational Chat Interface",
       "es": "Interfaz en Chat Conversacional de StarCoder",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "pt",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -381,120 +526,200 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "El rendimiento de estos modelos ha sido evaluado exhaustivamente y se encontró está entre los mejores modelos de lenguaje de código abierto. En particular, StarCoder y StarCoderBase demostraron su superioridad en términos de precisión y velocidad de inferencia, lo que los convierte en excelentes alternativas para los LLMs cerrados como",
-      "en": "The performance of these models has been extensively evaluated and found to be among the best open source language models. In particular, StarCoder and StarCoderBase demonstrated their superiority in terms of inference accuracy and speed, making them excellent alternatives to closed LLMs such as",
-      "es": "El rendimiento de estos modelos ha sido evaluado exhaustivamente y se encontró está entre los mejores modelos de lenguaje de código abierto. En particular, StarCoder y StarCoderBase demostraron su superioridad en términos de precisión y velocidad de inferencia, lo que los convierte en excelentes alternativas para los LLMs cerrados como",
-      "reviewed": false,
+      "en": "The 2023 release evaluations placed StarCoder among the leading openly available code models. These results applied to specific benchmarks and did not establish general superiority over all closed services, such as",
+      "es": "Las evaluaciones de lanzamiento de 2023 situaban a StarCoder entre los modelos abiertos destacados para código. Los resultados correspondían a pruebas concretas y no demostraban superioridad general sobre todos los servicios cerrados, como",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "OpenAI GPT3.5",
       "en": "OpenAI GPT3.5",
       "es": "OpenAI GPT3.5",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", o CoPilot de Microsoft.",
-      "en": ", or CoPilot from Microsoft.",
-      "es": ", o CoPilot de Microsoft.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ", or GitHub Copilot.",
+      "es": ", o GitHub Copilot.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Además de potentes, estos modelos han tenido muy en cuenta la ética y seguridad, tomando medidas para garantizar que el entrenamiento de los modelos no violara la privacidad de los datos, así como evitar la generación de contenido ofensivo o inapropiado, sin ser infalibles.",
-      "en": "In addition to being powerful, these models have taken ethics and security into account, taking measures to ensure that the training of the models does not violate data privacy, as well as avoiding the generation of offensive or inappropriate content, without being infallible.",
-      "es": "Además de potentes, estos modelos han tenido muy en cuenta la ética y seguridad, tomando medidas para garantizar que el entrenamiento de los modelos no violara la privacidad de los datos, así como evitar la generación de contenido ofensivo o inapropiado, sin ser infalibles.",
-      "reviewed": false,
+      "en": "The team introduced measures to reduce privacy risks and improve data traceability. These do not eliminate the possibility of generating incorrect, insecure or offensive content.",
+      "es": "El equipo adoptó medidas para reducir riesgos de privacidad y mejorar la trazabilidad de los datos. Eso no elimina la posibilidad de generar contenido incorrecto, inseguro u ofensivo.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "BigCode ha puesto estos modelos a disposición del público bajo una licencia que permite su uso en aplicaciones comerciales.",
-      "en": "BigCode has made these models available to the public under a license that allows their use in commercial applications.",
-      "es": "BigCode ha puesto estos modelos a disposición del público bajo una licencia que permite su uso en aplicaciones comerciales.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "BigCode released the weights under the BigCode OpenRAIL-M licence, which allows commercial use subject to its terms and restrictions.",
+      "es": "BigCode publicó los pesos bajo la licencia BigCode OpenRAIL-M, que permite usos comerciales sujetos a sus condiciones y restricciones.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La licencia de StarCoder permite a desarrolladores y empresas utilizar estos modelos en sus propias herramientas y aplicaciones, abriendo un mundo de posibilidades para la generación de código asistida por IA, una potencial “",
       "en": "The StarCoder license allows developers and companies to use these models in their own tools and applications, opening up a world of possibilities for AI-assisted code generation, a potential “",
       "es": "La licencia de StarCoder permite a desarrolladores y empresas utilizar estos modelos en sus propias herramientas y aplicaciones, abriendo un mundo de posibilidades para la generación de código asistida por IA, una potencial “",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "explosión cámbrica",
       "en": "cambrian explosion",
       "es": "explosión cámbrica",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "” de aplicaciones basadas en LLMs similar a la producida con",
       "en": "” of applications based on LLMs similar to that produced with",
       "es": "” de aplicaciones basadas en LLMs similar a la producida con",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Stable Diffusion",
       "en": "Stable Diffusion",
       "es": "Stable Diffusion",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "hace unos meses.",
       "en": "a few months ago.",
       "es": "hace unos meses.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para más detalles sobre cómo se entrenó y afinó StarCoder, así como para una discusión en profundidad de sus resultados de rendimiento, se puede consultar el",
       "en": "For more details on how StarCoder was trained and tuned, as well as an in-depth discussion of its performance results, see the",
       "es": "Para más detalles sobre cómo se entrenó y afinó StarCoder, así como para una discusión en profundidad de sus resultados de rendimiento, se puede consultar el",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "paper “",
       "en": "paper “",
       "es": "paper “",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "StarCoder: may the source be with you!",
       "en": "StarCoder: may the source be with you!",
       "es": "StarCoder: ¡que la fuente esté contigo!",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la evaluación de StarCoder, se comparan varios modelos de generación de código utilizando dos métricas principales:",
-      "en": "In the StarCoder evaluation, several code generation models are compared using two main metrics:",
-      "es": "En la evaluación de StarCoder, se comparan varios modelos de generación de código utilizando dos métricas principales:",
-      "reviewed": false,
+      "en": "StarCoder’s release evaluations compared models using two programming benchmarks:",
+      "es": "En las evaluaciones de lanzamiento de StarCoder se compararon modelos mediante dos bancos de pruebas de programación:",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "HumanEval y MBPP.",
       "en": "HumanEval and MBPP.",
       "es": "HumanEval y MBPP.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "HumanEval",
@@ -544,8 +769,13 @@
       "source": "Ranking de LLMs",
       "en": "LLM Ranking",
       "es": "Ranking de LLMs",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Según esta tabla,",
@@ -643,61 +873,101 @@
       "source": "Entonces,",
       "en": "So,",
       "es": "Entonces,",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿puede StarCoder desafiar la hegemonía de OpenAI y sus mejores modelos de lenguaje?",
       "en": "Can StarCoder challenge the hegemony of OpenAI and its best language models?",
       "es": "¿puede StarCoder desafiar la hegemonía de OpenAI y sus mejores modelos de lenguaje?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La respuesta ahora mismo es",
-      "en": "The answer right now is",
-      "es": "La respuesta ahora mismo es",
-      "reviewed": false,
+      "en": "In the 2023 context, the answer was",
+      "es": "En el contexto de 2023, la respuesta era",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "NO, PERO",
       "en": "NO, BUT",
       "es": "NO, PERO",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "se está acortando la distancia significativamente, y en muchas tareas, StarCoder tiene mejor desempeño que",
-      "en": "the gap is being shortened significantly, and in many tasks, StarCoder performs better than",
-      "es": "se está acortando la distancia significativamente, y en muchas tareas, StarCoder tiene mejor desempeño que",
-      "reviewed": false,
+      "en": "the results showed progress: on several benchmarks, StarCoder outperformed code-cushman-001, an older version of",
+      "es": "los resultados mostraban avances: en varias pruebas, StarCoder superaba a code-cushman-001, una versión antigua de",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Codex",
       "en": "Codex",
       "es": "Codex",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", el modelo para código de OpenAI.",
-      "en": ", the model for OpenAI code.",
-      "es": ", el modelo para código de OpenAI.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": ", the OpenAI code model evaluated at that time.",
+      "es": ", el modelo de generación de código de OpenAI evaluado entonces.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Únete a la alianza rebelde de los LLMs con StarCoder",
       "en": "Join the rebel alliance of LLMs with StarCoder",
       "es": "Únete a la alianza rebelde de los LLMs con StarCoder",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una grata sorpresa ha sido encontrar que StarCoder, aunque ha sido diseñado principalmente para trabajar con lenguaje de programación, ha demostrado ser también competente en una variedad de tareas de lenguaje natural, incluyendo",
@@ -814,17 +1084,27 @@
       "source": "Los resultados de estas evaluaciones muestran que StarCoder es capaz de desempeñarse eficazmente en estas tareas de lenguaje natural, aunque su rendimiento puede ser ligeramente inferior al de otros modelos específicos más grandes.",
       "en": "The results of these evaluations show that StarCoder is able to perform effectively on these natural language tasks, although its performance may be slightly lower than other larger specific models.",
       "es": "Los resultados de estas evaluaciones muestran que StarCoder es capaz de desempeñarse eficazmente en estas tareas de lenguaje natural, aunque su rendimiento puede ser ligeramente inferior al de otros modelos específicos más grandes.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "StarCoder ha demostrado su versatilidad más allá de la generación de código, tiene un buen desempeño como modelo de lenguaje para tareas generalistas",
       "en": "StarCoder has demonstrated its versatility beyond code generation, it performs well as a language model for general tasks",
       "es": "StarCoder ha demostrado su versatilidad más allá de la generación de código, tiene un buen desempeño como modelo de lenguaje para tareas generalistas",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El equipo de BigCode han puesto un esfuerzo real, y demostrable, en hacer de StarCoder un modelo lo más seguro y ético posible. Es conocido que uno de los problemas más comunes con los LLMs es la generación de información inexacta o la amplificación de prejuicios existentes. Esto puede llevar a la generación de contenido ofensivo, engañoso, o discriminatorio. Para contrarrestar estos problemas, se han empleado técnicas de alineación procurando un comportamiento ético del modelo y que no se perpetúen o amplifiquen prejuicios y estereotipos dañinos, que es uno de los principales retos con la IA Generativa. En la sección 7.3 del",
@@ -853,137 +1133,227 @@
       "source": "StarCoder no es solo una herramienta teórica de inteligencia artificial, sino una aplicación práctica que puede tener un impacto significativo en la vida cotidiana de los desarrolladores de software. Su capacidad para entender, generar y corregir código puede simplificar y automatizar una serie de tareas, mejorando la eficiencia y la productividad. Entre ellas:",
       "en": "StarCoder is not just a theoretical artificial intelligence tool, but a practical application that can have a significant impact on the daily lives of software developers. Its ability to understand, generate and correct code can simplify and automate a number of tasks, improving efficiency and productivity. Among them:",
       "es": "StarCoder no es solo una herramienta teórica de inteligencia artificial, sino una aplicación práctica que puede tener un impacto significativo en la vida cotidiana de los desarrolladores de software. Su capacidad para entender, generar y corregir código puede simplificar y automatizar una serie de tareas, mejorando la eficiencia y la productividad. Entre ellas:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Automatización de la escritura de código",
       "en": "Automating code writing",
       "es": "Automatización de la escritura de código",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Por ejemplo, un desarrollador puede proporcionar una descripción de alto nivel de la funcionalidad que desea, y StarCoder puede generar automáticamente código útil para implementar esa funcionalidad. Esto puede ahorrar mucho tiempo y esfuerzo, especialmente en tareas repetitivas o estándar, así como evitar el “",
       "en": ". For example, a developer can provide a high-level description of the functionality they want, and StarCoder can automatically generate useful code to implement that functionality. This can save a lot of time and effort, especially on repetitive or standard tasks, as well as avoid “",
       "es": ". Por ejemplo, un desarrollador puede proporcionar una descripción de alto nivel de la funcionalidad que desea, y StarCoder puede generar automáticamente código útil para implementar esa funcionalidad. Esto puede ahorrar mucho tiempo y esfuerzo, especialmente en tareas repetitivas o estándar, así como evitar el “",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "síndrome de la hoja en blanco",
       "en": "blank sheet syndrome",
       "es": "síndrome de la hoja en blanco",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Corrección de errores",
       "en": "Bug fixes",
       "es": "Corrección de errores",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "y QA. Para identificar y corregir errores de sintaxis y semánticos en el código. Una de las tareas más importantes, pero en ocasiones tediosas e ingratas, es la corrección y QA de código, con StarCoder esto se vuelve mucho más dinámico, ayudando a analizar el código existente, sugiriendo correcciones y mejoras, y ayudando a los desarrolladores a evitar errores comunes y mejorar la calidad de su código.",
       "en": "and QA. To identify and correct syntax and semantic errors in the code. One of the most important, but sometimes tedious and thankless, tasks is code correction and QA, with StarCoder this becomes much more dynamic, helping to analyze existing code, suggesting corrections and improvements, and helping developers avoid common errors and improve the quality of their code.",
       "es": "y QA. Para identificar y corregir errores de sintaxis y semánticos en el código. Una de las tareas más importantes, pero en ocasiones tediosas e ingratas, es la corrección y QA de código, con StarCoder esto se vuelve mucho más dinámico, ayudando a analizar el código existente, sugiriendo correcciones y mejoras, y ayudando a los desarrolladores a evitar errores comunes y mejorar la calidad de su código.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Facilitar",
       "en": "Facilitate",
       "es": "Facilitar",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "el",
       "en": "the",
       "es": "el",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "aprendizaje",
       "en": "learning",
       "es": "aprendizaje",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "de nuevos lenguajes de programación. Para los desarrolladores que están aprendiendo un nuevo lenguaje de programación, StarCoder puede ser una herramienta de aprendizaje muy útil. Al proporcionar ejemplos de cómo se ve el código en ese lenguaje, puede ayudar a los desarrolladores a familiarizarse más rápidamente con la sintaxis y las convenciones del nuevo lenguaje.",
       "en": "of new programming languages. For developers learning a new programming language, StarCoder can be a very useful learning tool. By providing examples of what the code looks like in that language, you can help developers more quickly become familiar with the syntax and conventions of the new language.",
       "es": "de nuevos lenguajes de programación. Para los desarrolladores que están aprendiendo un nuevo lenguaje de programación, StarCoder puede ser una herramienta de aprendizaje muy útil. Al proporcionar ejemplos de cómo se ve el código en ese lenguaje, puede ayudar a los desarrolladores a familiarizarse más rápidamente con la sintaxis y las convenciones del nuevo lenguaje.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Refactoring",
       "en": "Refactoring",
       "es": "Refactoring",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "y mejora del código existente. Al analizar el código y sugerir mejoras, ayuda a mantener el código limpio, eficiente y fácil de entender, incluso nos puede generar documentación y comentarios para el código.",
       "en": "and improvement of existing code. By analyzing the code and suggesting improvements, it helps keep the code clean, efficient and easy to understand, and can even generate documentation and comments for the code.",
       "es": "y mejora del código existente. Al analizar el código y sugerir mejoras, ayuda a mantener el código limpio, eficiente y fácil de entender, incluso nos puede generar documentación y comentarios para el código.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En resumen, StarCoder tiene el",
       "en": "In short, StarCoder has the",
       "es": "En resumen, StarCoder tiene el",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "potencial",
       "en": "potential",
       "es": "potencial",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "de ser una herramienta valiosa para los desarrolladores,",
       "en": "to be a valuable tool for developers,",
       "es": "de ser una herramienta valiosa para los desarrolladores,",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "automatizando y simplificando",
       "en": "automating and simplifying",
       "es": "automatizando y simplificando",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "una serie de tareas y ayudando a mejorar la eficiencia y la calidad del código.",
       "en": "a series of tasks and helping to improve efficiency and code quality.",
       "es": "una serie de tareas y ayudando a mejorar la eficiencia y la calidad del código.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ejemplo de cómo integrar “StarCoder” en tus aplicaciones a través de HF Transformers",
       "en": "Example of how to integrate “StarCoder” into your applications through HF Transformers",
       "es": "Ejemplo de cómo integrar “StarCoder” en tus aplicaciones a través de HF Transformers",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es un",
@@ -1012,39 +1382,64 @@
       "source": "Es capaz de procesar entradas con una",
       "en": "It is capable of processing inputs with a",
       "es": "Es capaz de procesar entradas con una",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "longitud de contexto de más de 8.000 tokens",
       "en": "context length of more than 8,000 tokens",
       "es": "longitud de contexto de más de 8.000 tokens",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "pt",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(unas 6.000 palabras en inglés,",
-      "en": "(about 6,000 words in English,",
-      "es": "(unas 6.000 palabras en inglés,",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "(the number of words depends on the language and content and may be",
+      "es": "(el número de palabras depende del idioma y del contenido; puede variar y ser",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "menos en español",
       "en": "less in Spanish",
       "es": "menos en español",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "), lo que lo convierte en uno de los modelos más grandes y potentes disponibles.",
-      "en": "), making it one of the largest and most powerful models available.",
-      "es": "), lo que lo convierte en uno de los modelos más grandes y potentes disponibles.",
-      "reviewed": false,
+      "en": "). This window supports longer snippets, but does not by itself determine the model’s capabilities.",
+      "es": "). Esta ventana permite trabajar con fragmentos extensos, pero no determina por sí sola la capacidad del modelo.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Es una herramienta de",
@@ -1108,94 +1503,154 @@
       "source": "Los investigadores detrás de StarCoder también han proporcionado",
       "en": "The researchers behind StarCoder have also provided",
       "es": "Los investigadores detrás de StarCoder también han proporcionado",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "herramientas de atribución",
       "en": "attribution tools",
       "es": "herramientas de atribución",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para ayudar a los usuarios a identificar el código generado por el modelo y asegurarse de cumplir con los requisitos de licencia correspondientes.",
       "en": "to help users identify code generated by the model and ensure compliance with applicable licensing requirements.",
       "es": "para ayudar a los usuarios a identificar el código generado por el modelo y asegurarse de cumplir con los requisitos de licencia correspondientes.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Al igual que con cualquier modelo de lenguaje natural, StarCoder puede",
       "en": "As with any natural language model, StarCoder can",
       "es": "Al igual que con cualquier modelo de lenguaje natural, StarCoder puede",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "generar resultados inexactos",
       "en": "generate inaccurate results",
       "es": "generar resultados inexactos",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "o no confiables, especialmente si se utiliza en áreas donde la programación es muy especializada o técnica.",
       "en": "or unreliable, especially if used in areas where programming is very specialized or technical.",
       "es": "o no confiables, especialmente si se utiliza en áreas donde la programación es muy especializada o técnica.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "StarCoder puede generar contenido ofensivo, discriminatorio o engañoso. Se han tomado medidas para evitar esto, pero siempre existe el riesgo de que el modelo pueda producir resultados no éticos.",
       "en": "StarCoder may generate offensive, discriminatory or misleading content. Measures have been taken to prevent this, but there is always a risk that the model could produce unethical results.",
       "es": "StarCoder puede generar contenido ofensivo, discriminatorio o engañoso. Se han tomado medidas para evitar esto, pero siempre existe el riesgo de que el modelo pueda producir resultados no éticos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aunque StarCoder es una herramienta de código abierto, aún tiene restricciones de uso que pueden limitar su accesibilidad a algunos desarrolladores.",
-      "en": "Although StarCoder is an open source tool, it still has usage restrictions that may limit its accessibility to some developers.",
-      "es": "Aunque StarCoder es una herramienta de código abierto, aún tiene restricciones de uso que pueden limitar su accesibilidad a algunos desarrolladores.",
-      "reviewed": false,
+      "en": "Although StarCoder’s weights are available, its licence imposes use restrictions that should be reviewed before integration into an application.",
+      "es": "Aunque los pesos de StarCoder están disponibles, su licencia impone restricciones de uso que deben revisarse antes de integrarlo en una aplicación.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La tecnología detrás de StarCoder aún se encuentra en una",
       "en": "The technology behind StarCoder is still in a",
       "es": "La tecnología detrás de StarCoder aún se encuentra en una",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "fase temprana de desarrollo",
       "en": "early development phase",
       "es": "fase temprana de desarrollo",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", lo que significa que aún hay muchos desafíos técnicos que deben abordarse antes de que se convierta en una herramienta ampliamente utilizada.",
       "en": ", meaning there are still many technical challenges that need to be addressed before it becomes a widely used tool.",
       "es": ", lo que significa que aún hay muchos desafíos técnicos que deben abordarse antes de que se convierta en una herramienta ampliamente utilizada.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aunque el modelo ha sido evaluado en inglés, aún no está claro lo bien que funcionará en otros idiomas y cómo se traducirán los resultados en diferentes contextos culturales, en español parece estar funcionando bastante bien.",
-      "en": "Although the model has been evaluated in English, it is still unclear how well it will work in other languages and how the results will translate in different cultural contexts, in Spanish it seems to be working quite well.",
-      "es": "Aunque el modelo ha sido evaluado en inglés, aún no está claro lo bien que funcionará en otros idiomas y cómo se traducirán los resultados en diferentes contextos culturales, en español parece estar funcionando bastante bien.",
-      "reviewed": false,
+      "en": "Results from English-language tests do not guarantee equivalent performance in other languages. Our initial impression in Spanish was positive, but that is no substitute for systematic evaluation.",
+      "es": "Los resultados de las pruebas en inglés no garantizan el mismo rendimiento en otros idiomas. Nuestra impresión inicial en español fue positiva, pero no sustituye una evaluación sistemática.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La inteligencia artificial y el aprendizaje automático (",
@@ -1209,8 +1664,13 @@
       "source": "machine learning",
       "en": "machine learning",
       "es": "machine learning",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") continúan transformando diversos aspectos de nuestra vida, y el desarrollo de software no es una excepción.",
@@ -1232,17 +1692,27 @@
       "source": "Como un modelo de lenguaje de programación a gran escala (LLM), StarCoder abre un mundo de posibilidades. Su capacidad para generar código automáticamente, corregir errores y facilitar el aprendizaje de nuevos lenguajes, puede mejorar mucho la productividad y eficiencia.",
       "en": "As a large-scale programming language model (LLM), StarCoder opens up a world of possibilities. Its ability to automatically generate code, correct errors, and facilitate the learning of new languages ​​can greatly improve productivity and efficiency.",
       "es": "Como un modelo de lenguaje de programación a gran escala (LLM), StarCoder abre un mundo de posibilidades. Su capacidad para generar código automáticamente, corregir errores y facilitar el aprendizaje de nuevos lenguajes, puede mejorar mucho la productividad y eficiencia.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sin embargo, como cualquier tecnología emergente, StarCoder no está exento de desafíos. La generación de contenido inexacto, ofensivo o discriminatorio es un riesgo inherente en cualquier modelo de lenguaje, y aunque se han tomado medidas para mitigar estos riesgos, es crucial seguir trabajando en la mejora continua de estos aspectos.",
       "en": "However, like any emerging technology, StarCoder is not without its challenges. The generation of inaccurate, offensive or discriminatory content is an inherent risk in any language model, and although measures have been taken to mitigate these risks, it is crucial to continue working on the continuous improvement of these aspects.",
       "es": "Sin embargo, como cualquier tecnología emergente, StarCoder no está exento de desafíos. La generación de contenido inexacto, ofensivo o discriminatorio es un riesgo inherente en cualquier modelo de lenguaje, y aunque se han tomado medidas para mitigar estos riesgos, es crucial seguir trabajando en la mejora continua de estos aspectos.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En general, StarCoder representa un salto significativo hacia",
@@ -1280,135 +1750,225 @@
       "source": "¿Qué esperas para probarlo?",
       "en": "What are you waiting for to try it?",
       "es": "¿Qué esperas para probarlo?",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Artículo escrito por",
       "en": "Article written by",
       "es": "Artículo escrito por",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Jesús Sánchez",
-      "en": "Jesus Sanchez",
+      "en": "Jesús Sánchez",
       "es": "Jesús Sánchez",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Las armas no ganan batallas. Tu mente y un buen LLM, poderosa combinación es.",
       "en": "Guns don't win battles. Your mind and a good LLM, a powerful combination it is.",
       "es": "Las armas no ganan batallas. Tu mente y un buen LLM, poderosa combinación es.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "LLM de 15Bn de parámetros y 1Tn de tokens",
-      "en": "LLM of 15Bn parameters and 1Tn tokens",
-      "es": "LLM de 15Bn de parámetros y 1Tn de tokens",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "15.5-billion-parameter LLM pretrained on one trillion tokens",
+      "es": "LLM de 15.500 millones de parámetros, con preentrenamiento de un billón de tokens",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "8k tokens de contexto (un capítulo de largo de juego de tronos)",
-      "en": "8k context tokens (one chapter long of game of thrones)",
-      "es": "8k tokens de contexto (un capítulo de largo de juego de tronos)",
-      "reviewed": false,
+      "en": "8,192-token context window",
+      "es": "Ventana de contexto de 8.192 tokens",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Licencia permisiva que permite el uso comercial",
-      "en": "Permissive license allowing commercial use",
-      "es": "Licencia permisiva que permite el uso comercial",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "BigCode OpenRAIL-M licence: commercial use subject to conditions",
+      "es": "Licencia BigCode OpenRAIL-M: uso comercial sujeto a condiciones",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Asistente para programación y tareas generales",
-      "en": "Scheduling and general task assistant",
-      "es": "Asistente para programación y tareas generales",
-      "reviewed": false,
+      "en": "Assistance with programming and some general tasks",
+      "es": "Asistencia para programación y algunas tareas generales",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Conoce más de 80 lenguajes de programación",
       "en": "Know more than 80 programming languages",
       "es": "Conoce más de 80 lenguajes de programación",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "De código y datos abiertos",
       "en": "Open source and data",
       "es": "De código y datos abiertos",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tiene Plugin en VSCode",
       "en": "Has Plugin in VSCode",
       "es": "Tiene Plugin en VSCode",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Genera código",
       "en": "Generate code",
       "es": "Genera código",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Juega con StarCoder:",
       "en": "Play with StarCoder:",
       "es": "Juega con StarCoder:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prueba el razonamiento:",
       "en": "Try the reasoning:",
       "es": "Prueba el razonamiento:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Explora el conjunto de datos:",
       "en": "Explore the data set:",
       "es": "Explora el conjunto de datos:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Magnitudes a tener en cuenta cuando desarrollas LLMs",
       "en": "Magnitudes to take into account when developing LLMs",
       "es": "Magnitudes a tener en cuenta cuando desarrollas LLMs",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "intel",
       "en": "intel",
       "es": "intel",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 19 may 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on May 19, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on May 19, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 19 may 2023.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "¿StarCoder: ¡Únete a la resistencia!",
@@ -1433,6 +1993,193 @@
       "en": "StarCoder: the open-source promise of code LLMs",
       "es": "StarCoder: la promesa open source de los Code LLM",
       "reviewed": true
+    },
+    {
+      "source": "Los modelos de lenguaje de gran tamaño (LLM) aprenden patrones a partir de grandes volúmenes de texto y pueden generar nuevas secuencias coherentes con el contexto. Cuando se entrenan específicamente con código, hablamos de modelos de lenguaje para código o Code LLMs. Su capacidad para producir una respuesta plausible no garantiza que sea correcta.",
+      "en": "Large language models (LLMs) learn patterns from large volumes of text and can generate new sequences that fit a context. When trained specifically on code, they are often called code language models, or Code LLMs. The ability to produce a plausible response does not guarantee correctness.",
+      "es": "Los modelos de lenguaje de gran tamaño (LLM) aprenden patrones a partir de grandes volúmenes de texto y pueden generar nuevas secuencias coherentes con el contexto. Cuando se entrenan específicamente con código, hablamos de modelos de lenguaje para código o Code LLMs. Su capacidad para producir una respuesta plausible no garantiza que sea correcta.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Los modelos para código utilizan procedimientos de entrenamiento similares a otros LLM, pero incorporan grandes cantidades de programas, documentación y otros textos relacionados. Así aprenden patrones de sintaxis y estructura en distintos lenguajes de programación.",
+      "en": "Code models use training procedures similar to those of other LLMs, but incorporate large quantities of programs, documentation and related text. This allows them to learn syntax and structural patterns across programming languages.",
+      "es": "Los modelos para código utilizan procedimientos de entrenamiento similares a otros LLM, pero incorporan grandes cantidades de programas, documentación y otros textos relacionados. Así aprenden patrones de sintaxis y estructura en distintos lenguajes de programación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Esta capacidad de generar código puede resultar útil para completar fragmentos, proponer correcciones de sintaxis y sugerir soluciones en un entorno de desarrollo. Al reducir parte del trabajo repetitivo, permite dedicar más tiempo a tareas complejas y creativas. El código generado sigue necesitando revisión y pruebas.",
+      "en": "This ability to generate code can help complete snippets, suggest syntax fixes and propose solutions within a development environment. By reducing some repetitive work, it can leave more time for complex and creative tasks. Generated code still needs review and testing.",
+      "es": "Esta capacidad de generar código puede resultar útil para completar fragmentos, proponer correcciones de sintaxis y sugerir soluciones en un entorno de desarrollo. Al reducir parte del trabajo repetitivo, permite dedicar más tiempo a tareas complejas y creativas. El código generado sigue necesitando revisión y pruebas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "¿Cómo se entrenaron? StarCoderBase aprendió a partir de un billón de tokens, es decir, un millón de millones, procedentes de una selección de The Stack. Después se continuó el entrenamiento con 35.000 millones de tokens de Python para obtener StarCoder. Este ajuste buscaba mejorar su rendimiento en ese lenguaje.",
+      "en": "How were they trained? StarCoderBase was trained on one trillion tokens from a selected subset of The Stack. Training then continued on 35 billion Python tokens to produce StarCoder, aiming to improve performance in that language.",
+      "es": "¿Cómo se entrenaron? StarCoderBase aprendió a partir de un billón de tokens, es decir, un millón de millones, procedentes de una selección de The Stack. Después se continuó el entrenamiento con 35.000 millones de tokens de Python para obtener StarCoder. Este ajuste buscaba mejorar su rendimiento en ese lenguaje.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "HumanEval contiene problemas de programación escritos por personas, pero evalúa el código generado mediante pruebas automatizadas. Se comprueba si las funciones producen los resultados esperados; no se trata de un jurado humano que puntúe la legibilidad de cada respuesta.",
+      "en": "HumanEval contains programming problems written by people, but assesses generated code through automated tests. It checks whether functions produce the expected results; it is not a human panel scoring the readability of each answer.",
+      "es": "HumanEval contiene problemas de programación escritos por personas, pero evalúa el código generado mediante pruebas automatizadas. Se comprueba si las funciones producen los resultados esperados; no se trata de un jurado humano que puntúe la legibilidad de cada respuesta.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "MBPP significa Mostly Basic Programming Problems. Reúne tareas de programación en Python descritas en lenguaje natural, junto con pruebas que permiten comprobar las soluciones. No es una comparación de preferencias entre pares de modelos.",
+      "en": "MBPP stands for Mostly Basic Programming Problems. It contains Python programming tasks described in natural language, with tests for checking solutions. It is not a pairwise preference comparison between models.",
+      "es": "MBPP significa Mostly Basic Programming Problems. Reúne tareas de programación en Python descritas en lenguaje natural, junto con pruebas que permiten comprobar las soluciones. No es una comparación de preferencias entre pares de modelos.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En la tabla, StarCoder obtiene 33,6 en HumanEval y 52,7 en MBPP, mientras que StarCoder-Prompted alcanza 40,8 y 49,5, respectivamente. El cambio de prompt mejora una evaluación y empeora la otra, así que conviene comparar cada tarea por separado.",
+      "en": "In the table, StarCoder scores 33.6 on HumanEval and 52.7 on MBPP, while StarCoder-Prompted scores 40.8 and 49.5 respectively. The prompt change improves one result and lowers the other, so each task should be compared separately.",
+      "es": "En la tabla, StarCoder obtiene 33,6 en HumanEval y 52,7 en MBPP, mientras que StarCoder-Prompted alcanza 40,8 y 49,5, respectivamente. El cambio de prompt mejora una evaluación y empeora la otra, así que conviene comparar cada tarea por separado.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La tabla también incluye CodeGen, CodeGeeX, LLaMA, PaLM, LaMDA y una versión de Codex. Sus posiciones cambian según la prueba: CodeGen-16B-Multi y CodeGeeX no ocupan el tercer y cuarto puesto. Comparar modelos exige mirar la tarea, la versión y las condiciones de evaluación, además de la puntuación.",
+      "en": "The table also includes CodeGen, CodeGeeX, LLaMA, PaLM, LaMDA and a version of Codex. Their positions vary by benchmark: CodeGen-16B-Multi and CodeGeeX do not rank third and fourth. Comparing models requires considering the task, version and evaluation conditions as well as the score.",
+      "es": "La tabla también incluye CodeGen, CodeGeeX, LLaMA, PaLM, LaMDA y una versión de Codex. Sus posiciones cambian según la prueba: CodeGen-16B-Multi y CodeGeeX no ocupan el tercer y cuarto puesto. Comparar modelos exige mirar la tarea, la versión y las condiciones de evaluación, además de la puntuación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "StarCoder-Prompted no es un modelo distinto, sino StarCoder con una instrucción de entrada adaptada a la tarea. En esta tabla mejora HumanEval de 33,6 a 40,8, pero reduce MBPP de 52,7 a 49,5. El ejemplo muestra cuánto puede influir el prompt y por qué no conviene hablar de un ganador universal.",
+      "en": "StarCoder-Prompted is not a separate model: it is StarCoder with a task-specific prompt. In this table, it improves HumanEval from 33.6 to 40.8, but lowers MBPP from 52.7 to 49.5. This illustrates how much prompting can matter and why it is unwise to declare a universal winner.",
+      "es": "StarCoder-Prompted no es un modelo distinto, sino StarCoder con una instrucción de entrada adaptada a la tarea. En esta tabla mejora HumanEval de 33,6 a 40,8, pero reduce MBPP de 52,7 a 49,5. El ejemplo muestra cuánto puede influir el prompt y por qué no conviene hablar de un ganador universal.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Aunque StarCoder se diseñó principalmente para código, el trabajo también exploró tareas de lenguaje natural, como razonamiento y comprensión de textos. Es una línea interesante: entrenar con código puede aportar capacidades útiles más allá de programar, aunque no convierte automáticamente al modelo en el mejor para cualquier tarea.",
+      "en": "Although StarCoder was designed primarily for code, the research also explored natural language tasks such as reasoning and text comprehension. This is an interesting direction: code training can support capabilities beyond programming, without automatically making a model the best choice for every task.",
+      "es": "Aunque StarCoder se diseñó principalmente para código, el trabajo también exploró tareas de lenguaje natural, como razonamiento y comprensión de textos. Es una línea interesante: entrenar con código puede aportar capacidades útiles más allá de programar, aunque no convierte automáticamente al modelo en el mejor para cualquier tarea.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "En razonamiento se compararon enfoques como PAL (Program-aided Language Models), que combina generación de programas con ejecución, y CoT (Chain-of-Thought), basado en pasos intermedios. También se estudiaron tareas de conocimiento y comprensión con MMLU (Massive Multitask Language Understanding) y CoQA (Conversational Question Answering).",
+      "en": "Reasoning evaluations compared approaches such as PAL (Program-aided Language Models), which combines program generation with execution, and CoT (Chain-of-Thought), which uses intermediate steps. Knowledge and comprehension tasks were also studied with MMLU (Massive Multitask Language Understanding) and CoQA (Conversational Question Answering).",
+      "es": "En razonamiento se compararon enfoques como PAL (Program-aided Language Models), que combina generación de programas con ejecución, y CoT (Chain-of-Thought), basado en pasos intermedios. También se estudiaron tareas de conocimiento y comprensión con MMLU (Massive Multitask Language Understanding) y CoQA (Conversational Question Answering).",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El equipo de BigCode documentó medidas como el filtrado de información personal, la posibilidad de retirar código del conjunto de datos y las herramientas de atribución. Son pasos hacia un desarrollo responsable, no una certificación de que el modelo sea seguro o esté libre de sesgos. Los LLM pueden generar información falsa, reproducir prejuicios o proponer código vulnerable; por eso es importante estudiar sus límites y revisar sus resultados.",
+      "en": "BigCode documented measures including personal-information filtering, a process for opting code out of the dataset and attribution tools. These are steps towards responsible development, not a certification that the model is safe or free of bias. LLMs can generate false information, reproduce prejudices or suggest vulnerable code, making it important to study their limitations and review their outputs.",
+      "es": "El equipo de BigCode documentó medidas como el filtrado de información personal, la posibilidad de retirar código del conjunto de datos y las herramientas de atribución. Son pasos hacia un desarrollo responsable, no una certificación de que el modelo sea seguro o esté libre de sesgos. Los LLM pueden generar información falsa, reproducir prejuicios o proponer código vulnerable; por eso es importante estudiar sus límites y revisar sus resultados.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Es un modelo de lenguaje para código con pesos disponibles, entrenado con más de 80 lenguajes de programación.",
+      "en": "It is a code language model with available weights, trained on more than 80 programming languages.",
+      "es": "Es un modelo de lenguaje para código con pesos disponibles, entrenado con más de 80 lenguajes de programación.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Los pesos y el código de entrenamiento están disponibles bajo sus respectivas licencias, lo que permite estudiar y adaptar el modelo.",
+      "en": "The weights and training code are available under their respective licences, allowing the model to be studied and adapted.",
+      "es": "Los pesos y el código de entrenamiento están disponibles bajo sus respectivas licencias, lo que permite estudiar y adaptar el modelo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "El proyecto incorpora medidas de desarrollo responsable, aunque siguen existiendo riesgos de privacidad, sesgo y generación de contenido inadecuado.",
+      "en": "The project incorporates responsible-development measures, although privacy, bias and inappropriate-content risks remain.",
+      "es": "El proyecto incorpora medidas de desarrollo responsable, aunque siguen existiendo riesgos de privacidad, sesgo y generación de contenido inadecuado.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "La inteligencia artificial y el aprendizaje automático continúan transformando el desarrollo de software. StarCoder, presentado por BigCode en 2023, fue un paso relevante para ampliar el acceso a modelos capaces de trabajar con código.",
+      "en": "Artificial intelligence and machine learning continue to change software development. StarCoder, released by BigCode in 2023, was a significant step towards wider access to models that work with code.",
+      "es": "La inteligencia artificial y el aprendizaje automático continúan transformando el desarrollo de software. StarCoder, presentado por BigCode en 2023, fue un paso relevante para ampliar el acceso a modelos capaces de trabajar con código.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "StarCoder ilustró en 2023 el potencial de los modelos con pesos disponibles para la programación asistida por IA. Su comunidad, documentación y herramientas permiten estudiar y adaptar el sistema. El reto sigue siendo mejorar su utilidad, evaluar sus limitaciones y revisar el código que genera.",
+      "en": "In 2023, StarCoder illustrated the potential of models with available weights for AI-assisted programming. Its community, documentation and tools make it possible to study and adapt the system. The challenge remains to improve its usefulness, evaluate its limitations and review the code it generates.",
+      "es": "StarCoder ilustró en 2023 el potencial de los modelos con pesos disponibles para la programación asistida por IA. Su comunidad, documentación y herramientas permiten estudiar y adaptar el sistema. El reto sigue siendo mejorar su utilidad, evaluar sus limitaciones y revisar el código que genera.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

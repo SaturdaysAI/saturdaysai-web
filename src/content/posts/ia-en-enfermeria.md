@@ -1,9 +1,8 @@
 ---
 title: IA EN LA ENFERMERÍA
-description: La enfermería es una de las profesiones consideradas con más
-  contacto directo con las personas. A día de hoy, se estudia cómo implementar
-  nuevas estrategias tecnológicas para la sustitución de tareas en este campo
-  con el fin…
+description: "Cómo la IA y la robótica pueden apoyar al personal de enfermería:
+  información clínica, organización de tareas y cuidado centrado en las
+  personas."
 pubDate: 2022-03-22
 author: Info Saturdays
 category: Community

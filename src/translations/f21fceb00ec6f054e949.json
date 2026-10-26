@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro de la Salud",
-      "en": "Podcast S1/E4 – Margarita Sordo – Artificial Intelligence, the future of Health",
-      "es": "Podcast T1/E4 – Margarita Sordo – Inteligencia Artificial, el futuro de la Salud",
-      "reviewed": false,
+      "en": "Podcast S1/E04: Margarita Sordo — AI and the future of healthcare",
+      "es": "Podcast T1/E04: Margarita Sordo — La IA y el futuro de la salud",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -19,15 +19,25 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "T1 / E4",
       "en": "T1 / E4",
       "es": "T1 / E4",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En este episodio invitamos a Margarita Sordo quien nos platica sobre su trayectoria en el mundo de la Inteligencia Artificial y la Salud",
@@ -52,7 +62,7 @@
       "source": "13 dic 2021",
       "en": "Dec 13, 2021",
       "es": "13 dic 2021",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -64,6 +74,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -108,15 +123,20 @@
       "source": "Sobre Margarita Sordo",
       "en": "About Margarita Sordo",
       "es": "Sobre Margarita Sordo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Presentación Margarita Sordo, ¿Quién es?",
       "en": "– Meet Margarita Sordo",
       "es": "– Presentación Margarita Sordo, ¿Quién es?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -129,13 +149,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "8 – ¿Cómo pasó de la parte académica a la parte profesional con la Inteligencia Artificial?",
-      "en": "8 – How did you go from the academic part to the professional part with Artificial Intelligence?",
+      "en": "8 – How did you move from academic research to applied AI?",
       "es": "8 – ¿Cómo pasó de la parte académica a la parte profesional con la Inteligencia Artificial?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -148,13 +173,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Qué le motivó a indagar en el camino de la IA, aplicándola a la medicina?",
-      "en": "– What motivated you to investigate the path of AI, applying it to medicine?",
+      "en": "– What drew you to AI for medicine?",
       "es": "– ¿Qué le motivó a indagar en el camino de la IA, aplicándola a la medicina?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -167,6 +197,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -197,7 +232,7 @@
       "source": "– Retos a los que se ha enfrentado",
       "en": "– Challenges you have faced",
       "es": "– Retos a los que se ha enfrentado",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -210,13 +245,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Cuál es el próximo paso en la medicina con la IA?",
       "en": "– What is the next step in medicine with AI?",
       "es": "– ¿Cuál es el próximo paso en la medicina con la IA?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -229,13 +269,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Recomendaciones a los oyentes",
-      "en": "– Recommendations to listeners",
+      "en": "– Advice for listeners",
       "es": "– Recomendaciones a los oyentes",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -248,13 +293,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 13 dic 2021.",
-      "en": "A history of the Saturdays.AI community. Originally published on December 13, 2021.",
+      "en": "A story from the Saturdays.AI community. Originally published on December 13, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 13 dic 2021.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -267,6 +317,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
       }
     },
     {

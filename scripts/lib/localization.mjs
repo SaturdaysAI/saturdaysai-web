@@ -6,6 +6,14 @@ import { load } from 'cheerio';
 export const normalize = (value) => value.replace(/\s+/g, ' ').trim();
 export const key = (text) =>
   createHash('sha256').update(normalize(text)).digest('hex').slice(0, 20);
+
+// A reviewed CMS entry is the editable source of truth. Overrides supply initial
+// editorial/brand copy until a segment has been collected and reviewed.
+export function localizedText(catalog, overrides, source, language) {
+  const segment = catalog.get(key(source));
+  if (segment?.reviewed && typeof segment[language] === 'string') return segment[language];
+  return overrides[source]?.[language] ?? (segment?.[language] || undefined);
+}
 const excluded =
   'script,style,svg,code,pre,[translate="no"],[data-language],.brand,.art-sticker,.art-code,.post-author,.author-name,.post-byline > span,.city-card h2,.city-tags a:not(:last-child),.article-author strong,.author-avatar,.archived-comments footer';
 const preserve =

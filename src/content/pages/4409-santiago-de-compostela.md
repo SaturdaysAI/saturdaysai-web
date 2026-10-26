@@ -22,8 +22,6 @@ kind: city
 
 **Programa**: Machine Learning
 
-: 249 199
-
 [Únete ahora](https://ti.to/saturdaysai/ai-saturdays-santiago-de-compostela)
 
 ![](/media/eaf9396ffae66ea0.webp)
@@ -65,7 +63,5 @@ Ya sea global o local, agradecemos el apoyo de nuestros socios para que nos ayud
 # Contactar SCQ City Lead
 
 Siéntete libre de contarnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
 
 ![](/media/178cce5ebd88a719.webp)

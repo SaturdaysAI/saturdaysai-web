@@ -4,39 +4,49 @@
   "segments": [
     {
       "source": "Integrantes: Alanoca Huaycho, Alvaro (https://www.linkedin.com/in/alvaro-alanoca-huaycho-b582b6139/) Martínez Alegría, Albert (https://www.linkedin.com/in/albert-martinez-alegria/ ) INTRODUCCIÓN Uno de los mayores problemas a…",
-      "en": "Members: Alanoca Huaycho, Alvaro (https://www.linkedin.com/in/alvaro-alanoca-huaycho-b582b6139/) Martínez Alegría, Albert (https://www.linkedin.com/in/albert-martinez-alegria/) INTRODUCTION One of the biggest problems…",
-      "es": "Integrantes: Alanoca Huaycho, Alvaro (https://www.linkedin.com/in/alvaro-alanoca-huaycho-b582b6139/) Martínez Alegría, Albert (https://www.linkedin.com/in/albert-martinez-alegria/ ) INTRODUCCIÓN Uno de los mayores problemas a…",
+      "en": "A predictive-maintenance project using LSTM networks and simulated turbofan data to explore early failure detection.",
+      "es": "Un proyecto de mantenimiento predictivo que aplica redes LSTM a datos simulados de turboventiladores para explorar la detección anticipada de fallos.",
       "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Alanoca Huaycho, Alvaro",
       "en": "Alanoca Huaycho, Alvaro",
       "es": "Alanoca Huaycho, Alvaro",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Martínez Alegría, Albert",
       "en": "Martínez Alegría, Albert",
       "es": "Martínez Alegría, Albert",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Uno de los mayores problemas a nivel industrial es el mantenimiento correctivo, debido a sus elevados costes tanto de reparación, como de producción. Por otra parte el mantenimiento preventivo está planificado por medio de una agenda para realizar un paro programado, donde no interesa si el equipo aún puede trabajar o si sus piezas siguen bien; se realiza el mantenimiento porque así fue programado.",
-      "en": "One of the biggest problems at an industrial level is corrective maintenance, due to its high costs of both repair and production. On the other hand, preventive maintenance is planned through an agenda to carry out a scheduled stoppage, where it does not matter if the equipment can still work or if its parts are still good; maintenance is carried out because it was scheduled that way.",
-      "es": "Uno de los mayores problemas a nivel industrial es el mantenimiento correctivo, debido a sus elevados costes tanto de reparación, como de producción. Por otra parte el mantenimiento preventivo está planificado por medio de una agenda para realizar un paro programado, donde no interesa si el equipo aún puede trabajar o si sus piezas siguen bien; se realiza el mantenimiento porque así fue programado.",
-      "reviewed": false,
+      "en": "Corrective maintenance can be costly: a breakdown can stop production as well as require repairs. Preventive maintenance schedules work at defined intervals, even when some parts may still be usable. The challenge is to complement these approaches with information about the equipment’s actual condition.",
+      "es": "El mantenimiento correctivo puede resultar costoso: además de la reparación, una avería puede detener la producción. El mantenimiento preventivo, en cambio, programa intervenciones según intervalos definidos, aunque algunas piezas todavía puedan seguir funcionando. El reto es complementar estos enfoques con información sobre el estado real de los equipos.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -49,13 +59,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Por medio de esta aplicación podemos determinar el tiempo de falla de una máquina rotativa, gracias al análisis de datos de dicho equipo. Por ende, se tiene el tiempo suficiente para comprar repuestos y planificar un mantenimiento programado, mitigando los costes de mantenimiento de la empresa.",
-      "en": "Through this application we can determine the failure time of a rotating machine, thanks to the data analysis of said equipment. Therefore, there is enough time to purchase spare parts and plan scheduled maintenance, mitigating the company's maintenance costs.",
-      "es": "Por medio de esta aplicación podemos determinar el tiempo de falla de una máquina rotativa, gracias al análisis de datos de dicho equipo. Por ende, se tiene el tiempo suficiente para comprar repuestos y planificar un mantenimiento programado, mitigando los costes de mantenimiento de la empresa.",
-      "reviewed": false,
+      "en": "The application demonstrates how equipment data can be analysed to explore early failure detection. With further validation, this approach could support maintenance planning and spare-part purchases; the experiment does not establish the exact time of a failure.",
+      "es": "La aplicación muestra cómo analizar datos de un equipo para explorar la detección anticipada de fallos. Con validación adicional, este tipo de enfoque podría ayudar a planificar el mantenimiento y la compra de repuestos; el experimento no demuestra que determine el momento exacto de una avería.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -68,6 +83,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     }
   ]

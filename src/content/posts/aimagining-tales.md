@@ -1,9 +1,7 @@
 ---
 title: AImagining Tales
-description: AImagining Tales es un proyecto que nace en la quinta edición del
-  curso de Saturdays AI Madrid, como propuesta para el desafío de crear un
-  proyecto de impacto social utilizando la Inteligencia Artificial. La finalidad
-  de este…
+description: Un prototipo de Saturdays.AI Madrid que resume cuentos con T5,
+  genera ilustraciones con VQGAN+CLIP y reúne texto e imágenes en un PDF.
 pubDate: 2023-06-07
 author: Info Saturdays
 category: AI for good
@@ -94,7 +92,7 @@ Actualmente, existen multitud de modelos preentrenados con este propósito, la m
 
 En particular, en este proyecto hemos tomado como base tanto el _tokenizer_ como el _summerizer_ del modelo [_t5_ de Google](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) y lo hemos reentrenado con nuestro propio conjunto de datos para que sea capaz de interpretar y resumir no solo narraciones sino también diálogos. Este procedimiento de reentrenamiento para adaptarlo a una nueva tarea es lo que se conoce como _transfer learning_.
 
-Nota a navegantes extraviados: La tokenización es el paso previo al entrenamiento del modelo en tareas de NLP. Las redes neuronales habituales se entrenan realizando un montón de operaciones tensoriales con datos en formato numérico. Cuando trabajamos con texto es necesario convertirlo a formato numérico para que la red sea capaz de interpretarlo. Un tokenizador es el componente encargado de llevar a cabo dicha conversión, generalmente basado en mecanismos de _one hot encoding_ o _embeddings._
+Nota para orientarse: el tokenizador divide el texto en unidades llamadas tokens y les asigna identificadores numéricos. El modelo transforma esos identificadores en representaciones vectoriales o embeddings. Tokenizar y crear embeddings son pasos relacionados, pero distintos.
 
 Una vez entrenado con nuestros datos, el nuevo modelo debería ser capaz de resumir el contenido literario mejor que el original. Este resumen de salida del _summarizer_ va a ser consumido por el modelo generador de imágenes.
 
@@ -146,8 +144,8 @@ Si te has quedado con ganas de más y quieres revisar el código en mayor profun
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

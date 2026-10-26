@@ -156,7 +156,7 @@ El buscador de Home te lleva a **/wiki?search=TERM**. El índice lee ese paráme
 
 ### **Páginas de sección (listas)**
 
-Todas comparten patrón: ponen un fondo específico (fondoX) en –page-bg, y renderizan <Gallery> con sus datos e imágenes:
+Todas comparten un patrón: asignan el fondo específico de la sección a la variable CSS `--page-bg` y muestran el componente `Gallery` con sus datos e imágenes:
 
 #### **Bosses**
 

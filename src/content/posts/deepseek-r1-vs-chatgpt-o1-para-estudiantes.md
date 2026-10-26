@@ -20,9 +20,9 @@ Nota editorial: esta comparativa recoge una experiencia de 2025, no una evaluaci
 
 En el mundo de la **inteligencia artificial** aplicada a la educación, dos nombres destacan por su capacidad para ayudar a los estudiantes: **DeepSeek-R1** y [**ChatGPT-o1**](https://saturdays.ai/2024/12/16/chatgpt-tu-companero-en-bachillerato/). En esta comparativa, exploramos sus fortalezas y debilidades para que puedas elegir la herramienta que mejor se adapte a tus necesidades académicas, ya sea para resolver problemas matemáticos, redactar ensayos o aprender algo nuevo.
 
-**DeepSeek-R1** se presenta como una opción práctica para estudiantes, ofreciendo precisión y velocidad en respuestas técnicas, ideales para materias como matemáticas, física y programación. Además, es **100% gratuito**, lo que lo convierte en una opción accesible.
+En esta experiencia utilicé DeepSeek-R1 para preguntas técnicas de matemáticas, física y programación. El acceso al chat que probé no requería una suscripción de pago, lo que me resultó útil como estudiante. Esto no significa que todos los servicios o despliegues del modelo sean gratuitos.
 
-Por otro lado, **ChatGPT-o1**, desarrollado por OpenAI, es reconocido por su **versatilidad** y **creatividad**, integrando servicios adicionales como DALL-E para generar imágenes. Aunque sus respuestas pueden ser más detalladas, su versión de pago puede ser un obstáculo para algunos estudiantes.
+También probé o1 a través de ChatGPT, el servicio de OpenAI. Conviene distinguir el modelo de la aplicación: las herramientas de imagen, voz o vídeo que pueda ofrecer ChatGPT no son necesariamente capacidades de o1. Mi comparación se centra en los ejemplos de estudio y programación que se muestran aquí.
 
 ## 1\. Precisión y Velocidad
 

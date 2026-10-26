@@ -1,6 +1,9 @@
 ---
-title: "WomanLife: Deep Learning for the detection and classification of breast cancer"
-description: La Paz. Deep Learning. 2021 Today, thanks to deep learning algorithms of artificial intelligence, we have the possibility to automate the classification of images, so this tool can help medical personnel in the classification…
+title: "WomanLife: Deep Learning for the detection and classification of breast
+  cancer"
+description: WomanLife explora la clasificación de ecografías de mama con
+  TensorFlow y Keras. Un proyecto educativo con tres clases de imagen y límites
+  clínicos explícitos.
 pubDate: 2021-12-31
 author: Miguel Guerrero
 category: AI for good
@@ -14,7 +17,8 @@ tags:
   - Salud y Bienestar
   - TensorFlow
 image: /media/5f76b0770c28e227.webp
-imageAlt: "WomanLife: Deep Learning for the detection and classification of breast cancer"
+imageAlt: "WomanLife: Deep Learning for the detection and classification of
+  breast cancer"
 legacyPath: /2021/12/31/womanlife-deep-learning-for-the-detection-and-classification-of-breast-cancer-2/
 sourceUrl: https://saturdays.ai/2021/12/31/womanlife-deep-learning-for-the-detection-and-classification-of-breast-cancer-2/
 sourceId: 5088
@@ -225,6 +229,6 @@ Systems Engineer passionated to Deep Learning and Artificial Inteligence
 
 Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of rogramas intensivos donde se realizan proyectos para el bien (_#ai4good_).
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

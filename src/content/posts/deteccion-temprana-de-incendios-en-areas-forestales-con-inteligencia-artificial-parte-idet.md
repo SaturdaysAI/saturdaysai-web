@@ -1,10 +1,8 @@
 ---
 title: Detección Temprana de Incendios en Áreas Forestales con Inteligencia
   Artificial- Parte I
-description: Quito. 2021 ¿Sabes cuántas hectáreas se queman cada año por causa
-  de incendios forestales? ¿Sabías que producto de esto muchas especies dejan su
-  hábitat en busca de un nuevo hogar?¿Me creerías si te dijera que podemos
-  utilizar…
+description: Un equipo de Quito desarrolla un prototipo con YOLOv5 para detectar
+  fuego en imágenes y explora su futura integración con drones.
 pubDate: 2021-11-19
 author: Miguel Guerrero
 category: AI for good
@@ -50,9 +48,9 @@ Esquema del funcionamiento
 ##   
 **Problemática**
 
-Enel 2020, más de [5.5 millones](https://www.wwf.es/?54921/Informe-incendios-forestales-2020-El-planeta-en-llamas) de hectáreas fueron devastadas por incendios forestales a nivel mundial teniendo un gran impacto sobre la flora y fauna salvaje que habitaba en esta área.
+Los incendios forestales dañan ecosistemas y desplazan a numerosas especies. La magnitud del problema motivó este proyecto de detección temprana.
 
-En Ecuador, en el mismo año se perdieron aproximadamente [23.462](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/11/Informe-de-Situacion-No-005-Incendios-Forestales-08112020_17h00.pdf) hectáreas y debido a la estructura montañosa de los lugares es complicado para los bomberos llegar a tiempo. El fuego devastador devoró todo a sus alrededores y tuvieron que pasar en el mejor de los casos semanas para mitigar el incendio y en el peor de los casos meses.
+En Ecuador, el relieve montañoso puede dificultar que los equipos de emergencia lleguen a las zonas afectadas. Detectar indicios de fuego con antelación podría ayudar a organizar la respuesta.
 
 Ante este alarmante problema con impacto social y ambiental se pensaron soluciones que ayuden a detectar a tiempo los incendios forestales, es entonces cómo surge la idea de fusionar la Inteligencia Artificial (de ahora en adelante I.A.) con un dron para la detección temprana de incendios en las áreas forestales de nuestro país. La idea consiste en entrenar un modelo de I.A. (detectar fuego en cualquier superficie) que interactúe con el dron el cual dispondrá de una cámara y un _GPS_, por lo tanto, en tiempo real se sabrá la posición del incendio y enviará una alarma a los bomberos para su mitigación.
 
@@ -157,7 +155,7 @@ Matriz de confusión
 
 **Curva de Precisión de Recuperación (PR)**
 
-La curva PR se la utilizó para la evaluación de rendimiento de nuestro modelo. En la Figura se observa que el AP(Promedio de Precisión) es de 0.5, un nivel de precisión normal para empezar. Para conocimiento general, si este valor se acerque más a 1 será mucho mejor el [nivel de precisión](https://medium.com/bluekiri/curvas-pr-y-roc-1489fbd9a527) de nuestro modelo.
+La curva precisión-recall resume el equilibrio entre la precisión de las detecciones y la proporción de casos que se detectan. El material del proyecto informa de un AP (precisión media) de 0,5. Es un resultado inicial que debe interpretarse junto con el conjunto de evaluación y el criterio usado para considerar correcta una detección.
 
 ![](/media/1c4db728a057269c.webp)
 
@@ -179,11 +177,11 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esa a
 ##   
 **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](http://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](http://www.saturdays.ai/) ¡te esperamos! [Saturdays.AI](https://medium.com/saturdays-ai?source=post_sidebar--------------------------post_sidebar--------------)
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 
 
@@ -206,3 +204,10 @@ I am a very curious and sometimes an intrepid person. I love learning and build 
 ## [Saturdays.AI](https://medium.com/saturdays-ai?source=follow_footer-----ad6865c1d2e5-----------------------------------)
 
 Saturdays.AI is an impact-focused organization on a mission to empower diverse individuals to learn Artificial Intelligence in a collaborative and project-based way, beyond the conventional path of traditional education.
+
+
+### Referencias del artículo
+
+- [Informe de WWF sobre incendios forestales (2020)](https://www.wwf.es/?54921/Informe-incendios-forestales-2020-El-planeta-en-llamas)
+- [Informe de situación sobre incendios forestales en Ecuador (2020)](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/11/Informe-de-Situacion-No-005-Incendios-Forestales-08112020_17h00.pdf)
+- [Lectura complementaria sobre curvas PR y ROC](https://medium.com/bluekiri/curvas-pr-y-roc-1489fbd9a527)

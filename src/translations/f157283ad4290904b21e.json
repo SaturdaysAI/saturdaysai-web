@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "Podcast T3/E1 – Moody AI – Detección de emociones por medio de la expresión facial",
-      "en": "Podcast S3/E1 – Moody AI – Emotion detection through facial expression",
-      "es": "Podcast T3/E1 – Moody AI – Detección de emociones por medio de la expresión facial",
-      "reviewed": false,
+      "en": "Podcast S3/E01: Moody AI — Facial expression classification",
+      "es": "Podcast T3/E01: Moody AI — Clasificación de expresiones faciales",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -19,15 +19,25 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "T3 / E1",
       "en": "T3 / E1",
       "es": "T3 / E1",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Bienvenidos a la 3º temporada de SATURDAYS AI Podcast. Arrancamos entrevistando a los ganadores de la última edición de AI Saturdays Guadalajara; Raúl Sandoval, Aldo Álvarez y Leonardo Valdés.",
@@ -141,25 +151,35 @@
     },
     {
       "source": "Artículo",
-      "en": "Artículo",
+      "en": "Article",
       "es": "Artículo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Demoday",
       "en": "Demoday",
       "es": "Demoday",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "– Presentación grupo ¿Quiénes son?",
-      "en": "– Group presentation Who are they?",
+      "en": "– Meet the team",
       "es": "– Presentación grupo ¿Quiénes son?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -172,13 +192,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Cómo se enteraron de Saturdays.ai?",
       "en": "– How did you find out about Saturdays.ai?",
       "es": "– ¿Cómo se enteraron de Saturdays.ai?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -191,13 +216,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Qué es Moody? ¿Cómo surge esta idea?",
       "en": "– What is Moody? How did this idea come about?",
       "es": "– ¿Qué es Moody? ¿Cómo surge esta idea?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -210,13 +240,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– Leonardo como mentor, ¿Cómo vivió el proyecto y cuáles fueron sus aportes al equipo?",
       "en": "– Leonardo as a mentor, how did you experience the project and what were your contributions to the team?",
       "es": "– Leonardo como mentor, ¿Cómo vivió el proyecto y cuáles fueron sus aportes al equipo?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -229,13 +264,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Cuáles fueron los retos más grandes en el proceso de desarrollo del proyecto?",
       "en": "– What were the biggest challenges in the project development process?",
       "es": "– ¿Cuáles fueron los retos más grandes en el proceso de desarrollo del proyecto?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -248,13 +288,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– ¿Cuál es el futuro de Moody?",
       "en": "– What is the future of Moody?",
       "es": "– ¿Cuál es el futuro de Moody?",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -267,6 +312,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {

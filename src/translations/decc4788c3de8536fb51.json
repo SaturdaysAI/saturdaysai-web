@@ -86,7 +86,7 @@
       "source": "Federico dos Reis 🇦🇷",
       "en": "Federico dos Reis 🇦🇷",
       "es": "Federico dos Reyes 🇦🇷",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -98,6 +98,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -122,32 +127,42 @@
       "source": "AI Saturdays La Paz Machine Learning",
       "en": "AI Saturdays La Paz Machine Learning",
       "es": "AI Saturdays La Paz Machine Learning",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ": 06 de Julio",
-      "en": ": July 6",
-      "es": ": 06 de Julio",
+      "en": ": 6 July, according to the original announcement",
+      "es": ": 6 de julio, según la convocatoria original",
       "reviewed": true,
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ": Machine Learning 3º edición",
-      "en": ": Machine Learning 3rd edition",
-      "es": ": Machine Learning 3º edición",
-      "reviewed": false,
+      "en": ": third machine learning edition (archive)",
+      "es": ": tercera edición de machine learning (archivo)",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": ": 150 USD / Bs. 1050",
@@ -187,7 +202,7 @@
       "source": "Inscripciones",
       "en": "Registrations",
       "es": "Inscripciones",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -199,6 +214,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -211,9 +231,9 @@
     },
     {
       "source": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
-      "en": "We will start with basic concepts with Machine Learning. Then we will start with supervised Machine Learning looking at the first Machine Learning methods: K Nearest Neighbors, K-D trees. We will also review the Netflix case.",
-      "es": "Iniciaremos con conceptos básicos con Machine Learning. Después empezaremos con Machine Learning supervisado viendo los primeros métodos de Machine Learning: K Nearest Neighbors, K-D trees. También revisaremos sobre el caso Netflix.",
-      "reviewed": false,
+      "en": "We will begin with the basics of machine learning and supervised learning. We will study k-nearest neighbours (k-NN) and k-d trees, and examine the Netflix case study.",
+      "es": "Comenzaremos con los conceptos básicos de machine learning y el aprendizaje supervisado. Estudiaremos los vecinos más cercanos (k-NN) y los árboles k-d, y analizaremos el caso de Netflix.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -226,13 +246,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
-      "en": "We will continue with the different methods based on decision trees: Decision Trees, Regression Trees, Classification Trees. We will review CHAID, CART.",
-      "es": "Continuaremos con los distintos métodos basados en árboles de decisión: Decision Trees, Regression Trees, Classification Trees. Revisaremos CHAID, CART.",
-      "reviewed": false,
+      "en": "We will study decision trees for classification and regression, including CHAID and CART.",
+      "es": "Estudiaremos los árboles de decisión para clasificación y regresión, incluidos los métodos CHAID y CART.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -245,13 +270,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
-      "en": "We will use Ensemble Methods to combine models and produce better results. We will review Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
-      "es": "Usaremos Ensemble Methods para combinar modelos y producir mejores resultados. Revisaremos Boosting(Adaboost, Stochastic Gradient Boosting), Bagging(Random Forest).",
-      "reviewed": false,
+      "en": "We will explore ensemble methods for combining models: boosting with AdaBoost and stochastic gradient boosting, and bagging with random forests. We will assess when they can improve results.",
+      "es": "Exploraremos métodos de conjunto para combinar modelos: boosting, con AdaBoost y stochastic gradient boosting, y bagging, con random forests. Evaluaremos cuándo pueden mejorar los resultados.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -264,16 +294,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Culminaremos la etapa de Machine Learning supervisado revisando Linear Regression, Logistic Regression, Shrinkage Methods y Support Vector Machines",
-      "en": "We will complete the supervised Machine Learning phase by reviewing Linear Return, Logistic Return, Shrinkage Methods and Support Vector Machines",
-      "es": "Culminaremos la etapa de Machine Learning supervisado revisando Linear Regression, Logistic Regression, Shrinkage Methods y Support Vector Machines",
-      "reviewed": false,
+      "en": "We will complete the supervised learning section with linear regression, logistic regression, regularisation methods and support vector machines.",
+      "es": "Cerraremos el bloque de aprendizaje supervisado con regresión lineal, regresión logística, métodos de regularización y máquinas de vectores de soporte.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Reduction​",
@@ -285,9 +325,9 @@
     },
     {
       "source": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
-      "en": "We will begin the unsupervised Machine Learning stage with dimensionality reduction. We will look at Principal Component Analysis, Linear Discriminant Analysis and t-SNE.",
-      "es": "Iniciaremos la etapa de Machine Learning no supervisado con la reducción de dimensionalidad. Veremos Principal Component Analysis, Linear Discriminant Analysis y t-SNE.",
-      "reviewed": false,
+      "en": "We will study dimensionality reduction techniques: unsupervised principal component analysis (PCA) and t-SNE, and linear discriminant analysis (LDA), which uses class labels and is supervised.",
+      "es": "Estudiaremos técnicas de reducción de dimensionalidad: análisis de componentes principales (PCA) y t-SNE, de carácter no supervisado, y análisis discriminante lineal (LDA), que utiliza las etiquetas de clase y es supervisado.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -300,22 +340,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Concretaremos la etapa de Machine Learning no supervisado con los métodos de clustering. Veremos K-Means Clustering, Hierarchical Clustering, DBSCAN.",
-      "en": "We will set the stage of Machine Learning unsupervised with the methods of clustering. We will see K-Means Clustering, Hierarchical Clustering, DBSCAN.",
-      "es": "Concretaremos la etapa de Machine Learning no supervisado con los métodos de clustering. Veremos K-Means Clustering, Hierarchical Clustering, DBSCAN.",
-      "reviewed": false,
+      "en": "We will complete the unsupervised learning section with clustering methods: k-means, hierarchical clustering and DBSCAN.",
+      "es": "Completaremos el bloque de aprendizaje no supervisado con métodos de agrupamiento: k-means, clustering jerárquico y DBSCAN.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
-      "en": "We will review the introduction to Deep Learning and Natural Language Processing.",
-      "es": "Revisaremos la introducción a Deep Learning y al Procesamiento del Lenguaje Natural.",
-      "reviewed": false,
+      "en": "We will introduce deep learning and natural language processing.",
+      "es": "Nos introduciremos en el deep learning y el procesamiento del lenguaje natural.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -328,30 +378,45 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Fundamentos de cloud y uso de Amazon Web Services para el deploy de modelos de Machine Learning.",
-      "en": "Cloud foundations and use of Amazon Web Services for the deployment of Machine Learning models.",
-      "es": "Fundamentos de cloud y uso de Amazon Web Services para el deploy de modelos de Machine Learning.",
-      "reviewed": false,
+      "en": "We will learn the foundations of cloud computing and how to deploy machine learning models with Amazon Web Services.",
+      "es": "Aprenderemos los fundamentos de la computación en la nube y el despliegue de modelos de machine learning con Amazon Web Services.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Federico dos Reis",
       "en": "Federico dos Reis",
       "es": "Federico dos Reis",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Data Scientist, Physicist",
       "en": "Data Scientist, Physicist",
       "es": "Científico de datos, físico",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -363,16 +428,26 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Físico en ciencia de datos. Machine learning engineer en Mercado Ads (Mercado Libre Publicidad). Fuí docente en la Universidad de Buenos Aires, doctorando CONICET.",
-      "en": "Physical in data science. Machine learning engineer in market Ads. I was a teacher at the University of Buenos Aires, doctoring CONICET.",
-      "es": "Físico en ciencia de datos. Machine learning engineer en Mercado Ads (Mercado Libre Publicidad). Fuí docente en la Universidad de Buenos Aires, doctorando CONICET.",
-      "reviewed": false,
+      "en": "Biography from the original edition: a physicist working in data science and a machine learning engineer at Mercado Ads, Mercado Libre’s advertising platform. He previously taught at the University of Buenos Aires and was a CONICET doctoral candidate at the time of this edition.",
+      "es": "Biografía de la edición original: físico dedicado a la ciencia de datos e ingeniero de machine learning en Mercado Ads, la plataforma publicitaria de Mercado Libre. Fue docente en la Universidad de Buenos Aires y, en esta edición, era doctorando del CONICET.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Salvatierra Berrios** 🇧🇴",
@@ -386,7 +461,7 @@
       "source": "Data Engineering, Data Science",
       "en": "Data Engineering, Data Science",
       "es": "Ingeniería de datos, ciencia de datos",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -398,13 +473,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
-      "en": "Stanley Salvatierra studied electrical engineering, he is currently CTO and co-founder of the startup deepmicrosystems.com. Where he works on solving problems in computer vision and natural language processing. In 2019 he was chosen as Innovator under 35 by the MIT tech review for his work in artificial vision within his startup.",
-      "es": "Stanley Salvatierra estudió ingeniería eléctrica, actualmente es CTO y co-fundador del startup deepmicrosystems.com. Donde trabaja en resolver problemas de vision artificial y procesamiento de lenguaje natural. En el 2019 fue elegido Innovador menor a 35 por el MIT tech review por sus trabajos en vision artificial dentro de su startup.",
-      "reviewed": false,
+      "en": "Biography from the original edition: Stanley Salvatierra studied Electrical Engineering. At the time of this edition, he was CTO and co-founder of Deep Microsystems, working on computer vision and natural language processing. In 2019, MIT Technology Review named him one of its Innovators Under 35 for his computer vision work.",
+      "es": "Biografía de la edición original: Stanley Salvatierra estudió Ingeniería Eléctrica. En esta edición era director de tecnología y cofundador de Deep Microsystems, donde trabajaba en visión artificial y procesamiento del lenguaje natural. En 2019 fue reconocido como uno de los Innovadores menores de 35 por MIT Technology Review por su trabajo en visión artificial.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -417,48 +497,58 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Inscripciones del 14 de junio al 04 de julio",
-      "en": "Registration from June 14 to July 4",
-      "es": "Inscripciones del 14 de junio al 04 de julio",
+      "en": "Original registration period: 14 June to 4 July",
+      "es": "Inscripción de la edición original: del 14 de junio al 4 de julio",
       "reviewed": true,
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Duración del curso: 06 de julio – 21 de agosto",
-      "en": "Course duration: July 6 – August 21",
-      "es": "Duración del curso: 06 de julio – 21 de agosto",
+      "en": "Original course dates: 6 July to 21 August",
+      "es": "Fechas del curso original: del 6 de julio al 21 de agosto",
       "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Lunes, Martes y Sábado",
       "en": "Monday, Tuesday and Saturday",
       "es": "Lunes, Martes y Sábado",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
       "en": "Schedule: Monday (21:00 – 22:00), Tuesday (18:00 – 21:00), Saturday (09:00 – 12:00) UTC – 4 (Bolivian time)",
       "es": "Horario: Lunes (21:00 – 22:00), Martes (18:00 – 21:00), Sábado (09:00 – 12:00) UTC – 4 (hora boliviana)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -470,6 +560,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -484,7 +579,7 @@
       "source": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
       "en": "Download our brochure for more detailed information on our Machine Learning program.",
       "es": "Descarga nuestro folleto para información más detallada de nuestro programa de Machine Learning.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -497,6 +592,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -523,6 +623,94 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Métodos basados en vecinos",
+      "en": "Neighbourhood-based methods",
+      "es": "Métodos basados en vecinos",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Métodos basados en árboles",
+      "en": "Tree-based methods",
+      "es": "Métodos basados en árboles",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Métodos de conjunto",
+      "en": "Ensemble methods",
+      "es": "Métodos de conjunto",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Métodos lineales y no lineales",
+      "en": "Linear and nonlinear methods",
+      "es": "Métodos lineales y no lineales",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Reducción de dimensionalidad",
+      "en": "Dimensionality reduction",
+      "es": "Reducción de dimensionalidad",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Métodos de agrupamiento",
+      "en": "Clustering methods",
+      "es": "Métodos de agrupamiento",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Computación en la nube para machine learning",
+      "en": "Cloud computing for machine learning",
+      "es": "Computación en la nube para machine learning",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Stanley Salvatierra Berrios 🇧🇴",
+      "en": "Stanley Salvatierra Berrios 🇧🇴",
+      "es": "Stanley Salvatierra Berrios 🇧🇴",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

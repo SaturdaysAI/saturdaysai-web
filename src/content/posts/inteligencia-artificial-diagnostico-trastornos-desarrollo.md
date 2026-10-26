@@ -43,7 +43,7 @@ Otro punto clave, fue hacer búsquedas en grupos afines al tema del autismo, tan
 
 En el camino surgieron nuevas pistas, se encontró un conjunto de datos en Kaggle ([https://www.kaggle.com/gpiosenka/autistic-children-data-set-traintestvalidate](https://www.kaggle.com/gpiosenka/autistic-children-data-set-traintestvalidate)), relacionado con el autismo, que ha sido utilizado para construir algunos modelos que permiten por medio de la visión por computador predecir por medio de una fotografía si un niño tiene o no autismo. Con ello, cambió la perspectiva del proyecto, de pasar de las emociones (sin un conjunto de datos) al reconocimiento facial (con un conjunto de datos) en el mismo ámbito del autismo.
 
-Para seguir en línea de conocer la opinión profesional sobre la propuesta, se realizó dos entrevistas, la primera con la especialista Amparito Morales, a la cual, se le presentó nuestra nueva idea, de que por medio de la tecnología se podía ayudar a mejorar en los diagnósticos en el área del autismo, inicialmente, se tuvo resistencia en el uso de la tecnología, pero eso fue bueno, porque permitió como equipo, convencer a la profesional de la utilidad real en escenario como en los grandes colegios o escuelas, en dónde el trabajo de los pocos especialistas ([Departamento de Consejería Estudiantil (DECE)](https://educacion.gob.ec/que-son-los-dece/)) puede ser apoyado por una herramienta que apoye en las tareas de automatización, en este caso, reconociendo cuáles de los niños por medio de una fotografía podría tener su atención prioritaria en la detección temprana del autismo.
+Realizamos dos entrevistas para conocer la perspectiva profesional. En la primera, presentamos la propuesta a la especialista Amparito Morales. Sus dudas iniciales nos ayudaron a discutir posibles usos y limitaciones de la tecnología en centros educativos, especialmente en el trabajo del [Departamento de Consejería Estudiantil (DECE)](https://educacion.gob.ec/que-son-los-dece/). El equipo planteó una herramienta de apoyo a la priorización de evaluaciones. La conversación exploró esa idea, pero no constituye una validación clínica del análisis de fotografías.
 
 De la primera entrevista surgió la segunda, con la reconocida investigadora [Catalina López](https://www.uasb.edu.ec/docente/catalina-lopez-chavez/), pionera en el Ecuador por su enfoque senso-perceptivo para identificar los perfiles de autismo de acuerdo a la idiosincrasia de un país.
 
@@ -63,6 +63,8 @@ Finalmente, la investigadora propuso que un chatbot mediante la interacción sea
 **Contexto**
 
 Los trastornos del desarrollo, técnicamente conocidos como trastornos del neurodesarrollo, son trastornos con base neurológica que pueden afectar la adquisición, retención o aplicación de habilidades específicas o conjuntos de información. Consisten en alteraciones en la atención, la memoria, la percepción, el lenguaje, la resolución de problemas o la interacción social. Estos trastornos pueden ser leves y fácilmente abordables con intervenciones conductuales y educativas o más graves, de modo que los niños afectados requieran un apoyo educativo particular. Entre los trastornos del neurodesarrollo tenemos: trastorno de déficit de atención/hiperactividad, trastornos del espectro autista, dificultades del aprendizaje, como la dislexia y las deficiencias en otras áreas académicas, discapacidad intelectual, síndrome de Rett.
+
+Nota de revisión: el lenguaje y las cifras de la cita siguiente pertenecen a una fuente histórica. No describen de forma completa la diversidad de experiencias autistas ni deben leerse como datos actuales. El diagnóstico requiere una evaluación del desarrollo y el comportamiento, no una fotografía. Véase la [información del NIMH sobre el diagnóstico del autismo](https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder).
 
 “_El autismo es un trastorno neurológico complejo que generalmente dura toda la vida. Es parte de un grupo de trastornos conocidos como trastornos del espectro autista (TEA). Actualmente se diagnostica con autismo a 1 de cada 68 individuos y a 1 de cada 42 niños varones, haciéndolo más común que los casos de cáncer, diabetes y SIDA pediátricos combinados. Se presenta en cualquier grupo racial, étnico y social, y es cuatro veces más frecuente en los niños que en las niñas. El autismo daña la capacidad de una persona para comunicarse y relacionarse con otros. También, está asociado con rutinas y comportamientos repetitivos, tales como arreglar objetos obsesivamente o seguir rutinas muy específicas. Los síntomas pueden oscilar desde leves hasta muy severos_” \[1\].
 
@@ -235,11 +237,11 @@ Con el desarrollo del proyecto DETECTAA-AI se llegó a las siguientes conclusion
 ##   
 **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](http://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](http://www.saturdays.ai/) ¡te esperamos! [Saturdays.AI](https://medium.com/saturdays-ai?source=post_sidebar--------------------------post_sidebar--------------)
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 
 

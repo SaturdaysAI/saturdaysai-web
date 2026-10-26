@@ -1,9 +1,8 @@
 ---
-title: "Construí una app de Barranquismo sin escribir código: mi experiencia
+title: "Construí una app de barranquismo sin escribir código: mi experiencia
   creando una PWA con IA"
-description: Descubre paso a paso cómo desarrollé la webapp de Barranquismo que
-  no encontraba, con ChatGPT, Codex e IA. Código, guía, ejemplos y consejos de
-  este aprendizaje para que tú lo puedas aplicar.
+description: "Cómo creé una aplicación de barranquismo con ChatGPT y Codex:
+  planificación, datos, mapas, modo sin conexión y despliegue en GitHub Pages."
 pubDate: 2025-10-28
 author: Jose Ramon García
 category: Community
@@ -15,8 +14,7 @@ tags:
   - Inteligencia Artificial
   - Machine Learning
 image: /media/12609bf1a902b1ad.webp
-imageAlt: "Construí una app de Barranquismo sin escribir código: mi experiencia
-  creando una PWA con IA"
+imageAlt: Aplicación de barranquismo creada con ayuda de IA
 legacyPath: /2025/10/28/construi-una-app-completa-sin-escribir-codigo-mi-experiencia-creando-una-pwa-de-barranquismo-con-ia/
 sourceUrl: https://saturdays.ai/2025/10/28/construi-una-app-completa-sin-escribir-codigo-mi-experiencia-creando-una-pwa-de-barranquismo-con-ia/
 sourceId: 11403
@@ -28,7 +26,7 @@ draft: false
 
 ## Introducción
 
-Como muchos amantes de la montaña, me gustaría la posibilidad de tener una página minimalista, donde encontrar la información de los barrancos de manera sencilla y que me permitiera consultar la los tracks cuando no tuviera cobertura en lugar de saltar entre diez webs para encontrar información fiable de un barranco, además,  _Wikiloc_ me daba el GPS, _Descente-Canyon_ los datos técnicos, pero nada estaba unificado y, sobre todo, nada funcionaba bien sin cobertura en mitad de la nada.
+Como muchos amantes de la montaña, quería una página minimalista donde encontrar información de barrancos y consultar los recorridos sin cobertura, sin saltar entre diez webs. Wikiloc me daba los tracks y Descente-Canyon los datos técnicos, pero nada estaba unificado ni respondía bien a lo que necesitaba en mitad de la montaña.
 
 Así que decidí construirla yo mismo, aquí tienes el enlace al resultado: [https://saturdaysai.github.io/barranquismo/](https://saturdaysai.github.io/barranquismo/)
 
@@ -46,7 +44,7 @@ Mi objetivo: demostrar que, con buena planificación y prompts precisos, una sol
 Antes de escribir una línea de código, necesitaba un plan sólido. Mi primera interacción fue con ChatGPT, para definir la arquitectura tecnológica.
 
 > **Prompt clave a ChatGPT:**  
-> `“Quiero construir una web para un inventario de barrancos. Los usuarios deben poder filtrar por dificultad y ver mapas. Lo más importante: debe funcionar offline. No quiero usar backend y planeo desplegarla gratis en GitHub Pages. ¿Qué stack tecnológico me recomiendas y cómo debería estructurar el proyecto?”`
+> “Quiero construir una web para un inventario de barrancos. Los usuarios deben poder filtrar por dificultad y ver mapas. Lo más importante: debe funcionar offline. No quiero usar backend y planeo desplegarla gratis en GitHub Pages. ¿Qué stack tecnológico me recomiendas y cómo debería estructurar el proyecto?”
 
 La IA recomendó Vite + React por su rapidez y facilidad para configurar Service Workers, esenciales para el modo offline. Con eso, ya tenía la brújula técnica del proyecto.
 
@@ -118,26 +116,17 @@ Antes de empezar si no tenemos cuenta de [GitHub](https://github.com/), se crea 
 
 ![](/media/02a0407308090bf2.webp)
 
-```
-Una vez creado, subimos el repositorio con las siguientes instrucciones desde la carpeta raíz, podemos hacerlo desde una consola o desde la terminal:
-```
+Una vez creado un repositorio vacío en GitHub, ejecuta estos comandos desde la carpeta raíz del proyecto local. Sustituye TU_USUARIO y NOMBRE_REPOSITORIO por tus datos:
 
 Si no tenemos Git habrá que instalarlo, lo puedes descargar [aquí](https://git-scm.com/install/windows). Una vez [instalado](https://www.datacamp.com/es/tutorial/how-to-install-git-for-windows):
 
-```
-git init // Inicializa un proyecto git en local
-
-git add . // Agrega archivos al repositorio
-
-git commit -m "Primer commit"       // Guarda los cambios en tu repositorio local
-
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
 git remote add origin https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git
-```
-
-// Vincula tu repositorio con GitHub.
-
-```
-git push -u origin main // Sube tus cambios a GitHub 
+git push -u origin main
 ```
 
 Ahora ya tenemos subido el mismo repositorio que tenemos en local con GitHub, ahora cada cambio que queramos hacer deberemos empezar los pasos desde el 2 y muy importante poner a los commits nombres de las modificaciones que vayamos haciendo, así luego es más fácil volver a un estado anterior sabiendo que modificaciones hicimos en ese momento.
@@ -170,14 +159,14 @@ Vamos un paso más allá, le decimos que genere el mismo un script y que él mis
 
 ![](/media/ff43c915c1542432.webp)
 
-El mayor desafío era la información. Los datos estaban en fuentes abiertas, en diferentes formatos y cada página tenía una descripción distinta de cada atributo y no mantienen una coherencia  por lo que los datos que obtuve estaban totalmente desestructurados. Necesitaba un _pipeline_ de limpieza.
+El mayor desafío era la información: las fuentes utilizaban formatos y descripciones distintos para cada atributo, así que los datos recopilados no eran coherentes entre sí. Necesitaba un proceso de limpieza. Automatizar la extracción no garantizaba que los datos fueran correctos o estuvieran actualizados: tenía que contrastarlos con las fuentes antes de utilizarlos para preparar una salida.
 
 ## Fase 6. Normalización de datos con IA
 
 Como datos de los barrancos provenían de distintas fuentes (_Descente-Canyon_, _Wikiloc_, etc.), y estaban desordenados y con distintos formatos. Necesitaba un script en Node.js para limpiarlos y unificarlos.
 
 > **Prompt a Codex:**  
-> `“Tengo varios JSON con datos de barrancos. Necesito un script que lea todos, normalice los nombres, extraiga coordenadas y unifique los niveles de dificultad. Exporta un único dataset.json final.”`
+> “Tengo varios JSON con datos de barrancos. Necesito un script que lea todos, normalice los nombres, extraiga coordenadas y unifique los niveles de dificultad. Exporta un único dataset.json final.”
 
 Codex generó un script de limpieza automatizado. El resultado: un archivo `dataset.json` consolidado, que serviría como base de datos local de la aplicación.
 
@@ -186,10 +175,10 @@ Codex generó un script de limpieza automatizado. El resultado: un archivo `data
 Con el dataset listo, era momento de visualizar los datos. En lugar de escribir componentes manualmente, los pedí directamente a Codex.
 
 > **Prompt 1:**  
-> `“Crea un componente que importe 'dataset.json'. Debe incluir buscador y filtros dinámicos (por dificultad y zona). Mapea los resultados en tarjetas (‘BarrancoCard’) enlazadas a una vista de detalle.”`
+> “Crea un componente que importe 'dataset.json'. Debe incluir buscador y filtros dinámicos (por dificultad y zona). Mapea los resultados en tarjetas (‘BarrancoCard’) enlazadas a una vista de detalle.”
 
 > **Prompt 2:**  
-> `“Crea un componente ‘FichaDetalle’. Muestra datos del barranco: rápel máximo, tiempos, coordenadas y enlaces.”`
+> “Crea un componente ‘FichaDetalle’. Muestra datos del barranco: rápel máximo, tiempos, coordenadas y enlaces.”
 > 
 > Codex generó la estructura React completa y los componentes necesarios. Incluso añadió un mapa interactivo con **Leaflet** tras otro prompt específico.
 
@@ -198,7 +187,7 @@ Con el dataset listo, era momento de visualizar los datos. En lugar de escribir 
 La app necesitaba “recordar” datos del usuario, como la checklist y valoraciones.
 
 > **Prompt a Codex:**  
-> `“En mi app, los usuarios deben valorar un barranco con estrellas y añadirlo a una ‘Checklist’. Estos datos deben persistir incluso sin conexión. Usa localStorage.”`
+> “En mi app, los usuarios deben valorar un barranco con estrellas y añadirlo a una ‘Checklist’. Estos datos deben persistir incluso sin conexión. Usa localStorage.”
 
 Codex implementó la lógica de almacenamiento local y la recuperación automática. Luego configuramos el Service Worker para hacer la app totalmente funcional offline: ya era una PWA instalable y usable sin cobertura.
 
@@ -207,7 +196,7 @@ Codex implementó la lógica de almacenamiento local y la recuperación automát
 La funcionalidad estaba lista, pero la interfaz necesitaba un toque profesional. Volví a ChatGPT, esta vez como diseñador UX especializado en entornos outdoor.
 
 > **Prompt clave:**  
-> `“Estoy diseñando esta app para usarla en montaña, bajo sol intenso y con reflejos. Dame recomendaciones de UX/UI y un prompt detallado para Codex como si fuera un diseñador profesional.”`
+> “Estoy diseñando esta app para usarla en montaña, bajo sol intenso y con reflejos. Dame recomendaciones de UX/UI y un prompt detallado para Codex como si fuera un diseñador profesional.”
 
 \# CONTEXTO DEL PROYECTO
 
@@ -285,9 +274,7 @@ Dame sugerencias detalladas de diseño y, si es posible, fragmentos de código (
 
 5\. \*\*Estilo global\*\*
 
-   – Insp
-
-iración en Material Design y Fluent UI, adaptado al uso outdoor.
+   – Inspiración en Material Design y Fluent UI, adaptada al uso al aire libre.
 
    – Animaciones sutiles (fade, scale) solo si no afectan al rendimiento.
 
@@ -343,7 +330,7 @@ Equilibra \*\*belleza, usabilidad y funcionalidad outdoor\*\*.  
 
 El resultado debe parecer hecho por un diseñador experto, pero optimizado para React y PWA ligeras.
 
-El resultado fue una guía completa: tipografías legibles (_Inter_, _Poppins_), alto contraste, botones grandes, jerarquía visual clara y estilo _outdoor_ inspirado en _Komoot_ y _AllTrails_. Codex aplicó las mejoras automáticamente y la interfaz ganó claridad, accesibilidad y coherencia.
+El resultado fue una guía completa: tipografías legibles como Inter y Poppins, alto contraste, botones grandes, una jerarquía visual clara y un estilo inspirado en Komoot y AllTrails. Codex aplicó las propuestas y la interfaz ganó claridad y coherencia; todavía correspondía comprobar la accesibilidad con pruebas.
 
 ## Fase 10. Despliegue final y pruebas
 

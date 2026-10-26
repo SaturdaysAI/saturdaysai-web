@@ -5,6 +5,7 @@ import path from 'node:path';
 import tls from 'node:tls';
 import { load } from 'cheerio';
 import { indexablePath } from '../src/lib/seo.mjs';
+import { editorialDigest } from './lib/editorial-review.mjs';
 
 const origin = new URL(process.env.SITE_URL || 'https://saturdays.ai').origin;
 if (!origin.startsWith('https://')) throw new Error('Live verification requires HTTPS.');
@@ -111,6 +112,7 @@ const files = allFiles.filter((file) => {
 });
 let next = 0;
 let htmlCount = 0;
+let editorialVersionsChecked = 0;
 let checkedCount = 0;
 const htmlRoutes = new Set();
 await Promise.all(
@@ -139,8 +141,8 @@ await Promise.all(
         }
         if (!isHTML) continue;
         htmlCount++;
-        const $ = load(await response.text());
-        const expected = load(await fs.readFile(file, 'utf8'));
+        const $ = load(await response.text(), { scriptingEnabled: false });
+        const expected = load(await fs.readFile(file, 'utf8'), { scriptingEnabled: false });
         for (const [selector, attribute] of [
           ['html', 'lang'],
           ['html', 'data-localized'],
@@ -153,6 +155,13 @@ await Promise.all(
         }
         if ($('title').text() !== expected('title').text())
           fail(route, 'Deployed title differs from the production build');
+        if (expected('.reading-body .prose,.city-history .prose').length) {
+          editorialVersionsChecked++;
+          if (editorialDigest($) !== editorialDigest(expected))
+            fail(route, 'Deployed editorial content differs from the reviewed production build');
+          if ($('.translation-notice').length !== expected('.translation-notice').length)
+            fail(route, 'Deployed translation notice differs from the reviewed version');
+        }
         const socialImage = $('meta[property="og:image"]').attr('content');
         if (!socialImage || !activeSocialCards.has(new URL(socialImage, origin).pathname))
           fail(route, 'Page references a card outside the current social manifest');
@@ -266,6 +275,7 @@ const report = {
   excludedSupersededCards,
   excludedUnusedResponsiveImages,
   htmlCount,
+  editorialVersionsChecked,
   sitemapURLs: sitemapURLs.length,
   redirects,
   failures,

@@ -32,7 +32,7 @@ Otro desafío fue implementar **formularios dinámicos** para recolectar datos d
 
 ## **Cursor y la Seguridad en el Desarrollo Web**
 
-A medida que avanzaba en mi proyecto, decidí integrar una base de datos para gestionar citas médicas. Esto me llevó a preocuparme por la **seguridad de los datos**. Cursor fue más allá de ofrecerme soluciones inmediatas; anticipó problemas futuros y me recomendó prácticas como **cifrado de datos** y **autenticación segura**, asegurándome de que mi aplicación fuera robusta y confiable.
+Al integrar una base de datos para gestionar citas médicas, empecé a prestar más atención a la seguridad. Cursor sugirió revisar el cifrado, la autenticación y la gestión de permisos. Fueron orientaciones útiles para aprender, pero no una auditoría: un prototipo que maneje datos de salud necesita una revisión específica antes de utilizar información real.
 
 La integración de un sistema de autenticación para diferentes tipos de usuarios fue otro desafío importante. Cursor me ayudó a configurar roles específicos (médicos, pacientes y administradores), gestionar sesiones y validar credenciales de forma eficiente.
 

@@ -6,154 +6,269 @@
       "source": "9 min de lectura",
       "en": "9 min read",
       "es": "9 min de lectura",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Reconocimiento de emociones mediante el estudio de expresiones faciales con deep learning y computer vision.",
-      "en": "Recognition of emotions by studying facial expressions with deep learning and computer vision.",
-      "es": "Reconocimiento de emociones mediante el estudio de expresiones faciales con deep learning y computer vision.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "A deep learning and computer vision prototype for classifying facial expressions, with its results and limitations.",
+      "es": "Un prototipo de deep learning y visión por computador para clasificar expresiones faciales, con sus resultados y limitaciones.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "SELECCIÓN DEL DATASET",
       "en": "DATASET SELECTION",
       "es": "SELECCIÓN DEL DATASET",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "SELECCIÓN DE LOS MODELOS",
       "en": "MODEL SELECTION",
       "es": "SELECCIÓN DE LOS MODELOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "EVALUACIÓN DE LOS MODELOS",
       "en": "MODEL EVALUATION",
       "es": "EVALUACIÓN DE LOS MODELOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ANÁLISIS DE LOS RESULTADOS",
       "en": "ANALYSIS OF THE RESULTS",
       "es": "ANÁLISIS DE LOS RESULTADOS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "CONCLUSIONES",
       "en": "CONCLUSIONS",
       "es": "CONCLUSIONES",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ing. Benjamin Villegas Mendez, Ing. Mauricio Oroza Herbas",
       "en": "Eng. Benjamin Villegas Mendez, Eng. Mauricio Oroza Herbas",
       "es": "Ing. Benjamin Villegas Mendez, Ing. Mauricio Oroza Herbas",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ante la pandemia del covid 19, todas las instituciones que se dedican al aprendizaje se vieron afectadas ya que dar clases no sería lo mismo por un buen tiempo. Fue así que la migración a clases virtuales ahora es un hecho. Esta migración trae consigo muchas ventajas y desventajas. El presente proyecto se enfoca en el gran problema de pérdida de atención e interés por parte de los estudiantes resultando en que solo el 40% de estudiantes realmente mantiene la atención y es capaz de aprovechar la clase impartida, ya sea a nivel de colegio, pregrado e incluso hasta postgrado. Este proyecto sugiere la solución de proveer de feedback al docente por medio de reconocimiento emocional de los rostros de los estudiantes en tiempo real. Teniendo este tipo de información a la mano, el docente puede modificar el contenido de su clase o utilizar técnicas que puedan recuperar la atención de la mayoría de sus estudiantes para hacer efectiva su clase. La solución propuesta consiste en una red neuronal convolucional recurrente con ResNet (residual network) que, mediante la webcam, reconoce que emoción está teniendo el estudiante. Se hizo una integración de 3 diferentes partes de datasets para el entrenamiento y se utilizaron técnicas para poder mejorar el desempeño del sistema. El resultado apunta a un sistema de reconocimiento facial de emociones utilizable que podría implementarse posteriormente en softwares de clases y reuniones virtuales.",
-      "en": "Faced with the covid 19 pandemic, all institutions that are dedicated to learning were affected since teaching classes would not be the same for a long time. Thus, the migration to virtual classes is now a fact. This migration brings with it many advantages and disadvantages. This project focuses on the great problem of loss of attention and interest on the part of students, resulting in only 40% of students actually maintaining attention and being able to take advantage of the class taught, whether at the college, undergraduate and even postgraduate level. This project suggests the solution of providing feedback to the teacher through emotional recognition of students' faces in real time. Having this type of information at hand, the teacher can modify the content of his class or use techniques that can regain the attention of the majority of his students to make his class effective. The proposed solution consists of a recurrent convolutional neural network with ResNet (residual network) that, through the webcam, recognizes what emotion the student is having. An integration of 3 different parts of datasets was made for training and techniques were used to improve the performance of the system. The result points to a usable facial emotion recognition system that could later be implemented in virtual class and meeting software.",
-      "es": "Ante la pandemia del covid 19, todas las instituciones que se dedican al aprendizaje se vieron afectadas ya que dar clases no sería lo mismo por un buen tiempo. Fue así que la migración a clases virtuales ahora es un hecho. Esta migración trae consigo muchas ventajas y desventajas. El presente proyecto se enfoca en el gran problema de pérdida de atención e interés por parte de los estudiantes resultando en que solo el 40% de estudiantes realmente mantiene la atención y es capaz de aprovechar la clase impartida, ya sea a nivel de colegio, pregrado e incluso hasta postgrado. Este proyecto sugiere la solución de proveer de feedback al docente por medio de reconocimiento emocional de los rostros de los estudiantes en tiempo real. Teniendo este tipo de información a la mano, el docente puede modificar el contenido de su clase o utilizar técnicas que puedan recuperar la atención de la mayoría de sus estudiantes para hacer efectiva su clase. La solución propuesta consiste en una red neuronal convolucional recurrente con ResNet (residual network) que, mediante la webcam, reconoce que emoción está teniendo el estudiante. Se hizo una integración de 3 diferentes partes de datasets para el entrenamiento y se utilizaron técnicas para poder mejorar el desempeño del sistema. El resultado apunta a un sistema de reconocimiento facial de emociones utilizable que podría implementarse posteriormente en softwares de clases y reuniones virtuales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The COVID-19 pandemic accelerated the move to online classes and created challenges for student engagement. This project explored facial expression classification as a possible source of information for teachers. The prototype used a residual convolutional network, ResNet, images from three sources and data augmentation. Its outputs are labels for facial expressions captured by a webcam: they do not, by themselves, measure a student’s attention, interest or emotions. Any potential educational use would require further evaluation and attention to privacy and consent.",
+      "es": "La pandemia de COVID-19 aceleró el paso a las clases virtuales y planteó dificultades para mantener la participación del alumnado. Este proyecto exploró un sistema de clasificación de expresiones faciales como posible fuente de información para el docente. El prototipo utilizó una red convolucional residual ResNet, imágenes de tres fuentes y técnicas de aumento de datos. Su resultado son etiquetas de expresiones faciales captadas por una webcam: no permite medir por sí solo la atención, el interés ni las emociones del estudiante. Cualquier posible uso educativo requeriría una evaluación adicional y considerar la privacidad y el consentimiento.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El problema radica en la dificultad por parte de estudiantes de mantener atención en clases virtuales resultando en que 6 de cada 10 estudiantes pierden la atención en la clase impartida. A diferencia de las clases presenciales, los docentes tienen poco o ningún feedback sobre el estado de atención de sus alumnos dificultando que el docente pueda tomar acciones para mantener la atención de dichos.",
-      "en": "The problem lies in the difficulty on the part of students to maintain attention in virtual classes, resulting in 6 out of 10 students losing attention in the class taught. Unlike face-to-face classes, teachers have little or no feedback about the attention state of their students, making it difficult for the teacher to take actions to maintain their students' attention.",
-      "es": "El problema radica en la dificultad por parte de estudiantes de mantener atención en clases virtuales resultando en que 6 de cada 10 estudiantes pierden la atención en la clase impartida. A diferencia de las clases presenciales, los docentes tienen poco o ningún feedback sobre el estado de atención de sus alumnos dificultando que el docente pueda tomar acciones para mantener la atención de dichos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Online classes can make it difficult to sustain engagement and understand how students are following a session. The team wanted to explore this problem, although the prototype cannot quantify how many students are paying attention.",
+      "es": "En las clases virtuales puede resultar difícil mantener la participación y obtener información sobre cómo está siguiendo la sesión el alumnado. El equipo quiso explorar este problema, sin que el prototipo permita cuantificar cuántos estudiantes prestan atención.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El objetivo general es la creación de un modelo de deep learning que pueda predecir en tiempo real las emociones de una persona frente a su webcam, dentro de un entorno de programación.",
-      "en": "The general objective is the creation of a deep learning model that can predict in real time the emotions of a person in front of their webcam, within a programming environment.",
-      "es": "El objetivo general es la creación de un modelo de deep learning que pueda predecir en tiempo real las emociones de una persona frente a su webcam, dentro de un entorno de programación.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The main objective was to build a deep learning model that classified facial expressions in real time using a webcam.",
+      "es": "El objetivo general fue crear un modelo de deep learning que clasificara expresiones faciales en tiempo real a partir de una webcam.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En los objetivos particulares, se cita seleccionar un dataset que pueda ser adecuado para el fin perseguido, implementar un sistema de reconocimiento facial solamente, y seleccionar un modelo de clasificación adecuado para poder crear el modelo general de reconocimiento de emociones.",
       "en": "The particular objectives include selecting a dataset that may be suitable for the intended purpose, implementing a facial recognition system only, and selecting an appropriate classification model to create the general emotion recognition model.",
       "es": "En los objetivos particulares, se cita seleccionar un dataset que pueda ser adecuado para el fin perseguido, implementar un sistema de reconocimiento facial solamente, y seleccionar un modelo de clasificación adecuado para poder crear el modelo general de reconocimiento de emociones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se hizo una búsqueda de datasets relacionados a emociones y se encontró una lista de los datasets más utilizados como se muestra en la figura a continuación:",
       "en": "A search was made for datasets related to emotions and a list of the most used datasets was found as shown in the figure below:",
       "es": "Se hizo una búsqueda de datasets relacionados a emociones y se encontró una lista de los datasets más utilizados como se muestra en la figura a continuación:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El principal criterio para la selección fue buscar datasets que estén disponibles de forma gratuita que estén dentro de la lista presentada anteriormente, los cuales son FER2013 y CK+. Para el presente proyecto se utilizó una mezcla de ambos datasets incluyendo un dataset propio creado. Los 2 primeros datasets son bastante utilizados para reconocimiento facial actualmente y tienen bastante cantidad de datos relevantes para el proyecto en curso. Por tema de costo, se buscó fragmentos de dichos datasets que estén disponibles de forma gratuita y se los integró en uno solo. Se revisaron los dataset manualmente para eliminar posibles imágenes que no correspondan con la emoción, se agregaron datos y se utilizó data augmentation.",
       "en": "The main criterion for selection was to search for datasets that are freely available that are within the list presented above, which are FER2013 and CK+. For this project, a mixture of both datasets was used, including an own dataset created. The first 2 datasets are currently widely used for facial recognition and have a significant amount of data relevant to the ongoing project. Due to cost issues, fragments of these datasets that are available for free were searched and integrated into a single one. The datasets were reviewed manually to eliminate possible images that do not correspond to the emotion, data was added and data augmentation was used.",
       "es": "El principal criterio para la selección fue buscar datasets que estén disponibles de forma gratuita que estén dentro de la lista presentada anteriormente, los cuales son FER2013 y CK+. Para el presente proyecto se utilizó una mezcla de ambos datasets incluyendo un dataset propio creado. Los 2 primeros datasets son bastante utilizados para reconocimiento facial actualmente y tienen bastante cantidad de datos relevantes para el proyecto en curso. Por tema de costo, se buscó fragmentos de dichos datasets que estén disponibles de forma gratuita y se los integró en uno solo. Se revisaron los dataset manualmente para eliminar posibles imágenes que no correspondan con la emoción, se agregaron datos y se utilizó data augmentation.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dado que se trata de un problema de clasificación de imágenes con 7 posibles salidas (correspondientes a 6 emociones faciales detectables básicas y una neutral) se estudiaron varias posibles arquitecturas de computer vision y clasificación de imágenes entre las que se pueden mencionar: AlexNet, VGG, inception y ResNet. Siendo esta última la escogida para el modelo propuesto dada su versatilidad en el entrenamiento de redes profundas sin presentar el problema de desvanecimiento de gradiente (vanishing gradient).",
       "en": "Since this is an image classification problem with 7 possible outputs (corresponding to 6 basic detectable facial emotions and one neutral), several possible computer vision and image classification architectures were studied, among which we can mention: AlexNet, VGG, inception and ResNet. The latter being chosen for the proposed model given its versatility in training deep networks without presenting the problem of gradient vanishing.",
       "es": "Dado que se trata de un problema de clasificación de imágenes con 7 posibles salidas (correspondientes a 6 emociones faciales detectables básicas y una neutral) se estudiaron varias posibles arquitecturas de computer vision y clasificación de imágenes entre las que se pueden mencionar: AlexNet, VGG, inception y ResNet. Siendo esta última la escogida para el modelo propuesto dada su versatilidad en el entrenamiento de redes profundas sin presentar el problema de desvanecimiento de gradiente (vanishing gradient).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la siguiente tabla se puede observar su porcentaje de error frente al dataset de clasificación de imágenes de la competencia ImageNet de 2015.",
       "en": "In the following table you can see its error percentage compared to the image classification dataset from the 2015 ImageNet competition.",
       "es": "En la siguiente tabla se puede observar su porcentaje de error frente al dataset de clasificación de imágenes de la competencia ImageNet de 2015.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El principio de funcionamiento de las redes residuales (ResNet) puede entenderse analizando lo que sus autores denominan bloque residual convolucional.",
       "en": "The principle of operation of residual networks (ResNet) can be understood by analyzing what its authors call convolutional residual block.",
       "es": "El principio de funcionamiento de las redes residuales (ResNet) puede entenderse analizando lo que sus autores denominan bloque residual convolucional.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Si suponemos que la salida del bloque F(x) tiene la misma dimensión que su entrada x, se conoce a este bloque como bloque residual identidad que puede resumirse bajo la siguiente fórmula:",
       "en": "If we assume that the output of the block F(x) has the same dimension as its input x, this block is known as the residual identity block, which can be summarized by the following formula:",
       "es": "Si suponemos que la salida del bloque F(x) tiene la misma dimensión que su entrada x, se conoce a este bloque como bloque residual identidad que puede resumirse bajo la siguiente fórmula:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "x = x + F(x)",
       "en": "x = x + F(x)",
       "es": "x = x + F(x)",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Donde por simplicidad la salida del bloque también se llamará x.",
       "en": "Where for simplicity the output of the block will also be called x.",
       "es": "Donde por simplicidad la salida del bloque también se llamará x.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los datos resultantes del bloque residual Identidad no son modificados, esto es porque el tensor que resulta de las etapas convolucionales F(x) es de las mismas dimensiones que los datos originales, por lo que no es necesario ajustar las dimensiones para sumarlos.",
-      "en": "The resulting data from the residual Identity block are not modified, this is because the tensor that results from the convolutional stages F(x) is of the same dimensions as the original data, so it is not necessary to adjust the dimensions to add them.",
-      "es": "Los datos resultantes del bloque residual Identidad no son modificados, esto es porque el tensor que resulta de las etapas convolucionales F(x) es de las mismas dimensiones que los datos originales, por lo que no es necesario ajustar las dimensiones para sumarlos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "In an identity block, the skip connection needs no transformation: F(x) and the input x have the same dimensions and can be added directly. This does not mean the output is identical to the input.",
+      "es": "En el bloque de identidad no es necesario modificar la conexión de salto: F(x) y la entrada x tienen las mismas dimensiones y pueden sumarse directamente. Esto no significa que la salida sea idéntica a la entrada.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En el caso que las dimensiones de salida y el tensor de entrada sean diferentes porque se incrementen el número de canales o se modifiquen las dimensiones del tensor será necesario aplicar operaciones a x para hacer congruentes las dimensiones.",
       "en": "In the event that the output dimensions and the input tensor are different because the number of channels is increased or the dimensions of the tensor are modified, it will be necessary to apply operations to x to make the dimensions congruent.",
       "es": "En el caso que las dimensiones de salida y el tensor de entrada sean diferentes porque se incrementen el número de canales o se modifiquen las dimensiones del tensor será necesario aplicar operaciones a x para hacer congruentes las dimensiones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por ello, para poder hacer la suma de la liga residual con los datos procesados, se agrega una capa convolucional (sin activación) en la liga puente con paso de dos y con el número de canales requeridos.",
       "en": "Therefore, in order to be able to add the residual link with the processed data, a convolutional layer (without activation) is added to the bridge link with a step of two and with the required number of channels.",
       "es": "Por ello, para poder hacer la suma de la liga residual con los datos procesados, se agrega una capa convolucional (sin activación) en la liga puente con paso de dos y con el número de canales requeridos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "X = [Vx + b] + F(x)",
@@ -165,201 +280,341 @@
       "source": "A este bloque se le conoce como bloque residual convolucional.",
       "en": "This block is known as a convolutional residual block.",
       "es": "A este bloque se le conoce como bloque residual convolucional.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para el caso del modelo implementado para reconocimiento de emociones se implementó una red ResNet de 9 bloques para que el entrenamiento no sea demasiado extenso ni consuma demasiados recursos del GPU y memoria asignados en el notebook diseñado.",
       "en": "In the case of the model implemented for emotion recognition, a 9-block ResNet network was implemented so that the training is not too extensive or consumes too many GPU and memory resources allocated in the designed notebook.",
       "es": "Para el caso del modelo implementado para reconocimiento de emociones se implementó una red ResNet de 9 bloques para que el entrenamiento no sea demasiado extenso ni consuma demasiados recursos del GPU y memoria asignados en el notebook diseñado.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dada la naturaleza del dataset compuesto utilizado, cuyas imágenes contienen variación de tamaños, imágenes a color y en escala de grises además de para algunas de las emociones detectadas se tienen menos imágenes para la etapa de entrenamiento que otras, se utilizaron las siguientes técnicas de data augmentation:",
       "en": "Given the nature of the composite dataset used, whose images contain variation in sizes, color and grayscale images, and for some of the detected emotions there are fewer images for the training stage than others, the following data augmentation techniques were used:",
       "es": "Dada la naturaleza del dataset compuesto utilizado, cuyas imágenes contienen variación de tamaños, imágenes a color y en escala de grises además de para algunas de las emociones detectadas se tienen menos imágenes para la etapa de entrenamiento que otras, se utilizaron las siguientes técnicas de data augmentation:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Random horizontal flip: Utilizada para aleatoriamente espejar imágenes en sentido horizontal.",
       "en": "Random horizontal flip: Used to randomly mirror images horizontally.",
       "es": "Random horizontal flip: Utilizada para aleatoriamente espejar imágenes en sentido horizontal.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Color Jitter: Para aleatoriamente ajustar el brillo y contraste de las imágenes.",
       "en": "Color Jitter: To randomly adjust the brightness and contrast of images.",
       "es": "Color Jitter: Para aleatoriamente ajustar el brillo y contraste de las imágenes.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Resize: Para parametrizar el tamaño de las imágenes antes de la entrada al entrenamiento",
       "en": "Resize: To parameterize the size of the images before entering the training",
       "es": "Resize: Para parametrizar el tamaño de las imágenes antes de la entrada al entrenamiento",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Random rotation: Para aleatoriamente girar imágenes en 20 grados de su posición original.",
       "en": "Random rotation: To randomly rotate images by 20 degrees from their original position.",
       "es": "Random rotation: Para aleatoriamente girar imágenes en 20 grados de su posición original.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Grayscale: para que todas las imágenes de entrada sean en escala de grises.",
       "en": "Grayscale: to make all input images grayscale.",
       "es": "Grayscale: para que todas las imágenes de entrada sean en escala de grises.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "To Tensor: Para convertir las imágenes en tensores previamente al entrenamiento",
       "en": "To Tensor: To convert images into tensors prior to training",
       "es": "To Tensor: Para convertir las imágenes en tensores previamente al entrenamiento",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "También se utilizaron algunas técnicas para hacer el entrenamiento más óptimo:",
       "en": "Some techniques were also used to make the training more optimal:",
       "es": "También se utilizaron algunas técnicas para hacer el entrenamiento más óptimo:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learning Rate Scheduling: Para tener un learning rate variable a medida que avanza el entrenamiento en cada epoch, siendo así que alrededor del 30 por ciento de las epochs se tenga el máximo valor del learning rate.",
       "en": "Learning Rate Scheduling: To have a variable learning rate as the training progresses in each epoch, so that around 30 percent of the epochs have the maximum value of the learning rate.",
       "es": "Learning Rate Scheduling: Para tener un learning rate variable a medida que avanza el entrenamiento en cada epoch, siendo así que alrededor del 30 por ciento de las epochs se tenga el máximo valor del learning rate.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Weight Decay: Previene que los pesos sean demasiado grandes.",
-      "en": "Weight Decay: Prevents weights from being too heavy.",
+      "en": "Weight decay: discourages excessively large parameter values.",
       "es": "Weight Decay: Previene que los pesos sean demasiado grandes.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Gradient Clipping: limita los valores de los gradientes a un rango pequeño para evitar cambios no deseados en los parámetros debido a grandes valores de gradiente.",
       "en": "Gradient Clipping: Limits gradient values to a small range to avoid unwanted changes in parameters due to large gradient values.",
       "es": "Gradient Clipping: limita los valores de los gradientes a un rango pequeño para evitar cambios no deseados en los parámetros debido a grandes valores de gradiente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cabe mencionar que en la construcción del modelo ResNet se utilizaron también técnicas conocidas de optimización como ser: batch normalization, maxpool y dropout.",
       "en": "It is worth mentioning that in the construction of the ResNet model, well-known optimization techniques were also used, such as: batch normalization, maxpool and dropout.",
       "es": "Cabe mencionar que en la construcción del modelo ResNet se utilizaron también técnicas conocidas de optimización como ser: batch normalization, maxpool y dropout.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En el caso de la detección de rostros para su posterior clasificación, se utilizó el modelo pre entrenado de Open CV “Haar cascade frontal face” cuya llamada a dicho modelo se hace dentro de un script de JavaScript para el manejo de Webcam dentro de Colab en tiempo real.",
       "en": "In the case of face detection for subsequent classification, the pre-trained Open CV model “Haar cascade frontal face” was used, whose call to said model is made within a JavaScript script for Webcam management within Colab in real time.",
       "es": "En el caso de la detección de rostros para su posterior clasificación, se utilizó el modelo pre entrenado de Open CV “Haar cascade frontal face” cuya llamada a dicho modelo se hace dentro de un script de JavaScript para el manejo de Webcam dentro de Colab en tiempo real.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dentro de la función desarrollada en JavaScript para el acceso a Webcam en tiempo real, se encuentran tanto el modelo pre entrenado de detección de rostros como el modelo entrenado para la clasificación de emociones, ambos funcionan en tiempo real logrando de esa manera detectar emociones en cuestión de segundos mientras se van guardando las predicciones obtenidas para realizar gráficas al finalizar la ejecución de la función como en la siguiente gráfica",
-      "en": "Within the function developed in JavaScript for Webcam access in real time, there are both the pre-trained face detection model and the trained model for the classification of emotions, both work in real time, thus managing to detect emotions in a matter of seconds while saving the predictions obtained to make graphs at the end of the execution of the function as in the following graph",
-      "es": "Dentro de la función desarrollada en JavaScript para el acceso a Webcam en tiempo real, se encuentran tanto el modelo pre entrenado de detección de rostros como el modelo entrenado para la clasificación de emociones, ambos funcionan en tiempo real logrando de esa manera detectar emociones en cuestión de segundos mientras se van guardando las predicciones obtenidas para realizar gráficas al finalizar la ejecución de la función como en la siguiente gráfica",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The webcam function combines face detection with the facial expression classifier. It saves predictions during execution so they can later be displayed in charts.",
+      "es": "La función de acceso a la webcam combina la detección de rostros con el clasificador de expresiones faciales. Guarda las predicciones generadas durante la ejecución y permite visualizarlas después en gráficas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La siguiente imagen muestra una captura de pantalla del modelo en pleno funcionamiento detectando la emoción de enojo (angry).",
-      "en": "The following image shows a screenshot of the model in full operation detecting the emotion of anger.",
-      "es": "La siguiente imagen muestra una captura de pantalla del modelo en pleno funcionamiento detectando la emoción de enojo (angry).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The following screenshot shows a prediction labelled “angry”. This is a classifier output, not confirmation of the person’s emotional state.",
+      "es": "La siguiente captura muestra una predicción con la etiqueta “angry” (enfado). Es una salida del clasificador, no una constatación del estado emocional de la persona.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "emociones",
       "en": "emotions",
       "es": "emociones",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se utilizaron 40 epochs para el entrenamiento del modelo diseñado logrando una precisión del 70% en un tiempo de entrenamiento de aproximadamente 40 minutos. Cabe mencionar que el accuracy a lo largo de las epoch no fluctúa demasiado, esto después de haber modificado el dataset de forma manual eliminando imágenes consideradas ruido.",
       "en": "40 epochs were used for training the designed model, achieving an accuracy of 70% in a training time of approximately 40 minutes. It is worth mentioning that the accuracy throughout the epoch does not fluctuate too much, this after having modified the dataset manually by eliminating images considered noise.",
       "es": "Se utilizaron 40 epochs para el entrenamiento del modelo diseñado logrando una precisión del 70% en un tiempo de entrenamiento de aproximadamente 40 minutos. Cabe mencionar que el accuracy a lo largo de las epoch no fluctúa demasiado, esto después de haber modificado el dataset de forma manual eliminando imágenes consideradas ruido.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es posible ver el cambio del learning rate durante el entrenamiento en la siguiente imagen.",
       "en": "It is possible to see the change of learning rate during training in the next image.",
       "es": "Es posible ver el cambio del learning rate durante el entrenamiento en la siguiente imagen.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las predicciones del modelo en general son acertadas tomando en cuenta que Google Colab tiene recursos limitados de GPU y memoria asignada a cada notebook.",
-      "en": "The model's predictions are generally accurate considering that Google Colab has limited GPU and memory resources allocated to each notebook.",
-      "es": "Las predicciones del modelo en general son acertadas tomando en cuenta que Google Colab tiene recursos limitados de GPU y memoria asignada a cada notebook.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The team obtained 70% accuracy in its evaluation using the GPU and memory resources available in Google Colab. That result concerns the dataset’s labels, not the measurement of real emotions.",
+      "es": "El equipo obtuvo una exactitud del 70 % en su evaluación, con los recursos de GPU y memoria disponibles en Google Colab. Ese resultado se refiere a las etiquetas del conjunto de datos, no a la medición de emociones reales.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-Un buen dataset es imprescindible para una buena detección, al conseguir fragmentos de datasets de forma gratuita, se evidencio que tenían imágenes erróneas que no correspondian con la emoción a detectar, es por eso que se tuvo que analizar cada imagen del dataset, limpiar y agregar datos para poder tener un resultado certero. Se recomienda acceder a dataset elaborados por universidades o instituciones dedicadas a la investigación.",
       "en": "-A good dataset is essential for good detection, when obtaining fragments of datasets for free, it was evident that they had erroneous images that did not correspond to the emotion to be detected, that is why each image of the dataset had to be analyzed, cleaned and added data to be able to have an accurate result. It is recommended to access datasets prepared by universities or institutions dedicated to research.",
-      "es": "-Un buen dataset es imprescindible para una buena detección, al conseguir fragmentos de datasets de forma gratuita, se evidencio que tenían imágenes erróneas que no correspondian con la emoción a detectar, es por eso que se tuvo que analizar cada imagen del dataset, limpiar y agregar datos para poder tener un resultado certero. Se recomienda acceder a dataset elaborados por universidades o instituciones dedicadas a la investigación.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "es": "-Un buen dataset es imprescindible para una buena detección, al conseguir fragmentos de datasets de forma gratuita, se evidenció que tenían imágenes erróneas que no correspondían con la emoción a detectar, es por eso que se tuvo que analizar cada imagen del dataset, limpiar y agregar datos para poder tener un resultado certero. Se recomienda acceder a dataset elaborados por universidades o instituciones dedicadas a la investigación.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-Se utilizó un modelo pre-entrenado para el reconocimiento de rostros, y posteriormente se creó un modelo propio capaz de detectar emociones en tiempo real con un accuracy de 70%.",
-      "en": "-A pre-trained model was used for face recognition, and subsequently our own model was created capable of detecting emotions in real time with an accuracy of 70%.",
-      "es": "-Se utilizó un modelo pre-entrenado para el reconocimiento de rostros, y posteriormente se creó un modelo propio capaz de detectar emociones en tiempo real con un accuracy de 70%.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "-We used a pretrained face detector and our own facial expression classifier, which achieved 70% accuracy in the evaluation described.",
+      "es": "-Utilizamos un detector de rostros preentrenado y un clasificador propio de expresiones faciales, que alcanzó una exactitud del 70 % en la evaluación descrita.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-La utilización de redes neuronales residuales que beneficiaron en un tiempo de entrenamiento más corto con resultados aceptables.",
       "en": "-The use of residual neural networks that benefited from a shorter training time with acceptable results.",
       "es": "-La utilización de redes neuronales residuales que beneficiaron en un tiempo de entrenamiento más corto con resultados aceptables.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "-Se implementó el sistema de reconocimiento de emociones en tiempo real dentro del entorno de colab con funciones de javaScript, de otra forma no sería posible el manejo de una webCam dentro de colab.",
-      "en": "-The real-time emotion recognition system was implemented within the colab environment with javaScript functions, otherwise it would not be possible to manage a webCam within colab.",
-      "es": "-Se implementó el sistema de reconocimiento de emociones en tiempo real dentro del entorno de colab con funciones de javaScript, de otra forma no sería posible el manejo de una webCam dentro de colab.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "-The real-time emotion recognition system was implemented within the colab environment with JavaScript functions, otherwise it would not be possible to manage a webcam within colab.",
+      "es": "-Se implementó el sistema de reconocimiento de emociones en tiempo real dentro del entorno de Colab con funciones de JavaScript, de otra forma no sería posible el manejo de una webcam dentro de Colab.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "-Se guardan los datos y se presentan distintas gráficas al final de la detección con el fin de que el docente pueda tener visualización de los datos obtenidos durante toda su clase.",
       "en": "-The data is saved and different graphs are presented at the end of the detection so that the teacher can view the data obtained throughout his class.",
       "es": "-Se guardan los datos y se presentan distintas gráficas al final de la detección con el fin de que el docente pueda tener visualización de los datos obtenidos durante toda su clase.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las aplicaciones posteriores de este modelo pueden ser utilizadas en detección de emociones en marketing, creación de contenidos y desarrollo de productos.",
-      "en": "Further applications of this model can be used in emotion detection in marketing, content creation, and product development.",
-      "es": "Las aplicaciones posteriores de este modelo pueden ser utilizadas en detección de emociones en marketing, creación de contenidos y desarrollo de productos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The team proposed possible research directions in marketing, content creation and product development. Their feasibility and appropriateness require independent evaluation; facial expressions cannot simply be assumed to reveal a person’s emotions.",
+      "es": "El equipo planteó posibles líneas de trabajo en marketing, creación de contenidos y desarrollo de productos. Su viabilidad y legitimidad requieren una evaluación independiente; no se puede asumir que las expresiones revelen las emociones de una persona.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El código completo tanto del notebook usado para el entrenamiento como el notebook usado para la ejecución misma del modelo pueden encontrarlos en:",
       "en": "The complete code of both the notebook used for training and the notebook used for the execution of the model itself can be found at:",
       "es": "El código completo tanto del notebook usado para el entrenamiento como el notebook usado para la ejecución misma del modelo pueden encontrarlos en:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mellouck & Handouzi. (2020). Facial emotion recognition using deep learning: review and insights. Procedia Computer Science.",
       "en": "Mellouck & Handouzi. (2020). Facial emotion recognition using deep learning: review and insights. Procedia Computer Science.",
       "es": "Mellouck y Handouzi. (2020). Reconocimiento de emociones faciales mediante aprendizaje profundo: revisión y conocimientos. Procedia Ciencias de la Computación.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -372,25 +627,40 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Minae et al. (2019). Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network",
       "en": "Minae et al. (2019). Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network",
       "es": "Minae et al. (2019). Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Rivera. (2019). La Red Residual (Residual Network, ResNet).",
       "en": "Rivera. (2019). The Residual Network (Residual Network, ResNet).",
       "es": "Rivera. (2019). La Red Residual (Residual Network, ResNet).",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Bok. (2020). Getting Started with Albumentation: Winning Deep Learning Image Augmentation Technique in PyTorch example.",
       "en": "Bok. (2020). Getting Started with Albumentation: Winning Deep Learning Image Augmentation Technique in PyTorch example.",
-      "es": "Libro. (2020). Primeros pasos con la albumentación: ejemplo de técnica ganadora de aumento de imágenes de aprendizaje profundo en PyTorch.",
-      "reviewed": false,
+      "es": "Bok. (2020). Primeros pasos con la albumentación: ejemplo de técnica ganadora de aumento de imágenes de aprendizaje profundo en PyTorch.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -403,37 +673,67 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Rohan Singh",
       "en": "Rohan Singh",
       "es": "Rohan Singh",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". (2020). Emotion Detection Using Pytorch.",
       "en": ". (2020). Emotion Detection Using Pytorch.",
       "es": ". (2020). Emotion Detection Using Pytorch.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Artificial Intelligence",
-      "en": "Artificial Intelligence",
-      "es": "Artificial Intelligence",
-      "reviewed": false
+      "en": "Artificial intelligence",
+      "es": "Inteligencia artificial",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Emotions",
       "en": "Emotions",
       "es": "Emotions",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nov 21, 2021",
       "en": "Nov 21, 2021",
       "es": "Nov 21, 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     }
   ]
 }

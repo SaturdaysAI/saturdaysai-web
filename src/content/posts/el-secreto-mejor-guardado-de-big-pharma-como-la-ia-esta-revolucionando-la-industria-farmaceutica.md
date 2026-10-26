@@ -38,7 +38,7 @@ Capgemini, una empresa francesa de tecnología, está ayudando a las compañías
 
 ### IA Generativa: Innovando en el Desarrollo de Medicamentos
 
-Una de las aplicaciones más prometedoras de la IA en la farmacéutica es la **IA generativa**. Esta tecnología crea nuevas moléculas a partir de datos existentes, permitiendo descubrimientos que serían imposibles con métodos tradicionales. [Biorelate](https://biorelate.com/post/astrazenecas-innovative-graph-as-a-service-and-generative-ai-models-is-this-the-future-of-data-science), una empresa de bioinformática farmacéutica ha implementado modelos generativos para diseñar moléculas que podrían tratar enfermedades complejas.
+Una de las aplicaciones prometedoras de la IA en la industria farmacéutica es la IA generativa. Estos modelos pueden proponer estructuras moleculares para su posterior estudio. Generar una estructura no demuestra que sea sintetizable, útil o segura. Por otra parte, empresas como [Biorelate](https://biorelate.com/post/astrazenecas-innovative-graph-as-a-service-and-generative-ai-models-is-this-the-future-of-data-science) trabajan con información biomédica y redes de conocimiento. Conviene distinguir ese trabajo de la generación de moléculas: organizar evidencia y diseñar candidatos son tareas relacionadas, pero diferentes.
 
 Estas herramientas no solo analizan datos, sino que también generan soluciones. Por ejemplo, al utilizar **«Graph-as-a-Service»**, Biorelate está creando redes de conocimiento que integran información clínica y genómica para acelerar el desarrollo de fármacos. Este enfoque podría revolucionar áreas como la oncología y las enfermedades neurodegenerativas.
 

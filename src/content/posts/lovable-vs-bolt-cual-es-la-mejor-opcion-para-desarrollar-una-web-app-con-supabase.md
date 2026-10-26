@@ -1,9 +1,9 @@
 ---
 title: "Lovable vs. Bolt: ¿Cuál es la mejor opción para desarrollar una web app
   con Supabase?"
-description: ¿Lovable o Bolt? Descubre cuál de estas herramientas impulsadas por
-  IA es la ideal para desarrollar tu próxima web app con Supabase. En este
-  artículo, comparo ambas opciones mientras construyo una app para el manejo de…
+description: "Mi experiencia creando dos prototipos con Lovable, Bolt y
+  Supabase: flujo de trabajo, reutilización de datos y aspectos que revisar
+  antes de publicar."
 pubDate: 2025-01-22
 author: Alan
 category: Community

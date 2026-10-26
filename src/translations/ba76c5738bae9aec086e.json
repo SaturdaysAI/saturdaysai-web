@@ -19,408 +19,718 @@
       "source": "Funcionamiento",
       "en": "Operation",
       "es": "Funcionamiento",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Algoritmo YOLOv4",
       "en": "YOLOv4 algorithm",
       "es": "Algoritmo YOLOv4",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "EDA: Y ahora… ¡Metemos los “Datos” de nuestros sensores a la caja negra!",
-      "en": "EDA: And now… We put the “Data” from our sensors into the black box!",
-      "es": "EDA: Y ahora… ¡Metemos los “Datos” de nuestros sensores a la caja negra!",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Preprocessing and postprocessing: feeding sensor data into the black box!",
+      "es": "Preprocesamiento y posprocesamiento: ¡metemos los datos de los sensores en la caja negra!",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "[Coordenadas de las Personas, Index_Impuros]",
       "en": "[Coordinates of People, Index_Impuros]",
       "es": "[Coordenadas de las Personas, Index_Impuros]",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RPI3",
       "en": "RPI3",
       "es": "RPI3",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Servidor FLASK:",
       "en": "FLASK Server:",
       "es": "Servidor FLASK:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Microcontrolador",
       "en": "Microcontroller",
       "es": "Microcontrolador",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Interrupciones",
-      "en": "Interruptions",
+      "en": "Interrupts",
       "es": "Interrupciones",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Trabajo a futuro",
       "en": "Future work",
-      "es": "Trabajo a futuro",
-      "reviewed": false
+      "es": "Trabajo futuro",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El fatídico 11 de marzo del 2020, la OMS declaró la pandemia mundial por COVID-19. Más de 300 días después, hemos decidido hacer público y accesible para el mundo entero el trabajo que hemos venido desarrollando durante más de 8 semanas.",
       "en": "On the fateful March 11, 2020, the WHO declared the COVID-19 global pandemic. More than 300 days later, we have decided to make public and accessible to the entire world the work we have been developing for more than 8 weeks.",
       "es": "El fatídico 11 de marzo del 2020, la OMS declaró la pandemia mundial por COVID-19. Más de 300 días después, hemos decidido hacer público y accesible para el mundo entero el trabajo que hemos venido desarrollando durante más de 8 semanas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Prepárense, gobiernos e instituciones sanitarias del planeta, pues lo que van a ver en este artículo establecerá los cimientos de un nuevo sistema de vigilancia que permitirá asegurar el cumplimiento de una de las medidas que más se ha repetido durante estos fatídicos 300 días: la distancia de seguridad interpersonal de metro y medio.",
-      "en": "Get ready, governments and health institutions on the planet, because what you are going to see in this article will establish the foundations of a new surveillance system that will ensure compliance with one of the measures that has been repeated the most during these fateful 300 days: the interpersonal safety distance of one and a half meters.",
-      "es": "Prepárense, gobiernos e instituciones sanitarias del planeta, pues lo que van a ver en este artículo establecerá los cimientos de un nuevo sistema de vigilancia que permitirá asegurar el cumplimiento de una de las medidas que más se ha repetido durante estos fatídicos 300 días: la distancia de seguridad interpersonal de metro y medio.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Governments and health institutions, get ready: here is our ambitious idea for exploring how AI and electronics could help monitor the distance between people. It was an educational prototype, not a validated public-health system.",
+      "es": "Prepárense, gobiernos e instituciones sanitarias del planeta: en este artículo presentamos nuestra ambiciosa idea para explorar cómo la IA y la electrónica podían ayudar a observar la distancia entre personas. Era un prototipo educativo, no un sistema sanitario validado.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Nuestro incombustible grupo, formado por 3 “locos” ingenieros (alguno de ellos en proceso) ha trabajado día y noche para traer la mejor solución posible a este problema.",
       "en": "Our tireless group, made up of 3 “crazy” engineers (some of them in progress) has worked day and night to bring the best possible solution to this problem.",
       "es": "Nuestro incombustible grupo, formado por 3 “locos” ingenieros (alguno de ellos en proceso) ha trabajado día y noche para traer la mejor solución posible a este problema.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El proyecto, que comenzó bajo el nombre de",
       "en": "The project, which began under the name",
       "es": "El proyecto, que comenzó bajo el nombre de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "WATCHDOG",
       "en": "WATCHDOG",
       "es": "WATCHDOG",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(perro guardián) por la misión inicial que teníamos en mente (un robot con autonomía de movimientos que vigilase el cumplimiento de la distancia de seguridad y que ladrase cada vez que esta fuera quebrantada) iba a ofrecer, más allá del obvio beneficio de un constante recordatorio a las personas de la necesidad de cumplir con la medida de la distancia interpersonal, una herramienta para el mapeo y creación de “puntos calientes” en los que la distancia se incumpliese más a menudo.",
       "en": "(guard dog) for the initial mission that we had in mind (a robot with autonomous movements that monitors compliance with the safety distance and that barks every time it is broken) was going to offer, beyond the obvious benefit of a constant reminder to people of the need to comply with the measure of interpersonal distance, a tool for mapping and creating “hot spots” in which the distance was violated more often.",
       "es": "(perro guardián) por la misión inicial que teníamos en mente (un robot con autonomía de movimientos que vigilase el cumplimiento de la distancia de seguridad y que ladrase cada vez que esta fuera quebrantada) iba a ofrecer, más allá del obvio beneficio de un constante recordatorio a las personas de la necesidad de cumplir con la medida de la distancia interpersonal, una herramienta para el mapeo y creación de “puntos calientes” en los que la distancia se incumpliese más a menudo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para todo ello, el equipo ha tratado de crear una convergencia entre los mundos de la electrónica y la Inteligencia Artificial, haciendo uso de los medios más innovadores que tenía a su mano. Con una Raspberry Pi 3, un microcontrolador de bajo nivel equivalente a Arduino Mega, diferentes medios para la comunicación, algoritmos, librerías y redes neuronales convolucionales se ha tratado de alcanzar la solución con la mayor satisfacción posible.",
       "en": "For all this, the team has tried to create a convergence between the worlds of electronics and Artificial Intelligence, making use of the most innovative means at its disposal. With a Raspberry Pi 3, a low-level microcontroller equivalent to Arduino Mega, different means for communication, algorithms, libraries and convolutional neural networks, we have tried to achieve the solution with the greatest possible satisfaction.",
       "es": "Para todo ello, el equipo ha tratado de crear una convergencia entre los mundos de la electrónica y la Inteligencia Artificial, haciendo uso de los medios más innovadores que tenía a su mano. Con una Raspberry Pi 3, un microcontrolador de bajo nivel equivalente a Arduino Mega, diferentes medios para la comunicación, algoritmos, librerías y redes neuronales convolucionales se ha tratado de alcanzar la solución con la mayor satisfacción posible.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para el proyecto de",
       "en": "For the project of",
       "es": "Para el proyecto de",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "se ha pensado en desarrollar un proyecto",
       "en": "it has been thought about developing a project",
       "es": "se ha pensado en desarrollar un proyecto",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Watchdog",
       "en": "watchdog",
       "es": "Watchdog",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(perro guardián) que vigila la distancia mínima recomendada por los protocolos Anti-COVID.",
-      "en": "(guard dog) that monitors the minimum distance recommended by Anti-COVID protocols.",
-      "es": "(perro guardián) que vigila la distancia mínima recomendada por los protocolos Anti-COVID.",
-      "reviewed": false
+      "en": "(guard dog) to monitor the minimum distance recommended by COVID-19 guidance at the time.",
+      "es": "(perro guardián) para observar la distancia mínima recomendada por los protocolos contra la COVID-19 de aquel momento.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El planteamiento inicial ha sido el de programar un robot capaz de emitir un ladrido cuando la distancia de seguridad (requerido por los protocolos Anti-COVID) fuera quebrantada, enviando los datos adquiridos a un servidor y realizar un mapeo (mapa de calor) en tiempo real.",
       "en": "The initial approach has been to program a robot capable of emitting a bark when the safety distance (required by Anti-COVID protocols) was broken, sending the acquired data to a server and performing a mapping (heat map) in real time.",
       "es": "El planteamiento inicial ha sido el de programar un robot capaz de emitir un ladrido cuando la distancia de seguridad (requerido por los protocolos Anti-COVID) fuera quebrantada, enviando los datos adquiridos a un servidor y realizar un mapeo (mapa de calor) en tiempo real.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo básico del proyecto es",
       "en": "The basic objective of the project is",
       "es": "El objetivo básico del proyecto es",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "converger el mundo OT con el mundo IT, es decir, la convergencia de la electrónica con el de la IA",
       "en": "converge the OT world with the IT world, that is, the convergence of electronics with that of AI",
       "es": "converger el mundo OT con el mundo IT, es decir, la convergencia de la electrónica con el de la IA",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(inteligencia artificial) muy de moda en el mundo IT, utilizando técnicas de",
       "en": "(artificial intelligence) very fashionable in the IT world, using",
       "es": "(inteligencia artificial) muy de moda en el mundo IT, utilizando técnicas de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", que es una de las ramas del",
       "en": ", which is one of the branches of",
       "es": ", que es una de las ramas del",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". De hecho, a pesar de que esta primera edición de AI Saturdays Euskadi se haya orientado al",
       "en": ". In fact, although this first edition of AI Saturdays Euskadi has been oriented towards",
       "es": ". De hecho, a pesar de que esta primera edición de AI Saturdays Euskadi se haya orientado al",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "en general, hemos decidido profundizar en el",
       "en": "In general, we have decided to delve deeper into the",
       "es": "en general, hemos decidido profundizar en el",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "por voluntad propia.",
-      "en": "of his own free will.",
-      "es": "por voluntad propia.",
-      "reviewed": false
+      "en": "on our own initiative.",
+      "es": "por iniciativa propia.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Poco a poco se están desarrollando tarjetas electrónicas autónomas que funcionan",
       "en": "Little by little, autonomous electronic cards are being developed that work",
       "es": "Poco a poco se están desarrollando tarjetas electrónicas autónomas que funcionan",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "At The Edge",
       "en": "At The Edge",
       "es": "At The Edge",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(es decir que la misma tarjeta de control aplica los algoritmos) sin utilizar el",
       "en": "(that is, the same control card applies the algorithms) without using the",
       "es": "(es decir que la misma tarjeta de control aplica los algoritmos) sin utilizar el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cloud",
       "en": "Cloud",
       "es": "Cloud",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para ello, o sin utilizar una unidad PC más potente para su procesado. Este fenómeno, conocido como",
       "en": "for this, or without using a more powerful PC unit for processing. This phenomenon, known as",
       "es": "para ello, o sin utilizar una unidad PC más potente para su procesado. Este fenómeno, conocido como",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Edge Computing",
       "en": "Edge Computing",
       "es": "Edge Computing",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", permite aliviar la carga de procesamiento a servidores centrales delegando tareas que puedan ser sencillas pero repetitivas a los nodos externos.",
       "en": ", allows you to alleviate the processing load on central servers by delegating tasks that may be simple but repetitive to external nodes.",
       "es": ", permite aliviar la carga de procesamiento a servidores centrales delegando tareas que puedan ser sencillas pero repetitivas a los nodos externos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cuando se detectan 2 personas, manda la posición de la detección y la imagen de violación de la distancia a un servidor Web, creado con Flask.",
-      "en": "When 2 people are detected, it sends the detection position and the distance violation image to a Web server, created with Flask.",
-      "es": "Cuando se detectan 2 personas, manda la posición de la detección y la imagen de violación de la distancia a un servidor Web, creado con Flask.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "When it detects two people closer than the configured distance threshold, it sends their positions and an image to a web server built with Flask.",
+      "es": "Cuando detecta a dos personas por debajo del umbral de distancia configurado, envía sus posiciones y una imagen a un servidor web creado con Flask.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En lo que al mapeo respecta, la idea inicial era realizar un mapeo SLAM (",
       "en": "As far as mapping is concerned, the initial idea was to perform a SLAM mapping (",
       "es": "En lo que al mapeo respecta, la idea inicial era realizar un mapeo SLAM (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "simultaneous localization and mapping",
       "en": "simultaneous localization and mapping",
       "es": "simultaneous localization and mapping",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") utilizando un sensor",
       "en": ") using a sensor",
       "es": ") utilizando un sensor",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "LIDAR",
       "en": "lidar",
       "es": "LIDAR",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "o una cámara 3D, pero nos hemos encontrado con limitaciones para hacer un",
       "en": "or a 3D camera, but we have found limitations to make a",
       "es": "o una cámara 3D, pero nos hemos encontrado con limitaciones para hacer un",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Point Cloud",
       "en": "Point Cloud",
       "es": "Point Cloud",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que nos permitiera ejecutar el mapeo. Se describe esta limitación en los Trabajos a Futuro.",
       "en": "that would allow us to execute the mapping. This limitation is described in Future Work.",
       "es": "que nos permitiera ejecutar el mapeo. Se describe esta limitación en los Trabajos a Futuro.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El objetivo inicial era plasmar todo el código dentro de una tarjeta Raspberry PI 3 (de aquí en adelante",
       "en": "The initial objective was to capture all the code inside a Raspberry PI 3 card (hereinafter",
       "es": "El objetivo inicial era plasmar todo el código dentro de una tarjeta Raspberry PI 3 (de aquí en adelante",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RPi3",
       "en": "RPi3",
       "es": "RPi3",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "), pero a pesar de existen librerías para controlar los módulos de entradas y salidas (GPIO), el dispositivo no es lo suficientemente potente para poder procesar todo en tiempo real. Para ello existen módulos dedicados y deterministas que facilitan estas tareas.",
       "en": "), but although there are libraries to control the input and output modules (GPIO), the device is not powerful enough to be able to process everything in real time. For this, there are dedicated and deterministic modules that facilitate these tasks.",
       "es": "), pero a pesar de existen librerías para controlar los módulos de entradas y salidas (GPIO), el dispositivo no es lo suficientemente potente para poder procesar todo en tiempo real. Para ello existen módulos dedicados y deterministas que facilitan estas tareas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para tratar de cumplir con el objetivo aquí propuesto se ha utilizado un microcontrolador",
       "en": "To try to meet the objective proposed here, a microcontroller has been used.",
       "es": "Para tratar de cumplir con el objetivo aquí propuesto se ha utilizado un microcontrolador",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "STM32F411RET.",
       "en": "STM32F411RET.",
       "es": "STM32F411RET.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se trata de un microcontrolador de gama baja equivalente a un Arduino Mega, pero con un sistema operativo de tiempo real (",
-      "en": "This is a low-end microcontroller equivalent to an Arduino Mega, but with a real-time operating system (",
-      "es": "Se trata de un microcontrolador de gama baja equivalente a un Arduino Mega, pero con un sistema operativo de tiempo real (",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We chose this microcontroller as an alternative to an Arduino Mega. In the project, we used a real-time operating system (",
+      "es": "Se trata de un microcontrolador que elegimos como alternativa a Arduino Mega. En el proyecto utilizamos un sistema operativo de tiempo real (",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Real Time Operating System",
       "en": "Real Time Operating System",
       "es": "Real Time Operating System",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "o RTOS), al ser determinista se tiene el control del timing y tareas, pudiendo tener un mayor control para la adquisición de datos y respuesta de los actuadores.",
-      "en": "or RTOS), being deterministic, you have control of the timing and tasks, being able to have greater control for the acquisition of data and response of the actuators.",
-      "es": "o RTOS), al ser determinista se tiene el control del timing y tareas, pudiendo tener un mayor control para la adquisición de datos y respuesta de los actuadores.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "or RTOS) to organise tasks, data acquisition and response times.",
+      "es": "o RTOS) para organizar las tareas, la adquisición de datos y los tiempos de respuesta.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se decidió utilizar esta tecnología por la gran cantidad de librerías robustas que existen para controlar los periféricos.",
       "en": "It was decided to use this technology due to the large number of robust libraries that exist to control peripherals.",
       "es": "Se decidió utilizar esta tecnología por la gran cantidad de librerías robustas que existen para controlar los periféricos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El algoritmo final que se ha usado ha sido por goleada YOLO (para nuestro caso), respecto a otros conocidos como SSD (Single Shot Detection) o la más precisa de todas las tecnologías RESNET.",
-      "en": "The final algorithm that has been used has been by a landslide YOLO (in our case), compared to others known as SSD (Single Shot Detection) or the most precise of all RESNET technologies.",
-      "es": "El algoritmo final que se ha usado ha sido por goleada YOLO (para nuestro caso), respecto a otros conocidos como SSD (Single Shot Detection) o la más precisa de todas las tecnologías RESNET.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "For our hardware and tests, YOLO provided the most useful balance of speed and detection performance. We also considered SSD (Single Shot MultiBox Detector); this was not a universal comparison of architectures.",
+      "es": "Para nuestro hardware y nuestras pruebas, YOLO ofreció el equilibrio más útil entre velocidad y detección. También valoramos SSD (Single Shot MultiBox Detector); no se trata de una comparación universal entre arquitecturas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El reto en este apartado ha sido buscar la tecnología que mejor se adapta al tiempo real y nos basamos en las reglas de oro que dijo uno de los mentores:",
       "en": "The challenge in this section has been to find the technology that best adapts to real time and we base ourselves on the golden rules that one of the mentors said:",
       "es": "El reto en este apartado ha sido buscar la tecnología que mejor se adapta al tiempo real y nos basamos en las reglas de oro que dijo uno de los mentores:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. ¿Qué pasa en el mercado? ¿Cuál es la tendencia del mismo? ¿Qué tipo de arquitectura es más viable con las restricciones presupuestarias y de tiempo que tenéis?",
       "en": "1. What is happening in the market? What is its trend? What type of architecture is most viable with the budget and time restrictions you have?",
       "es": "1. ¿Qué pasa en el mercado? ¿Cuál es la tendencia del mismo? ¿Qué tipo de arquitectura es más viable con las restricciones presupuestarias y de tiempo que tenéis?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. Mirad lo que hacen los grandes. ¿Podemos pensar igual a ellos? Es decir, ¿tenemos que plantearnos entrenar redes extremadamente complejas, o tenemos que poner los pies en la tierra y plantear ejemplos más rápidos para construir un Producto Mínimo Viable (MVP)?",
       "en": "2. Look at what the greats do. Can we think the same as them? That is, do we have to consider training extremely complex networks, or do we have to put our feet on the ground and come up with faster examples to build a Minimum Viable Product (MVP)?",
       "es": "2. Mirad lo que hacen los grandes. ¿Podemos pensar igual a ellos? Es decir, ¿tenemos que plantearnos entrenar redes extremadamente complejas, o tenemos que poner los pies en la tierra y plantear ejemplos más rápidos para construir un Producto Mínimo Viable (MVP)?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. ¡Adáptate!",
       "en": "3. Adapt!",
       "es": "3. ¡Adáptate!",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En esta fórmula, el resultado de 1+1 en ingeniería sería determinista pero en la vida real el resultado es estocástico, así que depende.",
       "en": "In this formula, the result of 1+1 in engineering would be deterministic but in real life the result is stochastic, so it depends.",
       "es": "En esta fórmula, el resultado de 1+1 en ingeniería sería determinista pero en la vida real el resultado es estocástico, así que depende.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este proyecto está acotado para capacidad computacional de gama media y se ha querido estrujar al máximo desde ese punto de vista. Por ello, el mejor algoritmo que encontramos, el cual estaba puramente escrito en C (siendo un terrible reto el aplicar funciones matemáticas a pelo; aprovechamos para agradecer a",
       "en": "This project is limited to mid-range computing capacity and we wanted to squeeze as much as possible from that point of view. For this reason, the best algorithm we found, which was purely written in C (being a terrible challenge to apply mathematical functions barehandedly; we take the opportunity to thank",
       "es": "Este proyecto está acotado para capacidad computacional de gama media y se ha querido estrujar al máximo desde ese punto de vista. Por ello, el mejor algoritmo que encontramos, el cual estaba puramente escrito en C (siendo un terrible reto el aplicar funciones matemáticas a pelo; aprovechamos para agradecer a",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Joseph Redmon",
       "en": "Joseph Redmond",
       "es": "Joseph Redmon",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") es lo más rápido comparado con librerías escritas a mayor alto nivel (TensorFlow, pyTorch).",
-      "en": ") is the fastest compared to libraries written at a higher level (TensorFlow, pyTorch).",
-      "es": ") es lo más rápido comparado con librerías escritas a mayor alto nivel (TensorFlow, pyTorch).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ") suited the constraints of our project. Performance depends on the implementation, model and hardware, not simply on the language or library.",
+      "es": ") nos resultó adecuado para las limitaciones del proyecto. El rendimiento depende de la implementación, el modelo y el hardware, no solo del lenguaje o de la biblioteca.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Como curiosidad, usando la versión para embebidos de SSD se llega a unos 18 Frames por Segundo (FPS) comparado con YOLO, que llega a 24 FPS. Sin haber añadido telecomunicaciones nos dimos cuenta cuál era el camino a seguir, pero se encontraron todo tipo de resoluciones de las distintas tecnologías.",
-      "en": "As a curiosity, using the embedded version of SSD you reach about 18 Frames per Second (FPS) compared to YOLO, which reaches 24 FPS. Without having added telecommunications we realized which was the way to follow, but all kinds of resolutions were found for the different technologies.",
-      "es": "Como curiosidad, usando la versión para embebidos de SSD se llega a unos 18 Frames por Segundo (FPS) comparado con YOLO, que llega a 24 FPS. Sin haber añadido telecomunicaciones nos dimos cuenta cuál era el camino a seguir, pero se encontraron todo tipo de resoluciones de las distintas tecnologías.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "In our tests, the embedded version of SSD reached around 18 frames per second (FPS), compared with 24 FPS for the YOLO configuration we used.",
+      "es": "Como referencia de nuestras pruebas, la versión de SSD para sistemas embebidos alcanzó unos 18 fotogramas por segundo (FPS), frente a los 24 FPS de la configuración de YOLO utilizada.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "“Cabe destacar que para el equipo, el algoritmo o tecnología más completo y adaptado si se tuviera un poco más de capacidad computacional serían",
@@ -458,290 +768,505 @@
       "source": "Si se tiene aún más curiosidad al respecto, os dejamos este",
       "en": "If you are even more curious about it, we leave you this",
       "es": "Si se tiene aún más curiosidad al respecto, os dejamos este",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Como esto se extendería hasta el infinito, no se van a explicar los detalles del funcionamiento a fondo; se adjunta un",
       "en": "As this would extend to infinity, the details of its operation will not be explained in depth; attached a",
       "es": "Como esto se extendería hasta el infinito, no se van a explicar los detalles del funcionamiento a fondo; se adjunta un",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "donde se explica detalladamente el algoritmo en su versión v3. La diferencia está en que en la versión v4 aumenta la precisión pero en su versión tiny la velocidad se mantiene constante.",
       "en": "where the algorithm is explained in detail in its v3 version. The difference is that in the v4 version the precision increases but in its tiny version the speed remains constant.",
       "es": "donde se explica detalladamente el algoritmo en su versión v3. La diferencia está en que en la versión v4 aumenta la precisión pero en su versión tiny la velocidad se mantiene constante.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La analogía del “EDA” realizado en nuestro proyecto de Deep Learning tendría que ver, entre otros, con limpieza y preprocesamientos hechos de las imágenes obtenidas. El primer preprocesamiento ejecutado sería el que ofrece la función BLOB de OpenCV que reduce la escala de 8 bits (255 RGB) a escala porcentual unitaria.",
       "en": "The analogy of the “EDA” carried out in our Deep Learning project would have to do, among others, with cleaning and preprocessing done on the images obtained. The first preprocessing executed would be the one offered by the OpenCV BLOB function that reduces the 8-bit scale (255 RGB) to a unit percentage scale.",
       "es": "La analogía del “EDA” realizado en nuestro proyecto de Deep Learning tendría que ver, entre otros, con limpieza y preprocesamientos hechos de las imágenes obtenidas. El primer preprocesamiento ejecutado sería el que ofrece la función BLOB de OpenCV que reduce la escala de 8 bits (255 RGB) a escala porcentual unitaria.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este detalle es muy importante ya que pasa el resultado de cualquier cámara a la que el algoritmo necesita de entrada. ¿Lo malo? Que se vuelen datos de coma flotante y eso requiere más gasto computacional pero de ese problema ya se encargaron sus autores.",
       "en": "This detail is very important since it passes the result of any camera to which the algorithm needs input. Bad? That floating point data is flown and that requires more computational expense but its authors have already taken care of that problem.",
       "es": "Este detalle es muy importante ya que pasa el resultado de cualquier cámara a la que el algoritmo necesita de entrada. ¿Lo malo? Que se vuelen datos de coma flotante y eso requiere más gasto computacional pero de ese problema ya se encargaron sus autores.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El “tuning” de los parámetros en este aspecto que hemos hecho ha sido pasar la imagen de entrada a la escala más pequeña (316 x 316 píxeles).",
-      "en": "The “tuning” of the parameters in this aspect that we have done has been to convert the input image to the smallest scale (316 x 316 pixels).",
-      "es": "El “tuning” de los parámetros en este aspecto que hemos hecho ha sido pasar la imagen de entrada a la escala más pequeña (316 x 316 píxeles).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Our tuning notes record an input size of 316 x 316 pixels. Check this dimension against the model configuration before reproducing the experiment.",
+      "es": "En nuestras notas de ajuste registramos una entrada de 316 x 316 píxeles. Esta dimensión debe contrastarse con la configuración del modelo antes de reproducir el experimento.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Habiendo hecho este primer paso, la imagen pasará por múltiples filtros internos cambiando la dimensionalidad de la entrada y readaptando al mejor estilo de Nolan con películas del calibre de Tenet o Inception. ¿El resultado?",
       "en": "Having done this first step, the image will go through multiple internal filters changing the dimensionality of the input and readapting in the best Nolan style with films of the caliber of Tenet or Inception. The result?",
       "es": "Habiendo hecho este primer paso, la imagen pasará por múltiples filtros internos cambiando la dimensionalidad de la entrada y readaptando al mejor estilo de Nolan con películas del calibre de Tenet o Inception. ¿El resultado?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El algoritmo YOLOv4 entrega los datos de la imagen en una matriz compuesta de",
-      "en": "The YOLOv4 algorithm delivers the image data in an array composed of",
-      "es": "El algoritmo YOLOv4 entrega los datos de la imagen en una matriz compuesta de",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "As a schematic example, a detection output can be represented by a grid with the following values. Grid size depends on the configuration; the project uses the example",
+      "es": "A modo de esquema, una salida de detección puede representarse con una cuadrícula y los siguientes valores. El tamaño de la cuadrícula depende de la configuración; el ejemplo del proyecto es",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "13x13x (A x ((B+P) + C))",
       "en": "13x13x (A x ((B+P) + C))",
       "es": "13x13x (A x ((B+P) + C))",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", siendo:",
       "en": ", being:",
       "es": ", siendo:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A: La cantidad de",
       "en": "A: The amount of",
       "es": "A: La cantidad de",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "anchor boxes",
       "en": "anchor boxes",
       "es": "anchor boxes",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "(siendo una",
       "en": "(being a",
       "es": "(siendo una",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "anchor box",
       "en": "anchor box",
       "es": "anchor box",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "un “espacio en el que se puede detectar la posible presencia de un objeto”).",
       "en": "a “space in which the possible presence of an object can be detected”).",
       "es": "un “espacio en el que se puede detectar la posible presencia de un objeto”).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "B: Las coordenadas de posición del objeto.",
       "en": "B: The position coordinates of the object.",
       "es": "B: Las coordenadas de posición del objeto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "P: La probabilidad de confianza de que hay objeto.",
       "en": "P: The confidence probability that there is an object.",
       "es": "P: La probabilidad de confianza de que hay objeto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "C: Las clases que deseamos identificar y su respectiva probabilidad.",
       "en": "C: The classes we want to identify and their respective probability.",
       "es": "C: Las clases que deseamos identificar y su respectiva probabilidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dentro del archivo “coco.names” están las clases asociadas a sus respectivos nombres pero de este resultado se filtran “únicamente” los resultados en la que la clase es una persona",
       "en": "Within the “coco.names” file are the classes associated with their respective names, but from this result “only” the results in which the class is a person are filtered",
       "es": "Dentro del archivo “coco.names” están las clases asociadas a sus respectivos nombres pero de este resultado se filtran “únicamente” los resultados en la que la clase es una persona",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Y por qué no reentrenar la red aplicando transfer learning?",
       "en": "And why not retrain the network by applying transfer learning?",
       "es": "¿Y por qué no reentrenar la red aplicando transfer learning?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Mucho ojo, ya que nuestro equipo se peleó para mejorar la respuesta de este algoritmo para aumentar y darle más valor a la matriz de salida de la versión tiny.",
       "en": "Be careful, since our team fought to improve the response of this algorithm to increase and give more value to the output matrix of the tiny version.",
       "es": "Mucho ojo, ya que nuestro equipo se peleó para mejorar la respuesta de este algoritmo para aumentar y darle más valor a la matriz de salida de la versión tiny.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los resultados, por desgracia, no fueron los esperados. El mapa de características que se crea en estos modelos se basa en cantidades muy grandes de datos y de mucha variedad en el tema de la visión, donde son necesarias grandes cantidades (10.000 imágenes) para que el procesamiento pueda ser fluido. Y es cierto, si se reentrenara partiendo de transfer learning nos ahorraríamos muchas imágenes de entrada, pero también hay que tener en cuenta las clases de objetos que se quieran reconocer. Mientras más clases de objetos haya el mapa de características aprende mejor a separar cada clase.",
-      "en": "The results, unfortunately, were not what was expected. The feature map created in these models is based on very large amounts of data and a lot of variety in the topic of vision, where large amounts (10,000 images) are necessary so that the processing can be fluid. And it is true, if it were retrained based on transfer learning we would save many input images, but we must also take into account the classes of objects that we want to recognize. The more classes of objects there are, the better the feature map learns to separate each class.",
-      "es": "Los resultados, por desgracia, no fueron los esperados. El mapa de características que se crea en estos modelos se basa en cantidades muy grandes de datos y de mucha variedad en el tema de la visión, donde son necesarias grandes cantidades (10.000 imágenes) para que el procesamiento pueda ser fluido. Y es cierto, si se reentrenara partiendo de transfer learning nos ahorraríamos muchas imágenes de entrada, pero también hay que tener en cuenta las clases de objetos que se quieran reconocer. Mientras más clases de objetos haya el mapa de características aprende mejor a separar cada clase.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Unfortunately, the results were not what we had hoped for. Retraining these models requires enough varied, well-labelled examples for the task. There is no universal minimum number of images that guarantees an improvement, and adding classes does not by itself improve person detection.",
+      "es": "Los resultados, por desgracia, no fueron los esperados. Reentrenar estos modelos requiere suficientes ejemplos variados y bien etiquetados para la tarea. No hay un mínimo universal de imágenes que garantice una mejora, y añadir clases no mejora por sí solo la detección de personas.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Por ello, se han usado los pesos de la versión COCO para el algoritmo YOLO, ya que era la más similar para nuestro caso.",
       "en": "For this reason, the weights of the COCO version have been used for the YOLO algorithm, since it was the most similar for our case.",
       "es": "Por ello, se han usado los pesos de la versión COCO para el algoritmo YOLO, ya que era la más similar para nuestro caso.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A continuación, se aplica un segundo filtro, usado para aplicar el BBOX de los distintos",
       "en": "Next, a second filter is applied, used to apply the BBOX of the different",
       "es": "A continuación, se aplica un segundo filtro, usado para aplicar el BBOX de los distintos",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para ver cuál es el mejor.",
       "en": "to see which one is the best.",
       "es": "para ver cuál es el mejor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Estos pasos anteriores formarían el proceso EDA como tal. Sin embargo, y en comparación con un proceso de ML, el filtro que se aplicaría dependería del grado de confianza que se tenga de la detección de un objeto, mientras que en un proceso de ML la “manipulación” se suele hacer sobre el mismo dato.",
-      "en": "These previous steps would form the EDA process as such. However, compared to an ML process, the filter that would be applied would depend on the degree of confidence in the detection of an object, while in an ML process the “manipulation” is usually done on the same data.",
-      "es": "Estos pasos anteriores formarían el proceso EDA como tal. Sin embargo, y en comparación con un proceso de ML, el filtro que se aplicaría dependería del grado de confianza que se tenga de la detección de un objeto, mientras que en un proceso de ML la “manipulación” se suele hacer sobre el mismo dato.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "These steps form the preprocessing and postprocessing of detections. The filters depend on the model output and the aim of the project.",
+      "es": "Estos pasos forman el preprocesamiento y el posprocesamiento de las detecciones. Los filtros utilizados dependen de la salida del modelo y del objetivo del proyecto.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Todo esto se ensambla en una función llamada “",
       "en": "All this is assembled in a function called “",
       "es": "Todo esto se ensambla en una función llamada “",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Impure Detector",
       "en": "Impure Detector",
       "es": "Impure Detector",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que nos va a devolver los datos que más nos interesan en una lista de Python de la siguiente forma:",
       "en": "which will return the data that interests us most in a Python list in the following way:",
       "es": "que nos va a devolver los datos que más nos interesan en una lista de Python de la siguiente forma:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Raspberry 3B+ cuenta con el sistema operativo Raspbian y librerías OpenCV (4.1.0.22).",
       "en": "The Raspberry 3B+ has the Raspbian operating system and OpenCV libraries (4.1.0.22).",
       "es": "La Raspberry 3B+ cuenta con el sistema operativo Raspbian y librerías OpenCV (4.1.0.22).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El funcionamiento de manera general es sencillo: Se procesan los datos de la imagen y se reenvían a un servidor Web Flask instalado en un PC.",
       "en": "The general operation is simple: The image data is processed and forwarded to a Flask Web server installed on a PC.",
       "es": "El funcionamiento de manera general es sencillo: Se procesan los datos de la imagen y se reenvían a un servidor Web Flask instalado en un PC.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Podemos ver más detalles sobre el código de la RPi en CLIENT.py:",
       "en": "We can see more details about the RPi code in CLIENT.py:",
       "es": "Podemos ver más detalles sobre el código de la RPi en CLIENT.py:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Comunicación Serie",
       "en": "Serial Communication",
       "es": "Comunicación Serie",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Tenemos una comunicación serie con el microcontrolador. Después de unas cuantas pruebas nos hemos dado cuenta de que, a la velocidad máxima con la que puede trabajar la RPi con python es con un BaudRate 115200 Bits/s, lo que limita la capacidad de mejorar el tiempo de espera entre Cliente-Servidor. Anotamos este aspecto como Trabajo futuro.",
-      "en": "We have a serial communication with the microcontroller. After a few tests we have realized that the maximum speed with which the RPi can work with python is a BaudRate of 115200 Bits/s, which limits the ability to improve the waiting time between Client-Server. We note this aspect as Future Work.",
-      "es": "Tenemos una comunicación serie con el microcontrolador. Después de unas cuantas pruebas nos hemos dado cuenta de que, a la velocidad máxima con la que puede trabajar la RPi con python es con un BaudRate 115200 Bits/s, lo que limita la capacidad de mejorar el tiempo de espera entre Cliente-Servidor. Anotamos este aspecto como Trabajo futuro.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We communicate with the microcontroller over a serial connection. After several tests, 115200 baud was the stable speed we achieved with our Raspberry Pi and Python configuration; it is not a universal limit of the platform.",
+      "es": "Nos comunicamos por puerto serie con el microcontrolador. Tras varias pruebas, 115200 baudios fue la velocidad estable que conseguimos con nuestra configuración de Raspberry Pi y Python; no es un límite universal de la plataforma.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "MQTT",
       "en": "MQTT",
       "es": "MQTT",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "También se ha usado MQTT para enviar los datos respecto a la “violación” de la distancia de seguridad” a otro servidor. Sin embargo, como se ha mencionado antes, no se ha llegado a hacer un mapa de calor con el área de los “delitos de distancia de seguridad” a tiempo real, pero conseguimos enviar los datos e insertarlos en un archivo remoto, guardándolos en un fichero CSV dentro del servidor.",
       "en": "MQTT has also been used to send the data regarding the “safety distance violation” to another server. However, as mentioned before, a heat map has not been created with the area of ​​“safe distance crimes” in real time, but we managed to send the data and insert it into a remote file, saving it in a CSV file within the server.",
       "es": "También se ha usado MQTT para enviar los datos respecto a la “violación” de la distancia de seguridad” a otro servidor. Sin embargo, como se ha mencionado antes, no se ha llegado a hacer un mapa de calor con el área de los “delitos de distancia de seguridad” a tiempo real, pero conseguimos enviar los datos e insertarlos en un archivo remoto, guardándolos en un fichero CSV dentro del servidor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Un trabajo a futuro al que, por desgracia no pudimos llegar, era el de generar un pequeño",
       "en": "A future job that, unfortunately, we could not reach, was to generate a small",
       "es": "Un trabajo a futuro al que, por desgracia no pudimos llegar, era el de generar un pequeño",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "script",
       "en": "script",
       "es": "script",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "para graficar o plotear esos datos.",
       "en": "to graph or plot that data.",
       "es": "para graficar o plotear esos datos.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El diagrama de bloques obtenido para nuestro proceso.",
       "en": "The block diagram obtained for our process.",
       "es": "El diagrama de bloques obtenido para nuestro proceso.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las imágenes son bastante problemáticas ya que enviar los paquetes de información tan largos y en la que la que el orden influya es complicado, es necesario indexarlos. Se han probado muchas, pero muchas metodologías distintas y la que mejores resultados ha dado ha sido usando una REST API del servidor.",
-      "en": "Images are quite problematic since sending packets of information that are so long and in which the order influences is complicated, it is necessary to index them. Many, many different methodologies have been tested and the one that has given the best results has been using a REST API from the server.",
-      "es": "Las imágenes son bastante problemáticas ya que enviar los paquetes de información tan largos y en la que la que el orden influya es complicado, es necesario indexarlos. Se han probado muchas, pero muchas metodologías distintas y la que mejores resultados ha dado ha sido usando una REST API del servidor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Sending images over MQTT proved difficult: messages were large and the data had to be reconstructed in the right order. We therefore used HTTP for images and reserved MQTT for numerical data.",
+      "es": "Enviar imágenes por MQTT nos resultó complicado: los mensajes eran grandes y teníamos que reconstruir los datos en el orden correcto. Por eso utilizamos HTTP para las imágenes y reservamos MQTT para los datos numéricos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En Internet se encuentra de todo excepto lo que realmente se quiere, por lo tanto hemos tenido que desarrollar el sistema de envío de imágenes comprimidas por HTTP.",
       "en": "On the Internet you can find everything except what you really want, therefore we have had to develop the system for sending compressed images over HTTP.",
       "es": "En Internet se encuentra de todo excepto lo que realmente se quiere, por lo tanto hemos tenido que desarrollar el sistema de envío de imágenes comprimidas por HTTP.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Para ello se han utilizado las funciones de imágenes por excelencia, recogidas en el paquete Open Source",
       "en": "For this, the image functions par excellence have been used, collected in the Open Source package",
       "es": "Para ello se han utilizado las funciones de imágenes por excelencia, recogidas en el paquete Open Source",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "OpenCV",
@@ -753,462 +1278,812 @@
       "source": "utilizando un buffer dinámico, evitando la escritura en el disco. Esto se debe ya que por experiencia se ha visto que, a la larga, si no se cuidan, los servidores “envejecen” o “degeneran”. Esto evita por ejemplo forzar los soportes de memoria flash y controlar los ciclos de lectura/escritura aplicados.",
       "en": "using a dynamic buffer, avoiding writing to disk. This is because experience has shown that, in the long run, if they are not taken care of, servers “age” or “degenerate.” This avoids, for example, forcing the flash memory media and controlling the read/write cycles applied.",
       "es": "utilizando un buffer dinámico, evitando la escritura en el disco. Esto se debe ya que por experiencia se ha visto que, a la larga, si no se cuidan, los servidores “envejecen” o “degeneran”. Esto evita por ejemplo forzar los soportes de memoria flash y controlar los ciclos de lectura/escritura aplicados.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Después de emplear",
       "en": "After using",
       "es": "Después de emplear",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", nuestro sistema crea la captura en un buffer, lo comprime y se envía al servidor, quien lo descomprime y escribe a disco, dejándolo preparado para su almacenamiento y/o post procesamiento. Este envío se hace en formato JSON ya que se tenían errores al enviarlos en otros formatos.",
       "en": ", our system creates the capture in a buffer, compresses it and sends it to the server, who decompresses it and writes it to disk, leaving it ready for storage and/or post processing. This sending is done in JSON format since there were errors when sending them in other formats.",
       "es": ", nuestro sistema crea la captura en un buffer, lo comprime y se envía al servidor, quien lo descomprime y escribe a disco, dejándolo preparado para su almacenamiento y/o post procesamiento. Este envío se hace en formato JSON ya que se tenían errores al enviarlos en otros formatos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "¿Cómo enviar datos que son variables en el tiempo de forma constante?",
       "en": "How to send data that is constantly variable over time?",
       "es": "¿Cómo enviar datos que son variables en el tiempo de forma constante?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Normalmente, para que dos personas y/o máquinas se comuniquen tienen que hablar el mismo idioma. En Machine Learning, además, los datos suelen enviarse en bloques constantes de información y de tamaño reducido. En nuestro caso, los pasos que va a ejecutar nuestro cliente son secuenciales y si se tropieza en algún punto todo se va al traste.",
       "en": "Normally, for two people and/or machines to communicate they have to speak the same language. In Machine Learning, in addition, data is usually sent in constant blocks of information and of reduced size. In our case, the steps that our client is going to execute are sequential and if he stumbles at any point everything will go to waste.",
       "es": "Normalmente, para que dos personas y/o máquinas se comuniquen tienen que hablar el mismo idioma. En Machine Learning, además, los datos suelen enviarse en bloques constantes de información y de tamaño reducido. En nuestro caso, los pasos que va a ejecutar nuestro cliente son secuenciales y si se tropieza en algún punto todo se va al traste.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por tanto, se han creado datos “ficticios” para enviarlos como mínimo para que todas las piezas del proyecto puedan funcionar sincronizadamente y en armonía.",
       "en": "Therefore, “dummy” data has been created to be sent at a minimum so that all pieces of the project can work synchronously and in harmony.",
       "es": "Por tanto, se han creado datos “ficticios” para enviarlos como mínimo para que todas las piezas del proyecto puedan funcionar sincronizadamente y en armonía.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los “impuros” nos van a marcar el index del objeto al que esté pecando pero en los negativos no se va a fijar. Por tanto, esa es la razón por la que el proyecto consigue funcionar sin que se note este pequeño bug.",
-      "en": "The “impure” ones are going to mark the index of the object that is sinning but it is not going to be fixed in the negative ones. Therefore, that is the reason why the project manages to work without this small bug being noticed.",
-      "es": "Los “impuros” nos van a marcar el index del objeto al que esté pecando pero en los negativos no se va a fijar. Por tanto, esa es la razón por la que el proyecto consigue funcionar sin que se note este pequeño bug.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The Index_Impuros field identifies objects detected below the distance threshold. Negative values are placeholders for no detection and should be ignored by the receiver.",
+      "es": "El campo Index_Impuros identifica los objetos detectados por debajo del umbral de distancia. Los valores negativos son marcadores sin detección y el receptor debe ignorarlos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Esquema general del funcionamiento del servidor Flask.",
       "en": "General diagram of the operation of the Flask server.",
       "es": "Esquema general del funcionamiento del servidor Flask.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se ha elegido este microcontrolador (",
       "en": "This microcontroller has been chosen (",
       "es": "Se ha elegido este microcontrolador (",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "STM32F411RET",
       "en": "STM32F411RET",
       "es": "STM32F411RET",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ") por una opción que un Arduino no ofrecía:",
       "en": ") for an option that an Arduino did not offer:",
       "es": ") por una opción que un Arduino no ofrecía:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La programación de distintas subtareas para que se ejecuten de manera concurrente además de las interrupciones",
       "en": "Scheduling different subtasks to run concurrently in addition to interrupts",
       "es": "La programación de distintas subtareas para que se ejecuten de manera concurrente además de las interrupciones",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Programar en el STMCubeIde nos da la opción de tener la facilidad de programación de Arduino, así como librerías de entornos más industriales.",
       "en": "Programming in the STMCubeIde gives us the option of having the ease of programming of Arduino, as well as libraries for more industrial environments.",
       "es": "Programar en el STMCubeIde nos da la opción de tener la facilidad de programación de Arduino, así como librerías de entornos más industriales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A diferencia del Arduino en el que el uso de multitareas metiéndolas en un proceso",
       "en": "Unlike the Arduino in which the use of multitasking by putting them in a process",
       "es": "A diferencia del Arduino en el que el uso de multitareas metiéndolas en un proceso",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Round Robin",
       "en": "Round Robin",
       "es": "Round Robin",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "es muy complejo, sumado a la limitación de la cantidad de temporizadores o",
       "en": "is very complex, added to the limitation of the number of timers or",
       "es": "es muy complejo, sumado a la limitación de la cantidad de temporizadores o",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "timers",
       "en": "timers",
       "es": "timers",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "que ofrece Arduino Uno 3, con el",
       "en": "offered by Arduino Uno 3, with the",
       "es": "que ofrece Arduino Uno 3, con el",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "STM32F404RE",
-      "en": "STM32F404RE",
-      "es": "STM32F404RE",
-      "reviewed": false
+      "en": "STM32 microcontroller",
+      "es": "microcontrolador STM32",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "estos problemas para insertarlos en la industria se mitigan.",
       "en": "These problems in inserting them into the industry are mitigated.",
       "es": "estos problemas para insertarlos en la industria se mitigan.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Por tanto, una vez que el micro haya ejecutado la configuración inicial (tareas, interrupciones, timers…) el programa empezará a ejecutar las tareas aplicando un Round Robin, las cuales se agrupan en el siguiente esquema:",
       "en": "Therefore, once the micro has executed the initial configuration (tasks, interruptions, timers...) the program will begin to execute the tasks applying a Round Robin, which are grouped in the following scheme:",
       "es": "Por tanto, una vez que el micro haya ejecutado la configuración inicial (tareas, interrupciones, timers…) el programa empezará a ejecutar las tareas aplicando un Round Robin, las cuales se agrupan en el siguiente esquema:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esquema de las Tareas o Programas Concurrentes existentes.",
       "en": "Outline of existing Tasks or Concurrent Programs.",
       "es": "Esquema de las Tareas o Programas Concurrentes existentes.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dentro de las tareas o programas concurrentes existentes existen tres:",
       "en": "Within the existing concurrent tasks or programs there are three:",
       "es": "Dentro de las tareas o programas concurrentes existentes existen tres:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. ADC",
       "en": "1. ADC",
       "es": "1. ADC",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este subprograma se encarga de leer las entradas digitales y procesarlas en 10–12 bits; aspecto que en una lectura por Arduino solo ofrecerá 8 bits de conversión.",
-      "en": "This applet is responsible for reading the digital inputs and processing them in 10–12 bits; aspect that when read by Arduino will only offer 8 conversion bits.",
-      "es": "Este subprograma se encarga de leer las entradas digitales y procesarlas en 10–12 bits; aspecto que en una lectura por Arduino solo ofrecerá 8 bits de conversión.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "This subroutine reads analogue inputs through the analogue-to-digital converter (ADC). Resolution depends on the microcontroller and its configuration; this is different from reading digital inputs.",
+      "es": "Este subprograma lee las entradas analógicas mediante el convertidor analógico-digital (ADC). La resolución depende del microcontrolador y de su configuración; no debe confundirse con una lectura de entradas digitales.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Una vez acabadas una por una en orden secuencial, insertará los datos aplicando sus respectivas conversiones en un vector global int32, siendo el motivo para guardarlos como int y no en float que la cantidad de espacio que ocupan se duplicaría (de 32 a 64 bits, por la coma flotante).",
-      "en": "Once finished one by one in sequential order, it will insert the data by applying their respective conversions in a global int32 vector, the reason for saving them as int and not in float being that the amount of space they occupy would double (from 32 to 64 bits, due to floating point).",
-      "es": "Una vez acabadas una por una en orden secuencial, insertará los datos aplicando sus respectivas conversiones en un vector global int32, siendo el motivo para guardarlos como int y no en float que la cantidad de espacio que ocupan se duplicaría (de 32 a 64 bits, por la coma flotante).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "After reading each sensor, it applies the appropriate conversion and stores the result in a global vector of 32-bit integers. We use scaled values to represent decimals; a 32-bit float does not take twice the space of a 32-bit integer.",
+      "es": "Después de leer cada sensor, aplica la conversión correspondiente y guarda el resultado en un vector global de enteros de 32 bits. Usamos valores escalados para representar decimales; un float de 32 bits no ocupa el doble que un int de 32 bits.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Como se puede apreciar en la imagen del envío del Transmisor-Receptor Asíncrono Universal (UART), se envían 4 datos por cada sensor. El último dato es el que quedaría detrás de la coma flotante para su posterior preprocesamiento sencillo en la RPi.",
       "en": "As can be seen in the image of the Universal Asynchronous Transmitter-Receiver (UART) shipment, 4 data are sent for each sensor. The last data is what would remain behind the floating point for subsequent simple preprocessing in the RPi.",
       "es": "Como se puede apreciar en la imagen del envío del Transmisor-Receptor Asíncrono Universal (UART), se envían 4 datos por cada sensor. El último dato es el que quedaría detrás de la coma flotante para su posterior preprocesamiento sencillo en la RPi.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Ejemplo de esto sería recibir del sensor de distancia un valor de 1004 y transformarlo a 100, 4 en este caso simulando metros de profundidad.",
-      "en": "An example of this would be receiving a value of 1004 from the distance sensor and transforming it to 100, 4 in this case simulating meters of depth.",
-      "es": "Ejemplo de esto sería recibir del sensor de distancia un valor de 1004 y transformarlo a 100, 4 en este caso simulando metros de profundidad.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "For example, if the protocol uses a scale factor of ten, an integer value of 1004 represents 100.4 units of the measured quantity.",
+      "es": "Por ejemplo, si el protocolo usa una escala de diez, un valor entero de 1004 representa 100,4 unidades de la magnitud medida.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sensores conectados por UART al microcontrolador",
       "en": "Sensors connected by UART to the microcontroller",
       "es": "Sensores conectados por UART al microcontrolador",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. ACTUATORS",
       "en": "2. ACTUATORS",
       "es": "2. ACTUATORS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dentro de los actuadores podemos encontrar que se conmutarán los estados de las salidas digitales pertenecientes al Buzzer y LED_EXT encargados de dotar al robot de notificar al entorno de manera acústica y visual.",
       "en": "Within the actuators we can find that the states of the digital outputs belonging to the Buzzer and LED_EXT will be switched, responsible for providing the robot with notifying the environment acoustically and visually.",
       "es": "Dentro de los actuadores podemos encontrar que se conmutarán los estados de las salidas digitales pertenecientes al Buzzer y LED_EXT encargados de dotar al robot de notificar al entorno de manera acústica y visual.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "No se ha añadido el actuador del motor porque se cree que separado se entiende mejor a la hora de distribuir el código.",
       "en": "The motor actuator has not been added because it is believed that separated it is better understood when distributing the code.",
       "es": "No se ha añadido el actuador del motor porque se cree que separado se entiende mejor a la hora de distribuir el código.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "3. MOTOR",
-      "en": "3. ENGINE",
+      "en": "3. MOTOR",
       "es": "3. MOTOR",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los servomotores trabajan entre 500 y 2500 ticks por lo que nuestra tarea TASK_MOTOR se aprovechará de las interrupciones del timer_4 para cambiar su valor ON/OFF.",
       "en": "The servomotors work between 500 and 2500 ticks so our task TASK_MOTOR will take advantage of the interruptions of timer_4 to change its ON/OFF value.",
       "es": "Los servomotores trabajan entre 500 y 2500 ticks por lo que nuestra tarea TASK_MOTOR se aprovechará de las interrupciones del timer_4 para cambiar su valor ON/OFF.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Además, se ha añadido un acumulador, de tal manera que si mientras se detecta una violación de la distancia de seguridad y antes de que la función se apague se vuelve a recibir una interrupción por la violación de distancia, aumentará el tiempo de espera 5 segundos más en esa posición. Con esto nos aseguramos de que hay un mayor control de las presencias detectadas.",
       "en": "In addition, an accumulator has been added, so that if while a violation of the safety distance is detected and before the function is turned off, an interruption due to the distance violation is received again, the waiting time will increase by 5 more seconds in that position. With this we ensure that there is greater control of the presences detected.",
       "es": "Además, se ha añadido un acumulador, de tal manera que si mientras se detecta una violación de la distancia de seguridad y antes de que la función se apague se vuelve a recibir una interrupción por la violación de distancia, aumentará el tiempo de espera 5 segundos más en esa posición. Con esto nos aseguramos de que hay un mayor control de las presencias detectadas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las interrupciones son peticiones síncronas o asíncronas al reloj en la que el procesador va a dejar de lado la tarea que esté realizando para centrarse en la interrupción.",
       "en": "Interrupts are synchronous or asynchronous requests to the clock in which the processor will put aside the task it is performing to focus on the interruption.",
       "es": "Las interrupciones son peticiones síncronas o asíncronas al reloj en la que el procesador va a dejar de lado la tarea que esté realizando para centrarse en la interrupción.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nosotros hemos definido 4 tipos de interrupciones.",
       "en": "We have defined 4 types of interruptions.",
       "es": "Nosotros hemos definido 4 tipos de interrupciones.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "1. IRQ_EXT:",
       "en": "1. IRQ_EXT:",
       "es": "1. IRQ_EXT:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Es la interrupción externa por botón a la que se va a acceder en caso de que haya un error tanto de comunicación o de cualquier otro tipo para resetear la configuración del microcontrolador sin que resetee todo. Reenviará la información y nos avisará enviando un “DONE” por el puerto serial.",
       "en": "It is the external interruption by button that will be accessed in case there is a communication or any other error to reset the microcontroller configuration without resetting everything. It will resend the information and notify us by sending a “DONE” through the serial port.",
       "es": "Es la interrupción externa por botón a la que se va a acceder en caso de que haya un error tanto de comunicación o de cualquier otro tipo para resetear la configuración del microcontrolador sin que resetee todo. Reenviará la información y nos avisará enviando un “DONE” por el puerto serial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2. IRQ_TIM4",
       "en": "2.IRQ_TIM4",
       "es": "2. IRQ_TIM4",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se ha configurado el timer_4 del microcontrolador para que se ejecute cada 1 MHz.",
-      "en": "The microcontroller timer_4 has been configured to run every 1 MHz.",
-      "es": "Se ha configurado el timer_4 del microcontrolador para que se ejecute cada 1 MHz.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The timer_4 timer uses a 1 MHz time base: each tick corresponds to one microsecond.",
+      "es": "El temporizador timer_4 utiliza una base de tiempo de 1 MHz: cada tick corresponde a un microsegundo.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "En resumen, para que tardemos 50 Hz que es la velocidad del servomotor tenemos que añadir un registro contador de 0–2000 unidades para que entre en la interrupción cada 50 Hz.",
-      "en": "In summary, to take 50 Hz, which is the speed of the servomotor, we have to add a counter register of 0–2000 units so that it enters the interruption every 50 Hz.",
-      "es": "En resumen, para que tardemos 50 Hz que es la velocidad del servomotor tenemos que añadir un registro contador de 0–2000 unidades para que entre en la interrupción cada 50 Hz.",
-      "reviewed": false
+      "en": "A 50 Hz signal has a period of 20 milliseconds. With that time base, each period corresponds to 20,000 ticks; register settings must account for how the timer counts.",
+      "es": "Una señal de 50 Hz tiene un periodo de 20 milisegundos. Con esa base de tiempo, cada periodo equivale a 20.000 ticks; los registros deben configurarse teniendo en cuenta cómo cuenta el temporizador.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Es decir, que en cada 200 ms recibiremos 20000 ticks. O dicho de otra manera, cada 200 milisegundos nuestro micro interrumpirá la interrupción de ese timer.",
-      "en": "That is, in every 200 ms we will receive 20,000 ticks. Or put another way, every 200 milliseconds our microphone will interrupt the interruption of that timer.",
-      "es": "Es decir, que en cada 200 ms recibiremos 20000 ticks. O dicho de otra manera, cada 200 milisegundos nuestro micro interrumpirá la interrupción de ese timer.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Thus, 20,000 ticks at 1 MHz correspond to 20 ms, not 200 ms. This calculation corrects the inconsistent units in the original explanation.",
+      "es": "Por tanto, 20.000 ticks a 1 MHz equivalen a 20 ms, no a 200 ms. Este cálculo corrige la inconsistencia de unidades de la explicación original.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "3. IRQ_TX:",
       "en": "3. IRQ_TX:",
       "es": "3. IRQ_TX:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta interrupción únicamente va a encender un LED interno del microcontrolador para saber de manera rápida que todo está funcionando correctamente.",
       "en": "This interruption will only turn on an internal LED of the microcontroller to quickly know that everything is working correctly.",
       "es": "Esta interrupción únicamente va a encender un LED interno del microcontrolador para saber de manera rápida que todo está funcionando correctamente.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En la figura inferior, además de ver la distribución de los pines se puede ver el pin del LED interno así como el pulsador interno del microcontrolador.",
       "en": "In the figure below, in addition to seeing the pin distribution, you can see the internal LED pin as well as the internal button of the microcontroller.",
       "es": "En la figura inferior, además de ver la distribución de los pines se puede ver el pin del LED interno así como el pulsador interno del microcontrolador.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Distribución de los pines del proyecto.",
       "en": "Project pin distribution.",
       "es": "Distribución de los pines del proyecto.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "4. IRQ_RX:",
       "en": "4.IRQ_RX:",
       "es": "4. IRQ_RX:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "A pesar de estar la última en la lista, es la interrupción más importante",
       "en": "Despite being last on the list, it is the most important interruption",
       "es": "A pesar de estar la última en la lista, es la interrupción más importante",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ". Para que la RPi actúe como “cabeza pensante”, es necesaria una interrupción que esté atenta a cualquier señal asíncrona que reciba del microPC y que alerte a la RPi.",
-      "en": ". For the RPi to act as a “thinking head”, an interrupt is necessary that is attentive to any asynchronous signal it receives from the microPC and alerts the RPi.",
-      "es": ". Para que la RPi actúe como “cabeza pensante”, es necesaria una interrupción que esté atenta a cualquier señal asíncrona que reciba del microPC y que alerte a la RPi.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ". This interrupt lets the microcontroller respond to commands received from the Raspberry Pi, which coordinates the system.",
+      "es": ". Esta interrupción permite al microcontrolador atender los comandos recibidos de la Raspberry Pi, que coordina el sistema.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los comandos que se van a enviar desde la RPi son dos:",
       "en": "The commands that will be sent from the RPi are two:",
       "es": "Los comandos que se van a enviar desde la RPi son dos:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“SEND”",
       "en": "“SEND”",
       "es": "“SEND”",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "“ALRM”",
       "en": "“ALRM”",
       "es": "“ALRM”",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cuando recibamos",
       "en": "When we receive",
       "es": "Cuando recibamos",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "SEND",
       "en": "SEND",
       "es": "SEND",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "el microcontrolador enviará los datos que tenga en ese momento en el vector “",
       "en": "the microcontroller will send the data it has at that moment in the vector “",
       "es": "el microcontrolador enviará los datos que tenga en ese momento en el vector “",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "sens",
       "en": "sens",
       "es": "sens",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Si recibe",
       "en": "If you receive",
       "es": "Si recibe",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ALRM",
       "en": "ALRM",
       "es": "ALRM",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "ejecutará los actuadores y si antes de que se acabe vuelve a recibir una entrada ALRM, aumentará el tiempo del mismo.",
       "en": "It will execute the actuators and if before it runs out it receives an ALRM input again, its time will increase.",
       "es": "ejecutará los actuadores y si antes de que se acabe vuelve a recibir una entrada ALRM, aumentará el tiempo del mismo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura que muestra el envío de señales a las tareas.",
       "en": "Figure showing sending signals to tasks.",
       "es": "Figura que muestra el envío de señales a las tareas.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se trata de un proyecto aparentemente simple, pero que detrás de todo existe un ecosistema muy complejo al que se le quería meter mano. Solo hay que ver la arquitectura de la infraestructura que ha quedado:",
       "en": "It is an apparently simple project, but behind everything there is a very complex ecosystem that we wanted to get our hands on. You just have to look at the architecture of the infrastructure that remains:",
       "es": "Se trata de un proyecto aparentemente simple, pero que detrás de todo existe un ecosistema muy complejo al que se le quería meter mano. Solo hay que ver la arquitectura de la infraestructura que ha quedado:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Sensores – Unidad del Microcontrolador (MCU).",
       "en": "Sensors – Microcontroller Unit (MCU).",
       "es": "Sensores – Unidad del Microcontrolador (MCU).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "MCU – RPi.",
       "en": "MCU – RPi.",
       "es": "MCU – RPi.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "RPi – PC: Uso de protocolo HTTP con peticiones POST al servidor web (REST API montada en Flask).",
       "en": "RPi – PC: Use of HTTP protocol with POST requests to the web server (REST API mounted in Flask).",
       "es": "RPi – PC: Uso de protocolo HTTP con peticiones POST al servidor web (REST API montada en Flask).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aunque el objetivo era aplicar temas de",
       "en": "Although the objective was to apply themes of",
       "es": "Aunque el objetivo era aplicar temas de",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", estos temas requieren de una determinada arquitectura y funciones para comunicaciones, tratamiento de imágenes etc. El tema de SLAM + ML se ha quedado a las puertas pero sí se han dado pasos para poder continuar con la misma.",
       "en": ", these topics require a certain architecture and functions for communications, image processing, etc. The topic of SLAM + ML has been left at the door but steps have been taken to continue with it.",
       "es": ", estos temas requieren de una determinada arquitectura y funciones para comunicaciones, tratamiento de imágenes etc. El tema de SLAM + ML se ha quedado a las puertas pero sí se han dado pasos para poder continuar con la misma.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Y a la larga, el objetivo que se había planteado que era aplicar esta tecnología al mundo real aparte de la IT y darle una aplicación más industrial, creemos que aunque no se haya logrado, se está un paso más cerca con el uso de estas “herramientas caseras”.",
       "en": "And in the long run, the objective that had been set was to apply this technology to the real world apart from IT and give it a more industrial application, we believe that although it has not been achieved, it is one step closer with the use of these “homemade tools”.",
       "es": "Y a la larga, el objetivo que se había planteado que era aplicar esta tecnología al mundo real aparte de la IT y darle una aplicación más industrial, creemos que aunque no se haya logrado, se está un paso más cerca con el uso de estas “herramientas caseras”.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Como reflexión obtenido, hemos detectado que si se va a empezar a usar el Cloud Computing, para las próximas generaciones hará falta un cifrado de la información muy densa que se envíe (aunque se sacrifique la latencia), ya que es un tema muy serio al que poca importancia se le está dando actualmente.",
       "en": "As a reflection obtained, we have detected that if Cloud Computing is going to start being used, for the next generations it will be necessary to encrypt the very dense information that is sent (even if latency is sacrificed), since it is a very serious issue that is currently being given little importance.",
       "es": "Como reflexión obtenido, hemos detectado que si se va a empezar a usar el Cloud Computing, para las próximas generaciones hará falta un cifrado de la información muy densa que se envíe (aunque se sacrifique la latencia), ya que es un tema muy serio al que poca importancia se le está dando actualmente.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hemos detectado diferentes tareas como trabajo futuro de cara a este proyecto:",
       "en": "We have detected different tasks as future work for this project:",
       "es": "Hemos detectado diferentes tareas como trabajo futuro de cara a este proyecto:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "mapeo del entorno",
@@ -1257,10 +2132,15 @@
     },
     {
       "source": ", aspecto que podría ayudar a mejorar en más del doble la velocidad de procesamiento de la RPI, lo que nos podría ayudar a compensar el retardo generado en la comunicación Cliente-Servidor.",
-      "en": ", an aspect that could help to more than double the processing speed of the RPI, which could help us compensate for the delay generated in Client-Server communication.",
-      "es": ", aspecto que podría ayudar a mejorar en más del doble la velocidad de procesamiento de la RPI, lo que nos podría ayudar a compensar el retardo generado en la comunicación Cliente-Servidor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": ", to offload tasks from the Raspberry Pi and reduce latency. Any speed improvement would need to be measured; we cannot claim it would double performance.",
+      "es": ", para descargar tareas de la Raspberry Pi y reducir la latencia. La mejora real de velocidad tendría que medirse; no podemos asegurar que duplicaría el rendimiento.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La creación de un",
@@ -1284,25 +2164,95 @@
       "source": "Jon Leiñena",
       "en": "Jon Leiñena",
       "es": "Jon Leiñena",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Juan Jose Arin",
       "en": "Juan Jose Arin",
       "es": "Juan Jose Arin",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Unai",
       "en": "Unai",
       "es": "Unai",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "YoloV4",
       "en": "YoloV4",
       "es": "YoloV4",
       "reviewed": false
+    },
+    {
+      "source": "WATCHDOG: un prototipo de 2020 que combina visión artificial, Raspberry Pi y un microcontrolador para explorar la detección de distancias entre personas.",
+      "en": "WATCHDOG: a 2020 prototype combining computer vision, Raspberry Pi and a microcontroller to explore monitoring distances between people.",
+      "es": "WATCHDOG: un prototipo de 2020 que combina visión artificial, Raspberry Pi y un microcontrolador para explorar la detección de distancias entre personas.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Con más capacidad de cómputo podríamos explorar la segmentación de instancias, por ejemplo con Mask R-CNN. A diferencia de las cajas de detección, estos modelos generan una máscara para cada objeto. La explicación original confundía esta tarea con las redes recurrentes (RNN).",
+      "en": "With more computing power, we could explore instance segmentation, for example with Mask R-CNN. Unlike detection boxes, these models generate a mask for each object. The original explanation confused this task with recurrent neural networks (RNNs).",
+      "es": "Con más capacidad de cómputo podríamos explorar la segmentación de instancias, por ejemplo con Mask R-CNN. A diferencia de las cajas de detección, estos modelos generan una máscara para cada objeto. La explicación original confundía esta tarea con las redes recurrentes (RNN).",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Mapeo y localización en interiores. Las pruebas con el GPS mostraron las limitaciones de usarlo sin una vista despejada del cielo. Como alternativas para interiores, consideraríamos AprilTags o balizas Bluetooth de baja energía (BLE).",
+      "en": "Mapping and indoor localisation. Our GPS tests showed the limitations of using it without a clear view of the sky. For indoor use, we would consider alternatives such as AprilTags or Bluetooth Low Energy (BLE) beacons.",
+      "es": "Mapeo y localización en interiores. Las pruebas con el GPS mostraron las limitaciones de usarlo sin una vista despejada del cielo. Como alternativas para interiores, consideraríamos AprilTags o balizas Bluetooth de baja energía (BLE).",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Mejorar el microcontrolador y medir su efecto sobre el sistema completo. Descargar tareas de la Raspberry Pi podría reducir parte del tiempo de procesamiento, pero no implica duplicar su velocidad ni eliminar la latencia entre cliente y servidor.",
+      "en": "Improve the microcontroller and measure its effect on the system as a whole. Offloading tasks from the Raspberry Pi could reduce some processing time, but would not necessarily double its speed or eliminate client-server latency.",
+      "es": "Mejorar el microcontrolador y medir su efecto sobre el sistema completo. Descargar tareas de la Raspberry Pi podría reducir parte del tiempo de procesamiento, pero no implica duplicar su velocidad ni eliminar la latencia entre cliente y servidor.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Crear un script para representar gráficamente los datos obtenidos mediante MQTT.",
+      "en": "Create a script to plot the data received through MQTT.",
+      "es": "Crear un script para representar gráficamente los datos obtenidos mediante MQTT.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

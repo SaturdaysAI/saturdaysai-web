@@ -1,10 +1,8 @@
 ---
 title: "Student Experience: cómo mejorar la experiencia de aprendizaje en la
   universidad"
-description: Donostia. 2021 ¿Cómo calificarías la experiencia de aprendizaje que
-  viviste/estás viviendo en la universidad? ¿Sabrías decir qué es lo que hace
-  que estás más satisfecho/a con un profesor? Cuando hablamos de experiencias,
-  es…
+description: Un proyecto de Saturdays.AI analiza más de 20.000 encuestas
+  universitarias para explorar la relación entre docencia, satisfacción y notas.
 pubDate: 2021-07-29
 author: Info Saturdays
 category: AI for good
@@ -140,7 +138,7 @@ Conclusiones similares a lo anterior para el profesorado: Explicar es lo que má
 
 Pero bueno, el score del árbol es de 0.35, así que hay que coger el resultado con cierto escepticismo.
 
-Si ampliamos la profundidad a 5, ya vemos que entran nuevos atributos, y sube el score a 0.45. Un _insight_ que descubrimos con este árbol es que, si el feedback no es lo suficientemente bueno, pero el conocimiento percibido por el alumno/a es alto, la posibilidad de tener promotores sube.
+Al ampliar la profundidad a 5, aparecieron nuevas variables y el score subió a 0,45. Una observación interesante fue que, cuando el feedback recibía una valoración baja pero el conocimiento percibido era alto, aumentaba la proporción de promotores.
 
 Visto todo esto, vamos a centrarnos en cómo son los/as profesores/as según la satisfacción de los/as alumnos/as y las notas que ponen.
 
@@ -160,7 +158,7 @@ Para profundizar algo más en cómo clasificar a estos profesores, vamos a darle
 
 **NLP**
 
-Como todo proyecto, en las fases finales quedan pocas energías. Y si lo último es NLP, que no es precisamente el algoritmo más sencillo, cuesta llegar a conclusiones reveladores. Sin embargo, con un simple counts de cuáles son las frases más repetidas (cuando se les pregunta aspectos a mantener) de los/as alumnos/as en función de la nota que dan al profesorado y las notas que reciben, obtenemos los siguientes _insights_.
+Como suele ocurrir, llegamos a la fase final con pocas energías. El procesamiento del lenguaje natural (NLP) es un campo amplio, así que empezamos por algo sencillo: contar las frases más repetidas sobre aspectos que convenía mantener. Agrupamos los comentarios según la valoración del profesorado y las notas de cada grupo, y obtuvimos estas observaciones.
 
 En el caso de los detractores, los comentarios giran en torno al trabajo en equipo. Vamos, que lo positivo de la asignatura han sido sus compañeros/as de clase más que la propia clase. En cambio, los comentarios más repetidos con los promotores ensalzan al profesor/a: su conocimiento, formas diferentes de dar clase, buen feedback a todos los trabajos…
 
@@ -204,10 +202,10 @@ En el siguiente repositorio se encuentra el código usuado para desarrollar esta
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](http://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) a la vez que se realizan proyectos para el bien (_#ai4good_). Los talleres que realizamos forman parte del programa [AI 4 Schools](https://saturdays.ai/ai-4-schools/) para que cualquier persona “_aprenda haciendo_” IA sin importar su especialidad o nivel de partida.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este [link](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](http://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 [Abrir vídeo o recurso](https://www.youtube.com/embed/O6c21Cy3Lqs?feature=oembed)

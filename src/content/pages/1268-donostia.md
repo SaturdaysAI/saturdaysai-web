@@ -14,7 +14,7 @@ kind: city
 
 Euskadi es un referente internacional en Inteligencia Artificial, impulsando la aplicación de la IA en la industria, el sector servicios y la administración pública y concienciando a todos los agentes y a la ciudadanía de las ventajas de la IA y de una adecuada gestión de sus datos.
 
-Desde AI Saturdays Euskadi, hemos organizado ediciones en Bilbao y Donostia. Lanzaremos la edición de AI Saturdays Bilbao en septiembre 2024; si quieres saber más, escríbenos a [donostia@saturdays.ai](mailto:donostia@saturdays.ai) o [bilbao@saturdays.ai](mailto:bilbao@saturdays.ai).
+AI Saturdays Euskadi ha organizado ediciones en Bilbao y Donostia. El archivo anunciaba una edición en Bilbao para septiembre de 2024. Para conocer las próximas actividades, escribe a [donostia@saturdays.ai](mailto:donostia@saturdays.ai) o [bilbao@saturdays.ai](mailto:bilbao@saturdays.ai).
 
 **Cuando**: Pendiente de Confirmar.
 
@@ -22,13 +22,6 @@ Desde AI Saturdays Euskadi, hemos organizado ediciones en Bilbao y Donostia. Lan
 
 **Programa**: Machine Learning, Deep Learning, Proyectos
 
-**Cuando**: Pendiente de Confirmar.
-
-**Donde**: [Impact Hub Donostia](https://goo.gl/maps/L5cBwHnJTjRLq8w26)
-
-**Programa**: Machine Learning, Deep Learning, Proyectos
-
-: _Pendiente de Confirmar._
 
 [Apúntate a tu programa preferido](https://ti.to/saturdaysai/ai-saturdays-donostia)
 
@@ -44,9 +37,7 @@ Desde AI Saturdays Euskadi, hemos organizado ediciones en Bilbao y Donostia. Lan
 
 #### Conoce la comunidad de I.A. en Donostia
 
-Se suele iniciar primero con una sesión introductoria y contextualizadora de la relevancia de la IA y el _Machine Learning;_ en particular, del _Deep Learning_, en esta época en la que vivimos.
-
-A partir de ahí, estaremos juntos entre 7 y 14 sesiones más (dependiendo del itinerario); siendo la última de estas el esperado _Demo Day_.
+El programa empezaba con una introducción a la IA, el machine learning y el deep learning. Después se proponían entre siete y catorce sesiones, según el itinerario, con una presentación final en el Demo Day.
 
 #### Edición de AI Saturdays Donostia
 
@@ -177,10 +168,6 @@ Ya sea global o local, apreciamos el apoyo de las instituciones, empresas y univ
 ![hitz\_zentroa-150x150](/media/10e0b8c9c962aaa0.webp)
 
 # Contacta con Donostia City Lead
-
-Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
-
-\
 
 Siéntete libre de decirnos cualquier cosa, nos encantaría saber más sobre ti 😉
 

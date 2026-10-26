@@ -33,17 +33,13 @@ Durante la primera edición del programa Saturdays AI en Euskadi, el grupo **Fac
 
 La **depresión** constituye un problema importante de salud pública, ya que es un gran factor de riesgo para el suicidio, que reclama cientos de miles de vidas cada año.
 
-Por ello, entendemos que conocer a fondo los aspectos que podrían estar asociados a un cuadro de depresión es la única forma de poder ayudar a proyectar políticas públicas eficientes de cara a mejorar este problema, y definitivamente, ¡**salvar vidas**!
+Conocer mejor los factores asociados a la depresión puede contribuir a diseñar políticas públicas y apoyar los esfuerzos para salvar vidas.
 
 ## ¿Quiénes somos?
 
 Como si se tratara de un partido de fútbol sala, os presentamos nuestro quinteto inicial:
 
--   Hola!!! Yo soy Ana Patricia Bautista García, Ingeniera Industrial y de Sistemas y máster en _Business Analytics_ y _Big Data_. Este proyecto me motiva porque combina varias disciplinas como la Ciencia de Datos, la Estadística y la Psicología. Lo cual desde un principio me parecía un ejercicio muy completo e interesante para aplicar los conocimientos adquiridos en _AI Saturdays_.
--   Hola a tod@s. Me llamo Henry Corazza Sef y soy estadístico. Empecé mi carrera profesional trabajando en un hospital universitario como bioestadístico. Aunque me haya decantado por trabajar en la implementación de la _Metodología 6 Sigma_ en el área industrial, sigo interesado en la Bioestadística.
--   ¡Hola! Yo soy Dani, psicólogo y neurocientífico. He dedicado los últimos años a la investigación del cerebro. También me interesa la _Open Science_, e intento formarme en gestión de datos en abierto y flujos de trabajo reproducibles.
--   Hola internauta! Mi nombre es Sergio Navarro, ingeniero de _software_. Trabajo en una pequeña _startup_ alavesa como _full stack developer_ y paso mi tiempo entre líneas de código, bases de datos y preguntas de _stackoverflow_ que puedan solucionar ese _bug_ que no me deja dormir.
--   Buenas, yo soy Sergio Hernando, graduado en Ingeniería Informática y recién iniciado en el mundo laboral como arquitecto digital formándome en _Cloud Computing_. Suelo estar en las nubes, pero en este caso son _AWS_ y _Azure_.
+-   ¡Hola, internauta! Soy Sergio Navarro y trabajo en ingeniería de software. Soy desarrollador full stack en una pequeña startup de Álava y paso mi tiempo entre líneas de código, bases de datos y preguntas de Stack Overflow que puedan ayudarme a resolver ese bug que no me deja dormir.
 
 Como punto de partida, nos basamos en el trabajo realizado por un grupo de investigadores neerlandeses y estadounidenses titulado: _‘Social Media and Depression Symptoms: A Network Perspective’_ ([DOI:10.1037/xge0000528](http://dx.doi.org/10.1037/xge0000528); accesible también [en abierto](https://openaccess.leidenuniv.nl/bitstream/handle/1887/73951/Aalbers_et_al_2018_T.pdf?sequence=1)). En este estudio, los investigadores analizaron si el uso pasivo de las redes sociales (es decir, hacer _scrolling_ en el _feed_ de noticias o fotografías de nuestros amigos y contactos) provoca síntomas depresivos, o viceversa.
 
@@ -91,7 +87,7 @@ La siguiente fase consistió en llevar a cabo un **_Cluster Analysis_**, una de 
 
 El gráfico nos muestra que, a partir del valor 3, la dispersión se empieza a reducir drásticamente. Por lo tanto, podemos tomar el 3 como valor óptimo.
 
-**Método _Silhouette_**: El coeficiente de _Silhouette_ se define como la diferencia entre la distancia promedio a los elementos del _cluster_ más cercano (_b_) y la distancia intra-_cluster_ promedio de los elementos de un _cluster_ (_a_) dividido por el máximo de los dos, solo pudiendo tomar valores entre -1 y 1.
+Método Silhouette: para cada observación, a es la distancia media a las demás observaciones de su propio grupo; b es la menor distancia media a las observaciones de otro grupo. El coeficiente se calcula como (b − a) / max(a, b) y toma valores entre −1 y 1.
 
 ![](/media/c5042cbd4f5a720a.webp)
 
@@ -190,8 +186,7 @@ Además, la función calcula el “_RootMeanSquareError_” (_RMSE_) y el “Coe
 
 ![](/media/a8e68a9c97f6001d.webp)
 
-**Figura 14.** _Output_ del método “_backward_” de eliminación de variables  
-con poca capacidad explicativa.
+Figura 14. Resultado del procedimiento de eliminación hacia atrás (backward) de variables con poca capacidad explicativa.
 
 El **Modelo Final** ajustado involucra 3 variables, siendo “**_News_**” una de ellas.
 
@@ -221,7 +216,7 @@ El coeficiente de determinación (R2) del modelo ajustado siguió siendo alto (9
 
 Es interesante constatar que “**_Loneliness_**” de nuevo aparece como la variable de mayor peso para “**_DeprRate_**”, y que “**_Stress_**” sigue en este segundo modelo, con un peso parecido.
 
-**Nota:** Las 2 funciones comentadas anteriormente están definidas en “**_regresion\_functions.py_**”. En este archivo también se pueden encontrar otras funciones utilizadas en este análisis, como:
+Nota: las dos funciones anteriores están definidas en `regresion_functions.py`. Este archivo también incluye otras funciones utilizadas en el análisis, como:
 
 -   **_printMatrixDiagram_**: función que genera gráficas de dispersión (2 a 2), involucrando todos los indicadores del estudio. Útil para ver de forma gráfica, en un único vistazo, los indicadores que están más correlacionados entre ellos.
 -   **_printPearsonCorrelations_**: genera un mapa de calor de las correlaciones de Pearson entre todos los indicadores del estudio. Útil para ver, en un único vistazo, los indicadores que están más correlacionados entre ellos y si hay multicolinealidad.
@@ -262,8 +257,8 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esta 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

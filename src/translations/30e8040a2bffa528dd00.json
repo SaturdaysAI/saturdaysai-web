@@ -4,11 +4,16 @@
   "segments": [
     {
       "source": "Inteligencia Artificial en el campo militar. La aterradora realidad.",
-      "en": "Artificial Intelligence in the military field. The terrifying reality.",
-      "es": "Inteligencia Artificial en el campo militar. La aterradora realidad.",
-      "reviewed": false,
+      "en": "Illustration of military uses of artificial intelligence",
+      "es": "Ilustración sobre el uso militar de la inteligencia artificial",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "La Inteligencia Artificial tiene el potencial de transformar la guerra moderna, pero también trae consigo riesgos significativos. Examinamos un incidente en el que un dron controlado por IA «mató» a su operador humano durante…",
@@ -22,8 +27,13 @@
       "source": "5 jun 2023",
       "en": "Jun 5, 2023",
       "es": "5 jun 2023",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La IA “mata” a su operador",
@@ -445,11 +455,16 @@
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 5 jun 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on June 5, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on June 5, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 5 jun 2023.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "IA en el ámbito militar: corregir un relato y entender los riesgos",

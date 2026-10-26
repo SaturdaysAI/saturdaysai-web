@@ -108,7 +108,7 @@ _Función de perdida y de precisión a través de las épocas_
 
 Con el producto final se obtiene un algoritmo capaz de hacer un análisis del tipo de emociones que predominan en cada usuario por medio del material visual que se le proporciona, haciendo especial énfasis en alertar la prevalencia de emociones negativas. Con el análisis especializado del perfil emocional de cada usuario, los miembros de la empresa encargados de monitorear el bienestar de los trabajadores tendrán la oportunidad de dar un seguimiento a las alertas de usuarios que podrían estar padeciendo algún problema emocional durante sus jornadas de trabajo. Brindar este tipo de atención personalizada a los miembros de la empresa puede resultar crucial para mejorar el rendimiento y la satisfacción laboral de cada individuo, así como su calidad de vida.
 
-Creemos que podemos ayudar bastante a los departamentos de Recursos Humanos para poder asegurar que los colaboradores tengan la mejor predisposición posible, así como la mayor salud emocional que podamos darles. Es una herramienta que permite mejorar la atención de las personas que trabajan en vez de solo enfocarse en su _performance_ laboral. Es una forma de aceptar que el bienestar emocional de las personas produce un cambio en como trabajan y como se desarrolla el espacio en donde se desenvuelven profesionalmente.
+Queríamos poner el bienestar de las personas en el centro, más allá del rendimiento laboral. Ese objetivo exige escuchar a quienes trabajan, respetar su autonomía y evitar que una predicción basada en su rostro sustituya su propia experiencia o una valoración profesional.
 
 ## Proyección a futuro
 
@@ -128,22 +128,10 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esta 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) a la vez que se realizan proyectos para el bien (_#ai4good_). Los talleres que realizamos forman parte del programa [AI 4 Schools](https://saturdays.ai/ai-4-schools/) para que cualquier persona “_aprenda haciendo_” IA sin importar su especialidad o nivel de partida.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en este [link](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)
 
 ![](/media/559f8c4772bf2de3.webp)
-
-WRITTEN BY
-
-[I. C.H. Smith.](https://ichsmith.medium.com/?source=follow_footer-----69f81ccdbdea--------------------------------)
-
-WRITTEN BY
-
-[SophieB](https://medium.com/@sophb?source=follow_footer-----6c07a88b2e5f--------------------------------)
-
-WRITTEN BY
-
-[SophieB](https://medium.com/@sophb?source=follow_footer-----6c07a88b2e5f--------------------------------)

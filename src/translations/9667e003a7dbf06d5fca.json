@@ -4,15 +4,20 @@
   "segments": [
     {
       "source": "Open media or resource",
-      "en": "Open media or resource",
-      "es": "Open media or resource",
-      "reviewed": false
+      "en": "Open external resource",
+      "es": "Abrir el recurso externo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "The original interactive chat service is external to this site. Explore our learning resources or contact the team for access.",
-      "en": "The original interactive chat service is external to this site. Explore our learning resources or contact the team for access.",
-      "es": "El servicio de chat interactivo original es externo a este sitio. Explore nuestros recursos de aprendizaje o comuníquese con el equipo para obtener acceso.",
-      "reviewed": false,
+      "en": "The original chat service is external to this website. Explore our learning resources or contact the team to check its availability.",
+      "es": "El servicio de chat original es externo a esta web. Explora nuestros recursos de aprendizaje o contacta con el equipo para consultar su disponibilidad.",
+      "reviewed": true,
       "sourceLanguage": "en",
       "provider": "Google automatic translation",
       "translationVersion": 3,
@@ -25,13 +30,23 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Explore learning resources →",
       "en": "Explore learning resources →",
-      "es": "Explore learning resources →",
-      "reviewed": false
+      "es": "Explora los recursos para aprender →",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Información sobre StarChat, el recurso de conversación para aprender inteligencia artificial. Consulta con el equipo cómo acceder.",

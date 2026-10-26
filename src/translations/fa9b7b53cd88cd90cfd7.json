@@ -6,15 +6,20 @@
       "source": "MOODY.AI",
       "en": "MOODY.AI",
       "es": "MOODY.AI",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "8 min de lectura",
       "en": "8 min read",
       "es": "8 min de lectura",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -26,13 +31,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Guadalajara. Tercera Edición. 2021 Nuesta experiencia Saturday.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…",
-      "en": "Guadalajara. Third Edition. 2021 Our experience Saturday.AI Our team is made up of 5 people from various professional areas and levels of experience, as well as different places of origin, which enriched…",
-      "es": "Guadalajara. Tercera Edición. 2021 Nuestra experiencia en Saturdays.AI Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció…",
-      "reviewed": false,
+      "en": "Moody.AI: a Guadalajara project exploring facial-expression classification with convolutional networks and the limits of this approach.",
+      "es": "Moody.AI: un proyecto de Guadalajara que explora la clasificación de expresiones faciales con redes convolucionales y sus límites.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -48,13 +58,13 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Nuesta experiencia Saturday.AI",
-      "en": "Our Saturday.AI experience",
+      "en": "Our experience at Saturdays.AI",
       "es": "Nuestra experiencia en Saturdays.AI",
       "reviewed": true,
       "translationVersion": 3,
@@ -71,31 +81,41 @@
       },
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Archive Spanish and English wording"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Integrantes:",
       "en": "Members:",
       "es": "Integrantes:",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Introducción",
       "en": "Introduction",
       "es": "Introducción",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Problemática",
-      "en": "Problematic",
+      "en": "The problem",
       "es": "Problemática",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -107,29 +127,44 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Dataset",
       "en": "Dataset",
       "es": "Dataset",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Resultados",
       "en": "Results",
       "es": "Resultados",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Proyección a futuro",
       "en": "Future projection",
       "es": "Proyección a futuro",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -141,21 +176,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": ". Tercera Edición. 2021",
       "en": ". Third Edition. 2021",
       "es": ". Tercera Edición. 2021",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció aún más nuestro proyecto debido a los diferentes puntos de vista. Nuestro proyecto fue nombrado Moody.AI",
       "en": "Our team is made up of 5 people from various professional areas and levels of experience, as well as different places of origin, which further enriched our project due to the different points of view. Our project was named Moody.AI",
       "es": "Nuestro equipo está formado por 5 personas de diversas áreas profesionales y niveles de experiencia, además de distintos lugares de origen, lo cual enriqueció aún más nuestro proyecto debido a los diferentes puntos de vista. Nuestro proyecto fue nombrado Moody.AI",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -168,13 +213,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Logo del equipo",
       "en": "team logo",
       "es": "Logo del equipo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -186,6 +236,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -205,9 +260,14 @@
       "source": "Karla Ramírez",
       "en": "Karla Ramírez",
       "es": "Karla Ramírez",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aldo Álvarez",
@@ -226,7 +286,7 @@
       "source": "Israel Castillo",
       "en": "Israel Castillo",
       "es": "Israel Castillo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -238,21 +298,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Jaime Chacoff",
       "en": "Jaime Chacoff",
       "es": "Jaime Chacoff",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cuando se creó el equipo cada integrante dió su propuesta de proyecto, debido a que todos estábamos muy interesados en el procesamiento de imágenes se seleccionó el proyecto que involucraba este tema. El cual se trataba de reconocimiento de emociones faciales, basándonos en la primicia de que incluso nosotros éramos víctimas de las clases virtuales, decidimos que un buen enfoque sería la educación; ya que los niños son un sector más vulnerable se decidió enfocarnos en ellos.",
-      "en": "When the team was created, each member gave their project proposal, because we were all very interested in image processing, the project that involved this topic was selected. Which was about facial emotion recognition, based on the scoop that even we were victims of virtual classes, we decided that a good approach would be education; Since children are a more vulnerable sector, it was decided to focus on them.",
-      "es": "Cuando se creó el equipo cada integrante dió su propuesta de proyecto, debido a que todos estábamos muy interesados en el procesamiento de imágenes se seleccionó el proyecto que involucraba este tema. El cual se trataba de reconocimiento de emociones faciales, basándonos en la primicia de que incluso nosotros éramos víctimas de las clases virtuales, decidimos que un buen enfoque sería la educación; ya que los niños son un sector más vulnerable se decidió enfocarnos en ellos.",
-      "reviewed": false,
+      "en": "When we formed the team, each member proposed a project. We shared an interest in image processing, so we chose to explore facial-expression classification. Our own experience of online classes initially drew us towards education and the difficulties children might face.",
+      "es": "Al formar el equipo, cada integrante propuso un proyecto. Como compartíamos el interés por el procesamiento de imágenes, elegimos explorar la clasificación de expresiones faciales. Nuestra propia experiencia con las clases virtuales nos llevó a pensar inicialmente en el ámbito educativo y en las dificultades que podían experimentar los niños.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -265,13 +335,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En un inicio el proyecto estableció crear una herramienta que permitiera detectar, en una fase temprana, las emociones negativas de los niños durante clases virtuales ya que sería de gran ayuda para las autoridades de las escuelas y para los padres de los niños.",
       "en": "Initially, the project established creating a tool that would allow detecting, at an early stage, children's negative emotions during virtual classes since it would be of great help to school authorities and the children's parents.",
       "es": "En un inicio el proyecto estableció crear una herramienta que permitiera detectar, en una fase temprana, las emociones negativas de los niños durante clases virtuales ya que sería de gran ayuda para las autoridades de las escuelas y para los padres de los niños.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -284,13 +359,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Sin embargo, revisando el tema más a fondo nos topamos con ciertas barreras, como el hecho de que no teníamos un dataset especializado en niños, el que se iba a necesitar consentimiento explícito de los padres para poder capturar imágenes de sus rostros, entre otras cosas.",
       "en": "However, reviewing the topic in more depth we came across certain barriers, such as the fact that we did not have a dataset specialized in children, which would require explicit consent from parents to be able to capture images of their faces, among other things.",
       "es": "Sin embargo, revisando el tema más a fondo nos topamos con ciertas barreras, como el hecho de que no teníamos un dataset especializado en niños, el que se iba a necesitar consentimiento explícito de los padres para poder capturar imágenes de sus rostros, entre otras cosas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -303,13 +383,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Al continuar investigando los efectos de la pandemia y las comunicaciones virtuales descubrimos que el impacto también es significativo en los adultos trabajando remotamente (home office).",
       "en": "By continuing to investigate the effects of the pandemic and virtual communications, we discovered that the impact is also significant on adults working remotely (home office).",
       "es": "Al continuar investigando los efectos de la pandemia y las comunicaciones virtuales descubrimos que el impacto también es significativo en los adultos trabajando remotamente (home office).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -322,13 +407,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Considerando que también podíamos tener un impacto social significativo al enfocar el proyecto en adultos, se decidió cambiar el enfoque del proyecto y orientarlo a la detección de emociones en los adultos que están viviendo la modalidad del trabajo remoto (home office).",
       "en": "Considering that we could also have a significant social impact by focusing the project on adults, it was decided to change the focus of the project and orient it to the detection of emotions in adults who are experiencing the modality of remote work (home office).",
       "es": "Considerando que también podíamos tener un impacto social significativo al enfocar el proyecto en adultos, se decidió cambiar el enfoque del proyecto y orientarlo a la detección de emociones en los adultos que están viviendo la modalidad del trabajo remoto (home office).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -341,13 +431,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "También influyó el hecho de que los datasets disponibles en Internet en su mayoría son de adultos. De igual manera un aspecto importante fue la posibilidad de hacer pruebas con los rostros de los integrantes del equipo (todos mayores de edad) y cuya participación fue voluntaria.",
       "en": "The fact that the datasets available on the Internet are mostly from adults also had an influence. Likewise, an important aspect was the possibility of testing the faces of the team members (all of legal age) and whose participation was voluntary.",
       "es": "También influyó el hecho de que los datasets disponibles en Internet en su mayoría son de adultos. De igual manera un aspecto importante fue la posibilidad de hacer pruebas con los rostros de los integrantes del equipo (todos mayores de edad) y cuya participación fue voluntaria.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -360,13 +455,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En conclusión se trabajó en un modelo para la detección de emociones por medio de la expresión facial, para adultos trabajando remotamente (home office). Se tuvo un enfoque en las emociones negativas, para que esta herramienta ayude a las áreas de recursos humanos de las empresas a detectar el estado de ánimo en el ambiente laboral y que con dicha información puedan tomar las acciones necesarias.",
       "en": "In conclusion, we worked on a model for the detection of emotions through facial expression, for adults working remotely (home office). There was a focus on negative emotions, so that this tool helps the human resources areas of companies to detect the state of mind in the work environment and with this information they can take the necessary actions.",
       "es": "En conclusión se trabajó en un modelo para la detección de emociones por medio de la expresión facial, para adultos trabajando remotamente (home office). Se tuvo un enfoque en las emociones negativas, para que esta herramienta ayude a las áreas de recursos humanos de las empresas a detectar el estado de ánimo en el ambiente laboral y que con dicha información puedan tomar las acciones necesarias.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -379,13 +479,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "NOM-035-STPS-2018: tiene el objetivo de establecer los elementos para identificar, analizar y prevenir los factores de riesgo psicosocial, así como para promover un entorno organizacional favorable en los centros de trabajo.",
       "en": "NOM-035-STPS-2018: has the objective of establishing the elements to identify, analyze and prevent psychosocial risk factors, as well as to promote a favorable organizational environment in the workplace.",
       "es": "NOM-035-STPS-2018: tiene el objetivo de establecer los elementos para identificar, analizar y prevenir los factores de riesgo psicosocial, así como para promover un entorno organizacional favorable en los centros de trabajo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -398,13 +503,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Hoy en día, lo que necesita la salud emocional es más atención, visibilidad y menor estigma. Para ello, se propuso el uso de la Inteligencia Artificial en proyectos con impacto social positivo, considerando como factor el estar viviendo en tiempo de pandemia.",
       "en": "Today, what emotional health needs is more attention, visibility and less stigma. To this end, the use of Artificial Intelligence in projects with positive social impact was proposed, considering living in a time of pandemic as a factor.",
       "es": "Hoy en día, lo que necesita la salud emocional es más atención, visibilidad y menor estigma. Para ello, se propuso el uso de la Inteligencia Artificial en proyectos con impacto social positivo, considerando como factor el estar viviendo en tiempo de pandemia.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -417,13 +527,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "En un inicio el proyecto estableció contar con una herramienta que permitiera detectar, en una fase temprana, las emociones negativas de los niños durante clases virtuales ya que sería de gran ayuda para las autoridades de las escuelas y para los padres de los niños.",
       "en": "Initially, the project established having a tool that would allow detecting, at an early stage, children's negative emotions during virtual classes since it would be of great help to school authorities and the children's parents.",
       "es": "En un inicio el proyecto estableció contar con una herramienta que permitiera detectar, en una fase temprana, las emociones negativas de los niños durante clases virtuales ya que sería de gran ayuda para las autoridades de las escuelas y para los padres de los niños.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -436,13 +551,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Al considerar que podemos tener un impacto social más amplio al incluir adultos en este proyecto, y tomando en cuenta que para utilizar los rostros de menores de edad es necesario contar con un consentimiento de los padres o tutores, se decidió cambiar el enfoque del proyecto y orientarlo a la detección de emociones en los adultos que están viviendo la modalidad del trabajo remoto (home office).",
       "en": "Considering that we can have a broader social impact by including adults in this project, and taking into account that to use the faces of minors it is necessary to have consent from parents or guardians, it was decided to change the focus of the project and direct it to the detection of emotions in adults who are experiencing the modality of remote work (home office).",
       "es": "Al considerar que podemos tener un impacto social más amplio al incluir adultos en este proyecto, y tomando en cuenta que para utilizar los rostros de menores de edad es necesario contar con un consentimiento de los padres o tutores, se decidió cambiar el enfoque del proyecto y orientarlo a la detección de emociones en los adultos que están viviendo la modalidad del trabajo remoto (home office).",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -455,13 +575,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Debido a la pandemia mundial del COVID-19, la población ha tenido que permanecer en cuarentena por más de un año. Un porcentaje significativo de empresas han implantado el trabajo remoto para no frenar las operaciones durante la pandemia. Ahora el trabajo se realiza en modalidad de “oficina en casa”, lo cual ha generado problemas que han afectado a los colaboradores en trabajo remoto. Entre estos problemas se destaca la falta de convivencia con los colegas de trabajo, la falta de distancia entre la vida personal con la vida laboral, y la ansiedad debido a la incertidumbre y el confinamiento. Todos estos problemas terminan reduciendo la estabilidad emocional de un individuo, lo cual llega a tener grandes repercusiones en su rendimiento y bienestar general.",
       "en": "Due to the global COVID-19 pandemic, the population has had to remain in quarantine for more than a year. A significant percentage of companies have implemented remote work so as not to slow down operations during the pandemic. Now work is carried out in a “home office” mode, which has generated problems that have affected remote working collaborators. Among these problems, the lack of coexistence with work colleagues, the lack of distance between personal life and work life, and anxiety due to uncertainty and confinement stand out. All of these problems end up reducing the emotional stability of an individual, which has great repercussions on their performance and general well-being.",
       "es": "Debido a la pandemia mundial del COVID-19, la población ha tenido que permanecer en cuarentena por más de un año. Un porcentaje significativo de empresas han implantado el trabajo remoto para no frenar las operaciones durante la pandemia. Ahora el trabajo se realiza en modalidad de “oficina en casa”, lo cual ha generado problemas que han afectado a los colaboradores en trabajo remoto. Entre estos problemas se destaca la falta de convivencia con los colegas de trabajo, la falta de distancia entre la vida personal con la vida laboral, y la ansiedad debido a la incertidumbre y el confinamiento. Todos estos problemas terminan reduciendo la estabilidad emocional de un individuo, lo cual llega a tener grandes repercusiones en su rendimiento y bienestar general.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -474,13 +599,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Existen estudios psicológicos y sociales que resaltan el enorme impacto negativo que puede tener la pandemia en la estabilidad mental de un individuo. De esta forma, se considera que es de gran ayuda que las empresas estén alertadas para visualizar en tiempo real las emociones negativas detectadas en sus colaboradores, las cuales pueden ser: tristeza, enojo, miedo o disgusto. Con esto, se haría una detección preliminar de comportamientos emocionales negativos, la cual servirá como una primera guía para darle seguimiento al caso con una consulta profesional.",
       "en": "There are psychological and social studies that highlight the enormous negative impact that the pandemic can have on an individual's mental stability. In this way, it is considered to be of great help for companies to be alerted to visualize in real time the negative emotions detected in their collaborators, which can be: sadness, anger, fear or disgust. With this, a preliminary detection of negative emotional behaviors would be made, which will serve as a first guide to follow up the case with a professional consultation.",
       "es": "Existen estudios psicológicos y sociales que resaltan el enorme impacto negativo que puede tener la pandemia en la estabilidad mental de un individuo. De esta forma, se considera que es de gran ayuda que las empresas estén alertadas para visualizar en tiempo real las emociones negativas detectadas en sus colaboradores, las cuales pueden ser: tristeza, enojo, miedo o disgusto. Con esto, se haría una detección preliminar de comportamientos emocionales negativos, la cual servirá como una primera guía para darle seguimiento al caso con una consulta profesional.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -493,13 +623,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Se utilizó un set de datos existente y de acceso libre en línea, el cual fue creado por Pierre-Luc Carrier y Aaron Courville como parte de un proyecto de investigación [3]. En este archivo se clasifican expresiones faciales de 35,685 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y está recortada de modo que únicamente se incluya la cara de una sola persona. Cada cara en el set de datos está clasificada con base en las expresiones faciales. Las clases en las que se dividen las expresiones son: felicidad, neutral, tristeza, enojo, sorpresa, disgusto y miedo.",
       "en": "An existing, freely available online dataset was used, which was created by Pierre-Luc Carrier and Aaron Courville as part of a research project [3]. Facial expressions from 35,685 images are classified in this file. Each image is 48x48 grayscale pixels in size and is cropped so that only a single person's face is included. Each face in the data set is classified based on facial expressions. The classes into which expressions are divided are: happiness, neutral, sadness, anger, surprise, disgust and fear.",
       "es": "Se utilizó un set de datos existente y de acceso libre en línea, el cual fue creado por Pierre-Luc Carrier y Aaron Courville como parte de un proyecto de investigación [3]. En este archivo se clasifican expresiones faciales de 35,685 imágenes. Cada imagen tiene un tamaño de 48×48 píxeles en escala de grises y está recortada de modo que únicamente se incluya la cara de una sola persona. Cada cara en el set de datos está clasificada con base en las expresiones faciales. Las clases en las que se dividen las expresiones son: felicidad, neutral, tristeza, enojo, sorpresa, disgusto y miedo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -512,13 +647,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Todas las capas se han organizado de manera secuencial utilizando TensorFlow 2.5 y Keras. La red se asemeja a una red convolucional del tipo VGG-16 con varias capas convolucionales CONV, manteniendo el padding y siempre con un kernel de 3×3 excepto en las 2 primeras capas convolucionales que tienen un kernel de 5×5.",
       "en": "All layers have been organized sequentially using TensorFlow 2.5 and Keras. The network resembles a VGG-16 type convolutional network with several CONV convolutional layers, maintaining the padding and always with a 3×3 kernel except in the first 2 convolutional layers that have a 5×5 kernel.",
       "es": "Todas las capas se han organizado de manera secuencial utilizando TensorFlow 2.5 y Keras. La red se asemeja a una red convolucional del tipo VGG-16 con varias capas convolucionales CONV, manteniendo el padding y siempre con un kernel de 3×3 excepto en las 2 primeras capas convolucionales que tienen un kernel de 5×5.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -531,13 +671,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Además, capas de MaxPooling entremedio de las CONV para la reducción espacial pero manteniendo la información relevante de la imagen. Para prevenir overfitting, se han añadido capas de BatchNorm y Dropout como regularizadores.",
-      "en": "Additionally, MaxPooling layers between the CONVs for spatial reduction but maintaining relevant image information. To prevent overfitting, BatchNorm and Dropout layers have been added as regularizers.",
-      "es": "Además, capas de MaxPooling entremedio de las CONV para la reducción espacial pero manteniendo la información relevante de la imagen. Para prevenir overfitting, se han añadido capas de BatchNorm y Dropout como regularizadores.",
-      "reviewed": false,
+      "en": "MaxPooling layers between the convolutional layers reduce the spatial dimensions while retaining relevant information. We also added BatchNorm and Dropout layers to stabilise training and reduce overfitting.",
+      "es": "Entre las capas convolucionales se intercalan capas MaxPooling, que reducen las dimensiones espaciales conservando información relevante. También añadimos capas BatchNorm y Dropout para estabilizar el entrenamiento y reducir el sobreajuste.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -550,13 +695,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "moodyNet: red convolucional tipo VGG-16",
       "en": "moodyNet: VGG-16 type convolutional network",
       "es": "moodyNet: red convolucional tipo VGG-16",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -568,22 +718,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Cada capa convolucional tiene una activación ReLU (Rectified Linear Unit) para que valores negativos no sean transferidos a la siguiente capa.",
       "en": "Each convolutional layer has a ReLU (Rectified Linear Unit) activation so that negative values are not transferred to the next layer.",
       "es": "Cada capa convolucional tiene una activación ReLU (Rectified Linear Unit) para que valores negativos no sean transferidos a la siguiente capa.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Después de las capas convolucionales, vienen las capas densas, para eso, se aplasta (flatten) la matriz resultante de las capas convolucionales para seguir hacia 4 capas densas con una activación ReLU y una última capa densa, con el número de parámetros igual al número de clases, con una activación softmax. La última capa softmax entregará valores entre 0 y 1, que corresponden a la probabilidad de cada una de clases.",
-      "en": "After the convolutional layers, come the dense layers, for this, the resulting matrix of the convolutional layers is flattened to continue towards 4 dense layers with a ReLU activation and a last dense layer, with the number of parameters equal to the number of classes, with a softmax activation. The last softmax layer will deliver values ​​between 0 and 1, which correspond to the probability of each class.",
-      "es": "Después de las capas convolucionales, vienen las capas densas, para eso, se aplasta (flatten) la matriz resultante de las capas convolucionales para seguir hacia 4 capas densas con una activación ReLU y una última capa densa, con el número de parámetros igual al número de clases, con una activación softmax. La última capa softmax entregará valores entre 0 y 1, que corresponden a la probabilidad de cada una de clases.",
-      "reviewed": false,
+      "en": "After the convolutional layers, a flatten operation converts the resulting matrix into a vector. It then passes through four dense layers with ReLU activation and an output layer with one unit per class and a softmax activation. The output values lie between 0 and 1 and sum to 1, representing the estimated probability of each class.",
+      "es": "Después de las capas convolucionales, la operación flatten convierte la matriz resultante en un vector. Este pasa por cuatro capas densas con activación ReLU y una capa de salida con tantas unidades como clases y activación softmax. Esta última produce valores entre 0 y 1 que suman 1 y representan las probabilidades estimadas de cada clase.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -596,13 +756,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "El optimizador que se ha utilizado es ADAM.",
       "en": "The optimizer that has been used is ADAM.",
       "es": "El optimizador que se ha utilizado es ADAM.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -614,13 +779,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Función de perdida y de precisión a través de las épocas",
-      "en": "Loss function and precision across epochs",
-      "es": "Función de perdida y de precisión a través de las épocas",
-      "reviewed": false,
+      "en": "Loss and accuracy across training epochs",
+      "es": "Pérdida y exactitud a lo largo de las épocas",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -633,13 +803,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Con el producto final se obtiene un algoritmo capaz de hacer un análisis del tipo de emociones que predominan en cada usuario por medio del material visual que se le proporciona, haciendo especial énfasis en alertar la prevalencia de emociones negativas. Con el análisis especializado del perfil emocional de cada usuario, los miembros de la empresa encargados de monitorear el bienestar de los trabajadores tendrán la oportunidad de dar un seguimiento a las alertas de usuarios que podrían estar padeciendo algún problema emocional durante sus jornadas de trabajo. Brindar este tipo de atención personalizada a los miembros de la empresa puede resultar crucial para mejorar el rendimiento y la satisfacción laboral de cada individuo, así como su calidad de vida.",
-      "en": "With the final product, an algorithm is obtained capable of analyzing the type of emotions that predominate in each user through the visual material provided, placing special emphasis on alerting the prevalence of negative emotions. With the specialized analysis of the emotional profile of each user, company members in charge of monitoring the well-being of workers will have the opportunity to follow up on alerts from users who could be suffering from an emotional problem during their work days. Providing this type of personalized attention to company members can be crucial to improving each individual's performance and job satisfaction, as well as their quality of life.",
-      "es": "Con el producto final se obtiene un algoritmo capaz de hacer un análisis del tipo de emociones que predominan en cada usuario por medio del material visual que se le proporciona, haciendo especial énfasis en alertar la prevalencia de emociones negativas. Con el análisis especializado del perfil emocional de cada usuario, los miembros de la empresa encargados de monitorear el bienestar de los trabajadores tendrán la oportunidad de dar un seguimiento a las alertas de usuarios que podrían estar padeciendo algún problema emocional durante sus jornadas de trabajo. Brindar este tipo de atención personalizada a los miembros de la empresa puede resultar crucial para mejorar el rendimiento y la satisfacción laboral de cada individuo, así como su calidad de vida.",
-      "reviewed": false,
+      "en": "The prototype classifies facial expressions in the visual material it receives and lets us explore the frequency of different labels, including those associated with negative emotions. We intended to investigate ways to support workplace wellbeing, but these classifications do not provide a reliable emotional profile or identify mental health problems. Any application in that setting would require independent validation, voluntary participation and privacy safeguards.",
+      "es": "El prototipo clasifica las expresiones faciales del material visual que recibe y permite explorar la frecuencia de las distintas etiquetas, incluidas las asociadas a emociones negativas. Nuestra intención era estudiar posibles formas de apoyar el bienestar laboral, pero estas clasificaciones no constituyen un perfil emocional fiable ni permiten identificar problemas de salud mental. Cualquier aplicación en ese ámbito requeriría validación independiente, participación voluntaria y protección de la privacidad.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -652,6 +827,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -704,7 +884,7 @@
       "source": "Estamos seguros de que esta primera versión de Moody.ai es perfectible y expandible a versiones más sofisticadas y con enfoques diferentes. Entre las ideas que han surgido en el equipo para versiones posteriores de Moody.ai están las siguientes aplicaciones:",
       "en": "We are sure that this first version of Moody.ai can be perfected and expandable to more sophisticated versions with different approaches. Among the ideas that have emerged in the team for subsequent versions of Moody.ai are the following applications:",
       "es": "Estamos seguros de que esta primera versión de Moody.ai es perfectible y expandible a versiones más sofisticadas y con enfoques diferentes. Entre las ideas que han surgido en el equipo para versiones posteriores de Moody.ai están las siguientes aplicaciones:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -717,13 +897,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Automatizar la detección de emociones y disparar eventos con base en estas detecciones. Por ejemplo, el identificar, en tiempo real, rostros de conductores de transporte cansados, parpadeando con más frecuencia de lo normal, bostezando, etc.",
       "en": "Automate emotion detection and trigger events based on these detections. For example, identifying, in real time, faces of tired transport drivers, blinking more frequently than normal, yawning, etc.",
       "es": "Automatizar la detección de emociones y disparar eventos con base en estas detecciones. Por ejemplo, el identificar, en tiempo real, rostros de conductores de transporte cansados, parpadeando con más frecuencia de lo normal, bostezando, etc.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -736,13 +921,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Detección de emociones de los colaboradores en temas específicos tratados en los ambientes de trabajo remotos y que las empresas lo identifiquen de manera temprana.",
       "en": "Detection of employees' emotions on specific topics discussed in remote work environments and for companies to identify them early.",
       "es": "Detección de emociones de los colaboradores en temas específicos tratados en los ambientes de trabajo remotos y que las empresas lo identifiquen de manera temprana.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -755,13 +945,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Identificar, en tiempo real, de forma temprana a personas con emociones negativas desempeñando actividades potencialmente riesgosas: operadores de maquinaria, personal en líneas de producción, trabajadores de la construcción, etc.",
       "en": "Identify, in real time, early people with negative emotions carrying out potentially risky activities: machinery operators, production line personnel, construction workers, etc.",
       "es": "Identificar, en tiempo real, de forma temprana a personas con emociones negativas desempeñando actividades potencialmente riesgosas: operadores de maquinaria, personal en líneas de producción, trabajadores de la construcción, etc.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -774,13 +969,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Consideramos que el seguir desarrollando a Moody.ai podría alcanzar un impacto social sin límites. Esta herramienta es fácil de adaptar al contexto donde necesite ser implementada y conforme crezca la red se obtendrá un modelo cada vez más robusto que será capaz de hacer predicciones más certeras.",
-      "en": "We believe that continuing to develop Moody.ai could achieve unlimited social impact. This tool is easy to adapt to the context where it needs to be implemented and as the network grows, an increasingly robust model will be obtained that will be able to make more accurate predictions.",
-      "es": "Consideramos que el seguir desarrollando a Moody.ai podría alcanzar un impacto social sin límites. Esta herramienta es fácil de adaptar al contexto donde necesite ser implementada y conforme crezca la red se obtendrá un modelo cada vez más robusto que será capaz de hacer predicciones más certeras.",
-      "reviewed": false,
+      "en": "Further development of Moody.ai could help us learn more about computer vision and its limitations. The proposed applications are research directions, not demonstrated capabilities. Adapting the model to another context would require new data, bias assessment and targeted testing; making it larger would not guarantee better results.",
+      "es": "Seguir desarrollando Moody.ai podría ayudarnos a aprender más sobre visión artificial y sus limitaciones. Las aplicaciones propuestas son líneas de investigación, no capacidades demostradas. Adaptar el modelo a otro contexto exigiría nuevos datos, evaluación de sesgos y pruebas específicas; aumentar su tamaño no garantiza mejores resultados.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -793,13 +993,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En el siguiente repositorio se encuentra el código usado para desarrollar esta aplicación:",
       "en": "In the following repository you will find the code used to develop this application:",
       "es": "En el siguiente repositorio se encuentra el código usado para desarrollar esta aplicación:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -812,6 +1017,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -826,7 +1036,7 @@
       "source": "Red Neuronal",
       "en": "Neural Network",
       "es": "Neuronal rojo",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -838,13 +1048,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Reconocimiento de emociones en tiempo real",
-      "en": "Real-time emotion recognition",
-      "es": "Reconocimiento de emociones en tiempo real",
-      "reviewed": false,
+      "en": "Real-time facial expression classification",
+      "es": "Clasificación de expresiones faciales en tiempo real",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -857,6 +1072,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -887,9 +1107,14 @@
       "source": "Nov 11, 2021",
       "en": "Nov 11, 2021",
       "es": "Nov 11, 2021",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Nota editorial: este proyecto clasifica expresiones faciales según las etiquetas de sus datos. Esa tarea no permite establecer por sí sola las emociones, la atención o el bienestar de una persona. Los resultados descritos deben leerse como los de un prototipo educativo.",
@@ -911,6 +1136,17 @@
         "by": "Codex",
         "date": "2026-10-25",
         "scope": "Complete new Spanish and English copy"
+      }
+    },
+    {
+      "source": "Queríamos poner el bienestar de las personas en el centro, más allá del rendimiento laboral. Ese objetivo exige escuchar a quienes trabajan, respetar su autonomía y evitar que una predicción basada en su rostro sustituya su propia experiencia o una valoración profesional.",
+      "en": "We wanted to put people’s wellbeing at the centre, beyond workplace performance. That goal requires listening to employees, respecting their autonomy and ensuring that a prediction based on their face never replaces their own account or a professional assessment.",
+      "es": "Queríamos poner el bienestar de las personas en el centro, más allá del rendimiento laboral. Ese objetivo exige escuchar a quienes trabajan, respetar su autonomía y evitar que una predicción basada en su rostro sustituya su propia experiencia o una valoración profesional.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

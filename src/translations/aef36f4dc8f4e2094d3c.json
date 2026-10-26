@@ -6,8 +6,13 @@
       "source": "Detección de fatiga en conductores de vehículos mediante Inteligencia Artificial",
       "en": "Fatigue detection in vehicle drivers using Artificial Intelligence",
       "es": "Detección de fatiga en conductores de vehículos mediante Inteligencia Artificial",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La Paz. Deep Learning. 2021 Las herramientas de visión artificial han demostrado vez tras vez el gran potencial que posee en sus distintas áreas de aplicación. Una de estas está justamente relacionada con los vehículos y sus…",
@@ -25,210 +30,370 @@
       "source": "21 nov 2021",
       "en": "Nov 21, 2021",
       "es": "21 nov 2021",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "TÉCNICAS IMPLEMENTADAS",
       "en": "TECHNIQUES IMPLEMENTED",
       "es": "TÉCNICAS IMPLEMENTADAS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "INTEGRANTES",
       "en": "MEMBERS",
       "es": "INTEGRANTES",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "REFERENCIAS",
       "en": "REFERENCES",
       "es": "REFERENCIAS",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Raquel Calle",
       "en": "Raquel Calle",
       "es": "Raquel Calle",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Las herramientas de visión artificial han demostrado vez tras vez el gran potencial que posee en sus distintas áreas de aplicación. Una de estas está justamente relacionada con los vehículos y sus conductores. Abarcando desde movilidades autónomas hasta herramientas de uso personal el espectro es muy amplio. Por ello, en este texto se explica la implementación de un detector de fatiga en conductores mediante Inteligencia Artificial utilizando OpenCV y Dlib.",
-      "en": "Artificial vision tools have demonstrated time after time the great potential they have in their different application areas. One of these is precisely related to vehicles and their drivers. Ranging from autonomous mobility to tools for personal use, the spectrum is very broad. Therefore, this text explains the implementation of a fatigue detector in drivers through Artificial Intelligence using OpenCV and Dlib.",
-      "es": "Las herramientas de visión artificial han demostrado vez tras vez el gran potencial que posee en sus distintas áreas de aplicación. Una de estas está justamente relacionada con los vehículos y sus conductores. Abarcando desde movilidades autónomas hasta herramientas de uso personal el espectro es muy amplio. Por ello, en este texto se explica la implementación de un detector de fatiga en conductores mediante Inteligencia Artificial utilizando OpenCV y Dlib.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Computer vision has applications ranging from autonomous vehicles to driver-assistance tools. In this project, we explore a prototype that looks for signs of fatigue using OpenCV and dlib.",
+      "es": "La visión artificial tiene aplicaciones que van desde los vehículos autónomos hasta herramientas de asistencia al conductor. En este proyecto exploramos un detector de indicios de fatiga con OpenCV y dlib.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Los accidentes de tránsito son una de las principales causas de muerte en ciudadanos de todos los países. Estos se pueden clasificar de acuerdo a sus causas. Se calcula que entre un 20% y un 30% de los accidentes se deben a conductores que conducen con fatiga. Si bien la fatiga al conducir es un riesgo evitable, lastimosamente, muchos conductores no toman las precauciones necesarias cuando conducen por periodos prolongados de tiempo. Por lo tanto, los conductores con fatiga pueden beneficiarse de un sistema de Inteligencia Artificial que los alerte al momento de perder la atención.",
-      "en": "Traffic accidents are one of the main causes of death in citizens of all countries. These can be classified according to their causes. It is estimated that between 20% and 30% of accidents are due to drivers driving while fatigued. While driving fatigue is an avoidable risk, unfortunately, many drivers do not take the necessary precautions when driving for prolonged periods of time. Therefore, drivers with fatigue can benefit from an Artificial Intelligence system that alerts them when they lose attention.",
-      "es": "Los accidentes de tránsito son una de las principales causas de muerte en ciudadanos de todos los países. Estos se pueden clasificar de acuerdo a sus causas. Se calcula que entre un 20% y un 30% de los accidentes se deben a conductores que conducen con fatiga. Si bien la fatiga al conducir es un riesgo evitable, lastimosamente, muchos conductores no toman las precauciones necesarias cuando conducen por periodos prolongados de tiempo. Por lo tanto, los conductores con fatiga pueden beneficiarse de un sistema de Inteligencia Artificial que los alerte al momento de perder la atención.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Fatigue can reduce attention at the wheel and increase crash risk. This project explores whether computer vision can recognise signs such as prolonged eye closure and trigger an alert. The prototype does not replace rest and has not been validated as a road-safety system.",
+      "es": "La fatiga puede reducir la atención al volante y aumentar el riesgo de accidente. Este proyecto explora si un sistema de visión artificial puede reconocer algunos indicios, como el cierre prolongado de los ojos, y generar una alerta. El prototipo no sustituye el descanso ni está validado como sistema de seguridad vial.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Diseñar un sistema para detectar la fatiga en conductores.",
       "en": "Design a system to detect fatigue in drivers.",
       "es": "Diseñar un sistema para detectar la fatiga en conductores.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se seleccionó un modelo de visión artificial pre entrenado basado en la librería cv2 de OpenCV y dlib para detección facial.",
       "en": "A pre-trained artificial vision model based on the OpenCV cv2 library and dlib was selected for facial detection.",
       "es": "Se seleccionó un modelo de visión artificial pre entrenado basado en la librería cv2 de OpenCV y dlib para detección facial.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "OpenCV:",
       "en": "OpenCV:",
       "es": "OpenCV:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "La biblioteca libre de visión artificial que se está usando para obtener la imagen del conductor.",
       "en": "The free computer vision library being used to obtain the driver image.",
       "es": "La biblioteca libre de visión artificial que se está usando para obtener la imagen del conductor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dlib face landmarks:",
       "en": "Dlib face landmarks:",
       "es": "Dlib face landmarks:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Son 68 puntos que se colocan sobre el rostro detectado para la identificación de facciones faciales, en este caso los ojos.",
-      "en": "There are 68 points that are placed on the detected face to identify facial features, in this case the eyes.",
-      "es": "Son 68 puntos que se colocan sobre el rostro detectado para la identificación de facciones faciales, en este caso los ojos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "The dlib predictor locates 68 facial landmarks; this project uses those around the eyes.",
+      "es": "El predictor de dlib localiza 68 puntos de referencia facial; en este proyecto utilizamos los correspondientes a los ojos.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "NumPy:",
       "en": "NumPy:",
       "es": "NumPy:",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esta biblioteca se está usando para el cálculo de la proporción de abertura de los ojos, mediante álgebra lineal y el posicionamiento de los puntos faciales de los ojos.",
       "en": "This library is being used for the calculation of the eye opening ratio, using linear algebra and the positioning of the facial points of the eyes.",
       "es": "Esta biblioteca se está usando para el cálculo de la proporción de abertura de los ojos, mediante álgebra lineal y el posicionamiento de los puntos faciales de los ojos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El sistema construido hace uso de un modelo pre entrenado de detección facial. Con ayuda de las bibliotecas previamente mencionadas se realiza un procedimiento como sigue:",
       "en": "The built system makes use of a pre-trained facial detection model. With the help of the previously mentioned libraries, a procedure is carried out as follows:",
       "es": "El sistema construido hace uso de un modelo pre entrenado de detección facial. Con ayuda de las bibliotecas previamente mencionadas se realiza un procedimiento como sigue:",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se carga el modelo detector y predictor que son los que detectan el rostro del conductor así como los 68 puntos faciales.",
       "en": "The detector and predictor model is loaded, which are those that detect the driver's face as well as the 68 facial points.",
       "es": "Se carga el modelo detector y predictor que son los que detectan el rostro del conductor así como los 68 puntos faciales.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una función lineal detecta la proporción de aspecto en los ojos midiendo distancias entre los puntos oculares.",
-      "en": "A linear function detects the aspect ratio in the eyes by measuring distances between eye points.",
-      "es": "Una función lineal detecta la proporción de aspecto en los ojos midiendo distancias entre los puntos oculares.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We calculate the eye aspect ratio from distances between eye landmarks.",
+      "es": "Calculamos la relación de aspecto de los ojos a partir de las distancias entre sus puntos de referencia.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Según el valor que se obtenga en esta proporción el programa se ramifica según el estado que considere correspondiente (despierto, cansado o dormido). Para que se considere la transición de un estado a otro debe haber una permanencia en ese estado durante un periodo de tiempo.",
-      "en": "Depending on the value obtained in this proportion, the program branches according to the state it considers corresponding (awake, tired or asleep). For the transition from one state to another to be considered, there must be a permanence in that state for a period of time.",
-      "es": "Según el valor que se obtenga en esta proporción el programa se ramifica según el estado que considere correspondiente (despierto, cansado o dormido). Para que se considere la transición de un estado a otro debe haber una permanencia en ese estado durante un periodo de tiempo.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Based on the ratio and how long it persists, the program assigns a label: awake, tired or asleep. These are threshold-based estimates, not direct measurements of fatigue.",
+      "es": "Según el valor obtenido y el tiempo durante el que se mantiene, el programa asigna una etiqueta: despierto, cansado o dormido. Son estimaciones basadas en umbrales, no mediciones directas de fatiga.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El sistema indica en pantalla el estado identificado, este es el paso donde podría activarse o no una alarma.",
       "en": "The system indicates the identified status on the screen; this is the step where an alarm may or may not be activated.",
       "es": "El sistema indica en pantalla el estado identificado, este es el paso donde podría activarse o no una alarma.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Este procedimiento se realiza fotograma a fotograma para tener una predicción constante del estado de fatiga de la persona.",
       "en": "This procedure is carried out frame by frame to have a constant prediction of the person's fatigue state.",
       "es": "Este procedimiento se realiza fotograma a fotograma para tener una predicción constante del estado de fatiga de la persona.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Como se utilizó un modelo pre entrenado los resultados obtenidos por el detector facial y de los puntos de referencia del rostro son buenos.",
-      "en": "As a pre-trained model was used, the results obtained by the facial detector and the face reference points are good.",
-      "es": "Como se utilizó un modelo pre entrenado los resultados obtenidos por el detector facial y de los puntos de referencia del rostro son buenos.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "In our tests, the pretrained model located faces and landmarks well enough for the prototype. That does not establish the reliability of fatigue detection.",
+      "es": "En nuestras pruebas, el modelo preentrenado localizó el rostro y sus puntos de referencia de forma útil para el prototipo. Esto no garantiza la fiabilidad de la detección de fatiga.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sin embargo, los resultados que obtuvimos en la detección del estado de fatiga son más bien fluctuantes. En ocasiones el sistema es poco sensible y no detecta estados con los ojos cerrados o, por el contrario, el sistema es pronto para indicar un estado posiblemente falso. Las razones que podrían causar este problema incluyen la calidad del video y el enfoque exclusivo en los ojos del conductor (cuando podrían tomarse en consideración otros factores como la boca).",
-      "en": "However, the results we obtained in detecting the fatigue state are rather fluctuating. Sometimes the system is not very sensitive and does not detect states with eyes closed or, on the contrary, the system is quick to indicate a possibly false state. Reasons that could cause this problem include video quality and exclusive focus on the driver's eyes (when other factors such as the mouth could be taken into consideration).",
-      "es": "Sin embargo, los resultados que obtuvimos en la detección del estado de fatiga son más bien fluctuantes. En ocasiones el sistema es poco sensible y no detecta estados con los ojos cerrados o, por el contrario, el sistema es pronto para indicar un estado posiblemente falso. Las razones que podrían causar este problema incluyen la calidad del video y el enfoque exclusivo en los ojos del conductor (cuando podrían tomarse en consideración otros factores como la boca).",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Fatigue detection was inconsistent. Sometimes the system missed closed eyes; at other times it triggered a label too soon. Video quality and reliance on the eyes alone, without considering cues such as the mouth, may contribute to these errors.",
+      "es": "La detección de fatiga fue inconsistente. A veces el sistema no detectaba los ojos cerrados; otras, activaba una etiqueta demasiado pronto. La calidad del vídeo y el enfoque exclusivo en los ojos, sin considerar señales como la boca, podrían contribuir a estos errores.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El proyecto ha desarrollado un sistema funcional capaz de detectar la fatiga en conductores de vehículos. La consistencia en estas detecciones no es buena así que se proponen algunas sugerencias: Aplicar operaciones de erosión y dilatación para reducir el ruido en la captura de video, implementar un sistema que detecte la proporción de abertura de la boca para aumentar la consistencia, y modificar los umbrales de detección para ajustarse a las necesidades de cada conductor.",
-      "en": "The project has developed a functional system capable of detecting fatigue in vehicle drivers. The consistency in these detections is not good, so some suggestions are proposed: Apply erosion and dilation operations to reduce noise in video capture, implement a system that detects the mouth opening ratio to increase consistency, and modify the detection thresholds to adjust to the needs of each driver.",
-      "es": "El proyecto ha desarrollado un sistema funcional capaz de detectar la fatiga en conductores de vehículos. La consistencia en estas detecciones no es buena así que se proponen algunas sugerencias: Aplicar operaciones de erosión y dilatación para reducir el ruido en la captura de video, implementar un sistema que detecte la proporción de abertura de la boca para aumentar la consistencia, y modificar los umbrales de detección para ajustarse a las necesidades de cada conductor.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "We built a prototype that estimates signs of fatigue, but its detections are not yet consistent. Proposed improvements include testing erosion and dilation to reduce noise, adding mouth-opening measurements and adjusting thresholds. These changes require evaluation before real-world use is considered.",
+      "es": "Desarrollamos un prototipo que estima indicios de fatiga, pero las detecciones todavía no son consistentes. Proponemos probar operaciones de erosión y dilatación para reducir ruido, incorporar la apertura de la boca y ajustar los umbrales. Todas estas mejoras requieren evaluación antes de considerar un uso real.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Carlos Claure –",
       "en": "Carlos Claure –",
       "es": "Carlos Claure –",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Raquel Calle –",
       "en": "Raquel Calle –",
       "es": "Raquel Calle –",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Liders Limpias –",
-      "en": "Clean Leaders –",
+      "en": "Liders Limpias –",
       "es": "Liders Limpias –",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Alejandro Carrasco. –",
       "en": "Alejandro Carrasco. –",
       "es": "Alejandro Carrasco. –",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Driver",
       "en": "driver",
       "es": "Driver",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Computer Vision",
-      "en": "computer vision",
-      "es": "Computer Vision",
-      "reviewed": false
+      "en": "Computer vision",
+      "es": "Visión artificial",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Opencv",
       "en": "opencv",
       "es": "Opencv",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 nov 2021.",
-      "en": "A history of the Saturdays.AI community. Originally published on Nov 21, 2021.",
+      "en": "A story from the Saturdays.AI community. Originally published on Nov 21, 2021.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 21 nov 2021.",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "Deep Learning para detectar el cansancio y la inantención del conductor.",
@@ -246,14 +411,35 @@
       "source": "Feb 27, 2022",
       "en": "Feb 27, 2022",
       "es": "Feb 27, 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Detectando emociones mediante imágenes con Inteligencia Artificial",
-      "en": "Detecting emotions through images with Artificial Intelligence",
-      "es": "Detectando emociones mediante imágenes con Inteligencia Artificial",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "en": "Classifying facial expressions with artificial intelligence",
+      "es": "Clasificación de expresiones faciales con inteligencia artificial",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "Un prototipo de La Paz utiliza OpenCV y dlib para explorar indicios de fatiga al volante, con resultados y limitaciones explicados por el equipo.",
+      "en": "A La Paz prototype uses OpenCV and dlib to explore signs of driver fatigue, with results and limitations explained by the team.",
+      "es": "Un prototipo de La Paz utiliza OpenCV y dlib para explorar indicios de fatiga al volante, con resultados y limitaciones explicados por el equipo.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

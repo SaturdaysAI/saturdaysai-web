@@ -4,15 +4,25 @@
   "segments": [
     {
       "source": "Podcast T4-E06-Sebastián Ramírez-Contribuyendo al Opensource",
-      "en": "Podcast S4-E06-Sebastián Ramírez-Contributing to Opensource",
-      "es": "Podcast T4-E06-Sebastián Ramírez-Contribuyendo al Opensource",
-      "reviewed": false
+      "en": "Podcast S4/E06: Sebastián Ramírez — Contributing to open source",
+      "es": "Podcast T4/E06: Sebastián Ramírez — Contribuir al código abierto",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "T4 / E6",
       "en": "S4/E6",
       "es": "T4 / E6",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En el episodio de hoy hablaremos con Sebastián Ramírez, fundador de FastAPI, Typer y SQLModel, asdemás de ser un gran contribuidor al opensource. En este podcast conoceremos un poco más a Sebastián, qué quería ser de pequeño,…",
@@ -25,7 +35,12 @@
       "source": "7 sept 2022",
       "en": "September 7, 2022",
       "es": "7 sept 2022",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "En el episodio de hoy hablaremos con Sebastián Ramírez, fundador de FastAPI, Typer y SQLModel, asdemás de ser un gran contribuidor al opensource. En este podcast conoceremos un poco más a Sebastián, qué quería ser de pequeño, qué piensa del opensurce, cómo ha llegado a ser un contribuidor tan destacado en ciencia de datos… y mucho más!",
@@ -66,67 +81,117 @@
       "source": "SQLModel",
       "en": "SQLModel",
       "es": "SQLModel",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "00:40. Presentación",
       "en": "00:40. Presentation",
       "es": "00:40. Presentación",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "2:15. Por qué acabaste dedicándote a la programación",
-      "en": "2:15. Why did you end up dedicating yourself to programming?",
+      "en": "2:15. What led you to a career in programming?",
       "es": "2:15. Por qué acabaste dedicándote a la programación",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "6:45. De pequeño a qué querías dedicarte",
       "en": "6:45. When you were little, what did you want to do?",
       "es": "6:45. De pequeño a qué querías dedicarte",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "14:20. ¿Como has llegado a ser un contribuidor tan destacado en ciencia de datos, machine learning?",
       "en": "14:20. How did you become such a prominent contributor in data science and machine learning?",
-      "es": "14:20. ¿Como has llegado a ser un contribuidor tan destacado en ciencia de datos, machine learning?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "es": "14:20. ¿Cómo te convertiste en un referente en ciencia de datos y machine learning?",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "28:30. Opensource",
-      "en": "28:30. Opensource",
-      "es": "28:30. Opensource",
-      "reviewed": false
+      "en": "28:30. Open source",
+      "es": "28:30. Código abierto",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "35:50. En el punto en el que estamos, ¿la inteligencia artificial te ha sorprendido o te ha decepcionado, y, ¿qué expectativas tienes de aquí a 10 años?",
-      "en": "35:50. At the point we are at, has artificial intelligence surprised you or disappointed you, and what expectations do you have 10 years from now?",
+      "en": "35:50. Has AI surprised or disappointed you, and what do you expect over the next ten years?",
       "es": "35:50. En el punto en el que estamos, ¿la inteligencia artificial te ha sorprendido o te ha decepcionado, y, ¿qué expectativas tienes de aquí a 10 años?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "42:15. ¿Qué le recomendarías a tu yo del pasado?",
-      "en": "42:15. What would you recommend to your past self?",
+      "en": "42:15. What advice would you give your younger self?",
       "es": "42:15. ¿Qué le recomendarías a tu yo del pasado?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "45:55. ¿A quién crees que deberíamos entrevistar?",
       "en": "45:55. Who do you think we should interview?",
       "es": "45:55. ¿A quién crees que deberíamos entrevistar?",
-      "reviewed": false,
-      "sourceLanguage": "es"
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 sept 2022.",
-      "en": "A history of the Saturdays.AI community. Originally published on September 7, 2022.",
+      "en": "A story from the Saturdays.AI community. Originally published on September 7, 2022.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 7 sept 2022.",
-      "reviewed": false
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
     },
     {
       "source": "Sebastián Ramírez, creador de FastAPI, Typer y SQLModel, comparte su trayectoria en programación y software de código abierto.",

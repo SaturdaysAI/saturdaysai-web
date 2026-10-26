@@ -1,9 +1,7 @@
 ---
 title: ¿Qué es la ingeniería de prompts? La nueva profesión nacida de la IA
-description: La ingeniería de prompts es un proceso esencial para mejorar la
-  interacción con los modelos de lenguaje de inteligencia artificial (IA). Este
-  artículo explora la historia, las técnicas y las aplicaciones de la ingeniería
-  de…
+description: Qué es la ingeniería de prompts, cómo diseñar instrucciones útiles
+  y por qué debe acompañarse de contexto, ejemplos, pruebas y verificación.
 pubDate: 2023-06-26
 author: Info Saturdays
 category: Community
@@ -99,8 +97,8 @@ Josep Moré Gili
 
 ## Más inteligencia artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos! [Previous PostPrivacidad y Inteligencia Artificial. Antónimos?](https://saturdays.ai/2023/05/02/privacidad-inteligencia-artificial/)
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

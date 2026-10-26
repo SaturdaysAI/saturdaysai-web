@@ -19,22 +19,37 @@
       "source": "Problema",
       "en": "Problem",
       "es": "Problema",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Solución propuesta",
       "en": "Proposed solution",
       "es": "Solución propuesta",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Modelo de DL",
       "en": "DL model",
       "es": "Modelo de DL",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Replace -100 in the labels as we can’t decode them.",
@@ -57,162 +72,267 @@
     },
     {
       "source": "Trabajo Futuro",
-      "en": "Future Job",
+      "en": "Future work",
       "es": "Trabajo Futuro",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El resumen de texto es el proceso de extraer la información más importante de un texto fuente para producir una versión abreviada para un usuario. Los seres humanos llevamos a cabo la tarea de resumen, ya que tenemos la capacidad de comprender el significado de un documento y extraer características destacadas para resumir los documentos utilizando nuestras propias palabras. Sin embargo, los métodos automáticos para el resumen de texto son cruciales en el mundo actual, donde hay falta de trabajadores y de tiempo para interpretar los datos.",
-      "en": "Text summarization is the process of extracting the most important information from a source text to produce an abbreviated version for a user. We humans perform the summarization task as we have the ability to understand the meaning of a document and extract salient features to summarize documents using our own words. However, automatic methods for text summarization are crucial in today's world, where there is a lack of workers and time to interpret data.",
-      "es": "El resumen de texto es el proceso de extraer la información más importante de un texto fuente para producir una versión abreviada para un usuario. Los seres humanos llevamos a cabo la tarea de resumen, ya que tenemos la capacidad de comprender el significado de un documento y extraer características destacadas para resumir los documentos utilizando nuestras propias palabras. Sin embargo, los métodos automáticos para el resumen de texto son cruciales en el mundo actual, donde hay falta de trabajadores y de tiempo para interpretar los datos.",
-      "reviewed": false,
+      "en": "Summarising means selecting a document’s essential information and expressing it more briefly. People do this by understanding the text and reformulating its ideas. Automated methods can help when there is more information than time to read it, although their output still needs review.",
+      "es": "Resumir consiste en seleccionar la información esencial de un documento y expresarla de forma más breve. Las personas lo hacemos al comprender el texto y reformular sus ideas. Los métodos automáticos pueden ayudar cuando el volumen de información supera el tiempo disponible para leerla, aunque sus resultados necesitan revisión.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 1:",
       "en": "Figure 1:",
       "es": "Figura 1:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Cantidad de datos generados de manera anual",
       "en": "Amount of data generated annually",
       "es": "Cantidad de datos generados de manera anual",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "internet languages",
       "en": "internet languages",
       "es": "internet languages",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Figura 2:",
       "en": "Figure 2:",
       "es": "Figura 2:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Idiomas predominantes en internet",
       "en": "Predominant languages on the internet",
       "es": "Idiomas predominantes en internet",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hoy en día, con el constante crecimiento de la información el estar actualizados en cualquier tema es una necesidad. Pero las fuentes de información usualmente son extensas y poseen una gran cantidad de texto pero lo más importante es que la información está en inglés.",
-      "en": "Nowadays, with the constant growth of information, being updated on any topic is a necessity. But the sources of information are usually extensive and have a large amount of text, but the most important thing is that the information is in English.",
-      "es": "Hoy en día, con el constante crecimiento de la información el estar actualizados en cualquier tema es una necesidad. Pero las fuentes de información usualmente son extensas y poseen una gran cantidad de texto pero lo más importante es que la información está en inglés.",
-      "reviewed": false,
+      "en": "Keeping up to date often means reading lengthy sources that, in many fields, are written in English. That can create barriers of both time and language.",
+      "es": "Mantenerse al día exige leer fuentes que a menudo son extensas y, en muchos ámbitos, están en inglés. Esto puede añadir una barrera de tiempo y de idioma.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Desarrollar una aplicación que pueda ayudar a la comprensión de un documento de texto en inglés y acorte el tiempo de comprensión de un texto largo.",
       "en": "Develop an application that can help the understanding of a text document in English and shorten the understanding time of a long text.",
       "es": "Desarrollar una aplicación que pueda ayudar a la comprensión de un documento de texto en inglés y acorte el tiempo de comprensión de un texto largo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Hacer la aplicación en base a métodos de DeepLearning enfocados a attention mechanism. Estas técnicas imitan la atención cognitiva. Esto provoca la mejora en las partes más importantes de los datos de entrada y desvanece el resto.",
-      "en": "Make the application based on DeepLearning methods focused on attention mechanism. These techniques mimic cognitive attention. This causes enhancement in the most important parts of the input data and fades out the rest.",
-      "es": "Hacer la aplicación en base a métodos de DeepLearning enfocados a attention mechanism. Estas técnicas imitan la atención cognitiva. Esto provoca la mejora en las partes más importantes de los datos de entrada y desvanece el resto.",
-      "reviewed": false,
+      "en": "Build an application using deep learning models with attention mechanisms. These calculate relationships between parts of the input and help the model weight relevant information; they do not literally reproduce human attention.",
+      "es": "Construir una aplicación con modelos de deep learning que utilicen mecanismos de atención. Estos mecanismos calculan relaciones entre partes de la entrada y ayudan al modelo a ponderar la información relevante; no reproducen literalmente la atención humana.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "CNN Daily Mail es un conjunto de datos de más de 300 mil artículos en inglés escritos por periodistas en CNN y en Daily Mail. El tamaño del conjunto de datos es de 1.27 GiB en la versión actual, esta admite el resumen extractivo y abstracto, aunque la versión original se creó para la lectura y comprensión automática y la respuesta a preguntas abstractas. Los datos se pueden usar para entrenar un modelo para el resumen abstracto y extractivo",
-      "en": "CNN Daily Mail is a dataset of more than 300 thousand articles in English written by journalists at CNN and Daily Mail. The size of the dataset is 1.27 GiB in the current version, it supports extractive and abstract summarization, although the original version was created for automatic reading and understanding and answering abstract questions. The data can be used to train a model for abstract and extractive summarization",
-      "es": "CNN Daily Mail es un conjunto de datos de más de 300 mil artículos en inglés escritos por periodistas en CNN y en Daily Mail. El tamaño del conjunto de datos es de 1.27 GiB en la versión actual, esta admite el resumen extractivo y abstracto, aunque la versión original se creó para la lectura y comprensión automática y la respuesta a preguntas abstractas. Los datos se pueden usar para entrenar un modelo para el resumen abstracto y extractivo",
-      "reviewed": false,
+      "en": "CNN/Daily Mail contains over 300,000 English-language news articles. The version used here occupied about 1.27 GiB and provides articles with reference summaries. It is used for reading comprehension and both extractive and abstractive summarisation.",
+      "es": "CNN/Daily Mail reúne más de 300.000 artículos periodísticos en inglés. La versión utilizada ocupaba aproximadamente 1,27 GiB y ofrece artículos junto a sus resúmenes de referencia. Se usa para tareas de comprensión y resumen, tanto extractivo como abstractivo.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Figura 3:",
       "en": "Figure 3:",
       "es": "Figura 3:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Esquema BART",
       "en": "BART scheme",
       "es": "Esquema BART",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "BART es una arquitectura que se basa tanto en BERT y GPT, BART utiliza la arquitectura de transformer seq2seq estándar pero, después de GPT, que modificamos las funciones de activación de ReLU a GeLU. La arquitectura está estrechamente relacionada con BERT, con las siguientes diferencias:",
-      "en": "BART is an architecture that is based on both BERT and GPT, BART uses the standard seq2seq transformer architecture but, after GPT, we modified the activation functions from ReLU to GeLU. The architecture is closely related to BERT, with the following differences:",
-      "es": "BART es una arquitectura que se basa tanto en BERT y GPT, BART utiliza la arquitectura de transformer seq2seq estándar pero, después de GPT, que modificamos las funciones de activación de ReLU a GeLU. La arquitectura está estrechamente relacionada con BERT, con las siguientes diferencias:",
-      "reviewed": false,
+      "en": "BART uses a transformer encoder–decoder architecture. It combines a bidirectional encoder, as in BERT, with an autoregressive decoder, as in GPT, and uses GeLU activations. Its features include:",
+      "es": "BART utiliza una arquitectura transformer de codificador-decodificador. Combina un codificador bidireccional, como BERT, con un decodificador autorregresivo, como GPT, y utiliza activaciones GeLU. Entre sus características destacan:",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cada capa del decodificador, además, realiza una atención cruzada sobre la capa oculta final del codificador (como en el modelo de secuencia a secuencia del transformador)",
       "en": "Each layer of the decoder additionally performs cross-attention on the final hidden layer of the encoder (as in the sequence-to-sequence model of the transformer).",
       "es": "Cada capa del decodificador, además, realiza una atención cruzada sobre la capa oculta final del codificador (como en el modelo de secuencia a secuencia del transformador)",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "BERT utiliza una feed-forward network antes de la predicción de palabras, lo que BART no hace.",
-      "en": "BERT uses a feed-forward network before word prediction, which BART does not do.",
-      "es": "BERT utiliza una feed-forward network antes de la predicción de palabras, lo que BART no hace.",
-      "reviewed": false,
+      "en": "In the architecture described by its authors, BART omits the additional feed-forward layer that BERT uses before word prediction.",
+      "es": "En la arquitectura descrita por sus autores, BART no añade la capa feed-forward que BERT utiliza antes de predecir palabras.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Entonces en pocas palabras usa la comprensión de texto o input de BERT y GPT para el output o la generación de palabras.",
-      "en": "So in a nutshell it uses text understanding or input from BERT and GPT for output or word generation.",
-      "es": "Entonces en pocas palabras usa la comprensión de texto o input de BERT y GPT para el output o la generación de palabras.",
-      "reviewed": false,
+      "en": "In short, the encoder represents the input text and the decoder generates the output text.",
+      "es": "En pocas palabras, el codificador representa el texto de entrada y el decodificador genera el texto de salida.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Para trabajar con este modelo se lo hizo mediante el modelo base que nos provee HuggingFace.",
-      "en": "To work with this model, it was done using the base model that HuggingFace provides us.",
-      "es": "Para trabajar con este modelo se lo hizo mediante el modelo base que nos provee HuggingFace.",
-      "reviewed": false,
+      "en": "We started with the base model available on Hugging Face.",
+      "es": "Partimos del modelo base disponible en Hugging Face.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "HuggingFace es una plataforma Open Source que se enfoca en NLP, nos ayuda a construir, entrenar e implementar modelos que son estado del arte. En este caso nos ayudó a construir el modelo y con el dataset.",
-      "en": "HuggingFace is an Open Source platform that focuses on NLP, helping us build, train and deploy state-of-the-art models. In this case it helped us build the model and with the dataset.",
-      "es": "HuggingFace es una plataforma Open Source que se enfoca en NLP, nos ayuda a construir, entrenar e implementar modelos que son estado del arte. En este caso nos ayudó a construir el modelo y con el dataset.",
-      "reviewed": false,
-      "translationVersion": 2
+      "en": "Hugging Face provides open-source tools and a catalogue of models and datasets. We used its libraries and resources to prepare the data and fine-tune the model.",
+      "es": "Hugging Face ofrece herramientas de código abierto y un catálogo de modelos y datasets. En este proyecto utilizamos sus bibliotecas y recursos para preparar los datos y ajustar el modelo.",
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "El proyecto fue realizado en base a los modelos provistos por la página de Hugging Face, la cual posee una gran colección tanto de modelos como de datasets para tareas de NLP (Procesamiento de Lenguaje Natural). De todas las opciones se seleccionó el modelo de sumarización abstractiva BART.",
       "en": "The project was carried out based on the models provided by the Hugging Face page, which has a large collection of both models and datasets for NLP (Natural Language Processing) tasks. Of all the options, the BART abstractive summary model was selected.",
       "es": "El proyecto fue realizado en base a los modelos provistos por la página de Hugging Face, la cual posee una gran colección tanto de modelos como de datasets para tareas de NLP (Procesamiento de Lenguaje Natural). De todas las opciones se seleccionó el modelo de sumarización abstractiva BART.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El código hace uso de las librerías “datasets” y “transformers” de HuggingFace, además de nltk para realizar la evaluación.",
       "en": "The code makes use of the HuggingFace “datasets” and “transformers” libraries, as well as nltk to perform the evaluation.",
       "es": "El código hace uso de las librerías “datasets” y “transformers” de HuggingFace, además de nltk para realizar la evaluación.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "# Imported libraries",
@@ -276,9 +396,14 @@
       "source": "Para realizar el fine tuning se hizo uso del dataset “cnn_dailymail”, para la evaluación se utilizó la métrica “rouge”, y el modelo base que se usó fue “facebook/bart-base”.",
       "en": "To perform the fine tuning, the “cnn_dailymail” dataset was used, for the evaluation the “rouge” metric was used, and the base model used was “facebook/bart-base”.",
       "es": "Para realizar el fine tuning se hizo uso del dataset “cnn_dailymail”, para la evaluación se utilizó la métrica “rouge”, y el modelo base que se usó fue “facebook/bart-base”.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "raw_datasets = load_dataset(“cnn_dailymail”, “3.0.0”)",
@@ -305,9 +430,14 @@
       "source": "Se cargaron un tokenizer y un modelo haciendo referencia al modelo base seleccionado.",
       "en": "A tokenizer and a model were loaded referencing the selected base model.",
       "es": "Se cargaron un tokenizer y un modelo haciendo referencia al modelo base seleccionado.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)",
@@ -320,9 +450,14 @@
       "source": "Del dataset “cnn_dailymail” se extrajeron los elementos que se encuentran bajo las etiquetas de “article” y “highlights” como datos de entrada y salida respectivamente.",
       "en": "From the “cnn_dailymail” dataset, the elements found under the “article” and “highlights” labels were extracted as input and output data respectively.",
       "es": "Del dataset “cnn_dailymail” se extrajeron los elementos que se encuentran bajo las etiquetas de “article” y “highlights” como datos de entrada y salida respectivamente.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "max_input_length = 512",
@@ -381,7 +516,7 @@
       "source": "Antes de entrenar el modelo se realiza la configuración de hiperparámetros.",
       "en": "Before training the model, hyperparameter configuration is performed.",
       "es": "Antes de entrenar el modelo se realiza la configuración de hiperparámetros.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -394,6 +529,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -491,7 +631,7 @@
       "source": "Se crea una función para realizar el cómputo de métricas haciendo uso de rouge score.",
       "en": "A function is created to compute metrics using rouge score.",
       "es": "Se crea una función para realizar el cómputo de métricas haciendo uso de rouge score.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -504,6 +644,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -607,7 +752,7 @@
       "source": "Una vez inicializado el modelo, definidos los hiperparámetros, datasets, tokenizer y métricas creamos un Trainer.",
       "en": "Once the model has been initialized, the hyperparameters, datasets, tokenizer and metrics have been defined, we create a Trainer.",
       "es": "Una vez inicializado el modelo, definidos los hiperparámetros, datasets, tokenizer y métricas creamos un Trainer.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -620,6 +765,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -682,8 +832,13 @@
       "source": "Descargamos punkt tokenizer que nos permite transformar un texto por oraciones.",
       "en": "We download punkt tokenizer that allows us to transform a text into sentences.",
       "es": "Descargamos punkt tokenizer que nos permite transformar un texto por oraciones.",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "nltk.download(‘punkt’)",
@@ -696,9 +851,14 @@
       "source": "Finalmente realizamos el entrenamiento y la evaluación",
       "en": "Finally we carry out the training and evaluation",
       "es": "Finalmente realizamos el entrenamiento y la evaluación",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "trainer.train()trainer.evaluate()",
@@ -711,207 +871,369 @@
       "source": "Figura 4:",
       "en": "Figure 4:",
       "es": "Figura 4:",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Pérdida a lo largo del entrenamiento",
       "en": "Loss during training",
       "es": "Pérdida a lo largo del entrenamiento",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Una vez finalizada la fase de entrenamiento podemos observar la pérdida a lo largo del entrenamiento realizado en el dataset “train”.",
       "en": "Once the training phase is finished, we can observe the loss throughout the training carried out in the “train” dataset.",
       "es": "Una vez finalizada la fase de entrenamiento podemos observar la pérdida a lo largo del entrenamiento realizado en el dataset “train”.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Si bien se muestran buenos resultados, se pueden mejorar haciendo mejor sintonización y tiempos de entrenamiento con el modelo.",
       "en": "Although good results are shown, they can be improved by doing better tuning and training times with the model.",
       "es": "Si bien se muestran buenos resultados, se pueden mejorar haciendo mejor sintonización y tiempos de entrenamiento con el modelo.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Los resultados obtenidos al evaluar el modelo entrenado con la métrica rouge score fueron los siguientes:",
       "en": "The results obtained when evaluating the model trained with the rouge score metric were the following:",
       "es": "Los resultados obtenidos al evaluar el modelo entrenado con la métrica rouge score fueron los siguientes:",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_loss: 1.5510817766189575",
       "en": "eval_loss: 1.5510817766189575",
       "es": "eval_loss: 1.5510817766189575",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_rouge1: 46.8771",
       "en": "eval_rouge1: 46.8771",
       "es": "eval_rouge1: 46.8771",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_rouge2: 23.5647",
       "en": "eval_rouge2:23.5647",
       "es": "eval_rouge2: 23.5647",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_rougeL: 39.6525",
       "en": "eval_rougeL: 39.6525",
       "es": "eval_rougeL: 39.6525",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_rougeLsum: 43.3625",
       "en": "eval_rougeLsum: 43.3625",
       "es": "eval_rougeLsum: 43.3625",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "eval_gen_len: 17.8154",
       "en": "eval_gen_len: 17.8154",
       "es": "eval_gen_len: 17.8154",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Se logró realizar una aplicación que resume y traduce el texto dado, se vio que los resultados obtenidos son óptimos para la tarea.",
-      "en": "It was possible to create an application that summarizes and translates the given text; it was seen that the results obtained are optimal for the task.",
-      "es": "Se logró realizar una aplicación que resume y traduce el texto dado, se vio que los resultados obtenidos son óptimos para la tarea.",
-      "reviewed": false,
+      "en": "We built an application that summarises and translates text. Results from this experiment were promising, although ROUGE scores do not guarantee that every summary is accurate or preserves every nuance.",
+      "es": "Construimos una aplicación que resume y traduce texto. Los resultados de este experimento fueron prometedores, aunque las métricas ROUGE no garantizan que cada resumen sea correcto o que conserve todos los matices.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Se usó dos modelos para hacer la aplicación, el primer modelo es el que se entrenó de resumen este modelo ya esta en",
-      "en": "Two models were used to make the application, the first model is the one that was trained, in summary, this model is already in",
-      "es": "Se usó dos modelos para hacer la aplicación, el primer modelo es el que se entrenó de resumen este modelo ya esta en",
-      "reviewed": false,
+      "en": "We used two models: a summarisation model fine-tuned by the team and published on",
+      "es": "Utilizamos dos modelos: uno para resumir, ajustado por el equipo y publicado en",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "huggingface",
       "en": "huggingface",
       "es": "huggingface",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": ", para la parte de traducción se usó un modelo ya entrenado de huggingface. (",
-      "en": ", for the translation part an already trained huggingface model was used. (",
-      "es": ", para la parte de traducción se usó un modelo ya entrenado de huggingface. (",
-      "reviewed": false,
+      "en": "and a pretrained English-to-Spanish translation model:",
+      "es": ", y otro ya entrenado para traducir del inglés al español:",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Mejorar los tiempos de inferencia que tienen los modelos al usar servicios en la nube.",
       "en": "Improve the inference times that models have when using cloud services.",
       "es": "Mejorar los tiempos de inferencia que tienen los modelos al usar servicios en la nube.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Expandir los tipos de entradas que pueda tener, puesto que ahora solo soporta texto puro. (txt, docx)",
-      "en": "Expand the types of entries you can have, since now it only supports pure text. (txt, docx)",
-      "es": "Expandir los tipos de entradas que pueda tener, puesto que ahora solo soporta texto puro. (txt, docx)",
-      "reviewed": false,
+      "en": "Expand supported inputs beyond pasted text to files such as TXT and DOCX.",
+      "es": "Ampliar las entradas admitidas: además de texto pegado, permitir archivos como TXT o DOCX.",
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Sergio Flores. —",
       "en": "Sergio Flores. —",
       "es": "Sergio Flores. —",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "www.linkedin.com/in/sergio-flores-ll",
       "en": "www.linkedin.com/in/sergio-flores-ll",
       "es": "www.linkedin.com/in/sergio-flores-ll",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Anna Montevilla. —",
       "en": "Anna Montevilla. —",
       "es": "Anna Montevilla. —",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "www.linkedin.com/in/anna-i-montevilla",
       "en": "www.linkedin.com/in/anna-i-montevilla",
       "es": "www.linkedin.com/in/anna-i-montevilla",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Koichi Sato. —",
       "en": "Koichi Sato. —",
       "es": "Koichi Sato. —",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "www.linkedin.com/in/koichi-sato-316902182",
       "en": "www.linkedin.com/in/koichi-sato-316902182",
       "es": "www.linkedin.com/in/koichi-sato-316902182",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Josmar Suarez. —",
       "en": "Josmar Suarez. —",
       "es": "Josmar Suarez. —",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "www.linkedin.com/in/josmar-suarez-l",
       "en": "www.linkedin.com/in/josmar-suarez-l",
       "es": "www.linkedin.com/in/josmar-suarez-l",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Annita Isabel",
       "en": "Annita Isabel",
       "es": "Annita Isabel",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Aprende Inteligencia Artificial con estos libros",
       "en": "Learn Artificial Intelligence with these books",
       "es": "Aprende Inteligencia Artificial con estos libros",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
-      "translationVersion": 2
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Dec 20, 2023",
       "en": "Dec 20, 2023",
       "es": "Dec 20, 2023",
-      "reviewed": false,
-      "translationVersion": 2
+      "reviewed": true,
+      "translationVersion": 2,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "res.txt combina un modelo BART de resumen y otro de traducción para ayudar a leer documentos en inglés. Compartimos el proceso y los resultados.",
+      "en": "res.txt combines a BART summarisation model with a translation model to help readers work through English documents. We share the process and results.",
+      "es": "res.txt combina un modelo BART de resumen y otro de traducción para ayudar a leer documentos en inglés. Compartimos el proceso y los resultados.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Los siguientes fragmentos conservan las API utilizadas en el proyecto de 2021. Hemos recuperado el formato del código; para ejecutarlo con versiones actuales habría que adaptar las dependencias y sus interfaces.",
+      "en": "The following snippets retain the APIs used in this 2021 project. We have restored the code formatting; running it with current versions would require updating the dependencies and their interfaces.",
+      "es": "Los siguientes fragmentos conservan las API utilizadas en el proyecto de 2021. Hemos recuperado el formato del código; para ejecutarlo con versiones actuales habría que adaptar las dependencias y sus interfaces.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

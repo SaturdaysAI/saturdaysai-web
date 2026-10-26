@@ -23,7 +23,7 @@ draft: false
 
 ## La explosión falsa en el Pentágono
 
-La creciente influencia de la **inteligencia artificial (IA)** en nuestra sociedad plantea retos únicos y a veces preocupantes como lo es la desinformación. Una noticia reciente destaca estos desafíos ya que mediante una **imagen falsa de una explosión cerca del Pentágono** compartida en Twitter, causó confusión y provocó una breve caída de la bolsa. 
+La difusión de una imagen falsa de una explosión cerca del Pentágono, el 22 de mayo de 2023, mostró lo rápido que puede circular una noticia engañosa. Compartida en Twitter, provocó confusión y coincidió con una breve caída bursátil. El episodio abrió preguntas sobre los contenidos sintéticos y la verificación de la información.
 
 El 22 de mayo de 2023, varias cuentas verificadas de Twitter compartieron una imagen que supuestamente mostraba una explosión cerca del Pentágono. La imagen, fue compartida por numerosas cuentas verificadas, incluyendo una que afirmaba falsamente estar asociada con Bloomberg News. La publicación decía: «Gran explosión cerca del complejo del Pentágono en Washington. Informe preliminar», y mostraba una imagen de humo negro elevándose cerca de un gran edificio.
 
@@ -41,7 +41,7 @@ La difusión esta desinformación no se limitó a Twitter. Las noticias falsas s
 
 Estos incidentes son un recordatorio de cómo la tecnología y la IA pueden ser utilizadas para propagar la desinformación de manera rápida y a gran escala. Nos obliga a reconsiderar las estructuras y las políticas que tenemos en lugar para verificar y moderar la información que se difunde en las redes sociales.
 
-La inteligencia artificial, hoy en día, tiene la **capacidad de crear contenido falso** de manera eficaz. Las imágenes, los vídeos y las noticias pueden ser manipulados o fabricados **des de cero** de manera convincente, lo que dificulta la tarea de discernir la realidad de la ficción. El incidente del falso informe de la explosión en el Pentágono es un ejemplo claro de cómo la IA puede generar imágenes hiperrealistas que causan confusión y pánico.
+La IA puede crear o modificar imágenes, vídeos y textos de forma convincente, lo que añade dificultades a la verificación. En el caso del Pentágono, se sugirió que la imagen podía haberse generado con IA, pero su origen no quedó confirmado en las informaciones citadas. Conviene distinguir entre que una imagen sea falsa y que sepamos cómo se creó.
 
 La IA tiene la capacidad de generar imágenes, textos y videos hiperrealistas, conocidos como «deepfakes». Estos pueden ser utilizados para crear noticias falsas que parecen auténticas a primera vista. En el caso de la imagen de la explosión del Pentágono, la imagen parecía lo suficientemente real como para que varias cuentas verificadas de Twitter la compartieran y causaran una breve caída en la bolsa. Esta es solo una ilustración del poder y el impacto potencial de la desinformación generada por IA.
 
@@ -53,7 +53,7 @@ Prompt: a robot working with a computer
 
 ## La solución pasa también por la IA
 
-La inteligencia artificial puede desempeñar un papel crucial en la lucha contra la desinformación. Mediante el uso de **algoritmos** sofisticados y técnicas de **machine learning**, la IA puede ayudar a **identificar y filtrar contenido falso de manera más eficiente y precisa**. Los algoritmos de IA pueden analizar grandes cantidades de datos y patrones para detectar señales de desinformación, como la manipulación de imágenes, la propagación masiva de noticias falsas o el uso de fuentes no confiables.
+La IA también puede apoyar la lucha contra la desinformación. El análisis de imágenes, patrones de difusión y grandes volúmenes de datos puede ayudar a priorizar contenido para su revisión. Pero un detector no es una prueba definitiva de falsedad: sus resultados deben contrastarse con fuentes fiables y con el contexto.
 
 Además, la IA puede trabajar en conjunto con los moderadores humanos para agilizar el proceso de verificación y moderación de contenido. Al implementar sistemas de IA mejorados y políticas más estrictas, es possible fortalecer la integridad de la información en las redes sociales y reducir la propagación de la desinformación.
 
@@ -74,8 +74,8 @@ Villasenor, J. (2020, November 23). How to deal with AI-enabled disinformation. 
 
 ## Más inteligencia artificial
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

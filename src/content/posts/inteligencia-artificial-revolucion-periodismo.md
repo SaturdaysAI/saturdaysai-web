@@ -36,7 +36,7 @@ La Inteligencia Artificial está ayudando a los periodistas a trabajar más ráp
 
 El objetivo principal de escribir noticias es compartir información de forma clara y correcta. La Inteligencia Artificial ayuda a los periodistas dándoles consejos instantáneos para escribir mejor y más claro. Herramientas como [Grammarly](https://www.grammarly.com) o [Hemingway Editor](https://hemingwayapp.com) ofrecen ayuda en el momento para que la escritura sea más directa y comprensible.
 
-La Inteligencia Artificial también es muy buena corrigiendo la gramática. A veces, los periodistas no ven pequeños errores por la prisa o por tener que actualizar constantemente sus artículos. Pero las herramientas de IA como [Language Too](https://languagetool.org/es)l pueden encontrar y arreglar estos errores rápido, para que los textos sean de alta calidad antes de que se publiquen.
+La revisión gramatical también puede beneficiarse de estas herramientas. Las prisas y las actualizaciones frecuentes hacen fácil pasar por alto pequeños errores. Un corrector como [LanguageTool](https://languagetool.org/es) puede señalarlos, aunque la decisión final sobre el estilo y el sentido corresponde a la redacción.
 
 Verificar que lo que se dice es muy importante para que las noticias sean confiables. Programas de IA como [Newtral](https://www.newtral.es) o [Snopes](https://www.snopes.com) ayudan a los periodistas a comprobar los datos rápidamente antes de difundir una noticia. Esto no solo hace que la información sea más precisa, sino que también ayuda a luchar contra las noticias falsas, que son un problema grande hoy en día.
 
@@ -50,7 +50,7 @@ La Inteligencia Artificial no busca reemplazar a los periodistas, sino fortalece
 
 ## **Información acerca de Saturdays.ai**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible _#ai4all_ mediante cursos y programas intensivos donde se realizan proyectos para el bien _#ai4good_. También realizamos proyectos y consultoría para organizaciones que quieren sacar el máximo partido de la IA.
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
 Si como nosotros te gusta la tecnología, hazte miembro premium de Saturdays y podrás aprovechar todos los beneficios de una comunidad líder en Inteligencia Artificial: [https://saturdays.ai/become-a-member](https://saturdays.ai/become-a-member)
 

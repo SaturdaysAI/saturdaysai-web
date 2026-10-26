@@ -6,15 +6,20 @@
       "source": "Zaragoza.",
       "en": "Zaragoza.",
       "es": "Zaragoza.",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Learn artificial intelligence, meet your local community and build projects with social impact in Zaragoza.",
       "en": "Learn artificial intelligence, meet your local community and build projects with social impact in Zaragoza.",
       "es": "Aprende inteligencia artificial, conoce a tu comunidad local y construye proyectos con impacto social en Zaragoza.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -27,6 +32,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -41,15 +51,20 @@
       "source": "Saturdays.AI - Zaragoza",
       "en": "Saturdays.AI - Zaragoza",
       "es": "Saturdays.AI - Zaragoza",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "El sector de la IA en Aragón está experimentando un crecimiento exponencial, con la irrupción de esta en campos consolidados como la agricultura, la ganadería y el turismo. Esto nos está forzando a innovar y a aplicar novedosas técnicas en ámbitos completamente inexplorados.",
-      "en": "The AI sector in Aragon is experiencing exponential growth, with its emergence in consolidated fields such as agriculture, livestock and tourism. This is forcing us to innovate and apply new techniques in completely unexplored areas.",
-      "es": "El sector de la IA en Aragón está experimentando un crecimiento exponencial, con la irrupción de esta en campos consolidados como la agricultura, la ganadería y el turismo. Esto nos está forzando a innovar y a aplicar novedosas técnicas en ámbitos completamente inexplorados.",
-      "reviewed": false,
+      "en": "The Zaragoza community explores how AI can be applied in fields such as agriculture, livestock farming and tourism. Learning and experimenting together helps us understand the opportunities and challenges of these technologies.",
+      "es": "La comunidad de Zaragoza explora cómo aplicar la IA a distintos ámbitos, como la agricultura, la ganadería y el turismo. Aprender y experimentar en equipo nos ayuda a comprender las oportunidades y los retos de estas tecnologías.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -62,13 +77,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": ": 13 sesiones a partir del 5 de Noviembre",
       "en": ": 13 sessions starting November 5",
       "es": ": 13 sesiones a partir del 5 de Noviembre",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -81,15 +101,25 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "LAAAB",
       "en": "LAAAB",
       "es": "LAAAB",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Inscríbete ahora",
@@ -101,9 +131,9 @@
     },
     {
       "source": "Conoce la comunidad de I.A. en Zaragoza",
-      "en": "Meet the A.I. community in Zaragoza",
-      "es": "Conoce la comunidad de I.A. en Zaragoza",
-      "reviewed": false,
+      "en": "Meet the AI community in Zaragoza",
+      "es": "Conoce la comunidad de IA en Zaragoza",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -116,13 +146,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "ITAinnova",
-      "en": "ITinnova",
+      "en": "ITAinnova",
       "es": "ITAinnova",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -134,13 +169,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "trabajamos para acercar el Machine Learning y la Inteligencia Artificial a toda la comunidad aragonesa. De acuerdo a estos valores, un grupo de trabajadorxs del Instituto nos unimos para tratar de sacar adelante este proyecto.",
       "en": "We work to bring Machine Learning and Artificial Intelligence closer to the entire Aragonese community. In accordance with these values, a group of Institute workers came together to try to move this project forward.",
       "es": "trabajamos para acercar el Machine Learning y la Inteligencia Artificial a toda la comunidad aragonesa. De acuerdo a estos valores, un grupo de trabajadorxs del Instituto nos unimos para tratar de sacar adelante este proyecto.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -153,6 +193,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
@@ -205,30 +250,35 @@
       "source": "AI Saturdays Zaragoza 1ª Edición",
       "en": "AI Saturdays Zaragoza 1st Edition",
       "es": "AI Saturdays Zaragoza 1ª Edición",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "pt",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Pese al nombre, los grupos de estudio nos reuniremos los viernes de 16:00h a 20:00h en el centro de Zaragoza. De esta forma pretendemos dar las máximas facilidades posibles a todas aquellas personas interesadas en dar sus primeros pasos en el apasionante mundo de la Inteligencia Artificial.",
-      "en": "Despite the name, the study groups will meet on Fridays from 4:00 p.m. to 8:00 p.m. in the center of Zaragoza. In this way we intend to provide the maximum possible facilities to all those people interested in taking their first steps in the exciting world of Artificial Intelligence.",
-      "es": "Pese al nombre, los grupos de estudio nos reuniremos los viernes de 16:00h a 20:00h en el centro de Zaragoza. De esta forma pretendemos dar las máximas facilidades posibles a todas aquellas personas interesadas en dar sus primeros pasos en el apasionante mundo de la Inteligencia Artificial.",
+      "en": "Although the programme is called AI Saturdays, this edition proposed meeting on Fridays from 4 p.m. to 8 p.m. in central Zaragoza to make participation easier.",
+      "es": "Aunque el programa se llama AI Saturdays, esta edición proponía reunirse los viernes de 16:00 a 20:00 en el centro de Zaragoza para facilitar la participación.",
       "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
       "provider": "Argos automatic translation",
       "editorialReview": {
         "by": "Codex",
-        "date": "2026-10-25",
-        "scope": "Translation checked against original; no new verification of historical research claims"
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "LAAAB_entrance",
       "en": "LAAAB_entrance",
       "es": "LAAAB_entrance",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -240,13 +290,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Aunque es la primera vez que organizamos un curso así en Zaragoza, Saturdays AI ha organizado multitud de ellos por todo el mundo. Aquí te dejamos un vídeo de demostración para que te hagas una idea de cómo será.",
-      "en": "Although it is the first time that we organize a course like this in Zaragoza, Saturdays AI has organized many of them around the world. Here we leave you a demonstration video to give you an idea of ​​what it will be like.",
-      "es": "Aunque es la primera vez que organizamos un curso así en Zaragoza, Saturdays AI ha organizado multitud de ellos por todo el mundo. Aquí te dejamos un vídeo de demostración para que te hagas una idea de cómo será.",
-      "reviewed": false,
+      "en": "This was the programme’s first proposal in Zaragoza. The page shared experiences from other communities to show how people learn and work together at AI Saturdays.",
+      "es": "Esta fue la primera propuesta del programa en Zaragoza. La página compartía experiencias de otras comunidades para mostrar cómo se aprende y se trabaja en AI Saturdays.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -259,6 +314,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -337,9 +397,9 @@
     },
     {
       "source": "A expensas de lo que las restricciones por el COVID-19 nos permitan, nuestras sesiones serán:",
-      "en": "At the expense of what COVID-19 restrictions allow us, our sessions will be:",
-      "es": "A expensas de lo que las restricciones por el COVID-19 nos permitan, nuestras sesiones serán:",
-      "reviewed": false,
+      "en": "The schedule announced for this edition, then subject to COVID-19 restrictions, included these dates:",
+      "es": "El calendario anunciado para esta edición, sujeto entonces a las restricciones por la COVID-19, incluía estas fechas:",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -352,13 +412,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "– 5 noviembre",
       "en": "– November 5",
       "es": "– 5 noviembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -370,13 +435,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 12 noviembre",
       "en": "– November 12",
       "es": "– 12 noviembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -388,13 +458,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 19 noviembre",
       "en": "– November 19",
       "es": "– 19 noviembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -406,13 +481,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 26 noviembre",
       "en": "– November 26",
       "es": "– 26 noviembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -424,13 +504,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 10 diciembre",
       "en": "– December 10",
       "es": "– 10 diciembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -442,13 +527,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 17 diciembre",
       "en": "– December 17",
       "es": "– 17 diciembre",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -460,13 +550,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 14 enero",
       "en": "– January 14",
       "es": "– 14 enero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -478,13 +573,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 21 enero",
       "en": "– January 21",
       "es": "– 21 enero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -496,13 +596,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 4 febrero",
       "en": "– February 4",
       "es": "– 4 febrero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -514,13 +619,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 11 febrero",
       "en": "– February 11",
       "es": "– 11 febrero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -532,13 +642,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 18 febrero",
       "en": "– February 18",
       "es": "– 18 febrero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -550,13 +665,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 25 febrero",
       "en": "– February 25",
       "es": "– 25 febrero",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -568,13 +688,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "– 11 marzo (demo day)",
-      "en": "– 11 marzo (demo day)",
-      "es": "– 11 de marzo (día de demostración)",
-      "reviewed": false,
+      "en": "– 11 March (Demo Day)",
+      "es": "– 11 de marzo (Demo Day)",
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -586,13 +711,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "logo_ita_cuadrado",
       "en": "logo_ita_square",
       "es": "logo_ita_cuadrado",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -604,21 +734,31 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "logo-negro-laaab",
       "en": "logo-black-laaab",
       "es": "logo-negro-laaab",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
     },
     {
       "source": "Pre - registro (finalizado)",
       "en": "Pre - registration (finished)",
       "es": "Pre - registro (finalizado)",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -630,32 +770,96 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Todavía estamos definiendo el itinerario formativo. Tan pronto como lo tengamos, lo actualizaremos en esta web.",
-      "en": "We are still defining the training itinerary. As soon as we have it, we will update it on this website.",
-      "es": "Todavía estamos definiendo el itinerario formativo. Tan pronto como lo tengamos, lo actualizaremos en esta web.",
-      "reviewed": false,
+      "en": "The archive did not include a final curriculum. Ask the team about the content of upcoming editions.",
+      "es": "El archivo no incluía un itinerario definitivo. Consulta con el equipo los contenidos de las próximas ediciones.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Contactar Zaragoza City Lead",
-      "en": "Contact Zaragoza City Lead",
-      "es": "Contactar Zaragoza City Lead",
-      "reviewed": false,
+      "en": "Contact the Zaragoza team",
+      "es": "Contacta con el equipo de Zaragoza",
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "AI Saturdays Zaragoza",
       "en": "AI Saturdays Zaragoza",
       "es": "AI Saturdays Zaragoza",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Consulta la próxima edición",
+      "en": "Ask about the next edition",
+      "es": "Consulta la próxima edición",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
+    },
+    {
+      "source": "La propuesta comenzaba en noviembre con una introducción a la IA y ejemplos de proyectos. Después, cada equipo elegiría un proyecto para desarrollarlo durante doce sesiones y presentarlo en el Demo Day.",
+      "en": "The proposal began in November with an introduction to AI and project examples. Each team would then choose a project to develop over twelve sessions and present at Demo Day.",
+      "es": "La propuesta comenzaba en noviembre con una introducción a la IA y ejemplos de proyectos. Después, cada equipo elegiría un proyecto para desarrollarlo durante doce sesiones y presentarlo en el Demo Day.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Consulta el programa con el equipo",
+      "en": "Ask the team about the programme",
+      "es": "Consulta el programa con el equipo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Calendario de la primera edición",
+      "en": "First-edition schedule",
+      "es": "Calendario de la primera edición",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
     }
   ]
 }

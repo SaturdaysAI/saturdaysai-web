@@ -135,9 +135,9 @@ Distribuciones sobre la media utilizando la variable **diagnostico**
 
 ## PCA
 
-Proponemos este análisis debido a que la estructura de nuestra base de datos tiene una dimensión alta **(30 variables)** por lo tanto esta técnica de análisis no supervisado nos ayudará a reducir la cantidad de componentes (variables) de nuestra base de datos, proyectando las variables originales a un subconjunto de las mismas.
+El conjunto contiene 30 variables. Utilizamos PCA para representarlas con un número menor de componentes: nuevas combinaciones lineales de las variables originales que concentran parte de su variación.
 
-El conjunto final de las variables escenciales después de este análisis, eliminará las que estén posiblemente correlacionadas. Tenemos ahora una _aproximación apriori_ que terminará de definirse con este análisis, dado que queremos formar dos clusters por la forma binaria que tiene nuestra variable objetivo **diagnostico**.
+PCA produce componentes no correlacionados; no selecciona simplemente un subconjunto de las variables originales. Usamos esta representación para explorar visualmente si las observaciones se agrupan de forma relacionada con el diagnóstico.
 
 La siguiente tabla muestra el porcentaje de varianza que acumula cada una de las componentes principales, consideramos en principio 10 componentes principales, como se observa en la tabla la primera y segunda componente explican el **44.27% y el 18.97%** de la varianza respectivamente, lo que implica que las primeras dos componentes explican el **63.24% de la varianza**.
 
@@ -161,7 +161,7 @@ PCA n\_componentes = 3
 
 Para este algoritmo de ML, utilizamos el dataset sin reducción, y entrenamos el modelo para que realizara una maximización de la separación de los clústers dadas las características que tenemos (28 variables, removiendo el label).
 
-Para este caso una visualización tipo silueta puede ayudar mucho a explicar los resultados. El `Silhouetter Score fue de 0.697` es decir, que tan bien separados están los clústers, recordando que 0 quiere decir que hay overlapping y 1 que están perfectamente delimitados.
+La visualización de silueta ayuda a evaluar la separación de los grupos. El coeficiente va de -1 a 1: valores próximos a 1 sugieren buena separación, valores cercanos a 0 indican solapamiento y valores negativos pueden indicar asignaciones poco adecuadas.
 
 ![](/media/77bfc47220d18933.webp)
 
@@ -291,8 +291,9 @@ Cada problema tiene un contexto particular que debe ser considerado para la prop
 
 En el caso particular de nuestro problema, el objetivo de predicción de la variable dependiente **diagnóstico** puede ser abordado en general desde dos perspectivas:
 
--   Por un lado, tenemos la meta de pronósticar con la mayor precisión si el diagnóstico para la paciente es favorable o lamentablemente desfavorable, de acuerdo a las métricas obtenidas si seguimos esta única meta el modelo de **Regresión Logística** nos da una precisión superior a los demás lo que se traduce en un error mínimo al clasificar, sin embargo es cuestionable su generalización a otras bases de datos relacionadas con este problema.
--   Por otro lado, tenemos la meta de generalizar este modelo a otras bases de datos, por lo que en este sentido nos inclinamos por el modelo de Regresión Logística paso a paso, dado que además de que se apega mejor a los supuestos específicos del modelo disminuye la dimensión del problema de 30 variables explicativas a 6 varaiables, esto último tiene impacto positivo en términos de procesamiento computacional y almacenamiento/recolección de datos.
+-   Si priorizamos la exactitud en la evaluación presentada, Random Forest obtuvo el valor más alto de los modelos comparados, un 97,36 %. Este resultado se limita a los datos y al procedimiento utilizados; no demuestra el mismo rendimiento en otros centros o poblaciones.
+
+-   También nos interesa explorar modelos con menos variables. La regresión logística reducida utiliza seis en lugar de 30, con una exactitud media cercana al 92 %. Esa simplificación puede reducir las necesidades de datos y de cómputo, pero su generalización a otras bases debe comprobarse, no darse por hecha.
 
 Es cierto que para el objetivo de generalización perdemos puntos porcentuales de precisión (dado que la Regresión Logística paso a paso tiene una precisión del 92% en promedio) pero la ventaja de generalizar este modelo es una prioridad específicamente dadas las cifras de mortalidad que actualmente están asociadas al cáncer de mama.
 
@@ -326,8 +327,8 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esta 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master sobre inteligencia artifical en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

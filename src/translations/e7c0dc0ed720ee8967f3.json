@@ -4,9 +4,9 @@
   "segments": [
     {
       "source": "Top 5 usos de ChatGPT para mejorar tu carrera profesional.",
-      "en": "Top 5 uses of ChatGPT to improve your professional career.",
-      "es": "Top 5 usos de ChatGPT para mejorar tu carrera profesional.",
-      "reviewed": false,
+      "en": "Four ways to use ChatGPT in your job search",
+      "es": "Cuatro usos de ChatGPT para preparar tu búsqueda de empleo",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -19,6 +19,11 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
@@ -44,7 +49,7 @@
       "source": "30 jun 2023",
       "en": "June 30, 2023",
       "es": "30 jun 2023",
-      "reviewed": false,
+      "reviewed": true,
       "translationVersion": 3,
       "provider": "Google automatic translation",
       "qualityCheck": {
@@ -56,97 +61,32 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "ChatGPT para mejorar el Currículum Vitae",
-      "en": "ChatGPT to improve the Curriculum Vitae",
-      "es": "ChatGPT para mejorar el Currículum Vitae",
-      "reviewed": false,
+      "en": "Improving your CV with ChatGPT",
+      "es": "Mejorar el currículum con ChatGPT",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 2,
-      "provider": "Argos automatic translation"
+      "provider": "Argos automatic translation",
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
+      }
     },
     {
       "source": "Cartas de Presentación personalizadas con ChatGPT",
       "en": "Personalized Cover Letters with ChatGPT",
       "es": "Cartas de Presentación personalizadas con ChatGPT",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "Preparación de Entrevistas de Trabajo con ChatGPT",
-      "en": "Preparation for Job Interviews with ChatGPT",
-      "es": "Preparación de Entrevistas de Trabajo con ChatGPT",
-      "reviewed": false,
-      "sourceLanguage": "es",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "Traducción Automática",
-      "en": "Automatic Translation",
-      "es": "Traducción Automática",
-      "reviewed": false,
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "Prompt: robot shopping in a store with AR",
-      "en": "Prompt: robot shopping in a store with AR",
-      "es": "Mensaje: robot comprando en una tienda con AR",
-      "reviewed": false,
-      "sourceLanguage": "en",
-      "translationVersion": 3,
-      "provider": "Google automatic translation",
-      "qualityCheck": {
-        "date": "2026-10-25",
-        "checks": [
-          "names",
-          "numeric literals",
-          "length",
-          "URLs"
-        ],
-        "editorialReview": false
-      }
-    },
-    {
-      "source": "En este artículo os vamos a dar los top 5 usos de ChatGPT para mejorar tu carrea profesional. Los Modelos de Lenguaje a Gran Escala (LLM, por sus siglas en inglés) son verdaderos game-changers, ofreciendo un amplio rango de aplicaciones en diversas áreas, incluyendo la búsqueda de empleo y la construcción de carreras. En este artículo, exploraremos cómo ChatGPT,puede usarse para mejorar tu currículum vitae y redactar cartas de presentación personalizadas.",
-      "en": "In this article we are going to give you the top 5 uses of ChatGPT to improve your professional career. Large Scale Language Models (LLM) are true game-changers, offering a wide range of applications in various areas, including job search and career building. In this article, we will explore how ChatGPT can be used to enhance your resume and write personalized cover letters.",
-      "es": "En este artículo os vamos a dar los top 5 usos de ChatGPT para mejorar tu carrera profesional. Los Modelos de Lenguaje a Gran Escala (LLM, por sus siglas en inglés) son verdaderos game-changers, ofreciendo un amplio rango de aplicaciones en diversas áreas, incluyendo la búsqueda de empleo y la construcción de carreras. En este artículo, exploraremos cómo ChatGPT,puede usarse para mejorar tu currículum vitae y redactar cartas de presentación personalizadas.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -162,15 +102,110 @@
       },
       "editorialReview": {
         "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Preparación de Entrevistas de Trabajo con ChatGPT",
+      "en": "Preparation for Job Interviews with ChatGPT",
+      "es": "Preparación de Entrevistas de Trabajo con ChatGPT",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
         "date": "2026-10-25",
-        "scope": "Targeted terminology correction; remaining wording not certified"
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Traducción Automática",
+      "en": "Automatic Translation",
+      "es": "Traducción Automática",
+      "reviewed": true,
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "Prompt: robot shopping in a store with AR",
+      "en": "Prompt: robot shopping in a store with AR",
+      "es": "Mensaje: robot comprando en una tienda con AR",
+      "reviewed": true,
+      "sourceLanguage": "en",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
+      }
+    },
+    {
+      "source": "En este artículo os vamos a dar los top 5 usos de ChatGPT para mejorar tu carrea profesional. Los Modelos de Lenguaje a Gran Escala (LLM, por sus siglas en inglés) son verdaderos game-changers, ofreciendo un amplio rango de aplicaciones en diversas áreas, incluyendo la búsqueda de empleo y la construcción de carreras. En este artículo, exploraremos cómo ChatGPT,puede usarse para mejorar tu currículum vitae y redactar cartas de presentación personalizadas.",
+      "en": "Language models such as ChatGPT can support several job-search tasks. Here we explore four: improving your CV, tailoring cover letters, practising interviews and translating documents. Use accurate information, remove unnecessary personal details before sharing it, and review the result.",
+      "es": "Los modelos de lenguaje como ChatGPT pueden apoyar distintas tareas de la búsqueda de empleo. Aquí exploramos cuatro: mejorar el currículum, adaptar cartas de presentación, practicar entrevistas y traducir documentos. Utiliza datos veraces, elimina información personal innecesaria antes de compartirlos y revisa el resultado.",
+      "reviewed": true,
+      "sourceLanguage": "es",
+      "translationVersion": 3,
+      "provider": "Google automatic translation",
+      "qualityCheck": {
+        "date": "2026-10-25",
+        "checks": [
+          "names",
+          "numeric literals",
+          "length",
+          "URLs"
+        ],
+        "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "En el competitivo mercado laboral de hoy, tener un currículum vitae (CV) que destaque es crucial. Aquí es donde ChatGPT puede ser un aliado invaluable. Este modelo de IA puede generar texto con coherencia y relevancia, lo que lo convierte en una herramienta útil para mejorar y personalizar tu CV.",
       "en": "In today's competitive job market, having a resume (CV) that stands out is crucial. This is where ChatGPT can be an invaluable ally. This AI model can generate text with consistency and relevance, making it a useful tool for enhancing and personalizing your CV.",
       "es": "En el competitivo mercado laboral de hoy, tener un currículum vitae (CV) que destaque es crucial. Aquí es donde ChatGPT puede ser un aliado invaluable. Este modelo de IA puede generar texto con coherencia y relevancia, lo que lo convierte en una herramienta útil para mejorar y personalizar tu CV.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -183,13 +218,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Utilizando un LLM como ChatGPT, puedes crear versiones optimizadas de tu CV para diferentes roles y sectores. La IA puede ayudarte a seleccionar y resaltar las habilidades y experiencias más relevantes para cada posición que te interese, asegurándose de que tu CV sea lo más atractivo posible para los reclutadores.",
-      "en": "Using an LLM such as ChatGPT, you can create optimized versions of your CV for different roles and sectors. AI can help you select and highlight the most relevant skills and experiences for each position you are interested in, ensuring your CV is as attractive as possible to recruiters.",
-      "es": "Utilizando un LLM como ChatGPT, puedes crear versiones optimizadas de tu CV para diferentes roles y sectores. La IA puede ayudarte a seleccionar y resaltar las habilidades y experiencias más relevantes para cada posición que te interese, asegurándose de que tu CV sea lo más atractivo posible para los reclutadores.",
-      "reviewed": false,
+      "en": "You can request versions of your CV tailored to different roles. The model may suggest which experience and skills to highlight, but check that it does not invent achievements, qualifications or responsibilities.",
+      "es": "Puedes pedir versiones de tu CV adaptadas a distintos puestos. El modelo puede sugerir qué experiencias y habilidades destacar, pero debes comprobar que no inventa logros, titulaciones ni responsabilidades.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -202,13 +242,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Pero la ayuda de ChatGPT no se limita a la personalización. También puede proporcionarte retroalimentación constructiva, detectando posibles errores gramaticales y ortográficos, sugiriendo mejoras en la redacción y garantizando que tu CV sea claro y conciso. En resumen, ChatGPT puede convertirse en tu editor personal, ayudándote a pulir y perfeccionar tu CV hasta que sea lo mejor posible.",
-      "en": "But ChatGPT's help is not limited to customization. They can also provide you with constructive feedback, spotting potential grammatical and spelling errors, suggesting improvements to your writing, and ensuring your CV is clear and concise. In short, ChatGPT can become your personal editor, helping you polish and perfect your CV until it is the best it can be.",
-      "es": "Pero la ayuda de ChatGPT no se limita a la personalización. También puede proporcionarte retroalimentación constructiva, detectando posibles errores gramaticales y ortográficos, sugiriendo mejoras en la redacción y garantizando que tu CV sea claro y conciso. En resumen, ChatGPT puede convertirse en tu editor personal, ayudándote a pulir y perfeccionar tu CV hasta que sea lo mejor posible.",
-      "reviewed": false,
+      "en": "It can also flag possible spelling or grammar errors and suggest clearer wording. Treat its proposals as editorial help and keep a voice that represents you.",
+      "es": "También puede señalar posibles errores de ortografía o gramática y sugerir una redacción más clara. Toma sus propuestas como una ayuda editorial y conserva una voz que te represente.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -221,13 +266,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Possible promp: Actua como un profesional de recursos humanos. Mejora el siguente currículum con un tono más profesional: (Tu currículum).",
-      "en": "Possible promp: Act as a human resources professional. Improve the following resume with a more professional tone: (Your resume).",
-      "es": "Possible promp: Actua como un profesional de recursos humanos. Mejora el siguente currículum con un tono más profesional: (Tu currículum).",
-      "reviewed": false,
+      "en": "Example prompt: “Review this CV as an editor specialising in recruitment. Improve its clarity and professional tone without inventing information. Flag any details that need clarification: [CV].”",
+      "es": "Ejemplo de prompt: «Revisa este currículum como editor especializado en selección de personal. Mejora su claridad y tono profesional sin inventar información. Señala cualquier dato que necesite aclaración: [currículum]».",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -240,13 +290,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Una carta de presentación eficaz es otra pieza clave en el proceso de búsqueda de empleo. No sólo tiene que ser atractiva y estar bien escrita, sino que también debe ser única y personalizada para cada puesto que solicitas. Aquí es donde ChatGPT puede ser de gran ayuda.",
       "en": "An effective cover letter is another key piece in the job search process. Not only does it have to be attractive and well-written, but it also has to be unique and personalized for each position you apply for. This is where ChatGPT can be of great help.",
       "es": "Una carta de presentación eficaz es otra pieza clave en el proceso de búsqueda de empleo. No sólo tiene que ser atractiva y estar bien escrita, sino que también debe ser única y personalizada para cada puesto que solicitas. Aquí es donde ChatGPT puede ser de gran ayuda.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -259,13 +314,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "ChatGPT puede ayudarte a redactar cartas de presentación personalizadas que se dirijan específicamente a las necesidades y requisitos de cada puesto de trabajo. Solo necesitas proporcionarle la información relevante sobre el puesto y tu experiencia y habilidades relacionadas. A partir de ahí, la IA generará una carta de presentación única que destaca tu idoneidad para el puesto, utilizando un lenguaje persuasivo y profesional.",
       "en": "ChatGPT can help you write personalized cover letters that specifically address the needs and requirements of each job position. You only need to provide them with relevant information about the position and your related experience and skills. From there, the AI ​​will generate a unique cover letter that highlights your suitability for the position, using persuasive and professional language.",
       "es": "ChatGPT puede ayudarte a redactar cartas de presentación personalizadas que se dirijan específicamente a las necesidades y requisitos de cada puesto de trabajo. Solo necesitas proporcionarle la información relevante sobre el puesto y tu experiencia y habilidades relacionadas. A partir de ahí, la IA generará una carta de presentación única que destaca tu idoneidad para el puesto, utilizando un lenguaje persuasivo y profesional.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -278,13 +338,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Además, ChatGPT puede ayudarte a mantener la coherencia y el tono profesional en tu carta de presentación, evitando errores comunes y asegurándose de que tu carta sea memorable y efectiva.",
       "en": "Additionally, ChatGPT can help you maintain consistency and a professional tone in your cover letter, avoiding common mistakes and ensuring your letter is memorable and effective.",
       "es": "Además, ChatGPT puede ayudarte a mantener la coherencia y el tono profesional en tu carta de presentación, evitando errores comunes y asegurándose de que tu carta sea memorable y efectiva.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -297,13 +362,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Possible promp: Actua como un profesional de recursos humanos. Basándote en el siguiente currículum (Tu currículum) escribe una carta de presentación para la siguiente oferta de empleo (Oferta de empleo)",
-      "en": "Possible promp: Act as a human resources professional. Based on the following resume (Your resume) write a cover letter for the next job offer (Job offer)",
-      "es": "Possible promp: Actua como un profesional de recursos humanos. Basándote en el siguiente currículum (Tu currículum) escribe una carta de presentación para la siguiente oferta de empleo (Oferta de empleo)",
-      "reviewed": false,
+      "en": "Example prompt: “Using this CV [CV] and job description [job description], draft a cover letter. Connect my actual experience to the requirements and do not invent skills or achievements.”",
+      "es": "Ejemplo de prompt: «A partir de este currículum [currículum] y de esta oferta [oferta], redacta un borrador de carta de presentación. Relaciona mis experiencias reales con los requisitos y no inventes habilidades ni logros».",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -316,13 +386,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "a robot working with a computer, a man watching it",
       "en": "a robot working with a computer, a man watching it",
       "es": "un robot trabajando con una computadora, un hombre mirándola",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -335,13 +410,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Prompt: a robot working with a computer, a man watching it",
       "en": "Prompt: a robot working with a computer, a man watching it",
       "es": "Aviso: un robot trabajando con una computadora, un hombre mirándola",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "en",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -354,13 +434,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Las entrevistas de trabajo pueden ser una experiencia estresante para muchos candidatos. Prepararse adecuadamente puede marcar la diferencia entre el éxito y el fracaso. En este escenario, ChatGPT puede ser un recurso inestimable.",
       "en": "Job interviews can be a stressful experience for many candidates. Proper preparation can make the difference between success and failure. In this scenario, ChatGPT can be an invaluable resource.",
       "es": "Las entrevistas de trabajo pueden ser una experiencia estresante para muchos candidatos. Prepararse adecuadamente puede marcar la diferencia entre el éxito y el fracaso. En este escenario, ChatGPT puede ser un recurso inestimable.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -373,13 +458,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "ChatGPT puede ayudarte a practicar para una entrevista de trabajo al proporcionarte una simulación interactiva. Puedes hacer que el modelo actúe como el entrevistador, planteando una serie de preguntas comunes de entrevista para las que puedes practicar tus respuestas. También puedes proporcionarle detalles específicos sobre el tipo de trabajo para el que te estás preparando, y ChatGPT puede generar preguntas más personalizadas basadas en esa información.",
       "en": "ChatGPT can help you practice for a job interview by providing an interactive simulation. You can have the model act as the interviewer, posing a series of common interview questions for which you can practice your answers. You can also provide specific details about the type of job you're preparing for, and ChatGPT can generate more personalized questions based on that information.",
       "es": "ChatGPT puede ayudarte a practicar para una entrevista de trabajo al proporcionarte una simulación interactiva. Puedes hacer que el modelo actúe como el entrevistador, planteando una serie de preguntas comunes de entrevista para las que puedes practicar tus respuestas. También puedes proporcionarle detalles específicos sobre el tipo de trabajo para el que te estás preparando, y ChatGPT puede generar preguntas más personalizadas basadas en esa información.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -392,13 +482,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Además, ChatGPT puede ayudarte a preparar respuestas concisas y efectivas para las preguntas de la entrevista. Puedes proporcionarle tus pensamientos iniciales y el modelo puede ayudarte a pulir y perfeccionar tus respuestas, garantizando que estés comunicando tus habilidades y experiencias de la manera más efectiva posible.",
       "en": "Additionally, ChatGPT can help you prepare concise and effective answers to interview questions. You can provide your initial thoughts and the model can help you polish and refine your responses, ensuring you are communicating your skills and experiences as effectively as possible.",
       "es": "Además, ChatGPT puede ayudarte a preparar respuestas concisas y efectivas para las preguntas de la entrevista. Puedes proporcionarle tus pensamientos iniciales y el modelo puede ayudarte a pulir y perfeccionar tus respuestas, garantizando que estés comunicando tus habilidades y experiencias de la manera más efectiva posible.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -411,13 +506,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Full Spanish and English page review; active rendered text and metadata"
       }
     },
     {
       "source": "Finalmente, ChatGPT puede ayudarte a prepararte para las preguntas de la entrevista que podrías hacer tú mismo. Al final de cada entrevista, es común que se te ofrezca la oportunidad de hacer preguntas. ChatGPT puede ayudarte a generar preguntas inteligentes y relevantes que demuestren tu interés en el puesto y tu deseo de aprender más sobre la empresa y el equipo.",
-      "en": "Finally, ChatGPT can help you prepare for interview questions you might ask yourself. At the end of each interview, it is common to be offered the opportunity to ask questions. ChatGPT can help you generate intelligent, relevant questions that demonstrate your interest in the role and your desire to learn more about the company and team.",
-      "es": "Finalmente, ChatGPT puede ayudarte a prepararte para las preguntas de la entrevista que podrías hacer tú mismo. Al final de cada entrevista, es común que se te ofrezca la oportunidad de hacer preguntas. ChatGPT puede ayudarte a generar preguntas inteligentes y relevantes que demuestren tu interés en el puesto y tu deseo de aprender más sobre la empresa y el equipo.",
-      "reviewed": false,
+      "en": "You can also prepare questions to ask the interviewer. Request ideas about responsibilities, the team and what success in the role looks like, then choose those that address your actual concerns.",
+      "es": "También puedes preparar las preguntas que tú harás al entrevistador. Pide ideas sobre las responsabilidades, el equipo y los criterios de éxito del puesto, y elige las que respondan a tus dudas reales.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -430,13 +530,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Possible promp: Actua como un profesional de recursos humanos. Has publicado la siguiente oferta laboral (Oferta laboral), y has vas a entrevistar al siguiente candidato (Tu currículum). Escribe possibles preguntas para la entrevista de trabajo.",
-      "en": "Possible promp: Act as a human resources professional. You have published the next job offer (Job Offer), and you are going to interview the next candidate (Your resume). Write possible questions for the job interview.",
-      "es": "Possible promp: Actua como un profesional de recursos humanos. Has publicado la siguiente oferta laboral (Oferta laboral), y has vas a entrevistar al siguiente candidato (Tu currículum). Escribe possibles preguntas para la entrevista de trabajo.",
-      "reviewed": false,
+      "en": "Example prompt: “Simulate an interview for this job description [job description], taking my CV [CV] into account. Ask one question at a time, wait for my answer, then give specific feedback to improve it without adding experience I do not have.”",
+      "es": "Ejemplo de prompt: «Simula una entrevista para esta oferta [oferta], teniendo en cuenta mi currículum [currículum]. Hazme una pregunta cada vez, espera mi respuesta y después dame comentarios concretos para mejorarla sin añadir experiencias que no tenga».",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -449,13 +554,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "La traducción automática es otro campo en el que los LLMs pueden ser extremadamente útiles. Aunque las herramientas de traducción automática existen desde hace algún tiempo, los LLMs como ChatGPT pueden llevar esto al siguiente nivel. Pueden proporcionar traducciones más precisas y naturales, teniendo en cuenta el contexto y las sutilezas del lenguaje.",
-      "en": "Machine translation is another field where LLMs can be extremely useful. Although machine translation tools have been around for some time, LLMs like ChatGPT can take this to the next level. They can provide more accurate and natural translations, taking into account the context and subtleties of the language.",
-      "es": "La traducción automática es otro campo en el que los LLMs pueden ser extremadamente útiles. Aunque las herramientas de traducción automática existen desde hace algún tiempo, los LLMs como ChatGPT pueden llevar esto al siguiente nivel. Pueden proporcionar traducciones más precisas y naturales, teniendo en cuenta el contexto y las sutilezas del lenguaje.",
-      "reviewed": false,
+      "en": "ChatGPT can help produce a first translation of a CV or letter. Check job titles, qualifications, dates and language nuances carefully: a fluent translation can still contain errors. For official use, check whether an accredited translation is required.",
+      "es": "ChatGPT puede ayudarte a preparar una primera traducción del CV o de una carta. Revisa especialmente los cargos, las titulaciones, las fechas y los matices de cada idioma: una traducción fluida puede contener errores. Si el documento tiene un uso oficial, comprueba si necesitas una traducción acreditada.",
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -468,13 +578,18 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English wording"
       }
     },
     {
       "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 30 jun 2023.",
-      "en": "A history of the Saturdays.AI community. Originally published on June 30, 2023.",
+      "en": "A story from the Saturdays.AI community. Originally published on June 30, 2023.",
       "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 30 jun 2023.",
-      "reviewed": false,
+      "reviewed": true,
       "sourceLanguage": "es",
       "translationVersion": 3,
       "provider": "Google automatic translation",
@@ -487,6 +602,33 @@
           "URLs"
         ],
         "editorialReview": false
+      },
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Spanish and English archive label"
+      }
+    },
+    {
+      "source": "Cuatro usos de ChatGPT para preparar tu búsqueda de empleo",
+      "en": "Four ways to use ChatGPT in your job search",
+      "es": "Cuatro usos de ChatGPT para preparar tu búsqueda de empleo",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
+      }
+    },
+    {
+      "source": "Ejemplos de prompts para revisar tu CV, redactar cartas, practicar entrevistas y traducir documentos sin inventar experiencia ni perder tu voz.",
+      "en": "Example prompts for reviewing your CV, drafting letters, practising interviews and translating documents without inventing experience or losing your voice.",
+      "es": "Ejemplos de prompts para revisar tu CV, redactar cartas, practicar entrevistas y traducir documentos sin inventar experiencia ni perder tu voz.",
+      "reviewed": true,
+      "editorialReview": {
+        "by": "Codex",
+        "date": "2026-10-26",
+        "scope": "Editable catalog synchronized with reviewed editorial copy"
       }
     }
   ]

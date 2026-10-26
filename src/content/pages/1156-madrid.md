@@ -75,7 +75,7 @@ Mayo: 9, 23 y 30
 
 **Junio**: 6
 
-[A](https://drive.google.com/file/d/1M44ZAGwEUvXEjNm_SdEjaul6ZJur0hAl/view?usp=sharing)[quí puedes consultar el calendario completo en pdf](https://drive.google.com/file/d/1rJMAJusnvSRbgFA3GafLn4aXfUKkR1n2/view?usp=sharing)
+[Documento de calendario del archivo](https://drive.google.com/file/d/1M44ZAGwEUvXEjNm_SdEjaul6ZJur0hAl/view?usp=sharing) | [Calendario completo en PDF](https://drive.google.com/file/d/1rJMAJusnvSRbgFA3GafLn4aXfUKkR1n2/view?usp=sharing)
 
 Además, en el documento Wiki tienes toda la información sobre la edición de Madrid y accederás a +70 horas de contenido en video, ejercicios y soluciones. Tendremos foros para preguntar dudas y compartir información.
 

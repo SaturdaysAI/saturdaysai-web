@@ -1,7 +1,8 @@
 ---
 title: "Focus On Driving: Redes Neuronales aplicadas a la Seguridad Vial"
-description: Redes Neuronales aplicadas a la seguridad vial, proyecto «Focus on
-  Driving» – inteligencia artificial para conducir mejor
+description: Focus on Driving compara cinco modelos de visión artificial para
+  reconocer distracciones al volante y comparte los resultados y límites del
+  experimento.
 pubDate: 2022-03-16
 author: Info Saturdays
 category: AI for good
@@ -252,11 +253,11 @@ Se destacan las siguientes categorías por su **alto porcentaje de acierto** (**
 
 Es notable la disminución del porcentaje de acierto en la categoría “**c9**” (hablando con pasajero). Esto pasa debido a que las categorías “**c0**” y “**c9**” podrían ser consideradas las “**menos excluyentes**”, según comentado anteriormente.
 
-Si tenemos en cuenta “**c9**” y “**c0**” **ambas como clasificaciones correctas** para “**c9**”, este porcentaje de acierto para “**c9**” se incrementa un **30,2%** (de 54,5% a 85,7%), acercándose a los porcentajes de acierto de las demás categorías.
+Si aceptáramos tanto c0 como c9 para las imágenes etiquetadas c9, su porcentaje de acierto pasaría del 54,5 % al 85,7 %: 31,2 puntos porcentuales más. Es un cálculo exploratorio que cambia el criterio de evaluación, no una mejora del modelo ni una medida comparable con la exactitud original.
 
 Hemos realizado este cálculo para intentar cuantificar el **impacto en _accuracy_** por el hecho de haber trabajado con un par de categorías “**algo menos excluyentes**”.
 
-Si las categorías “**c0**” y “**c9**” hubiesen sido definidas de una forma “**más excluyente**”, seguramente hubiésemos conseguido unos ajustes con **mejor _accuracy_** desde el principio.
+Definir con más claridad la diferencia entre c0 y c9 podría ayudar a etiquetar y evaluar los datos. Aun así, una mejora del rendimiento tendría que comprobarse con un conjunto independiente. Al comparar repetidamente modelos sobre las mismas 1.002 imágenes, ese conjunto pasa a orientar la selección y deja de ser una prueba final independiente.
 
 Por otro lado, entendemos que el estudio tiene que reflejar situaciones cotidianas, ya que serán la realidad a ser afrontada en el momento de desplegar cualquier modelo en la vida real.
 
@@ -300,8 +301,8 @@ En el siguiente repositorio se encuentra el código usado para desarrollar esta 
 
 ## **¡Más inteligencia artificial!**
 
-La misión de [Saturdays.ai](https://www.saturdays.ai/) es hacer la inteligencia artificial más accesible (_#ai4all_) mediante cursos y programas intensivos donde se realizan proyectos para el bien (_#ai4good_).
+Saturdays.AI makes AI more accessible through shared learning and projects with a social purpose. Our motto is AI4ALL IS AI4GOOD.
 
-Infórmate de nuestro master de inteligencia artificial en [https://saturdays.ai/master-ia-online/](https://saturdays.ai/master-ia-online/)
+[Explore the available courses](https://cursos.saturdays.ai/)
 
-Si quieres aprender más inteligencia artificial únete a nuestra comunidad en [community.saturdays.ai](http://community.saturdays.ai/) o visítanos en nuestra web [www.saturdays.ai](https://www.saturdays.ai/) ¡te esperamos!
+[Meet the Saturdays.AI community](https://cursos.saturdays.ai/courses/saturdaysai-community-onboarding)

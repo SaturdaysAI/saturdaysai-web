@@ -1,10 +1,12 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { load } from 'cheerio';
-import { htmlFiles, readCatalog, key, visitStrings } from './lib/localization.mjs';
+import { htmlFiles, readCatalog, key, visitStrings, localizedText } from './lib/localization.mjs';
 import { languagePath } from '../src/lib/preferences.mjs';
 import { indexablePath } from '../src/lib/seo.mjs';
 import overrides from '../src/i18n/overrides.json' with { type: 'json' };
+import editorialReviews from '../src/i18n/editorial-reviews.json' with { type: 'json' };
+import { applyEditorialNotice } from './lib/editorial-review.mjs';
 
 const base = (process.env.BASE_PATH || '/').replace(/\/$/, '');
 const origin = (process.env.SITE_URL || 'https://saturdays.ai').replace(/\/$/, '');
@@ -21,14 +23,17 @@ const routeFor = (file) =>
 const routes = new Set(files.map(routeFor));
 const missing = new Set();
 const translate = (source, language) => {
-  if (
-    source.endsWith(' | Saturdays.AI') &&
-    overrides[source.replace(/ \| Saturdays\.AI$/, '')]?.[language]
-  )
-    return overrides[source.replace(/ \| Saturdays\.AI$/, '')][language] + ' | Saturdays.AI';
-  const result = overrides[source]?.[language] ?? catalog.get(key(source))?.[language];
-  if (result == null || (result === '' && !Object.hasOwn(overrides[source] || {}, language)))
-    missing.add(source);
+  if (source.endsWith(' | Saturdays.AI')) {
+    const title = localizedText(
+      catalog,
+      overrides,
+      source.replace(/ \| Saturdays\.AI$/, ''),
+      language,
+    );
+    if (title !== undefined) return title + ' | Saturdays.AI';
+  }
+  const result = localizedText(catalog, overrides, source, language);
+  if (result === undefined) missing.add(source);
   return result ?? source;
 };
 const localizedURL = (value, language) => {
@@ -135,18 +140,6 @@ for (const file of files) {
       walk(value);
       $(el).text(JSON.stringify(value).replace(/</g, '\\u003c'));
     });
-    // Label the translated archive accurately; audio/video recordings remain in their original language.
-    const reviewedInformationPages = new Set([
-      '/about/', '/terms/', '/privacy-policy/', '/privacy-policy-2/', '/contact/', '/contacto/', '/seguridad-ia/',
-    ]);
-    if ($('.reading-body .prose,.city-history .prose').length && !reviewedInformationPages.has(route)) {
-      const notice = $('<p class="translation-notice"></p>').text(
-        language === 'en'
-          ? 'This archive includes automatic translations. Audio, video and text inside images remain in their original language.'
-          : 'Este archivo incluye traducciones automáticas. El audio, el vídeo y el texto de las imágenes conservan su idioma original.',
-      );
-      $('.reading-body .prose,.city-history .prose').first().before(notice);
-    }
     const image = language === 'en' ? social.english?.[route] || social.english?.default : null;
     if (image)
       $(
@@ -156,11 +149,12 @@ for (const file of files) {
       'href',
       'https://wa.me/?text=' + encodeURIComponent(`${headingText} | Saturdays.AI\n${canonical}`),
     );
+    const editorialStatus = applyEditorialNotice($, editorialReviews, route, language);
     const relativeFile = path.relative('dist', file).replace(/^en[\\/]/, '');
     const target = path.join(language === 'es' ? 'dist' : 'dist/en', relativeFile);
     await fs.mkdir(path.dirname(target), { recursive: true });
     await fs.writeFile(target, $.html());
-    report.push({ route: (language === 'en' ? '/en' : '') + route, language });
+    report.push({ route: (language === 'en' ? '/en' : '') + route, language, editorialStatus });
   }
 }
 // GitHub Pages serves 404.html for unknown routes; language links have real destinations too.
