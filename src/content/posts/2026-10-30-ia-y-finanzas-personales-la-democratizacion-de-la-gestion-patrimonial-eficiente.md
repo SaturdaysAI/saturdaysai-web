@@ -1,6 +1,6 @@
 ---
-title: "IA y finanzas personales: La democratización de la gestión patrimonial
-  eficiente"
+title: "La democratización de la inteligencia financiera: cuando la IA llega a
+  tu bolsillo"
 description: >
   ¿Alguna vez has calculado cuánto dinero pierdes cada año en suscripciones que
   no utilizas? 
@@ -15,7 +15,7 @@ description: >
 
   En este artículo vamos a ver cómo la IA ha transformado el sector financiero,
   qué tipo de aplicaciones tiene y qué alternativas ofrece el mercado para
-  ponerla a trabajar a favor de tu bolsillo.
+  ponerla a trabajar a favor de tu economía.
 author: "Marc Pérez "
 pubDate: 2026-10-30
 updatedDate: 2026-10-30
@@ -33,7 +33,7 @@ language: es
 
 Tradicionalmente, tratar estos problemas requería conocimientos financieros o la ayuda de un asesor. Sin embargo, hoy en día la inteligencia artificial puede ayudarte a entender mejor tu dinero y a mejorar su gestión.  
 
-En este artículo vamos a ver cómo la IA ha transformado el sector financiero, qué tipo de aplicaciones tiene y qué alternativas ofrece el mercado para ponerla a trabajar a favor de tu bolsillo.
+En este artículo vamos a ver cómo la IA ha transformado el sector financiero, qué tipo de aplicaciones tiene y qué alternativas ofrece el mercado para ponerla a trabajar a favor de tu economía.
 
 
 
