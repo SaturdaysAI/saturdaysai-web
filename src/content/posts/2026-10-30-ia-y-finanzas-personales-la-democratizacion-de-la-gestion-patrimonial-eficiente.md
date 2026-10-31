@@ -1,6 +1,6 @@
 ---
-title: "La democratización de la inteligencia financiera: cuando la IA llega a
-  tu bolsillo"
+title: "IA y Finanzas Personales: La democratización de la gestión patrimonial
+  eficiente"
 description: >
   ¿Alguna vez has calculado cuánto dinero pierdes cada año en suscripciones que
   no utilizas? 
@@ -24,6 +24,7 @@ legacyPath: /2026/10/30/ia-y-finanzas-personales/
 category: AI for good
 kind: article
 language: es
+image: /media/Gemini_Generated_Image_g86qq9g86qq9g86q.jpg
 ---
 # IA y Finanzas Personales: La democratización de la gestión patrimonial eficiente
 
@@ -44,6 +45,8 @@ A lo largo de la historia, el sector financiero se ha caracterizado por adoptar 
 La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la ++[colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf)++ para mantener su competitividad.
 
 Según la ++[EBA](https://www.eba.europa.eu/publications-and-media/publications/special-topic-artificial-intelligence)++, la adopción de la IA en la banca europea se ha extendido ampliamente durante los últimos años, especialmente en áreas como la segmentación de clientes, la detección de fraude, la prevención del lavado de dinero y de la financiación del terrorismo o la atención al cliente.
+
+![](</media/Uses of AI by EU banks per use case in 2024.png>)
 
 
 
