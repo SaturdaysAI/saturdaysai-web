@@ -181,11 +181,11 @@ Como orientación a la hora de elegir qué herramientas impulsadas por inteligen
 
 
 |  |  |  |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | **Solución** | **Registro financiero** | **Análisis de datos** |
-| Chat GPT(LLM Multimodal) | Manual con archivos/imágenes;Permite centralizar los datos de múltiples cuentas | Interacción conversacional y análisis personalizado |
-| Finch(App fintech impulsada por IA) | Automático con cuentas vinculadas; manual con archivos/imágenes; Permite centralizar múltiples cuentas | Integrado en la interfaz y conversacional a través de Finch Agent (Gemini) |
-| Revolut (Neobanco y fintech) | Automático;Solo trabaja con datos de las cuentas Revolut | Integrado en la interfaz y conversacional a través de AIR (modelo especializado en finanzas) |
+| Chat GPT(LLM Multimodal) | Manual con archivos/imágenes;Permite centralizar los datos de múltiples cuentas | Interacción conversacional y análisis personalizado |
+| Finch(App fintech impulsada por IA) | Automático con cuentas vinculadas; manual con archivos/imágenes; Permite centralizar múltiples cuentas | Integrado en la interfaz y conversacional a través de Finch Agent (Gemini) |
+| Revolut (Neobanco y fintech) | Automático;Solo trabaja con datos de las cuentas Revolut | Integrado en la interfaz y conversacional a través de AIR (modelo especializado en finanzas) |
 
 
 Conclusión
