@@ -24,10 +24,10 @@ legacyPath: /2026/10/30/ia-y-finanzas-personales/
 category: AI for good
 kind: article
 language: es
-image: /media/Gemini_Generated_Image_g86qq9g86qq9g86q.jpg
+image: /media/Gemini_Generated_Image_g86qq9g86qq9g86q-1.jpg
+imageAlt: "IA y Finanzas Personales: La democratización de la gestión
+  patrimonial eficiente"
 ---
-# IA y Finanzas Personales: La democratización de la gestión patrimonial eficiente
-
 ¿Alguna vez has calculado cuánto dinero pierdes cada año en suscripciones que no utilizas? 
 
 ¿Cuánto tiempo necesitas para alcanzar un objetivo de ahorro? 
