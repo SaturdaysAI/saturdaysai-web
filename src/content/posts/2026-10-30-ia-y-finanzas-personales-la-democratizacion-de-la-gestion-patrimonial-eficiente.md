@@ -19,7 +19,7 @@ description: >
 author: "Marc Pérez "
 pubDate: 2026-10-30
 updatedDate: 2026-10-30
-draft: true
+draft: false
 legacyPath: /2026/10/30/ia-y-finanzas-personales/
 category: AI for good
 kind: article
