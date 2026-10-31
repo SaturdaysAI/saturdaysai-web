@@ -25,13 +25,13 @@ imageAlt: Representación de un sistema de inteligencia artificial aplicado a la
   predicción de ventas, con gráficos de datos, servidores y un supermercado de
   fondo.
 ---
-**MLOps en 2026 y el trabajo de llevar la IA a producción**
+# **MLOps en 2026 y el trabajo de llevar la IA a producción**
 
-Por Alejandro López Soria
+
 
 ![](/media/portada.png)
 
- 
+
 
 Imagina que entrenas un modelo para anticipar cuántos productos venderá una tienda. En las pruebas, las predicciones son buenas. Lo conectas al sistema de pedidos y, durante unas semanas, ayuda a ajustar las compras. Entonces llega una promoción, cambia el comportamiento de los clientes y las estimaciones empiezan a fallar. La aplicación sigue respondiendo; el servidor no muestra errores. Sin embargo, el almacén empieza a llenarse de productos que nadie compra.
 
@@ -41,7 +41,7 @@ El ecosistema actual ofrece herramientas para resolver cada una de esas necesida
 
 
 
-**Qué es MLOps y qué añade a DevOps**
+## **Qué es MLOps y qué añade a DevOps**
 
 MLOps, abreviatura de Machine Learning Operations, reúne prácticas de aprendizaje automático, ingeniería de software y operaciones para desarrollar y mantener sistemas de ML en producción. Su objetivo es poder reconstruir cómo se obtuvo un modelo, introducir mejoras con controles y detectar cuándo hace falta intervenir.
 
@@ -51,9 +51,9 @@ MLOps toma de DevOps el control de versiones, las pruebas automatizadas y la col
 
 Por eso, las pruebas de software siguen siendo necesarias, pero deben acompañarse de controles sobre datos y calidad predictiva. Un servicio puede responder rápido y devolver resultados equivocados. La [guía de arquitectura MLOps de Google Cloud](https://docs.cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) sitúa precisamente esas validaciones y la monitorización dentro del proceso de desarrollo y operación.
 
- 
 
-**El ciclo empieza antes del entrenamiento**
+
+## **El ciclo empieza antes del entrenamiento**
 
 Volvamos a la tienda. Antes de elegir un algoritmo hay que decidir qué se quiere predecir, con cuánto tiempo de antelación y qué información estará disponible al hacer el pedido. Si entrenamos usando datos que solo conoceremos después de la venta, las pruebas ofrecerán una impresión engañosa del rendimiento. Es la llamada fuga de información o data leakage.
 
@@ -63,7 +63,7 @@ No todas las vueltas de ese ciclo terminan en un nuevo despliegue. Un entrenamie
 
 ![](</media/Ciclo MLOps_ del problema a producción.jpg>)
 
-**Poder reconstruir un resultado**
+## **Poder reconstruir un resultado**
 
 Git guarda el historial del código y la configuración. Para relacionarlo con archivos grandes de datos o modelos, [DVC](https://doc.dvc.org/start) mantiene referencias versionadas mientras los archivos se conservan en un almacenamiento separado. Así podemos identificar qué conjunto de datos corresponde a una revisión del proyecto sin introducirlo entero en el repositorio de Git.
 
@@ -75,9 +75,9 @@ Para reproducir el entrenamiento también hay que conservar las dependencias, la
 
 Cuando elegimos un candidato, un registro de modelos organiza sus versiones y las vincula con su procedencia. El [Model Registry de MLflow](https://mlflow.org/docs/latest/ml/model-registry/), por ejemplo, ofrece versiones, etiquetas y alias. Ese registro debe conectarse con el historial de despliegues: marcar una versión como aprobada no demuestra por sí solo que sea la que está atendiendo peticiones.
 
- 
 
-**Validar algo más que una métrica**
+
+## **Validar algo más que una métrica**
 
 En una predicción de demanda, conviene evaluar con una separación temporal que respete el orden de los acontecimientos. El modelo debe enfrentarse a periodos posteriores a aquellos de los que aprendió. También interesa revisar resultados por tienda o categoría: una mejora media puede esconder errores graves en los productos menos vendidos.
 
@@ -85,9 +85,9 @@ La validación incluye las entradas esperadas, los valores ausentes y la coheren
 
 Cuando muchas aplicaciones comparten variables, un feature store puede ayudar a gestionarlas. [Feast](https://docs.feast.dev/), por ejemplo, facilita el acceso a características históricas para entrenamiento y a valores recientes para inferencia. Su utilidad crece cuando hay que reutilizar esas variables y controlar su coherencia; para un único modelo, un proceso de transformación compartido y bien probado puede ser suficiente.
 
- 
 
-**Automatizar el proceso con criterios de parada**
+
+## **Automatizar el proceso con criterios de parada**
 
 Un pipeline es un flujo de tareas con dependencias: no tiene sentido evaluar un modelo antes de entrenarlo ni entrenar con datos que no han superado los controles de calidad. La orquestación añade programación, seguimiento de ejecuciones y gestión de fallos.
 
@@ -99,9 +99,9 @@ En ML aparece además el entrenamiento continuo, o CT: ejecutar de forma repetib
 
 Para nuestra tienda, el flujo podría ejecutarse cada semana, comprobar la calidad de los datos y comparar un candidato con la versión actual. Si empeora demasiado en una categoría importante, se detiene. Si supera las pruebas, queda disponible para aprobación. Los umbrales y la intervención humana dependen del impacto de un error y deben definirse antes de automatizar la decisión.
 
- 
 
-**La infraestructura depende de cómo se utilizará el modelo**
+
+## **La infraestructura depende de cómo se utilizará el modelo**
 
 Una predicción diaria para preparar pedidos puede ejecutarse por lotes: el proceso calcula los resultados, los guarda y termina. Un sistema que recomienda productos mientras alguien navega necesita responder a cada petición con poca latencia. Otros modelos se ejecutan dentro de un dispositivo, cerca del lugar donde se capturan los datos.
 
@@ -117,9 +117,9 @@ Por debajo están las redes, el almacenamiento, los permisos y los recursos de c
 
 También hay que diseñar cómo cambiar de versión. Un despliegue canary envía una parte del tráfico al candidato antes de ampliarlo. En modo shadow, el candidato recibe una copia de las peticiones y sus resultados se observan sin usarlos para decidir. Ambas estrategias ayudan a comprobar el comportamiento real. La vuelta atrás, o rollback, debe recuperar una combinación compatible de modelo, código y transformaciones, no únicamente un archivo de pesos.
 
- 
 
-**Monitorizar cuando el servidor dice que todo va bien**
+
+## **Monitorizar cuando el servidor dice que todo va bien**
 
 La monitorización de infraestructura observa disponibilidad, errores, tiempos de respuesta y consumo de recursos. [Prometheus](https://prometheus.io/docs/introduction/overview/) recoge métricas y permite definir alertas; herramientas de visualización como Grafana ayudan a explorarlas. En un sistema de ML hace falta mirar además la calidad de las entradas y de las predicciones.
 
@@ -133,9 +133,9 @@ Para medir el error necesitamos conocer el resultado real. En nuestro ejemplo ha
 
 La observabilidad conecta estas señales con registros de ejecución y versiones para poder explicar un incidente. Una alerta útil debería indicar qué ha cambiado, a qué parte del sistema afecta y quién debe revisarlo. Si el problema es un sensor averiado o una columna mal calculada, reentrenar automáticamente puede consolidar el error. Primero se diagnostica; después se decide la respuesta.
 
- 
 
-**Cloud y costes de mantener el sistema**
+
+## **Cloud y costes de mantener el sistema**
 
 Las plataformas cloud reúnen muchas de estas piezas. [Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html) ofrece servicios gestionados para construir, entrenar y desplegar modelos; es el nombre actual del servicio antes denominado Amazon SageMaker, hoy integrado en una plataforma más amplia. [Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning?view=azureml-api-2) cubre el ciclo de trabajo con recursos de entrenamiento, pipelines y despliegue.
 
@@ -147,9 +147,9 @@ Comparar costes exige mirar más allá del precio de una máquina. Importan las 
 
 En la tienda, ejecutar las predicciones por lotes y apagar los recursos al terminar puede ser una decisión más valiosa que optimizar unos milisegundos de inferencia. Para otros sistemas será imprescindible mantener capacidad disponible. Conviene medir el coste por unidad útil, como mil predicciones o una tarea completada, junto con la calidad y la latencia.
 
- 
 
-**LLMOps y agentes amplían lo que debemos controlar**
+
+## **LLMOps y agentes amplían lo que debemos controlar**
 
 Las aplicaciones generativas introducen otra situación: el equipo puede usar un modelo externo mediante una API sin entrenarlo. Aun así, debe evaluar cambios y controlar su funcionamiento. LLMOps aplica estos principios a sistemas basados en grandes modelos de lenguaje.
 
@@ -161,9 +161,9 @@ Por eso hay que versionar esos componentes, incluidos el conjunto de evaluación
 
 La ampliación de las herramientas ya es visible: [MLflow incorpora gestión de prompts, evaluación y trazas para aplicaciones generativas y agentes](https://mlflow.org/docs/latest/genai/). Una traza registra los pasos observables de una ejecución, como llamadas al modelo, consultas y uso de herramientas, con sus tiempos y resultados. Permite localizar dónde falla el flujo; no equivale a conocer el razonamiento interno del modelo.
 
- 
 
-**Evaluar respuestas y también acciones**
+
+## **Evaluar respuestas y también acciones**
 
 La evaluación debe partir de tareas representativas. En el asistente de ventas interesa comprobar si recupera el documento adecuado, si respalda sus afirmaciones y si reconoce que le falta información. Las pruebas previas al despliegue pueden complementarse con evaluaciones sobre una muestra de interacciones reales. [LangSmith documenta ambos flujos y cómo convertir fallos de producción en nuevos casos de prueba](https://docs.langchain.com/langsmith/evaluation).
 
@@ -173,9 +173,9 @@ Si el asistente puede crear un pedido, hablamos además de un agente que actúa 
 
 En estas aplicaciones, los costes pueden acumularse en varias llamadas por tarea. La longitud del contexto, los reintentos y las evaluaciones también cuentan. Probar modelos más pequeños, reutilizar resultados cuando sea válido o reducir llamadas innecesarias permite buscar un equilibrio medible entre calidad, tiempo y coste.
 
- 
 
-**Una arquitectura que el equipo pueda mantener**
+
+## **Una arquitectura que el equipo pueda mantener**
 
 Para un primer modelo de demanda, una base razonable puede ser Git, datos identificables y recuperables, seguimiento de experimentos y un proceso de predicción por lotes. Desde el inicio hacen falta validaciones, una forma de detectar fallos y un procedimiento para recuperar una versión anterior. El grado de sofisticación puede crecer después.
 
@@ -183,9 +183,9 @@ Cuando se multiplican los entrenamientos o los modelos, aparecen razones concret
 
 La gobernanza se incorpora a ese trabajo diario: documentar el uso previsto y los límites del modelo, conservar su procedencia, controlar accesos y registrar aprobaciones. También implica decidir qué datos se guardan en las trazas y durante cuánto tiempo. Registrar todo sin criterio puede exponer información sensible y encarecer la operación.
 
- 
 
-**Conseguir que el modelo siga siendo útil**
+
+## **Conseguir que el modelo siga siendo útil**
 
 El éxito del modelo de nuestra tienda se comprobará en los pedidos de los próximos meses, bajo promociones, cambios de temporada y errores de datos. MLOps proporciona los medios para observar ese comportamiento y modificar el sistema sin perder la capacidad de explicar qué ocurrió.
 
