@@ -28,18 +28,6 @@ image: /media/Gemini_Generated_Image_g86qq9g86qq9g86q-1.jpg
 imageAlt: "IA y Finanzas Personales: La democratización de la gestión
   patrimonial eficiente"
 ---
-¿Alguna vez has calculado cuánto dinero pierdes cada año en suscripciones que no utilizas? 
-
-¿Cuánto tiempo necesitas para alcanzar un objetivo de ahorro? 
-
-Tradicionalmente, tratar estos problemas requería conocimientos financieros o la ayuda de un asesor. Sin embargo, hoy en día la inteligencia artificial puede ayudarte a entender mejor tu dinero y a mejorar su gestión.  
-
-En este artículo vamos a ver cómo la IA ha transformado el sector financiero, qué tipo de aplicaciones tiene y qué alternativas ofrece el mercado para ponerla a trabajar a favor de tu economía.
-
-
-
-## La situación actual
-
 A lo largo de la historia, el sector financiero se ha caracterizado por adoptar tecnologías de vanguardia para mejorar la eficiencia de sus servicios y operaciones. En las últimas décadas, los avances en el almacenamiento masivo de datos (*big* *data*), la computación en la nube y el auge de la inteligencia artificial (IA) han dado lugar al ecosistema actual.
 
 La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la ++[colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf)++ para mantener su competitividad.
@@ -188,7 +176,7 @@ Como orientación a la hora de elegir qué herramientas impulsadas por inteligen
 | Revolut (Neobanco y fintech) | Automático;Solo trabaja con datos de las cuentas Revolut | Integrado en la interfaz y conversacional a través de AIR (modelo especializado en finanzas) |
 
 
-Conclusión
+## Conclusión
 
 Las aplicaciones financieras con IA e integración bancaria ofrecen una solución completa y sencilla para optimizar el ahorro y mantener el control: la integración bancaria permite el seguimiento en tiempo real, y la IA aplicada ofrece consejos, proyecciones y responde consultas como un asesor financiero. Esto mejora la accesibilidad y la inclusividad de personas con menos conocimientos financieros. Asimismo, los robo-advisors capacitan a la gente a invertir de manera automática.
 
