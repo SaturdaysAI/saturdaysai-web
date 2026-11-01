@@ -1,0 +1,666 @@
+{
+  "title": "MLOps en 2026 y el trabajo de llevar la IA a producción",
+  "route": "/2026/10/31/mlops-en-2026/",
+  "segments": [
+    {
+      "source": "Llevar un modelo de inteligencia artificial a producción es solo el principio. MLOps permite gestionar su ciclo de vida, desde los datos y el entrenamiento hasta el despliegue, la monitorización y el mantenimiento. En este artículo repasamos las principales prácticas y herramientas de MLOps en 2026, así como los nuevos desafíos que plantean los modelos de lenguaje y los agentes de IA.",
+      "en": "Taking an AI model to production is just the beginning. MLOps allows you to manage its lifecycle, from data and training to deployment, monitoring and maintenance. In this article we review the main MLOps practices and tools in 2026, as well as the new challenges posed by language models and AI agents.",
+      "es": "Llevar un modelo de inteligencia artificial a producción es solo el principio. MLOps permite gestionar su ciclo de vida, desde los datos y el entrenamiento hasta el despliegue, la monitorización y el mantenimiento. En este artículo repasamos las principales prácticas y herramientas de MLOps en 2026, así como los nuevos desafíos que plantean los modelos de lenguaje y los agentes de IA.",
+      "reviewed": false
+    },
+    {
+      "source": "31 oct 2026",
+      "en": "Oct 31, 2026",
+      "es": "31 oct 2026",
+      "reviewed": false
+    },
+    {
+      "source": "Representación de un sistema de inteligencia artificial aplicado a la predicción de ventas, con gráficos de datos, servidores y un supermercado de fondo.",
+      "en": "Representation of an artificial intelligence system applied to sales prediction, with data graphs, servers and a supermarket in the background.",
+      "es": "Representación de un sistema de inteligencia artificial aplicado a la predicción de ventas, con gráficos de datos, servidores y un supermercado de fondo.",
+      "reviewed": false
+    },
+    {
+      "source": "Qué es MLOps y qué añade a DevOps",
+      "en": "What is MLOps and what does it add to DevOps",
+      "es": "Qué es MLOps y qué añade a DevOps",
+      "reviewed": false
+    },
+    {
+      "source": "El ciclo empieza antes del entrenamiento",
+      "en": "The cycle begins before training",
+      "es": "El ciclo empieza antes del entrenamiento",
+      "reviewed": false
+    },
+    {
+      "source": "Poder reconstruir un resultado",
+      "en": "Being able to reconstruct a result",
+      "es": "Poder reconstruir un resultado",
+      "reviewed": false
+    },
+    {
+      "source": "Validar algo más que una métrica",
+      "en": "Validate more than just a metric",
+      "es": "Validar algo más que una métrica",
+      "reviewed": false
+    },
+    {
+      "source": "Automatizar el proceso con criterios de parada",
+      "en": "Automate the process with stopping criteria",
+      "es": "Automatizar el proceso con criterios de parada",
+      "reviewed": false
+    },
+    {
+      "source": "La infraestructura depende de cómo se utilizará el modelo",
+      "en": "The infrastructure depends on how the model will be used",
+      "es": "La infraestructura depende de cómo se utilizará el modelo",
+      "reviewed": false
+    },
+    {
+      "source": "Monitorizar cuando el servidor dice que todo va bien",
+      "en": "Monitor when the server says everything is fine",
+      "es": "Monitorizar cuando el servidor dice que todo va bien",
+      "reviewed": false
+    },
+    {
+      "source": "Cloud y costes de mantener el sistema",
+      "en": "Cloud and costs of maintaining the system",
+      "es": "Cloud y costes de mantener el sistema",
+      "reviewed": false
+    },
+    {
+      "source": "LLMOps y agentes amplían lo que debemos controlar",
+      "en": "LLMOps and agents expand what we must control",
+      "es": "LLMOps y agentes amplían lo que debemos controlar",
+      "reviewed": false
+    },
+    {
+      "source": "Evaluar respuestas y también acciones",
+      "en": "Evaluate responses and actions",
+      "es": "Evaluar respuestas y también acciones",
+      "reviewed": false
+    },
+    {
+      "source": "Una arquitectura que el equipo pueda mantener",
+      "en": "An architecture that the team can maintain",
+      "es": "Una arquitectura que el equipo pueda mantener",
+      "reviewed": false
+    },
+    {
+      "source": "Conseguir que el modelo siga siendo útil",
+      "en": "Keep the model useful",
+      "es": "Conseguir que el modelo siga siendo útil",
+      "reviewed": false
+    },
+    {
+      "source": "Imagina que entrenas un modelo para anticipar cuántos productos venderá una tienda. En las pruebas, las predicciones son buenas. Lo conectas al sistema de pedidos y, durante unas semanas, ayuda a ajustar las compras. Entonces llega una promoción, cambia el comportamiento de los clientes y las estimaciones empiezan a fallar. La aplicación sigue respondiendo; el servidor no muestra errores. Sin embargo, el almacén empieza a llenarse de productos que nadie compra.",
+      "en": "Imagine you train a model to anticipate how many products a store will sell. In tests, the predictions are good. You connect it to the ordering system and, for a few weeks, it helps adjust purchases. Then a promotion comes along, customer behavior changes, and estimates start to fail. The app is still responsive; The server does not show errors. However, the warehouse begins to fill up with products that no one buys.",
+      "es": "Imagina que entrenas un modelo para anticipar cuántos productos venderá una tienda. En las pruebas, las predicciones son buenas. Lo conectas al sistema de pedidos y, durante unas semanas, ayuda a ajustar las compras. Entonces llega una promoción, cambia el comportamiento de los clientes y las estimaciones empiezan a fallar. La aplicación sigue respondiendo; el servidor no muestra errores. Sin embargo, el almacén empieza a llenarse de productos que nadie compra.",
+      "reviewed": false
+    },
+    {
+      "source": "Ese salto entre un modelo que funciona en pruebas y un sistema que sigue siendo útil en el mundo real es el terreno de MLOps. Para entenderlo hay que mirar más allá del algoritmo: qué datos recibe, cómo se actualiza, quién valida los cambios y qué ocurre cuando sus predicciones dejan de ser fiables.",
+      "en": "That jump between a model that works in tests and a system that is still useful in the real world is the terrain of MLOps. To understand it, you have to look beyond the algorithm: what data it receives, how it is updated, who validates the changes and what happens when its predictions are no longer reliable.",
+      "es": "Ese salto entre un modelo que funciona en pruebas y un sistema que sigue siendo útil en el mundo real es el terreno de MLOps. Para entenderlo hay que mirar más allá del algoritmo: qué datos recibe, cómo se actualiza, quién valida los cambios y qué ocurre cuando sus predicciones dejan de ser fiables.",
+      "reviewed": false
+    },
+    {
+      "source": "El ecosistema actual ofrece herramientas para resolver cada una de esas necesidades. Conocer su función permite elegir una arquitectura razonable, tanto para un primer proyecto como para una plataforma que opera muchos modelos. También ayuda a entender por qué los modelos de lenguaje y los agentes están ampliando este trabajo.",
+      "en": "The current ecosystem offers tools to solve each of these needs. Knowing its function allows you to choose a reasonable architecture, both for a first project and for a platform that operates many models. It also helps understand why language models and agents are extending this work.",
+      "es": "El ecosistema actual ofrece herramientas para resolver cada una de esas necesidades. Conocer su función permite elegir una arquitectura razonable, tanto para un primer proyecto como para una plataforma que opera muchos modelos. También ayuda a entender por qué los modelos de lenguaje y los agentes están ampliando este trabajo.",
+      "reviewed": false
+    },
+    {
+      "source": "MLOps, abreviatura de Machine Learning Operations, reúne prácticas de aprendizaje automático, ingeniería de software y operaciones para desarrollar y mantener sistemas de ML en producción. Su objetivo es poder reconstruir cómo se obtuvo un modelo, introducir mejoras con controles y detectar cuándo hace falta intervenir.",
+      "en": "MLOps, short for Machine Learning Operations, brings together machine learning, software engineering, and operations practices to develop and maintain ML systems in production. Its objective is to be able to reconstruct how a model was obtained, introduce improvements with controls and detect when intervention is necessary.",
+      "es": "MLOps, abreviatura de Machine Learning Operations, reúne prácticas de aprendizaje automático, ingeniería de software y operaciones para desarrollar y mantener sistemas de ML en producción. Su objetivo es poder reconstruir cómo se obtuvo un modelo, introducir mejoras con controles y detectar cuándo hace falta intervenir.",
+      "reviewed": false
+    },
+    {
+      "source": "Esto incluye una forma de trabajar. El equipo que prepara los datos, quien entrena el modelo y quien mantiene el servicio necesitan acordar qué significa que el sistema funcione bien. En nuestra tienda, reducir el error de predicción importa, pero también importa que el pedido llegue a tiempo y que el modelo no provoque compras desproporcionadas. Debe haber una persona o equipo responsable de actuar ante una incidencia.",
+      "en": "This includes a way of working. The team preparing the data, training the model, and maintaining the service need to agree on what it means for the system to work well. In our store, reducing prediction error matters, but it also matters that the order arrives on time and that the model does not cause disproportionate purchases. There must be a person or team responsible for acting on an incident.",
+      "es": "Esto incluye una forma de trabajar. El equipo que prepara los datos, quien entrena el modelo y quien mantiene el servicio necesitan acordar qué significa que el sistema funcione bien. En nuestra tienda, reducir el error de predicción importa, pero también importa que el pedido llegue a tiempo y que el modelo no provoque compras desproporcionadas. Debe haber una persona o equipo responsable de actuar ante una incidencia.",
+      "reviewed": false
+    },
+    {
+      "source": "MLOps toma de DevOps el control de versiones, las pruebas automatizadas y la colaboración entre desarrollo y operaciones. Añade una dificultad: parte del comportamiento del software se aprende de los datos. El mismo código, entrenado con otra información, puede generar un modelo distinto. Además, el entorno puede cambiar sin que nadie haya modificado la aplicación.",
+      "en": "MLOps takes version control, automated testing, and collaboration between development and operations from DevOps. It adds a difficulty: some of the software's behavior is learned from the data. The same code, trained with other information, can generate a different model. Additionally, the environment can change without anyone modifying the application.",
+      "es": "MLOps toma de DevOps el control de versiones, las pruebas automatizadas y la colaboración entre desarrollo y operaciones. Añade una dificultad: parte del comportamiento del software se aprende de los datos. El mismo código, entrenado con otra información, puede generar un modelo distinto. Además, el entorno puede cambiar sin que nadie haya modificado la aplicación.",
+      "reviewed": false
+    },
+    {
+      "source": "Por eso, las pruebas de software siguen siendo necesarias, pero deben acompañarse de controles sobre datos y calidad predictiva. Un servicio puede responder rápido y devolver resultados equivocados. La",
+      "en": "Therefore, software testing is still necessary, but it must be accompanied by controls on data and predictive quality. A service may respond quickly and return wrong results. The",
+      "es": "Por eso, las pruebas de software siguen siendo necesarias, pero deben acompañarse de controles sobre datos y calidad predictiva. Un servicio puede responder rápido y devolver resultados equivocados. La",
+      "reviewed": false
+    },
+    {
+      "source": "guía de arquitectura MLOps de Google Cloud",
+      "en": "Google Cloud MLOps architecture guide",
+      "es": "guía de arquitectura MLOps de Google Cloud",
+      "reviewed": false
+    },
+    {
+      "source": "sitúa precisamente esas validaciones y la monitorización dentro del proceso de desarrollo y operación.",
+      "en": "precisely places these validations and monitoring within the development and operation process.",
+      "es": "sitúa precisamente esas validaciones y la monitorización dentro del proceso de desarrollo y operación.",
+      "reviewed": false
+    },
+    {
+      "source": "Volvamos a la tienda. Antes de elegir un algoritmo hay que decidir qué se quiere predecir, con cuánto tiempo de antelación y qué información estará disponible al hacer el pedido. Si entrenamos usando datos que solo conoceremos después de la venta, las pruebas ofrecerán una impresión engañosa del rendimiento. Es la llamada fuga de información o data leakage.",
+      "en": "Let's go back to the store. Before choosing an algorithm, you must decide what you want to predict, how far in advance and what information will be available when placing the order. If we train using data that we will only know after the sale, testing will give a misleading impression of performance. It is the so-called information leak or data leakage.",
+      "es": "Volvamos a la tienda. Antes de elegir un algoritmo hay que decidir qué se quiere predecir, con cuánto tiempo de antelación y qué información estará disponible al hacer el pedido. Si entrenamos usando datos que solo conoceremos después de la venta, las pruebas ofrecerán una impresión engañosa del rendimiento. Es la llamada fuga de información o data leakage.",
+      "reviewed": false
+    },
+    {
+      "source": "Con el problema definido, el trabajo conecta la preparación de datos con la experimentación, el entrenamiento y la evaluación. El modelo candidato se compara con una referencia sencilla o con la versión que ya está en uso. Si cumple los requisitos, se registra y se despliega. Las predicciones y los resultados reales permiten después revisar su comportamiento y decidir si conviene corregir los datos, cambiar el modelo o reentrenarlo.",
+      "en": "With the problem defined, the work connects data preparation with experimentation, training and evaluation. The candidate model is compared to a simple reference or to the version already in use. If it meets the requirements, it is registered and deployed. The predictions and actual results allow you to then review its behavior and decide whether to correct the data, change the model or retrain it.",
+      "es": "Con el problema definido, el trabajo conecta la preparación de datos con la experimentación, el entrenamiento y la evaluación. El modelo candidato se compara con una referencia sencilla o con la versión que ya está en uso. Si cumple los requisitos, se registra y se despliega. Las predicciones y los resultados reales permiten después revisar su comportamiento y decidir si conviene corregir los datos, cambiar el modelo o reentrenarlo.",
+      "reviewed": false
+    },
+    {
+      "source": "No todas las vueltas de ese ciclo terminan en un nuevo despliegue. Un entrenamiento puede fallar las pruebas, y una alerta puede descubrir un problema en el origen de los datos. Esa posibilidad de detenerse es parte del diseño.",
+      "en": "Not all turns of that cycle end in a new deployment. A workout can fail tests, and an alert can uncover a problem in the data source. That ability to stop is part of the design.",
+      "es": "No todas las vueltas de ese ciclo terminan en un nuevo despliegue. Un entrenamiento puede fallar las pruebas, y una alerta puede descubrir un problema en el origen de los datos. Esa posibilidad de detenerse es parte del diseño.",
+      "reviewed": false
+    },
+    {
+      "source": "Git guarda el historial del código y la configuración. Para relacionarlo con archivos grandes de datos o modelos,",
+      "en": "Git saves the history of code and configuration. To relate to large data or model files,",
+      "es": "Git guarda el historial del código y la configuración. Para relacionarlo con archivos grandes de datos o modelos,",
+      "reviewed": false
+    },
+    {
+      "source": "DVC",
+      "en": "DVC",
+      "es": "DVC",
+      "reviewed": false
+    },
+    {
+      "source": "mantiene referencias versionadas mientras los archivos se conservan en un almacenamiento separado. Así podemos identificar qué conjunto de datos corresponde a una revisión del proyecto sin introducirlo entero en el repositorio de Git.",
+      "en": "maintains versioned references while files are kept in separate storage. This way we can identify which data set corresponds to a revision of the project without entering the entire data set into the Git repository.",
+      "es": "mantiene referencias versionadas mientras los archivos se conservan en un almacenamiento separado. Así podemos identificar qué conjunto de datos corresponde a una revisión del proyecto sin introducirlo entero en el repositorio de Git.",
+      "reviewed": false
+    },
+    {
+      "source": "La necesidad de identificar los datos existe desde el primer modelo. DVC es una opción; también pueden servir instantáneas inmutables o versiones de tablas, según la plataforma utilizada. Guardar únicamente una consulta a una base de datos que cambia no permite reconstruir necesariamente el conjunto original.",
+      "en": "The need to identify data exists from the first model. DVC is an option; They can also serve immutable snapshots or versions of tables, depending on the platform used. Saving only a query to a changing database does not necessarily allow you to reconstruct the original set.",
+      "es": "La necesidad de identificar los datos existe desde el primer modelo. DVC es una opción; también pueden servir instantáneas inmutables o versiones de tablas, según la plataforma utilizada. Guardar únicamente una consulta a una base de datos que cambia no permite reconstruir necesariamente el conjunto original.",
+      "reviewed": false
+    },
+    {
+      "source": "Durante la experimentación,",
+      "en": "During the experiment,",
+      "es": "Durante la experimentación,",
+      "reviewed": false
+    },
+    {
+      "source": "MLflow Tracking",
+      "en": "MLflow Tracking",
+      "es": "MLflow Tracking",
+      "reviewed": false
+    },
+    {
+      "source": "registra parámetros, métricas y artefactos, como modelos o gráficos.",
+      "en": "records parameters, metrics, and artifacts, such as models or graphs.",
+      "es": "registra parámetros, métricas y artefactos, como modelos o gráficos.",
+      "reviewed": false
+    },
+    {
+      "source": "permite seguir y comparar ejecuciones con visualizaciones compartidas. Ambas herramientas ayudan a responder una pregunta cotidiana: qué configuración produjo aquel resultado que parecía tan bueno.",
+      "en": "allows you to track and compare runs with shared visualizations. Both tools help answer an everyday question: what configuration produced that result that looked so good.",
+      "es": "permite seguir y comparar ejecuciones con visualizaciones compartidas. Ambas herramientas ayudan a responder una pregunta cotidiana: qué configuración produjo aquel resultado que parecía tan bueno.",
+      "reviewed": false
+    },
+    {
+      "source": "Para reproducir el entrenamiento también hay que conservar las dependencias, las transformaciones y las condiciones relevantes de ejecución. Fijar una semilla aleatoria ayuda, aunque no garantiza resultados idénticos con cualquier hardware o biblioteca.",
+      "en": "Reproducing the training also requires preserving the relevant dependencies, transformations, and execution conditions. Setting a random seed helps, although it does not guarantee identical results with any hardware or library.",
+      "es": "Para reproducir el entrenamiento también hay que conservar las dependencias, las transformaciones y las condiciones relevantes de ejecución. Fijar una semilla aleatoria ayuda, aunque no garantiza resultados idénticos con cualquier hardware o biblioteca.",
+      "reviewed": false
+    },
+    {
+      "source": "Cuando elegimos un candidato, un registro de modelos organiza sus versiones y las vincula con su procedencia. El",
+      "en": "When we choose a candidate, a model registry organizes its versions and links them to their provenance. The",
+      "es": "Cuando elegimos un candidato, un registro de modelos organiza sus versiones y las vincula con su procedencia. El",
+      "reviewed": false
+    },
+    {
+      "source": "Model Registry de MLflow",
+      "en": "MLflow Model Registry",
+      "es": "Model Registry de MLflow",
+      "reviewed": false
+    },
+    {
+      "source": ", por ejemplo, ofrece versiones, etiquetas y alias. Ese registro debe conectarse con el historial de despliegues: marcar una versión como aprobada no demuestra por sí solo que sea la que está atendiendo peticiones.",
+      "en": ", for example, offers versions, tags, and aliases. This record must be connected to the deployment history: marking a version as approved does not in itself prove that it is the one that is serving requests.",
+      "es": ", por ejemplo, ofrece versiones, etiquetas y alias. Ese registro debe conectarse con el historial de despliegues: marcar una versión como aprobada no demuestra por sí solo que sea la que está atendiendo peticiones.",
+      "reviewed": false
+    },
+    {
+      "source": "En una predicción de demanda, conviene evaluar con una separación temporal que respete el orden de los acontecimientos. El modelo debe enfrentarse a periodos posteriores a aquellos de los que aprendió. También interesa revisar resultados por tienda o categoría: una mejora media puede esconder errores graves en los productos menos vendidos.",
+      "en": "In a demand prediction, it is advisable to evaluate with a temporal separation that respects the order of events. The model must face periods subsequent to those from which it learned. It is also interesting to review results by store or category: an average improvement can hide serious errors in the least sold products.",
+      "es": "En una predicción de demanda, conviene evaluar con una separación temporal que respete el orden de los acontecimientos. El modelo debe enfrentarse a periodos posteriores a aquellos de los que aprendió. También interesa revisar resultados por tienda o categoría: una mejora media puede esconder errores graves en los productos menos vendidos.",
+      "reviewed": false
+    },
+    {
+      "source": "La validación incluye las entradas esperadas, los valores ausentes y la coherencia de las transformaciones entre entrenamiento e inferencia, es decir, el momento de producir predicciones. Si durante las pruebas calculamos las ventas de los últimos siete días de una forma y en producción lo hacemos de otra, el modelo recibirá información diferente de la que aprendió a interpretar.",
+      "en": "Validation includes expected inputs, missing values, and consistency of transformations between training and inference, that is, the timing of producing predictions. If during testing we calculate sales for the last seven days in one way and in production we do it another way, the model will receive different information than what it learned to interpret.",
+      "es": "La validación incluye las entradas esperadas, los valores ausentes y la coherencia de las transformaciones entre entrenamiento e inferencia, es decir, el momento de producir predicciones. Si durante las pruebas calculamos las ventas de los últimos siete días de una forma y en producción lo hacemos de otra, el modelo recibirá información diferente de la que aprendió a interpretar.",
+      "reviewed": false
+    },
+    {
+      "source": "Cuando muchas aplicaciones comparten variables, un feature store puede ayudar a gestionarlas.",
+      "en": "When many applications share variables, a feature store can help manage them.",
+      "es": "Cuando muchas aplicaciones comparten variables, un feature store puede ayudar a gestionarlas.",
+      "reviewed": false
+    },
+    {
+      "source": "Feast",
+      "en": "Feast",
+      "es": "Feast",
+      "reviewed": false
+    },
+    {
+      "source": ", por ejemplo, facilita el acceso a características históricas para entrenamiento y a valores recientes para inferencia. Su utilidad crece cuando hay que reutilizar esas variables y controlar su coherencia; para un único modelo, un proceso de transformación compartido y bien probado puede ser suficiente.",
+      "en": ", for example, makes it easy to access historical features for training and recent values for inference. Its usefulness increases when these variables have to be reused and their consistency controlled; For a single model, a shared and well-tested transformation process may be sufficient.",
+      "es": ", por ejemplo, facilita el acceso a características históricas para entrenamiento y a valores recientes para inferencia. Su utilidad crece cuando hay que reutilizar esas variables y controlar su coherencia; para un único modelo, un proceso de transformación compartido y bien probado puede ser suficiente.",
+      "reviewed": false
+    },
+    {
+      "source": "Un pipeline es un flujo de tareas con dependencias: no tiene sentido evaluar un modelo antes de entrenarlo ni entrenar con datos que no han superado los controles de calidad. La orquestación añade programación, seguimiento de ejecuciones y gestión de fallos.",
+      "en": "A pipeline is a flow of tasks with dependencies: there is no point in evaluating a model before training it or training with data that has not passed quality checks. Orchestration adds scheduling, execution tracking, and failure management.",
+      "es": "Un pipeline es un flujo de tareas con dependencias: no tiene sentido evaluar un modelo antes de entrenarlo ni entrenar con datos que no han superado los controles de calidad. La orquestación añade programación, seguimiento de ejecuciones y gestión de fallos.",
+      "reviewed": false
+    },
+    {
+      "source": "Apache Airflow",
+      "en": "Apache Airflow",
+      "es": "Apache Airflow",
+      "reviewed": false
+    },
+    {
+      "source": "encaja en flujos por lotes con tareas y dependencias definidas.",
+      "en": "fits into batch flows with defined tasks and dependencies.",
+      "es": "encaja en flujos por lotes con tareas y dependencias definidas.",
+      "reviewed": false
+    },
+    {
+      "source": "Prefect",
+      "en": "Prefect",
+      "es": "Prefect",
+      "reviewed": false
+    },
+    {
+      "source": "permite organizar flujos en Python con seguimiento y reintentos.",
+      "en": "allows you to organize flows in Python with tracking and retries.",
+      "es": "permite organizar flujos en Python con seguimiento y reintentos.",
+      "reviewed": false
+    },
+    {
+      "source": "Kubeflow Pipelines",
+      "en": "Kubeflow Pipelines",
+      "es": "Kubeflow Pipelines",
+      "reviewed": false
+    },
+    {
+      "source": "está orientado a flujos de ML compuestos por pasos contenerizados, especialmente en entornos Kubernetes. Son alternativas con distintos encajes; no hace falta instalar las tres.",
+      "en": "is aimed at ML flows composed of containerized steps, especially in Kubernetes environments. They are alternatives with different fits; It is not necessary to install all three.",
+      "es": "está orientado a flujos de ML compuestos por pasos contenerizados, especialmente en entornos Kubernetes. Son alternativas con distintos encajes; no hace falta instalar las tres.",
+      "reviewed": false
+    },
+    {
+      "source": "La integración continua, o CI, comprueba los cambios del proyecto mediante pruebas. Con una herramienta como",
+      "en": "Continuous integration, or CI, verifies project changes through testing. With a tool like",
+      "es": "La integración continua, o CI, comprueba los cambios del proyecto mediante pruebas. Con una herramienta como",
+      "reviewed": false
+    },
+    {
+      "source": "GitHub Actions",
+      "en": "GitHub Actions",
+      "es": "GitHub Actions",
+      "reviewed": false
+    },
+    {
+      "source": ", una modificación puede activar pruebas del código, verificar transformaciones y construir el paquete que se desplegará. La entrega continua prepara versiones que pueden publicarse tras una aprobación; el despliegue continuo automatiza también ese último paso. Ambas prácticas suelen agruparse bajo las siglas CD.",
+      "en": ", a modification can trigger code testing, verify transformations, and build the package to be deployed. Continuous delivery prepares versions that can be published after approval; continuous deployment automates that last step as well. Both practices are usually grouped under the acronym CD.",
+      "es": ", una modificación puede activar pruebas del código, verificar transformaciones y construir el paquete que se desplegará. La entrega continua prepara versiones que pueden publicarse tras una aprobación; el despliegue continuo automatiza también ese último paso. Ambas prácticas suelen agruparse bajo las siglas CD.",
+      "reviewed": false
+    },
+    {
+      "source": "En ML aparece además el entrenamiento continuo, o CT: ejecutar de forma repetible el entrenamiento cuando se cumple una condición, como disponer de nuevos datos validados. «Continuo» no significa entrenar sin descanso ni sustituir automáticamente el modelo que está en uso.",
+      "en": "Continuous training, or CT, also appears in ML: repeatably executing training when a condition is met, such as having new validated data. “Continuous” does not mean training without rest or automatically replacing the model that is in use.",
+      "es": "En ML aparece además el entrenamiento continuo, o CT: ejecutar de forma repetible el entrenamiento cuando se cumple una condición, como disponer de nuevos datos validados. «Continuo» no significa entrenar sin descanso ni sustituir automáticamente el modelo que está en uso.",
+      "reviewed": false
+    },
+    {
+      "source": "Para nuestra tienda, el flujo podría ejecutarse cada semana, comprobar la calidad de los datos y comparar un candidato con la versión actual. Si empeora demasiado en una categoría importante, se detiene. Si supera las pruebas, queda disponible para aprobación. Los umbrales y la intervención humana dependen del impacto de un error y deben definirse antes de automatizar la decisión.",
+      "en": "For our store, the flow could run every week, checking data quality and comparing a candidate to the current version. If it gets too bad in an important category, it stops. If it passes the tests, it is available for approval. Thresholds and human intervention depend on the impact of an error and must be defined before automating the decision.",
+      "es": "Para nuestra tienda, el flujo podría ejecutarse cada semana, comprobar la calidad de los datos y comparar un candidato con la versión actual. Si empeora demasiado en una categoría importante, se detiene. Si supera las pruebas, queda disponible para aprobación. Los umbrales y la intervención humana dependen del impacto de un error y deben definirse antes de automatizar la decisión.",
+      "reviewed": false
+    },
+    {
+      "source": "Una predicción diaria para preparar pedidos puede ejecutarse por lotes: el proceso calcula los resultados, los guarda y termina. Un sistema que recomienda productos mientras alguien navega necesita responder a cada petición con poca latencia. Otros modelos se ejecutan dentro de un dispositivo, cerca del lugar donde se capturan los datos.",
+      "en": "A daily forecast for picking orders can be run in batches: the process calculates the results, saves them, and terminates. A system that recommends products while someone browses needs to respond to each request with low latency. Other models run inside a device, close to where the data is captured.",
+      "es": "Una predicción diaria para preparar pedidos puede ejecutarse por lotes: el proceso calcula los resultados, los guarda y termina. Un sistema que recomienda productos mientras alguien navega necesita responder a cada petición con poca latencia. Otros modelos se ejecutan dentro de un dispositivo, cerca del lugar donde se capturan los datos.",
+      "reviewed": false
+    },
+    {
+      "source": "Esta diferencia determina buena parte de la infraestructura. Mantener una API encendida permanentemente no aporta demasiado si solo necesitamos un archivo de predicciones cada madrugada.",
+      "en": "This difference determines a good part of the infrastructure. Keeping an API on permanently doesn't do much if we only need a prediction file every morning.",
+      "es": "Esta diferencia determina buena parte de la infraestructura. Mantener una API encendida permanentemente no aporta demasiado si solo necesitamos un archivo de predicciones cada madrugada.",
+      "reviewed": false
+    },
+    {
+      "source": "Para un servicio sencillo, FastAPI puede exponer una interfaz que reciba entradas y devuelva predicciones.",
+      "en": "For a simple service, FastAPI can expose an interface that receives input and returns predictions.",
+      "es": "Para un servicio sencillo, FastAPI puede exponer una interfaz que reciba entradas y devuelva predicciones.",
+      "reviewed": false
+    },
+    {
+      "source": "Docker",
+      "en": "Docker",
+      "es": "Docker",
+      "reviewed": false
+    },
+    {
+      "source": "empaqueta la aplicación y sus dependencias en un contenedor, reduciendo diferencias entre entornos. El modelo puede incluirse en la imagen o recuperarse de un almacenamiento versionado. En ambos casos hay que identificar exactamente qué versión se carga; las dependencias del sistema y los controladores de GPU siguen requiriendo atención.",
+      "en": "packages the application and its dependencies in a container, reducing differences between environments. The model can be included in the image or retrieved from versioned storage. In both cases you must identify exactly which version is loaded; system dependencies and GPU drivers still require attention.",
+      "es": "empaqueta la aplicación y sus dependencias en un contenedor, reduciendo diferencias entre entornos. El modelo puede incluirse en la imagen o recuperarse de un almacenamiento versionado. En ambos casos hay que identificar exactamente qué versión se carga; las dependencias del sistema y los controladores de GPU siguen requiriendo atención.",
+      "reviewed": false
+    },
+    {
+      "source": "Kubernetes",
+      "en": "Kubernetes",
+      "es": "Kubernetes",
+      "reviewed": false
+    },
+    {
+      "source": "administra aplicaciones contenerizadas distribuidas: mantiene réplicas, reemplaza contenedores que fallan y permite configurar el escalado. Sobre esa base,",
+      "en": "manages distributed containerized applications: maintains replicas, replaces failing containers, and allows you to configure scaling. On that basis,",
+      "es": "administra aplicaciones contenerizadas distribuidas: mantiene réplicas, reemplaza contenedores que fallan y permite configurar el escalado. Sobre esa base,",
+      "reviewed": false
+    },
+    {
+      "source": "KServe",
+      "en": "KServe",
+      "es": "KServe",
+      "reviewed": false
+    },
+    {
+      "source": "añade capacidades especializadas para servir modelos. Esa infraestructura resulta útil cuando hay necesidades de escala y un equipo capaz de operarla. Un servicio gestionado o una máquina virtual pueden cubrir un proyecto más pequeño.",
+      "en": "adds specialized capabilities to serve models. This infrastructure is useful when there are needs for scale and a team capable of operating it. A managed service or virtual machine can cover a smaller project.",
+      "es": "añade capacidades especializadas para servir modelos. Esa infraestructura resulta útil cuando hay necesidades de escala y un equipo capaz de operarla. Un servicio gestionado o una máquina virtual pueden cubrir un proyecto más pequeño.",
+      "reviewed": false
+    },
+    {
+      "source": "Por debajo están las redes, el almacenamiento, los permisos y los recursos de cómputo.",
+      "en": "Below that are networking, storage, permissions, and compute resources.",
+      "es": "Por debajo están las redes, el almacenamiento, los permisos y los recursos de cómputo.",
+      "reviewed": false
+    },
+    {
+      "source": "Terraform",
+      "en": "Terraform",
+      "es": "Terraform",
+      "reviewed": false
+    },
+    {
+      "source": "permite describir infraestructura mediante archivos versionados, revisar cambios y crear entornos de forma consistente. Las credenciales requieren un sistema de gestión de secretos; no deben quedar dentro del repositorio ni de las imágenes.",
+      "en": "It allows you to describe infrastructure using versioned files, review changes, and create environments consistently. Credentials require a secrets management system; They should not remain within the repository or the images.",
+      "es": "permite describir infraestructura mediante archivos versionados, revisar cambios y crear entornos de forma consistente. Las credenciales requieren un sistema de gestión de secretos; no deben quedar dentro del repositorio ni de las imágenes.",
+      "reviewed": false
+    },
+    {
+      "source": "También hay que diseñar cómo cambiar de versión. Un despliegue canary envía una parte del tráfico al candidato antes de ampliarlo. En modo shadow, el candidato recibe una copia de las peticiones y sus resultados se observan sin usarlos para decidir. Ambas estrategias ayudan a comprobar el comportamiento real. La vuelta atrás, o rollback, debe recuperar una combinación compatible de modelo, código y transformaciones, no únicamente un archivo de pesos.",
+      "en": "You also have to design how to change versions. A canary deployment sends a portion of the traffic to the candidate before scaling it up. In shadow mode, the candidate receives a copy of the requests and their results are observed without using them to decide. Both strategies help verify real behavior. The rollback must recover a compatible combination of model, code and transformations, not just a weight file.",
+      "es": "También hay que diseñar cómo cambiar de versión. Un despliegue canary envía una parte del tráfico al candidato antes de ampliarlo. En modo shadow, el candidato recibe una copia de las peticiones y sus resultados se observan sin usarlos para decidir. Ambas estrategias ayudan a comprobar el comportamiento real. La vuelta atrás, o rollback, debe recuperar una combinación compatible de modelo, código y transformaciones, no únicamente un archivo de pesos.",
+      "reviewed": false
+    },
+    {
+      "source": "La monitorización de infraestructura observa disponibilidad, errores, tiempos de respuesta y consumo de recursos.",
+      "en": "Infrastructure monitoring observes availability, errors, response times and resource consumption.",
+      "es": "La monitorización de infraestructura observa disponibilidad, errores, tiempos de respuesta y consumo de recursos.",
+      "reviewed": false
+    },
+    {
+      "source": "Prometheus",
+      "en": "Prometheus",
+      "es": "Prometheus",
+      "reviewed": false
+    },
+    {
+      "source": "recoge métricas y permite definir alertas; herramientas de visualización como Grafana ayudan a explorarlas. En un sistema de ML hace falta mirar además la calidad de las entradas y de las predicciones.",
+      "en": "collects metrics and allows defining alerts; Visualization tools like Grafana help explore them. In an ML system it is also necessary to look at the quality of the inputs and predictions.",
+      "es": "recoge métricas y permite definir alertas; herramientas de visualización como Grafana ayudan a explorarlas. En un sistema de ML hace falta mirar además la calidad de las entradas y de las predicciones.",
+      "reviewed": false
+    },
+    {
+      "source": "Un cambio en la distribución de los datos de entrada se conoce como data drift. Por ejemplo, una promoción puede aumentar la proporción de compras de cierto producto. El concept drift describe un cambio en la relación entre las entradas y aquello que intentamos predecir: unas señales que antes anticipaban bien la demanda pueden dejar de hacerlo. Son fenómenos relacionados, pero no equivalentes.",
+      "en": "A change in the distribution of input data is known as data drift. For example, a promotion can increase the purchase rate of a certain product. Concept drift describes a change in the relationship between inputs and what we are trying to predict: signals that previously anticipated demand well may no longer do so. They are related phenomena, but not equivalent.",
+      "es": "Un cambio en la distribución de los datos de entrada se conoce como data drift. Por ejemplo, una promoción puede aumentar la proporción de compras de cierto producto. El concept drift describe un cambio en la relación entre las entradas y aquello que intentamos predecir: unas señales que antes anticipaban bien la demanda pueden dejar de hacerlo. Son fenómenos relacionados, pero no equivalentes.",
+      "reviewed": false
+    },
+    {
+      "source": "Evidently explica esta distinción y sus implicaciones para la detección",
+      "en": "Evidently explains this distinction and its implications for detection",
+      "es": "Evidently explica esta distinción y sus implicaciones para la detección",
+      "reviewed": false
+    },
+    {
+      "source": "Evidently",
+      "en": "Evidently",
+      "es": "Evidently",
+      "reviewed": false
+    },
+    {
+      "source": "permite comparar datos actuales con una referencia para detectar cambios de distribución. Una alerta de drift es una señal que investigar: no demuestra por sí sola que el modelo haya empeorado. Tampoco la ausencia de drift garantiza predicciones correctas.",
+      "en": "allows you to compare current data with a reference to detect distribution changes. A drift alert is a signal to investigate: it does not in itself prove that the model has worsened. Nor does the absence of drift guarantee correct predictions.",
+      "es": "permite comparar datos actuales con una referencia para detectar cambios de distribución. Una alerta de drift es una señal que investigar: no demuestra por sí sola que el modelo haya empeorado. Tampoco la ausencia de drift garantiza predicciones correctas.",
+      "reviewed": false
+    },
+    {
+      "source": "Para medir el error necesitamos conocer el resultado real. En nuestro ejemplo habrá que esperar a las ventas y considerar que quedarse sin existencias puede ocultar demanda. Esa demora obliga a combinar señales tempranas, como datos ausentes o valores extraños, con evaluaciones posteriores de calidad.",
+      "en": "To measure the error we need to know the real result. In our example we will have to wait for sales and consider that running out of stock can hide demand. This delay forces us to combine early signals, such as missing data or strange values, with later quality evaluations.",
+      "es": "Para medir el error necesitamos conocer el resultado real. En nuestro ejemplo habrá que esperar a las ventas y considerar que quedarse sin existencias puede ocultar demanda. Esa demora obliga a combinar señales tempranas, como datos ausentes o valores extraños, con evaluaciones posteriores de calidad.",
+      "reviewed": false
+    },
+    {
+      "source": "La observabilidad conecta estas señales con registros de ejecución y versiones para poder explicar un incidente. Una alerta útil debería indicar qué ha cambiado, a qué parte del sistema afecta y quién debe revisarlo. Si el problema es un sensor averiado o una columna mal calculada, reentrenar automáticamente puede consolidar el error. Primero se diagnostica; después se decide la respuesta.",
+      "en": "Observability connects these signals with execution logs and versions in order to explain an incident. A useful alert should indicate what has changed, what part of the system it affects, and who should review it. If the problem is a broken sensor or a miscalculated column, automatically retraining can consolidate the error. First it is diagnosed; Then the answer is decided.",
+      "es": "La observabilidad conecta estas señales con registros de ejecución y versiones para poder explicar un incidente. Una alerta útil debería indicar qué ha cambiado, a qué parte del sistema afecta y quién debe revisarlo. Si el problema es un sensor averiado o una columna mal calculada, reentrenar automáticamente puede consolidar el error. Primero se diagnostica; después se decide la respuesta.",
+      "reviewed": false
+    },
+    {
+      "source": "Las plataformas cloud reúnen muchas de estas piezas.",
+      "en": "Cloud platforms bring together many of these pieces.",
+      "es": "Las plataformas cloud reúnen muchas de estas piezas.",
+      "reviewed": false
+    },
+    {
+      "source": "Amazon SageMaker AI",
+      "en": "Amazon SageMaker AI",
+      "es": "Amazon SageMaker AI",
+      "reviewed": false
+    },
+    {
+      "source": "ofrece servicios gestionados para construir, entrenar y desplegar modelos; es el nombre actual del servicio antes denominado Amazon SageMaker, hoy integrado en una plataforma más amplia.",
+      "en": "offers managed services to build, train and deploy models; is the current name of the service formerly called Amazon SageMaker, today integrated into a broader platform.",
+      "es": "ofrece servicios gestionados para construir, entrenar y desplegar modelos; es el nombre actual del servicio antes denominado Amazon SageMaker, hoy integrado en una plataforma más amplia.",
+      "reviewed": false
+    },
+    {
+      "source": "Azure Machine Learning",
+      "en": "Azure Machine Learning",
+      "es": "Azure Machine Learning",
+      "reviewed": false
+    },
+    {
+      "source": "cubre el ciclo de trabajo con recursos de entrenamiento, pipelines y despliegue.",
+      "en": "covers the work cycle with training resources, pipelines and deployment.",
+      "es": "cubre el ciclo de trabajo con recursos de entrenamiento, pipelines y despliegue.",
+      "reviewed": false
+    },
+    {
+      "source": "En Google Cloud, el ecosistema conocido como Vertex AI ha evolucionado hacia Gemini Enterprise Agent Platform. La",
+      "en": "At Google Cloud, the ecosystem known as Vertex AI has evolved into the Gemini Enterprise Agent Platform. The",
+      "es": "En Google Cloud, el ecosistema conocido como Vertex AI ha evolucionado hacia Gemini Enterprise Agent Platform. La",
+      "reviewed": false
+    },
+    {
+      "source": "documentación oficial de cambios de nombre",
+      "en": "official documentation of name changes",
+      "es": "documentación oficial de cambios de nombre",
+      "reviewed": false
+    },
+    {
+      "source": "recoge esa transición, que abarca servicios de entrenamiento, pipelines, registro e inferencia. Conviene reconocer ambas denominaciones al consultar tutoriales y proyectos existentes.",
+      "en": "It includes this transition, which covers training services, pipelines, registration and inference. It is advisable to recognize both names when consulting tutorials and existing projects.",
+      "es": "recoge esa transición, que abarca servicios de entrenamiento, pipelines, registro e inferencia. Conviene reconocer ambas denominaciones al consultar tutoriales y proyectos existentes.",
+      "reviewed": false
+    },
+    {
+      "source": "Estas plataformas reducen el trabajo de integrar y mantener componentes, pero el equipo sigue siendo responsable de los datos, las evaluaciones y las decisiones de publicación. La elección depende también de la infraestructura ya disponible, los requisitos de acceso y la facilidad para trasladar modelos y procesos a otro entorno.",
+      "en": "These platforms reduce the work of integrating and maintaining components, but the team is still responsible for data, evaluations, and publishing decisions. The choice also depends on the infrastructure already available, access requirements, and the ease of moving models and processes to another environment.",
+      "es": "Estas plataformas reducen el trabajo de integrar y mantener componentes, pero el equipo sigue siendo responsable de los datos, las evaluaciones y las decisiones de publicación. La elección depende también de la infraestructura ya disponible, los requisitos de acceso y la facilidad para trasladar modelos y procesos a otro entorno.",
+      "reviewed": false
+    },
+    {
+      "source": "Comparar costes exige mirar más allá del precio de una máquina. Importan las horas de cómputo, los servicios que permanecen activos sin recibir peticiones, el almacenamiento, las transferencias y la observabilidad. Operar herramientas propias también consume tiempo de ingeniería. Un servicio gestionado puede resultar más económico en conjunto aunque alguna de sus tarifas sea mayor.",
+      "en": "Comparing costs requires looking beyond the price of a machine. Computing hours, services that remain active without receiving requests, storage, transfers and observability matter. Operating proprietary tools also consumes engineering time. A managed service can be cheaper overall even if some of its rates are higher.",
+      "es": "Comparar costes exige mirar más allá del precio de una máquina. Importan las horas de cómputo, los servicios que permanecen activos sin recibir peticiones, el almacenamiento, las transferencias y la observabilidad. Operar herramientas propias también consume tiempo de ingeniería. Un servicio gestionado puede resultar más económico en conjunto aunque alguna de sus tarifas sea mayor.",
+      "reviewed": false
+    },
+    {
+      "source": "En la tienda, ejecutar las predicciones por lotes y apagar los recursos al terminar puede ser una decisión más valiosa que optimizar unos milisegundos de inferencia. Para otros sistemas será imprescindible mantener capacidad disponible. Conviene medir el coste por unidad útil, como mil predicciones o una tarea completada, junto con la calidad y la latencia.",
+      "en": "In the store, running predictions in batches and shutting down resources when finished can be a more valuable decision than optimizing a few milliseconds of inference. For other systems it will be essential to maintain available capacity. It is a good idea to measure the cost per useful unit, such as a thousand predictions or a completed task, along with quality and latency.",
+      "es": "En la tienda, ejecutar las predicciones por lotes y apagar los recursos al terminar puede ser una decisión más valiosa que optimizar unos milisegundos de inferencia. Para otros sistemas será imprescindible mantener capacidad disponible. Conviene medir el coste por unidad útil, como mil predicciones o una tarea completada, junto con la calidad y la latencia.",
+      "reviewed": false
+    },
+    {
+      "source": "Las aplicaciones generativas introducen otra situación: el equipo puede usar un modelo externo mediante una API sin entrenarlo. Aun así, debe evaluar cambios y controlar su funcionamiento. LLMOps aplica estos principios a sistemas basados en grandes modelos de lenguaje.",
+      "en": "Generative applications introduce another situation: the team can use an external model through an API without training it. Even so, you must evaluate changes and monitor their operation. LLMOps applies these principles to systems based on large language models.",
+      "es": "Las aplicaciones generativas introducen otra situación: el equipo puede usar un modelo externo mediante una API sin entrenarlo. Aun así, debe evaluar cambios y controlar su funcionamiento. LLMOps aplica estos principios a sistemas basados en grandes modelos de lenguaje.",
+      "reviewed": false
+    },
+    {
+      "source": "Pensemos ahora en un asistente que explica las previsiones de ventas consultando documentación de la empresa. Si usa RAG, o generación aumentada por recuperación, primero busca información relevante y después la aporta al modelo como contexto. El resultado dependerá del modelo, pero también de las instrucciones, los documentos recuperados y la configuración de búsqueda.",
+      "en": "Let's now think of an assistant who explains sales forecasts by consulting company documentation. If you use RAG, or retrieval augmented generation, you first find relevant information and then feed it into the model as context. The result will depend on the model, but also on the instructions, the documents recovered and the search settings.",
+      "es": "Pensemos ahora en un asistente que explica las previsiones de ventas consultando documentación de la empresa. Si usa RAG, o generación aumentada por recuperación, primero busca información relevante y después la aporta al modelo como contexto. El resultado dependerá del modelo, pero también de las instrucciones, los documentos recuperados y la configuración de búsqueda.",
+      "reviewed": false
+    },
+    {
+      "source": "Por eso hay que versionar esos componentes, incluidos el conjunto de evaluación y, cuando corresponda, el índice y el modelo de embeddings que transforma documentos en representaciones numéricas para buscarlos. Si una respuesta contiene un dato falso, necesitamos distinguir entre una recuperación equivocada y una generación que se apartó de las fuentes. Cambiar el modelo no resolverá necesariamente un problema de documentos desactualizados.",
+      "en": "Therefore, these components must be versioned, including the evaluation set and, where appropriate, the index and the embedding model that transforms documents into numerical representations for searching. If an answer contains a false fact, we need to distinguish between a mistaken recovery and a generation that deviated from the sources. Changing the model will not necessarily solve a problem of outdated documents.",
+      "es": "Por eso hay que versionar esos componentes, incluidos el conjunto de evaluación y, cuando corresponda, el índice y el modelo de embeddings que transforma documentos en representaciones numéricas para buscarlos. Si una respuesta contiene un dato falso, necesitamos distinguir entre una recuperación equivocada y una generación que se apartó de las fuentes. Cambiar el modelo no resolverá necesariamente un problema de documentos desactualizados.",
+      "reviewed": false
+    },
+    {
+      "source": "La ampliación de las herramientas ya es visible:",
+      "en": "The expansion of the tools is now visible:",
+      "es": "La ampliación de las herramientas ya es visible:",
+      "reviewed": false
+    },
+    {
+      "source": "MLflow incorpora gestión de prompts, evaluación y trazas para aplicaciones generativas y agentes",
+      "en": "MLflow incorporates prompt, evaluation and trace management for generative applications and agents",
+      "es": "MLflow incorpora gestión de prompts, evaluación y trazas para aplicaciones generativas y agentes",
+      "reviewed": false
+    },
+    {
+      "source": ". Una traza registra los pasos observables de una ejecución, como llamadas al modelo, consultas y uso de herramientas, con sus tiempos y resultados. Permite localizar dónde falla el flujo; no equivale a conocer el razonamiento interno del modelo.",
+      "en": ". A trace records the observable steps of an execution, such as model calls, queries, and tool usage, with their times and results. Allows you to locate where the flow fails; It is not equivalent to knowing the internal reasoning of the model.",
+      "es": ". Una traza registra los pasos observables de una ejecución, como llamadas al modelo, consultas y uso de herramientas, con sus tiempos y resultados. Permite localizar dónde falla el flujo; no equivale a conocer el razonamiento interno del modelo.",
+      "reviewed": false
+    },
+    {
+      "source": "La evaluación debe partir de tareas representativas. En el asistente de ventas interesa comprobar si recupera el documento adecuado, si respalda sus afirmaciones y si reconoce que le falta información. Las pruebas previas al despliegue pueden complementarse con evaluaciones sobre una muestra de interacciones reales.",
+      "en": "The evaluation must be based on representative tasks. The sales assistant is interested in checking if it retrieves the correct document, if it supports its statements and if it recognizes that it is missing information. Pre-deployment testing can be complemented by evaluations on a sample of real interactions.",
+      "es": "La evaluación debe partir de tareas representativas. En el asistente de ventas interesa comprobar si recupera el documento adecuado, si respalda sus afirmaciones y si reconoce que le falta información. Las pruebas previas al despliegue pueden complementarse con evaluaciones sobre una muestra de interacciones reales.",
+      "reviewed": false
+    },
+    {
+      "source": "LangSmith documenta ambos flujos y cómo convertir fallos de producción en nuevos casos de prueba",
+      "en": "LangSmith documents both flows and how to turn production failures into new test cases",
+      "es": "LangSmith documenta ambos flujos y cómo convertir fallos de producción en nuevos casos de prueba",
+      "reviewed": false
+    },
+    {
+      "source": "Las reglas automáticas sirven para verificar formatos o condiciones concretas. Los evaluadores basados en otros modelos ayudan a valorar respuestas abiertas, pero también pueden equivocarse: sus criterios necesitan contrastarse con revisión humana. La",
+      "en": "Automatic rules are used to verify specific formats or conditions. Evaluators based on other models help evaluate open responses, but they can also make mistakes: their criteria need to be compared with human review. The",
+      "es": "Las reglas automáticas sirven para verificar formatos o condiciones concretas. Los evaluadores basados en otros modelos ayudan a valorar respuestas abiertas, pero también pueden equivocarse: sus criterios necesitan contrastarse con revisión humana. La",
+      "reviewed": false
+    },
+    {
+      "source": "documentación de evaluación de LangSmith",
+      "en": "LangSmith evaluation documentation",
+      "es": "documentación de evaluación de LangSmith",
+      "reviewed": false
+    },
+    {
+      "source": "aborda estas distintas formas de evaluar.",
+      "en": "addresses these different ways of evaluating.",
+      "es": "aborda estas distintas formas de evaluar.",
+      "reviewed": false
+    },
+    {
+      "source": "Si el asistente puede crear un pedido, hablamos además de un agente que actúa sobre otros sistemas. Una respuesta bien redactada no garantiza que haya elegido el producto correcto o respetado los permisos. Hay que observar las llamadas a herramientas, limitar los pasos y el gasto, y exigir aprobación para acciones de impacto cuando el caso lo requiera. Los reintentos deben evitar pedidos duplicados.",
+      "en": "If the assistant can create an order, we are also talking about an agent that acts on other systems. A well-written response does not guarantee that you have chosen the correct product or respected the permissions. You must observe tool calls, limit steps and expense, and require approval for impact actions when the case requires it. Retries should avoid duplicate orders.",
+      "es": "Si el asistente puede crear un pedido, hablamos además de un agente que actúa sobre otros sistemas. Una respuesta bien redactada no garantiza que haya elegido el producto correcto o respetado los permisos. Hay que observar las llamadas a herramientas, limitar los pasos y el gasto, y exigir aprobación para acciones de impacto cuando el caso lo requiera. Los reintentos deben evitar pedidos duplicados.",
+      "reviewed": false
+    },
+    {
+      "source": "En estas aplicaciones, los costes pueden acumularse en varias llamadas por tarea. La longitud del contexto, los reintentos y las evaluaciones también cuentan. Probar modelos más pequeños, reutilizar resultados cuando sea válido o reducir llamadas innecesarias permite buscar un equilibrio medible entre calidad, tiempo y coste.",
+      "en": "In these applications, costs can accumulate over multiple calls per task. Context length, retries, and evaluations also count. Testing smaller models, reusing results when valid or reducing unnecessary calls allows you to find a measurable balance between quality, time and cost.",
+      "es": "En estas aplicaciones, los costes pueden acumularse en varias llamadas por tarea. La longitud del contexto, los reintentos y las evaluaciones también cuentan. Probar modelos más pequeños, reutilizar resultados cuando sea válido o reducir llamadas innecesarias permite buscar un equilibrio medible entre calidad, tiempo y coste.",
+      "reviewed": false
+    },
+    {
+      "source": "Para un primer modelo de demanda, una base razonable puede ser Git, datos identificables y recuperables, seguimiento de experimentos y un proceso de predicción por lotes. Desde el inicio hacen falta validaciones, una forma de detectar fallos y un procedimiento para recuperar una versión anterior. El grado de sofisticación puede crecer después.",
+      "en": "For a first demand model, a reasonable foundation might be Git, identifiable and recoverable data, experiment tracking, and a batch prediction process. From the beginning, validations are needed, a way to detect errors and a procedure to recover a previous version. The degree of sophistication can grow later.",
+      "es": "Para un primer modelo de demanda, una base razonable puede ser Git, datos identificables y recuperables, seguimiento de experimentos y un proceso de predicción por lotes. Desde el inicio hacen falta validaciones, una forma de detectar fallos y un procedimiento para recuperar una versión anterior. El grado de sofisticación puede crecer después.",
+      "reviewed": false
+    },
+    {
+      "source": "Cuando se multiplican los entrenamientos o los modelos, aparecen razones concretas para añadir un orquestador, un registro compartido o una plataforma de despliegue. Si muchos equipos repiten la misma configuración, la ingeniería de plataformas puede ofrecer caminos comunes para entrenar y publicar con permisos, registros y controles ya preparados.",
+      "en": "As training or models grow, there are concrete reasons to add an orchestrator, shared registry, or deployment platform. If many teams repeat the same configuration, platform engineering can provide common paths to train and release with permissions, logging, and controls already in place.",
+      "es": "Cuando se multiplican los entrenamientos o los modelos, aparecen razones concretas para añadir un orquestador, un registro compartido o una plataforma de despliegue. Si muchos equipos repiten la misma configuración, la ingeniería de plataformas puede ofrecer caminos comunes para entrenar y publicar con permisos, registros y controles ya preparados.",
+      "reviewed": false
+    },
+    {
+      "source": "La gobernanza se incorpora a ese trabajo diario: documentar el uso previsto y los límites del modelo, conservar su procedencia, controlar accesos y registrar aprobaciones. También implica decidir qué datos se guardan en las trazas y durante cuánto tiempo. Registrar todo sin criterio puede exponer información sensible y encarecer la operación.",
+      "en": "Governance is incorporated into that daily work: documenting the intended use and limits of the model, preserving its provenance, controlling access and recording approvals. It also involves deciding what data is saved in the traces and for how long. Recording everything without criteria can expose sensitive information and make the operation more expensive.",
+      "es": "La gobernanza se incorpora a ese trabajo diario: documentar el uso previsto y los límites del modelo, conservar su procedencia, controlar accesos y registrar aprobaciones. También implica decidir qué datos se guardan en las trazas y durante cuánto tiempo. Registrar todo sin criterio puede exponer información sensible y encarecer la operación.",
+      "reviewed": false
+    },
+    {
+      "source": "El éxito del modelo de nuestra tienda se comprobará en los pedidos de los próximos meses, bajo promociones, cambios de temporada y errores de datos. MLOps proporciona los medios para observar ese comportamiento y modificar el sistema sin perder la capacidad de explicar qué ocurrió.",
+      "en": "The success of our store model will be verified in orders in the coming months, under promotions, seasonal changes and data errors. MLOps provides the means to observe that behavior and modify the system without losing the ability to explain what occurred.",
+      "es": "El éxito del modelo de nuestra tienda se comprobará en los pedidos de los próximos meses, bajo promociones, cambios de temporada y errores de datos. MLOps proporciona los medios para observar ese comportamiento y modificar el sistema sin perder la capacidad de explicar qué ocurrió.",
+      "reviewed": false
+    },
+    {
+      "source": "Las herramientas elegidas pueden cambiar. Lo que necesita permanecer es la conexión entre la versión publicada, la evidencia que justificó publicarla y las señales que indican si sigue funcionando. Para un proyecto que sale del notebook, ese es un buen punto de partida: poder reconstruir el resultado, detectar un fallo y responder a él. Sobre esa base puede crecer una infraestructura que acompañe al modelo durante su vida real.",
+      "en": "The tools chosen may change. What needs to remain is the connection between the published version, the evidence that justified publishing it, and the signs that indicate whether it still works. For a project that comes out of the notebook, that is a good starting point: being able to reconstruct the result, detect a failure and respond to it. On that basis, an infrastructure can grow that accompanies the model during its real life.",
+      "es": "Las herramientas elegidas pueden cambiar. Lo que necesita permanecer es la conexión entre la versión publicada, la evidencia que justificó publicarla y las señales que indican si sigue funcionando. Para un proyecto que sale del notebook, ese es un buen punto de partida: poder reconstruir el resultado, detectar un fallo y responder a él. Sobre esa base puede crecer una infraestructura que acompañe al modelo durante su vida real.",
+      "reviewed": false
+    },
+    {
+      "source": "MLOps",
+      "en": "MLOps",
+      "es": "MLOps",
+      "reviewed": false
+    },
+    {
+      "source": "LLMOps",
+      "en": "LLMOps",
+      "es": "LLMOps",
+      "reviewed": false
+    },
+    {
+      "source": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 31 oct 2026.",
+      "en": "A history of the Saturdays.AI community. Originally published on Oct 31, 2026.",
+      "es": "Una historia de la comunidad Saturdays.AI. Publicada originalmente el 31 oct 2026.",
+      "reviewed": false
+    }
+  ]
+}

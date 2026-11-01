@@ -25,8 +25,6 @@ imageAlt: Representación de un sistema de inteligencia artificial aplicado a la
   predicción de ventas, con gráficos de datos, servidores y un supermercado de
   fondo.
 ---
-# **MLOps en 2026 y el trabajo de llevar la IA a producción**
-
 ![](/media/portada.png)
 
 

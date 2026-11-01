@@ -37,15 +37,11 @@ tags:
   - Accesibilidad Financiera
   - Uso Responsable de la IA
 ---
-# IA y Finanzas Personales: La democratización de la gestión patrimonial eficiente
-
-![image.png](/media/image.png)
-
 A lo largo de la historia, el sector financiero se ha caracterizado por adoptar tecnologías de vanguardia para mejorar la eficiencia de sus servicios y operaciones. En las últimas décadas, los avances en el almacenamiento masivo de datos (*big* *data*), la computación en la nube y el auge de la inteligencia artificial (IA) han dado lugar al ecosistema actual.
 
-La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la ++[colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf)++ para mantener su competitividad.
+La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la [colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf) para mantener su competitividad.
 
-Según la ++[EBA](https://www.eba.europa.eu/publications-and-media/publications/special-topic-artificial-intelligence)++, la adopción de la IA en la banca europea se ha extendido ampliamente durante los últimos años, especialmente en áreas como la segmentación de clientes, la detección de fraude, la prevención del lavado de dinero y de la financiación del terrorismo o la atención al cliente.
+Según la [EBA](https://www.eba.europa.eu/publications-and-media/publications/special-topic-artificial-intelligence), la adopción de la IA en la banca europea se ha extendido ampliamente durante los últimos años, especialmente en áreas como la segmentación de clientes, la detección de fraude, la prevención del lavado de dinero y de la financiación del terrorismo o la atención al cliente.
 
 ![](</media/Uses of AI by EU banks per use case in 2024.png>)
 
@@ -71,19 +67,19 @@ El creciente uso de estos sistemas también plantea nuevos retos relacionados co
 
 Los modelos de aprendizaje automático operan frecuentemente como cajas negras, es decir, resulta difícil entender cómo llegan a sus conclusiones. Esta falta de transparencia dificulta la validación de los resultados y plantea desafíos tanto para la adopción de estas tecnologías como para su regulación en entornos financieros.
 
-En ámbitos donde las decisiones pueden afectar al patrimonio, la concesión de créditos o la evaluación del riesgo, es fundamental poder justificar y auditar los resultados generados. Para abordar este problema, cada vez se impulsa más el desarrollo de modelos explicativos (*Explainable AI o XAI*), diseñados para ofrecer una mayor comprensión de los factores que determinan sus resultados. Esto facilita la auditoría de los sistemas y se alinea con el ++[Reglamento Europeo de IA (AI Act)](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-86)++.
+En ámbitos donde las decisiones pueden afectar al patrimonio, la concesión de créditos o la evaluación del riesgo, es fundamental poder justificar y auditar los resultados generados. Para abordar este problema, cada vez se impulsa más el desarrollo de modelos explicativos (*Explainable AI o XAI*), diseñados para ofrecer una mayor comprensión de los factores que determinan sus resultados. Esto facilita la auditoría de los sistemas y se alinea con el [Reglamento Europeo de IA (AI Act)](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-86).
 
 
 
 ### El riesgo de los sesgos en los modelos de IA
 
-La calidad de las recomendaciones generadas por la IA depende en gran medida de los datos con los que se entrenan los modelos. Si esos datos contienen errores, sesgos o no representan adecuadamente la realidad, las conclusiones obtenidas también pueden ser incorrectas. En el ámbito financiero, esto puede derivar en recomendaciones inadecuadas que perjudiquen el patrimonio de los usuarios. Esta preocupación ha sido reconocida por el Reglamento Europeo de IA, que exige que los datos utilizados para entrenar los sistemas sean ++[relevantes, representativos y sometidos a mecanismos de detección y mitigación de sesgos](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-10)++.
+La calidad de las recomendaciones generadas por la IA depende en gran medida de los datos con los que se entrenan los modelos. Si esos datos contienen errores, sesgos o no representan adecuadamente la realidad, las conclusiones obtenidas también pueden ser incorrectas. En el ámbito financiero, esto puede derivar en recomendaciones inadecuadas que perjudiquen el patrimonio de los usuarios. Esta preocupación ha sido reconocida por el Reglamento Europeo de IA, que exige que los datos utilizados para entrenar los sistemas sean [relevantes, representativos y sometidos a mecanismos de detección y mitigación de sesgos](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-10).
 
 Aunque el uso de datos relevantes y representativos ayuda a mejorar la precisión de los modelos, siempre habrá acontecimientos extraordinarios que escapen a los patrones observados durante el entrenamiento. Por eso, la calidad de los datos es una condición necesaria para desarrollar modelos fiables, pero no garantiza la ausencia total de errores.
 
 ### La seguridad de los datos financieros
 
-La gestión financiera impulsada por inteligencia artificial requiere el acceso a información sensible, como transacciones bancarias, ingresos, inversiones o hábitos de consumo. Por ello, las plataformas que utilizan estos sistemas deben garantizar altos estándares de ciberseguridad, confidencialidad y privacidad, de acuerdo con normativas como el Reglamento General de Protección de Datos (RGPD) y el ++[Reglamento Europeo de Inteligencia Artificial](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-78)++, que establecen requisitos relativos a la gobernanza de los datos, la transparencia y la supervisión de los sistemas de IA.
+La gestión financiera impulsada por inteligencia artificial requiere el acceso a información sensible, como transacciones bancarias, ingresos, inversiones o hábitos de consumo. Por ello, las plataformas que utilizan estos sistemas deben garantizar altos estándares de ciberseguridad, confidencialidad y privacidad, de acuerdo con normativas como el Reglamento General de Protección de Datos (RGPD) y el [Reglamento Europeo de Inteligencia Artificial](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-78), que establecen requisitos relativos a la gobernanza de los datos, la transparencia y la supervisión de los sistemas de IA.
 
 Una brecha de seguridad expone información de los usuarios que los ciberdelincuentes pueden explotar para fraudes financieros, robos de identidad o la exposición de información sensible sobre el patrimonio y los hábitos económicos de los usuarios. En este contexto, la transparencia en el tratamiento de los datos y la capacidad de auditar los sistemas desempeñan un papel fundamental para garantizar un uso seguro y responsable de la inteligencia artificial.
 
@@ -95,7 +91,7 @@ Confiar únicamente en las predicciones automatizadas sin comprender los fundame
 
 Por ello, es importante entender que la IA opera como un copiloto analítico que amplifica la capacidad de procesar información, identificar tendencias y evaluar alternativas, no como un sistema que nunca se equivoca y actúa de manera autónoma. La combinación de la visión y el pensamiento crítico del usuario complementados con el soporte de la inteligencia artificial nos permite mitigar riesgos y mejorar la toma de decisiones financieras. 
 
-Este enfoque coincide con el principio de ++[supervisión humana](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14)++ recogido en el Reglamento Europeo de IA, que considera fundamental que las personas puedan comprender, supervisar e intervenir en las decisiones asistidas por sistemas de inteligencia artificial.
+Este enfoque coincide con el principio de [supervisión humana](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14) recogido en el Reglamento Europeo de IA, que considera fundamental que las personas puedan comprender, supervisar e intervenir en las decisiones asistidas por sistemas de inteligencia artificial.
 
 
 
@@ -103,7 +99,7 @@ Este enfoque coincide con el principio de ++[supervisión humana](https://ai-act
 
 El desarrollo de los modelos de IA más avanzados se concentra actualmente en un número reducido de proveedores tecnológicos. Como consecuencia, muchas aplicaciones financieras dependen de la misma infraestructura para ofrecer sus servicios.
 
-Esta situación genera ++[riesgos de dependencia](https://straitsresearch.com/es/report/ai-in-fintech-market)++. Una interrupción del servicio, cambios en las condiciones de uso o actualizaciones inesperadas de los modelos pueden afectar simultáneamente a múltiples aplicaciones y entidades financieras. Además, cada nueva versión exige realizar pruebas y procesos de supervisión para garantizar que las recomendaciones y funcionalidades sigan siendo fiables y seguras.
+Esta situación genera [riesgos de dependencia](https://straitsresearch.com/es/report/ai-in-fintech-market). Una interrupción del servicio, cambios en las condiciones de uso o actualizaciones inesperadas de los modelos pueden afectar simultáneamente a múltiples aplicaciones y entidades financieras. Además, cada nueva versión exige realizar pruebas y procesos de supervisión para garantizar que las recomendaciones y funcionalidades sigan siendo fiables y seguras.
 
 
 
@@ -120,8 +116,6 @@ Basados en modelos de lenguaje de gran escala (LLMs), son la herramienta que tod
 Son modelos accesibles que disponen de uso gratuito limitado y de uso extendido por un precio de alrededor de 20 y hasta 100 euros al mes aproximadamente. Como limitaciones, requieren de la supervisión manual de los datos de entrada y carecen de conectividad nativa en tiempo real con las entidades bancarias.
 
 Como ejemplo de aplicación, he compartido con ChatGPT  unos gastos sintéticos en formato csv y le he pedido que los analice e identifique cuáles son prescindibles. Al tratarse de un análisis, ha abierto Work:
-
-![](/media/ChatGPT_screnshot1.png)
 
 Una vez validada la respuesta, continuamos y obtenemos el resultado:  
 
@@ -141,8 +135,6 @@ Para ver cómo puede ser de ayuda para la planificación, le pido que haga una p
 
 ![](/media/ChatGPT_screnshot5.png)
 
-![](/media/ChatGPT_screnshot5.png)
-
 El modelo considera tres escenarios, cada uno más conservador que el anterior, para realizar estimaciones orientativas del flujo de dinero. 
 
 Al transformar los movimientos financieros en información fácilmente interpretable, la IA facilita el análisis, mejora la planificación del ahorro y proporciona información relevante para tomar mejores decisiones financieras. Este caso demuestra cómo los modelos de lenguaje pueden interpretar datos estructurados, extraer patrones y generar explicaciones comprensibles para el usuario.
@@ -153,9 +145,9 @@ Al transformar los movimientos financieros en información fácilmente interpret
 
 Si buscamos una visión centralizada de nuestras finanzas, con herramientas capaces de monitorizar ingresos, gastos e inversiones en tiempo real, las aplicaciones FinTech ofrecen un mayor grado de integración que los asistentes conversacionales generalistas.
 
-Estas plataformas incluyen modelos de aprendizaje automático integrados para categorizar transacciones, generar alertas, detectar patrones de gasto y proyectar tendencias de flujo de caja. Además, gracias a la integración bancaria mediante APIs de ++[Open Banking](https://www.ecb.europa.eu/press/intro/mip-online/2018/html/1803_revisedpsd.en.html)++, cuentan con el registro automatizado de transacciones y herramientas de análisis de datos financieros. Esto reduce el esfuerzo necesario para mantener actualizada la visión de la situación económica. 
+Estas plataformas incluyen modelos de aprendizaje automático integrados para categorizar transacciones, generar alertas, detectar patrones de gasto y proyectar tendencias de flujo de caja. Además, gracias a la integración bancaria mediante APIs de [Open Banking](https://www.ecb.europa.eu/press/intro/mip-online/2018/html/1803_revisedpsd.en.html), cuentan con el registro automatizado de transacciones y herramientas de análisis de datos financieros. Esto reduce el esfuerzo necesario para mantener actualizada la visión de la situación económica. 
 
-Algunas aplicaciones fintech son ++[Monarch Money](https://www.monarch.com/)++, ++[Copilot](https://www.copilot.money/)++ o ++[Cleo](https://web.meetcleo.com/)++ en EE.UU/Reino Unido, y ++[Finch](https://finch-agent.com/es)++ en Europa. También hay soluciones integradas en neobancos y entidades tradicionales como BBVA con su asistente ++[Blue](https://www.bbva.es/general/nueva-relacion-banca/blue.html)++ o Revolut con su versión ++[AIR](https://www.revolut.com/es-ES/air-ai-by-revolut/)++. Asimismo, suelen combinar funcionalidades gratuitas con planes de suscripción que amplían las capacidades de análisis y de automatización.
+Algunas aplicaciones fintech son [Monarch Money](https://www.monarch.com/), [Copilot](https://www.copilot.money/) o [Cleo](https://web.meetcleo.com/) en EE.UU/Reino Unido, y [Finch](https://finch-agent.com/es) en Europa. También hay soluciones integradas en neobancos y entidades tradicionales como BBVA con su asistente [Blue](https://www.bbva.es/general/nueva-relacion-banca/blue.html) o Revolut con su versión [AIR](https://www.revolut.com/es-ES/air-ai-by-revolut/). Asimismo, suelen combinar funcionalidades gratuitas con planes de suscripción que amplían las capacidades de análisis y de automatización.
 
 ![](/media/app.png)
 

@@ -24,7 +24,7 @@ export function responsiveImage(src: string, fallback = { width: 720, height: 48
     height: info.height,
     srcset:
       choices.length > 1
-        ? choices.map((image) => `${url(image.src)} ${image.width}w`).join(', ')
+        ? choices.map((image) => `${encodeURI(url(image.src)).replace(/,/g, '%2C')} ${image.width}w`).join(', ')
         : undefined,
   };
 }

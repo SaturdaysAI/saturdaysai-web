@@ -92,8 +92,9 @@ content:
         label: Draft
         type: boolean
         default: true
-        description: Keep enabled until reviewed. Draft files remain visible in this
-          public GitHub repository.
+        description: Keep enabled until reviewed. Turning Draft off starts publication,
+          which finishes only after GitHub Actions validates the images and both
+          languages. Draft files remain visible in this public GitHub repository.
       - name: legacyPath
         label: Permanent URL path
         type: string

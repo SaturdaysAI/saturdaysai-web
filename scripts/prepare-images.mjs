@@ -3,20 +3,26 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import sharp from 'sharp';
 import YAML from 'yaml';
+import { isPublished } from '../src/lib/content-rules.mjs';
+import { contentImageSources } from './lib/content-images.mjs';
 
 // Build-only derivatives: originals stay intact and CMS uploads need no manual processing.
 const output = 'public/media/responsive';
 await fs.mkdir(output, { recursive: true });
 const sources = new Set();
+const owners = new Map();
 sources.add('/brand/logo-orange.webp');
 for (const collection of ['posts', 'pages']) {
   for (const name of await fs.readdir(`src/content/${collection}`)) {
     if (!name.endsWith('.md')) continue;
     const text = await fs.readFile(`src/content/${collection}/${name}`, 'utf8');
-    for (const match of text.matchAll(/\/media\/[\w.-]+\.(?:webp|png|jpe?g)/gi))
-      sources.add(match[0]);
-    const data = YAML.parse(text.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] || '');
-    if (data?.image) sources.add(data.image);
+    const frontmatter = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+    const data = YAML.parse(frontmatter?.[1] || '');
+    if (collection === 'posts' && !isPublished(data)) continue;
+    for (const src of contentImageSources(text.slice(frontmatter?.[0].length || 0), data?.image)) {
+      sources.add(src);
+      owners.set(src, [...(owners.get(src) || []), `src/content/${collection}/${name}`]);
+    }
   }
 }
 const site = JSON.parse(await fs.readFile('src/data/site.json', 'utf8'));
@@ -36,6 +42,16 @@ const queue = [...sources].filter(
 );
 let cursor = 0,
   generated = 0;
+const missing = [];
+for (const src of queue) {
+  try {
+    await fs.access(path.join('public', src));
+  } catch {
+    missing.push(`${src}\n  Used by: ${(owners.get(src) || ['site configuration']).join(', ')}`);
+  }
+}
+if (missing.length)
+  throw new Error(`Missing published images. Upload them in Pages CMS or fix their article links:\n${missing.join('\n')}`);
 await Promise.all(
   Array.from({ length: 4 }, async () => {
     while (cursor < queue.length) {
