@@ -25,9 +25,22 @@ category: AI for good
 kind: article
 language: es
 image: /media/Gemini_Generated_Image_g86qq9g86qq9g86q-1.jpg
-imageAlt: "IA y Finanzas Personales: La democratización de la gestión
-  patrimonial eficiente"
+imageAlt: Representación del impacto de la democratización de la IA en la
+  gestión de las finanzas personales
+tags:
+  - Inteligencia Artificial
+  - Finanzas Personales
+  - IA y Finanzas
+  - Finanzas Inteligentes
+  - Fintech
+  - Democratización de la IA
+  - Accesibilidad Financiera
+  - Uso Responsable de la IA
 ---
+# IA y Finanzas Personales: La democratización de la gestión patrimonial eficiente
+
+![image.png](/media/image.png)
+
 A lo largo de la historia, el sector financiero se ha caracterizado por adoptar tecnologías de vanguardia para mejorar la eficiencia de sus servicios y operaciones. En las últimas décadas, los avances en el almacenamiento masivo de datos (*big* *data*), la computación en la nube y el auge de la inteligencia artificial (IA) han dado lugar al ecosistema actual.
 
 La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la ++[colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf)++ para mantener su competitividad.
@@ -128,13 +141,15 @@ Para ver cómo puede ser de ayuda para la planificación, le pido que haga una p
 
 ![](/media/ChatGPT_screnshot5.png)
 
+![](/media/ChatGPT_screnshot5.png)
+
 El modelo considera tres escenarios, cada uno más conservador que el anterior, para realizar estimaciones orientativas del flujo de dinero. 
 
 Al transformar los movimientos financieros en información fácilmente interpretable, la IA facilita el análisis, mejora la planificación del ahorro y proporciona información relevante para tomar mejores decisiones financieras. Este caso demuestra cómo los modelos de lenguaje pueden interpretar datos estructurados, extraer patrones y generar explicaciones comprensibles para el usuario.
 
 
 
-Aplicaciones FinTech con IA Integrada
+## Aplicaciones FinTech con IA Integrada
 
 Si buscamos una visión centralizada de nuestras finanzas, con herramientas capaces de monitorizar ingresos, gastos e inversiones en tiempo real, las aplicaciones FinTech ofrecen un mayor grado de integración que los asistentes conversacionales generalistas.
 
@@ -168,9 +183,8 @@ La clave no consiste en delegar por completo las decisiones financieras, sino en
 Como orientación a la hora de elegir qué herramientas impulsadas por inteligencia artificial se adaptan mejor a tus necesidades, se muestra una tabla con información de interés:
 
 
-|  |  |  |
+| **Solución** | **Registro financiero** | **Anàlisis de datos** |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| **Solución** | **Registro financiero** | **Análisis de datos** |
 | Chat GPT(LLM Multimodal) | Manual con archivos/imágenes;Permite centralizar los datos de múltiples cuentas | Interacción conversacional y análisis personalizado |
 | Finch(App fintech impulsada por IA) | Automático con cuentas vinculadas; manual con archivos/imágenes; Permite centralizar múltiples cuentas | Integrado en la interfaz y conversacional a través de Finch Agent (Gemini) |
 | Revolut (Neobanco y fintech) | Automático;Solo trabaja con datos de las cuentas Revolut | Integrado en la interfaz y conversacional a través de AIR (modelo especializado en finanzas) |
