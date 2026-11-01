@@ -9,7 +9,7 @@ description: Llevar un modelo de inteligencia artificial a producción es solo e
 author: Alejandro López Soria
 pubDate: 2026-10-31
 updatedDate: 2026-10-31
-draft: true
+draft: false
 legacyPath: /2026/10/31/mlops-en-2026/
 category: Build with AI
 kind: article
