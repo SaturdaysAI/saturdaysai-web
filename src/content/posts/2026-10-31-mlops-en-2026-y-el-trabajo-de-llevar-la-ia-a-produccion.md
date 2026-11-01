@@ -27,8 +27,6 @@ imageAlt: Representación de un sistema de inteligencia artificial aplicado a la
 ---
 # **MLOps en 2026 y el trabajo de llevar la IA a producción**
 
-
-
 ![](/media/portada.png)
 
 
