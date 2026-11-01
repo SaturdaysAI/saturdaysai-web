@@ -17,9 +17,9 @@ description: >
   qué tipo de aplicaciones tiene y qué alternativas ofrece el mercado para
   ponerla a trabajar a favor de tu economía.
 author: "Marc Pérez "
-pubDate: 2026-10-30
+pubDate: 2026-11-03
 updatedDate: 2026-10-30
-draft: false
+draft: true
 legacyPath: /2026/10/30/ia-y-finanzas-personales/
 category: AI for good
 kind: article
