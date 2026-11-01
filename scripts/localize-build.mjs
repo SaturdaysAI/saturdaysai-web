@@ -21,7 +21,8 @@ const routeFor = (file) =>
     .replace(/index\.html$/, '')
     .replace(/^404\.html$/, '404/');
 const routes = new Set(files.map(routeFor));
-const missing = new Set();
+const missing = new Map();
+let translationContext = '';
 const translate = (source, language) => {
   if (source.endsWith(' | Saturdays.AI')) {
     const title = localizedText(
@@ -33,7 +34,10 @@ const translate = (source, language) => {
     if (title !== undefined) return title + ' | Saturdays.AI';
   }
   const result = localizedText(catalog, overrides, source, language);
-  if (result === undefined) missing.add(source);
+  if (result === undefined) {
+    if (!missing.has(source)) missing.set(source, new Set());
+    missing.get(source).add(`${translationContext} (${language})`);
+  }
   return result ?? source;
 };
 const localizedURL = (value, language) => {
@@ -56,6 +60,7 @@ for (const file of files) {
   if (load(original)('html').attr('data-localized'))
     throw new Error('Run a fresh Astro build before localization.');
   const route = routeFor(file);
+  translationContext = route;
   for (const language of ['es', 'en']) {
     const $ = load(original, { scriptingEnabled: false });
     visitStrings($, (source, replace) => replace(translate(source, language)));
@@ -168,6 +173,7 @@ for (const locale of ['', 'en/']) {
 }
 // Both RSS feeds and sitemap entries point to the matching static language version.
 const feedSource = await fs.readFile('dist/feed.xml', 'utf8');
+translationContext = '/feed.xml';
 for (const language of ['es', 'en']) {
   const $ = load(feedSource, { xmlMode: true });
   $('title,description').each((_, el) => $(el).text(translate($(el).text(), language)));
@@ -196,7 +202,16 @@ await fs.mkdir('artifacts/bilingual-theme', { recursive: true });
 await fs.writeFile(
   'artifacts/bilingual-theme/coverage.json',
   JSON.stringify(
-    { pages: report.length, segments: catalog.size, missing: [...missing], routes: report },
+    {
+      pages: report.length,
+      segments: catalog.size,
+      missing: [...missing.keys()],
+      routes: report,
+      missingDetails: [...missing].map(([source, locations]) => ({
+        source,
+        locations: [...locations],
+      })),
+    },
     null,
     2,
   ),
@@ -210,5 +225,12 @@ console.log(
 );
 if (missing.size)
   throw new Error(
-    `Missing ${missing.size} translations. Run npm run translations:collect, then npm run translations:translate. See artifacts/bilingual-theme/coverage.json.`,
+    `Missing ${missing.size} translations. Run npm run translations:collect, then npm run translations:translate. See the publication-diagnostics artifact or artifacts/bilingual-theme/coverage.json.\n` +
+      [...missing]
+        .slice(0, 5)
+        .map(
+          ([source, locations]) =>
+            `- ${source.slice(0, 160)}: ${[...locations].slice(0, 3).join(', ')}`,
+        )
+        .join('\n'),
   );

@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { load } from 'cheerio';
+import { uiTranslation } from './ui-translations.mjs';
 
 export const normalize = (value) => value.replace(/\s+/g, ' ').trim();
 export const key = (text) =>
@@ -12,10 +13,10 @@ export const key = (text) =>
 export function localizedText(catalog, overrides, source, language) {
   const segment = catalog.get(key(source));
   if (segment?.reviewed && typeof segment[language] === 'string') return segment[language];
-  return overrides[source]?.[language] ?? (segment?.[language] || undefined);
+  return overrides[source]?.[language] ?? (segment?.[language] || uiTranslation(source, language));
 }
 const excluded =
-  'script,style,svg,code,pre,[translate="no"],[data-language],.brand,.art-sticker,.art-code,.post-author,.author-name,.post-byline > span,.city-card h2,.city-tags a:not(:last-child),.article-author strong,.author-avatar,.archived-comments footer';
+  'script,style,svg,code,pre,[translate="no"],[data-language],time[datetime],[data-reading-minutes],.brand,.art-sticker,.art-code,.post-author,.author-name,.post-byline > span,.city-card h2,.city-tags a:not(:last-child),.article-author strong,.author-avatar,.archived-comments footer';
 const preserve =
   /^(?:[\d\s\p{P}\p{S}]+|AI4ALL(?: IS AI4GOOD)?|AI4GOOD|Saturdays\.?AI|https?:\/\/\S+|\S+@\S+\.\S+)$/iu;
 // Some imported WordPress examples are plain paragraphs rather than <code>.
@@ -159,6 +160,7 @@ export async function collectTranslations() {
     }
     const before = doc.segments.length;
     visitStrings($, (source) => {
+      if (uiTranslation(source, 'en') !== undefined) return;
       const id = key(source);
       if (!catalog.has(id)) {
         const segment = { source, en: '', es: '', reviewed: false };
