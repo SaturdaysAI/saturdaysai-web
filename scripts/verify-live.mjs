@@ -93,7 +93,14 @@ const activeResponsiveImages = new Set(
 const allFiles = await walk('dist');
 let excludedSupersededCards = 0;
 let excludedUnusedResponsiveImages = 0;
+let excludedRepositoryMarkers = 0;
 const files = allFiles.filter((file) => {
+  // Pages CMS uses this empty marker for media folders. Pages artifacts do not
+  // serve it, and it is not a visitor resource. Do not skip other hidden paths.
+  if (path.basename(file) === '.gitkeep') {
+    excludedRepositoryMarkers++;
+    return false;
+  }
   const route = '/' + path.relative('dist', file).replaceAll('\\', '/');
   if (/^\/social\/[a-f0-9]+\.jpg$/.test(route) && !activeSocialCards.has(route)) {
     excludedSupersededCards++;
@@ -178,6 +185,13 @@ await Promise.all(
           }
         });
         if ($('h1').length !== 1) fail(route, 'Expected one page heading');
+        $('[href],[src]').each((_, element) => {
+          const value = $(element).attr('href') || $(element).attr('src');
+          try {
+            if (new URL(value, origin).pathname.endsWith('/.gitkeep'))
+              fail(route, 'Page links to a repository marker rather than a public resource');
+          } catch {}
+        });
         if ($('.preview-banner').length) fail(route, 'Preview banner on production');
         const robots = $('meta[name=robots]').attr('content') || '';
         if (
@@ -274,6 +288,7 @@ const report = {
   activeSocialCards: activeSocialCards.size,
   excludedSupersededCards,
   excludedUnusedResponsiveImages,
+  excludedRepositoryMarkers,
   htmlCount,
   editorialVersionsChecked,
   sitemapURLs: sitemapURLs.length,
