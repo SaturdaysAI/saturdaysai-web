@@ -19,7 +19,7 @@ description: >
 author: "Marc Pérez "
 pubDate: 2026-11-09
 draft: false
-legacyPath: /2026/11/09/ia-y-finanzas-personales/
+legacyPath: /2026/10/30/ia-y-finanzas-personales/
 category: AI for good
 kind: article
 language: es
@@ -35,10 +35,7 @@ tags:
   - Democratización de la IA
   - Accesibilidad Financiera
   - Uso Responsable de la IA
-updatedDate: 2026-11-02
 ---
-![](/media/Gemini_Generated_Image_g86qq9g86qq9g86q-2.jpg)
-
 A lo largo de la historia, el sector financiero se ha caracterizado por adoptar tecnologías de vanguardia para mejorar la eficiencia de sus servicios y operaciones. En las últimas décadas, los avances en el almacenamiento masivo de datos (*big* *data*), la computación en la nube y el auge de la inteligencia artificial (IA) han dado lugar al ecosistema actual.
 
 La incorporación de la IA en el sector financiero responde a la necesidad de gestionar un entorno cada vez más caracterizado por la volatilidad, la incertidumbre, la complejidad y la ambigüedad (VUCA). Estas condiciones han obligado a las empresas del sector a adaptarse para aumentar su eficiencia y productividad, orientando sus estrategias hacia la [colaboración abierta](https://sccs.web.uah.es/wp/wp-content/uploads/2024/05/P2404-Inteligencia-artifical-en-finanzas.pdf) para mantener su competitividad.

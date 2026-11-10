@@ -78,8 +78,9 @@ content:
         label: Publication date
         type: date
         required: true
-        description: Future dates stay hidden. The article appears only in a successful
-          deployment after this date, with Draft disabled and translations complete.
+        description: Future dates stay hidden until a successful deployment after this
+          date. Scheduled articles are checked daily, with Draft disabled and
+          translations complete. Dates are evaluated in UTC.
         options:
           format: yyyy-MM-dd
           time: false
@@ -87,7 +88,8 @@ content:
         label: Last meaningful update
         type: date
         description: Optional. Leave empty for a new or rescheduled article. Use only
-          for a meaningful update after its publication date.
+          for a meaningful update after its publication date. Earlier dates are
+          ignored on the website and do not block publication.
         options:
           format: yyyy-MM-dd
           time: false

@@ -11,6 +11,12 @@ export async function inspectPublication(entries, mediaExists, now = new Date())
     excluded = [];
   let published = 0;
   for (const entry of entries) {
+    if (entry.data.updatedDate && new Date(entry.data.updatedDate) < new Date(entry.data.pubDate))
+      warnings.push({
+        file: entry.file,
+        message:
+          'La fecha de actualización es anterior a la publicación y se omitirá en la web. Puedes vaciar Last meaningful update; este aviso no bloquea la publicación.',
+      });
     if (
       entry.collection === 'posts' &&
       entry.data.draft === false &&
@@ -24,12 +30,6 @@ export async function inspectPublication(entries, mediaExists, now = new Date())
         file: entry.file,
         reason: entry.data.draft !== false ? 'draft' : 'future-date',
       });
-      if (entry.data.updatedDate && new Date(entry.data.updatedDate) < new Date(entry.data.pubDate))
-        warnings.push({
-          file: entry.file,
-          message:
-            'La fecha de actualización es anterior a la publicación. Vacía Last meaningful update antes de publicar si no ha habido una actualización posterior.',
-        });
       continue;
     }
     published++;

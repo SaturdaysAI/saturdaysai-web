@@ -60,15 +60,18 @@ export function assertSafeLink(value) {
   if (['mailto:', 'tel:'].includes(parsed.protocol) && !parsed.pathname)
     throw new Error('Missing contact destination');
 }
+// A date left over from drafting/rescheduling is not a published revision.
+// Omit it from visible dates and SEO instead of blocking the whole release.
+export function effectiveUpdatedDate(data) {
+  if (!data.updatedDate) return undefined;
+  const updated = new Date(data.updatedDate);
+  return updated.getTime() >= new Date(data.pubDate).getTime() ? updated : undefined;
+}
 export function assertPublishedBodies(entries, now = new Date()) {
   for (const entry of entries) {
     if (isPublished(entry.data, now) && entry.data.updatedDate) {
       const updated = new Date(entry.data.updatedDate).getTime();
-      if (
-        !Number.isFinite(updated) ||
-        updated < new Date(entry.data.pubDate).getTime() ||
-        updated > now.getTime()
-      )
+      if (!Number.isFinite(updated) || updated > now.getTime())
         throw new Error(
           `Invalid update date: ${entry.data.legacyPath}. Use the actual date of a published update.`,
         );

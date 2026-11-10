@@ -31,15 +31,15 @@ test('a published missing image reports its source file and prevents publication
   assert.match(report.errors[0].message, /\/media\/deleted.png/);
 });
 
-test('publication checks distinguish invalid published dates from a draft warning', async () => {
+test('a stale revision date warns for drafts and published articles without blocking them', async () => {
   const date = { updatedDate: '2026-10-29' };
   const report = await inspectPublication(
     [entry(date), entry({ ...date, draft: true })],
     async () => true,
     now,
   );
-  assert.equal(report.errors.length, 1);
-  assert.equal(report.warnings.length, 1);
+  assert.equal(report.errors.length, 0);
+  assert.equal(report.warnings.length, 2);
   const empty = await inspectPublication([entry({}, '')], async () => true, now);
   assert.match(empty.errors[0].message, /needs content/);
   const invalid = await inspectPublication([entry({ pubDate: 'invalid' })], async () => true, now);

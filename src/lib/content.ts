@@ -3,6 +3,7 @@ import {
   assertUniquePaths,
   assertPublishedBodies,
   isPublished,
+  effectiveUpdatedDate,
   withBase,
 } from './content-rules.mjs';
 export const url = (path: string) => withBase(path, import.meta.env.BASE_URL);
@@ -12,6 +13,10 @@ export async function publishedPosts() {
   assertPublishedBodies(all);
   return all
     .filter((p) => isPublished(p.data))
+    .map((post) => ({
+      ...post,
+      data: { ...post.data, updatedDate: effectiveUpdatedDate(post.data) },
+    }))
     .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
 }
 export const dateLabel = (d: Date, language = 'en') =>

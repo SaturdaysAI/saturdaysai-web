@@ -5,7 +5,7 @@ import { relatedPosts } from '../src/lib/recommendations.mjs';
 import { mediaProvider, findMedia, episodeInfo } from '../src/lib/media.mjs';
 import { indexablePath, breadcrumbSchema, structuredJSON } from '../src/lib/seo.mjs';
 import { renderMarkdown } from '../src/lib/markdown.mjs';
-import { assertPublishedBodies } from '../src/lib/content-rules.mjs';
+import { assertPublishedBodies, effectiveUpdatedDate } from '../src/lib/content-rules.mjs';
 const now = new Date('2026-10-24T12:00:00Z');
 const entry = (id, overrides = {}) => ({
   id,
@@ -162,7 +162,7 @@ test('legacy heading jumps are normalized while section anchors remain stable', 
 });
 
 test('published update dates must reflect an actual update after publication', () => {
-  for (const updatedDate of ['invalid', '2024-01-01', '2099-01-01'])
+  for (const updatedDate of ['invalid', '2099-01-01'])
     assert.throws(
       () => assertPublishedBodies([entry('story', { updatedDate })], now),
       /Invalid update date/,
@@ -173,4 +173,16 @@ test('published update dates must reflect an actual update after publication', (
   assert.doesNotThrow(() =>
     assertPublishedBodies([entry('draft', { draft: true, updatedDate: '2099-01-01' })], now),
   );
+});
+
+test('rescheduling an article omits its stale revision date without blocking publication', () => {
+  const post = entry('rescheduled', { pubDate: '2026-11-09', updatedDate: '2026-11-02' });
+  assert.doesNotThrow(() => assertPublishedBodies([post], new Date('2026-11-10T12:00:00Z')));
+  assert.equal(effectiveUpdatedDate(post.data), undefined);
+  assert.equal(post.data.updatedDate, '2026-11-02', 'normalization does not rewrite CMS source');
+  assert.equal(
+    effectiveUpdatedDate({ ...post.data, updatedDate: '2026-11-10' }).toISOString(),
+    '2026-11-10T00:00:00.000Z',
+  );
+  assert.equal(effectiveUpdatedDate({ pubDate: '2026-11-09' }), undefined);
 });
