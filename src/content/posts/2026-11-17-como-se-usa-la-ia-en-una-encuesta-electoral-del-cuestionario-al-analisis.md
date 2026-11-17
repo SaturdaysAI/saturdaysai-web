@@ -7,7 +7,7 @@ description: La inteligencia artificial empieza a transformar distintas fases de
 author: Alejandro López Soria
 pubDate: 2026-11-17
 updatedDate: 2026-11-17
-draft: true
+draft: false
 legacyPath: /2026/10/31/encuestas-en-2026/
 category: Build with AI
 kind: article
@@ -40,8 +40,6 @@ Pero la adopción es desigual. A octubre de 2026 conviven aplicaciones documenta
 
 # Preparar las preguntas y conversar con el encuestado
 
-
-
 El primer uso es bastante cotidiano: ayudar a construir el instrumento de medida. SurveyMonkey ofrece Build with AI, que genera un borrador de encuesta a partir de una descripción. La compañía documenta tecnología GPT para esa generación y machine learning en SurveyMonkey Genius para evaluar el cuestionario. Son funcionalidades de una plataforma de encuestas; por sí solas no acreditan que una determinada estimación electoral se haya producido con ellas. [[2]](https://www.surveymonkey.com/product/features/ai/)
 
 El ahorro potencial está en preparar una primera versión y explorar formulaciones. La responsabilidad metodológica aparece inmediatamente después. «¿Está de acuerdo con mejorar la seguridad?» y «¿Apoya esta medida concreta de seguridad?» no miden lo mismo. Un texto fluido puede introducir una premisa, mezclar dos asuntos o desequilibrar las opciones de respuesta. Revisar el lenguaje y probar su comprensión sigue formando parte del diseño.
@@ -60,8 +58,6 @@ Gallup lo presenta como investigación metodológica. Importan la comprensión d
 
 # Convertir miles de respuestas abiertas en datos analizables
 
-
-
 «¿Cuál es el principal problema del país?» parece una pregunta sencilla hasta que llegan miles de respuestas distintas. Unas dicen «no llego a fin de mes»; otras, «los alquileres» o «todo está demasiado caro». Para contar temas hay que establecer categorías y asignarlas de manera consistente. Es lo que se conoce como codificación.
 
 El procesamiento del lenguaje natural, o NLP, ofrece varias rutas. En el aprendizaje supervisado, un clasificador aprende a partir de respuestas que ya tienen una etiqueta humana. Un LLM puede recibir el listado de categorías, sus definiciones y unos ejemplos en el prompt, sin entrenar un modelo nuevo para ese estudio. Ambas opciones necesitan una referencia con la que comprobar si clasifican correctamente.
@@ -77,8 +73,6 @@ La métrica mide acuerdo con unas etiquetas: tampoco los codificadores humanos c
 
 
 ## Cuando las categorías también están por descubrir
-
-
 
 En ocasiones, el problema empieza antes: todavía no sabemos qué categorías utilizar. Aquí entran los embeddings, representaciones numéricas del texto que permiten trabajar con semejanzas de significado. «No puedo pagar el alquiler» y «la vivienda está imposible» pueden quedar próximas aunque compartan pocas palabras. Esa geometría es útil para explorar; no convierte automáticamente una semejanza lingüística en una categoría válida de investigación.
 
@@ -98,8 +92,6 @@ En una aplicación política, convendría mirar también cada categoría: un bue
 
 # Sentimiento y segmentación: interpretar sin simplificar demasiado
 
-
-
 Clasificar un tema y detectar un sentimiento resuelven problemas diferentes. «Me preocupa que gane este partido» contiene una emoción negativa, pero identificar su orientación política exige saber a qué partido se refiere, quién habla y qué está evaluando. Un contador de textos positivos y negativos no entrega por sí mismo una estimación de voto.
 
 Las plataformas ofrecen análisis automático de sentimiento —SurveyMonkey, por ejemplo, distingue positivo, neutral y negativo—, pero esa funcionalidad no acredita que sea una pieza habitual de la estimación electoral. [[2]](https://www.surveymonkey.com/product/features/ai/) La ironía, los dobles sentidos y las posiciones ambivalentes exigen validación contextual.
@@ -115,8 +107,6 @@ Los grupos obtenidos dependen de qué preguntas se incluyen, cómo se mide la di
 
 
 # Ajustar la muestra: dónde termina la estadística y entra el ML
-
-
 
 Una muestra puede tener demasiados participantes de un perfil y pocos de otro. La ponderación asigna pesos para acercar su composición a referencias poblacionales. Técnicas como el ajuste iterativo de márgenes, conocido como raking, son estadística. Usar un ordenador para calcularlas no las transforma en IA. [[10]](https://www.pewresearch.org/methods/2018/01/26/how-different-weighting-methods-work/)
 
@@ -136,8 +126,6 @@ El límite de fondo permanece. Un modelo puede aprender relaciones entre variabl
 
 # Separar respuestas fiables de registros sospechosos
 
-
-
 En una encuesta online también hay que decidir qué datos merecen confianza. Qualtrics integra detección de bots mediante reCAPTCHA y proporciona una puntuación que puede emplearse para señalar registros o configurar reglas. La documentación incluye controles de duplicados y otras comprobaciones. Conviene separar esas capas: una regla de cookies o direcciones IP no es, por sí misma, IA. [[14]](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/)
 
 Una vía específicamente basada en ML es la detección de anomalías. SSRS presentó en junio de 2026 un piloto con isolation forests: entrenó el detector usando su panel probabilístico como referencia y lo aplicó a muestras de participación voluntaria. El trabajo encontró mejoras en indicadores de calidad y menor variación entre proveedores; entrenar solo con la propia muestra voluntaria no produjo el mismo resultado. Es evidencia de un piloto metodológico, no una garantía para cualquier encuesta electoral. [[15]](https://ssrs.com/insights/leveraging-parallel-probability-samples-to-detect-poor-data-quality-in-opt-in-samples/)
@@ -152,8 +140,6 @@ La consecuencia práctica es combinar señales: procedencia del participante, ve
 
 # Del análisis al informe, sin perder la trazabilidad
 
-
-
 La automatización también llega a la mesa del analista. Analyze with AI, de SurveyMonkey, permite explorar resultados mediante preguntas en lenguaje natural y generar resúmenes y gráficos. [[2]](https://www.surveymonkey.com/product/features/ai/) Puede ayudar a localizar un patrón que después se compruebe en las tablas o a preparar un primer relato de resultados. En una encuesta electoral, la revisión debe conservar la base de cada porcentaje, las ponderaciones y el periodo de trabajo de campo.
 
 La trazabilidad resulta especialmente importante cuando intervienen modelos generativos: registrar versión, instrucciones, categorías y modificaciones permite investigar un cambio inesperado. También hay que controlar qué información personal se comparte con proveedores externos. AAPOR sitúa transparencia, privacidad y evaluación entre las condiciones para integrar estas herramientas responsablemente. [[1]](https://aapor.org/wp-content/uploads/2026/05/Responsible-AI-Integration-In-Survey-Research.pdf)
@@ -164,8 +150,6 @@ Una forma útil de comprobar un resultado es volver a la cadena completa: qué p
 
 # La frontera experimental: generar a los propios encuestados
 
-
-
 Existe, además, una línea que cambia la naturaleza del dato: pedir a un LLM que responda como si fuera una persona con un perfil determinado. Estos encuestados sintéticos prometen rapidez y costes reducidos, pero sus respuestas son predicciones del modelo.
 
 Pew publicó en septiembre de 2026 un experimento con «gemelos digitales» de participantes reales de su American Trends Panel. En tres olas replicadas con Claude Opus 4.6, el error absoluto medio de las distribuciones de respuestas fue de 12,4 puntos porcentuales. La cifra compara encuestas humanas y sintéticas sobre diferentes asuntos; no es un error de predicción del voto. El centro concluyó que estos modelos no constituían un sustituto adecuado de las encuestas de opinión pública evaluadas. [[17]](https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/)
@@ -175,8 +159,6 @@ La separación con los usos anteriores es fundamental. Codificar una respuesta c
 
 
 # Una encuesta mejor necesita algo más que un modelo mejor
-
-
 
 La aportación más concreta de la IA está en hacer manejable el trabajo que rodea a la medición: convertir texto en categorías, explorar perfiles, aportar predicciones auxiliares o priorizar controles de calidad. Hay herramientas disponibles y aplicaciones documentadas; otras, como ciertas entrevistas automatizadas, siguen contrastándose con métodos establecidos.
 
