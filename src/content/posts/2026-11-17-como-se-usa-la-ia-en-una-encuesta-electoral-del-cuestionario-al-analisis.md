@@ -5,7 +5,7 @@ description: La inteligencia artificial empieza a transformar distintas fases de
   respuestas hasta el control de calidad y la elaboración de resultados. Este
   artículo repasa aplicaciones reales, sus posibilidades y sus límites.
 author: Alejandro López Soria
-pubDate: 2026-11-17
+pubDate: 2026-11-18
 updatedDate: 2026-11-17
 draft: false
 legacyPath: /2026/10/31/encuestas-en-2026/
