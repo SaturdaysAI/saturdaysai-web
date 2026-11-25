@@ -1,0 +1,510 @@
+{
+  "title": "Cómo se usa la IA en una encuesta electoral: del cuestionario al análisis",
+  "route": "/2026/10/31/encuestas-en-2026/",
+  "segments": [
+    {
+      "source": "Cómo se usa la IA en una encuesta electoral: del cuestionario al análisis",
+      "en": "How AI Is Used in an Election Survey: From Questionnaire to Analysis",
+      "es": "Cómo se usa la IA en una encuesta electoral: del cuestionario al análisis",
+      "reviewed": false
+    },
+    {
+      "source": "La inteligencia artificial empieza a transformar distintas fases de las encuestas electorales, desde el diseño del cuestionario y el análisis de respuestas hasta el control de calidad y la elaboración de resultados. Este artículo repasa aplicaciones reales, sus posibilidades y sus límites.",
+      "en": "Artificial intelligence is beginning to change several stages of election polling, from questionnaire design and response analysis to quality control and reporting. This article reviews real applications, what they can do, and their limits.",
+      "es": "La inteligencia artificial empieza a transformar distintas fases de las encuestas electorales, desde el diseño del cuestionario y el análisis de respuestas hasta el control de calidad y la elaboración de resultados. Este artículo repasa aplicaciones reales, sus posibilidades y sus límites.",
+      "reviewed": false
+    },
+    {
+      "source": "Representación de la inteligencia artificial aplicada al análisis de datos y las encuestas electorales.",
+      "en": "Illustration of artificial intelligence applied to data analysis and election polling.",
+      "es": "Representación de la inteligencia artificial aplicada al análisis de datos y las encuestas electorales.",
+      "reviewed": false
+    },
+    {
+      "source": "Preparar las preguntas y conversar con el encuestado",
+      "en": "Preparing questions and talking with respondents",
+      "es": "Preparar las preguntas y conversar con el encuestado",
+      "reviewed": false
+    },
+    {
+      "source": "Convertir miles de respuestas abiertas en datos analizables",
+      "en": "Turning thousands of open-ended responses into data for analysis",
+      "es": "Convertir miles de respuestas abiertas en datos analizables",
+      "reviewed": false
+    },
+    {
+      "source": "Cuando las categorías también están por descubrir",
+      "en": "When the categories themselves have yet to be discovered",
+      "es": "Cuando las categorías también están por descubrir",
+      "reviewed": false
+    },
+    {
+      "source": "Sentimiento y segmentación: interpretar sin simplificar demasiado",
+      "en": "Sentiment and segmentation: interpreting without oversimplifying",
+      "es": "Sentimiento y segmentación: interpretar sin simplificar demasiado",
+      "reviewed": false
+    },
+    {
+      "source": "Ajustar la muestra: dónde termina la estadística y entra el ML",
+      "en": "Adjusting the sample: where statistics ends and machine learning begins",
+      "es": "Ajustar la muestra: dónde termina la estadística y entra el ML",
+      "reviewed": false
+    },
+    {
+      "source": "Separar respuestas fiables de registros sospechosos",
+      "en": "Separating reliable responses from suspicious records",
+      "es": "Separar respuestas fiables de registros sospechosos",
+      "reviewed": false
+    },
+    {
+      "source": "Del análisis al informe, sin perder la trazabilidad",
+      "en": "From analysis to reporting while preserving traceability",
+      "es": "Del análisis al informe, sin perder la trazabilidad",
+      "reviewed": false
+    },
+    {
+      "source": "La frontera experimental: generar a los propios encuestados",
+      "en": "The experimental frontier: generating the respondents themselves",
+      "es": "La frontera experimental: generar a los propios encuestados",
+      "reviewed": false
+    },
+    {
+      "source": "Una encuesta mejor necesita algo más que un modelo mejor",
+      "en": "A better survey takes more than a better model",
+      "es": "Una encuesta mejor necesita algo más que un modelo mejor",
+      "reviewed": false
+    },
+    {
+      "source": "La inteligencia artificial ya ayuda a clasificar respuestas, ajustar el trabajo con las muestras y detectar datos sospechosos. Su aportación se entiende mejor al mirar dentro de una encuesta: qué tareas resuelve, con qué herramientas y qué decisiones siguen necesitando criterio demoscópico.",
+      "en": "Artificial intelligence already helps classify responses, refine sampling work, and identify suspicious data. Its contribution is easiest to see by looking inside a survey: which tasks it handles, which tools it uses, and which decisions still require polling expertise.",
+      "es": "La inteligencia artificial ya ayuda a clasificar respuestas, ajustar el trabajo con las muestras y detectar datos sospechosos. Su aportación se entiende mejor al mirar dentro de una encuesta: qué tareas resuelve, con qué herramientas y qué decisiones siguen necesitando criterio demoscópico.",
+      "reviewed": false
+    },
+    {
+      "source": "Antes de que aparezca un porcentaje de intención de voto, alguien ha decidido a quién preguntar, cómo formular las preguntas, qué respuestas aceptar y cuánto peso dar a cada participante. Después habrá que interpretar los datos. Una encuesta electoral contiene mucho más trabajo que la pregunta «¿a quién votaría usted?».",
+      "en": "Before a voting intention figure can be reported, someone must decide whom to ask, how to phrase the questions, which responses to accept, and how much weight to give each participant. The data still have to be interpreted. An election survey involves much more than asking, “Who would you vote for?”",
+      "es": "Antes de que aparezca un porcentaje de intención de voto, alguien ha decidido a quién preguntar, cómo formular las preguntas, qué respuestas aceptar y cuánto peso dar a cada participante. Después habrá que interpretar los datos. Una encuesta electoral contiene mucho más trabajo que la pregunta «¿a quién votaría usted?».",
+      "reviewed": false
+    },
+    {
+      "source": "Es en esas tareas donde la IA está encontrando aplicaciones concretas. Un modelo puede leer miles de explicaciones sobre las preocupaciones de los ciudadanos; otro, identificar registros que se parecen poco a los de participantes fiables. También puede asistir al investigador que prepara el cuestionario o redacta los primeros resultados.",
+      "en": "These are the tasks where AI is finding practical uses. One model can read thousands of explanations of what concerns people. Another can identify records that differ markedly from those of reliable participants. AI can also assist a researcher drafting the questionnaire or writing up the initial findings.",
+      "es": "Es en esas tareas donde la IA está encontrando aplicaciones concretas. Un modelo puede leer miles de explicaciones sobre las preocupaciones de los ciudadanos; otro, identificar registros que se parecen poco a los de participantes fiables. También puede asistir al investigador que prepara el cuestionario o redacta los primeros resultados.",
+      "reviewed": false
+    },
+    {
+      "source": "Pero la adopción es desigual. A octubre de 2026 conviven aplicaciones documentadas en demoscopia electoral, herramientas disponibles para la investigación mediante encuestas y pruebas que todavía deben demostrar su validez. Distinguirlas evita atribuir a todo el sector lo que solo ha ensayado un equipo, o llamar IA a métodos estadísticos que llevan décadas funcionando. El informe de AAPOR sobre integración responsable de IA, publicado en mayo de 2026, recorre precisamente ese ciclo de trabajo y sitúa la evaluación y la supervisión humana en cada fase.",
+      "en": "Adoption varies widely. As of October 2026, there are documented applications in election polling, tools available for general survey research, and trials whose validity has yet to be demonstrated. Keeping them distinct avoids crediting the entire field with what one team has tested or labelling statistical methods that have worked for decades as AI. AAPOR's report on responsible AI integration, published in May 2026, follows this research cycle and sets out the role of evaluation and human oversight at each stage.",
+      "es": "Pero la adopción es desigual. A octubre de 2026 conviven aplicaciones documentadas en demoscopia electoral, herramientas disponibles para la investigación mediante encuestas y pruebas que todavía deben demostrar su validez. Distinguirlas evita atribuir a todo el sector lo que solo ha ensayado un equipo, o llamar IA a métodos estadísticos que llevan décadas funcionando. El informe de AAPOR sobre integración responsable de IA, publicado en mayo de 2026, recorre precisamente ese ciclo de trabajo y sitúa la evaluación y la supervisión humana en cada fase.",
+      "reviewed": false
+    },
+    {
+      "source": "El primer uso es bastante cotidiano: ayudar a construir el instrumento de medida. SurveyMonkey ofrece Build with AI, que genera un borrador de encuesta a partir de una descripción. La compañía documenta tecnología GPT para esa generación y machine learning en SurveyMonkey Genius para evaluar el cuestionario. Son funcionalidades de una plataforma de encuestas; por sí solas no acreditan que una determinada estimación electoral se haya producido con ellas.",
+      "en": "A common first use is helping to build the survey instrument. SurveyMonkey's Build with AI generates a draft survey from a description. The company documents its use of GPT for generation and of machine learning in SurveyMonkey Genius to evaluate the questionnaire. These are survey platform features. Their availability alone does not establish that any specific election estimate was produced with them.",
+      "es": "El primer uso es bastante cotidiano: ayudar a construir el instrumento de medida. SurveyMonkey ofrece Build with AI, que genera un borrador de encuesta a partir de una descripción. La compañía documenta tecnología GPT para esa generación y machine learning en SurveyMonkey Genius para evaluar el cuestionario. Son funcionalidades de una plataforma de encuestas; por sí solas no acreditan que una determinada estimación electoral se haya producido con ellas.",
+      "reviewed": false
+    },
+    {
+      "source": "El ahorro potencial está en preparar una primera versión y explorar formulaciones. La responsabilidad metodológica aparece inmediatamente después. «¿Está de acuerdo con mejorar la seguridad?» y «¿Apoya esta medida concreta de seguridad?» no miden lo mismo. Un texto fluido puede introducir una premisa, mezclar dos asuntos o desequilibrar las opciones de respuesta. Revisar el lenguaje y probar su comprensión sigue formando parte del diseño.",
+      "en": "A first draft and alternative phrasings can save time. Methodological responsibility begins as soon as those suggestions are reviewed. “Do you agree that security should be improved?” and “Do you support this specific security measure?” ask different things. Fluent wording can introduce an assumption, combine two issues, or make response options uneven. Reviewing the language and testing how people understand it remain part of the design.",
+      "es": "El ahorro potencial está en preparar una primera versión y explorar formulaciones. La responsabilidad metodológica aparece inmediatamente después. «¿Está de acuerdo con mejorar la seguridad?» y «¿Apoya esta medida concreta de seguridad?» no miden lo mismo. Un texto fluido puede introducir una premisa, mezclar dos asuntos o desequilibrar las opciones de respuesta. Revisar el lenguaje y probar su comprensión sigue formando parte del diseño.",
+      "reviewed": false
+    },
+    {
+      "source": "La traducción plantea una dificultad parecida: una versión gramaticalmente correcta puede cambiar el significado político de una pregunta entre idiomas. El informe de AAPOR contempla la traducción asistida, pero mantiene la necesidad de revisión especializada. Aquí un gran modelo de lenguaje (LLM) ayuda a producir y comparar borradores; la equivalencia de la medición requiere comprobaciones adicionales.",
+      "en": "Translation poses a similar problem. A grammatically correct version can change a question's political meaning across languages. AAPOR's report covers assisted translation and calls for specialist review. A large language model (LLM) can produce and compare drafts. Measurement equivalence requires further checks.",
+      "es": "La traducción plantea una dificultad parecida: una versión gramaticalmente correcta puede cambiar el significado político de una pregunta entre idiomas. El informe de AAPOR contempla la traducción asistida, pero mantiene la necesidad de revisión especializada. Aquí un gran modelo de lenguaje (LLM) ayuda a producir y comparar borradores; la equivalencia de la medición requiere comprobaciones adicionales.",
+      "reviewed": false
+    },
+    {
+      "source": "También hay herramientas que intervienen durante la respuesta. Conversational Feedback, de Qualtrics, genera repreguntas a partir de un texto abierto para solicitar detalles o aclaraciones. Si alguien escribe «la vivienda», por ejemplo, una aclaración podría distinguir precio, disponibilidad o condiciones del alquiler. Es una capacidad comercial de investigación mediante encuestas, no evidencia de uso rutinario en sondeos electorales.",
+      "en": "Some tools operate while the respondent is answering. Qualtrics' Conversational Feedback generates follow-up questions from an open-ended response to ask for details or clarification. If someone writes “housing,” a prompt could ask whether they mean the cost, availability, or terms of rental housing. This is a commercial survey research feature. Its availability does not establish routine use in election polling.",
+      "es": "También hay herramientas que intervienen durante la respuesta. Conversational Feedback, de Qualtrics, genera repreguntas a partir de un texto abierto para solicitar detalles o aclaraciones. Si alguien escribe «la vivienda», por ejemplo, una aclaración podría distinguir precio, disponibilidad o condiciones del alquiler. Es una capacidad comercial de investigación mediante encuestas, no evidencia de uso rutinario en sondeos electorales.",
+      "reviewed": false
+    },
+    {
+      "source": "Para una encuesta política, esa conversación añade una decisión delicada: cuánto puede variar la repregunta entre participantes sin cambiar aquello que se está midiendo. Conviene conservar tanto la pregunta generada como la respuesta y evaluar si algunos perfiles reciben estímulos diferentes.",
+      "en": "For a political survey, this introduces a delicate decision about how much a follow-up question can vary between participants before it changes what is being measured. It is useful to keep both the generated prompt and the response, and to check whether some groups receive different prompts.",
+      "es": "Para una encuesta política, esa conversación añade una decisión delicada: cuánto puede variar la repregunta entre participantes sin cambiar aquello que se está midiendo. Conviene conservar tanto la pregunta generada como la respuesta y evaluar si algunos perfiles reciben estímulos diferentes.",
+      "reviewed": false
+    },
+    {
+      "source": "La voz va un paso más lejos. En febrero de 2026, Gallup anunció investigación sobre entrevistadores telefónicos con IA: había realizado pruebas en cuatro continentes y siete idiomas, con más de medio millón de intentos de llamada, que no equivalen a entrevistas completadas. Estos sistemas combinan reconocimiento de voz, interpretación de respuestas y voz sintética para conducir una conversación siguiendo un cuestionario.",
+      "en": "Voice takes this a step further. In February 2026, Gallup announced research on AI phone interviewers. It had tested them on four continents and in seven languages, with more than half a million call attempts. Call attempts differ from completed interviews. These systems combine speech recognition, response interpretation, and synthetic speech to conduct a conversation that follows a questionnaire.",
+      "es": "La voz va un paso más lejos. En febrero de 2026, Gallup anunció investigación sobre entrevistadores telefónicos con IA: había realizado pruebas en cuatro continentes y siete idiomas, con más de medio millón de intentos de llamada, que no equivalen a entrevistas completadas. Estos sistemas combinan reconocimiento de voz, interpretación de respuestas y voz sintética para conducir una conversación siguiendo un cuestionario.",
+      "reviewed": false
+    },
+    {
+      "source": "Gallup lo presenta como investigación metodológica. Importan la comprensión de acentos, las interrupciones, la latencia y la disposición a contestar. Una entrevista puede funcionar técnicamente y, aun así, atraer a personas distintas de las que aceptarían hablar con un entrevistador humano. Esa diferencia afectaría a la muestra antes de empezar el análisis.",
+      "en": "Gallup presents this as methodological research. Accent comprehension, interruptions, latency, and willingness to respond all matter. A technically successful interview can still attract different people from those who would agree to speak with a human interviewer. That difference would affect the sample before analysis begins.",
+      "es": "Gallup lo presenta como investigación metodológica. Importan la comprensión de acentos, las interrupciones, la latencia y la disposición a contestar. Una entrevista puede funcionar técnicamente y, aun así, atraer a personas distintas de las que aceptarían hablar con un entrevistador humano. Esa diferencia afectaría a la muestra antes de empezar el análisis.",
+      "reviewed": false
+    },
+    {
+      "source": "«¿Cuál es el principal problema del país?» parece una pregunta sencilla hasta que llegan miles de respuestas distintas. Unas dicen «no llego a fin de mes»; otras, «los alquileres» o «todo está demasiado caro». Para contar temas hay que establecer categorías y asignarlas de manera consistente. Es lo que se conoce como codificación.",
+      "en": "“What is the most important issue facing the country?” sounds simple until thousands of different answers arrive. Some people say “I can't make ends meet,” others say “rent,” and others say “everything is too expensive.” Counting themes requires defining categories and assigning responses consistently. This is known as coding.",
+      "es": "«¿Cuál es el principal problema del país?» parece una pregunta sencilla hasta que llegan miles de respuestas distintas. Unas dicen «no llego a fin de mes»; otras, «los alquileres» o «todo está demasiado caro». Para contar temas hay que establecer categorías y asignarlas de manera consistente. Es lo que se conoce como codificación.",
+      "reviewed": false
+    },
+    {
+      "source": "El procesamiento del lenguaje natural, o NLP, ofrece varias rutas. En el aprendizaje supervisado, un clasificador aprende a partir de respuestas que ya tienen una etiqueta humana. Un LLM puede recibir el listado de categorías, sus definiciones y unos ejemplos en el prompt, sin entrenar un modelo nuevo para ese estudio. Ambas opciones necesitan una referencia con la que comprobar si clasifican correctamente.",
+      "en": "Natural language processing, or NLP, offers several approaches. In supervised learning, a classifier learns from responses that humans have already labelled. An LLM can be given the list of categories, their definitions, and some examples in its prompt, without training a new model for the study. Both approaches need a reference against which to check the classifications.",
+      "es": "El procesamiento del lenguaje natural, o NLP, ofrece varias rutas. En el aprendizaje supervisado, un clasificador aprende a partir de respuestas que ya tienen una etiqueta humana. Un LLM puede recibir el listado de categorías, sus definiciones y unos ejemplos en el prompt, sin entrenar un modelo nuevo para ese estudio. Ambas opciones necesitan una referencia con la que comprobar si clasifican correctamente.",
+      "reviewed": false
+    },
+    {
+      "source": "Un ejemplo electoral concreto procede del British Election Study. Jonathan Mellon y sus coautores compararon seis LLM, varios métodos supervisados y un segundo codificador humano para clasificar respuestas sobre el problema más importante del país en 50 categorías. El artículo se publicó en 2024. En la prueba con textos nuevos de una pregunta ya existente, Claude-1.3 alcanzó un 80,9 % de coincidencia con las etiquetas originales; el segundo humano, un 88,6 %; y DistilRoBERTa, entrenado con unas 576.000 respuestas, un 77,8 %.",
+      "en": "One example from election research comes from the British Election Study. Jonathan Mellon and his co-authors compared six LLMs, several supervised methods, and a second human coder at classifying answers about the country's most important issue into 50 categories. The article was published in 2024. On new responses to an existing question, Claude-1.3 agreed with the original labels 80.9% of the time. Agreement was 88.6% for the second human coder and 77.8% for DistilRoBERTa, which had been trained on about 576,000 responses.",
+      "es": "Un ejemplo electoral concreto procede del British Election Study. Jonathan Mellon y sus coautores compararon seis LLM, varios métodos supervisados y un segundo codificador humano para clasificar respuestas sobre el problema más importante del país en 50 categorías. El artículo se publicó en 2024. En la prueba con textos nuevos de una pregunta ya existente, Claude-1.3 alcanzó un 80,9 % de coincidencia con las etiquetas originales; el segundo humano, un 88,6 %; y DistilRoBERTa, entrenado con unas 576.000 respuestas, un 77,8 %.",
+      "reviewed": false
+    },
+    {
+      "source": "La métrica mide acuerdo con unas etiquetas: tampoco los codificadores humanos coinciden siempre. El estudio evalúa una técnica sobre datos electorales reales; no demuestra su implantación habitual en el British Election Study.",
+      "en": "The metric measures agreement with a set of labels. Human coders also sometimes disagree. The study evaluates a technique on real election survey data. It does not establish routine use in the British Election Study.",
+      "es": "La métrica mide acuerdo con unas etiquetas: tampoco los codificadores humanos coinciden siempre. El estudio evalúa una técnica sobre datos electorales reales; no demuestra su implantación habitual en el British Election Study.",
+      "reviewed": false
+    },
+    {
+      "source": "En ocasiones, el problema empieza antes: todavía no sabemos qué categorías utilizar. Aquí entran los embeddings, representaciones numéricas del texto que permiten trabajar con semejanzas de significado. «No puedo pagar el alquiler» y «la vivienda está imposible» pueden quedar próximas aunque compartan pocas palabras. Esa geometría es útil para explorar; no convierte automáticamente una semejanza lingüística en una categoría válida de investigación.",
+      "en": "Sometimes the problem starts earlier because the categories are still unknown. Embeddings are numerical representations of text that let researchers work with similarities in meaning. “I can't afford the rent” and “housing is impossible” can appear close even if they share few words. This geometry is useful for exploration. Turning linguistic similarity into a valid research category still requires judgement.",
+      "es": "En ocasiones, el problema empieza antes: todavía no sabemos qué categorías utilizar. Aquí entran los embeddings, representaciones numéricas del texto que permiten trabajar con semejanzas de significado. «No puedo pagar el alquiler» y «la vivienda está imposible» pueden quedar próximas aunque compartan pocas palabras. Esa geometría es útil para explorar; no convierte automáticamente una semejanza lingüística en una categoría válida de investigación.",
+      "reviewed": false
+    },
+    {
+      "source": "Una aplicación operativa reciente está en la metodología de Pew Research Center sobre comunidades online, publicada el 14 de octubre de 2026. Es una encuesta social, no electoral, pero documenta el proceso completo: 3.635 respuestas, embeddings de text-embedding-3-small, un sparse autoencoder para descubrir rasgos recurrentes y GPT-5.2 para interpretar posibles temas. Los investigadores revisaron las categorías y el mismo LLM clasificó después las respuestas en 17 grupos.",
+      "en": "A recent operational application appears in Pew Research Center's methodology for a study on online communities, published on October 14, 2026. It is a social survey rather than an election poll and documents the full process: 3,635 responses, embeddings from text-embedding-3-small, a sparse autoencoder to discover recurring features, and GPT-5.2 to interpret potential themes. Researchers reviewed the categories, after which the same LLM classified the responses into 17 groups.",
+      "es": "Una aplicación operativa reciente está en la metodología de Pew Research Center sobre comunidades online, publicada el 14 de octubre de 2026. Es una encuesta social, no electoral, pero documenta el proceso completo: 3.635 respuestas, embeddings de text-embedding-3-small, un sparse autoencoder para descubrir rasgos recurrentes y GPT-5.2 para interpretar posibles temas. Los investigadores revisaron las categorías y el mismo LLM clasificó después las respuestas en 17 grupos.",
+      "reviewed": false
+    },
+    {
+      "source": "Un sparse autoencoder aprende a reconstruir las representaciones usando pocos rasgos activos en cada caso. Se busca que esos rasgos resulten interpretables al examinar los textos que los activan. El método HypotheSAEs, de Rajiv Movva y sus coautores, combina estas representaciones con interpretaciones en lenguaje natural generadas por un LLM. Sus aplicaciones de investigación incluyen diferencias partidistas en discursos del Congreso estadounidense. No es simplemente pedirle a un chatbot que resuma un montón de textos.",
+      "en": "A sparse autoencoder learns to reconstruct representations using only a few active features for each example. The aim is to make those features interpretable by examining the texts that activate them. HypotheSAEs, a method by Rajiv Movva and his co-authors, combines these representations with natural-language explanations generated by an LLM. Its research applications include partisan differences in speeches in the US Congress. The method goes beyond asking a chatbot to summarise a collection of texts.",
+      "es": "Un sparse autoencoder aprende a reconstruir las representaciones usando pocos rasgos activos en cada caso. Se busca que esos rasgos resulten interpretables al examinar los textos que los activan. El método HypotheSAEs, de Rajiv Movva y sus coautores, combina estas representaciones con interpretaciones en lenguaje natural generadas por un LLM. Sus aplicaciones de investigación incluyen diferencias partidistas en discursos del Congreso estadounidense. No es simplemente pedirle a un chatbot que resuma un montón de textos.",
+      "reviewed": false
+    },
+    {
+      "source": "Pew contrastó la clasificación con codificación humana: tomó una muestra estratificada de 210 respuestas, complementada con respuestas aleatorias. Tras ajustes, obtuvo un micro-F1 de 0,86 y realizó revisiones humanas finales.",
+      "en": "Pew checked its classification against human coding. It took a stratified sample of 210 responses and supplemented it with randomly selected responses. After adjustments, it obtained a micro-F1 score of 0.86 and performed final human reviews.",
+      "es": "Pew contrastó la clasificación con codificación humana: tomó una muestra estratificada de 210 respuestas, complementada con respuestas aleatorias. Tras ajustes, obtuvo un micro-F1 de 0,86 y realizó revisiones humanas finales.",
+      "reviewed": false
+    },
+    {
+      "source": "F1 combina precisión y exhaustividad; la variante micro agrega los casos de todas las categorías. Describe el comportamiento del clasificador en esa validación, no la exactitud de una estimación electoral.",
+      "en": "F1 combines precision and recall. The micro variant pools cases across all categories. It describes how the classifier performed in that validation exercise and does not measure the accuracy of an election estimate.",
+      "es": "F1 combina precisión y exhaustividad; la variante micro agrega los casos de todas las categorías. Describe el comportamiento del clasificador en esa validación, no la exactitud de una estimación electoral.",
+      "reviewed": false
+    },
+    {
+      "source": "En una aplicación política, convendría mirar también cada categoría: un buen resultado global puede ocultar fallos en un tema poco frecuente. La ganancia práctica consiste en concentrar la revisión humana donde hay más ambigüedad, manteniendo un código de clasificación explícito y reproducible.",
+      "en": "For a political application, results should also be examined for each category. A good overall score can hide errors on an uncommon topic. The practical benefit is to concentrate human review where ambiguity is greatest while maintaining an explicit and reproducible coding scheme.",
+      "es": "En una aplicación política, convendría mirar también cada categoría: un buen resultado global puede ocultar fallos en un tema poco frecuente. La ganancia práctica consiste en concentrar la revisión humana donde hay más ambigüedad, manteniendo un código de clasificación explícito y reproducible.",
+      "reviewed": false
+    },
+    {
+      "source": "Clasificar un tema y detectar un sentimiento resuelven problemas diferentes. «Me preocupa que gane este partido» contiene una emoción negativa, pero identificar su orientación política exige saber a qué partido se refiere, quién habla y qué está evaluando. Un contador de textos positivos y negativos no entrega por sí mismo una estimación de voto.",
+      "en": "Topic classification and sentiment detection address different problems. “I'm worried this party will win” expresses negative emotion, but identifying its political orientation requires knowing which party is meant, who is speaking, and what they are evaluating. Counting positive and negative texts by itself yields no estimate of voting intention.",
+      "es": "Clasificar un tema y detectar un sentimiento resuelven problemas diferentes. «Me preocupa que gane este partido» contiene una emoción negativa, pero identificar su orientación política exige saber a qué partido se refiere, quién habla y qué está evaluando. Un contador de textos positivos y negativos no entrega por sí mismo una estimación de voto.",
+      "reviewed": false
+    },
+    {
+      "source": "Las plataformas ofrecen análisis automático de sentimiento —SurveyMonkey, por ejemplo, distingue positivo, neutral y negativo—, pero esa funcionalidad no acredita que sea una pieza habitual de la estimación electoral.",
+      "en": "Platforms offer automated sentiment analysis. SurveyMonkey, for example, distinguishes between positive, neutral, and negative responses. That feature's existence does not establish sentiment analysis as a regular part of election estimation.",
+      "es": "Las plataformas ofrecen análisis automático de sentimiento —SurveyMonkey, por ejemplo, distingue positivo, neutral y negativo—, pero esa funcionalidad no acredita que sea una pieza habitual de la estimación electoral.",
+      "reviewed": false
+    },
+    {
+      "source": "La ironía, los dobles sentidos y las posiciones ambivalentes exigen validación contextual.",
+      "en": "Irony, double meanings, and mixed views require validation in context.",
+      "es": "La ironía, los dobles sentidos y las posiciones ambivalentes exigen validación contextual.",
+      "reviewed": false
+    },
+    {
+      "source": "Langer Research Associates aporta un contrapunto útil. En un piloto realizado en verano de 2025 con Claude Opus 4 y respuestas de la Texas Education Poll de 2024, encontró problemas de interpretación y codificación, incluidos errores de tono y dirección de la opinión. No era una encuesta de intención de voto ni una prueba de todos los modelos disponibles. Sí ilustra por qué la apariencia razonable de una etiqueta no basta para aceptarla.",
+      "en": "Langer Research Associates provides a useful counterexample. In a summer 2025 pilot with Claude Opus 4 and responses from the 2024 Texas Education Poll, it found interpretation and coding problems, including errors in the tone and direction of opinion. The pilot concerned an education poll and tested one model. It illustrates why a plausible-looking label still needs review.",
+      "es": "Langer Research Associates aporta un contrapunto útil. En un piloto realizado en verano de 2025 con Claude Opus 4 y respuestas de la Texas Education Poll de 2024, encontró problemas de interpretación y codificación, incluidos errores de tono y dirección de la opinión. No era una encuesta de intención de voto ni una prueba de todos los modelos disponibles. Sí ilustra por qué la apariencia razonable de una etiqueta no basta para aceptarla.",
+      "reviewed": false
+    },
+    {
+      "source": "Una vez codificados los datos, otra pregunta es qué grupos de ciudadanos comparten posiciones. El clustering agrupa casos según sus semejanzas sin necesitar una etiqueta previa: es aprendizaje no supervisado, aunque muchos de sus métodos pertenecen también a una larga tradición estadística. No todo análisis de segmentos constituye una incorporación reciente de IA.",
+      "en": "Once the data have been coded, a further question is which groups of people hold similar views. Clustering groups cases by similarity without requiring prior labels. It is a form of unsupervised learning, and many clustering methods also belong to a long statistical tradition. Segment analysis has been used for years, including before recent AI developments.",
+      "es": "Una vez codificados los datos, otra pregunta es qué grupos de ciudadanos comparten posiciones. El clustering agrupa casos según sus semejanzas sin necesitar una etiqueta previa: es aprendizaje no supervisado, aunque muchos de sus métodos pertenecen también a una larga tradición estadística. No todo análisis de segmentos constituye una incorporación reciente de IA.",
+      "reviewed": false
+    },
+    {
+      "source": "La tipología política de Pew de 2021, un antecedente metodológico, empleó agrupamiento alrededor de medoides con ponderaciones para construir nueve grupos a partir de 27 preguntas de actitudes. Un medoide es un caso representativo del grupo; ayuda a organizar perfiles semejantes sin exigir que coincidan con los partidos.",
+      "en": "Pew's 2021 political typology provides a methodological precedent. It used weighted clustering around medoids to build nine groups from 27 questions on attitudes. A medoid is a representative case within a group. It helps organise similar profiles without requiring them to align with political parties.",
+      "es": "La tipología política de Pew de 2021, un antecedente metodológico, empleó agrupamiento alrededor de medoides con ponderaciones para construir nueve grupos a partir de 27 preguntas de actitudes. Un medoide es un caso representativo del grupo; ayuda a organizar perfiles semejantes sin exigir que coincidan con los partidos.",
+      "reviewed": false
+    },
+    {
+      "source": "Los grupos obtenidos dependen de qué preguntas se incluyen, cómo se mide la distancia y cuántos grupos se buscan. Pueden revelar combinaciones interesantes —por ejemplo, posiciones económicas y culturales que no encajan en un único eje—, pero no prueban que existan nueve tipos naturales e inmutables de votantes. Tampoco explican por sí solos por qué alguien cambia su voto.",
+      "en": "The groups depend on the questions included, how distance is measured, and how many groups are sought. They may reveal interesting combinations, such as economic and cultural views that do not fit a single axis. The result does not establish nine fixed types of voter or explain on its own why someone changes their vote.",
+      "es": "Los grupos obtenidos dependen de qué preguntas se incluyen, cómo se mide la distancia y cuántos grupos se buscan. Pueden revelar combinaciones interesantes —por ejemplo, posiciones económicas y culturales que no encajan en un único eje—, pero no prueban que existan nueve tipos naturales e inmutables de votantes. Tampoco explican por sí solos por qué alguien cambia su voto.",
+      "reviewed": false
+    },
+    {
+      "source": "Una muestra puede tener demasiados participantes de un perfil y pocos de otro. La ponderación asigna pesos para acercar su composición a referencias poblacionales. Técnicas como el ajuste iterativo de márgenes, conocido como raking, son estadística. Usar un ordenador para calcularlas no las transforma en IA.",
+      "en": "A sample can contain too many participants with one profile and too few with another. Weighting moves its composition closer to population benchmarks. Techniques such as iterative proportional fitting, also known as raking, are statistical. Computing them on a computer leaves their statistical nature unchanged.",
+      "es": "Una muestra puede tener demasiados participantes de un perfil y pocos de otro. La ponderación asigna pesos para acercar su composición a referencias poblacionales. Técnicas como el ajuste iterativo de márgenes, conocido como raking, son estadística. Usar un ordenador para calcularlas no las transforma en IA.",
+      "reviewed": false
+    },
+    {
+      "source": "Algo parecido ocurre con MRP, la regresión multinivel y postestratificación. YouGov explica en su metodología británica de marzo de 2026 que utiliza este enfoque para estimar intención de voto: modeliza diferencias entre perfiles y las combina con la composición de la población. Su estimación de participación emplea principalmente información demográfica y sobre participación pasada. Esa descripción no autoriza a rebautizar el procedimiento como aprendizaje automático.",
+      "en": "The same applies to MRP, multilevel regression and poststratification. YouGov's March 2026 UK methodology explains that it uses this approach to estimate voting intention. It models differences between profiles and combines those estimates with the composition of the population. Its turnout estimate uses chiefly demographic information and past participation. The described method should still be identified by its statistical name.",
+      "es": "Algo parecido ocurre con MRP, la regresión multinivel y postestratificación. YouGov explica en su metodología británica de marzo de 2026 que utiliza este enfoque para estimar intención de voto: modeliza diferencias entre perfiles y las combina con la composición de la población. Su estimación de participación emplea principalmente información demográfica y sobre participación pasada. Esa descripción no autoriza a rebautizar el procedimiento como aprendizaje automático.",
+      "reviewed": false
+    },
+    {
+      "source": "Tampoco todos los modelos de likely voters, que intentan delimitar quién probablemente votará, son IA. La metodología política de Ipsos en Reino Unido, actualizada en junio de 2024, describe filtros basados en la certeza declarada de acudir a votar y el comportamiento habitual. Son decisiones de modelización de la participación; que produzcan un porcentaje o una puntuación no basta para llamarlas machine learning.",
+      "en": "Likely voter models aim to identify who is likely to vote. Some use conventional methods. Ipsos' UK political polling methodology, updated in June 2024, describes filters based on respondents' stated certainty of voting and their usual behaviour. These are turnout modelling choices. Producing a score or a percentage does not by itself make them machine learning.",
+      "es": "Tampoco todos los modelos de likely voters, que intentan delimitar quién probablemente votará, son IA. La metodología política de Ipsos en Reino Unido, actualizada en junio de 2024, describe filtros basados en la certeza declarada de acudir a votar y el comportamiento habitual. Son decisiones de modelización de la participación; que produzcan un porcentaje o una puntuación no basta para llamarlas machine learning.",
+      "reviewed": false
+    },
+    {
+      "source": "Sí existe un uso electoral documentado de ML en SSRS. La empresa describe modelos que predicen la afiliación partidista de personas vinculadas a una dirección y utiliza esa información para estratificar muestras y ponderar resultados. Combina información de registros electorales y comerciales con datos geográficos y electorales. La predicción añade una variable auxiliar que puede ayudar a gestionar desequilibrios partidistas en quién responde.",
+      "en": "SSRS documents a use of machine learning in election polling. It describes models predicting the party affiliation of people associated with an address and uses that information to stratify samples and weight results. It combines voter and commercial records with geographic and electoral data. The prediction supplies an auxiliary variable that can help manage partisan imbalances in who responds.",
+      "es": "Sí existe un uso electoral documentado de ML en SSRS. La empresa describe modelos que predicen la afiliación partidista de personas vinculadas a una dirección y utiliza esa información para estratificar muestras y ponderar resultados. Combina información de registros electorales y comerciales con datos geográficos y electorales. La predicción añade una variable auxiliar que puede ayudar a gestionar desequilibrios partidistas en quién responde.",
+      "reviewed": false
+    },
+    {
+      "source": "La distinción técnica importa: el ML estima una característica; el diseño muestral o el ajuste estadístico utiliza después esa estimación. SSRS no publica en esa página la arquitectura del modelo ni una mejora cuantificada atribuible exclusivamente a él. Por tanto, hay evidencia del uso, pero no una demostración pública suficiente para afirmar cuánto reduce el error electoral.",
+      "en": "The technical distinction matters. Machine learning estimates a characteristic, and the sampling design or statistical adjustment then uses that estimate. SSRS does not disclose the model architecture or a quantified improvement attributable to it alone on that page. The page documents use of the method. How much it reduces polling error remains undetermined from the public evidence.",
+      "es": "La distinción técnica importa: el ML estima una característica; el diseño muestral o el ajuste estadístico utiliza después esa estimación. SSRS no publica en esa página la arquitectura del modelo ni una mejora cuantificada atribuible exclusivamente a él. Por tanto, hay evidencia del uso, pero no una demostración pública suficiente para afirmar cuánto reduce el error electoral.",
+      "reviewed": false
+    },
+    {
+      "source": "La misma cautela se aplica a los datos ausentes. En la tipología de Pew citada antes se empleó imputación múltiple con predictive mean matching mediante el paquete mice de R. Es una técnica estadística para tratar información incompleta, no un caso de IA generativa.",
+      "en": "The same caution applies to missing data. The Pew typology cited above used multiple imputation with predictive mean matching through the mice package for R. This is a statistical technique for handling incomplete information rather than a use of generative AI.",
+      "es": "La misma cautela se aplica a los datos ausentes. En la tipología de Pew citada antes se empleó imputación múltiple con predictive mean matching mediante el paquete mice de R. Es una técnica estadística para tratar información incompleta, no un caso de IA generativa.",
+      "reviewed": false
+    },
+    {
+      "source": "Imputar tampoco significa haber preguntado de nuevo al participante: incorpora supuestos y una incertidumbre que el análisis debe reconocer.",
+      "en": "Imputation relies on assumptions rather than a new answer from the participant. This introduces uncertainty that the analysis should account for.",
+      "es": "Imputar tampoco significa haber preguntado de nuevo al participante: incorpora supuestos y una incertidumbre que el análisis debe reconocer.",
+      "reviewed": false
+    },
+    {
+      "source": "El límite de fondo permanece. Un modelo puede aprender relaciones entre variables disponibles, pero no garantiza corregir una diferencia relevante que no se haya observado. Si las personas que rechazan participar piensan distinto incluso dentro de los perfiles utilizados para ajustar, disponer de un algoritmo más complejo no elimina automáticamente ese sesgo.",
+      "en": "A model can learn relationships among available variables. An important unobserved difference can still bias the results. If people who decline to participate think differently even within the groups used for adjustment, a more complex algorithm cannot automatically remove that bias.",
+      "es": "El límite de fondo permanece. Un modelo puede aprender relaciones entre variables disponibles, pero no garantiza corregir una diferencia relevante que no se haya observado. Si las personas que rechazan participar piensan distinto incluso dentro de los perfiles utilizados para ajustar, disponer de un algoritmo más complejo no elimina automáticamente ese sesgo.",
+      "reviewed": false
+    },
+    {
+      "source": "En una encuesta online también hay que decidir qué datos merecen confianza. Qualtrics integra detección de bots mediante reCAPTCHA y proporciona una puntuación que puede emplearse para señalar registros o configurar reglas. La documentación incluye controles de duplicados y otras comprobaciones. Conviene separar esas capas: una regla de cookies o direcciones IP no es, por sí misma, IA.",
+      "en": "Online survey research also involves deciding which data to trust. Qualtrics integrates bot detection with reCAPTCHA and provides a score that can flag records or inform rules. Its documentation covers duplicate detection and other checks. Keep these layers distinct. A cookie or IP address rule is a conventional check in its own right.",
+      "es": "En una encuesta online también hay que decidir qué datos merecen confianza. Qualtrics integra detección de bots mediante reCAPTCHA y proporciona una puntuación que puede emplearse para señalar registros o configurar reglas. La documentación incluye controles de duplicados y otras comprobaciones. Conviene separar esas capas: una regla de cookies o direcciones IP no es, por sí misma, IA.",
+      "reviewed": false
+    },
+    {
+      "source": "Una vía específicamente basada en ML es la detección de anomalías. SSRS presentó en junio de 2026 un piloto con isolation forests: entrenó el detector usando su panel probabilístico como referencia y lo aplicó a muestras de participación voluntaria. El trabajo encontró mejoras en indicadores de calidad y menor variación entre proveedores; entrenar solo con la propia muestra voluntaria no produjo el mismo resultado. Es evidencia de un piloto metodológico, no una garantía para cualquier encuesta electoral.",
+      "en": "Machine learning also offers anomaly detection. In June 2026, SSRS presented an isolation forest pilot. It trained the detector using its probability panel as a reference and applied it to opt-in samples. The pilot found improvements in quality indicators and less variation across providers. Training only on the opt-in sample did not yield the same result. These findings come from a methodological pilot and do not guarantee results for every election survey.",
+      "es": "Una vía específicamente basada en ML es la detección de anomalías. SSRS presentó en junio de 2026 un piloto con isolation forests: entrenó el detector usando su panel probabilístico como referencia y lo aplicó a muestras de participación voluntaria. El trabajo encontró mejoras en indicadores de calidad y menor variación entre proveedores; entrenar solo con la propia muestra voluntaria no produjo el mismo resultado. Es evidencia de un piloto metodológico, no una garantía para cualquier encuesta electoral.",
+      "reviewed": false
+    },
+    {
+      "source": "Isolation forest identifica observaciones que resultan relativamente fáciles de aislar al dividir repetidamente los datos. La intuición es buscar combinaciones inusuales, no adivinar quién «parece humano» al leer una frase. Aun así, ser infrecuente no significa ser fraudulento. Eliminar automáticamente casos raros puede borrar opiniones minoritarias reales. El umbral y las variables necesitan validación.",
+      "en": "An isolation forest identifies observations that are relatively easy to isolate by repeatedly splitting the data. It looks for unusual combinations rather than judging whether a sentence sounds human. An uncommon response may still be genuine. Automatically dropping rare cases can erase real minority views. Thresholds and input variables need validation.",
+      "es": "Isolation forest identifica observaciones que resultan relativamente fáciles de aislar al dividir repetidamente los datos. La intuición es buscar combinaciones inusuales, no adivinar quién «parece humano» al leer una frase. Aun así, ser infrecuente no significa ser fraudulento. Eliminar automáticamente casos raros puede borrar opiniones minoritarias reales. El umbral y las variables necesitan validación.",
+      "reviewed": false
+    },
+    {
+      "source": "La IA también hace más difícil el control. En un estudio publicado en PNAS en 2025, Sean J. Westwood construyó un agente capaz de superar el 99,8 % de los controles de atención evaluados. El resultado muestra que responder correctamente a esas pruebas ya no basta para acreditar participación humana; no mide qué porcentaje de las encuestas actuales está contaminado.",
+      "en": "AI can also make quality control harder. In a 2025 study in PNAS, Sean J. Westwood built an agent that passed 99.8% of the attention checks evaluated. Passing those checks alone is insufficient to establish that a respondent is human. The study does not estimate how many current surveys are affected.",
+      "es": "La IA también hace más difícil el control. En un estudio publicado en PNAS en 2025, Sean J. Westwood construyó un agente capaz de superar el 99,8 % de los controles de atención evaluados. El resultado muestra que responder correctamente a esas pruebas ya no basta para acreditar participación humana; no mide qué porcentaje de las encuestas actuales está contaminado.",
+      "reviewed": false
+    },
+    {
+      "source": "La consecuencia práctica es combinar señales: procedencia del participante, verificación del reclutamiento, duplicados, comportamiento durante la sesión y coherencia de las respuestas. Un texto bien escrito puede ser artificial y una respuesta torpe puede ser humana. Del mismo modo, una alerta automática debe interpretarse como evidencia para revisar, no como una sentencia.",
+      "en": "In practice it helps to combine signals, including where the participant came from, recruitment verification, duplicates, behaviour during the session, and response consistency. A polished answer can be artificial and an awkward one can be human. An automated flag should prompt a review before a decision is made.",
+      "es": "La consecuencia práctica es combinar señales: procedencia del participante, verificación del reclutamiento, duplicados, comportamiento durante la sesión y coherencia de las respuestas. Un texto bien escrito puede ser artificial y una respuesta torpe puede ser humana. Del mismo modo, una alerta automática debe interpretarse como evidencia para revisar, no como una sentencia.",
+      "reviewed": false
+    },
+    {
+      "source": "La automatización también llega a la mesa del analista. Analyze with AI, de SurveyMonkey, permite explorar resultados mediante preguntas en lenguaje natural y generar resúmenes y gráficos.",
+      "en": "Automation also reaches the analyst's desk. SurveyMonkey's Analyze with AI lets users explore results through natural-language questions and generate summaries and charts.",
+      "es": "La automatización también llega a la mesa del analista. Analyze with AI, de SurveyMonkey, permite explorar resultados mediante preguntas en lenguaje natural y generar resúmenes y gráficos.",
+      "reviewed": false
+    },
+    {
+      "source": "Puede ayudar a localizar un patrón que después se compruebe en las tablas o a preparar un primer relato de resultados. En una encuesta electoral, la revisión debe conservar la base de cada porcentaje, las ponderaciones y el periodo de trabajo de campo.",
+      "en": "It can help identify a pattern to check in the tables or draft an initial account of the results. When reviewing an election survey, keep track of the base for each percentage, the weights, and the fieldwork period.",
+      "es": "Puede ayudar a localizar un patrón que después se compruebe en las tablas o a preparar un primer relato de resultados. En una encuesta electoral, la revisión debe conservar la base de cada porcentaje, las ponderaciones y el periodo de trabajo de campo.",
+      "reviewed": false
+    },
+    {
+      "source": "La trazabilidad resulta especialmente importante cuando intervienen modelos generativos: registrar versión, instrucciones, categorías y modificaciones permite investigar un cambio inesperado. También hay que controlar qué información personal se comparte con proveedores externos. AAPOR sitúa transparencia, privacidad y evaluación entre las condiciones para integrar estas herramientas responsablemente.",
+      "en": "Traceability is especially important with generative models. Recording versions, instructions, categories, and modifications makes unexpected changes easier to investigate. Researchers also need to control what personal information they share with external providers. AAPOR identifies transparency, privacy, and evaluation as conditions for integrating these tools responsibly.",
+      "es": "La trazabilidad resulta especialmente importante cuando intervienen modelos generativos: registrar versión, instrucciones, categorías y modificaciones permite investigar un cambio inesperado. También hay que controlar qué información personal se comparte con proveedores externos. AAPOR sitúa transparencia, privacidad y evaluación entre las condiciones para integrar estas herramientas responsablemente.",
+      "reviewed": false
+    },
+    {
+      "source": "Una forma útil de comprobar un resultado es volver a la cadena completa: qué pregunta recibió la persona, qué respondió, cómo se codificó y qué transformación produjo la cifra publicada. Si el sistema solo entrega una conclusión convincente, pero no permite reconstruir esos pasos, la velocidad del informe aporta poco a su credibilidad.",
+      "en": "To check a result, trace the full chain from the question a person received to their response, how it was coded, and the transformation that produced the published figure. A convincing conclusion delivered quickly adds little credibility if the system leaves those steps impossible to reconstruct.",
+      "es": "Una forma útil de comprobar un resultado es volver a la cadena completa: qué pregunta recibió la persona, qué respondió, cómo se codificó y qué transformación produjo la cifra publicada. Si el sistema solo entrega una conclusión convincente, pero no permite reconstruir esos pasos, la velocidad del informe aporta poco a su credibilidad.",
+      "reviewed": false
+    },
+    {
+      "source": "Existe, además, una línea que cambia la naturaleza del dato: pedir a un LLM que responda como si fuera una persona con un perfil determinado. Estos encuestados sintéticos prometen rapidez y costes reducidos, pero sus respuestas son predicciones del modelo.",
+      "en": "Another approach changes the nature of the data by asking an LLM to respond as if it were a person with a particular profile. These synthetic respondents promise speed and lower costs. Their answers are model predictions.",
+      "es": "Existe, además, una línea que cambia la naturaleza del dato: pedir a un LLM que responda como si fuera una persona con un perfil determinado. Estos encuestados sintéticos prometen rapidez y costes reducidos, pero sus respuestas son predicciones del modelo.",
+      "reviewed": false
+    },
+    {
+      "source": "Pew publicó en septiembre de 2026 un experimento con «gemelos digitales» de participantes reales de su American Trends Panel. En tres olas replicadas con Claude Opus 4.6, el error absoluto medio de las distribuciones de respuestas fue de 12,4 puntos porcentuales. La cifra compara encuestas humanas y sintéticas sobre diferentes asuntos; no es un error de predicción del voto. El centro concluyó que estos modelos no constituían un sustituto adecuado de las encuestas de opinión pública evaluadas.",
+      "en": "In September 2026, Pew published an experiment using “digital twins” of real participants in its American Trends Panel. Across three survey waves replicated with Claude Opus 4.6, the mean absolute error of the response distributions was 12.4 percentage points. This figure compares human and synthetic surveys on different topics and does not measure error in predicting the vote. Pew concluded that these models were an inadequate substitute for the public opinion surveys evaluated.",
+      "es": "Pew publicó en septiembre de 2026 un experimento con «gemelos digitales» de participantes reales de su American Trends Panel. En tres olas replicadas con Claude Opus 4.6, el error absoluto medio de las distribuciones de respuestas fue de 12,4 puntos porcentuales. La cifra compara encuestas humanas y sintéticas sobre diferentes asuntos; no es un error de predicción del voto. El centro concluyó que estos modelos no constituían un sustituto adecuado de las encuestas de opinión pública evaluadas.",
+      "reviewed": false
+    },
+    {
+      "source": "La separación con los usos anteriores es fundamental. Codificar una respuesta conserva una observación de una persona, aunque pueda interpretarla mal. Generar esa respuesta reemplaza la observación por una inferencia. No son intercambiables sus requisitos de validación.",
+      "en": "Coding a response preserves a person's observation, although the coder can misinterpret it. Generating a response replaces that observation with an inference. Each use requires its own validation.",
+      "es": "La separación con los usos anteriores es fundamental. Codificar una respuesta conserva una observación de una persona, aunque pueda interpretarla mal. Generar esa respuesta reemplaza la observación por una inferencia. No son intercambiables sus requisitos de validación.",
+      "reviewed": false
+    },
+    {
+      "source": "La aportación más concreta de la IA está en hacer manejable el trabajo que rodea a la medición: convertir texto en categorías, explorar perfiles, aportar predicciones auxiliares o priorizar controles de calidad. Hay herramientas disponibles y aplicaciones documentadas; otras, como ciertas entrevistas automatizadas, siguen contrastándose con métodos establecidos.",
+      "en": "AI's clearest contribution is in making the work around measurement easier to manage. It can turn text into categories, explore profiles, supply auxiliary predictions, or prioritise quality checks. Some tools are available and some applications are documented. Others, such as certain automated interviews, are still being compared with established methods.",
+      "es": "La aportación más concreta de la IA está en hacer manejable el trabajo que rodea a la medición: convertir texto en categorías, explorar perfiles, aportar predicciones auxiliares o priorizar controles de calidad. Hay herramientas disponibles y aplicaciones documentadas; otras, como ciertas entrevistas automatizadas, siguen contrastándose con métodos establecidos.",
+      "reviewed": false
+    },
+    {
+      "source": "El criterio para incorporarlas debería ser qué tarea mejoran y cómo se ha comprobado. Una etiqueta necesita validación; una ponderación, supuestos defendibles; un detector, conocer sus falsos positivos. Ninguno resuelve por separado los problemas de cobertura, participación o formulación de preguntas.",
+      "en": "The case for adopting these tools depends on the task they improve and how that improvement was verified. Labels need validation, weighting needs defensible assumptions, and a detector needs a known false-positive rate. Each technique addresses only part of the problems of coverage, participation, or question wording.",
+      "es": "El criterio para incorporarlas debería ser qué tarea mejoran y cómo se ha comprobado. Una etiqueta necesita validación; una ponderación, supuestos defendibles; un detector, conocer sus falsos positivos. Ninguno resuelve por separado los problemas de cobertura, participación o formulación de preguntas.",
+      "reviewed": false
+    },
+    {
+      "source": "La IA está cambiando cómo se prepara y analiza una encuesta. Su valor aparece cuando deja más tiempo para entender a las personas y permite examinar mejor lo que han dicho. La necesidad de medirlas correctamente sigue siendo el centro del trabajo.",
+      "en": "AI is changing how surveys are prepared and analysed. Its value comes from creating more time to understand people and allowing closer examination of what they said. Measuring their views accurately remains the central task.",
+      "es": "La IA está cambiando cómo se prepara y analiza una encuesta. Su valor aparece cuando deja más tiempo para entender a las personas y permite examinar mejor lo que han dicho. La necesidad de medirlas correctamente sigue siendo el centro del trabajo.",
+      "reviewed": false
+    },
+    {
+      "source": "Fuentes consultadas hasta el 16 de noviembre de 2026. Las páginas de producto sin fecha describen funcionalidades disponibles en el momento de la consulta.",
+      "en": "Sources consulted through November 16, 2026. Undated product pages describe features available at the time of consultation.",
+      "es": "Fuentes consultadas hasta el 16 de noviembre de 2026. Las páginas de producto sin fecha describen funcionalidades disponibles en el momento de la consulta.",
+      "reviewed": false
+    },
+    {
+      "source": "AAPOR (mayo de 2026). Responsible AI Integration in Survey Research.",
+      "en": "AAPOR (May 2026). Responsible AI Integration in Survey Research.",
+      "es": "AAPOR (mayo de 2026). Responsible AI Integration in Survey Research.",
+      "reviewed": false
+    },
+    {
+      "source": "SurveyMonkey. Funcionalidades de IA y documentación de Build with AI.",
+      "en": "SurveyMonkey. AI features and Build with AI documentation.",
+      "es": "SurveyMonkey. Funcionalidades de IA y documentación de Build with AI.",
+      "reviewed": false
+    },
+    {
+      "source": "Detalle técnico de Build with AI.",
+      "en": "Technical details of Build with AI.",
+      "es": "Detalle técnico de Build with AI.",
+      "reviewed": false
+    },
+    {
+      "source": "Qualtrics. Documentación de Conversational Feedback.",
+      "en": "Qualtrics. Conversational Feedback documentation.",
+      "es": "Qualtrics. Documentación de Conversational Feedback.",
+      "reviewed": false
+    },
+    {
+      "source": "Jenny Marlar y Mitchell Leon \u00b7 Gallup (26 de febrero de 2026). Gallup Launches Research on AI Phone Interviewing.",
+      "en": "Jenny Marlar and Mitchell Leon, Gallup (February 26, 2026). Gallup Launches Research on AI Phone Interviewing.",
+      "es": "Jenny Marlar y Mitchell Leon , Gallup (26 de febrero de 2026). Gallup Launches Research on AI Phone Interviewing.",
+      "reviewed": false
+    },
+    {
+      "source": "Jonathan Mellon et al. (2024). Do AIs know what the most important issue is? Research & Politics, 11(1).",
+      "en": "Jonathan Mellon et al. (2024). Do AIs know what the most important issue is? Research & Politics, 11(1).",
+      "es": "Jonathan Mellon et al. (2024). Do AIs know what the most important issue is? Research & Politics, 11(1).",
+      "reviewed": false
+    },
+    {
+      "source": "Pew Research Center (14 de octubre de 2026). Online communities: metodología y clasificación de respuestas abiertas.",
+      "en": "Pew Research Center (October 14, 2026). Online communities: methodology and classification of open-ended responses.",
+      "es": "Pew Research Center (14 de octubre de 2026). Online communities: metodología y clasificación de respuestas abiertas.",
+      "reviewed": false
+    },
+    {
+      "source": "Rajiv Movva, Kenny Peng, Nikhil Garg, Jon Kleinberg y Emma Pierson (2025). Sparse Autoencoders for Hypothesis Generation. ICML 2025.",
+      "en": "Rajiv Movva, Kenny Peng, Nikhil Garg, Jon Kleinberg, and Emma Pierson (2025). Sparse Autoencoders for Hypothesis Generation. ICML 2025.",
+      "es": "Rajiv Movva, Kenny Peng, Nikhil Garg, Jon Kleinberg y Emma Pierson (2025). Sparse Autoencoders for Hypothesis Generation. ICML 2025.",
+      "reviewed": false
+    },
+    {
+      "source": "Langer Research Associates. A Pilot Test of AI Coding of Open-Ended Survey Responses. Piloto realizado en verano de 2025.",
+      "en": "Langer Research Associates. A Pilot Test of AI Coding of Open-Ended Survey Responses. Pilot conducted in summer 2025.",
+      "es": "Langer Research Associates. A Pilot Test of AI Coding of Open-Ended Survey Responses. Piloto realizado en verano de 2025.",
+      "reviewed": false
+    },
+    {
+      "source": "Pew Research Center (9 de noviembre de 2021). Political typology: Appendix B, clustering e imputación.",
+      "en": "Pew Research Center (November 9, 2021). Political typology: Appendix B, clustering and imputation.",
+      "es": "Pew Research Center (9 de noviembre de 2021). Political typology: Appendix B, clustering e imputación.",
+      "reviewed": false
+    },
+    {
+      "source": "Andrew Mercer, Arnold Lau y Courtney Kennedy \u00b7 Pew (26 de enero de 2018). How different weighting methods work.",
+      "en": "Andrew Mercer, Arnold Lau, and Courtney Kennedy, Pew (January 26, 2018). How different weighting methods work.",
+      "es": "Andrew Mercer, Arnold Lau y Courtney Kennedy , Pew (26 de enero de 2018). How different weighting methods work.",
+      "reviewed": false
+    },
+    {
+      "source": "Anthony Wells \u00b7 YouGov (10 de marzo de 2026). How YouGov conducts voting intention polling.",
+      "en": "Anthony Wells, YouGov (March 10, 2026). How YouGov conducts voting intention polling.",
+      "es": "Anthony Wells , YouGov (10 de marzo de 2026). How YouGov conducts voting intention polling.",
+      "reviewed": false
+    },
+    {
+      "source": "Gideon Skinner \u00b7 Ipsos (actualización: junio de 2024). Ipsos political polling methodology.",
+      "en": "Gideon Skinner, Ipsos (updated June 2024). Ipsos political polling methodology.",
+      "es": "Gideon Skinner , Ipsos (actualización: junio de 2024). Ipsos political polling methodology.",
+      "reviewed": false
+    },
+    {
+      "source": "SSRS. Political & Election Polling: muestreo, predicción de afiliación partidista y ajustes.",
+      "en": "SSRS. Political & Election Polling: sampling, party affiliation prediction, and adjustments.",
+      "es": "SSRS. Political & Election Polling: muestreo, predicción de afiliación partidista y ajustes.",
+      "reviewed": false
+    },
+    {
+      "source": "Qualtrics. Documentación de Fraud Detection.",
+      "en": "Qualtrics. Fraud Detection documentation.",
+      "es": "Qualtrics. Documentación de Fraud Detection.",
+      "reviewed": false
+    },
+    {
+      "source": "Mickey Jackson \u00b7 SSRS (20 de junio de 2026). Leveraging Parallel Probability Samples to Detect Poor Data Quality in Opt-in Samples.",
+      "en": "Mickey Jackson, SSRS (June 20, 2026). Leveraging Parallel Probability Samples to Detect Poor Data Quality in Opt-in Samples.",
+      "es": "Mickey Jackson , SSRS (20 de junio de 2026). Leveraging Parallel Probability Samples to Detect Poor Data Quality in Opt-in Samples.",
+      "reviewed": false
+    },
+    {
+      "source": "Sean J. Westwood (20 de noviembre de 2025). The potential existential threat of large language models to online survey research. PNAS, 122(47).",
+      "en": "Sean J. Westwood (November 20, 2025). The potential existential threat of large language models to online survey research. PNAS, 122(47).",
+      "es": "Sean J. Westwood (20 de noviembre de 2025). The potential existential threat of large language models to online survey research. PNAS, 122(47).",
+      "reviewed": false
+    },
+    {
+      "source": "Athena Chapekis et al. \u00b7 Pew Research Center (30 de septiembre de 2026). Can AI Stand In for Human Survey-Takers? Not Really.",
+      "en": "Athena Chapekis et al., Pew Research Center (September 30, 2026). Can AI Stand In for Human Survey-Takers? Not Really.",
+      "es": "Athena Chapekis et al. , Pew Research Center (30 de septiembre de 2026). Can AI Stand In for Human Survey-Takers? Not Really.",
+      "reviewed": false
+    },
+    {
+      "source": "Encuestas electorales",
+      "en": "Election polling",
+      "es": "Encuestas electorales",
+      "reviewed": false
+    },
+    {
+      "source": "Demoscopia",
+      "en": "Survey research",
+      "es": "Demoscopia",
+      "reviewed": false
+    }
+  ]
+}
